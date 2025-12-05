@@ -32,7 +32,7 @@ A curated collection of AI prompts for thumbnails, videos, illustrations, and mo
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/awesomeprompts.git
+git clone https://github.com/samuxbuilds/awesomeprompts.git
 cd awesomeprompts
 
 # Install dependencies
@@ -95,7 +95,7 @@ bun run preview
 title: "Your Prompt Title"
 category: "thumbnails"
 tags: ["tag1", "tag2", "tag3"]
-author: "@yourusername"
+author: "@samuxbuilds"
 ---
 
 Your prompt content goes here...
@@ -167,4 +167,4 @@ This project is licensed under the MIT License - see the [LICENSE](./LICENSE) fi
 
 ---
 
-**[Submit a Prompt](https://github.com/yourusername/awesomeprompts/issues/new?template=new-prompt.md)** | **[Report an Issue](https://github.com/yourusername/awesomeprompts/issues)**
+**[Submit a Prompt](https://github.com/samuxbuilds/awesome-prompts/issues/new?template=new-prompt.md)** | **[Report an Issue](https://github.com/samuxbuilds/awesome-prompts/issues)**
