@@ -1,0 +1,18 @@
+---
+title: "Kawaii Enamel Pin"
+category: icons
+tags: ["kawaii", "ai-art"]
+author: "@gnrlyxyz"
+preview: "/images/icons/kawaii-enamel-pin.png"
+---
+
+Turn the subject in the attached image into a kawaii enamel pin. Use glossy metal outlines and vibrant enamel fill. No extra added features. Square mockup format. White background.
+
+## Reference Image
+Needs a photo of a person or object as the subject for transformation.
+
+## Source
+- [Original Post](https://x.com/gnrlyxyz/status/1914303110853583302)
+
+## Example Output
+![Kawaii Enamel Pin](/images/icons/kawaii-enamel-pin.png)

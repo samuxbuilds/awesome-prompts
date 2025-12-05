@@ -1,0 +1,289 @@
+---
+import Layout from '../layouts/Layout.astro';
+import { readFile } from 'fs/promises';
+import { join } from 'path';
+
+// Read master index for tag cloud
+let masterIndex: any = { tags: [], total: 0 };
+try {
+  const data = await readFile(join(process.cwd(), 'public', 'data', 'index.json'), 'utf-8');
+  masterIndex = JSON.parse(data);
+} catch (e) {
+  console.log('No index found');
+}
+
+// Only show top 100 tags in the cloud to keep page size reasonable
+const topTags = masterIndex.tags.slice(0, 100);
+---
+
+<Layout title="Browse Tags - AwesomePrompts">
+  <div class="max-w-4xl mx-auto">
+    <header class="mb-8">
+      <h1 class="text-3xl font-bold text-gray-900 dark:text-gray-100 mb-2">
+        Browse by Tags
+      </h1>
+      <p class="text-gray-600 dark:text-gray-400">
+        {masterIndex.tags.length} unique tags across {masterIndex.total.toLocaleString()} prompts
+      </p>
+    </header>
+
+    <!-- Tag Cloud -->
+    <div class="bg-white dark:bg-gray-800 rounded-xl neu-border neu-shadow p-6 mb-8">
+      <div class="flex justify-between items-center mb-4">
+        <h2 class="text-lg font-semibold text-gray-900 dark:text-gray-100">
+          {topTags.length < masterIndex.tags.length ? `Top ${topTags.length} Tags` : 'All Tags'}
+        </h2>
+        {topTags.length < masterIndex.tags.length && (
+          <span class="text-sm text-gray-500 dark:text-gray-400">
+            Use search for more tags
+          </span>
+        )}
+      </div>
+      <div class="flex flex-wrap gap-2 max-h-[400px] overflow-y-auto pr-2 custom-scrollbar">
+        {topTags.map((tag: { name: string; count: number }) => (
+          <button 
+            class="tag-button px-3 py-1 rounded-full text-sm font-bold bg-gray-100 dark:bg-gray-700 text-gray-700 dark:text-gray-300 hover:bg-purple-100 hover:text-purple-800 dark:hover:bg-purple-900 dark:hover:text-purple-200 transition-all cursor-pointer neu-border"
+            data-tag={tag.name}
+          >
+            #{tag.name}
+            <span class="ml-1 text-gray-500 dark:text-gray-400">({tag.count})</span>
+          </button>
+        ))}
+      </div>
+    </div>
+
+    <!-- Loading State -->
+    <div id="loading" class="hidden text-center py-8">
+      <div class="inline-block animate-spin rounded-full h-8 w-8 border-4 border-purple-600 border-t-transparent"></div>
+    </div>
+
+    <!-- Selected Tag Results -->
+    <div id="tag-results" class="hidden">
+      <div class="flex items-center justify-between mb-4 flex-wrap gap-2">
+        <h2 class="text-xl font-semibold text-gray-900 dark:text-gray-100">
+          Prompts tagged with <span id="selected-tag" class="text-purple-600 dark:text-purple-400"></span>
+        </h2>
+        <button id="clear-tag" class="text-sm text-gray-500 dark:text-gray-400 hover:text-purple-600 dark:hover:text-purple-400">
+          Clear filter
+        </button>
+      </div>
+      
+      <!-- Pagination -->
+      <div class="flex justify-between items-center mb-4 flex-wrap gap-2">
+        <p id="tag-results-count" class="text-gray-600 dark:text-gray-400"></p>
+        <div class="flex gap-2 items-center">
+          <button id="tag-prev" class="px-3 py-1 bg-gray-200 dark:bg-gray-700 text-gray-700 dark:text-gray-300 rounded font-bold neu-border disabled:opacity-50 disabled:cursor-not-allowed" disabled>
+            ← Prev
+          </button>
+          <span id="tag-page-info" class="px-3 py-1 text-gray-600 dark:text-gray-400 min-w-[80px] text-center"></span>
+          <button id="tag-next" class="px-3 py-1 bg-gray-200 dark:bg-gray-700 text-gray-700 dark:text-gray-300 rounded font-bold neu-border disabled:opacity-50 disabled:cursor-not-allowed" disabled>
+            Next →
+          </button>
+        </div>
+      </div>
+      
+      <div id="tag-prompts" class="grid grid-cols-1 md:grid-cols-2 gap-4"></div>
+    </div>
+
+    <!-- Default View -->
+    <div id="default-view">
+      <h2 class="text-xl font-semibold text-gray-900 dark:text-gray-100 mb-4">
+        Click a tag above to see prompts
+      </h2>
+      <p class="text-gray-500 dark:text-gray-400">
+        Or use the <a href="/search" class="text-purple-600 dark:text-purple-400 hover:underline">search page</a> to find prompts by keyword.
+      </p>
+    </div>
+  </div>
+</Layout>
+
+<script>
+  interface PromptMeta {
+    id: string;
+    slug: string;
+    title: string;
+    category: string;
+    tags: string[];
+    author: string;
+    preview?: string;
+  }
+
+  interface TagMeta {
+    name: string;
+    total: number;
+    totalPages: number;
+    perPage: number;
+  }
+
+  let currentTag = '';
+  let currentPage = 1;
+  let tagMeta: TagMeta | null = null;
+
+  const tagButtons = document.querySelectorAll('.tag-button');
+  const tagResults = document.getElementById('tag-results')!;
+  const tagPromptsDiv = document.getElementById('tag-prompts')!;
+  const selectedTagSpan = document.getElementById('selected-tag')!;
+  const clearTagBtn = document.getElementById('clear-tag')!;
+  const defaultView = document.getElementById('default-view')!;
+  const tagResultsCount = document.getElementById('tag-results-count')!;
+  const tagPageInfo = document.getElementById('tag-page-info')!;
+  const tagPrevBtn = document.getElementById('tag-prev') as HTMLButtonElement;
+  const tagNextBtn = document.getElementById('tag-next') as HTMLButtonElement;
+  const loading = document.getElementById('loading')!;
+
+  function getSafeTagName(tag: string): string {
+    return tag.replace(/[^a-z0-9-]/gi, '_').toLowerCase();
+  }
+
+  async function loadTagPage(tag: string, page: number) {
+    const safeTag = getSafeTagName(tag);
+    loading.classList.remove('hidden');
+    
+    try {
+      // Load tag metadata if not cached
+      if (!tagMeta || currentTag !== tag) {
+        const metaResponse = await fetch(`/data/tags/${safeTag}/meta.json`);
+        tagMeta = await metaResponse.json();
+        currentTag = tag;
+      }
+      
+      // Load page data
+      const response = await fetch(`/data/tags/${safeTag}/${page}.json`);
+      const prompts: PromptMeta[] = await response.json();
+      
+      currentPage = page;
+      renderTagPage(prompts);
+      updateURL(tag, page);
+    } catch (e) {
+      console.error('Failed to load tag:', e);
+      tagPromptsDiv.innerHTML = '<p class="text-red-500">Failed to load prompts for this tag.</p>';
+    } finally {
+      loading.classList.add('hidden');
+    }
+  }
+
+  function renderTagPage(prompts: PromptMeta[]) {
+    if (!tagMeta) return;
+    
+    selectedTagSpan.textContent = `#${tagMeta.name}`;
+    tagResultsCount.textContent = `${tagMeta.total.toLocaleString()} prompt${tagMeta.total !== 1 ? 's' : ''}`;
+    tagPageInfo.textContent = `${currentPage} / ${tagMeta.totalPages}`;
+
+    tagPrevBtn.disabled = currentPage <= 1;
+    tagNextBtn.disabled = currentPage >= tagMeta.totalPages;
+
+    tagPromptsDiv.innerHTML = prompts.map(prompt => `
+      <a 
+        href="/prompt/${prompt.category}/${prompt.slug}"
+        class="block bg-white dark:bg-gray-800 rounded-xl neu-border neu-shadow overflow-hidden transition-all neu-shadow-hover"
+      >
+        ${prompt.preview ? `
+          <div class="aspect-video w-full overflow-hidden border-b border-gray-200 dark:border-gray-700">
+            <img 
+              src="${prompt.preview}" 
+              alt="${prompt.title}" 
+              class="w-full h-full object-cover transform hover:scale-105 transition-transform duration-300"
+              loading="lazy"
+            />
+          </div>
+        ` : ''}
+        <div class="p-4">
+          <div class="flex items-start justify-between mb-2">
+            <span class="inline-block px-2 py-1 rounded-full text-xs font-medium bg-purple-100 text-purple-800 dark:bg-purple-900 dark:text-purple-200">
+              ${prompt.category}
+            </span>
+          </div>
+          <h3 class="font-semibold text-gray-900 dark:text-gray-100 mb-2">${prompt.title}</h3>
+          <div class="flex flex-wrap gap-1">
+            ${prompt.tags.slice(0, 3).map(t => `<span class="text-xs text-gray-500 dark:text-gray-400">#${t}</span>`).join('')}
+          </div>
+        </div>
+      </a>
+    `).join('');
+
+    tagResults.classList.remove('hidden');
+    defaultView.classList.add('hidden');
+  }
+
+  function updateURL(tag: string, page: number) {
+    const url = new URL(window.location.href);
+    url.searchParams.set('tag', tag);
+    if (page > 1) {
+      url.searchParams.set('page', page.toString());
+    } else {
+      url.searchParams.delete('page');
+    }
+    window.history.replaceState({}, '', url.toString());
+  }
+
+  function clearFilter() {
+    tagResults.classList.add('hidden');
+    defaultView.classList.remove('hidden');
+    currentTag = '';
+    tagMeta = null;
+    window.history.replaceState({}, '', '/tags');
+  }
+
+  // Event listeners
+  tagButtons.forEach(btn => {
+    btn.addEventListener('click', () => {
+      const tag = btn.getAttribute('data-tag');
+      if (tag) {
+        currentPage = 1;
+        loadTagPage(tag, 1);
+      }
+    });
+  });
+
+  clearTagBtn?.addEventListener('click', clearFilter);
+
+  tagPrevBtn?.addEventListener('click', () => {
+    if (currentPage > 1 && currentTag) {
+      loadTagPage(currentTag, currentPage - 1);
+    }
+  });
+
+  tagNextBtn?.addEventListener('click', () => {
+    if (tagMeta && currentPage < tagMeta.totalPages && currentTag) {
+      loadTagPage(currentTag, currentPage + 1);
+    }
+  });
+
+  // Check URL for initial tag
+  const urlParams = new URLSearchParams(window.location.search);
+  const initialTag = urlParams.get('tag');
+  const initialPage = parseInt(urlParams.get('page') || '1');
+  if (initialTag) {
+    loadTagPage(initialTag, initialPage);
+  }
+</script>
+
+<style>
+  @keyframes spin {
+    to { transform: rotate(360deg); }
+  }
+  .animate-spin {
+    animation: spin 1s linear infinite;
+  }
+
+  /* Custom Scrollbar */
+  .custom-scrollbar::-webkit-scrollbar {
+    width: 8px;
+  }
+  .custom-scrollbar::-webkit-scrollbar-track {
+    background: transparent;
+  }
+  .custom-scrollbar::-webkit-scrollbar-thumb {
+    background-color: #cbd5e1;
+    border-radius: 4px;
+  }
+  .dark .custom-scrollbar::-webkit-scrollbar-thumb {
+    background-color: #4b5563;
+  }
+  .custom-scrollbar::-webkit-scrollbar-thumb:hover {
+    background-color: #94a3b8;
+  }
+  .dark .custom-scrollbar::-webkit-scrollbar-thumb:hover {
+    background-color: #6b7280;
+  }
+</style>

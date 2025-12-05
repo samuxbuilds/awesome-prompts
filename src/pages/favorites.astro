@@ -1,0 +1,191 @@
+---
+import Layout from '../layouts/Layout.astro';
+---
+
+<Layout title="My Favorites - AwesomePrompts">
+  <div class="max-w-4xl mx-auto">
+    <header class="mb-8">
+      <h1 class="text-3xl font-bold text-gray-900 dark:text-gray-100 mb-2">
+        My Favorites
+      </h1>
+      <p class="text-gray-600 dark:text-gray-400">
+        Your saved prompts are stored locally in your browser
+      </p>
+    </header>
+
+    <!-- Empty State -->
+    <div id="empty-state" class="hidden text-center py-16">
+      <svg class="w-16 h-16 mx-auto text-gray-300 dark:text-gray-600 mb-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M4.318 6.318a4.5 4.5 0 000 6.364L12 20.364l7.682-7.682a4.5 4.5 0 00-6.364-6.364L12 7.636l-1.318-1.318a4.5 4.5 0 00-6.364 0z" />
+      </svg>
+      <h2 class="text-xl font-semibold text-gray-900 dark:text-gray-100 mb-2">
+        No favorites yet
+      </h2>
+      <p class="text-gray-600 dark:text-gray-400 mb-6">
+        Start exploring and save prompts you love!
+      </p>
+      <a 
+        href="/"
+        class="inline-flex items-center gap-2 px-4 py-2 bg-purple-600 hover:bg-purple-700 text-white rounded-lg font-bold neu-border neu-shadow transition-all neu-shadow-hover"
+      >
+        Browse Prompts
+      </a>
+    </div>
+
+    <!-- Favorites List -->
+    <div id="favorites-list" class="space-y-4">
+      <!-- Populated by JavaScript -->
+    </div>
+
+    <!-- Clear All Button -->
+    <div id="clear-section" class="hidden mt-8 pt-8 border-t border-gray-200 dark:border-gray-700">
+      <button 
+        id="clear-all-btn"
+        class="text-red-600 dark:text-red-400 hover:text-red-700 dark:hover:text-red-300 text-sm transition-colors"
+      >
+        Clear all favorites
+      </button>
+    </div>
+  </div>
+</Layout>
+
+<script is:inline>
+  (function() {
+    const emptyState = document.getElementById('empty-state');
+    const favoritesList = document.getElementById('favorites-list');
+    const clearSection = document.getElementById('clear-section');
+    const clearAllBtn = document.getElementById('clear-all-btn');
+
+    function getFavorites() {
+      try {
+        return JSON.parse(localStorage.getItem('awesomeprompts_favorites') || '[]');
+      } catch {
+        return [];
+      }
+    }
+
+    function saveFavorites(favorites) {
+      localStorage.setItem('awesomeprompts_favorites', JSON.stringify(favorites));
+    }
+
+    function formatDate(dateString) {
+      const date = new Date(dateString);
+      return date.toLocaleDateString('en-US', { 
+        month: 'short', 
+        day: 'numeric', 
+        year: 'numeric' 
+      });
+    }
+
+    function formatCategory(category) {
+      if (category.includes('/')) {
+        return category.split('/').map(s => s.charAt(0).toUpperCase() + s.slice(1)).join(' / ');
+      }
+      return category.charAt(0).toUpperCase() + category.slice(1);
+    }
+
+    function removeFavorite(id) {
+      const favorites = getFavorites();
+      const updated = favorites.filter(f => f.id !== id);
+      saveFavorites(updated);
+      render();
+    }
+
+    function clearAll() {
+      if (confirm('Are you sure you want to remove all favorites?')) {
+        saveFavorites([]);
+        render();
+      }
+    }
+
+    function render() {
+      const favorites = getFavorites();
+
+      if (favorites.length === 0) {
+        emptyState.classList.remove('hidden');
+        favoritesList.classList.add('hidden');
+        clearSection.classList.add('hidden');
+        return;
+      }
+
+      emptyState.classList.add('hidden');
+      favoritesList.classList.remove('hidden');
+      clearSection.classList.remove('hidden');
+
+      // Sort by savedAt (newest first)
+      favorites.sort((a, b) => new Date(b.savedAt) - new Date(a.savedAt));
+
+      favoritesList.innerHTML = favorites.map(fav => `
+        <div class="bg-white dark:bg-gray-800 rounded-xl neu-border neu-shadow overflow-hidden flex flex-col sm:flex-row transition-all neu-shadow-hover">
+          ${fav.preview ? `
+            <div class="sm:w-32 h-32 sm:h-auto flex-shrink-0 border-b sm:border-b-0 sm:border-r border-gray-200 dark:border-gray-700">
+              <img 
+                src="${fav.preview}" 
+                alt="${fav.title}" 
+                class="w-full h-full object-cover"
+                loading="lazy"
+              />
+            </div>
+          ` : ''}
+          <div class="p-4 flex-1 flex flex-col sm:flex-row items-start sm:items-center justify-between gap-4">
+            <a href="/prompt/${fav.category}/${fav.slug}" class="flex-1 min-w-0 w-full">
+              <h3 class="font-semibold text-gray-900 dark:text-gray-100 truncate hover:text-purple-600 dark:hover:text-purple-400 transition-colors mb-2 sm:mb-0">
+                ${fav.title}
+              </h3>
+              <div class="flex flex-wrap items-center gap-3 mt-1 text-sm text-gray-500 dark:text-gray-400">
+                <span class="inline-flex items-center gap-1">
+                  <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3 7v10a2 2 0 002 2h14a2 2 0 002-2V9a2 2 0 00-2-2h-6l-2-2H5a2 2 0 00-2 2z" />
+                  </svg>
+                  ${formatCategory(fav.category)}
+                </span>
+                <span class="inline-flex items-center gap-1">
+                  <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M8 7V3m8 4V3m-9 8h10M5 21h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v12a2 2 0 002 2z" />
+                  </svg>
+                  Saved ${formatDate(fav.savedAt)}
+                </span>
+              </div>
+            </a>
+            <button 
+              class="remove-btn p-2 text-gray-400 hover:text-red-600 dark:hover:text-red-400 transition-colors self-end sm:self-center"
+              data-id="${fav.id}"
+              aria-label="Remove from favorites"
+            >
+              <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 7l-.867 12.142A2 2 0 0116.138 21H7.862a2 2 0 01-1.995-1.858L5 7m5 4v6m4-6v6m1-10V4a1 1 0 00-1-1h-4a1 1 0 00-1 1v3M4 7h16" />
+              </svg>
+            </button>
+          </div>
+        </div>
+      `).join('');
+
+      // Attach remove handlers
+      document.querySelectorAll('.remove-btn').forEach(btn => {
+        btn.addEventListener('click', () => {
+          removeFavorite(btn.dataset.id);
+        });
+      });
+    }
+
+    // Initialize
+    render();
+
+    // Clear all handler
+    clearAllBtn?.addEventListener('click', clearAll);
+  })();
+</script>
+
+<style>
+  .truncate {
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+  }
+  .min-w-0 {
+    min-width: 0;
+  }
+  .hover\:shadow-md:hover {
+    box-shadow: 0 4px 6px -1px rgb(0 0 0 / 0.1), 0 2px 4px -2px rgb(0 0 0 / 0.1);
+  }
+</style>

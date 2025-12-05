@@ -1,0 +1,36 @@
+{
+  "name": "awesomeprompts",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "A curated collection of AI prompts for thumbnails, videos, illustrations, and more",
+  "author": "AwesomePrompts Community",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/samux/awesomeprompts"
+  },
+  "homepage": "https://awesomeprompts.xyz",
+  "scripts": {
+    "predev": "bun scripts/buildIndex.ts",
+    "dev": "astro dev",
+    "prebuild": "bun scripts/buildIndex.ts --production",
+    "build": "astro build && pagefind --site dist && cp -r dist/pagefind public/",
+    "postbuild": "echo 'Build complete! Pagefind index generated.'",
+    "preview": "astro preview",
+    "dev:search": "bun scripts/buildIndex.ts && astro build && pagefind --site dist && cp -r dist/pagefind public/ && astro dev",
+    "astro": "astro"
+  },
+  "dependencies": {
+    "@astrojs/sitemap": "^3.2.0",
+    "@astrojs/tailwind": "^6.0.2",
+    "astro": "^4.16.0",
+    "tailwindcss": "^3.4.18"
+  },
+  "devDependencies": {
+    "@pagefind/default-ui": "^1.4.0",
+    "@types/bun": "latest",
+    "gray-matter": "^4.0.3",
+    "marked": "^14.0.0",
+    "pagefind": "^1.4.0"
+  }
+}

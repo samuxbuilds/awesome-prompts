@@ -1,0 +1,73 @@
+---
+import { marked } from 'marked';
+
+interface Props {
+  title: string;
+  category: string;
+  tags: string[];
+  slug: string;
+  preview?: string;
+  excerpt?: string;
+}
+
+const { title, category, tags, slug, preview, excerpt } = Astro.props;
+
+const categoryColors: Record<string, string> = {
+  thumbnails: 'bg-blue-100 text-blue-800 dark:bg-blue-900 dark:text-blue-200',
+  videos: 'bg-red-100 text-red-800 dark:bg-red-900 dark:text-red-200',
+  illustrations: 'bg-green-100 text-green-800 dark:bg-green-900 dark:text-green-200',
+  arts: 'bg-purple-100 text-purple-800 dark:bg-purple-900 dark:text-purple-200',
+  '3d': 'bg-orange-100 text-orange-800 dark:bg-orange-900 dark:text-orange-200',
+  icons: 'bg-cyan-100 text-cyan-800 dark:bg-cyan-900 dark:text-cyan-200',
+  people: 'bg-amber-100 text-amber-800 dark:bg-amber-900 dark:text-amber-200',
+};
+
+const colorClass = categoryColors[category] || 'bg-gray-100 text-gray-800 dark:bg-gray-700 dark:text-gray-200';
+---
+
+<a 
+  href={`/prompt/${category}/${slug}`}
+  class="masonry-card block bg-white dark:bg-gray-800 rounded-xl neu-border neu-shadow overflow-hidden transition-all neu-shadow-hover break-inside-avoid mb-4"
+>
+  {preview && (
+    <div class="w-full overflow-hidden">
+      <img 
+        src={preview} 
+        alt={title} 
+        class="w-full h-auto"
+        loading="lazy"
+      />
+    </div>
+  )}
+  
+  <div class="p-4">
+    <div class="flex items-start justify-between mb-2">
+      <span class={`inline-block px-2 py-0.5 rounded-full text-xs font-medium ${colorClass}`}>
+        {category}
+      </span>
+    </div>
+    
+    <h3 class="text-base font-semibold text-gray-900 dark:text-gray-100 mb-1 line-clamp-2">
+      {title}
+    </h3>
+    
+    <div class="flex flex-wrap gap-1 mt-2">
+      {tags.slice(0, 2).map((tag) => (
+        <span class="text-xs text-gray-500 dark:text-gray-400">
+          #{tag}
+        </span>
+      ))}
+    </div>
+  </div>
+</a>
+
+<style>
+  .masonry-card:hover img {
+    transform: scale(1.02);
+    transition: transform 0.3s ease;
+  }
+  
+  .masonry-card img {
+    transition: transform 0.3s ease;
+  }
+</style>

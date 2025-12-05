@@ -1,0 +1,75 @@
+---
+import { marked } from 'marked';
+
+interface Props {
+  title: string;
+  category: string;
+  tags: string[];
+  slug: string;
+  preview?: string;
+  excerpt?: string;
+}
+
+const { title, category, tags, slug, preview, excerpt } = Astro.props;
+
+const categoryColors: Record<string, string> = {
+  thumbnails: 'bg-blue-100 text-blue-800 dark:bg-blue-900 dark:text-blue-200',
+  videos: 'bg-red-100 text-red-800 dark:bg-red-900 dark:text-red-200',
+  illustrations: 'bg-green-100 text-green-800 dark:bg-green-900 dark:text-green-200',
+  arts: 'bg-purple-100 text-purple-800 dark:bg-purple-900 dark:text-purple-200',
+  'people/woman': 'bg-pink-100 text-pink-800 dark:bg-pink-900 dark:text-pink-200',
+  'people/man': 'bg-indigo-100 text-indigo-800 dark:bg-indigo-900 dark:text-indigo-200',
+  people: 'bg-amber-100 text-amber-800 dark:bg-amber-900 dark:text-amber-200',
+};
+
+const colorClass = categoryColors[category] || 'bg-gray-100 text-gray-800 dark:bg-gray-700 dark:text-gray-200';
+
+// Parse markdown to HTML and strip tags for plain text excerpt
+const excerptHtml = excerpt ? marked.parse(excerpt.slice(0, 300)) : '';
+---
+
+<a 
+  href={`/prompt/${category}/${slug}`}
+  class="card-link block bg-white dark:bg-gray-800 rounded-xl neu-border neu-shadow overflow-hidden transition-all neu-shadow-hover h-full flex flex-col max-h-[400px]"
+>
+  {preview && (
+    <div class="aspect-video w-full overflow-hidden border-b border-gray-200 dark:border-gray-700 flex-shrink-0 bg-gray-100 dark:bg-gray-900">
+      <img 
+        src={preview} 
+        alt={title} 
+        class="w-full h-full object-contain"
+        loading="lazy"
+      />
+    </div>
+  )}
+  
+  <div class="p-6 flex flex-col flex-grow overflow-hidden">
+    <div class="flex items-start justify-between mb-3 flex-shrink-0">
+      <span class={`inline-block px-3 py-1 rounded-full text-sm font-medium ${colorClass}`}>
+        {category}
+      </span>
+    </div>
+    
+    <h3 class="text-lg font-semibold text-gray-900 dark:text-gray-100 mb-2 flex-shrink-0">
+      {title}
+    </h3>
+    
+    {excerptHtml && (
+      <div class="text-sm text-gray-600 dark:text-gray-400 mb-3 overflow-hidden flex-grow prose prose-sm dark:prose-invert max-w-none [&>*]:my-1 [&_ul]:pl-4 [&_ol]:pl-4" set:html={excerptHtml} />
+    )}
+    
+    <div class="flex flex-wrap gap-2 flex-shrink-0 mt-auto">
+      {tags.slice(0, 3).map((tag) => (
+        <span class="text-sm text-gray-500 dark:text-gray-400">
+          #{tag}
+        </span>
+      ))}
+      {tags.length > 3 && (
+        <span class="text-sm text-gray-400 dark:text-gray-500">
+          +{tags.length - 3} more
+        </span>
+      )}
+    </div>
+  </div>
+</a>
+

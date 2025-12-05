@@ -1,0 +1,109 @@
+---
+interface Props {
+  promptId: string;
+  promptTitle: string;
+  promptCategory: string;
+  promptSlug: string;
+  promptPreview?: string;
+}
+
+const { promptId, promptTitle, promptCategory, promptSlug, promptPreview } = Astro.props;
+---
+
+<button 
+  id="favorite-btn"
+  class="favorite-btn inline-flex items-center gap-2 px-4 py-2 bg-gray-100 dark:bg-gray-700 text-gray-700 dark:text-gray-300 rounded-lg hover:bg-red-100 dark:hover:bg-red-900 hover:text-red-600 dark:hover:text-red-400 transition-all neu-border neu-shadow neu-shadow-hover"
+  data-prompt-id={promptId}
+  data-prompt-title={promptTitle}
+  data-prompt-category={promptCategory}
+  data-prompt-slug={promptSlug}
+  data-prompt-preview={promptPreview}
+  aria-label="Add to favorites"
+>
+  <svg class="w-5 h-5 heart-outline" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4.318 6.318a4.5 4.5 0 000 6.364L12 20.364l7.682-7.682a4.5 4.5 0 00-6.364-6.364L12 7.636l-1.318-1.318a4.5 4.5 0 00-6.364 0z" />
+  </svg>
+  <svg class="w-5 h-5 heart-filled hidden" fill="currentColor" viewBox="0 0 20 20">
+    <path fill-rule="evenodd" d="M3.172 5.172a4 4 0 015.656 0L10 6.343l1.172-1.171a4 4 0 115.656 5.656L10 17.657l-6.828-6.829a4 4 0 010-5.656z" clip-rule="evenodd" />
+  </svg>
+  <span class="btn-text">Save</span>
+</button>
+
+<script is:inline>
+  (function() {
+    const btn = document.getElementById('favorite-btn');
+    if (!btn) return;
+
+    const promptId = btn.dataset.promptId;
+    const promptTitle = btn.dataset.promptTitle;
+    const promptCategory = btn.dataset.promptCategory;
+    const promptSlug = btn.dataset.promptSlug;
+    const promptPreview = btn.dataset.promptPreview;
+
+    function getFavorites() {
+      try {
+        return JSON.parse(localStorage.getItem('awesomeprompts_favorites') || '[]');
+      } catch {
+        return [];
+      }
+    }
+
+    function saveFavorites(favorites) {
+      localStorage.setItem('awesomeprompts_favorites', JSON.stringify(favorites));
+    }
+
+    function isFavorited() {
+      return getFavorites().some(f => f.id === promptId);
+    }
+
+    function updateUI(favorited) {
+      const heartOutline = btn.querySelector('.heart-outline');
+      const heartFilled = btn.querySelector('.heart-filled');
+      const btnText = btn.querySelector('.btn-text');
+
+      if (favorited) {
+        heartOutline.classList.add('hidden');
+        heartFilled.classList.remove('hidden');
+        heartFilled.classList.add('text-red-500');
+        btnText.textContent = 'Saved';
+        btn.classList.add('bg-red-50', 'dark:bg-red-900/30', 'text-red-600', 'dark:text-red-400');
+      } else {
+        heartOutline.classList.remove('hidden');
+        heartFilled.classList.add('hidden');
+        heartFilled.classList.remove('text-red-500');
+        btnText.textContent = 'Save';
+        btn.classList.remove('bg-red-50', 'dark:bg-red-900/30', 'text-red-600', 'dark:text-red-400');
+      }
+    }
+
+    function toggleFavorite() {
+      const favorites = getFavorites();
+      const index = favorites.findIndex(f => f.id === promptId);
+
+      if (index > -1) {
+        favorites.splice(index, 1);
+        updateUI(false);
+      } else {
+        favorites.push({
+          id: promptId,
+          title: promptTitle,
+          category: promptCategory,
+          slug: promptSlug,
+          preview: promptPreview,
+          savedAt: new Date().toISOString()
+        });
+        updateUI(true);
+      }
+
+      saveFavorites(favorites);
+    }
+
+    // Initialize UI
+    updateUI(isFavorited());
+
+    // Handle click
+    btn.addEventListener('click', toggleFavorite);
+  })();
+</script>
+
+

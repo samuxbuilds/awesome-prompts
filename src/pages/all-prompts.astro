@@ -1,0 +1,98 @@
+---
+import Layout from '../layouts/Layout.astro';
+import MasonryCard from '../components/MasonryCard.astro';
+import { readFile } from 'fs/promises';
+import { join } from 'path';
+
+// Read prompts from the generated JSON
+let prompts: any[] = [];
+try {
+  const data = await readFile(join(process.cwd(), 'public', 'all-prompts.json'), 'utf-8');
+  prompts = JSON.parse(data);
+} catch (e) {
+  console.log('No prompts found yet.');
+}
+
+// Sort by most recent (assuming slug contains numbering or date info)
+const allPrompts = prompts.sort((a, b) => b.slug.localeCompare(a.slug));
+---
+
+<Layout title="All Prompts - AwesomePrompts">
+  <!-- Breadcrumb -->
+  <nav class="mb-6">
+    <ol class="flex items-center space-x-2 text-sm">
+      <li>
+        <a href="/" class="text-gray-500 dark:text-gray-400 hover:text-purple-600 dark:hover:text-purple-400">
+          Home
+        </a>
+      </li>
+      <li class="text-gray-400">/</li>
+      <li class="text-gray-900 dark:text-gray-100 font-medium">
+        All Prompts
+      </li>
+    </ol>
+  </nav>
+
+  <!-- Header -->
+  <header class="mb-8">
+    <h1 class="text-3xl font-bold text-gray-900 dark:text-gray-100 mb-2">
+      All Prompts
+    </h1>
+    <p class="text-gray-600 dark:text-gray-400">
+      Browse all {allPrompts.length} prompts in our collection
+    </p>
+  </header>
+
+  <!-- Masonry Grid -->
+  {allPrompts.length > 0 ? (
+    <div class="masonry-grid">
+      {allPrompts.map(prompt => (
+        <MasonryCard 
+          title={prompt.title}
+          category={prompt.category}
+          tags={prompt.tags}
+          slug={prompt.slug}
+          preview={prompt.preview}
+          excerpt={prompt.content}
+        />
+      ))}
+    </div>
+  ) : (
+    <div class="text-center py-16">
+      <p class="text-gray-500 dark:text-gray-400 text-lg">
+        No prompts found yet.
+      </p>
+      <a 
+        href="https://github.com/yourusername/awesomeprompts/issues/new?template=new-prompt.md"
+        class="inline-block mt-4 px-6 py-3 bg-purple-600 text-white rounded-lg font-medium hover:bg-purple-700 transition-colors neu-border neu-shadow neu-shadow-hover"
+      >
+        Be the first to contribute!
+      </a>
+    </div>
+  )}
+</Layout>
+
+<style>
+  .masonry-grid {
+    columns: 1;
+    column-gap: 1rem;
+  }
+  
+  @media (min-width: 640px) {
+    .masonry-grid {
+      columns: 2;
+    }
+  }
+  
+  @media (min-width: 1024px) {
+    .masonry-grid {
+      columns: 3;
+    }
+  }
+  
+  @media (min-width: 1280px) {
+    .masonry-grid {
+      columns: 4;
+    }
+  }
+</style>

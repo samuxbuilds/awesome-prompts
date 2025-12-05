@@ -1,0 +1,26 @@
+---
+interface Props {
+  name: string;
+  count: number;
+  icon: string;
+}
+
+const { name, count, icon } = Astro.props;
+
+const displayName = name.includes('/') 
+  ? name.split('/').map(s => s.charAt(0).toUpperCase() + s.slice(1)).join(' / ')
+  : name.charAt(0).toUpperCase() + name.slice(1);
+---
+
+<a 
+  href={`/prompts/${name}`}
+  class="block bg-white dark:bg-gray-800 rounded-xl neu-border neu-shadow p-6 transition-all neu-shadow-hover group"
+>
+  <div class="text-4xl mb-4">{icon}</div>
+  <h3 class="text-xl font-semibold text-gray-900 dark:text-gray-100 mb-2 group-hover:text-purple-600 dark:group-hover:text-purple-400 transition-colors">
+    {displayName}
+  </h3>
+  <p class="text-gray-500 dark:text-gray-400">
+    {count} {count === 1 ? 'prompt' : 'prompts'}
+  </p>
+</a>

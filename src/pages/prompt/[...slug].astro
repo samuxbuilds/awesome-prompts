@@ -1,0 +1,323 @@
+---
+import Layout from '../../layouts/Layout.astro';
+import CopyButton from '../../components/CopyButton.astro';
+import FavoriteButton from '../../components/FavoriteButton.astro';
+import ShareButtons from '../../components/ShareButtons.astro';
+import { readFile } from 'fs/promises';
+import { join } from 'path';
+import { marked } from 'marked';
+
+export async function getStaticPaths() {
+  let prompts: any[] = [];
+  try {
+    const data = await readFile(join(process.cwd(), 'public', 'all-prompts.json'), 'utf-8');
+    prompts = JSON.parse(data);
+  } catch (e) {
+    console.log('No prompts found');
+    return [];
+  }
+
+  return prompts.map(prompt => ({
+    params: { 
+      slug: `${prompt.category}/${prompt.slug}`
+    },
+    props: { prompt }
+  }));
+}
+
+interface Prompt {
+  id: string;
+  slug: string;
+  title: string;
+  category: string;
+  tags: string[];
+  author: string;
+  content: string;
+  path: string;
+  preview?: string;
+}
+
+interface Props {
+  prompt: Prompt;
+}
+
+const { prompt } = Astro.props;
+
+// Parse markdown content to HTML
+const htmlContent = marked(prompt.content);
+
+// Build the full URL for sharing
+const siteUrl = 'https://awesomeprompts.xyz';
+const promptUrl = `${siteUrl}/prompt/${prompt.category}/${prompt.slug}`;
+
+const displayCategory = prompt.category.includes('/') 
+  ? prompt.category.split('/').map((s: string) => s.charAt(0).toUpperCase() + s.slice(1)).join(' / ')
+  : prompt.category.charAt(0).toUpperCase() + prompt.category.slice(1);
+---
+
+<Layout title={`${prompt.title} - AwesomePrompts`}>
+  <!-- Pagefind metadata (hidden but indexed) -->
+  <div data-pagefind-body class="hidden">
+    <h1 data-pagefind-meta="title">{prompt.title}</h1>
+    <p data-pagefind-filter="category" data-pagefind-meta="category">{prompt.category}</p>
+    <p data-pagefind-meta="author">{prompt.author}</p>
+    {prompt.preview && (
+      <img data-pagefind-meta="image" src={prompt.preview} alt="" />
+    )}
+    {prompt.tags.map(tag => (
+      <span data-pagefind-filter="tag">{tag}</span>
+    ))}
+    <div>{prompt.content}</div>
+  </div>
+
+  <!-- Main Container - Wider for desktop -->
+  <div class="max-w-4xl mx-auto">
+    <!-- Breadcrumb - Larger and higher contrast -->
+    <nav class="mb-8" data-pagefind-ignore>
+      <ol class="flex items-center gap-2 text-[15px] flex-wrap">
+        <li>
+          <a href="/" class="text-gray-600 dark:text-gray-300 hover:text-purple-600 dark:hover:text-purple-400 transition-colors">
+            Home
+          </a>
+        </li>
+        <li class="text-gray-400 dark:text-gray-500">
+          <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7" />
+          </svg>
+        </li>
+        <li>
+          <a href={`/prompts/${prompt.category}`} class="text-gray-600 dark:text-gray-300 hover:text-purple-600 dark:hover:text-purple-400 transition-colors">
+            {displayCategory}
+          </a>
+        </li>
+        <li class="text-gray-400 dark:text-gray-500">
+          <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7" />
+          </svg>
+        </li>
+        <li class="text-gray-900 dark:text-gray-100 font-medium truncate max-w-[200px] sm:max-w-none">
+          {prompt.title}
+        </li>
+      </ol>
+    </nav>
+
+    <article>
+      <!-- Header Section -->
+      <header class="mb-6">
+        <!-- Category Badge & Author -->
+        <div class="flex flex-wrap items-center gap-3 mb-4">
+          <a 
+            href={`/prompts/${prompt.category}`}
+            class="inline-flex items-center px-2.5 py-1 rounded-md text-xs font-semibold bg-purple-50 text-purple-700 dark:bg-purple-900/30 dark:text-purple-300 hover:bg-purple-100 dark:hover:bg-purple-900/50 transition-colors"
+          >
+            {displayCategory}
+          </a>
+          <span class="text-gray-500 dark:text-gray-400 text-sm">
+            by <span class="font-medium text-gray-700 dark:text-gray-300">{prompt.author}</span>
+          </span>
+        </div>
+        
+        <!-- Title -->
+        <h1 class="text-2xl sm:text-3xl font-bold text-gray-900 dark:text-gray-100 mb-5 leading-tight">
+          {prompt.title}
+        </h1>
+        
+        <!-- Tags - Consistent spacing -->
+        <div class="flex flex-wrap gap-2 mb-6">
+          {prompt.tags.map(tag => (
+            <a 
+              href={`/tags?tag=${encodeURIComponent(tag)}`}
+              class="px-2.5 py-1 bg-gray-100 dark:bg-gray-800 text-gray-600 dark:text-gray-400 rounded-md text-sm font-medium hover:bg-gray-200 dark:hover:bg-gray-700 hover:text-gray-900 dark:hover:text-gray-200 transition-colors"
+            >
+              #{tag}
+            </a>
+          ))}
+        </div>
+        
+        <!-- Actions Row - Clean layout with separator -->
+        <div class="flex flex-wrap items-center gap-3 pb-6 border-b border-gray-200 dark:border-gray-700">
+          <CopyButton content={prompt.content} />
+          <FavoriteButton 
+            promptId={prompt.id}
+            promptTitle={prompt.title}
+            promptCategory={prompt.category}
+            promptSlug={prompt.slug}
+            promptPreview={prompt.preview}
+          />
+          <ShareButtons title={prompt.title} url={promptUrl} />
+        </div>
+      </header>
+
+      <!-- Content Card - Modern styling -->
+      <div class="bg-white dark:bg-gray-900 rounded-xl border border-gray-200 dark:border-gray-800 shadow-sm overflow-hidden mb-8">
+        <!-- Header with Toggle -->
+        <div class="flex items-center justify-between px-5 py-4 border-b border-gray-100 dark:border-gray-800">
+          <h2 class="text-base font-semibold text-gray-900 dark:text-gray-100">
+            Prompt Content
+          </h2>
+          
+          <!-- Segmented Control Toggle -->
+          <div class="flex items-center p-0.5 bg-gray-100 dark:bg-gray-800 rounded-lg">
+            <button 
+              id="view-formatted"
+              class="view-toggle-btn px-3 py-1.5 text-sm font-medium rounded-md transition-all duration-200 bg-white dark:bg-gray-700 text-gray-900 dark:text-gray-100 shadow-sm"
+              data-view="formatted"
+              aria-pressed="true"
+            >
+              Formatted
+            </button>
+            <button 
+              id="view-raw"
+              class="view-toggle-btn px-3 py-1.5 text-sm font-medium rounded-md transition-all duration-200 text-gray-500 dark:text-gray-400 hover:text-gray-700 dark:hover:text-gray-300"
+              data-view="raw"
+              aria-pressed="false"
+            >
+              Raw
+            </button>
+          </div>
+        </div>
+        
+        <!-- Formatted View -->
+        <div id="content-formatted" class="px-5 py-6">
+          <div class="prose prose-gray dark:prose-invert prose-sm sm:prose-base max-w-none 
+            prose-headings:font-semibold prose-headings:text-gray-900 dark:prose-headings:text-gray-100
+            prose-p:text-gray-600 dark:prose-p:text-gray-300 prose-p:leading-relaxed
+            prose-li:text-gray-600 dark:prose-li:text-gray-300
+            prose-strong:text-gray-900 dark:prose-strong:text-gray-100
+            prose-code:text-purple-600 dark:prose-code:text-purple-400 prose-code:bg-gray-100 dark:prose-code:bg-gray-800 prose-code:px-1.5 prose-code:py-0.5 prose-code:rounded prose-code:text-sm prose-code:before:content-none prose-code:after:content-none">
+            <Fragment set:html={htmlContent} />
+          </div>
+        </div>
+        
+        <!-- Raw View (hidden by default) -->
+        <div id="content-raw" class="hidden">
+          <!-- Code block with proper padding and styling -->
+          <div class="relative group">
+            <button 
+              id="copy-raw"
+              class="absolute top-4 right-4 z-10 inline-flex items-center gap-2 px-3 py-1.5 text-xs font-medium text-gray-400 hover:text-white bg-gray-800 hover:bg-gray-700 rounded-md transition-colors border border-gray-700 opacity-0 group-hover:opacity-100 focus:opacity-100"
+              data-content={prompt.content}
+              aria-label="Copy raw prompt"
+            >
+              <svg class="w-4 h-4 copy-icon" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M8 16H6a2 2 0 01-2-2V6a2 2 0 012-2h8a2 2 0 012 2v2m-6 12h8a2 2 0 002-2v-8a2 2 0 00-2-2h-8a2 2 0 00-2 2v8a2 2 0 002 2z" />
+              </svg>
+              <svg class="w-4 h-4 check-icon hidden" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7" />
+              </svg>
+              <span class="copy-text">Copy</span>
+            </button>
+            <pre class="bg-gray-950 text-gray-300 p-6 rounded-lg text-sm leading-relaxed overflow-x-auto font-mono whitespace-pre-wrap break-words min-h-[100px]">{prompt.content}</pre>
+          </div>
+        </div>
+      </div>
+
+      <!-- Secondary Actions -->
+      <div class="flex flex-wrap gap-3">
+        <a 
+          href={`https://github.com/yourusername/awesomeprompts/edit/main/prompts/${prompt.path}`}
+          target="_blank"
+          rel="noopener noreferrer"
+          class="inline-flex items-center gap-2 px-3 py-2 text-sm font-medium text-gray-600 dark:text-gray-400 hover:text-gray-900 dark:hover:text-gray-200 bg-gray-50 dark:bg-gray-800 hover:bg-gray-100 dark:hover:bg-gray-700 rounded-lg border border-gray-200 dark:border-gray-700 transition-colors"
+        >
+          <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M11 5H6a2 2 0 00-2 2v11a2 2 0 002 2h11a2 2 0 002-2v-5m-1.414-9.414a2 2 0 112.828 2.828L11.828 15H9v-2.828l8.586-8.586z" />
+          </svg>
+          Edit on GitHub
+        </a>
+        <a 
+          href={`https://github.com/yourusername/awesomeprompts/issues/new?title=Issue with: ${encodeURIComponent(prompt.title)}`}
+          target="_blank"
+          rel="noopener noreferrer"
+          class="inline-flex items-center gap-2 px-3 py-2 text-sm font-medium text-gray-600 dark:text-gray-400 hover:text-gray-900 dark:hover:text-gray-200 bg-gray-50 dark:bg-gray-800 hover:bg-gray-100 dark:hover:bg-gray-700 rounded-lg border border-gray-200 dark:border-gray-700 transition-colors"
+        >
+          <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 9v2m0 4h.01m-6.938 4h13.856c1.54 0 2.502-1.667 1.732-3L13.732 4c-.77-1.333-2.694-1.333-3.464 0L3.34 16c-.77 1.333.192 3 1.732 3z" />
+          </svg>
+          Report Issue
+        </a>
+      </div>
+    </article>
+  </div>
+</Layout>
+
+<script is:inline>
+  // View Toggle functionality
+  const viewFormattedBtn = document.getElementById('view-formatted');
+  const viewRawBtn = document.getElementById('view-raw');
+  const contentFormatted = document.getElementById('content-formatted');
+  const contentRaw = document.getElementById('content-raw');
+
+  function setActiveView(view) {
+    if (view === 'formatted') {
+      contentFormatted?.classList.remove('hidden');
+      contentRaw?.classList.add('hidden');
+      viewFormattedBtn?.classList.add('bg-white', 'dark:bg-gray-700', 'text-gray-900', 'dark:text-gray-100', 'shadow-sm');
+      viewFormattedBtn?.classList.remove('text-gray-500', 'dark:text-gray-400');
+      viewFormattedBtn?.setAttribute('aria-pressed', 'true');
+      viewRawBtn?.classList.remove('bg-white', 'dark:bg-gray-700', 'text-gray-900', 'dark:text-gray-100', 'shadow-sm');
+      viewRawBtn?.classList.add('text-gray-500', 'dark:text-gray-400');
+      viewRawBtn?.setAttribute('aria-pressed', 'false');
+    } else {
+      contentFormatted?.classList.add('hidden');
+      contentRaw?.classList.remove('hidden');
+      viewRawBtn?.classList.add('bg-white', 'dark:bg-gray-700', 'text-gray-900', 'dark:text-gray-100', 'shadow-sm');
+      viewRawBtn?.classList.remove('text-gray-500', 'dark:text-gray-400');
+      viewRawBtn?.setAttribute('aria-pressed', 'true');
+      viewFormattedBtn?.classList.remove('bg-white', 'dark:bg-gray-700', 'text-gray-900', 'dark:text-gray-100', 'shadow-sm');
+      viewFormattedBtn?.classList.add('text-gray-500', 'dark:text-gray-400');
+      viewFormattedBtn?.setAttribute('aria-pressed', 'false');
+    }
+  }
+
+  viewFormattedBtn?.addEventListener('click', () => setActiveView('formatted'));
+  viewRawBtn?.addEventListener('click', () => setActiveView('raw'));
+
+  // Copy Raw button functionality
+  document.getElementById('copy-raw')?.addEventListener('click', async function() {
+    const content = this.getAttribute('data-content');
+    const copyIcon = this.querySelector('.copy-icon');
+    const checkIcon = this.querySelector('.check-icon');
+    const copyText = this.querySelector('.copy-text');
+    
+    try {
+      await navigator.clipboard.writeText(content);
+      copyIcon?.classList.add('hidden');
+      checkIcon?.classList.remove('hidden');
+      if (copyText) copyText.textContent = 'Copied!';
+      
+      setTimeout(() => {
+        copyIcon?.classList.remove('hidden');
+        checkIcon?.classList.add('hidden');
+        if (copyText) copyText.textContent = 'Copy';
+      }, 2000);
+    } catch (err) {
+      console.error('Failed to copy:', err);
+    }
+  });
+</script>
+
+<style is:global>
+  /* Enhanced prose styling for prompt content */
+  .prose img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 0.5rem;
+    margin: 1rem 0;
+  }
+  
+  .prose ul {
+    list-style-type: disc;
+    padding-left: 1.5rem;
+  }
+
+  .prose ol {
+    list-style-type: decimal;
+    padding-left: 1.5rem;
+  }
+  
+  .prose li {
+    margin-top: 0.5rem;
+    margin-bottom: 0.5rem;
+  }
+</style>
