@@ -150,19 +150,23 @@ A curated collection of **${prompts.length}+ AI image generation prompts** for t
         readme += `**Tags:** ${tagsStr}\n\n`;
       }
       
-      // Add the prompt content (first 500 chars if too long)
-      const contentPreview = prompt.content.length > 800 
-        ? prompt.content.slice(0, 800) + '\n\n*[View full prompt on website](https://awesomeprompts.xyz/prompt/' + prompt.category + '/' + prompt.slug + ')*'
-        : prompt.content;
+      // Fix all relative image paths in content to absolute URLs
+      let fixedContent = prompt.content
+        // Fix relative paths like /images/... to absolute
+        .replace(/!\[([^\]]*)\]\(\/([^)]+)\)/g, '![$1](https://awesomeprompts.xyz/$2)')
+        // Fix relative paths without leading slash
+        .replace(/!\[([^\]]*)\]\((?!http)([^)]+)\)/g, '![$1](https://awesomeprompts.xyz/$2)');
       
-      readme += contentPreview + '\n\n';
+      // Add the full prompt content
+      readme += fixedContent + '\n\n';
       
-      // Add preview image if available
-      if (prompt.preview) {
+      // Add preview image if available and not already in content
+      const contentHasPreview = prompt.preview && fixedContent.includes(prompt.preview);
+      if (prompt.preview && !contentHasPreview) {
         const previewUrl = prompt.preview.startsWith('http') 
           ? prompt.preview 
           : `https://awesomeprompts.xyz${prompt.preview}`;
-        readme += `![${prompt.title}](${previewUrl})\n\n`;
+        readme += `<img src="${previewUrl}" alt="${prompt.title}" width="400">\n\n`;
       }
       
       readme += `---\n\n`;
