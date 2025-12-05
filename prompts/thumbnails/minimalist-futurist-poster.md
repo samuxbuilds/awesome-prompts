@@ -3,7 +3,7 @@ title: "Minimalist Futurist Poster"
 category: thumbnails
 tags: ["3d", "minimalist", "poster", "logo", "glass"]
 author: "@ZHO_ZHO_ZHO"
-preview: "/images/thumbnails/minimalist-futurist-poster.png"
+preview: "/images/thumbnails/minimalist-futurist-poster.webp"
 ---
 
 A vertical (3:4) 4K-resolution minimalist futurist exhibition poster with an ultra-light cool gray background (#f4f4f4).
@@ -26,4 +26,4 @@ The [Classic 3D Coca-Cola Bottle] in the prompt can be replaced with description
 - [Original Post](https://x.com/ZHO_ZHO_ZHO/status/1921906728763105394)
 
 ## Example Output
-![Minimalist Futurist Poster](/images/thumbnails/minimalist-futurist-poster.png)
+![Minimalist Futurist Poster](/images/thumbnails/minimalist-futurist-poster.webp)

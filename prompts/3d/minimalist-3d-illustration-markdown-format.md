@@ -3,7 +3,7 @@ title: "Minimalist 3D Illustration (Markdown Format)"
 category: 3d
 tags: ["3d", "minimalist", "illustration"]
 author: "@dotey"
-preview: "/images/3d/minimalist-3d-illustration-markdown-format.png"
+preview: "/images/3d/minimalist-3d-illustration-markdown-format.webp"
 ---
 
 Draw a Toilet
@@ -48,4 +48,4 @@ Draw a Toilet
 - [Original Post](https://x.com/dotey/status/1907131027253772399)
 
 ## Example Output
-![Minimalist 3D Illustration](/images/3d/minimalist-3d-illustration-markdown-format.png)
+![Minimalist 3D Illustration](/images/3d/minimalist-3d-illustration-markdown-format.webp)

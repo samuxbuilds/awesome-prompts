@@ -3,7 +3,7 @@ title: "Minimalist 3D Illustration"
 category: 3d
 tags: ["3d", "minimalist", "illustration"]
 author: "@0xdlk"
-preview: "/images/3d/minimalist-3d-illustration.png"
+preview: "/images/3d/minimalist-3d-illustration.webp"
 ---
 
 Generate a toilet with the following JSON profile:
@@ -49,4 +49,4 @@ Generate a toilet with the following JSON profile:
 - [Original Post](https://x.com/0xdlk/status/1906843247432929642)
 
 ## Example Output
-![Minimalist 3D Illustration](/images/3d/minimalist-3d-illustration.png)
+![Minimalist 3D Illustration](/images/3d/minimalist-3d-illustration.webp)

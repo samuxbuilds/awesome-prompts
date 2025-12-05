@@ -3,7 +3,7 @@ title: "Q-version Emoji Sticker Pack Creation"
 category: icons
 tags: ["chibi", "cute", "sticker", "emoji", "character"]
 author: "@dotey"
-preview: "/images/icons/q-version-emoji-sticker-pack-creation.png"
+preview: "/images/icons/q-version-emoji-sticker-pack-creation.webp"
 ---
 
 Create a brand-new set of chibi-style stickers featuring the user as the main character, with six unique poses:
@@ -28,4 +28,4 @@ A clear profile photo.
 - [Original Post](https://x.com/dotey/status/1909800530739679488)
 
 ## Example Output
-![Q-version Emoji Sticker Pack Creation](/images/icons/q-version-emoji-sticker-pack-creation.png)
+![Q-version Emoji Sticker Pack Creation](/images/icons/q-version-emoji-sticker-pack-creation.webp)

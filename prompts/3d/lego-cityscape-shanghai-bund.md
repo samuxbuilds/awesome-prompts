@@ -3,7 +3,7 @@ title: "Lego Cityscape (Shanghai Bund)"
 category: 3d
 tags: ["icon", "lego"]
 author: "@dotey"
-preview: "/images/3d/lego-cityscape-shanghai-bund.png"
+preview: "/images/3d/lego-cityscape-shanghai-bund.webp"
 ---
 
 Create a highly detailed and vividly colored LEGO-style scene of the Shanghai Bund. The foreground features the iconic historical buildings of the Bund, meticulously recreated with LEGO bricks in Western and neoclassical architectural styles — including clock towers, domes, and colonnades. LEGO minifigures are seen strolling along the riverfront, taking photos, and sightseeing, with classic LEGO-style cars parked along the street.
@@ -17,4 +17,4 @@ You can ask AI to generate similar prompts for other cityscapes based on this ex
 - [Original Post](https://x.com/dotey/status/1917713810346872902)
 
 ## Example Output
-![Lego brick rendition of the Shanghai Bund cityscape](/images/3d/lego-cityscape-shanghai-bund.png)
+![Lego brick rendition of the Shanghai Bund cityscape](/images/3d/lego-cityscape-shanghai-bund.webp)

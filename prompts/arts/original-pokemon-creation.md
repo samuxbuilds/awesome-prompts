@@ -3,7 +3,7 @@ title: "Original Pokemon Creation"
 category: arts
 tags: ["retro", "cute", "illustration", "fantasy", "character"]
 author: "@Anima_Labs"
-preview: "/images/arts/original-pokemon-creation.png"
+preview: "/images/arts/original-pokemon-creation.webp"
 ---
 
 Create an original creature inspired by this object (photo provided). The creature should look like it belongs in a fantasy monster-catching universe, with a cute or cool design influenced by retro Japanese RPG monster art. The image must include:
@@ -21,4 +21,4 @@ Needs a photo of an object, food, etc., as inspiration.
 - [Original Post](https://x.com/Anima_Labs/status/1915044265895379166)
 
 ## Example Output
-![Original Pokemon Creation](/images/arts/original-pokemon-creation.png)
+![Original Pokemon Creation](/images/arts/original-pokemon-creation.webp)

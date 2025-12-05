@@ -3,7 +3,7 @@ title: "Character Stepping Through Portal"
 category: icons
 tags: ["3d", "chibi", "realistic", "character"]
 author: "@dotey"
-preview: "/images/icons/character-stepping-through-portal.png"
+preview: "/images/icons/character-stepping-through-portal.webp"
 ---
 
 A 3D chibi-style version of the person in the photo is stepping through a glowing portal, reaching out and holding the viewer’s hand. As the character pulls the viewer forward, they turn back with a dynamic glance, inviting the viewer into their world.
@@ -18,4 +18,4 @@ A clear half-body or full-body single person photo.
 - [Original Post](https://x.com/dotey/status/1908910838636765204)
 
 ## Example Output
-![Character Stepping Through Portal](/images/icons/character-stepping-through-portal.png)
+![Character Stepping Through Portal](/images/icons/character-stepping-through-portal.webp)

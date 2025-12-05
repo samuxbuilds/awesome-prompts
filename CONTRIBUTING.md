@@ -23,7 +23,7 @@ title: "Your Prompt Title"
 category: "thumbnails"
 tags: ["tag1", "tag2", "tag3"]
 author: "@your_username"
-preview: "https://example.com/preview-image.jpg"
+preview: "https://example.com/preview-image.webp"
 ---
 
 Your prompt content goes here...
@@ -49,13 +49,13 @@ Your prompt content goes here...
 ### Preview Image (Shows on Card)
 Add to frontmatter:
 ```yaml
-preview: "https://example.com/your-image.jpg"
+preview: "https://example.com/your-image.webp"
 ```
 
 ### Inline Images (Shows in Content)
 Use standard Markdown:
 ```markdown
-![Description of image](https://example.com/image.jpg)
+![Description of image](https://example.com/image.webp)
 ```
 
 ## ✅ Best Practices

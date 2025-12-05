@@ -3,7 +3,7 @@ title: "Story Scene in Crystal Ball"
 category: 3d
 tags: ["3d", "chibi", "surreal", "fantasy", "character"]
 author: "@dotey"
-preview: "/images/3d/story-scene-in-crystal-ball.png"
+preview: "/images/3d/story-scene-in-crystal-ball.webp"
 ---
 
 A delicate crystal ball rests quietly on a warm, softly lit tabletop by the window. The background is blurred and hazy, with warm-toned sunlight gently passing through the crystal ball, refracting specks of golden light that softly illuminate the dim surroundings.
@@ -17,4 +17,4 @@ Replace the text within the square brackets {} in the prompt with a description 
 - [Original Post](https://x.com/dotey/status/1916530529324699858)
 
 ## Example Output
-![Story Scene in Crystal Ball](/images/3d/story-scene-in-crystal-ball.png)
+![Story Scene in Crystal Ball](/images/3d/story-scene-in-crystal-ball.webp)

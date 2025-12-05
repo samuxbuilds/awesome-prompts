@@ -8,7 +8,7 @@ preview: "https://replicate.delivery/xezq/piAS0s9DshbqMFXJvIfw9feWaEaNsejlRifhVg
 
 *Interprets a filename as a visual subject.*
 
-rare.jpg
+rare.webp
 
 ## Source
 - [Original](https://replicate.com/)

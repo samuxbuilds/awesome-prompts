@@ -3,7 +3,7 @@ title: "Famous Painting Character OOTD"
 category: arts
 tags: ["3d", "chibi", "cute", "glass", "character"]
 author: "@ZHO_ZHO_ZHO"
-preview: "/images/arts/famous-painting-character-ootd.png"
+preview: "/images/arts/famous-painting-character-ootd.webp"
 ---
 
 Generate a Q-style 3D C4D-rendered character based on the person in the photo, dressed in a fashion-forward “outfit of the day” (OOTD) inspired by a specific profession.
@@ -26,4 +26,4 @@ Right side: individual clothing items and accessories laid out separately, as if
 - [Original Post](https://x.com/ZHO_ZHO_ZHO/status/1909892294217781714)
 
 ## Example Output
-![Famous Painting Character OOTD](/images/arts/famous-painting-character-ootd.png)
+![Famous Painting Character OOTD](/images/arts/famous-painting-character-ootd.webp)

@@ -3,7 +3,7 @@ title: "Lego Collectible Figure"
 category: 3d
 tags: ["minimalist", "surreal", "lego", "glass", "animal"]
 author: "@ZHO_ZHO_ZHO"
-preview: "/images/3d/lego-collectible-figure.png"
+preview: "/images/3d/lego-collectible-figure.webp"
 ---
 
 Generate a vertically-oriented image based on my uploaded photo, using the following prompt:
@@ -23,4 +23,4 @@ A half-body or full-body single person photo.
 - [Original Post](https://x.com/ZHO_ZHO_ZHO/status/1910644499354968091)
 
 ## Example Output
-![Lego Collectible Figure](/images/3d/lego-collectible-figure.png)
+![Lego Collectible Figure](/images/3d/lego-collectible-figure.webp)

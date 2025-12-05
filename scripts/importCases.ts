@@ -176,7 +176,7 @@ async function importCases() {
       // Copy image to public folder (preserve original extension)
       let previewPath = '';
       if (caseData.image) {
-        const ext = extname(caseData.image); // Get original extension (.jpg, .png, etc.)
+        const ext = extname(caseData.image); // Get original extension (.webp, .webp, etc.)
         const srcImage = join(caseDir, caseData.image);
         const destImage = join(PUBLIC_DIR, category, `${slug}${ext}`);
         try {

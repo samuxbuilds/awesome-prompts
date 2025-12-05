@@ -3,7 +3,7 @@ title: "Flat Sticker Design"
 category: icons
 tags: ["3d", "chibi", "minimalist", "cute", "illustration"]
 author: "@ZHO_ZHO_ZHO"
-preview: "/images/icons/flat-sticker-design.png"
+preview: "/images/icons/flat-sticker-design.webp"
 ---
 
 Turn this photo into a chibi-style sticker illustration in a minimalist flat design.
@@ -22,4 +22,4 @@ A clear profile photo.
 - [Original Post](https://x.com/ZHO_ZHO_ZHO/status/1908044836953108490)
 
 ## Example Output
-![Flat Sticker Design](/images/icons/flat-sticker-design.png)
+![Flat Sticker Design](/images/icons/flat-sticker-design.webp)

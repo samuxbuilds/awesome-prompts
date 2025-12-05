@@ -3,7 +3,7 @@ title: "Glass Retexturing"
 category: arts
 tags: ["3d", "realistic", "glass"]
 author: "@egeberkina"
-preview: "/images/arts/glass-retexturing.png"
+preview: "/images/arts/glass-retexturing.webp"
 ---
 
 retexture the image attached based on the JSON aesthetic below
@@ -50,4 +50,4 @@ An image needs to be uploaded as the base for retexturing.
 - [Original Post](https://x.com/egeberkina/status/1920448389960909085)
 
 ## Example Output
-![Glass Retexturing](/images/arts/glass-retexturing.png)
+![Glass Retexturing](/images/arts/glass-retexturing.webp)
