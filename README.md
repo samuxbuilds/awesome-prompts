@@ -32,7 +32,7 @@ A curated collection of AI prompts for thumbnails, videos, illustrations, and mo
 
 ```bash
 # Clone the repository
-git clone https://github.com/samuxbuilds/awesomeprompts.git
+git clone https://github.com/samuxbuilds/awesome-prompts.git
 cd awesomeprompts
 
 # Install dependencies
