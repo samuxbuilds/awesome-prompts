@@ -1,6 +1,5 @@
 ---
 import Layout from '../layouts/Layout.astro';
-import CategoryCard from '../components/CategoryCard.astro';
 import SearchBar from '../components/SearchBar.astro';
 import MasonryCard from '../components/MasonryCard.astro';
 import { readFile } from 'fs/promises';
@@ -16,29 +15,21 @@ try {
   console.log('No prompts found yet. Run the build script first.');
 }
 
-// Group prompts by category
-const categoryMap = new Map<string, number>();
+// Extract unique tags with counts
+const tagMap = new Map<string, number>();
 prompts.forEach(prompt => {
-  categoryMap.set(prompt.category, (categoryMap.get(prompt.category) || 0) + 1);
+  if (prompt.tags && Array.isArray(prompt.tags)) {
+    prompt.tags.forEach((tag: string) => {
+      tagMap.set(tag, (tagMap.get(tag) || 0) + 1);
+    });
+  }
 });
 
-// Category icons
-const categoryIcons: Record<string, string> = {
-  thumbnails: '🖼️',
-  videos: '🎬',
-  illustrations: '🎨',
-  arts: '🎭',
-  'people/woman': '👩',
-  'people/man': '👨',
-};
-
-const categories = Array.from(categoryMap.entries())
-  .map(([name, count]) => ({
-    name,
-    count,
-    icon: categoryIcons[name] || '📝'
-  }))
-  .sort((a, b) => a.name.localeCompare(b.name));
+// Get top 20 tags sorted by count
+const topTags = Array.from(tagMap.entries())
+  .map(([name, count]) => ({ name, count }))
+  .sort((a, b) => b.count - a.count)
+  .slice(0, 20);
 
 const totalPrompts = prompts.length;
 
@@ -89,19 +80,29 @@ const recentPrompts = prompts.slice(0, 8);
     </div>
   </section>
   
-  <!-- Categories Section -->
+  <!-- Browse by Tags Section -->
   <section>
-    <h2 class="text-2xl font-bold text-gray-900 dark:text-gray-100 mb-6">
-      Browse by Category
-    </h2>
+    <div class="flex justify-between items-center mb-6">
+      <h2 class="text-2xl font-bold text-gray-900 dark:text-gray-100">
+        Browse by Tags
+      </h2>
+      <a href="/tags" class="text-purple-600 dark:text-purple-400 hover:underline font-medium flex items-center gap-1">
+        View all tags
+        <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7" />
+        </svg>
+      </a>
+    </div>
     
-    <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
-      {categories.map(category => (
-        <CategoryCard 
-          name={category.name} 
-          count={category.count} 
-          icon={category.icon}
-        />
+    <div class="flex flex-wrap gap-3">
+      {topTags.map(tag => (
+        <a 
+          href={`/tags?tag=${encodeURIComponent(tag.name)}`}
+          class="px-4 py-2 rounded-full text-sm font-bold bg-white dark:bg-gray-800 text-gray-700 dark:text-gray-300 hover:bg-purple-100 hover:text-purple-800 dark:hover:bg-purple-900 dark:hover:text-purple-200 transition-all cursor-pointer neu-border neu-shadow neu-shadow-hover"
+        >
+          #{tag.name}
+          <span class="ml-1 text-gray-500 dark:text-gray-400">({tag.count})</span>
+        </a>
       ))}
     </div>
   </section>

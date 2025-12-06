@@ -160,9 +160,7 @@ const { title, description = 'A curated collection of awesome prompts for AI too
         if (typeof localStorage !== 'undefined' && localStorage.getItem('theme')) {
           return localStorage.getItem('theme');
         }
-        if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
-          return 'dark';
-        }
+        // Default to light mode
         return 'light';
       }
 

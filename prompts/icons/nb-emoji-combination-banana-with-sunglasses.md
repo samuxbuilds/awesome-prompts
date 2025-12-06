@@ -3,7 +3,7 @@ title: "Emoji Combination - Banana with Sunglasses"
 category: icons
 tags: ["emoji", "glass"]
 author: "@nanobanana-pro"
-preview: "https://pbs.twimg.com/media/G7PmjRBXgAAVKXd?format=jpg&name=medium"
+preview: "/images/icons/nb-emoji-combination-banana-with-sunglasses.jpg"
 ---
 
 *Combine emojis in a Google-style design*
@@ -11,4 +11,4 @@ preview: "https://pbs.twimg.com/media/G7PmjRBXgAAVKXd?format=jpg&name=medium"
 combine these emojis: 🍌 + 😎, on a white background as a google emoji design
 
 ## Example Output
-![Emoji Combination - Banana with Sunglasses](https://pbs.twimg.com/media/G7PmjRBXgAAVKXd?format=jpg&name=medium)
+![Emoji Combination - Banana with Sunglasses](/images/icons/nb-emoji-combination-banana-with-sunglasses.jpg)

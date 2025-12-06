@@ -32,22 +32,6 @@ A curated collection of **155+ AI image generation prompts** for thumbnails, 3D 
 <details>
 <summary>View 40 prompts</summary>
 
-#### 3D Blind Box Style Avatar
-
-**Tags:** `3d`, `cute`, `glass`, `pastel`, `character`
-
-*Converts portraits into cute, C4D-style "Pop Mart" toy characters.*
-
-Transform the person in the uploaded photo into a cute 3D Pop Mart style blind box character . Likeness : Keep key features recognizable: [hair color, glasses, hairstyle]. Style : C4D rendering, occlusion render, cute Q-version , soft studio lighting, pastel colors. Background : A simple, solid matte color background (e.g., soft blue). Detail : The character should have a smooth, plastic toy texture with a slight glossy finish. Facing forward, friendly expression.
-
-## Source
-- [Original](https://mp.weixin.qq.com/s/lrYNbs4rGs3KOqewoZ6aNQ)
-
-## Example Output
-![3D Blind Box Style Avatar](https://github.com/user-attachments/assets/c6c03353-f00a-4042-ba74-726b46c67541)
-
----
-
 #### 3D Chibi Chinese Wedding Scene
 
 **Tags:** `3d`, `chibi`, `cartoon`, `realistic`, `wedding`
@@ -2434,22 +2418,6 @@ Needs a photo of a person or object as the subject for transformation.
 
 ---
 
-#### One-Click Business Photo (Silicon Valley Style)
-
-**Tags:** `realistic`, `portrait`, `icon`, `professional`, `business`
-
-*Transforms casual photos into professional studio headshots using specific lens and lighting instructions.*
-
-Keep the facial features of the person in the uploaded image exactly consistent . Dress them in a professional navy blue business suit with a white shirt, similar to the reference image. Background : Place the subject against a clean, solid dark gray studio photography backdrop . The background should have a subtle gradient , slightly lighter behind the subject and darker towards the edges (vignette effect). There should be no other objects. Photography Style : Shot on a Sony A7III with an 85mm f/1.4 lens , creating a flattering portrait compression. Lighting : Use a classic three-point lighting setup . The main key light should create soft, defining shadows on the face. A subtle rim light should separate the subject's shoulders and hair from the dark background. Crucial Details : Render natural skin texture with visible pores , not an airbrushed look. Add natural catchlights to the eyes . The fabric of the suit should show a subtle wool texture.Final image should be an ultra-realistic, 8k professional headshot.
-
-## Source
-- [Original](https://mp.weixin.qq.com/s/lrYNbs4rGs3KOqewoZ6aNQ)
-
-## Example Output
-![One-Click Business Photo (Silicon Valley Style)](https://github.com/user-attachments/assets/e41db56f-d928-400c-b21b-f8a0d53ba91b)
-
----
-
 #### Paper Craft Style Emoji Icon
 
 **Tags:** `emoji`, `icon`
@@ -2780,22 +2748,6 @@ Double exposure, Midjourney style, merging, blending, overlay double exposure im
 
 ---
 
-#### Emotional Film Photography
-
-**Tags:** `film`, `portrait`, `nostalgic`, `cinematic`
-
-*Creates a cinematic, nostalgic "Kodak Portra" look while maintaining facial consistency.*
-
-Keep the facial features of the person in the uploaded image exactly consistent . Style : A cinematic, emotional portrait shot on Kodak Portra 400 film . Setting : An urban street coffee shop window at Golden Hour (sunset) . Warm, nostalgic lighting hitting the side of the face. Atmosphere : Apply a subtle film grain and soft focus to create a dreamy, storytelling vibe. Action : The subject is looking slightly away from the camera, holding a coffee cup, with a relaxed, candid expression. Details : High quality, depth of field, bokeh background of city lights.
-
-## Source
-- [Original](https://mp.weixin.qq.com/s/lrYNbs4rGs3KOqewoZ6aNQ)
-
-## Example Output
-![Emotional Film Photography](https://github.com/user-attachments/assets/e41db56f-d928-400c-b21b-f8a0d53ba91b)
-
----
-
 #### Extremely Ordinary iPhone Selfie
 
 **Tags:** `creative`, `ai-art`
@@ -2889,29 +2841,6 @@ A daily snapshot taken with a low-quality disposable camera. A clumsy photo take
 
 ## Example Output
 ![Japanese High School Student Snap Photo](https://pbs.twimg.com/media/G6z7gUVa0AMf1-G?format=jpg&name=small)
-
----
-
-#### Luxury Product Photography
-
-**Tags:** `creative`, `ai-art`
-
-*Create a floating luxury product shot*
-
-Product:
-[BRAND] [PRODUCT NAME] - [bottle shape], [label description], [liquid color]
-
-Scene:
-Luxury product shot floating on dark water with [flower type] in [colors] arranged around it.
-[Lighting style - e.g., "golden hour glow" /
-"bright fresh light"] creates reflections and ripples across the water.
-
-Mood & Style:
-[Adjectives - e.g., "ethereal and luxurious" /
-"fresh and clean"], high-end commercial photography, [camera angle], shallow depth of field with soft bokeh background
-
-## Example Output
-![Luxury Product Photography](https://raw.githubusercontent.com/ZeroLu/awesome-nanobanana-pro/refs/heads/main/assets/luxury-product-shot.webp)
 
 ---
 

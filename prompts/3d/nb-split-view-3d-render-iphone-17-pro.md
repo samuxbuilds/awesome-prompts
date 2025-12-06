@@ -3,7 +3,7 @@ title: "Split View 3D Render - iPhone 17 Pro"
 category: 3d
 tags: ["3d", "minimalist", "realistic"]
 author: "@nanobanana-pro"
-preview: "https://pbs.twimg.com/media/G7LmGCQWYAAfp47?format=jpg&name=small"
+preview: "/images/3d/nb-split-view-3d-render-iphone-17-pro.jpg"
 ---
 
 *Create a 3D render with realistic left half and wireframe right half*
@@ -38,4 +38,4 @@ Use soft, neutral global illumination and no shadows under the object.
 No extra props, no text, no labels unless explicitly requested.
 
 ## Example Output
-![Split View 3D Render - iPhone 17 Pro](https://pbs.twimg.com/media/G7LmGCQWYAAfp47?format=jpg&name=small)
+![Split View 3D Render - iPhone 17 Pro](/images/3d/nb-split-view-3d-render-iphone-17-pro.jpg)
