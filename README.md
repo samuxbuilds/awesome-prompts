@@ -1,30 +1,37 @@
-# Awesome Gemini Nano Banana Prompts
+# AwesomePrompts
 
-A collection of **high-quality, tested prompts** for Gemini Nano Banana.
-This repository is tailored for developers, creators, and AI enthusiasts who want to get the most out of the model.
+A curated collection of **163+ AI image generation prompts** for thumbnails, 3D art, illustrations, and more. Open-source and community-driven.
 
-## Features
+**🌐 Live at: [awesomeprompts.xyz](https://awesomeprompts.xyz)**
 
-- **Categorized Prompts**: Organized by use case (3D, Arts, Icons, Portraits, Thumbnails).
-- **Visual Examples**: Each prompt includes an example output image.
-- **Copy-Paste Ready**: Optimized structures for consistent results.
+## ✨ Features
 
----
+- **Curated Collection**: Hand-picked prompts organized by category
+- **Search & Filter**: Find prompts by title, content, or tags
+- **Copy to Clipboard**: One-click copy for any prompt
+- **Dark Mode**: Easy on the eyes, day or night
+- **Static Site**: Fast, SEO-friendly, and deployable anywhere
+- **Open Source**: Contribute your own prompts!
 
-## 📂 Categories
+## 📁 Categories
 
 | Category | Count | Description |
 |----------|-------|-------------|
 | 🎲 **3d** | 39 | 3D renders, figures, miniatures, and dioramas |
-| 🎨 **Creative** | 59 | Creative art styles, effects, and transformations |
+| 📝 **Creative** | 57 | Various prompts |
 | ✨ **Icons** | 16 | Emojis, stickers, badges, and icon designs |
-| 👤 **Portraits** | 21 | Portraits, selfies, and character photography |
-| 🖼️ **Posters** | 20 | Posters, magazine covers, and layout designs |
+| 📝 **Portraits** | 23 | Various prompts |
+| 📝 **Posters** | 18 | Various prompts |
 | 📸 **Thumbnails** | 10 | YouTube thumbnails, posters, and covers |
 
 ---
 
+## 📚 All Prompts
+
 ### 🎲 3d
+
+<details>
+<summary>View 39 prompts</summary>
 
 #### 3D Chibi Chinese Wedding Scene
 
@@ -46,7 +53,7 @@ A couple's photo.
 - [Original Post](https://x.com/balconychy/status/1909418699150237917)
 
 ## Example Output
-![3D Chibi Chinese Wedding Scene](public/images/3d/3d-chibi-chinese-wedding-scene.webp)
+![3D Chibi Chinese Wedding Scene](https://awesomeprompts.xyz/images/3d/3d-chibi-chinese-wedding-scene.webp)
 
 ---
 
@@ -63,7 +70,20 @@ A couple's photo.
 - [Original Post](https://x.com/balconychy/status/1909417750587486469)
 
 ## Example Output
-![3D Chibi Proposal Scene](public/images/3d/3d-chibi-proposal-scene.webp)
+![3D Chibi Proposal Scene](https://awesomeprompts.xyz/images/3d/3d-chibi-proposal-scene.webp)
+
+---
+
+#### 3D Chibi-Style Miniature Brand Store
+
+**Tags:** `3d`, `chibi`, `icon`, `glass`
+
+*Create a miniature 3D store for a brand*
+
+3D chibi-style miniature concept store of {Brand Name}, creatively designed with an exterior inspired by the brand's most iconic product or packaging (such as a giant {brand's core product, e.g., chicken bucket/hamburger/donut/roast duck}). The store features two floors with large glass windows clearly showcasing the cozy and finely decorated interior: {brand's primary color}-themed decor, warm lighting, and busy staff dressed in outfits matching the brand. Adorable tiny figures stroll or sit along the street, surrounded by benches, street lamps, and potted plants, creating a charming urban scene. Rendered in a miniature cityscape style using Cinema 4D, with a blind-box toy aesthetic, rich in details and realism, and bathed in soft lighting that evokes a relaxing afternoon atmosphere. --ar 2:3
+
+## Example Output
+![3D Chibi-Style Miniature Brand Store](https://awesomeprompts.xyz/images/3d/nb-3d-chibi-style-miniature-brand-store.webp)
 
 ---
 
@@ -80,7 +100,7 @@ Replace the university name {Northwestern Polytechnical University} and characte
 - [Original Post](https://x.com/dotey/status/1911988003729203648)
 
 ## Example Output
-![3D Chibi-style University Anthropomorphic Mascot](public/images/3d/3d-chibi-style-university-anthropomorphic-mascot.webp)
+![3D Chibi-style University Anthropomorphic Mascot](https://awesomeprompts.xyz/images/3d/3d-chibi-style-university-anthropomorphic-mascot.webp)
 
 ---
 
@@ -107,7 +127,22 @@ A couple's photo.
 - [Original Post](https://x.com/dotey/status/1909332895115714835)
 
 ## Example Output
-![3D Couple Jewelry Box Figurine](public/images/3d/3d-couple-jewelry-box-figurine.webp)
+![3D Couple Jewelry Box Figurine](https://awesomeprompts.xyz/images/3d/3d-couple-jewelry-box-figurine.webp)
+
+---
+
+#### 3D Isometric Home Office Illustration
+
+**Tags:** `3d`, `illustration`
+
+*Create a 3D isometric view of a home office*
+
+Based on you know about me, generate a 3D isometric colored illustration of me working from home, filled with various interior details. The visual style should be rounded, polished, and playful. --ar 1:1
+
+[Additional details: a bichon frise and 3 monitors]
+
+## Example Output
+![3D Isometric Home Office Illustration](https://awesomeprompts.xyz/images/3d/nb-3d-isometric-home-office-illustration.webp)
 
 ---
 
@@ -124,7 +159,7 @@ Please modify the scene description within the square brackets 【】 as appropr
 - [Original Post](https://x.com/dotey/status/1923264349050675329)
 
 ## Example Output
-![3D Papercraft Pop-up Book](public/images/3d/3d-papercraft-pop-up-book.webp)
+![3D Papercraft Pop-up Book](https://awesomeprompts.xyz/images/3d/3d-papercraft-pop-up-book.webp)
 
 ---
 
@@ -141,7 +176,7 @@ A half-body or full-body single person photo.
 - [Original Post](https://x.com/dotey/status/1908238003169903060)
 
 ## Example Output
-![3D Polaroid Breakout Effect](public/images/3d/3d-polaroid-breakout-effect.webp)
+![3D Polaroid Breakout Effect](https://awesomeprompts.xyz/images/3d/3d-polaroid-breakout-effect.webp)
 
 ---
 
@@ -160,7 +195,7 @@ A photo of a couple or another person.
 - [Original Post](https://x.com/balconychy/status/1909908568129655248)
 
 ## Example Output
-![3D Chibi Couple Snow Globe](public/images/3d/3d-q-version-couple-snow-globe.webp)
+![3D Chibi Couple Snow Globe](https://awesomeprompts.xyz/images/3d/3d-q-version-couple-snow-globe.webp)
 
 ---
 
@@ -177,7 +212,7 @@ Need to upload a reference image of a physical object
 - [Original Post](https://x.com/azed_ai/status/1917948899098243407)
 
 ## Example Output
-![3D Translucent Glass Transformation](public/images/3d/3d-translucent-glass-transformation.webp)
+![3D Translucent Glass Transformation](https://awesomeprompts.xyz/images/3d/3d-translucent-glass-transformation.webp)
 
 ---
 
@@ -194,7 +229,7 @@ The [Jackie Chan] in the prompt can be replaced with the name of any figurine ch
 - [Original Post](https://x.com/dotey/status/1920994118580183316)
 
 ## Example Output
-![Action Figure and Real Person in the Same Frame](public/images/3d/action-figure-and-real-person-in-the-same-frame.webp)
+![Action Figure and Real Person in the Same Frame](https://awesomeprompts.xyz/images/3d/action-figure-and-real-person-in-the-same-frame.webp)
 
 ---
 
@@ -214,7 +249,7 @@ A selfie needs to be uploaded as the basis for generating the bobblehead.
 - [Original Post](https://x.com/thisdudelikesAI/status/1920433372243136730)
 
 ## Example Output
-![Bobblehead Generator from Selfie](public/images/3d/bobblehead-generator-from-selfie.webp)
+![Bobblehead Generator from Selfie](https://awesomeprompts.xyz/images/3d/bobblehead-generator-from-selfie.webp)
 
 ---
 
@@ -243,7 +278,29 @@ A character image needs to be uploaded as the main reference for creating the st
 - [Original Post](https://x.com/leon_yuan2001/status/1923712069209293014)
 
 ## Example Output
-![Chibi Character Sticker Pack](public/images/3d/chibi-character-sticker-pack.webp)
+![Chibi Character Sticker Pack](https://awesomeprompts.xyz/images/3d/chibi-character-sticker-pack.webp)
+
+---
+
+#### City's Tallest Buildings 3D Cartoon View
+
+**Tags:** `3d`, `cartoon`, `minimalist`, `realistic`
+
+*Create a miniature 3D view of city's tallest buildings*
+
+Present a clear, side miniature 3D cartoon view of [YOUR CITY] tallest buildings. Use minimal textures with realistic materials and soft, lifelike lighting and shadows. Use a clean, minimalistic composition showing exactly the three tallest buildings in Sopot, arranged from LEFT to RIGHT in STRICT descending height order. The tallest must appear visibly tallest, the second must be clearly shorter than the first, and the third must be clearly shorter than the second.
+All buildings must follow accurate relative proportions: if a building is taller in real life, it MUST be taller in the image by the same approximate ratio. No building may be visually stretched or compressed.
+Each building should stand separately on a thin, simple ceramic base. Below each base, centered text should display:
+Height in meters — semibold sans-serif, medium size
+Year built — lighter-weight sans-serif, smaller size, directly beneath the height text
+Provide consistent padding, spacing, leading, and kerning. Write "YOUR CITY NAME" centered above the buildings, using a medium-sized sans-serif font.
+ No building top should overlap or touch the text above.Use accurate architectural proportions based on real-world references.Maintain consistent camera angle and identical scale for each building model.
+No forced perspective. Use straight-on orthographic-style rendering. Do not exaggerate or stylize size differences beyond proportional accuracy.
+
+Use a square 1080×1080 composition.Use a clean, neutral background. Ensure no extra objects are present.
+
+## Example Output
+![City's Tallest Buildings 3D Cartoon View](https://awesomeprompts.xyz/images/3d/nb-city-s-tallest-buildings-3d-cartoon-view.webp)
 
 ---
 
@@ -260,7 +317,7 @@ Please replace `[COUNTRY NAME]` in the prompt with a specific country name.
 - [Original Post](https://x.com/TheRelianceAI/status/1925223613055017251)
 
 ## Example Output
-![Country Diorama in a Toy Box](public/images/3d/country-diorama-in-a-toy-box.webp)
+![Country Diorama in a Toy Box](https://awesomeprompts.xyz/images/3d/country-diorama-in-a-toy-box.webp)
 
 ---
 
@@ -277,7 +334,7 @@ Please upload a photo showing the person's full body posture, facial expression,
 - [Original Post](https://x.com/dotey/status/1920851135516082246)
 
 ## Example Output
-![Custom Anime Figure](public/images/3d/custom-anime-figure.webp)
+![Custom Anime Figure](https://awesomeprompts.xyz/images/3d/custom-anime-figure.webp)
 
 ---
 
@@ -297,7 +354,7 @@ A photo of a person or object as the subject for the keychain design.
 - [Original Post](https://x.com/azed_ai/status/1916521742052503804)
 
 ## Example Output
-![Cute Chibi Keychain](public/images/3d/cute-chibi-keychain.webp)
+![Cute Chibi Keychain](https://awesomeprompts.xyz/images/3d/cute-chibi-keychain.webp)
 
 ---
 
@@ -314,7 +371,7 @@ Requires uploading a person's image as the subject for transformation (The origi
 - [Original Post](https://x.com/ZHO_ZHO_ZHO/status/1911669883315818497)
 
 ## Example Output
-![Cute Chibi Matryoshka Dolls (Girl with a Pearl Earring)](public/images/3d/cute-chibi-matryoshka-dolls-girl-with-a-pearl-earr.webp)
+![Cute Chibi Matryoshka Dolls (Girl with a Pearl Earring)](https://awesomeprompts.xyz/images/3d/cute-chibi-matryoshka-dolls-girl-with-a-pearl-earr.webp)
 
 ---
 
@@ -328,7 +385,7 @@ A hyper-realistic isometric 3D render of a miniature computer setup inside a tra
 - [Original Post](https://x.com/egeberkina/status/1911368319212408926)
 
 ## Example Output
-![Miniature computer setup diorama inside an ESC keycap](public/images/3d/esc-keycap-miniature-diorama.webp)
+![Miniature computer setup diorama inside an ESC keycap](https://awesomeprompts.xyz/images/3d/esc-keycap-miniature-diorama.webp)
 
 ---
 
@@ -348,7 +405,7 @@ A clear half-body or full-body photo.
 - [Original Post](https://x.com/dotey/status/1909047283485671924)
 
 ## Example Output
-![Funko Pop Figure Creation](public/images/3d/funko-pop-figure-creation.webp)
+![Funko Pop Figure Creation](https://awesomeprompts.xyz/images/3d/funko-pop-figure-creation.webp)
 
 ---
 
@@ -368,7 +425,7 @@ Replace `[image /emoji]` in the prompt with a specific image description or an e
 - [Original Post](https://x.com/azed_ai/status/1915770501705925106)
 
 ## Example Output
-![Gold Pendant Necklace](public/images/3d/gold-pendant-necklace.webp)
+![Gold Pendant Necklace](https://awesomeprompts.xyz/images/3d/gold-pendant-necklace.webp)
 
 ---
 
@@ -387,7 +444,7 @@ Please follow medical advice and purchase as needed.
 - [Original Post](https://x.com/ZHO_ZHO_ZHO/status/1911724629460455896)
 
 ## Example Output
-![Happy Capsule](public/images/3d/happy-capsule-creation.webp)
+![Happy Capsule](https://awesomeprompts.xyz/images/3d/happy-capsule-creation.webp)
 
 ---
 
@@ -406,7 +463,7 @@ You can ask AI to generate similar prompts for other cityscapes based on this ex
 - [Original Post](https://x.com/dotey/status/1917713810346872902)
 
 ## Example Output
-![Lego brick rendition of the Shanghai Bund cityscape](public/images/3d/lego-cityscape-shanghai-bund.webp)
+![Lego brick rendition of the Shanghai Bund cityscape](https://awesomeprompts.xyz/images/3d/lego-cityscape-shanghai-bund.webp)
 
 ---
 
@@ -431,7 +488,7 @@ A half-body or full-body single person photo.
 - [Original Post](https://x.com/ZHO_ZHO_ZHO/status/1910644499354968091)
 
 ## Example Output
-![Lego Collectible Figure](public/images/3d/lego-collectible-figure.webp)
+![Lego Collectible Figure](https://awesomeprompts.xyz/images/3d/lego-collectible-figure.webp)
 
 ---
 
@@ -448,7 +505,7 @@ You can ask the AI to generate similar prompts for other buildings by referencin
 - [Original Post](https://x.com/dotey/status/1913759515700285569)
 
 ## Example Output
-![Miniature 3D Building](public/images/3d/miniature-3d-building.webp)
+![Miniature 3D Building](https://awesomeprompts.xyz/images/3d/miniature-3d-building.webp)
 
 ---
 
@@ -462,7 +519,7 @@ A highly detailed miniature [Cyberpunk] landscape viewed from above, using a til
 You can replace [Cyberpunk] in the prompt with other styles or scenes, such as "Futuristic City", "Steampunk", "Medieval Village", etc.
 
 ## Example Output
-![Highly detailed miniature Cyberpunk landscape viewed from above, with tilt-shift lens effect](public/images/3d/miniature-cyberpunk-tilt-shift-landscape.webp)
+![Highly detailed miniature Cyberpunk landscape viewed from above, with tilt-shift lens effect](https://awesomeprompts.xyz/images/3d/miniature-cyberpunk-tilt-shift-landscape.webp)
 
 ---
 
@@ -479,57 +536,7 @@ The content in brackets can be replaced with Western scenes such as “Hercules 
 - [Original Post](https://x.com/dotey/status/1911609122547449886)
 
 ## Example Output
-![Miniature Three-dimensional Scene Presentation](public/images/3d/miniature-three-dimensional-scene-presentation.webp)
-
----
-
-#### Minimalist 3D Illustration (Markdown Format)
-
-**Tags:** `3d`, `minimalist`, `illustration`
-
-Draw a Toilet
-
-## 🎨 Art Style: Minimalist 3D Illustration
-
-### 🟢 Shape Language
-- Rounded edges and smooth, soft forms using simplified geometric shapes.
-
-### 🎨 Colors
-- **Primary palette:** soft beige, light gray, warm orange.  
-- **Accent color:** warm orange for focal elements.  
-- **Shading:** gentle gradients and smooth transitions, avoiding harsh shadows and highlights.
-
-### 💡 Lighting
-- **Type:** soft, diffuse lighting.  
-- **Light source direction:** from above, slightly to the right.  
-- **Shadow style:** subtle and diffused, without sharp or high-contrast shadows.
-
-### 🧱 Materials
-- **Surface texture:** matte and smooth with subtle light variation.  
-- **Reflectivity:** low to none, avoiding noticeable gloss.
-
-### 🖼️ Composition
-- **Object presentation:** a single, centered object with generous negative space around it.  
-- **Perspective:** slight tilt to suggest depth, but no strong depth-of-field effects.  
-- **Background:** flat color, low saturation, harmonious with the subject and non-distracting.
-
-### ✒️ Typography
-- **Font style:** minimalist sans-serif.  
-- **Text placement:** bottom left corner, small and unobtrusive.  
-- **Font color:** gray, low contrast with the background.
-
-### 🖥️ Rendering Style
-- **Technique:** 3D rendering in a simplified low-poly style.  
-- **Detail level:** medium — focus on shape and color, avoiding complex textures or fine details.
-
-## 🎯 Style Goal
-> Create a clean and aesthetically pleasing visual that emphasizes simplicity, approachability, and modernity.
-
-## Source
-- [Original Post](https://x.com/dotey/status/1907131027253772399)
-
-## Example Output
-![Minimalist 3D Illustration](public/images/3d/minimalist-3d-illustration-markdown-format.webp)
+![Miniature Three-dimensional Scene Presentation](https://awesomeprompts.xyz/images/3d/miniature-three-dimensional-scene-presentation.webp)
 
 ---
 
@@ -580,57 +587,150 @@ Generate a toilet with the following JSON profile:
 - [Original Post](https://x.com/0xdlk/status/1906843247432929642)
 
 ## Example Output
-![Minimalist 3D Illustration](public/images/3d/minimalist-3d-illustration.webp)
+![Minimalist 3D Illustration](https://awesomeprompts.xyz/images/3d/minimalist-3d-illustration.webp)
 
 ---
 
-#### 3D Chibi-Style Miniature Brand Store
+#### Minimalist 3D Illustration (Markdown Format)
 
-**Tags:** `3d`, `chibi`, `icon`, `glass`
+**Tags:** `3d`, `minimalist`, `illustration`
 
-*Create a miniature 3D store for a brand*
+Draw a Toilet
 
-3D chibi-style miniature concept store of {Brand Name}, creatively designed with an exterior inspired by the brand's most iconic product or packaging (such as a giant {brand's core product, e.g., chicken bucket/hamburger/donut/roast duck}). The store features two floors with large glass windows clearly showcasing the cozy and finely decorated interior: {brand's primary color}-themed decor, warm lighting, and busy staff dressed in outfits matching the brand. Adorable tiny figures stroll or sit along the street, surrounded by benches, street lamps, and potted plants, creating a charming urban scene. Rendered in a miniature cityscape style using Cinema 4D, with a blind-box toy aesthetic, rich in details and realism, and bathed in soft lighting that evokes a relaxing afternoon atmosphere. --ar 2:3
+## 🎨 Art Style: Minimalist 3D Illustration
+
+### 🟢 Shape Language
+- Rounded edges and smooth, soft forms using simplified geometric shapes.
+
+### 🎨 Colors
+- **Primary palette:** soft beige, light gray, warm orange.  
+- **Accent color:** warm orange for focal elements.  
+- **Shading:** gentle gradients and smooth transitions, avoiding harsh shadows and highlights.
+
+### 💡 Lighting
+- **Type:** soft, diffuse lighting.  
+- **Light source direction:** from above, slightly to the right.  
+- **Shadow style:** subtle and diffused, without sharp or high-contrast shadows.
+
+### 🧱 Materials
+- **Surface texture:** matte and smooth with subtle light variation.  
+- **Reflectivity:** low to none, avoiding noticeable gloss.
+
+### 🖼️ Composition
+- **Object presentation:** a single, centered object with generous negative space around it.  
+- **Perspective:** slight tilt to suggest depth, but no strong depth-of-field effects.  
+- **Background:** flat color, low saturation, harmonious with the subject and non-distracting.
+
+### ✒️ Typography
+- **Font style:** minimalist sans-serif.  
+- **Text placement:** bottom left corner, small and unobtrusive.  
+- **Font color:** gray, low contrast with the background.
+
+### 🖥️ Rendering Style
+- **Technique:** 3D rendering in a simplified low-poly style.  
+- **Detail level:** medium — focus on shape and color, avoiding complex textures or fine details.
+
+## 🎯 Style Goal
+> Create a clean and aesthetically pleasing visual that emphasizes simplicity, approachability, and modernity.
+
+## Source
+- [Original Post](https://x.com/dotey/status/1907131027253772399)
 
 ## Example Output
-![3D Chibi-Style Miniature Brand Store](public/images/3d/nb-3d-chibi-style-miniature-brand-store.webp)
+![Minimalist 3D Illustration](https://awesomeprompts.xyz/images/3d/minimalist-3d-illustration-markdown-format.webp)
 
 ---
 
-#### 3D Isometric Home Office Illustration
+#### One Piece Themed Figure Creation
 
-**Tags:** `3d`, `illustration`
+**Tags:** `anime`, `realistic`, `character`
 
-*Create a 3D isometric view of a home office*
+Transform the person in the photo into a One Piece-themed anime-style action figure, presented inside a collectible figure box designed in the visual style of the One Piece universe. The box is shown in an isometric view.
+Inside the box, display the character reimagined in the One Piece anime art style, posed dynamically and accompanied by essential everyday items such as a pistol, a wristwatch, a suit, and leather shoes — all miniaturized and arranged like collectible accessories.
+Next to the box, include a realistic, fully rendered version of the actual figure itself, outside of the packaging. This figure should be rendered with high detail and realism, showcasing the material textures and craftsmanship, as if it were a professionally photographed product.
 
-Based on you know about me, generate a 3D isometric colored illustration of me working from home, filled with various interior details. The visual style should be rounded, polished, and playful. --ar 1:1
+## Notes
+The list of essential items was slightly modified here. Please refer to the original source.
 
-[Additional details: a bichon frise and 3 monitors]
+## Reference Image
+A half-body or full-body photo.
+
+## Source
+- [Original Post](https://x.com/dotey/status/1909047547563213145)
 
 ## Example Output
-![3D Isometric Home Office Illustration](public/images/3d/nb-3d-isometric-home-office-illustration.webp)
+![One Piece Themed Figure Creation](https://awesomeprompts.xyz/images/3d/one-piece-themed-figure-creation.webp)
 
 ---
 
-#### City's Tallest Buildings 3D Cartoon View
+#### Pastel Power 3D ADS
 
-**Tags:** `3d`, `cartoon`, `minimalist`, `realistic`
+**Tags:** `3d`, `cartoon`, `minimalist`, `logo`, `pastel`
 
-*Create a miniature 3D view of city's tallest buildings*
+a soft 3D cartoon-style sculpture of [brand product], made of smooth clay-like textures and vibrant pastel colors, placed in a minimalist isometric scene that complements the product’s nature, clean composition, gentle lighting, subtle shadows, with the product’s logo and a 3-word slogan displayed clearly below
 
-Present a clear, side miniature 3D cartoon view of [YOUR CITY] tallest buildings. Use minimal textures with realistic materials and soft, lifelike lighting and shadows. Use a clean, minimalistic composition showing exactly the three tallest buildings in Sopot, arranged from LEFT to RIGHT in STRICT descending height order. The tallest must appear visibly tallest, the second must be clearly shorter than the first, and the third must be clearly shorter than the second.
-All buildings must follow accurate relative proportions: if a building is taller in real life, it MUST be taller in the image by the same approximate ratio. No building may be visually stretched or compressed.
-Each building should stand separately on a thin, simple ceramic base. Below each base, centered text should display:
-Height in meters — semibold sans-serif, medium size
-Year built — lighter-weight sans-serif, smaller size, directly beneath the height text
-Provide consistent padding, spacing, leading, and kerning. Write "YOUR CITY NAME" centered above the buildings, using a medium-sized sans-serif font.
- No building top should overlap or touch the text above.Use accurate architectural proportions based on real-world references.Maintain consistent camera angle and identical scale for each building model.
-No forced perspective. Use straight-on orthographic-style rendering. Do not exaggerate or stylize size differences beyond proportional accuracy.
+## Notes
+Replace [brand product] in the prompt with a specific product description.
 
-Use a square 1080×1080 composition.Use a clean, neutral background. Ensure no extra objects are present.
+## Source
+- [Original Post](https://x.com/aziz4ai/status/1925301120252924356)
 
 ## Example Output
-![City's Tallest Buildings 3D Cartoon View](public/images/3d/nb-city-s-tallest-buildings-3d-cartoon-view.webp)
+![Pastel Power 3D ADS](https://awesomeprompts.xyz/images/3d/pastel-power-3d-ads.webp)
+
+---
+
+#### Perspective 3D Pop-Out Effect
+
+**Tags:** `3d`, `realistic`, `surreal`, `cute`, `glass`
+
+Hyperrealistic, top-down bird's-eye view shot, a beautiful Instagram model [Anne Hathaway / see reference image], with exquisite and beautiful makeup and fashionable styling, standing on the screen of a smartphone held up by someone. The image creates a strong perspective illusion. Emphasize the 3D effect of the girl standing out from the phone. She wears black-rimmed glasses, high-street fashion, and strikes a cute, playful pose. The phone screen is treated as a dark floor, like a small stage. The scene uses strong forced perspective to show the proportional difference between the hand, the phone, and the girl. The background is clean gray, using soft indoor light, shallow depth of field, and the overall style is surrealistic photorealistic compositing. Very strong perspective.
+
+## Notes
+You can replace [Anne Hathaway] in the prompt with other character names. Or use a photo of a person as a reference image.
+
+## Reference Image
+You can use a photo of a person as a reference image. This example image uses ["Girl with a Pearl Earring"](https://commons.wikimedia.org/w/index.php?curid=55017931) as a reference image.
+
+## Source
+- [Original Post](https://x.com/ZHO_ZHO_ZHO/status/1920355982703509588)
+
+## Example Output
+![Perspective 3D Pop-Out Effect](https://awesomeprompts.xyz/images/3d/perspective-3d-pop-out-effect.webp)
+
+---
+
+#### Photo to 3D Q-version Style
+
+**Tags:** `3d`, `chibi`, `character`
+
+Transform the characters in the scene into 3D chibi-style figures, while keeping the original scene layout and their clothing exactly the same.
+
+## Reference Image
+A photo.
+
+## Source
+- [Original Post](https://x.com/dotey/status/1908194518345678865)
+
+## Example Output
+![Photo to 3D Q-version Style](https://awesomeprompts.xyz/images/3d/photo-to-3d-q-version-style.webp)
+
+---
+
+#### Pixar 3D Style
+
+**Tags:** `3d`, `pixar`
+
+Redraw this photo in Pixar 3D style
+
+## Reference Image
+A photo of a person or other subject.
+
+## Source
+- [Original Post](https://animeai.online/#demo-gallery)
+
+## Example Output
+![Pixar 3D Style](https://awesomeprompts.xyz/images/3d/pixar-3d-style.webp)
 
 ---
 
@@ -670,113 +770,7 @@ Use soft, neutral global illumination and no shadows under the object.
 No extra props, no text, no labels unless explicitly requested.
 
 ## Example Output
-![Split View 3D Render - iPhone 17 Pro](public/images/3d/nb-split-view-3d-render-iphone-17-pro.webp)
-
----
-
-#### USA 3D Diorama with Landmarks
-
-**Tags:** `3d`, `cute`, `icon`, `diorama`, `pastel`
-
-*Create an isometric 3D diorama of US landmarks*
-
-Create a high-detail 3D isometric diorama of the entire United States, where each state is represented as its own miniature platform. Inside each state, place a stylized, small-scale 3D model of that state's most iconic landmark. Use the same visual style as a cute, polished 3D city diorama: soft pastel colors, clean materials, smooth rounded forms, gentle shadows, and subtle reflections. Each landmark should look like a miniature model, charming, simplified, but clearly recognizable. Arrange the states in accurate geographical layout, with consistent lighting and perspective. Include state labels and landmark labels in a clean, modern font, floating above or near each model.
-
-## Example Output
-![USA 3D Diorama with Landmarks](public/images/3d/nb-usa-3d-diorama-with-landmarks.webp)
-
----
-
-#### One Piece Themed Figure Creation
-
-**Tags:** `anime`, `realistic`, `character`
-
-Transform the person in the photo into a One Piece-themed anime-style action figure, presented inside a collectible figure box designed in the visual style of the One Piece universe. The box is shown in an isometric view.
-Inside the box, display the character reimagined in the One Piece anime art style, posed dynamically and accompanied by essential everyday items such as a pistol, a wristwatch, a suit, and leather shoes — all miniaturized and arranged like collectible accessories.
-Next to the box, include a realistic, fully rendered version of the actual figure itself, outside of the packaging. This figure should be rendered with high detail and realism, showcasing the material textures and craftsmanship, as if it were a professionally photographed product.
-
-## Notes
-The list of essential items was slightly modified here. Please refer to the original source.
-
-## Reference Image
-A half-body or full-body photo.
-
-## Source
-- [Original Post](https://x.com/dotey/status/1909047547563213145)
-
-## Example Output
-![One Piece Themed Figure Creation](public/images/3d/one-piece-themed-figure-creation.webp)
-
----
-
-#### Pastel Power 3D ADS
-
-**Tags:** `3d`, `cartoon`, `minimalist`, `logo`, `pastel`
-
-a soft 3D cartoon-style sculpture of [brand product], made of smooth clay-like textures and vibrant pastel colors, placed in a minimalist isometric scene that complements the product’s nature, clean composition, gentle lighting, subtle shadows, with the product’s logo and a 3-word slogan displayed clearly below
-
-## Notes
-Replace [brand product] in the prompt with a specific product description.
-
-## Source
-- [Original Post](https://x.com/aziz4ai/status/1925301120252924356)
-
-## Example Output
-![Pastel Power 3D ADS](public/images/3d/pastel-power-3d-ads.webp)
-
----
-
-#### Perspective 3D Pop-Out Effect
-
-**Tags:** `3d`, `realistic`, `surreal`, `cute`, `glass`
-
-Hyperrealistic, top-down bird's-eye view shot, a beautiful Instagram model [Anne Hathaway / see reference image], with exquisite and beautiful makeup and fashionable styling, standing on the screen of a smartphone held up by someone. The image creates a strong perspective illusion. Emphasize the 3D effect of the girl standing out from the phone. She wears black-rimmed glasses, high-street fashion, and strikes a cute, playful pose. The phone screen is treated as a dark floor, like a small stage. The scene uses strong forced perspective to show the proportional difference between the hand, the phone, and the girl. The background is clean gray, using soft indoor light, shallow depth of field, and the overall style is surrealistic photorealistic compositing. Very strong perspective.
-
-## Notes
-You can replace [Anne Hathaway] in the prompt with other character names. Or use a photo of a person as a reference image.
-
-## Reference Image
-You can use a photo of a person as a reference image. This example image uses ["Girl with a Pearl Earring"](https://commons.wikimedia.org/w/index.php?curid=55017931) as a reference image.
-
-## Source
-- [Original Post](https://x.com/ZHO_ZHO_ZHO/status/1920355982703509588)
-
-## Example Output
-![Perspective 3D Pop-Out Effect](public/images/3d/perspective-3d-pop-out-effect.webp)
-
----
-
-#### Photo to 3D Q-version Style
-
-**Tags:** `3d`, `chibi`, `character`
-
-Transform the characters in the scene into 3D chibi-style figures, while keeping the original scene layout and their clothing exactly the same.
-
-## Reference Image
-A photo.
-
-## Source
-- [Original Post](https://x.com/dotey/status/1908194518345678865)
-
-## Example Output
-![Photo to 3D Q-version Style](public/images/3d/photo-to-3d-q-version-style.webp)
-
----
-
-#### Pixar 3D Style
-
-**Tags:** `3d`, `pixar`
-
-Redraw this photo in Pixar 3D style
-
-## Reference Image
-A photo of a person or other subject.
-
-## Source
-- [Original Post](https://animeai.online/#demo-gallery)
-
-## Example Output
-![Pixar 3D Style](public/images/3d/pixar-3d-style.webp)
+![Split View 3D Render - iPhone 17 Pro](https://awesomeprompts.xyz/images/3d/nb-split-view-3d-render-iphone-17-pro.webp)
 
 ---
 
@@ -795,7 +789,7 @@ Replace the text within the square brackets {} in the prompt with a description 
 - [Original Post](https://x.com/dotey/status/1916530529324699858)
 
 ## Example Output
-![Story Scene in Crystal Ball](public/images/3d/story-scene-in-crystal-ball.webp)
+![Story Scene in Crystal Ball](https://awesomeprompts.xyz/images/3d/story-scene-in-crystal-ball.webp)
 
 ---
 
@@ -811,7 +805,20 @@ The flash slightly overexposes her face and clothes, making her silhouette stand
 - [Original Post](https://x.com/ZHO_ZHO_ZHO/status/1913648013144137840)
 
 ## Example Output
-![Ultra-realistic 3D](public/images/3d/ultra-realistic-3d-game.webp)
+![Ultra-realistic 3D](https://awesomeprompts.xyz/images/3d/ultra-realistic-3d-game.webp)
+
+---
+
+#### USA 3D Diorama with Landmarks
+
+**Tags:** `3d`, `cute`, `icon`, `diorama`, `pastel`
+
+*Create an isometric 3D diorama of US landmarks*
+
+Create a high-detail 3D isometric diorama of the entire United States, where each state is represented as its own miniature platform. Inside each state, place a stylized, small-scale 3D model of that state's most iconic landmark. Use the same visual style as a cute, polished 3D city diorama: soft pastel colors, clean materials, smooth rounded forms, gentle shadows, and subtle reflections. Each landmark should look like a miniature model, charming, simplified, but clearly recognizable. Arrange the states in accurate geographical layout, with consistent lighting and perspective. Include state labels and landmark labels in a clean, modern font, floating above or near each model.
+
+## Example Output
+![USA 3D Diorama with Landmarks](https://awesomeprompts.xyz/images/3d/nb-usa-3d-diorama-with-landmarks.webp)
 
 ---
 
@@ -832,11 +839,37 @@ The reference image for voxel style icons is obtained from the original link 1; 
 - [Original Post](https://x.com/ZHO_ZHO_ZHO/status/1910671581962985788)
 
 ## Example Output
-![3D voxel-style icons](public/images/3d/voxel-style-3d-icon-conversion.webp)
+![3D voxel-style icons](https://awesomeprompts.xyz/images/3d/voxel-style-3d-icon-conversion.webp)
 
 ---
 
-### 🎨 Creative
+</details>
+
+### 📝 Creative
+
+<details>
+<summary>View 57 prompts</summary>
+
+#### "Titanic" Pose Parody
+
+**Tags:** `3d`, `chibi`, `realistic`, `cute`, `icon`
+
+Transform the person in the attached image into a cute chibi-style 3D character.
+Scene: On the pointed bow of a luxurious cruise ship.
+The man stands behind the woman at the bow, holding her waist with both hands. The woman is wearing a dress, arms spread wide, facing the wind, with a joyful and liberated expression on her face—just like the iconic scene from Titanic.
+The sky is painted in warm sunset tones, and the vast ocean stretches beneath the ship.
+Only the characters should be in chibi 3D style; the rest of the environment should be realistic.
+
+## Reference Image
+A couple's photo.
+
+## Source
+- [Original Post](https://x.com/balconychy/status/1909916265067557299)
+
+## Example Output
+!["Titanic" Pose Parody](https://awesomeprompts.xyz/images/creative/titanic-pose-parody.webp)
+
+---
 
 #### 35mm Film Style Flying Island
 
@@ -848,484 +881,7 @@ The reference image for voxel style icons is obtained from the original link 1; 
 - [Original Post](https://x.com/dotey/status/1905020833451348283)
 
 ## Example Output
-![35mm Film Style Flying Island](public/images/creative/35mm-film-style-flying-island.webp)
-
----
-
-#### Children's Coloring Page Illustration (with Color Reference)
-
-**Tags:** `illustration`, `ai-art`
-
-A black and white line drawing coloring illustration, suitable for direct printing on standard size (8.5x11 inch) paper, without paper borders. The overall illustration style is fresh and simple, using clear and smooth black outline lines, without shadows, grayscale, or color filling, with a pure white background for easy coloring.
-[At the same time, for the convenience of users who are not good at coloring, please generate a complete colored version in the lower right corner as a small image for reference]
-Suitable for: [6-9 year old children]
-Scene description:
-[A unicorn is walking on the grass in the forest, with bright sunshine, blue sky and white clouds]
-
-## Notes
-The content within the brackets [] in the prompt can be replaced, such as the target audience and scene description.
-
-## Source
-- [Original Post](https://x.com/dotey/status/1919522110395080838)
-
-## Example Output
-![Children's Coloring Page Illustration (with Color Reference)](public/images/creative/children-s-coloring-page-illustration-with-color-r.webp)
-
----
-
-#### Cloud Art
-
-**Tags:** `creative`, `ai-art`
-
-Generate image: A photograph captures a daytime scene with a [SUBJECT/OBJECT] formed by scattered clouds in the sky, positioned above a [LOCATION]
-
-## Notes
-The `[SUBJECT/OBJECT]` (shape formed by clouds) and `[LOCATION]` placeholders in the prompt can be replaced. The example image uses 'chinese dragon' as the subject and 'The Great Wall' as the location.
-
-## Source
-- [Original Post](https://x.com/umesh_ai/status/1913628737872027805)
-
-## Example Output
-![Cloud Art](public/images/creative/cloud-art.webp)
-
----
-
-#### Creative Ad with Real Object and Hand-Drawn Doodle
-
-**Tags:** `minimalist`, `logo`
-
-A minimalist and creative advertisement set on a clean white background.
-A real [Real Object] is integrated into a hand-drawn black ink doodle, using loose, playful lines. The [Doodle Concept] interacts with the object in a clever, imaginative way. Include bold black [Ad Copy] text at the top or center. Place the [Brand Logo] clearly at the bottom. The visual should be clean, fun, high-contrast, and conceptually smart.
-
-## Notes
-Replace [Real Object], [Doodle Concept], [Ad Copy], and [Brand Logo] in the prompt with specific details.
-For example:
-[Real Object]: coffee bean
-[Doodle Concept]: The giant coffee bean becomes a space planet, with a small astronaut planting a flag on its surface
-[Ad Copy]: "Explore Bold Flavor"
-[Brand Logo]: Starbucks logo
-
-## Source
-- [Original Post](https://x.com/azed_ai/status/1923016036120658122)
-
-## Example Output
-![Creative Ad with Real Object and Hand-Drawn Doodle](public/images/creative/creative-ad-with-real-object-and-hand-drawn-doodle.webp)
-
----
-
-#### Creative Logo Shaped Bookshelf
-
-**Tags:** `minimalist`, `logo`, `futuristic`
-
-Create a photograph of a modern bookshelf inspired by the shape of [LOGO]. The bookshelf features flowing, interconnected curves forming multiple sections of varying sizes. It is made of sleek matte black metal with wooden shelves inside the loops. Soft, warm LED lighting outlines the inner curves. The bookshelf is mounted on a neutral-toned wall and holds a mix of colorful books, small plants, and minimalistic art pieces. The overall vibe is creative, elegant, and slightly futuristic
-
-## Notes
-Replace the `[LOGO]` placeholder in the prompt with a specific brand logo description (e.g., "Apple logo", "McDonald's logo").
-
-## Source
-- [Original Post](https://x.com/umesh_ai/status/1916517976414495161)
-
-## Example Output
-![Creative Logo Shaped Bookshelf](public/images/creative/creative-logo-shaped-bookshelf.webp)
-
----
-
-#### Creative Silk Universe
-
-**Tags:** `3d`, `surreal`
-
-Transform the {❄️} into a soft 3D object with a silk texture. The entire surface of the object is wrapped in smooth and flowing silk fabric, featuring surreal wrinkle details, soft highlights, and shadows. The object gently floats in the center of a clean light gray background, creating a light and elegant atmosphere. The overall style is surreal, tactile, and modern, conveying a sense of comfort and refined playfulness. Studio lighting, high-resolution rendering.
-
-## Notes
-You can replace the {❄️} in the prompt words with your target value
-
-## Source
-- [Original Post](https://x.com/ZHO_ZHO_ZHO/status/1914864217867608175)
-
-## Example Output
-![Silk Universe-Creative Universe](public/images/creative/creative-silk-universe.webp)
-
----
-
-#### Cute and Cozy Knitted Doll
-
-**Tags:** `chibi`, `realistic`, `cute`, `character`
-
-A close-up, professionally composed photograph showcasing a hand-crocheted yarn doll gently cradled by two hands. The doll has a rounded shape, featuring the cute chibi image of the [upload image] character, with vivid contrasting colors and rich details. The hands holding the doll are natural and gentle, with clearly visible finger postures, and natural skin texture and light/shadow transitions, conveying a warm and realistic touch. The background is slightly blurred, depicting an indoor environment with a warm wooden tabletop and natural light streaming in from a window, creating a comfortable and intimate atmosphere. The overall image conveys a sense of exquisite craftsmanship and cherished warmth.
-
-## Reference Image
-Upload a photo as a reference to generate its cute chibi knitted doll image.
-
-## Source
-- [Original Post](https://x.com/ZHO_ZHO_ZHO/status/1921148024861938077)
-
-## Example Output
-![Cute and Cozy Knitted Doll](public/images/creative/cute-and-cozy-knitted-doll.webp)
-
----
-
-#### Cute Plant Planter
-
-**Tags:** `minimalist`, `cute`, `animal`
-
-A high-quality photo of a cute ceramic [object/animal]-shaped planter with a glossy finish, filled with a variety of vibrant succulents and greenery including a spiky Haworthia, a rosette-shaped Echeveria, and delicate white flowers. The planter has a friendly face and sits on a soft, neutral background with diffused natural lighting, showcasing fine textures and color contrast in a clean, minimalistic composition
-
-## Notes
-Replace [object/animal] in the prompt with a specific object, animal name, or emoji.
-
-## Source
-- [Original Post](https://x.com/azed_ai/status/1923739813414568075)
-
-## Example Output
-![Cute Plant Planter](public/images/creative/cute-plant-planter.webp)
-
----
-
-#### Abstract Digital Art - Cosmic Flow
-
-**Tags:** `abstract`, `digital`, `cosmic`, `colorful`
-
-Create an abstract digital artwork with a cosmic theme:
-
-## Visual Concept
-Flowing energy streams merging in space, creating a sense of infinite depth and movement.
-
-## Color Palette
-- Primary: Deep space blue (#0a0a1a)
-- Secondary: Nebula purple (#6b2d5c)
-- Accents: Electric cyan (#00fff7), Hot pink (#ff0066)
-
-## Composition
-- **Center focus**: Swirling vortex of light
-- **Edges**: Fade to deep space black
-- **Flow direction**: Spiral from outer edges to center
-
-## Techniques
-1. Particle effects for stars
-2. Gradient blends for nebula clouds
-3. Glow effects on energy streams
-4. Noise texture for depth
-
-## Reference
-![Cosmic inspiration](https://images.unsplash.com/photo-1634017839464-5c339bbe3c39?w=800&q=80)
-
-## Output Specs
-- Resolution: 4K (3840x2160)
-- Color space: sRGB
-- Suitable for: Prints, wallpapers, NFTs
-
----
-
-#### Flat Design App Icons - Finance Theme
-
-**Tags:** `icons`, `flat-design`, `finance`, `ui`
-
-Create a set of flat design icons for a finance mobile app:
-
-## Icon Set (8 icons)
-1. **Wallet** - Simple folded wallet with card
-2. **Chart** - Upward trending line graph
-3. **Transfer** - Two arrows in opposite directions
-4. **Budget** - Pie chart divided into sections
-5. **Savings** - Piggy bank silhouette
-6. **Card** - Credit card with chip
-7. **Receipt** - Paper receipt with lines
-8. **Settings** - Gear cog
-
-## Style Guidelines
-- **Shape**: Rounded corners (8px on 64px canvas)
-- **Colors**: 
-  - Primary: #2563eb (blue)
-  - Secondary: #10b981 (green)
-  - Background: #f8fafc
-- **Stroke**: 2px consistent weight
-- **Fill**: Solid colors, no gradients
-
-## Grid & Sizing
-- Canvas: 64x64px
-- Safe area: 56x56px (4px padding)
-- Export: SVG + PNG @1x, 2x, 3x
-
-## Reference Style
-![Flat icon inspiration](https://images.unsplash.com/photo-1611162616305-c69b3fa7fbe0?w=800&q=80)
-
----
-
-#### Famous Painting Character Cereal Ad
-
-**Tags:** `3d`, `chibi`, `minimalist`, `cute`, `character`
-
-“Master Oats”: Based on the visual features of the person in the uploaded photo, generate a custom oatmeal mix that reflects their personality traits — for example, using vegetables, fruits, yogurt, whole grains, etc.
-
-Design a unique cereal box and package aesthetic that aligns with this tailored mix.
-
-Then, create an advertising cover featuring the person as the mascot on the cereal box. The character should retain their recognizable features but be transformed into a cute chibi-style 3D figure with a C4D-quality rendering.
-
-The oatmeal and packaging should be presented in a setting that matches the mood — such as a minimalist kitchen, a sleek supermarket display, or a clean design counter.
-
-The process includes:
-– Character analysis and oat mix pairing
-– Cereal box concept and design
-– Display environment selection
-– Final image with mascot figure, packaging, and styled scene composition
-
-All visuals should be balanced, modern, and appealing, reflecting a premium and fun oat brand identity.
-
-## Reference Image
-[Image of 'Girl with a Pearl Earring'](https://commons.wikimedia.org/w/index.php?curid=55017931).
-
-## Source
-- [Original Post](https://x.com/ZHO_ZHO_ZHO/status/1909542765857587310)
-
-## Example Output
-![Famous Painting Character Cereal Ad](public/images/creative/famous-painting-character-cereal-ad.webp)
-
----
-
-#### Famous Painting Character OOTD
-
-**Tags:** `3d`, `chibi`, `cute`, `glass`, `character`
-
-Generate a Q-style 3D C4D-rendered character based on the person in the photo, dressed in a fashion-forward “outfit of the day” (OOTD) inspired by a specific profession.
-Profession: Fashion Designer
-– Keep the original facial features and character pose
-– Stylize the character with a cute, long-legged chibi proportion
-– Outfit and accessories should reflect the profession, including trendy designer wear, glasses, sketchbook or tablet, and stylish shoes
-– Match the outfit with fashion accessories to complete the look
-– Use a solid background color that complements the character’s overall color palette (no gradients or textures)
-
-Composition: Aspect ratio: 9:16
-Top text: “OOTD”
-Left side: the full-body chibi character wearing the complete outfit
-Right side: individual clothing items and accessories laid out separately, as if in a style breakdown
-
-## Reference Image
-[Image of 'Girl with a Pearl Earring'](https://commons.wikimedia.org/w/index.php?curid=55017931).
-
-## Source
-- [Original Post](https://x.com/ZHO_ZHO_ZHO/status/1909892294217781714)
-
-## Example Output
-![Famous Painting Character OOTD](public/images/creative/famous-painting-character-ootd.webp)
-
----
-
-#### Fantasy Cartoon Illustration
-
-**Tags:** `cartoon`, `illustration`, `fantasy`, `character`
-
-A cartoon-style character with a smiling computer monitor as its head, wearing gloves and boots, happily jumping through a glowing, blue, circular portal in a lush, fantasy forest landscape. The forest is detailed with large trees, mushrooms, flowers, a serene river, floating islands, and an atmospheric starry night sky with multiple moons. Bright, vibrant colors with soft lighting, fantasy illustration style.
-
-## Source
-- [Original Post](https://x.com/dotey/status/1905103477879267823)
-
-## Example Output
-![Fantasy Cartoon Illustration](public/images/creative/fantasy-cartoon-illustration.webp)
-
----
-
-#### Fluffy Jack-o'-lantern
-
-**Tags:** `3d`, `realistic`, `surreal`, `icon`
-
-Transform a simple flat vector icon of [🎃] into a soft, 3D fluffy object. The shape is fully covered in fur, with hyperrealistic hair texture and soft shadows. The object is centered on a clean, light gray background and floats gently in space. The style is surreal, tactile, and modern, evoking a sense of comfort and playfulness. Studio lighting, high-resolution render.
-
-## Source
-- [Original Post](https://x.com/gizakdag/status/1911075302941622512)
-- [Original Post](https://x.com/dotey/status/1912276883196039520)
-
-## Example Output
-![Fluffy Jack-o'-lantern](public/images/creative/fluffy-jack-o-lantern.webp)
-
----
-
-#### Ghibli Style
-
-**Tags:** `ghibli`, `ai-art`
-
-Redraw this photo in Ghibli style
-
-## Notes
-If encountering content policy violations, add this sentence to the prompt: If there is inappropriate (sensitive) content in the background, it can be modified or deleted.
-
-## Reference Image
-A photo of a person or other subject.
-
-## Source
-- [Original Post](https://animeai.online/#demo-gallery)
-
-## Example Output
-![Mona Lisa redrawn in Ghibli style](public/images/creative/ghibli-style.webp)
-
----
-
-#### Glass Retexturing
-
-**Tags:** `3d`, `realistic`, `glass`
-
-retexture the image attached based on the JSON aesthetic below
-{
-  "style": "photorealistic 3D render",
-  "material": "glass with transparent and iridescent effects",
-  "surface_texture": "smooth, polished with subtle reflections and refractive effects",
-  "lighting": {
-    "type": "studio HDRI",
-    "intensity": "high",
-    "direction": "angled top-left key light and ambient fill",
-    "accent_colors": ["blue", "green", "purple"],
-    "reflections": true,
-    "refractions": true,
-    "dispersion_effects": true,
-    "bloom": true
-  },
-  "color_scheme": {
-    "primary": "transparent with iridescent blue, green, and purple hues",
-    "secondary": "crystal-clear with subtle chromatic shifts",
-    "highlights": "soft, glowing accents reflecting rainbow-like effects",
-    "rim_light": "soft reflective light around edges"
-  },
-  "background": {
-    "color": "black",
-    "vignette": true,
-    "texture": "none"
-  },
-  "post_processing": {
-    "chromatic_aberration": true,
-    "glow": true,
-    "high_contrast": true,
-    "sharp_details": true
-  }
-}
-
-## Notes
-Please use GPT-4o to generate images with this prompt; using Sora may not produce the correct style.
-
-## Reference Image
-An image needs to be uploaded as the base for retexturing.
-
-## Source
-- [Original Post](https://x.com/egeberkina/status/1920448389960909085)
-
-## Example Output
-![Glass Retexturing](public/images/creative/glass-retexturing.webp)
-
----
-
-#### Glowing Lines Anatomy Diagram
-
-**Tags:** `illustration`, `ai-art`
-
-A digital illustration of a [SUBJECT], portrayed with a network of glowing clean pristine blue lines outlining its anatomy. The image is set against a dark background, highlighting the [SUBJECT] form and features. A specific area such as [PART] is emphasized with a red glow to indicate a point of interest or significance. The style is both educational and visually captivating, designed to resemble an advanced imaging technique
-
-## Notes
-Replace `[SUBJECT]` and `[PART]` in the prompt.
-
-## Source
-- [Original Post](https://x.com/umesh_ai/status/1914644426334314545)
-
-## Example Output
-![Glowing Lines Anatomy Diagram](public/images/creative/glowing-lines-anatomy-diagram.webp)
-
----
-
-#### Hand-drawn Infographic Card (Cognition)
-
-**Tags:** `illustration`, `icon`
-
-Create a hand-drawn style infographic card in vertical 9:16 ratio. The card should have a clear theme, with a beige or off-white paper-textured background. The overall design should convey a rustic, friendly, and handmade aesthetic.
-
-At the top of the card, feature a bold, eye-catching title in large Chinese cursive brush calligraphy using contrasting red and black colors. All text content should be in Chinese cursive script, and the layout should be divided into 2 to 4 clear sections. Each section expresses a core idea with brief and concise Chinese phrases. The cursive font should retain a smooth, rhythmic flow, remaining legible while carrying artistic appeal.
-
-The card should include simple, playful hand-drawn illustrations or icons, such as figures or symbolic elements, to enhance visual interest and spark reader reflection or emotional resonance.
-
-The overall layout should maintain visual balance, with ample white space reserved to ensure clarity, simplicity, and ease of reading and understanding.
-<h1><span style="color:red">“Cognition”</span> defines your ceiling  
-<span style="color:red">“Circle”</span> defines your opportunities</h1>  
-– You can’t earn money beyond your level of cognition,  
-– Nor encounter opportunities beyond your social circle.
-
-## Source
-- [Original Post](https://x.com/dotey/status/1907903480678985784)
-
-## Example Output
-![Hand-drawn Infographic Card](public/images/creative/hand-drawn-infographic-card-cognition.webp)
-
----
-
-#### Hand-drawn Infographic Card
-
-**Tags:** `illustration`, `icon`
-
-Create a hand-drawn style infographic card in a 9:16 vertical format. The card should have a clear theme, with a beige or off-white paper-textured background. The overall design should reflect a simple, warm, and handmade aesthetic.
-
-At the top of the card, use large, eye-catching brush-style Chinese cursive calligraphy in red and black for the title, creating strong visual contrast. All text should be in Chinese cursive script. The layout should be divided into 2 to 4 clear sections, each conveying a core idea through concise and refined Chinese phrases. The calligraphy should maintain a fluid, rhythmic style that is both legible and artistically expressive. Leave appropriate blank space around the text.
-
-The card should be accented with simple and fun hand-drawn illustrations or icons — such as figures or symbolic elements — to enhance visual appeal and spark thought or emotional resonance. The overall layout should emphasize visual balance and include ample whitespace, ensuring the design is clean, clear, and easy to read.
-
-“Building a personal brand (IP) is long-term compounding.
-Keep updating daily, and results will come — because 99% of people can’t keep it up!”
-
-## Source
-- [Original Post](https://x.com/dotey/status/1907870919852179850)
-
-## Example Output
-![Hand-drawn Infographic Card](public/images/creative/hand-drawn-infographic-card.webp)
-
----
-
-#### Integrating Word Meaning into Letters
-
-**Tags:** `creative`, `ai-art`
-
-Integrate the meaning of the word into the letters, cleverly blending graphics and letters.
-Word: {beautify}
-Add a brief explanation of the word below.
-
-## Notes
-Replace the word { beautify } with the word you want to integrate
-
-## Source
-- [Original Post](https://x.com/dotey/status/1918529055340576812)
-
-## Example Output
-![Integrating Word Meaning into Letters](public/images/creative/integrating-word-meaning-into-letters.webp)
-
----
-
-#### Japanese-style Two-Panel Manga (Angry Girl President)
-
-**Tags:** `anime`, `cartoon`, `vintage`, `cute`, `manga`
-
-Create a two-panel vertical manga in a cute Japanese anime style, theme: “The Daily Work Life of a Girl President.”
-
-Character Design:
-Transform the person in the uploaded image into a cute, moe-style anime girl while preserving all key details from the photo — including the outfit (a suit), hairstyle (bright golden-yellow), and facial features.
-
-Panel 1:
-- Expression: Pouting, disappointed, resting her cheek on one hand
-- Text box: “What do I dooo?! He won’t take my call! (；´д｀)”
-- Scene: Warm-toned office, with the U.S. flag in the background. On the desk: a pile of hamburgers and a vintage red rotary phone. The character is on the left side of the frame, the phone on the right.
-
-Panel 2:
-- Expression: Furious, face red with anger, gritting teeth
-- Action: Slams the desk hard, making the hamburgers jump
-- Speech bubble: “Hmph! Double the tariffs! Ignoring me is their loss! ( `д´ )”
-- Scene: Same office, now a complete mess
-
-Additional Notes:
-- Use a cute, casual handwritten font for all text
-- Keep the composition full and expressive, with adequate space for dialogue and intentional white space
-- Aspect ratio: 2:3
-- The overall visual tone should be colorful and energetic, with a distinctly cartoony style
-
-## Reference Image
-A photo of a person is needed for reference.
-
-## Source
-- [Original Post](https://x.com/hellokaton/status/1910900979194646959)
-
-## Example Output
-![Two-panel Cute Japanese Manga](public/images/creative/japanese-style-two-panel-manga-angry-girl-presiden.webp)
+![35mm Film Style Flying Island](https://awesomeprompts.xyz/images/creative/35mm-film-style-flying-island.webp)
 
 ---
 
@@ -1341,7 +897,7 @@ A photo of a person is needed for reference.
 - [Original](https://x.com/dr_cintas/status/1991888364099035581?s=20)
 
 ## Example Output
-![Aging Through the Years](public/images/creative/nb-aging-through-the-years.png)
+![Aging Through the Years](https://awesomeprompts.xyz/images/creative/nb-aging-through-the-years.png)
 
 ---
 
@@ -1381,7 +937,7 @@ If acne or irritation looks very severe or infected, clearly but kindly suggest 
 Keep the tone supportive, simple and clear.
 
 ## Example Output
-![AI Skin Analysis and Skincare Routine](public/images/creative/nb-ai-skin-analysis-and-skincare-routine.webp)
+![AI Skin Analysis and Skincare Routine](https://awesomeprompts.xyz/images/creative/nb-ai-skin-analysis-and-skincare-routine.webp)
 
 ---
 
@@ -1432,7 +988,28 @@ Keep the tone supportive, simple and clear.
 }
 
 ## Example Output
-![Chalkboard Anime Art Documentation](public/images/creative/nb-chalkboard-anime-art-documentation.webp)
+![Chalkboard Anime Art Documentation](https://awesomeprompts.xyz/images/creative/nb-chalkboard-anime-art-documentation.webp)
+
+---
+
+#### Children's Coloring Page Illustration (with Color Reference)
+
+**Tags:** `illustration`, `ai-art`
+
+A black and white line drawing coloring illustration, suitable for direct printing on standard size (8.5x11 inch) paper, without paper borders. The overall illustration style is fresh and simple, using clear and smooth black outline lines, without shadows, grayscale, or color filling, with a pure white background for easy coloring.
+[At the same time, for the convenience of users who are not good at coloring, please generate a complete colored version in the lower right corner as a small image for reference]
+Suitable for: [6-9 year old children]
+Scene description:
+[A unicorn is walking on the grass in the forest, with bright sunshine, blue sky and white clouds]
+
+## Notes
+The content within the brackets [] in the prompt can be replaced, such as the target audience and scene description.
+
+## Source
+- [Original Post](https://x.com/dotey/status/1919522110395080838)
+
+## Example Output
+![Children's Coloring Page Illustration (with Color Reference)](https://awesomeprompts.xyz/images/creative/children-s-coloring-page-illustration-with-color-r.webp)
 
 ---
 
@@ -1528,7 +1105,24 @@ E) ONE Master Contact Sheet Image (All KFs in one grid)
 - [Original](https://x.com/underwoodxie96/status/1995109628825489647)
 
 ## Example Output
-![Cinematic Keyframe Generator](public/images/creative/nb-cinematic-keyframe-generator.webp)
+![Cinematic Keyframe Generator](https://awesomeprompts.xyz/images/creative/nb-cinematic-keyframe-generator.webp)
+
+---
+
+#### Cloud Art
+
+**Tags:** `creative`, `ai-art`
+
+Generate image: A photograph captures a daytime scene with a [SUBJECT/OBJECT] formed by scattered clouds in the sky, positioned above a [LOCATION]
+
+## Notes
+The `[SUBJECT/OBJECT]` (shape formed by clouds) and `[LOCATION]` placeholders in the prompt can be replaced. The example image uses 'chinese dragon' as the subject and 'The Great Wall' as the location.
+
+## Source
+- [Original Post](https://x.com/umesh_ai/status/1913628737872027805)
+
+## Example Output
+![Cloud Art](https://awesomeprompts.xyz/images/creative/cloud-art.webp)
 
 ---
 
@@ -1552,7 +1146,7 @@ Lighting: harsh direct flash on subject, ambient low light in the background
 Color grading: nostalgic digital-camera tones, high contrast flash, subtle display grain, authentic screen glow.
 
 ## Example Output
-![Compact Camera Screen Display](public/images/creative/nb-compact-camera-screen-display.webp)
+![Compact Camera Screen Display](https://awesomeprompts.xyz/images/creative/nb-compact-camera-screen-display.webp)
 
 ---
 
@@ -1568,7 +1162,7 @@ Zoom out and expand this image to a 16:9 aspect ratio (computer wallpaper size).
 - [Original](https://mp.weixin.qq.com/s/lrYNbs4rGs3KOqewoZ6aNQ)
 
 ## Example Output
-![Composition Rescue (Smart Outpainting)](public/images/creative/nb-composition-rescue-smart-outpainting.png)
+![Composition Rescue (Smart Outpainting)](https://awesomeprompts.xyz/images/creative/nb-composition-rescue-smart-outpainting.png)
 
 ---
 
@@ -1584,7 +1178,7 @@ Create an educational infographic explaining [Photosynthesis] . Visual Elements 
 - [Original](https://mp.weixin.qq.com/s/lrYNbs4rGs3KOqewoZ6aNQ)
 
 ## Example Output
-![Concept Visualization (Text to Infographic)](public/images/creative/nb-concept-visualization-text-to-infographic.png)
+![Concept Visualization (Text to Infographic)](https://awesomeprompts.xyz/images/creative/nb-concept-visualization-text-to-infographic.png)
 
 ---
 
@@ -1600,7 +1194,7 @@ How engineers see the San Francisco Bridge
 - [Original](https://replicate.com/)
 
 ## Example Output
-![Conceptual Visualization](public/images/creative/nb-conceptual-visualization.png)
+![Conceptual Visualization](https://awesomeprompts.xyz/images/creative/nb-conceptual-visualization.png)
 
 ---
 
@@ -1616,7 +1210,98 @@ How engineers see the San Francisco Bridge
 - [Original](https://replicate.com/)
 
 ## Example Output
-![Coordinate Visualization](public/images/creative/nb-coordinate-visualization.png)
+![Coordinate Visualization](https://awesomeprompts.xyz/images/creative/nb-coordinate-visualization.png)
+
+---
+
+#### Creative Ad with Real Object and Hand-Drawn Doodle
+
+**Tags:** `minimalist`, `logo`
+
+A minimalist and creative advertisement set on a clean white background.
+A real [Real Object] is integrated into a hand-drawn black ink doodle, using loose, playful lines. The [Doodle Concept] interacts with the object in a clever, imaginative way. Include bold black [Ad Copy] text at the top or center. Place the [Brand Logo] clearly at the bottom. The visual should be clean, fun, high-contrast, and conceptually smart.
+
+## Notes
+Replace [Real Object], [Doodle Concept], [Ad Copy], and [Brand Logo] in the prompt with specific details.
+For example:
+[Real Object]: coffee bean
+[Doodle Concept]: The giant coffee bean becomes a space planet, with a small astronaut planting a flag on its surface
+[Ad Copy]: "Explore Bold Flavor"
+[Brand Logo]: Starbucks logo
+
+## Source
+- [Original Post](https://x.com/azed_ai/status/1923016036120658122)
+
+## Example Output
+![Creative Ad with Real Object and Hand-Drawn Doodle](https://awesomeprompts.xyz/images/creative/creative-ad-with-real-object-and-hand-drawn-doodle.webp)
+
+---
+
+#### Creative Logo Shaped Bookshelf
+
+**Tags:** `minimalist`, `logo`, `futuristic`
+
+Create a photograph of a modern bookshelf inspired by the shape of [LOGO]. The bookshelf features flowing, interconnected curves forming multiple sections of varying sizes. It is made of sleek matte black metal with wooden shelves inside the loops. Soft, warm LED lighting outlines the inner curves. The bookshelf is mounted on a neutral-toned wall and holds a mix of colorful books, small plants, and minimalistic art pieces. The overall vibe is creative, elegant, and slightly futuristic
+
+## Notes
+Replace the `[LOGO]` placeholder in the prompt with a specific brand logo description (e.g., "Apple logo", "McDonald's logo").
+
+## Source
+- [Original Post](https://x.com/umesh_ai/status/1916517976414495161)
+
+## Example Output
+![Creative Logo Shaped Bookshelf](https://awesomeprompts.xyz/images/creative/creative-logo-shaped-bookshelf.webp)
+
+---
+
+#### Creative Silk Universe
+
+**Tags:** `3d`, `surreal`
+
+Transform the {❄️} into a soft 3D object with a silk texture. The entire surface of the object is wrapped in smooth and flowing silk fabric, featuring surreal wrinkle details, soft highlights, and shadows. The object gently floats in the center of a clean light gray background, creating a light and elegant atmosphere. The overall style is surreal, tactile, and modern, conveying a sense of comfort and refined playfulness. Studio lighting, high-resolution rendering.
+
+## Notes
+You can replace the {❄️} in the prompt words with your target value
+
+## Source
+- [Original Post](https://x.com/ZHO_ZHO_ZHO/status/1914864217867608175)
+
+## Example Output
+![Silk Universe-Creative Universe](https://awesomeprompts.xyz/images/creative/creative-silk-universe.webp)
+
+---
+
+#### Cute and Cozy Knitted Doll
+
+**Tags:** `chibi`, `realistic`, `cute`, `character`
+
+A close-up, professionally composed photograph showcasing a hand-crocheted yarn doll gently cradled by two hands. The doll has a rounded shape, featuring the cute chibi image of the [upload image] character, with vivid contrasting colors and rich details. The hands holding the doll are natural and gentle, with clearly visible finger postures, and natural skin texture and light/shadow transitions, conveying a warm and realistic touch. The background is slightly blurred, depicting an indoor environment with a warm wooden tabletop and natural light streaming in from a window, creating a comfortable and intimate atmosphere. The overall image conveys a sense of exquisite craftsmanship and cherished warmth.
+
+## Reference Image
+Upload a photo as a reference to generate its cute chibi knitted doll image.
+
+## Source
+- [Original Post](https://x.com/ZHO_ZHO_ZHO/status/1921148024861938077)
+
+## Example Output
+![Cute and Cozy Knitted Doll](https://awesomeprompts.xyz/images/creative/cute-and-cozy-knitted-doll.webp)
+
+---
+
+#### Cute Plant Planter
+
+**Tags:** `minimalist`, `cute`, `animal`
+
+A high-quality photo of a cute ceramic [object/animal]-shaped planter with a glossy finish, filled with a variety of vibrant succulents and greenery including a spiky Haworthia, a rosette-shaped Echeveria, and delicate white flowers. The planter has a friendly face and sits on a soft, neutral background with diffused natural lighting, showcasing fine textures and color contrast in a clean, minimalistic composition
+
+## Notes
+Replace [object/animal] in the prompt with a specific object, animal name, or emoji.
+
+## Source
+- [Original Post](https://x.com/azed_ai/status/1923739813414568075)
+
+## Example Output
+![Cute Plant Planter](https://awesomeprompts.xyz/images/creative/cute-plant-planter.webp)
 
 ---
 
@@ -1632,7 +1317,7 @@ Translate the text in the speech bubbles/captions from [Japanese/English] to [Ch
 - [Original](https://mp.weixin.qq.com/s/lrYNbs4rGs3KOqewoZ6aNQ)
 
 ## Example Output
-![Digital Content Localization (Comics/Memes)](public/images/creative/nb-digital-content-localization-comics-memes.png)
+![Digital Content Localization (Comics/Memes)](https://awesomeprompts.xyz/images/creative/nb-digital-content-localization-comics-memes.png)
 
 ---
 
@@ -1648,7 +1333,80 @@ Create a high angle CCTV surveillance shot using the uploaded image as the sourc
 - [Original](https://x.com/egeberkina/status/1994804061024010628)
 
 ## Example Output
-![Face Detection CCTV Simulation](public/images/creative/nb-face-detection-cctv-simulation.webp)
+![Face Detection CCTV Simulation](https://awesomeprompts.xyz/images/creative/nb-face-detection-cctv-simulation.webp)
+
+---
+
+#### Famous Painting Character Cereal Ad
+
+**Tags:** `3d`, `chibi`, `minimalist`, `cute`, `character`
+
+“Master Oats”: Based on the visual features of the person in the uploaded photo, generate a custom oatmeal mix that reflects their personality traits — for example, using vegetables, fruits, yogurt, whole grains, etc.
+
+Design a unique cereal box and package aesthetic that aligns with this tailored mix.
+
+Then, create an advertising cover featuring the person as the mascot on the cereal box. The character should retain their recognizable features but be transformed into a cute chibi-style 3D figure with a C4D-quality rendering.
+
+The oatmeal and packaging should be presented in a setting that matches the mood — such as a minimalist kitchen, a sleek supermarket display, or a clean design counter.
+
+The process includes:
+– Character analysis and oat mix pairing
+– Cereal box concept and design
+– Display environment selection
+– Final image with mascot figure, packaging, and styled scene composition
+
+All visuals should be balanced, modern, and appealing, reflecting a premium and fun oat brand identity.
+
+## Reference Image
+[Image of 'Girl with a Pearl Earring'](https://commons.wikimedia.org/w/index.php?curid=55017931).
+
+## Source
+- [Original Post](https://x.com/ZHO_ZHO_ZHO/status/1909542765857587310)
+
+## Example Output
+![Famous Painting Character Cereal Ad](https://awesomeprompts.xyz/images/creative/famous-painting-character-cereal-ad.webp)
+
+---
+
+#### Famous Painting Character OOTD
+
+**Tags:** `3d`, `chibi`, `cute`, `glass`, `character`
+
+Generate a Q-style 3D C4D-rendered character based on the person in the photo, dressed in a fashion-forward “outfit of the day” (OOTD) inspired by a specific profession.
+Profession: Fashion Designer
+– Keep the original facial features and character pose
+– Stylize the character with a cute, long-legged chibi proportion
+– Outfit and accessories should reflect the profession, including trendy designer wear, glasses, sketchbook or tablet, and stylish shoes
+– Match the outfit with fashion accessories to complete the look
+– Use a solid background color that complements the character’s overall color palette (no gradients or textures)
+
+Composition: Aspect ratio: 9:16
+Top text: “OOTD”
+Left side: the full-body chibi character wearing the complete outfit
+Right side: individual clothing items and accessories laid out separately, as if in a style breakdown
+
+## Reference Image
+[Image of 'Girl with a Pearl Earring'](https://commons.wikimedia.org/w/index.php?curid=55017931).
+
+## Source
+- [Original Post](https://x.com/ZHO_ZHO_ZHO/status/1909892294217781714)
+
+## Example Output
+![Famous Painting Character OOTD](https://awesomeprompts.xyz/images/creative/famous-painting-character-ootd.webp)
+
+---
+
+#### Fantasy Cartoon Illustration
+
+**Tags:** `cartoon`, `illustration`, `fantasy`, `character`
+
+A cartoon-style character with a smiling computer monitor as its head, wearing gloves and boots, happily jumping through a glowing, blue, circular portal in a lush, fantasy forest landscape. The forest is detailed with large trees, mushrooms, flowers, a serene river, floating islands, and an atmospheric starry night sky with multiple moons. Bright, vibrant colors with soft lighting, fantasy illustration style.
+
+## Source
+- [Original Post](https://x.com/dotey/status/1905103477879267823)
+
+## Example Output
+![Fantasy Cartoon Illustration](https://awesomeprompts.xyz/images/creative/fantasy-cartoon-illustration.webp)
 
 ---
 
@@ -1668,7 +1426,111 @@ Iconography: On the left side (Revenue sources), include specific, minimalist fl
 Branding: Place the official [Insert Brand Name Here] logo clearly at the top center or near the central revenue bar.[Details]: High resolution, 4k, sharp typography (sans-serif), professional data visualization layout. The chart clearly distinguishes between Revenue, Gross Profit, Operating Expenses, and Net Profit.
 
 ## Example Output
-![Financial Sankey Diagram Visualization](public/images/creative/nb-financial-sankey-diagram-visualization.webp)
+![Financial Sankey Diagram Visualization](https://awesomeprompts.xyz/images/creative/nb-financial-sankey-diagram-visualization.webp)
+
+---
+
+#### Fluffy Jack-o'-lantern
+
+**Tags:** `3d`, `realistic`, `surreal`, `icon`
+
+Transform a simple flat vector icon of [🎃] into a soft, 3D fluffy object. The shape is fully covered in fur, with hyperrealistic hair texture and soft shadows. The object is centered on a clean, light gray background and floats gently in space. The style is surreal, tactile, and modern, evoking a sense of comfort and playfulness. Studio lighting, high-resolution render.
+
+## Source
+- [Original Post](https://x.com/gizakdag/status/1911075302941622512)
+- [Original Post](https://x.com/dotey/status/1912276883196039520)
+
+## Example Output
+![Fluffy Jack-o'-lantern](https://awesomeprompts.xyz/images/creative/fluffy-jack-o-lantern.webp)
+
+---
+
+#### Ghibli Style
+
+**Tags:** `ghibli`, `ai-art`
+
+Redraw this photo in Ghibli style
+
+## Notes
+If encountering content policy violations, add this sentence to the prompt: If there is inappropriate (sensitive) content in the background, it can be modified or deleted.
+
+## Reference Image
+A photo of a person or other subject.
+
+## Source
+- [Original Post](https://animeai.online/#demo-gallery)
+
+## Example Output
+![Mona Lisa redrawn in Ghibli style](https://awesomeprompts.xyz/images/creative/ghibli-style.webp)
+
+---
+
+#### Glass Retexturing
+
+**Tags:** `3d`, `realistic`, `glass`
+
+retexture the image attached based on the JSON aesthetic below
+{
+  "style": "photorealistic 3D render",
+  "material": "glass with transparent and iridescent effects",
+  "surface_texture": "smooth, polished with subtle reflections and refractive effects",
+  "lighting": {
+    "type": "studio HDRI",
+    "intensity": "high",
+    "direction": "angled top-left key light and ambient fill",
+    "accent_colors": ["blue", "green", "purple"],
+    "reflections": true,
+    "refractions": true,
+    "dispersion_effects": true,
+    "bloom": true
+  },
+  "color_scheme": {
+    "primary": "transparent with iridescent blue, green, and purple hues",
+    "secondary": "crystal-clear with subtle chromatic shifts",
+    "highlights": "soft, glowing accents reflecting rainbow-like effects",
+    "rim_light": "soft reflective light around edges"
+  },
+  "background": {
+    "color": "black",
+    "vignette": true,
+    "texture": "none"
+  },
+  "post_processing": {
+    "chromatic_aberration": true,
+    "glow": true,
+    "high_contrast": true,
+    "sharp_details": true
+  }
+}
+
+## Notes
+Please use GPT-4o to generate images with this prompt; using Sora may not produce the correct style.
+
+## Reference Image
+An image needs to be uploaded as the base for retexturing.
+
+## Source
+- [Original Post](https://x.com/egeberkina/status/1920448389960909085)
+
+## Example Output
+![Glass Retexturing](https://awesomeprompts.xyz/images/creative/glass-retexturing.webp)
+
+---
+
+#### Glowing Lines Anatomy Diagram
+
+**Tags:** `illustration`, `ai-art`
+
+A digital illustration of a [SUBJECT], portrayed with a network of glowing clean pristine blue lines outlining its anatomy. The image is set against a dark background, highlighting the [SUBJECT] form and features. A specific area such as [PART] is emphasized with a red glow to indicate a point of interest or significance. The style is both educational and visually captivating, designed to resemble an advanced imaging technique
+
+## Notes
+Replace `[SUBJECT]` and `[PART]` in the prompt.
+
+## Source
+- [Original Post](https://x.com/umesh_ai/status/1914644426334314545)
+
+## Example Output
+![Glowing Lines Anatomy Diagram](https://awesomeprompts.xyz/images/creative/glowing-lines-anatomy-diagram.webp)
 
 ---
 
@@ -1684,7 +1546,52 @@ Convert this hand-drawn whiteboard sketch into a professional corporate flowchar
 - [Original](https://mp.weixin.qq.com/s/lrYNbs4rGs3KOqewoZ6aNQ)
 
 ## Example Output
-![Hand-drawn Flowchart to Corporate Charts](public/images/creative/nb-hand-drawn-flowchart-to-corporate-charts.png)
+![Hand-drawn Flowchart to Corporate Charts](https://awesomeprompts.xyz/images/creative/nb-hand-drawn-flowchart-to-corporate-charts.png)
+
+---
+
+#### Hand-drawn Infographic Card
+
+**Tags:** `illustration`, `icon`
+
+Create a hand-drawn style infographic card in a 9:16 vertical format. The card should have a clear theme, with a beige or off-white paper-textured background. The overall design should reflect a simple, warm, and handmade aesthetic.
+
+At the top of the card, use large, eye-catching brush-style Chinese cursive calligraphy in red and black for the title, creating strong visual contrast. All text should be in Chinese cursive script. The layout should be divided into 2 to 4 clear sections, each conveying a core idea through concise and refined Chinese phrases. The calligraphy should maintain a fluid, rhythmic style that is both legible and artistically expressive. Leave appropriate blank space around the text.
+
+The card should be accented with simple and fun hand-drawn illustrations or icons — such as figures or symbolic elements — to enhance visual appeal and spark thought or emotional resonance. The overall layout should emphasize visual balance and include ample whitespace, ensuring the design is clean, clear, and easy to read.
+
+“Building a personal brand (IP) is long-term compounding.
+Keep updating daily, and results will come — because 99% of people can’t keep it up!”
+
+## Source
+- [Original Post](https://x.com/dotey/status/1907870919852179850)
+
+## Example Output
+![Hand-drawn Infographic Card](https://awesomeprompts.xyz/images/creative/hand-drawn-infographic-card.webp)
+
+---
+
+#### Hand-drawn Infographic Card (Cognition)
+
+**Tags:** `illustration`, `icon`
+
+Create a hand-drawn style infographic card in vertical 9:16 ratio. The card should have a clear theme, with a beige or off-white paper-textured background. The overall design should convey a rustic, friendly, and handmade aesthetic.
+
+At the top of the card, feature a bold, eye-catching title in large Chinese cursive brush calligraphy using contrasting red and black colors. All text content should be in Chinese cursive script, and the layout should be divided into 2 to 4 clear sections. Each section expresses a core idea with brief and concise Chinese phrases. The cursive font should retain a smooth, rhythmic flow, remaining legible while carrying artistic appeal.
+
+The card should include simple, playful hand-drawn illustrations or icons, such as figures or symbolic elements, to enhance visual interest and spark reader reflection or emotional resonance.
+
+The overall layout should maintain visual balance, with ample white space reserved to ensure clarity, simplicity, and ease of reading and understanding.
+<h1><span style="color:red">“Cognition”</span> defines your ceiling  
+<span style="color:red">“Circle”</span> defines your opportunities</h1>  
+– You can’t earn money beyond your level of cognition,  
+– Nor encounter opportunities beyond your social circle.
+
+## Source
+- [Original Post](https://x.com/dotey/status/1907903480678985784)
+
+## Example Output
+![Hand-drawn Infographic Card](https://awesomeprompts.xyz/images/creative/hand-drawn-infographic-card-cognition.webp)
 
 ---
 
@@ -1704,7 +1611,7 @@ Based on the uploaded 2D floor plan, generate a professional interior design pre
 - [Original](https://mp.weixin.qq.com/s/lrYNbs4rGs3KOqewoZ6aNQ)
 
 ## Example Output
-![Hard Furnishing Preview (Floor Plan to Design)](public/images/creative/nb-hard-furnishing-preview-floor-plan-to-design.png)
+![Hard Furnishing Preview (Floor Plan to Design)](https://awesomeprompts.xyz/images/creative/nb-hard-furnishing-preview-floor-plan-to-design.png)
 
 ---
 
@@ -1724,7 +1631,63 @@ THE ENVIRONMENT: A luxurious open-air rooftop terrace at sunset overlooking a mo
 - [Original](https://x.com/SebJefferies/status/1991531687147360728)
 
 ## Example Output
-![Hyper-Realistic Crowd Composition](public/images/creative/nb-hyper-realistic-crowd-composition.png)
+![Hyper-Realistic Crowd Composition](https://awesomeprompts.xyz/images/creative/nb-hyper-realistic-crowd-composition.png)
+
+---
+
+#### Integrating Word Meaning into Letters
+
+**Tags:** `creative`, `ai-art`
+
+Integrate the meaning of the word into the letters, cleverly blending graphics and letters.
+Word: {beautify}
+Add a brief explanation of the word below.
+
+## Notes
+Replace the word { beautify } with the word you want to integrate
+
+## Source
+- [Original Post](https://x.com/dotey/status/1918529055340576812)
+
+## Example Output
+![Integrating Word Meaning into Letters](https://awesomeprompts.xyz/images/creative/integrating-word-meaning-into-letters.webp)
+
+---
+
+#### Japanese-style Two-Panel Manga (Angry Girl President)
+
+**Tags:** `anime`, `cartoon`, `vintage`, `cute`, `manga`
+
+Create a two-panel vertical manga in a cute Japanese anime style, theme: “The Daily Work Life of a Girl President.”
+
+Character Design:
+Transform the person in the uploaded image into a cute, moe-style anime girl while preserving all key details from the photo — including the outfit (a suit), hairstyle (bright golden-yellow), and facial features.
+
+Panel 1:
+- Expression: Pouting, disappointed, resting her cheek on one hand
+- Text box: “What do I dooo?! He won’t take my call! (；´д｀)”
+- Scene: Warm-toned office, with the U.S. flag in the background. On the desk: a pile of hamburgers and a vintage red rotary phone. The character is on the left side of the frame, the phone on the right.
+
+Panel 2:
+- Expression: Furious, face red with anger, gritting teeth
+- Action: Slams the desk hard, making the hamburgers jump
+- Speech bubble: “Hmph! Double the tariffs! Ignoring me is their loss! ( `д´ )”
+- Scene: Same office, now a complete mess
+
+Additional Notes:
+- Use a cute, casual handwritten font for all text
+- Keep the composition full and expressive, with adequate space for dialogue and intentional white space
+- Aspect ratio: 2:3
+- The overall visual tone should be colorful and energetic, with a distinctly cartoony style
+
+## Reference Image
+A photo of a person is needed for reference.
+
+## Source
+- [Original Post](https://x.com/hellokaton/status/1910900979194646959)
+
+## Example Output
+![Two-panel Cute Japanese Manga](https://awesomeprompts.xyz/images/creative/japanese-style-two-panel-manga-angry-girl-presiden.webp)
 
 ---
 
@@ -1801,7 +1764,7 @@ III. Overall Art Style Requirements
 - [Original](https://x.com/dotey/status/1994908289813880915)
 
 ## Example Output
-![Kids' Crayon Travel Journal Illustrator](public/images/creative/nb-kids-crayon-travel-journal-illustrator.webp)
+![Kids' Crayon Travel Journal Illustrator](https://awesomeprompts.xyz/images/creative/nb-kids-crayon-travel-journal-illustrator.webp)
 
 ---
 
@@ -1817,7 +1780,7 @@ rare.webp
 - [Original](https://replicate.com/)
 
 ## Example Output
-![Literal Interpretation](public/images/creative/nb-literal-interpretation.webp)
+![Literal Interpretation](https://awesomeprompts.xyz/images/creative/nb-literal-interpretation.webp)
 
 ---
 
@@ -1833,7 +1796,47 @@ an office team photo, everyone making a silly face
 - [Original](https://replicate.com/)
 
 ## Example Output
-![Multi-Subject Compositing](public/images/creative/nb-multi-subject-compositing.webp)
+![Multi-Subject Compositing](https://awesomeprompts.xyz/images/creative/nb-multi-subject-compositing.webp)
+
+---
+
+#### Original Pokemon Creation
+
+**Tags:** `retro`, `cute`, `illustration`, `fantasy`, `character`
+
+Create an original creature inspired by this object (photo provided). The creature should look like it belongs in a fantasy monster-catching universe, with a cute or cool design influenced by retro Japanese RPG monster art. The image must include:
+– A full-body view of the creature, inspired by the shape, materials or purpose of the object.
+– A small orb or capsule (similar an a pokeball) at its feet, designed with patterns and colors matching the object’s look — not a standard Pokéball, but a custom design.
+– An invented name for the creature, displayed next to or below it. – Its elemental type (e.g., Fire, Water, Metal, Nature, Electric…), based on the object’s core properties. The illustration should look like it comes from a fantasy creature encyclopedia, with clean lines, soft shadows, and an expressive, character-driven design.
+
+## Notes
+If the prompt doesn't work the first time, try a new conversation or ask him to work around the problem.
+
+## Reference Image
+Needs a photo of an object, food, etc., as inspiration.
+
+## Source
+- [Original Post](https://x.com/Anima_Labs/status/1915044265895379166)
+
+## Example Output
+![Original Pokemon Creation](https://awesomeprompts.xyz/images/creative/original-pokemon-creation.webp)
+
+---
+
+#### Personalized Room Design
+
+**Tags:** `3d`, `cute`
+
+Design a cozy bedroom in a cute 3D style with C4D-quality rendering, presented in an isometric view. The room includes a bed, bookshelf, sofa, green plants, a computer desk, and a computer setup. A framed painting hangs on the wall. Outside the window, a nighttime cityscape is visible with glowing buildings and a dark sky. All furniture and objects should have a soft, rounded, stylized design to match the cute 3D aesthetic. Lighting should be warm and inviting, creating a comfortable nighttime indoor atmosphere.
+
+## Notes
+The original prompt generated the room based on ChatGPT's memory of the user. This version is slightly modified. Please refer to the original source.
+
+## Source
+- [Original Post](https://x.com/ZHO_ZHO_ZHO/status/1910698005193515370)
+
+## Example Output
+![Personalized Room Design](https://awesomeprompts.xyz/images/creative/personalized-room-design.webp)
 
 ---
 
@@ -1849,7 +1852,29 @@ Turn this photo of my [cat/dog] into a funny hand-drawn WeChat sticker . Style :
 - [Original](https://mp.weixin.qq.com/s/lrYNbs4rGs3KOqewoZ6aNQ)
 
 ## Example Output
-![Pet Meme Creation](public/images/creative/nb-pet-meme-creation.png)
+![Pet Meme Creation](https://awesomeprompts.xyz/images/creative/nb-pet-meme-creation.png)
+
+---
+
+#### Physical Destruction Effect Card (Lara Croft)
+
+**Tags:** `realistic`, `illustration`, `icon`
+
+An ultra-photorealistic, cinematic-style illustration depicting Lara Croft dynamically bursting through the frame of an “Archaeological Adventure” trading card. She is caught mid-jump or swinging on a rope, wearing her iconic adventurer outfit and possibly firing dual pistols. The muzzle flashes help shatter the card’s ancient stone-carved border, creating a visible dimensional rupture with energy cracks and spatial distortions, scattering dust and debris outward.
+
+Her body lunges forward with powerful momentum, breaking through the card’s flat plane, emphasizing strong motion depth. Inside the card (the background) is a depiction of dense jungle ruins or a trap-filled ancient tomb. The shattered card fragments mix with crumbling stone, flying vines, broken ancient coins, and spent shell casings.
+
+The title “Archaeological Adventure” and the name “Lara Croft” (accompanied by a stylized artifact icon) remain visible on the remaining cracked and weathered parts of the card. The scene is lit with adventurous, dynamic lighting that emphasizes her agility and the perilous environment.
+
+## Notes
+The original tweet mentioned key terms are "dimensional break effects" and "motion depth". The prompt above is a reconstruction based on the description.
+
+## Source
+- [Original Post](https://x.com/op7418/status/1912782048160542886)
+- [Original Post](https://x.com/hc_dsn/status/1912367201476309396)
+
+## Example Output
+![Physical Destruction Effect Card (Lara Croft)](https://awesomeprompts.xyz/images/creative/physical-destruction-effect-card-lara-croft.webp)
 
 ---
 
@@ -1865,7 +1890,7 @@ Translate the Chinese dish names on the wall menu into English for foreign touri
 - [Original](https://mp.weixin.qq.com/s/lrYNbs4rGs3KOqewoZ6aNQ)
 
 ## Example Output
-![Physical Store/Travel Translation](public/images/creative/nb-physical-store-travel-translation.png)
+![Physical Store/Travel Translation](https://awesomeprompts.xyz/images/creative/nb-physical-store-travel-translation.png)
 
 ---
 
@@ -1881,7 +1906,24 @@ recursive image of an orange cat sitting in an office chair holding up an iPad. 
 - [Original](https://x.com/venturetwins/status/1993174445515772086)
 
 ## Example Output
-![Recursive Visuals](public/images/creative/nb-recursive-visuals.png)
+![Recursive Visuals](https://awesomeprompts.xyz/images/creative/nb-recursive-visuals.png)
+
+---
+
+#### Retro CRT Computer Boot Screen
+
+**Tags:** `retro`, `logo`
+
+Retro CRT computer boot screen that resolves into ASCII-art of [shape or logo]
+
+## Notes
+Replace [shape or logo] in the prompt with a specific shape or logo description, such as Shanghai skyline.
+
+## Source
+- [Original Post](https://x.com/Gdgtify/status/1925176250626159053)
+
+## Example Output
+![Retro CRT Computer Boot Screen](https://awesomeprompts.xyz/images/creative/retro-crt-computer-boot-screen.webp)
 
 ---
 
@@ -1897,7 +1939,23 @@ Show me how this room would look with furniture in it
 - [Original](https://x.com/NanoBanana/status/1994483569625022487)
 
 ## Example Output
-![Room Furnishing Visualization](public/images/creative/nb-room-furnishing-visualization.webp)
+![Room Furnishing Visualization](https://awesomeprompts.xyz/images/creative/nb-room-furnishing-visualization.webp)
+
+---
+
+#### Satirical Cartoon Generation
+
+**Tags:** `cartoon`, `retro`, `vintage`, `comic`, `illustration`
+
+An illustration in satirical comic style, rendered in a vintage American comic aesthetic. The background features a multi-tiered shelf stocked entirely with identical red baseball caps. The caps have a bold slogan on the front: “MAKE AMERICA GREAT AGAIN,” while a white side tag on each reads “MADE IN CHINA.” The composition uses a close-up perspective focusing on one specific red cap.
+At the bottom of the image, a price label is shown: the original price “$50.00” is crossed out with a thick black X and replaced with “$77.00.” The overall color palette uses nostalgic ochre and deep red tones, with shading that mimics the textured print style of 1990s retro comics.
+The composition is exaggerated and satirical, carrying a strong critique of political consumerism.
+
+## Source
+- [Original Post](https://x.com/dotey/status/1910514811756065159)
+
+## Example Output
+![Satirical Cartoon Generation](https://awesomeprompts.xyz/images/creative/satirical-cartoon-generation.webp)
 
 ---
 
@@ -1913,11 +1971,11 @@ Remove all the tourists/people in the background behind the main subject. Intell
 - [Original](https://mp.weixin.qq.com/s/lrYNbs4rGs3KOqewoZ6aNQ)
 
 ## Example Output
-![Smart Crowd Removal](public/images/creative/nb-smart-crowd-removal.png)
+![Smart Crowd Removal](https://awesomeprompts.xyz/images/creative/nb-smart-crowd-removal.png)
 
 ---
 
-#### Star Wars \"Where's Waldo\
+#### Star Wars "Where's Waldo"
 
 **Tags:** `character`, `ai-art`
 
@@ -1931,7 +1989,61 @@ First one to pull this off. First take. Even Waldo is there.
 - [Original](https://x.com/creacas/status/1991585587548348513?s=20)
 
 ## Example Output
-![Star Wars "Where's Waldo"](public/images/creative/nb-star-wars-where-s-waldo.webp)
+![Star Wars "Where's Waldo"](https://awesomeprompts.xyz/images/creative/nb-star-wars-where-s-waldo.webp)
+
+---
+
+#### Steampunk Mechanical Fish
+
+**Tags:** `glass`, `steampunk`
+
+A steampunk-style mechanical fish with a brass body and clearly visible gear mechanisms when in motion.
+Its mechanical teeth can be slightly seen, neatly arranged and closed, with both upper and lower teeth visible. Each tooth is triangular in shape and made of diamond material.
+The tail fin has a metal wire mesh structure, while other fins are made of semi-transparent amber-colored glass with some subtle bubbles inside.
+The eyes are multi-faceted rubies, with clearly visible reflective shine.
+The fish has "f-is-h" text clearly visible on its body, with all lowercase letters and careful attention to the hyphen placement.
+The image is square, showing the entire fish in the center of the frame, with its head pointing to the right. There is adequate white space around the fish, with more space on the left and right sides. The background has subtle steampunk-style gear patterns.
+The entire fish looks very cool. This is a high-definition image with extremely rich details and unique texture and aesthetics. The image should not be too dark.
+
+## Notes
+This image showcases an excellent combination of steampunk style and metallic textures, presenting intricate mechanical details and a retro-futuristic aesthetic.
+
+## Source
+- [Original Post](https://github.com/f-is-h/f-is-h/blob/main/images/streampank-fish-4.webp)
+
+## Example Output
+![Steampunk Mechanical Fish](https://awesomeprompts.xyz/images/creative/steampunk-mechanical-fish.webp)
+
+---
+
+#### Surreal Interaction Scene
+
+**Tags:** `realistic`, `surreal`
+
+A pencil sketch of [Subject 1] interacting with [Subject 2], where [Subject 2] is rendered as a realistic, full-color object, creating a surreal contrast against the hand-drawn style of [Subject 1] and the background
+
+## Notes
+Replace [Subject 1] and [Subject 2] in the prompt with specific subject descriptions, such as "a hand" and "a rose".
+
+## Source
+- [Original Post](https://x.com/umesh_ai/status/1917444534239191544)
+
+## Example Output
+![Surreal Interaction Scene](https://awesomeprompts.xyz/images/creative/surreal-interaction-scene.webp)
+
+---
+
+#### Surreal Underwater Scene Popsicle
+
+**Tags:** `surreal`, `ai-art`
+
+Tilt POV shot of a hand holding a surreal popsicle with a transparent blue exterior, revealing an underwater scene inside: a tiny scuba diver with tiny fish floating with bubbles, ocean waves crashing, and a green popsicle stick running through the center. The popsicle is melting slightly, with a wooden stick at the bottom, hand is holding it by the wooden stick, soft focus new york street background, premium product photography
+
+## Source
+- [Original Post](https://x.com/madpencil_/status/1920037538372128998)
+
+## Example Output
+![Surreal Underwater Scene Popsicle](https://awesomeprompts.xyz/images/creative/surreal-underwater-scene-popsicle.webp)
 
 ---
 
@@ -2008,7 +2120,7 @@ interior_style:
       paper: "notebook paper with faint ruled lines"
 
 ## Example Output
-![Torn Paper Art Effect](public/images/creative/nb-torn-paper-art-effect.webp)
+![Torn Paper Art Effect](https://awesomeprompts.xyz/images/creative/nb-torn-paper-art-effect.webp)
 
 ---
 
@@ -2024,7 +2136,7 @@ Transform this rough wireframe sketch into a high-fidelity UI design mockups for
 - [Original](https://mp.weixin.qq.com/s/lrYNbs4rGs3KOqewoZ6aNQ)
 
 ## Example Output
-![UI Hand-drawn Sketch to High-Fidelity Prototype](public/images/creative/nb-ui-hand-drawn-sketch-to-high-fidelity-prototype.png)
+![UI Hand-drawn Sketch to High-Fidelity Prototype](https://awesomeprompts.xyz/images/creative/nb-ui-hand-drawn-sketch-to-high-fidelity-prototype.png)
 
 ---
 
@@ -2037,7 +2149,7 @@ Transform this rough wireframe sketch into a high-fidelity UI design mockups for
 create a map of the US where every state is made out of its most famous food (the states should actually look like they are made of the food, not a picture of the food). Check carefully to make sure each state is right.
 
 ## Example Output
-![US Map Made of Famous Foods](public/images/creative/nb-us-map-made-of-famous-foods.webp)
+![US Map Made of Famous Foods](https://awesomeprompts.xyz/images/creative/nb-us-map-made-of-famous-foods.webp)
 
 ---
 
@@ -2053,7 +2165,7 @@ Using Image 1 (the garment) and Image 2 (the model), create a hyper-realistic fu
 - [Original](https://mp.weixin.qq.com/s/lrYNbs4rGs3KOqewoZ6aNQ)
 
 ## Example Output
-![Virtual Model Try-On](public/images/creative/nb-virtual-model-try-on.png)
+![Virtual Model Try-On](https://awesomeprompts.xyz/images/creative/nb-virtual-model-try-on.png)
 
 ---
 
@@ -2069,181 +2181,16 @@ Create a photo of vagabonds musashi praying drawn on a glass whiteboard in a sli
 - [Original](https://x.com/nicdunz/status/1991556910106177849)
 
 ## Example Output
-![Whiteboard Marker Art](public/images/creative/nb-whiteboard-marker-art.png)
+![Whiteboard Marker Art](https://awesomeprompts.xyz/images/creative/nb-whiteboard-marker-art.png)
 
 ---
 
-#### Original Pokemon Creation
-
-**Tags:** `retro`, `cute`, `illustration`, `fantasy`, `character`
-
-Create an original creature inspired by this object (photo provided). The creature should look like it belongs in a fantasy monster-catching universe, with a cute or cool design influenced by retro Japanese RPG monster art. The image must include:
-– A full-body view of the creature, inspired by the shape, materials or purpose of the object.
-– A small orb or capsule (similar an a pokeball) at its feet, designed with patterns and colors matching the object’s look — not a standard Pokéball, but a custom design.
-– An invented name for the creature, displayed next to or below it. – Its elemental type (e.g., Fire, Water, Metal, Nature, Electric…), based on the object’s core properties. The illustration should look like it comes from a fantasy creature encyclopedia, with clean lines, soft shadows, and an expressive, character-driven design.
-
-## Notes
-If the prompt doesn't work the first time, try a new conversation or ask him to work around the problem.
-
-## Reference Image
-Needs a photo of an object, food, etc., as inspiration.
-
-## Source
-- [Original Post](https://x.com/Anima_Labs/status/1915044265895379166)
-
-## Example Output
-![Original Pokemon Creation](public/images/creative/original-pokemon-creation.webp)
-
----
-
-#### Personalized Room Design
-
-**Tags:** `3d`, `cute`
-
-Design a cozy bedroom in a cute 3D style with C4D-quality rendering, presented in an isometric view. The room includes a bed, bookshelf, sofa, green plants, a computer desk, and a computer setup. A framed painting hangs on the wall. Outside the window, a nighttime cityscape is visible with glowing buildings and a dark sky. All furniture and objects should have a soft, rounded, stylized design to match the cute 3D aesthetic. Lighting should be warm and inviting, creating a comfortable nighttime indoor atmosphere.
-
-## Notes
-The original prompt generated the room based on ChatGPT's memory of the user. This version is slightly modified. Please refer to the original source.
-
-## Source
-- [Original Post](https://x.com/ZHO_ZHO_ZHO/status/1910698005193515370)
-
-## Example Output
-![Personalized Room Design](public/images/creative/personalized-room-design.webp)
-
----
-
-#### Physical Destruction Effect Card (Lara Croft)
-
-**Tags:** `realistic`, `illustration`, `icon`
-
-An ultra-photorealistic, cinematic-style illustration depicting Lara Croft dynamically bursting through the frame of an “Archaeological Adventure” trading card. She is caught mid-jump or swinging on a rope, wearing her iconic adventurer outfit and possibly firing dual pistols. The muzzle flashes help shatter the card’s ancient stone-carved border, creating a visible dimensional rupture with energy cracks and spatial distortions, scattering dust and debris outward.
-
-Her body lunges forward with powerful momentum, breaking through the card’s flat plane, emphasizing strong motion depth. Inside the card (the background) is a depiction of dense jungle ruins or a trap-filled ancient tomb. The shattered card fragments mix with crumbling stone, flying vines, broken ancient coins, and spent shell casings.
-
-The title “Archaeological Adventure” and the name “Lara Croft” (accompanied by a stylized artifact icon) remain visible on the remaining cracked and weathered parts of the card. The scene is lit with adventurous, dynamic lighting that emphasizes her agility and the perilous environment.
-
-## Notes
-The original tweet mentioned key terms are "dimensional break effects" and "motion depth". The prompt above is a reconstruction based on the description.
-
-## Source
-- [Original Post](https://x.com/op7418/status/1912782048160542886)
-- [Original Post](https://x.com/hc_dsn/status/1912367201476309396)
-
-## Example Output
-![Physical Destruction Effect Card (Lara Croft)](public/images/creative/physical-destruction-effect-card-lara-croft.webp)
-
----
-
-#### Retro CRT Computer Boot Screen
-
-**Tags:** `retro`, `logo`
-
-Retro CRT computer boot screen that resolves into ASCII-art of [shape or logo]
-
-## Notes
-Replace [shape or logo] in the prompt with a specific shape or logo description, such as Shanghai skyline.
-
-## Source
-- [Original Post](https://x.com/Gdgtify/status/1925176250626159053)
-
-## Example Output
-![Retro CRT Computer Boot Screen](public/images/creative/retro-crt-computer-boot-screen.webp)
-
----
-
-#### Satirical Cartoon Generation
-
-**Tags:** `cartoon`, `retro`, `vintage`, `comic`, `illustration`
-
-An illustration in satirical comic style, rendered in a vintage American comic aesthetic. The background features a multi-tiered shelf stocked entirely with identical red baseball caps. The caps have a bold slogan on the front: “MAKE AMERICA GREAT AGAIN,” while a white side tag on each reads “MADE IN CHINA.” The composition uses a close-up perspective focusing on one specific red cap.
-At the bottom of the image, a price label is shown: the original price “$50.00” is crossed out with a thick black X and replaced with “$77.00.” The overall color palette uses nostalgic ochre and deep red tones, with shading that mimics the textured print style of 1990s retro comics.
-The composition is exaggerated and satirical, carrying a strong critique of political consumerism.
-
-## Source
-- [Original Post](https://x.com/dotey/status/1910514811756065159)
-
-## Example Output
-![Satirical Cartoon Generation](public/images/creative/satirical-cartoon-generation.webp)
-
----
-
-#### Steampunk Mechanical Fish
-
-**Tags:** `glass`, `steampunk`
-
-A steampunk-style mechanical fish with a brass body and clearly visible gear mechanisms when in motion.
-Its mechanical teeth can be slightly seen, neatly arranged and closed, with both upper and lower teeth visible. Each tooth is triangular in shape and made of diamond material.
-The tail fin has a metal wire mesh structure, while other fins are made of semi-transparent amber-colored glass with some subtle bubbles inside.
-The eyes are multi-faceted rubies, with clearly visible reflective shine.
-The fish has "f-is-h" text clearly visible on its body, with all lowercase letters and careful attention to the hyphen placement.
-The image is square, showing the entire fish in the center of the frame, with its head pointing to the right. There is adequate white space around the fish, with more space on the left and right sides. The background has subtle steampunk-style gear patterns.
-The entire fish looks very cool. This is a high-definition image with extremely rich details and unique texture and aesthetics. The image should not be too dark.
-
-## Notes
-This image showcases an excellent combination of steampunk style and metallic textures, presenting intricate mechanical details and a retro-futuristic aesthetic.
-
-## Source
-- [Original Post](https://github.com/f-is-h/f-is-h/blob/main/images/streampank-fish-4.webp)
-
-## Example Output
-![Steampunk Mechanical Fish](public/images/creative/steampunk-mechanical-fish.webp)
-
----
-
-#### Surreal Interaction Scene
-
-**Tags:** `realistic`, `surreal`
-
-A pencil sketch of [Subject 1] interacting with [Subject 2], where [Subject 2] is rendered as a realistic, full-color object, creating a surreal contrast against the hand-drawn style of [Subject 1] and the background
-
-## Notes
-Replace [Subject 1] and [Subject 2] in the prompt with specific subject descriptions, such as "a hand" and "a rose".
-
-## Source
-- [Original Post](https://x.com/umesh_ai/status/1917444534239191544)
-
-## Example Output
-![Surreal Interaction Scene](public/images/creative/surreal-interaction-scene.webp)
-
----
-
-#### Surreal Underwater Scene Popsicle
-
-**Tags:** `surreal`, `ai-art`
-
-Tilt POV shot of a hand holding a surreal popsicle with a transparent blue exterior, revealing an underwater scene inside: a tiny scuba diver with tiny fish floating with bubbles, ocean waves crashing, and a green popsicle stick running through the center. The popsicle is melting slightly, with a wooden stick at the bottom, hand is holding it by the wooden stick, soft focus new york street background, premium product photography
-
-## Source
-- [Original Post](https://x.com/madpencil_/status/1920037538372128998)
-
-## Example Output
-![Surreal Underwater Scene Popsicle](public/images/creative/surreal-underwater-scene-popsicle.webp)
-
----
-
-#### \"Titanic\" Pose Parody
-
-**Tags:** `3d`, `chibi`, `realistic`, `cute`, `icon`
-
-Transform the person in the attached image into a cute chibi-style 3D character.
-Scene: On the pointed bow of a luxurious cruise ship.
-The man stands behind the woman at the bow, holding her waist with both hands. The woman is wearing a dress, arms spread wide, facing the wind, with a joyful and liberated expression on her face—just like the iconic scene from Titanic.
-The sky is painted in warm sunset tones, and the vast ocean stretches beneath the ship.
-Only the characters should be in chibi 3D style; the rest of the environment should be realistic.
-
-## Reference Image
-A couple's photo.
-
-## Source
-- [Original Post](https://x.com/balconychy/status/1909916265067557299)
-
-## Example Output
-!["Titanic" Pose Parody](public/images/creative/titanic-pose-parody.webp)
-
----
+</details>
 
 ### ✨ Icons
+
+<details>
+<summary>View 16 prompts</summary>
 
 #### 8-Bit Pixel Icon
 
@@ -2258,7 +2205,7 @@ The `[🍔]` emoji in the prompt can be replaced with other emojis or subjects.
 - [Original Post](https://x.com/egeberkina/status/1913654508330058064)
 
 ## Example Output
-![8-Bit Pixel Icon](public/images/icons/8-bit-pixel-icon.webp)
+![8-Bit Pixel Icon](https://awesomeprompts.xyz/images/icons/8-bit-pixel-icon.webp)
 
 ---
 
@@ -2275,7 +2222,7 @@ Replace the {🐼} emoji in the prompt with other animal emojis.
 - [Original Post](https://x.com/ZHO_ZHO_ZHO/status/1918525296577327574)
 
 ## Example Output
-![Animal Silicone Wrist Rest](public/images/icons/animal-silicone-wrist-rest.webp)
+![Animal Silicone Wrist Rest](https://awesomeprompts.xyz/images/icons/animal-silicone-wrist-rest.webp)
 
 ---
 
@@ -2289,7 +2236,7 @@ Naruto stickers
 - [Original Post](https://x.com/richardchang/status/1909086122959139312)
 
 ## Example Output
-![Anime Sticker Collection](public/images/icons/anime-sticker-collection.webp)
+![Anime Sticker Collection](https://awesomeprompts.xyz/images/icons/anime-sticker-collection.webp)
 
 ---
 
@@ -2309,7 +2256,7 @@ A photo of a person needs to be uploaded as a reference for the badge design.
 - [Original Post](https://x.com/Alittlefatwhale/status/1922512847030124905)
 
 ## Example Output
-![Anime-style Badge](public/images/icons/anime-style-badge.webp)
+![Anime-style Badge](https://awesomeprompts.xyz/images/icons/anime-style-badge.webp)
 
 ---
 
@@ -2326,7 +2273,7 @@ Replace brand name, slogan, keycap colors
 - [Original Post](https://x.com/egeberkina/status/1918291652210311278)
 
 ## Example Output
-![Branded Mechanical Keycaps](public/images/icons/branded-mechanical-keycaps.webp)
+![Branded Mechanical Keycaps](https://awesomeprompts.xyz/images/icons/branded-mechanical-keycaps.webp)
 
 ---
 
@@ -2346,7 +2293,7 @@ A clear half-body or full-body single person photo.
 - [Original Post](https://x.com/dotey/status/1908910838636765204)
 
 ## Example Output
-![Character Stepping Through Portal](public/images/icons/character-stepping-through-portal.webp)
+![Character Stepping Through Portal](https://awesomeprompts.xyz/images/icons/character-stepping-through-portal.webp)
 
 ---
 
@@ -2363,7 +2310,20 @@ Replace {👍} emoji with your emoji icon; Replace title and tagline.
 - [Original Post](https://x.com/egeberkina/status/1919398870867440124)
 
 ## Example Output
-![Chrome Emoji Pin](public/images/icons/chrome-emoji-pin.webp)
+![Chrome Emoji Pin](https://awesomeprompts.xyz/images/icons/chrome-emoji-pin.webp)
+
+---
+
+#### Emoji Combination - Banana with Sunglasses
+
+**Tags:** `emoji`, `glass`
+
+*Combine emojis in a Google-style design*
+
+combine these emojis: 🍌 + 😎, on a white background as a google emoji design
+
+## Example Output
+![Emoji Combination - Banana with Sunglasses](https://awesomeprompts.xyz/images/icons/nb-emoji-combination-banana-with-sunglasses.webp)
 
 ---
 
@@ -2380,7 +2340,7 @@ The 【🍓】 emoji in the prompt can be replaced with other emojis.
 - [Original Post](https://x.com/ZHO_ZHO_ZHO/status/1914574278911000967)
 
 ## Example Output
-![Emoji Cream Popsicle](public/images/icons/emoji-cream-popsicle.webp)
+![Emoji Cream Popsicle](https://awesomeprompts.xyz/images/icons/emoji-cream-popsicle.webp)
 
 ---
 
@@ -2397,7 +2357,7 @@ The [🥹] emoji in the prompt can be replaced with other emojis.
 - [Original Post](https://x.com/gizakdag/status/1912858535643197927)
 
 ## Example Output
-![Emoji Inflatable Cushion](public/images/icons/emoji-inflatable-cushion.webp)
+![Emoji Inflatable Cushion](https://awesomeprompts.xyz/images/icons/emoji-inflatable-cushion.webp)
 
 ---
 
@@ -2414,7 +2374,7 @@ The 🦖 emoji in the prompt can be replaced with other emojis.
 - [Original Post](https://x.com/gizakdag/status/1913925062568144924)
 
 ## Example Output
-![Emoji Tufted Rug](public/images/icons/emoji-tufted-rug.webp)
+![Emoji Tufted Rug](https://awesomeprompts.xyz/images/icons/emoji-tufted-rug.webp)
 
 ---
 
@@ -2438,7 +2398,7 @@ A clear profile photo.
 - [Original Post](https://x.com/ZHO_ZHO_ZHO/status/1908044836953108490)
 
 ## Example Output
-![Flat Sticker Design](public/images/icons/flat-sticker-design.webp)
+![Flat Sticker Design](https://awesomeprompts.xyz/images/icons/flat-sticker-design.webp)
 
 ---
 
@@ -2455,20 +2415,7 @@ Needs a photo of a person or object as the subject for transformation.
 - [Original Post](https://x.com/gnrlyxyz/status/1914303110853583302)
 
 ## Example Output
-![Kawaii Enamel Pin](public/images/icons/kawaii-enamel-pin.webp)
-
----
-
-#### Emoji Combination - Banana with Sunglasses
-
-**Tags:** `emoji`, `glass`
-
-*Combine emojis in a Google-style design*
-
-combine these emojis: 🍌 + 😎, on a white background as a google emoji design
-
-## Example Output
-![Emoji Combination - Banana with Sunglasses](public/images/icons/nb-emoji-combination-banana-with-sunglasses.webp)
+![Kawaii Enamel Pin](https://awesomeprompts.xyz/images/icons/kawaii-enamel-pin.webp)
 
 ---
 
@@ -2485,7 +2432,7 @@ The "🔥" emoji in the prompt can be replaced with other emojis.
 - [Original Post](https://x.com/egeberkina/status/1912521263085482464)
 
 ## Example Output
-![Paper craft style fire emoji icon](public/images/icons/paper-craft-style-emoji-icon.webp)
+![Paper craft style fire emoji icon](https://awesomeprompts.xyz/images/icons/paper-craft-style-emoji-icon.webp)
 
 ---
 
@@ -2503,7 +2450,7 @@ You can replace the city, country, landmark, and date placeholders. The example 
 - [Original Post](https://x.com/ZHO_ZHO_ZHO/status/1912188562944250035)
 
 ## Example Output
-![Passport Entry Stamp](public/images/icons/passport-entry-stamp.webp)
+![Passport Entry Stamp](https://awesomeprompts.xyz/images/icons/passport-entry-stamp.webp)
 
 ---
 
@@ -2533,140 +2480,16 @@ A clear profile photo.
 - [Original Post](https://x.com/dotey/status/1909800530739679488)
 
 ## Example Output
-![Q-version Emoji Sticker Pack Creation](public/images/icons/q-version-emoji-sticker-pack-creation.webp)
+![Q-version Emoji Sticker Pack Creation](https://awesomeprompts.xyz/images/icons/q-version-emoji-sticker-pack-creation.webp)
 
 ---
 
-### 👤 Portraits
+</details>
 
-#### Black and White Portrait Art
+### 📝 Portraits
 
-**Tags:** `portrait`, `logo`
-
-A high-resolution black and white portrait artwork, in an editorial and fine art photography style. The background features a soft gradient, transitioning from mid-gray to almost pure white, creating a sense of depth and tranquility. Fine film grain adds a tactile, analog-like softness to the image, reminiscent of classic black and white photography.
-
-On the right side of the frame, a blurred yet striking face of Harry Potter subtly emerges from the shadows, not in a traditional pose, but as if caught in a moment of thought or breath. Only a part of his face is visible: perhaps an eye, a cheekbone, the contour of his lips, evoking a sense of mystery, intimacy, and elegance. His features are delicate yet profound, exuding a melancholic and poetic beauty without being overly dramatic.
-
-A gentle, directional light, softly diffused, caresses the curve of his cheek or glints in his eye—this is the emotional core of the image. The rest of the composition is dominated by ample negative space, intentionally kept simple, allowing the image to breathe. There are no texts, no logos in the image—only an interplay of light, shadow, and emotion.
-
-The overall atmosphere is abstract yet deeply human, like a fleeting glance or a half-remembered dream: intimate, timeless, and poignantly beautiful.
-
-## Source
-- [Original Post](https://x.com/ZHO_ZHO_ZHO/status/1922150692145283299)
-
-## Example Output
-![Black and White Portrait Art](public/images/portraits/black-and-white-portrait-art.webp)
-
----
-
-#### Blurred Silhouette Behind Frosted Glass
-
-**Tags:** `glass`, `ai-art`
-
-A black and white photograph shows the blurred silhouette of a [SUBJECT] behind a frosted or translucent surface. The [PART] is sharply defined and pressed against the surface, creating a stark contrast with the rest of the hazy, indistinct figure. The background is a soft gradient of gray tones, enhancing the mysterious and artistic atmosphere.
-
-## Notes
-Replace [SUBJECT] and [PART] with vivid, visually striking details that emphasize the “blurred subject + sharply defined part” contrast.
-For example, set [SUBJECT] to “a Sith Lord wielding a red lightsaber in one hand” and [PART] to “the other hand channeling the dark side of the Force.”
-
-## Source
-- [Original Post](https://x.com/umesh_ai/status/1921487841634156999)
-
-## Example Output
-![Blurred Silhouette Behind Frosted Glass](public/images/portraits/blurred-silhouette-behind-frosted-glass.webp)
-
----
-
-#### Double Exposure
-
-**Tags:** `chrome`, `character`
-
-Double exposure, Midjourney style, merging, blending, overlay double exposure image, Double Exposure style, An exceptional masterpiece by Yukisakura revealing a fantastic double exposure composition of Aragorn son of Arathorn's silhouette harmoniously intertwined with the visually striking, rugged landscapes of Middle Earth during a lively spring season. Sun-bathed pine forests, mountain peaks, and a lone horse cutting through the trail echo outward through the fabric of his figure, adding layers of narrative and solitude. Beautiful tension builds as the stark monochrome background maintains razor-sharp contrast, drawing all focus to the richly layered double exposure. Characterized by its vibrant full-color scheme within Aragorn's silhouette and crisp, deliberate lines that trace every contour with emotional precision. (Detailed:1.45). (Detailed background:1.4).
-
-## Source
-- [Original Post](https://sora.com/g/gen_01jtc9btfzef080z31v8w9rtbw)
-
-## Example Output
-![Double Exposure](public/images/portraits/double-exposure.webp)
-
----
-
-#### Professional Headshot - LinkedIn Style
-
-**Tags:** `headshot`, `professional`, `portrait`, `linkedin`
-
-Create a professional headshot suitable for LinkedIn and corporate use:
-
-## Subject Guidelines
-- **Expression**: Warm, approachable smile
-- **Eye contact**: Direct, confident gaze at camera
-- **Posture**: Slight angle (15-30°) to camera
-- **Attire**: Business professional (blazer, button-up)
-
-## Lighting Setup
-- **Key light**: 45° from camera, slightly elevated
-- **Fill light**: Opposite side, 1-2 stops lower
-- **Background**: Soft gradient or clean solid color
-
-## Technical Specs
-- Aspect ratio: 1:1 (square) for social media
-- Resolution: Minimum 400x400px
-- Color: Neutral, professional tones
-- Background: Neutral gray (#e5e5e5) or soft blue (#d1e3f8)
-
-## Reference Image
-![Professional headshot example](https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800&q=80)
-
-## Variations to Generate
-1. With glasses / without glasses
-2. Smiling / neutral expression
-3. Indoor office / outdoor garden background
-
-## Post-Processing
-- Light skin retouching (natural look)
-- Color correction for skin tones
-- Subtle vignette to draw focus
-
----
-
-#### Extremely Ordinary iPhone Selfie
-
-**Tags:** `creative`, `ai-art`
-
-Please draw an extremely ordinary and unremarkable iPhone selfie, with no clear subject or sense of composition — just like a random snapshot taken casually. The photo should include slight motion blur, with uneven lighting caused by sunlight or indoor lights resulting in mild overexposure. The angle is awkward, the composition is messy, and the overall aesthetic is deliberately plain — as if it was accidentally taken while pulling the phone out of a pocket.
-The subjects are Eason Chan and Nicholas Tse, taken at night, next to the Hong Kong Convention and Exhibition Centre, by Victoria Harbour in Hong Kong.
-
-## Notes
-This prompt aims to generate a photo that looks very casual, even slightly like an accidental snapshot.
-
-## Source
-- [Original Post](https://x.com/jiamimaodashu/status/1912653073190879410)
-
-## Example Output
-![Extremely Ordinary iPhone Selfie](public/images/portraits/extremely-ordinary-iphone-selfie.webp)
-
----
-
-#### Family Wedding Photo (Q-version)
-
-**Tags:** `3d`, `chibi`, `realistic`, `wedding`, `character`
-
-Transform the people in the photo into chibi-style 3D characters. The parents are dressed in Western wedding attire — the father in a formal suit, the mother in a wedding gown. The child is a beautiful flower girl holding a bouquet.
-
-The background features a colorful floral arch.
-The characters are in 3D chibi style, while the environment is photorealistic.
-The entire scene is placed inside a photo frame.
-
-## Reference Image
-A family photo.
-
-## Source
-- [Original Post](https://x.com/balconychy/status/1909426314643222595)
-
-## Example Output
-![Q-version 3D Family Portrait](public/images/portraits/family-wedding-photo-q-version.webp)
-
----
+<details>
+<summary>View 23 prompts</summary>
 
 #### 1990s Camera Style Portrait
 
@@ -2680,7 +2503,7 @@ Without changing her original face, create a portrait of a beautiful young woman
 - [Original](https://x.com/kingofdairyque/status/1991780760030961768?s=20)
 
 ## Example Output
-![1990s Camera Style Portrait](public/images/portraits/nb-1990s-camera-style-portrait.webp)
+![1990s Camera Style Portrait](https://awesomeprompts.xyz/images/portraits/nb-1990s-camera-style-portrait.webp)
 
 ---
 
@@ -2751,7 +2574,7 @@ Create a 2000s Mirror Selfie of yourself using Gemini Nano Banana.
 - [Original](https://x.com/ZaraIrahh/status/1991681614368436468?s=20)
 
 ## Example Output
-![2000s Mirror Selfie](public/images/portraits/nb-2000s-mirror-selfie.webp)
+![2000s Mirror Selfie](https://awesomeprompts.xyz/images/portraits/nb-2000s-mirror-selfie.webp)
 
 ---
 
@@ -2855,7 +2678,45 @@ Create a 2000s Mirror Selfie of yourself using Gemini Nano Banana.
 }
 
 ## Example Output
-![Bathroom Mirror Selfie](public/images/portraits/nb-bathroom-mirror-selfie.webp)
+![Bathroom Mirror Selfie](https://awesomeprompts.xyz/images/portraits/nb-bathroom-mirror-selfie.webp)
+
+---
+
+#### Black and White Portrait Art
+
+**Tags:** `portrait`, `logo`
+
+A high-resolution black and white portrait artwork, in an editorial and fine art photography style. The background features a soft gradient, transitioning from mid-gray to almost pure white, creating a sense of depth and tranquility. Fine film grain adds a tactile, analog-like softness to the image, reminiscent of classic black and white photography.
+
+On the right side of the frame, a blurred yet striking face of Harry Potter subtly emerges from the shadows, not in a traditional pose, but as if caught in a moment of thought or breath. Only a part of his face is visible: perhaps an eye, a cheekbone, the contour of his lips, evoking a sense of mystery, intimacy, and elegance. His features are delicate yet profound, exuding a melancholic and poetic beauty without being overly dramatic.
+
+A gentle, directional light, softly diffused, caresses the curve of his cheek or glints in his eye—this is the emotional core of the image. The rest of the composition is dominated by ample negative space, intentionally kept simple, allowing the image to breathe. There are no texts, no logos in the image—only an interplay of light, shadow, and emotion.
+
+The overall atmosphere is abstract yet deeply human, like a fleeting glance or a half-remembered dream: intimate, timeless, and poignantly beautiful.
+
+## Source
+- [Original Post](https://x.com/ZHO_ZHO_ZHO/status/1922150692145283299)
+
+## Example Output
+![Black and White Portrait Art](https://awesomeprompts.xyz/images/portraits/black-and-white-portrait-art.webp)
+
+---
+
+#### Blurred Silhouette Behind Frosted Glass
+
+**Tags:** `glass`, `ai-art`
+
+A black and white photograph shows the blurred silhouette of a [SUBJECT] behind a frosted or translucent surface. The [PART] is sharply defined and pressed against the surface, creating a stark contrast with the rest of the hazy, indistinct figure. The background is a soft gradient of gray tones, enhancing the mysterious and artistic atmosphere.
+
+## Notes
+Replace [SUBJECT] and [PART] with vivid, visually striking details that emphasize the “blurred subject + sharply defined part” contrast.
+For example, set [SUBJECT] to “a Sith Lord wielding a red lightsaber in one hand” and [PART] to “the other hand channeling the dark side of the Force.”
+
+## Source
+- [Original Post](https://x.com/umesh_ai/status/1921487841634156999)
+
+## Example Output
+![Blurred Silhouette Behind Frosted Glass](https://awesomeprompts.xyz/images/portraits/blurred-silhouette-behind-frosted-glass.webp)
 
 ---
 
@@ -2870,7 +2731,121 @@ Create a 2000s Mirror Selfie of yourself using Gemini Nano Banana.
 Keep the person exactly as shown in the reference image with 100% identical facial features, bone structure, skin tone, facial expression, pose, and appearance. 1:1 aspect ratio, 4K detail."
 
 ## Example Output
-![Character Consistency Selfie with Movie Character](public/images/portraits/nb-character-consistency-selfie-with-movie-character.webp)
+![Character Consistency Selfie with Movie Character](https://awesomeprompts.xyz/images/portraits/nb-character-consistency-selfie-with-movie-character.webp)
+
+---
+
+#### Chrome Pink BMW Selfie
+
+**Tags:** `selfie`, `bmw`, `luxury`, `urban`, `street-style`, `casual`, `pink-car`
+
+*A casual yet luxurious main character moment featuring a chrome pink BMW i8.*
+
+A high-quality vertical shot of a young woman in her early 20s taking a casual selfie next to a chrome pink (rose gold mirror finish) BMW i8. The vibe is "casual main character energy" - unbothered, relaxed, but undeniably flashy.
+
+**The Subject:**
+- **Appearance:** Petite, slim, and toned with platinum blonde, loose, messy-pretty waves falling from under a black baseball cap.
+- **Outfit:** An ultra-cropped bright yellow baby tee (showing full midriff) paired with tight white athletic mini shorts and white sneakers.
+- **Accessories:** Over-ear white headphones around her neck, black baseball cap, and holding an iPhone high for the selfie.
+- **Pose:** Leaning casually against the driver's door of the supercar, one arm up for the photo, radiating effortless confidence.
+
+**The Car:**
+- **Model:** BMW i8 with a chrome pink / rose gold wrap.
+- **Details:** Mirror finish reflecting the environment, black rims with pink accents. The car is a co-star, not just background.
+
+**Setting:**
+- **Location:** Modern urban area, upscale shopping district, or hotel entrance with cobblestone or nice pavement.
+- **Background:** Modern glass buildings, upscale retail, and perhaps other cars in the distance.
+- **Lighting:** Natural daytime light, flattering and bright.
+
+## Style Notes
+
+- **Color Story:** Bright Yellow (top) + Clean White (shorts/tech) + Chrome Pink (car) = Vibrant, eye-catching, Instagram-perfect pattern.
+- **Vibe:** "Casual luxury", "Just my Tuesday", mixed with a sporty-cute aesthetic.
+- **Key Elements:** The contrast between the sporty casual outfit and the absurd luxury of the car is central to the "flex".
+
+## Example Output
+
+![Chrome Pink BMW Selfie](https://awesomeprompts.xyz/images/portraits/chrome-pink-bmw-selfie.jpg)
+
+---
+
+#### Digital Nomad Coworking
+
+**Tags:** `digital-nomad`, `coworking`, `tropical`, `lifestyle`, `text-overlay`
+
+*Create a candid digital nomad workspace portrait with text overlay*
+
+Model with ponytail and white cap wearing pink string bikini, in a balinese coworking studio, bamboo walls, lush tropical plants, sunlight pouring through high windows, vibrant tropical decor, wearing relaxed business attire, thoughtful expression, soft natural lighting, candid workspace vibe.
+
+Text overlay: "insane things i did as a digital nomad to become a self-employed baddie"
+
+Small letters below: "(from a just graduated uni student)"
+
+## Style Notes
+
+- **Setting**: Balinese coworking studio with bamboo walls
+- **Lighting**: Natural sunlight through high windows, soft and warm
+- **Mood**: Candid, aspirational, lifestyle content
+- **Text**: Bold statement with smaller subtitle for relatability
+- **Aesthetic**: Tropical digital nomad lifestyle, Instagram-worthy
+
+## Example Output
+
+![Digital Nomad Coworking](https://awesomeprompts.xyz/images/portraits/digital-nomad-coworking.webp)
+
+---
+
+#### Double Exposure
+
+**Tags:** `chrome`, `character`
+
+Double exposure, Midjourney style, merging, blending, overlay double exposure image, Double Exposure style, An exceptional masterpiece by Yukisakura revealing a fantastic double exposure composition of Aragorn son of Arathorn's silhouette harmoniously intertwined with the visually striking, rugged landscapes of Middle Earth during a lively spring season. Sun-bathed pine forests, mountain peaks, and a lone horse cutting through the trail echo outward through the fabric of his figure, adding layers of narrative and solitude. Beautiful tension builds as the stark monochrome background maintains razor-sharp contrast, drawing all focus to the richly layered double exposure. Characterized by its vibrant full-color scheme within Aragorn's silhouette and crisp, deliberate lines that trace every contour with emotional precision. (Detailed:1.45). (Detailed background:1.4).
+
+## Source
+- [Original Post](https://sora.com/g/gen_01jtc9btfzef080z31v8w9rtbw)
+
+## Example Output
+![Double Exposure](https://awesomeprompts.xyz/images/portraits/double-exposure.webp)
+
+---
+
+#### Extremely Ordinary iPhone Selfie
+
+**Tags:** `creative`, `ai-art`
+
+Please draw an extremely ordinary and unremarkable iPhone selfie, with no clear subject or sense of composition — just like a random snapshot taken casually. The photo should include slight motion blur, with uneven lighting caused by sunlight or indoor lights resulting in mild overexposure. The angle is awkward, the composition is messy, and the overall aesthetic is deliberately plain — as if it was accidentally taken while pulling the phone out of a pocket.
+The subjects are Eason Chan and Nicholas Tse, taken at night, next to the Hong Kong Convention and Exhibition Centre, by Victoria Harbour in Hong Kong.
+
+## Notes
+This prompt aims to generate a photo that looks very casual, even slightly like an accidental snapshot.
+
+## Source
+- [Original Post](https://x.com/jiamimaodashu/status/1912653073190879410)
+
+## Example Output
+![Extremely Ordinary iPhone Selfie](https://awesomeprompts.xyz/images/portraits/extremely-ordinary-iphone-selfie.webp)
+
+---
+
+#### Family Wedding Photo (Q-version)
+
+**Tags:** `3d`, `chibi`, `realistic`, `wedding`, `character`
+
+Transform the people in the photo into chibi-style 3D characters. The parents are dressed in Western wedding attire — the father in a formal suit, the mother in a wedding gown. The child is a beautiful flower girl holding a bouquet.
+
+The background features a colorful floral arch.
+The characters are in 3D chibi style, while the environment is photorealistic.
+The entire scene is placed inside a photo frame.
+
+## Reference Image
+A family photo.
+
+## Source
+- [Original Post](https://x.com/balconychy/status/1909426314643222595)
+
+## Example Output
+![Q-version 3D Family Portrait](https://awesomeprompts.xyz/images/portraits/family-wedding-photo-q-version.webp)
 
 ---
 
@@ -2888,7 +2863,7 @@ Subject & Action: A close-up, distorted group photo featuring [Person From Uploa
 Lighting & Texture: Harsh, direct on-camera flash lighting that creates hard shadows behind the subjects. Authentic film grain, slight motion blur on the edges, and chromatic aberration. It looks like a candid, amateur snapshot as if captured during a chaotic behind-the-scenes moment, not a studio photo.
 
 ## Example Output
-![Fisheye Movie Character Selfie](public/images/portraits/nb-fisheye-movie-character-selfie.webp)
+![Fisheye Movie Character Selfie](https://awesomeprompts.xyz/images/portraits/nb-fisheye-movie-character-selfie.webp)
 
 ---
 
@@ -2914,7 +2889,7 @@ High-contrast only in the lit portion of the face.
 Everything outside the spotlight should be nearly invisible.
 
 ## Example Output
-![Hyperrealistic Anime Portrait in Spotlight](public/images/portraits/nb-hyperrealistic-anime-portrait-in-spotlight.webp)
+![Hyperrealistic Anime Portrait in Spotlight](https://awesomeprompts.xyz/images/portraits/nb-hyperrealistic-anime-portrait-in-spotlight.webp)
 
 ---
 
@@ -2927,7 +2902,48 @@ Everything outside the spotlight should be nearly invisible.
 A daily snapshot taken with a low-quality disposable camera. A clumsy photo taken by a Japanese high school student. (Aspect ratio 3:2 is recommended)
 
 ## Example Output
-![Japanese High School Student Snap Photo](public/images/portraits/nb-japanese-high-school-student-snap-photo.webp)
+![Japanese High School Student Snap Photo](https://awesomeprompts.xyz/images/portraits/nb-japanese-high-school-student-snap-photo.webp)
+
+---
+
+#### Miami Convertible Selfie
+
+**Tags:** `selfie`, `miami`, `beach`, `convertible`, `summer`, `lifestyle`, `portrait`, `american-girl`
+
+*Capture the ultimate carefree American summer vibe with this detailed convertible selfie prompt.*
+
+A vertical smartphone selfie of a young American woman in her early 20s taking a photo in a convertible car with Miami Beach in the background. She has a bright, genuine smile showing teeth, with a carefree and bubbly expression, eyes squinting slightly from laughter and sunshine. Her hair is sun-kissed blonde with natural highlights, styled in long flowing beach waves that are windblown and tousled from the ride.
+
+She is wearing a white cropped athletic tank top with a small colorful university logo, showing a sun-kissed tanned midriff. Her makeup is fresh and natural, "girl-next-door" style, with visible freckles, peachy blush, and glossy pink coral lips.
+
+**Accessories:**
+- Gold aviator sunglasses pushed up on top of her head.
+- Small gold hoop earrings and a delicate initial necklace.
+- Colorful beaded friendship bracelets mixed with gold bangles.
+- Holding an iPhone with a cute preppy case.
+- A venti iced Starbucks drink with condensation in the cup holder or held casually.
+
+**Background:**
+- White or pink convertible interior with leather seats.
+- Turquoise Atlantic Ocean and white sand beach visible behind.
+- Iconic pastel Art Deco buildings of Ocean Drive softly blurred in the distance.
+- Palm trees and clear blue sky.
+- Bright midday Florida sunshine creating a natural golden glow.
+
+**Photography Style:**
+- Bright sunny lighting, high definition, vibrant colors.
+- Natural selfie angle from the driver's seat (slightly elevated).
+- Instagram-ready quality with a warm, summery filter.
+
+## Style Notes
+
+- **Vibe**: Carefree, youthful, energetic, "sorority girl" aesthetic.
+- **Lighting**: Critical to get that "bright midday Florida sunshine" look – avoid dark shadows on the face.
+- **Composition**: Classic 9:16 vertical selfie format, focusing on the subject while establishing the luxurious/tropical context.
+
+## Example Output
+
+![Miami Convertible Selfie](https://awesomeprompts.xyz/images/portraits/miami-convertible-selfie.jpg)
 
 ---
 
@@ -2948,7 +2964,7 @@ Masterpiece, ultra-detailed, cinematic lighting, strong contrast, dramatic shado
 , professional photography.
 
 ## Example Output
-![Museum Art Exhibition Selfie](public/images/portraits/nb-museum-art-exhibition-selfie.webp)
+![Museum Art Exhibition Selfie](https://awesomeprompts.xyz/images/portraits/nb-museum-art-exhibition-selfie.webp)
 
 ---
 
@@ -2993,7 +3009,7 @@ Masterpiece, ultra-detailed, cinematic lighting, strong contrast, dramatic shado
 }
 
 ## Example Output
-![Portrait with Puppy in Snow](public/images/portraits/nb-portrait-with-puppy-in-snow.webp)
+![Portrait with Puppy in Snow](https://awesomeprompts.xyz/images/portraits/nb-portrait-with-puppy-in-snow.webp)
 
 ---
 
@@ -3009,7 +3025,7 @@ Masterpiece, ultra-detailed, cinematic lighting, strong contrast, dramatic shado
 - [Original](https://x.com/PavolRusnak/status/1994097306526994558)
 
 ## Example Output
-![Professional Headshot Creator](public/images/portraits/nb-professional-headshot-creator.webp)
+![Professional Headshot Creator](https://awesomeprompts.xyz/images/portraits/nb-professional-headshot-creator.webp)
 
 ---
 
@@ -3025,25 +3041,7 @@ Identify the main product in the uploaded photo (automatically removing any hand
 - [Original](https://mp.weixin.qq.com/s/lrYNbs4rGs3KOqewoZ6aNQ)
 
 ## Example Output
-![Professional Product Photography](public/images/portraits/nb-professional-product-photography.png)
-
----
-
-#### Victoria's Secret Style Photoshoot
-
-**Tags:** `glamour`, `ai-art`
-
-*Great for creating high-glamour, backstage-style fashion photography with intricate details.*
-
-Create a glamorous photoshoot in the style of Victoria's Secret. A young woman attached in the uploaded reference image ( Keep the face of the person 100% accurate from the reference image ) stands almost sideways, slightly bent forward, during the final preparation for the show. Makeup artists apply lipstick to her (only her hands are visible in the frame). She is wearing a corset decorated with beaded embroidery and crystals with a short fluffy skirt, as well as large feather wings. The image has a "backstage" effect.
-
-The background is a darkly lit room, probably under the podium. The main emphasis is on the girl's face and the details of her costume. Emphasize the expressiveness of the gaze and the luxurious look of the outfit. The photo is lit by a flash from the camera, which emphasizes the shine of the beads and crystals on the corset, as well as the girl's shiny skin. Victoria's Secret style: sensuality, luxury, glamour. Very detailed. Important: do not change the face.
-
-## Source
-- [Original](https://x.com/NanoBanana_labs/status/1991947916479762788?s=20)
-
-## Example Output
-![Victoria's Secret Style Photoshoot](public/images/portraits/nb-victoria-s-secret-style-photoshoot.webp)
+![Professional Product Photography](https://awesomeprompts.xyz/images/portraits/nb-professional-product-photography.png)
 
 ---
 
@@ -3070,7 +3068,7 @@ Optional. Can be generated based on profession/role description or use an upload
 - [Original Post](https://x.com/berryxia_ai/status/1911334046724165905)
 
 ## Example Output
-![RPG-Style Character Card Creation](public/images/portraits/rpg-style-character-card-creation.webp)
+![RPG-Style Character Card Creation](https://awesomeprompts.xyz/images/portraits/rpg-style-character-card-creation.webp)
 
 ---
 
@@ -3087,7 +3085,7 @@ Replace `[PROMPT]` with the specific subject, e.g., "dragon on a castle", "woman
 - [Original Post](https://x.com/umesh_ai/status/1915417277953962048)
 
 ## Example Output
-![Silhouette Art](public/images/portraits/silhouette-art.webp)
+![Silhouette Art](https://awesomeprompts.xyz/images/portraits/silhouette-art.webp)
 
 ---
 
@@ -3104,11 +3102,34 @@ Replace [animal type] and [landmark] in the prompt with specific descriptions.
 - [Original Post](https://x.com/berryxia_ai/status/1920795648946782583)
 
 ## Example Output
-![Three Animals Selfie at Landmark](public/images/portraits/three-animals-selfie-at-landmark.webp)
+![Three Animals Selfie at Landmark](https://awesomeprompts.xyz/images/portraits/three-animals-selfie-at-landmark.webp)
 
 ---
 
-### 🖼️ Posters
+#### Victoria's Secret Style Photoshoot
+
+**Tags:** `glamour`, `ai-art`
+
+*Great for creating high-glamour, backstage-style fashion photography with intricate details.*
+
+Create a glamorous photoshoot in the style of Victoria's Secret. A young woman attached in the uploaded reference image ( Keep the face of the person 100% accurate from the reference image ) stands almost sideways, slightly bent forward, during the final preparation for the show. Makeup artists apply lipstick to her (only her hands are visible in the frame). She is wearing a corset decorated with beaded embroidery and crystals with a short fluffy skirt, as well as large feather wings. The image has a "backstage" effect.
+
+The background is a darkly lit room, probably under the podium. The main emphasis is on the girl's face and the details of her costume. Emphasize the expressiveness of the gaze and the luxurious look of the outfit. The photo is lit by a flash from the camera, which emphasizes the shine of the beads and crystals on the corset, as well as the girl's shiny skin. Victoria's Secret style: sensuality, luxury, glamour. Very detailed. Important: do not change the face.
+
+## Source
+- [Original](https://x.com/NanoBanana_labs/status/1991947916479762788?s=20)
+
+## Example Output
+![Victoria's Secret Style Photoshoot](https://awesomeprompts.xyz/images/portraits/nb-victoria-s-secret-style-photoshoot.webp)
+
+---
+
+</details>
+
+### 📝 Posters
+
+<details>
+<summary>View 18 prompts</summary>
 
 #### Code Style Business Card
 
@@ -3132,7 +3153,7 @@ Replace the values of name, title, email, and link in the final JSON code. The p
 - [Original Post](https://x.com/dotey/status/1917412535130563006)
 
 ## Example Output
-![Code Style Business Card](public/images/posters/code-style-business-card.webp)
+![Code Style Business Card](https://awesomeprompts.xyz/images/posters/code-style-business-card.webp)
 
 ---
 
@@ -3149,38 +3170,26 @@ Replace the city and country names in the prompt (e.g., replace "Barcelona Spain
 - [Original Post](https://x.com/michaelrabone/status/1913865394139316291)
 
 ## Example Output
-![Colorful Vector Art Poster](public/images/posters/colorful-vector-art-poster.webp)
+![Colorful Vector Art Poster](https://awesomeprompts.xyz/images/posters/colorful-vector-art-poster.webp)
 
 ---
 
-#### YouTube Thumbnail - Tech Review Style
+#### Commercial Promotional Poster
 
-**Tags:** `youtube`, `tech`, `review`, `thumbnail`
+**Tags:** `poster`, `sticker`, `professional`, `cinematic`
 
-Create a professional YouTube thumbnail for a tech review video:
+*Designs professional sales posters with integrated text and high-quality product photography.*
 
-## Subject
-A person holding a smartphone, looking excited or surprised
+Design a professional promotional poster for a [Coffee Shop]. Composition : A cinematic close-up of a steaming cup of cappuccino on a rustic wooden table, autumn leaves in the background (cozy atmosphere). Text Integration :
+1. Main Title : 'Autumn Special' written in elegant, gold serif typography at the top.
+2. Offer : 'Buy One Get One Free' clearly displayed in a modern badge or sticker style on the side.
+3. Footer : 'Limited Time Only' in small, clean text at the bottom. Quality : Ensure all text is perfectly spelled, centered, and integrated into the image's depth of field.
 
-## Style
-- **Background**: Gradient from deep blue (#1a1a2e) to purple (#4a1942)
-- **Text**: Bold, white text with slight 3D effect
-- **Layout**: Subject on left (60%), text on right (40%)
+## Source
+- [Original](https://mp.weixin.qq.com/s/lrYNbs4rGs3KOqewoZ6aNQ)
 
-## Key Elements
-1. Product clearly visible and well-lit
-2. Expressive facial reaction
-3. Large, readable title text (max 4 words)
-4. Brand colors as accent
-
-## Reference Image
-![Example tech thumbnail](https://images.unsplash.com/photo-1611162617474-5b21e879e113?w=800&q=80)
-
-## Tips for AI Generation
-- Use dramatic lighting on the product
-- Ensure face shows genuine emotion
-- Keep text area clean and uncluttered
-- Resolution: 1280x720 minimum
+## Example Output
+![Commercial Promotional Poster](https://awesomeprompts.xyz/images/posters/nb-commercial-promotional-poster.png)
 
 ---
 
@@ -3194,7 +3203,7 @@ a hyper realistic twitter post by Albert Einstein right after finishing the theo
 - [Original Post](https://x.com/egeberkina/status/1914299716394778713)
 
 ## Example Output
-![Fake Tweet Screenshot (Einstein)](public/images/posters/fake-tweet-screenshot-einstein.webp)
+![Fake Tweet Screenshot (Einstein)](https://awesomeprompts.xyz/images/posters/fake-tweet-screenshot-einstein.webp)
 
 ---
 
@@ -3208,7 +3217,7 @@ A beautiful woman wearing a pink qipao, adorned with delicate floral accessories
 - [Original Post](https://x.com/dotey/status/1912536019905233194)
 
 ## Example Output
-![Fashion Magazine Cover Style](public/images/posters/fashion-magazine-cover-style.webp)
+![Fashion Magazine Cover Style](https://awesomeprompts.xyz/images/posters/fashion-magazine-cover-style.webp)
 
 ---
 
@@ -3251,7 +3260,7 @@ The prompt uses a JSON-like structure to describe card elements. Modify values i
 - [Original Post](https://x.com/hewarsaber/status/1912933875166171515)
 
 ## Example Output
-![Futuristic Logo Trading Card](public/images/posters/futuristic-logo-trading-card.webp)
+![Futuristic Logo Trading Card](https://awesomeprompts.xyz/images/posters/futuristic-logo-trading-card.webp)
 
 ---
 
@@ -3268,7 +3277,40 @@ A Google Maps screenshot or other map image needs to be uploaded as the basis fo
 - [Original Post](https://x.com/umesh_ai/status/1919701229363466328)
 
 ## Example Output
-![Google Maps to Ancient Treasure Map](public/images/posters/google-maps-to-ancient-treasure-map.webp)
+![Google Maps to Ancient Treasure Map](https://awesomeprompts.xyz/images/posters/google-maps-to-ancient-treasure-map.webp)
+
+---
+
+#### Magazine Cover Portrait
+
+**Tags:** `portrait`, `fashion`
+
+*Create a glossy magazine cover*
+
+A photo of a glossy magazine cover, the cover has the large bold words "Nano Banana Pro". The text is in a serif font, black on white, and fills the view. No other text.
+
+In front of the text there is a dynamic portrait of a person in green and banana yellow colored high-end fashion.
+
+Put the issue number and today's date in the corner along with a barcode and a price. The magazine is on a white shelf against a wall.
+
+## Example Output
+![Magazine Cover Portrait](https://awesomeprompts.xyz/images/posters/nb-magazine-cover-portrait.webp)
+
+---
+
+#### Magazine Layout Generator
+
+**Tags:** `creative`, `ai-art`
+
+*Perfect for visualizing articles in print format with complex typography.*
+
+Put this whole text, verbatim, into a photo of a glossy magazine article on a desk, with photos, beautiful typography design, pull quotes and brave formatting. The text: [...the unformatted article]
+
+## Source
+- [Original](https://x.com/fofrAI/status/1991530971800182929)
+
+## Example Output
+![Magazine Layout Generator](https://awesomeprompts.xyz/images/posters/nb-magazine-layout-generator.png)
 
 ---
 
@@ -3296,65 +3338,147 @@ The [Classic 3D Coca-Cola Bottle] in the prompt can be replaced with description
 - [Original Post](https://x.com/ZHO_ZHO_ZHO/status/1921906728763105394)
 
 ## Example Output
-![Minimalist Futurist Poster](public/images/posters/minimalist-futurist-poster.webp)
+![Minimalist Futurist Poster](https://awesomeprompts.xyz/images/posters/minimalist-futurist-poster.webp)
 
 ---
 
-#### Commercial Promotional Poster
+#### Nostalgic Anime Film Poster
 
-**Tags:** `poster`, `sticker`, `professional`, `cinematic`
+**Tags:** `anime`, `poster`
 
-*Designs professional sales posters with integrated text and high-quality product photography.*
+{The Lord of the Rings} anime film poster, the anime is in the style of High School DXD. Visible even folds are seen across the poster as it’s been folded over time, and due to some creases over damaging the poster has caused some physical damage scuffing along the creases and the color has partially faded. Indiscriminate flaps and folds and scratches all around simply from moving back and forth causing subtle yet incremental damage with the ever expanding of entropy we cannot escape, but the loving memories in our hearts will forever be whole. Making the objects we collect along the way priceless is the essence you feel when looking at this nostalgic poster.
 
-Design a professional promotional poster for a [Coffee Shop]. Composition : A cinematic close-up of a steaming cup of cappuccino on a rustic wooden table, autumn leaves in the background (cozy atmosphere). Text Integration :
-1. Main Title : 'Autumn Special' written in elegant, gold serif typography at the top.
-2. Offer : 'Buy One Get One Free' clearly displayed in a modern badge or sticker style on the side.
-3. Footer : 'Limited Time Only' in small, clean text at the bottom. Quality : Ensure all text is perfectly spelled, centered, and integrated into the image's depth of field.
+## Notes
+You can replace the movie title "{The Lord of the Rings}" in the prompt with others. Be aware that some movie titles may trigger content moderation. The referenced anime style can also be modified.
 
 ## Source
-- [Original](https://mp.weixin.qq.com/s/lrYNbs4rGs3KOqewoZ6aNQ)
+- [Original Post](https://sora.com/g/gen_01jsfxrdpjfpebnyed8yaz42nf)
 
 ## Example Output
-![Commercial Promotional Poster](public/images/posters/nb-commercial-promotional-poster.png)
+![Nostalgic Anime Film Poster](https://awesomeprompts.xyz/images/posters/nostalgic-anime-film-poster.webp)
 
 ---
 
-#### Magazine Cover Portrait
-
-**Tags:** `portrait`, `fashion`
-
-*Create a glossy magazine cover*
-
-A photo of a glossy magazine cover, the cover has the large bold words "Nano Banana Pro". The text is in a serif font, black on white, and fills the view. No other text.
-
-In front of the text there is a dynamic portrait of a person in green and banana yellow colored high-end fashion.
-
-Put the issue number and today's date in the corner along with a barcode and a price. The magazine is on a white shelf against a wall.
-
-## Example Output
-![Magazine Cover Portrait](public/images/posters/nb-magazine-cover-portrait.webp)
-
----
-
-#### Magazine Layout Generator
+#### PS2 Game Cover (GTA x Shrek)
 
 **Tags:** `creative`, `ai-art`
 
-*Perfect for visualizing articles in print format with complex typography.*
-
-Put this whole text, verbatim, into a photo of a glossy magazine article on a desk, with photos, beautiful typography design, pull quotes and brave formatting. The text: [...the unformatted article]
+Can you create a PS2 video game case of "Grand Theft Auto: Far Far Away" a GTA based in the Shrek Universe.
 
 ## Source
-- [Original](https://x.com/fofrAI/status/1991530971800182929)
+- [Original Post](https://x.com/dotey/status/1904978767090524372)
 
 ## Example Output
-![Magazine Layout Generator](public/images/posters/nb-magazine-layout-generator.png)
+![PS2 Game Cover (GTA x Shrek)](https://awesomeprompts.xyz/images/posters/ps2-game-cover-gta-x-shrek.webp)
+
+---
+
+#### Retro Style Promotional Poster
+
+**Tags:** `retro`, `vintage`, `poster`, `logo`
+
+A retro-style promotional poster emphasizing bold Chinese text. The background features a red-and-yellow radial burst pattern. In the center of the composition is a beautiful young woman illustrated in a refined vintage art style—she smiles warmly with a graceful, approachable presence. The poster advertises GPT’s latest AI image generation service with key slogans in Chinese, such as: “Shocking price: 9.9 per image”, “Supports all scenes, image blending, partial redrawing”, “3 revisions per image”, and “Direct AI output with no need for manual edits”. At the bottom, prominently display the call-to-action: “If you’re interested, click ‘I want this’ in the bottom-right corner”. Illustrate a hand pressing a button in the bottom-right, and place the OpenAI logo in the bottom-left.
+
+## Source
+- [Original Post](https://x.com/dotey/status/1905251524248248650)
+
+## Example Output
+![Retro Style Promotional Poster](https://awesomeprompts.xyz/images/posters/retro-style-promotional-poster.webp)
+
+---
+
+#### Satirical Poster Generation
+
+**Tags:** `poster`, `ai-art`
+
+Satirical Poster Text (English):
+GPT-4o is taking over.
+Forget working in image AI
+maybe it’s time to deliver takeout instead.
+
+## Source
+- [Original Post](https://x.com/ZHO_ZHO_ZHO/status/1905287637084274742)
+
+## Example Output
+![Satirical Poster Generation](https://awesomeprompts.xyz/images/posters/satirical-poster-generation.webp)
+
+---
+
+#### Signature City Weather Forecast
+
+**Tags:** `3d`, `realistic`, `icon`
+
+Show a clear 45-degree bird’s-eye view of an isometric miniature city scene featuring Shanghai’s iconic buildings, such as the Oriental Pearl Tower and the Bund. The weather effect—cloudy—blends softly into the city, interacting gently with the architecture. Use physically based rendering (PBR) and realistic lighting. Solid color background, crisp and clean. Centered composition to highlight the precision and detail of the 3D model. Display “Shanghai Cloudy 20°C” and a cloudy weather icon at the top of the image.
+
+## Notes
+The city, weather, temperature, and building names can be replaced with the content in []. Generated with sora.
+
+## Source
+- [Original Post](https://x.com/dotey/status/1917988595228438771)
+
+## Example Output
+![Signature City Weather Forecast](https://awesomeprompts.xyz/images/posters/signature-city-weather-forecast.webp)
+
+---
+
+#### Social Media Frame Integration
+
+**Tags:** `3d`, `chibi`, `icon`, `character`
+
+Create a stylized 3D chibi character based on the attached photo, accurately preserving the subject’s facial features and clothing details. The character is making a finger heart with the left hand (with a red heart element above the fingers) and playfully sitting on the edge of a giant Instagram frame, with both legs hanging outside the frame. The top of the frame displays the username “Beauty,” and various social media icons (like, comment, share) float around the scene.
+
+## Notes
+The username "Beauty" and icons in the prompt can be replaced. Original image generated by Sora.
+
+## Reference Image
+Yes, needs an image to be uploaded as reference.
+
+## Source
+- [Original Post](https://x.com/dotey/status/1917042797506662560)
+
+## Example Output
+![Social Media Frame Integration](https://awesomeprompts.xyz/images/posters/social-media-frame-integration.webp)
+
+---
+
+#### Xiaohongshu Cover Image
+
+**Tags:** `illustration`, `icon`, `character`
+
+Draw an image: Create a cover for a Xiaohongshu (RED) post.
+
+Requirements:
+– It must be visually compelling enough to attract user clicks.
+– Use bold, characterful fonts.
+– Vary font sizes to reflect the hierarchy of information; emphasize the structure of the copy.
+– The main title should be at least twice the size of regular text.
+– Leave white space between text sections.
+– Only use bright accent colors to highlight key words and draw attention.
+– The background should feature an eye-catching pattern (such as paper texture, notebook, or a WeChat chat window—choose one).
+– Add appropriate icons or illustrations to enhance visual layers, but avoid visual clutter.
+
+Copy text:
+BREAKING: ChatGPT just got even better!
+– Superior multitasking ✨
+– Stronger coding ability 💪
+– Creativity off the charts 🎨
+Try it now!
+
+Image aspect ratio: 9:16
+
+## Source
+- [Original Post](https://x.com/balconychy/status/1905507936526627078)
+
+## Example Output
+![Xiaohongshu Cover Image](https://awesomeprompts.xyz/images/posters/xiaohongshu-cover-image.webp)
 
 ---
 
 #### Y2K Scrapbook Poster with Multiple Poses
 
 **Tags:** `retro`, `realistic`, `cute`, `poster`, `sticker`
+
+*Create a Y2K-style scrapbook poster with multiple poses*
 
 {
   "facelock_identity": true,
@@ -3402,143 +3526,16 @@ Put this whole text, verbatim, into a photo of a glossy magazine article on a de
 }
 
 ## Example Output
-![Y2K Scrapbook Poster with Multiple Poses](public/images/posters/nb-y2k-scrapbook-poster-with-multiple-poses.webp)
+![Y2K Scrapbook Poster with Multiple Poses](https://awesomeprompts.xyz/images/posters/nb-y2k-scrapbook-poster-with-multiple-poses.webp)
 
 ---
 
-#### Nostalgic Anime Film Poster
-
-**Tags:** `anime`, `poster`
-
-{The Lord of the Rings} anime film poster, the anime is in the style of High School DXD. Visible even folds are seen across the poster as it’s been folded over time, and due to some creases over damaging the poster has caused some physical damage scuffing along the creases and the color has partially faded. Indiscriminate flaps and folds and scratches all around simply from moving back and forth causing subtle yet incremental damage with the ever expanding of entropy we cannot escape, but the loving memories in our hearts will forever be whole. Making the objects we collect along the way priceless is the essence you feel when looking at this nostalgic poster.
-
-## Notes
-You can replace the movie title "{The Lord of the Rings}" in the prompt with others. Be aware that some movie titles may trigger content moderation. The referenced anime style can also be modified.
-
-## Source
-- [Original Post](https://sora.com/g/gen_01jsfxrdpjfpebnyed8yaz42nf)
-
-## Example Output
-![Nostalgic Anime Film Poster](public/images/posters/nostalgic-anime-film-poster.webp)
-
----
-
-#### PS2 Game Cover (GTA x Shrek)
-
-**Tags:** `creative`, `ai-art`
-
-Can you create a PS2 video game case of "Grand Theft Auto: Far Far Away" a GTA based in the Shrek Universe.
-
-## Source
-- [Original Post](https://x.com/dotey/status/1904978767090524372)
-
-## Example Output
-![PS2 Game Cover (GTA x Shrek)](public/images/posters/ps2-game-cover-gta-x-shrek.webp)
-
----
-
-#### Retro Style Promotional Poster
-
-**Tags:** `retro`, `vintage`, `poster`, `logo`
-
-A retro-style promotional poster emphasizing bold Chinese text. The background features a red-and-yellow radial burst pattern. In the center of the composition is a beautiful young woman illustrated in a refined vintage art style—she smiles warmly with a graceful, approachable presence. The poster advertises GPT’s latest AI image generation service with key slogans in Chinese, such as: “Shocking price: 9.9 per image”, “Supports all scenes, image blending, partial redrawing”, “3 revisions per image”, and “Direct AI output with no need for manual edits”. At the bottom, prominently display the call-to-action: “If you’re interested, click ‘I want this’ in the bottom-right corner”. Illustrate a hand pressing a button in the bottom-right, and place the OpenAI logo in the bottom-left.
-
-## Source
-- [Original Post](https://x.com/dotey/status/1905251524248248650)
-
-## Example Output
-![Retro Style Promotional Poster](public/images/posters/retro-style-promotional-poster.webp)
-
----
-
-#### Satirical Poster Generation
-
-**Tags:** `poster`, `ai-art`
-
-Satirical Poster Text (English):
-GPT-4o is taking over.
-Forget working in image AI
-maybe it’s time to deliver takeout instead.
-
-## Source
-- [Original Post](https://x.com/ZHO_ZHO_ZHO/status/1905287637084274742)
-
-## Example Output
-![Satirical Poster Generation](public/images/posters/satirical-poster-generation.webp)
-
----
-
-#### Signature City Weather Forecast
-
-**Tags:** `3d`, `realistic`, `icon`
-
-Show a clear 45-degree bird’s-eye view of an isometric miniature city scene featuring Shanghai’s iconic buildings, such as the Oriental Pearl Tower and the Bund. The weather effect—cloudy—blends softly into the city, interacting gently with the architecture. Use physically based rendering (PBR) and realistic lighting. Solid color background, crisp and clean. Centered composition to highlight the precision and detail of the 3D model. Display “Shanghai Cloudy 20°C” and a cloudy weather icon at the top of the image.
-
-## Notes
-The city, weather, temperature, and building names can be replaced with the content in []. Generated with sora.
-
-## Source
-- [Original Post](https://x.com/dotey/status/1917988595228438771)
-
-## Example Output
-![Signature City Weather Forecast](public/images/posters/signature-city-weather-forecast.webp)
-
----
-
-#### Social Media Frame Integration
-
-**Tags:** `3d`, `chibi`, `icon`, `character`
-
-Create a stylized 3D chibi character based on the attached photo, accurately preserving the subject’s facial features and clothing details. The character is making a finger heart with the left hand (with a red heart element above the fingers) and playfully sitting on the edge of a giant Instagram frame, with both legs hanging outside the frame. The top of the frame displays the username “Beauty,” and various social media icons (like, comment, share) float around the scene.
-
-## Notes
-The username "Beauty" and icons in the prompt can be replaced. Original image generated by Sora.
-
-## Reference Image
-Yes, needs an image to be uploaded as reference.
-
-## Source
-- [Original Post](https://x.com/dotey/status/1917042797506662560)
-
-## Example Output
-![Social Media Frame Integration](public/images/posters/social-media-frame-integration.webp)
-
----
-
-#### Xiaohongshu Cover Image
-
-**Tags:** `illustration`, `icon`, `character`
-
-Draw an image: Create a cover for a Xiaohongshu (RED) post.
-
-Requirements:
-– It must be visually compelling enough to attract user clicks.
-– Use bold, characterful fonts.
-– Vary font sizes to reflect the hierarchy of information; emphasize the structure of the copy.
-– The main title should be at least twice the size of regular text.
-– Leave white space between text sections.
-– Only use bright accent colors to highlight key words and draw attention.
-– The background should feature an eye-catching pattern (such as paper texture, notebook, or a WeChat chat window—choose one).
-– Add appropriate icons or illustrations to enhance visual layers, but avoid visual clutter.
-
-Copy text:
-BREAKING: ChatGPT just got even better!
-– Superior multitasking ✨
-– Stronger coding ability 💪
-– Creativity off the charts 🎨
-Try it now!
-
-Image aspect ratio: 9:16
-
-## Source
-- [Original Post](https://x.com/balconychy/status/1905507936526627078)
-
-## Example Output
-![Xiaohongshu Cover Image](public/images/posters/xiaohongshu-cover-image.webp)
-
----
+</details>
 
 ### 📸 Thumbnails
+
+<details>
+<summary>View 10 prompts</summary>
 
 #### MrBeast Style - Comparison Split
 
@@ -3599,7 +3596,7 @@ Image aspect ratio: 9:16
 ```
 
 ## Example Output
-![MrBeast Comparison](public/images/thumbnails/mrbeast-comparison.webp)
+![MrBeast Comparison](https://awesomeprompts.xyz/images/thumbnails/mrbeast-comparison.webp)
 
 ---
 
@@ -3668,7 +3665,7 @@ Image aspect ratio: 9:16
 ```
 
 ## Example Output
-![MrBeast Construction](public/images/thumbnails/mrbeast-construction.webp)
+![MrBeast Construction](https://awesomeprompts.xyz/images/thumbnails/mrbeast-construction.webp)
 
 ---
 
@@ -3741,7 +3738,7 @@ Image aspect ratio: 9:16
 ```
 
 ## Example Output
-![MrBeast Extreme Scale](public/images/thumbnails/mrbeast-extreme-scale.webp)
+![MrBeast Extreme Scale](https://awesomeprompts.xyz/images/thumbnails/mrbeast-extreme-scale.webp)
 
 ---
 
@@ -3814,7 +3811,7 @@ Image aspect ratio: 9:16
 ```
 
 ## Example Output
-![MrBeast Face Off](public/images/thumbnails/mrbeast-face-off.webp)
+![MrBeast Face Off](https://awesomeprompts.xyz/images/thumbnails/mrbeast-face-off.webp)
 
 ---
 
@@ -3876,6 +3873,8 @@ Image aspect ratio: 9:16
   "prompt_template": "Create YouTube thumbnail (16:9) using the ATTACHED IMAGE of hands: Show extreme close-up of those exhausted sweaty hands gripping bright red Lamborghini hood, enhance veins visibility, add sweat drops, blurred silhouettes of people collapsing in background. Add bold yellow text top 'LAST TO LEAVE' with thick 8px black outline. White text bottom 'WINS $1,000,000' with 8px black outline. Yellow arrow pointing to hands. Red circle highlighting contact point. Shallow depth of field, extremely vibrant car colors, high tension, professional YouTube thumbnail style"
 }
 ```
+
+<img src="https://awesomeprompts.xyz/images/thumbnails/mrbeast-last-to.webp" alt="MrBeast Style - Last To" width="400">
 
 ---
 
@@ -3948,7 +3947,7 @@ Image aspect ratio: 9:16
 ```
 
 ## Example Output
-![MrBeast Stack](public/images/thumbnails/mrbeast-stack.webp)
+![MrBeast Stack](https://awesomeprompts.xyz/images/thumbnails/mrbeast-stack.webp)
 
 ---
 
@@ -4024,7 +4023,7 @@ Image aspect ratio: 9:16
 ```
 
 ## Example Output
-![MrBeast Survival](public/images/thumbnails/mrbeast-survival.webp)
+![MrBeast Survival](https://awesomeprompts.xyz/images/thumbnails/mrbeast-survival.webp)
 
 ---
 
@@ -4089,7 +4088,7 @@ Image aspect ratio: 9:16
 ```
 
 ## Example Output
-![MrBeast Transformation](public/images/thumbnails/mrbeast-transformation.webp)
+![MrBeast Transformation](https://awesomeprompts.xyz/images/thumbnails/mrbeast-transformation.webp)
 
 ---
 
@@ -4164,7 +4163,7 @@ Image aspect ratio: 9:16
 ```
 
 ## Example Output
-![MrBeast Trap](public/images/thumbnails/mrbeast-trap.webp)
+![MrBeast Trap](https://awesomeprompts.xyz/images/thumbnails/mrbeast-trap.webp)
 
 ---
 
@@ -4243,7 +4242,90 @@ Image aspect ratio: 9:16
 ```
 
 ## Example Output
-![MrBeast Vehicle](public/images/thumbnails/mrbeast-vehicle.webp)
+![MrBeast Vehicle](https://awesomeprompts.xyz/images/thumbnails/mrbeast-vehicle.webp)
 
 ---
 
+</details>
+
+## 🚀 Quick Start
+
+### Prerequisites
+
+- [Bun](https://bun.sh/) (v1.0 or higher)
+
+### Installation
+
+```bash
+# Clone the repository
+git clone https://github.com/samuxbuilds/awesome-prompts.git
+cd awesome-prompts
+
+# Install dependencies
+bun install
+
+# Start the development server
+bun run dev
+```
+
+### Build for Production
+
+```bash
+bun run build
+```
+
+## 📝 Adding a New Prompt
+
+1. Create a new `.md` file in the appropriate `/prompts` subfolder
+2. Add the required frontmatter:
+
+```markdown
+---
+title: "Your Prompt Title"
+category: "3d"
+tags: ["tag1", "tag2", "tag3"]
+author: "@yourusername"
+preview: "/images/category/your-image.webp"
+---
+
+Your prompt content goes here...
+
+You can use **Markdown** formatting!
+```
+
+3. Run `bun run build` to update the index
+4. Submit a pull request!
+
+See [CONTRIBUTING.md](./CONTRIBUTING.md) for detailed guidelines.
+
+## 🛠️ Tech Stack
+
+- **[Bun](https://bun.sh/)**: JavaScript runtime & package manager
+- **[Astro](https://astro.build/)**: Static site generator
+- **[Tailwind CSS](https://tailwindcss.com/)**: Styling
+- **[Pagefind](https://pagefind.app/)**: Search functionality
+
+## 🤝 Contributing
+
+We welcome contributions! Please see [CONTRIBUTING.md](./CONTRIBUTING.md) for guidelines.
+
+### Ways to Contribute
+
+- Add new prompts
+- Improve existing prompts
+- Fix bugs or typos
+- Suggest new categories
+- Improve documentation
+
+## 📄 License
+
+This project is licensed under the MIT License - see the [LICENSE](./LICENSE) file for details.
+
+## 🙏 Acknowledgments
+
+- Thanks to all contributors who share their prompts
+- Built with ❤️ by the community
+
+---
+
+**[🌐 Visit Website](https://awesomeprompts.xyz)** | **[➕ Submit a Prompt](https://github.com/samuxbuilds/awesome-prompts/issues/new?template=new-prompt.md)** | **[🐛 Report an Issue](https://github.com/samuxbuilds/awesome-prompts/issues)**
