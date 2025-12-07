@@ -33,8 +33,10 @@ const topTags = Array.from(tagMap.entries())
 
 const totalPrompts = prompts.length;
 
-// Get recent prompts (first 8 for better masonry layout)
-const recentPrompts = prompts.slice(0, 8);
+// Get recent prompts - sort by slug descending (pg-{timestamp} format means higher = newer)
+const recentPrompts = [...prompts]
+  .sort((a, b) => b.slug.localeCompare(a.slug))
+  .slice(0, 8);
 ---
 
 <Layout title="AwesomePrompts - Curated AI Prompt Collection">

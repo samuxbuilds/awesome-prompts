@@ -1,20 +1,16 @@
 ---
 import Layout from '../layouts/Layout.astro';
-import MasonryCard from '../components/MasonryCard.astro';
 import { readFile } from 'fs/promises';
 import { join } from 'path';
 
-// Read prompts from the generated JSON
-let prompts: any[] = [];
+// Read master index for counts
+let masterIndex: any = { total: 0, totalPages: 0, perPage: 50 };
 try {
-  const data = await readFile(join(process.cwd(), 'public', 'all-prompts.json'), 'utf-8');
-  prompts = JSON.parse(data);
+  const data = await readFile(join(process.cwd(), 'public', 'data', 'index.json'), 'utf-8');
+  masterIndex = JSON.parse(data);
 } catch (e) {
-  console.log('No prompts found yet.');
+  console.log('No index found yet.');
 }
-
-// Sort by most recent (assuming slug contains numbering or date info)
-const allPrompts = prompts.sort((a, b) => b.slug.localeCompare(a.slug));
 ---
 
 <Layout title="All Prompts - AwesomePrompts">
@@ -39,40 +35,178 @@ const allPrompts = prompts.sort((a, b) => b.slug.localeCompare(a.slug));
       All Prompts
     </h1>
     <p class="text-gray-600 dark:text-gray-400">
-      Browse all {allPrompts.length} prompts in our collection
+      Browse all <span id="total-count">{masterIndex.total.toLocaleString()}</span> prompts in our collection
     </p>
   </header>
 
+  <!-- Loading State -->
+  <div id="loading" class="text-center py-8">
+    <div class="inline-block animate-spin rounded-full h-8 w-8 border-4 border-purple-600 border-t-transparent"></div>
+  </div>
+
+  <!-- Pagination Controls -->
+  <div id="pagination" class="hidden flex justify-between items-center mb-6 flex-wrap gap-2">
+    <p id="results-count" class="text-gray-600 dark:text-gray-400"></p>
+    <div class="flex gap-2 items-center">
+      <button id="prev-btn" class="px-3 py-1 bg-gray-200 dark:bg-gray-700 text-gray-700 dark:text-gray-300 rounded font-bold neu-border disabled:opacity-50 disabled:cursor-not-allowed" disabled>
+        ← Prev
+      </button>
+      <span id="page-info" class="px-3 py-1 text-gray-600 dark:text-gray-400 min-w-[80px] text-center"></span>
+      <button id="next-btn" class="px-3 py-1 bg-gray-200 dark:bg-gray-700 text-gray-700 dark:text-gray-300 rounded font-bold neu-border disabled:opacity-50 disabled:cursor-not-allowed" disabled>
+        Next →
+      </button>
+    </div>
+  </div>
+
   <!-- Masonry Grid -->
-  {allPrompts.length > 0 ? (
-    <div class="masonry-grid">
-      {allPrompts.map(prompt => (
-        <MasonryCard 
-          title={prompt.title}
-          category={prompt.category}
-          tags={prompt.tags}
-          slug={prompt.slug}
-          preview={prompt.preview}
-          excerpt={prompt.content}
-        />
-      ))}
-    </div>
-  ) : (
-    <div class="text-center py-16">
-      <p class="text-gray-500 dark:text-gray-400 text-lg">
-        No prompts found yet.
-      </p>
-      <a 
-        href="https://github.com/samuxbuilds/awesome-prompts/issues/new?template=new-prompt.md"
-        class="inline-block mt-4 px-6 py-3 bg-purple-600 text-white rounded-lg font-medium hover:bg-purple-700 transition-colors neu-border neu-shadow neu-shadow-hover"
-      >
-        Be the first to contribute!
-      </a>
-    </div>
-  )}
+  <div id="prompts-grid" class="masonry-grid"></div>
+
+  <!-- Empty State -->
+  <div id="empty-state" class="hidden text-center py-16">
+    <p class="text-gray-500 dark:text-gray-400 text-lg">
+      No prompts found yet.
+    </p>
+    <a 
+      href="https://github.com/samuxbuilds/awesome-prompts/issues/new?template=new-prompt.md"
+      class="inline-block mt-4 px-6 py-3 bg-purple-600 text-white rounded-lg font-medium hover:bg-purple-700 transition-colors neu-border neu-shadow neu-shadow-hover"
+    >
+      Be the first to contribute!
+    </a>
+  </div>
 </Layout>
 
+<script define:vars={{ totalPages: masterIndex.totalPages, total: masterIndex.total }}>
+  let currentPage = 1;
+  const maxPages = totalPages;
+  const totalPrompts = total;
+
+  const loading = document.getElementById('loading');
+  const pagination = document.getElementById('pagination');
+  const promptsGrid = document.getElementById('prompts-grid');
+  const emptyState = document.getElementById('empty-state');
+  const resultsCount = document.getElementById('results-count');
+  const pageInfo = document.getElementById('page-info');
+  const prevBtn = document.getElementById('prev-btn');
+  const nextBtn = document.getElementById('next-btn');
+
+  const categoryColors = {
+    posters: 'bg-blue-100 text-blue-800 dark:bg-blue-900 dark:text-blue-200',
+    creative: 'bg-purple-100 text-purple-800 dark:bg-purple-900 dark:text-purple-200',
+    '3d': 'bg-orange-100 text-orange-800 dark:bg-orange-900 dark:text-orange-200',
+    icons: 'bg-cyan-100 text-cyan-800 dark:bg-cyan-900 dark:text-cyan-200',
+    portraits: 'bg-amber-100 text-amber-800 dark:bg-amber-900 dark:text-amber-200',
+    thumbnails: 'bg-green-100 text-green-800 dark:bg-green-900 dark:text-green-200',
+  };
+
+  function getCategoryColor(category) {
+    return categoryColors[category] || 'bg-gray-100 text-gray-800 dark:bg-gray-700 dark:text-gray-200';
+  }
+
+  async function loadPage(page) {
+    loading.classList.remove('hidden');
+    promptsGrid.innerHTML = '';
+
+    try {
+      const response = await fetch(`/data/pages/${page}.json`);
+      const prompts = await response.json();
+
+      currentPage = page;
+      renderPrompts(prompts);
+      updatePagination();
+      updateURL(page);
+    } catch (e) {
+      console.error('Failed to load page:', e);
+      emptyState.classList.remove('hidden');
+    } finally {
+      loading.classList.add('hidden');
+    }
+  }
+
+  function renderPrompts(prompts) {
+    if (prompts.length === 0) {
+      emptyState.classList.remove('hidden');
+      pagination.classList.add('hidden');
+      return;
+    }
+
+    pagination.classList.remove('hidden');
+    emptyState.classList.add('hidden');
+
+    promptsGrid.innerHTML = prompts.map(prompt => `
+      <a 
+        href="/prompt/${prompt.category}/${prompt.slug}"
+        class="masonry-card block bg-white dark:bg-gray-800 rounded-xl neu-border neu-shadow overflow-hidden transition-all neu-shadow-hover break-inside-avoid mb-4"
+        data-prompt="${prompt.slug}"
+      >
+        ${prompt.preview ? `
+          <div class="w-full overflow-hidden">
+            <img 
+              src="${prompt.preview}" 
+              alt="${prompt.title}" 
+              class="w-full h-auto"
+              loading="lazy"
+            />
+          </div>
+        ` : ''}
+        <div class="p-4">
+          <div class="flex items-start justify-between mb-2">
+            <span class="inline-block px-2 py-0.5 rounded-full text-xs font-medium ${getCategoryColor(prompt.category)}">
+              ${prompt.category}
+            </span>
+          </div>
+          <h3 class="text-base font-semibold text-gray-900 dark:text-gray-100 mb-1 line-clamp-2">${prompt.title}</h3>
+          <div class="flex flex-wrap gap-1 mt-2">
+            ${prompt.tags.slice(0, 2).map(t => `<span class="text-xs text-gray-500 dark:text-gray-400">#${t}</span>`).join('')}
+          </div>
+        </div>
+      </a>
+    `).join('');
+  }
+
+  function updatePagination() {
+    resultsCount.textContent = `${totalPrompts.toLocaleString()} prompts`;
+    pageInfo.textContent = `${currentPage} / ${maxPages}`;
+    prevBtn.disabled = currentPage <= 1;
+    nextBtn.disabled = currentPage >= maxPages;
+  }
+
+  function updateURL(page) {
+    const url = new URL(window.location.href);
+    if (page > 1) {
+      url.searchParams.set('page', page.toString());
+    } else {
+      url.searchParams.delete('page');
+    }
+    window.history.replaceState({}, '', url.toString());
+  }
+
+  // Event listeners
+  prevBtn?.addEventListener('click', () => {
+    if (currentPage > 1) {
+      loadPage(currentPage - 1);
+    }
+  });
+
+  nextBtn?.addEventListener('click', () => {
+    if (currentPage < maxPages) {
+      loadPage(currentPage + 1);
+    }
+  });
+
+  // Initial load
+  const urlParams = new URLSearchParams(window.location.search);
+  const initialPage = parseInt(urlParams.get('page') || '1');
+  loadPage(Math.min(Math.max(1, initialPage), maxPages || 1));
+</script>
+
 <style>
+  @keyframes spin {
+    to { transform: rotate(360deg); }
+  }
+  .animate-spin {
+    animation: spin 1s linear infinite;
+  }
+
   .masonry-grid {
     columns: 1;
     column-gap: 1rem;
@@ -94,5 +228,21 @@ const allPrompts = prompts.sort((a, b) => b.slug.localeCompare(a.slug));
     .masonry-grid {
       columns: 4;
     }
+  }
+
+  .masonry-card:hover img {
+    transform: scale(1.02);
+    transition: transform 0.3s ease;
+  }
+  
+  .masonry-card img {
+    transition: transform 0.3s ease;
+  }
+  
+  .line-clamp-2 {
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
   }
 </style>

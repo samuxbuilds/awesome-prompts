@@ -39,7 +39,7 @@ const topTags = masterIndex.tags.slice(0, 100);
           </span>
         )}
       </div>
-      <div class="flex flex-wrap gap-2 max-h-[400px] overflow-y-auto pr-2 custom-scrollbar">
+      <div class="flex flex-wrap gap-2 max-h-[280px] overflow-y-auto pr-2 custom-scrollbar">
         {topTags.map((tag: { name: string; count: number }) => (
           <button 
             class="tag-button px-3 py-1 rounded-full text-sm font-bold bg-gray-100 dark:bg-gray-700 text-gray-700 dark:text-gray-300 hover:bg-purple-100 hover:text-purple-800 dark:hover:bg-purple-900 dark:hover:text-purple-200 transition-all cursor-pointer neu-border"
