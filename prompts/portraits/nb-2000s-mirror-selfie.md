@@ -3,7 +3,7 @@ title: "2000s Mirror Selfie"
 category: portraits
 tags: ["anime", "retro", "cute", "poster", "icon"]
 author: "@nanobanana-pro"
-preview: "/images/portraits/nb-2000s-mirror-selfie.jpg"
+preview: "/images/portraits/nb-2000s-mirror-selfie.webp"
 ---
 
 *A structured JSON prompt to generate an authentic early-2000s aesthetic with flash photography and nostalgic elements.*
@@ -69,4 +69,4 @@ Create a 2000s Mirror Selfie of yourself using Gemini Nano Banana.
 - [Original](https://x.com/ZaraIrahh/status/1991681614368436468?s=20)
 
 ## Example Output
-![2000s Mirror Selfie](/images/portraits/nb-2000s-mirror-selfie.jpg)
+![2000s Mirror Selfie](/images/portraits/nb-2000s-mirror-selfie.webp)

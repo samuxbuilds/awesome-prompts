@@ -3,7 +3,7 @@ title: "Integrating Word Meaning into Letters"
 category: creative
 tags: ["creative", "ai-art"]
 author: "@dotey"
-preview: "/images/arts/integrating-word-meaning-into-letters.webp"
+preview: "/images/creative/integrating-word-meaning-into-letters.webp"
 ---
 
 Integrate the meaning of the word into the letters, cleverly blending graphics and letters.
@@ -17,4 +17,4 @@ Replace the word { beautify } with the word you want to integrate
 - [Original Post](https://x.com/dotey/status/1918529055340576812)
 
 ## Example Output
-![Integrating Word Meaning into Letters](/images/arts/integrating-word-meaning-into-letters.webp)
+![Integrating Word Meaning into Letters](/images/creative/integrating-word-meaning-into-letters.webp)

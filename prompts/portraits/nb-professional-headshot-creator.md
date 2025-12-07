@@ -3,7 +3,7 @@ title: "Professional Headshot Creator"
 category: portraits
 tags: ["realistic", "professional", "cinematic"]
 author: "@nanobanana-pro"
-preview: "/images/portraits/nb-professional-headshot-creator.jpg"
+preview: "/images/portraits/nb-professional-headshot-creator.webp"
 ---
 
 *Create a professional profile photo from a selfie*
@@ -14,4 +14,4 @@ preview: "/images/portraits/nb-professional-headshot-creator.jpg"
 - [Original](https://x.com/PavolRusnak/status/1994097306526994558)
 
 ## Example Output
-![Professional Headshot Creator](/images/portraits/nb-professional-headshot-creator.jpg)
+![Professional Headshot Creator](/images/portraits/nb-professional-headshot-creator.webp)

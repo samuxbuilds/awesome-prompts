@@ -3,7 +3,7 @@ title: "Futuristic Logo Trading Card"
 category: posters
 tags: ["3d", "realistic", "logo", "glass", "neon"]
 author: "@hewarsaber"
-preview: "/images/thumbnails/futuristic-logo-trading-card.webp"
+preview: "/images/posters/futuristic-logo-trading-card.webp"
 ---
 
 {
@@ -41,4 +41,4 @@ The prompt uses a JSON-like structure to describe card elements. Modify values i
 - [Original Post](https://x.com/hewarsaber/status/1912933875166171515)
 
 ## Example Output
-![Futuristic Logo Trading Card](/images/thumbnails/futuristic-logo-trading-card.webp)
+![Futuristic Logo Trading Card](/images/posters/futuristic-logo-trading-card.webp)

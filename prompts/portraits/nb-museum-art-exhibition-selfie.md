@@ -3,7 +3,7 @@ title: "Museum Art Exhibition Selfie"
 category: portraits
 tags: ["character", "professional", "cinematic"]
 author: "@nanobanana-pro"
-preview: "/images/portraits/nb-museum-art-exhibition-selfie.jpg"
+preview: "/images/portraits/nb-museum-art-exhibition-selfie.webp"
 ---
 
 *A commercial-grade photo with a classical oil painting*
@@ -19,4 +19,4 @@ Masterpiece, ultra-detailed, cinematic lighting, strong contrast, dramatic shado
 , professional photography.
 
 ## Example Output
-![Museum Art Exhibition Selfie](/images/portraits/nb-museum-art-exhibition-selfie.jpg)
+![Museum Art Exhibition Selfie](/images/portraits/nb-museum-art-exhibition-selfie.webp)

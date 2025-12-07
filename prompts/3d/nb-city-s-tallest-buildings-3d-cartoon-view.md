@@ -3,7 +3,7 @@ title: "City's Tallest Buildings 3D Cartoon View"
 category: 3d
 tags: ["3d", "cartoon", "minimalist", "realistic"]
 author: "@nanobanana-pro"
-preview: "/images/3d/nb-city-s-tallest-buildings-3d-cartoon-view.jpg"
+preview: "/images/3d/nb-city-s-tallest-buildings-3d-cartoon-view.webp"
 ---
 
 *Create a miniature 3D view of city's tallest buildings*
@@ -20,4 +20,4 @@ No forced perspective. Use straight-on orthographic-style rendering. Do not exag
 Use a square 1080×1080 composition.Use a clean, neutral background. Ensure no extra objects are present.
 
 ## Example Output
-![City's Tallest Buildings 3D Cartoon View](/images/3d/nb-city-s-tallest-buildings-3d-cartoon-view.jpg)
+![City's Tallest Buildings 3D Cartoon View](/images/3d/nb-city-s-tallest-buildings-3d-cartoon-view.webp)

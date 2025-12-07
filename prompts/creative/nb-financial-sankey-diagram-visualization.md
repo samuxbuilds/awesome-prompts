@@ -3,7 +3,7 @@ title: "Financial Sankey Diagram Visualization"
 category: creative
 tags: ["minimalist", "icon", "logo", "neon", "professional"]
 author: "@nanobanana-pro"
-preview: "/images/creative/nb-financial-sankey-diagram-visualization.jpg"
+preview: "/images/creative/nb-financial-sankey-diagram-visualization.webp"
 ---
 
 *Create a professional financial Sankey diagram*
@@ -18,4 +18,4 @@ Iconography: On the left side (Revenue sources), include specific, minimalist fl
 Branding: Place the official [Insert Brand Name Here] logo clearly at the top center or near the central revenue bar.[Details]: High resolution, 4k, sharp typography (sans-serif), professional data visualization layout. The chart clearly distinguishes between Revenue, Gross Profit, Operating Expenses, and Net Profit.
 
 ## Example Output
-![Financial Sankey Diagram Visualization](/images/creative/nb-financial-sankey-diagram-visualization.jpg)
+![Financial Sankey Diagram Visualization](/images/creative/nb-financial-sankey-diagram-visualization.webp)

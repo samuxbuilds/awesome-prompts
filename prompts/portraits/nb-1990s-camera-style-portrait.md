@@ -3,7 +3,7 @@ title: "1990s Camera Style Portrait"
 category: portraits
 tags: ["portrait", "poster", "sticker", "nostalgic"]
 author: "@nanobanana-pro"
-preview: "/images/portraits/nb-1990s-camera-style-portrait.jpg"
+preview: "/images/portraits/nb-1990s-camera-style-portrait.webp"
 ---
 
 *Test the model's ability to replicate specific film textures, flash photography, and era-specific atmosphere.*
@@ -14,4 +14,4 @@ Without changing her original face, create a portrait of a beautiful young woman
 - [Original](https://x.com/kingofdairyque/status/1991780760030961768?s=20)
 
 ## Example Output
-![1990s Camera Style Portrait](/images/portraits/nb-1990s-camera-style-portrait.jpg)
+![1990s Camera Style Portrait](/images/portraits/nb-1990s-camera-style-portrait.webp)

@@ -3,7 +3,7 @@ title: "Portrait with Puppy in Snow"
 category: portraits
 tags: ["cute", "portrait"]
 author: "@nanobanana-pro"
-preview: "/images/portraits/nb-portrait-with-puppy-in-snow.jpg"
+preview: "/images/portraits/nb-portrait-with-puppy-in-snow.webp"
 ---
 
 *Create a winter portrait with a puppy*
@@ -43,4 +43,4 @@ preview: "/images/portraits/nb-portrait-with-puppy-in-snow.jpg"
 }
 
 ## Example Output
-![Portrait with Puppy in Snow](/images/portraits/nb-portrait-with-puppy-in-snow.jpg)
+![Portrait with Puppy in Snow](/images/portraits/nb-portrait-with-puppy-in-snow.webp)

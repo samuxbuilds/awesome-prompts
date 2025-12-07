@@ -866,7 +866,7 @@ A couple's photo.
 - [Original Post](https://x.com/balconychy/status/1909916265067557299)
 
 ## Example Output
-!["Titanic" Pose Parody](https://awesomeprompts.xyz/images/arts/titanic-pose-parody.webp)
+!["Titanic" Pose Parody](https://awesomeprompts.xyz/images/creative/titanic-pose-parody.webp)
 
 ---
 
@@ -880,7 +880,7 @@ A couple's photo.
 - [Original Post](https://x.com/dotey/status/1905020833451348283)
 
 ## Example Output
-![35mm Film Style Flying Island](https://awesomeprompts.xyz/images/arts/35mm-film-style-flying-island.webp)
+![35mm Film Style Flying Island](https://awesomeprompts.xyz/images/creative/35mm-film-style-flying-island.webp)
 
 ---
 
@@ -1008,7 +1008,7 @@ The content within the brackets [] in the prompt can be replaced, such as the ta
 - [Original Post](https://x.com/dotey/status/1919522110395080838)
 
 ## Example Output
-![Children's Coloring Page Illustration (with Color Reference)](https://awesomeprompts.xyz/images/arts/children-s-coloring-page-illustration-with-color-r.webp)
+![Children's Coloring Page Illustration (with Color Reference)](https://awesomeprompts.xyz/images/creative/children-s-coloring-page-illustration-with-color-r.webp)
 
 ---
 
@@ -1121,7 +1121,7 @@ The `[SUBJECT/OBJECT]` (shape formed by clouds) and `[LOCATION]` placeholders in
 - [Original Post](https://x.com/umesh_ai/status/1913628737872027805)
 
 ## Example Output
-![Cloud Art](https://awesomeprompts.xyz/images/arts/cloud-art.webp)
+![Cloud Art](https://awesomeprompts.xyz/images/creative/cloud-art.webp)
 
 ---
 
@@ -1232,7 +1232,7 @@ For example:
 - [Original Post](https://x.com/azed_ai/status/1923016036120658122)
 
 ## Example Output
-![Creative Ad with Real Object and Hand-Drawn Doodle](https://awesomeprompts.xyz/images/arts/creative-ad-with-real-object-and-hand-drawn-doodle.webp)
+![Creative Ad with Real Object and Hand-Drawn Doodle](https://awesomeprompts.xyz/images/creative/creative-ad-with-real-object-and-hand-drawn-doodle.webp)
 
 ---
 
@@ -1249,7 +1249,7 @@ Replace the `[LOGO]` placeholder in the prompt with a specific brand logo descri
 - [Original Post](https://x.com/umesh_ai/status/1916517976414495161)
 
 ## Example Output
-![Creative Logo Shaped Bookshelf](https://awesomeprompts.xyz/images/arts/creative-logo-shaped-bookshelf.webp)
+![Creative Logo Shaped Bookshelf](https://awesomeprompts.xyz/images/creative/creative-logo-shaped-bookshelf.webp)
 
 ---
 
@@ -1266,7 +1266,7 @@ You can replace the {❄️} in the prompt words with your target value
 - [Original Post](https://x.com/ZHO_ZHO_ZHO/status/1914864217867608175)
 
 ## Example Output
-![Silk Universe-Creative Universe](https://awesomeprompts.xyz/images/arts/creative-silk-universe.webp)
+![Silk Universe-Creative Universe](https://awesomeprompts.xyz/images/creative/creative-silk-universe.webp)
 
 ---
 
@@ -1283,7 +1283,7 @@ Upload a photo as a reference to generate its cute chibi knitted doll image.
 - [Original Post](https://x.com/ZHO_ZHO_ZHO/status/1921148024861938077)
 
 ## Example Output
-![Cute and Cozy Knitted Doll](https://awesomeprompts.xyz/images/arts/cute-and-cozy-knitted-doll.webp)
+![Cute and Cozy Knitted Doll](https://awesomeprompts.xyz/images/creative/cute-and-cozy-knitted-doll.webp)
 
 ---
 
@@ -1300,7 +1300,7 @@ Replace [object/animal] in the prompt with a specific object, animal name, or em
 - [Original Post](https://x.com/azed_ai/status/1923739813414568075)
 
 ## Example Output
-![Cute Plant Planter](https://awesomeprompts.xyz/images/arts/cute-plant-planter.webp)
+![Cute Plant Planter](https://awesomeprompts.xyz/images/creative/cute-plant-planter.webp)
 
 ---
 
@@ -1363,7 +1363,7 @@ All visuals should be balanced, modern, and appealing, reflecting a premium and 
 - [Original Post](https://x.com/ZHO_ZHO_ZHO/status/1909542765857587310)
 
 ## Example Output
-![Famous Painting Character Cereal Ad](https://awesomeprompts.xyz/images/arts/famous-painting-character-cereal-ad.webp)
+![Famous Painting Character Cereal Ad](https://awesomeprompts.xyz/images/creative/famous-painting-character-cereal-ad.webp)
 
 ---
 
@@ -1391,7 +1391,7 @@ Right side: individual clothing items and accessories laid out separately, as if
 - [Original Post](https://x.com/ZHO_ZHO_ZHO/status/1909892294217781714)
 
 ## Example Output
-![Famous Painting Character OOTD](https://awesomeprompts.xyz/images/arts/famous-painting-character-ootd.webp)
+![Famous Painting Character OOTD](https://awesomeprompts.xyz/images/creative/famous-painting-character-ootd.webp)
 
 ---
 
@@ -1405,7 +1405,7 @@ A cartoon-style character with a smiling computer monitor as its head, wearing g
 - [Original Post](https://x.com/dotey/status/1905103477879267823)
 
 ## Example Output
-![Fantasy Cartoon Illustration](https://awesomeprompts.xyz/images/arts/fantasy-cartoon-illustration.webp)
+![Fantasy Cartoon Illustration](https://awesomeprompts.xyz/images/creative/fantasy-cartoon-illustration.webp)
 
 ---
 
@@ -1440,7 +1440,7 @@ Transform a simple flat vector icon of [🎃] into a soft, 3D fluffy object. The
 - [Original Post](https://x.com/dotey/status/1912276883196039520)
 
 ## Example Output
-![Fluffy Jack-o'-lantern](https://awesomeprompts.xyz/images/arts/fluffy-jack-o-lantern.webp)
+![Fluffy Jack-o'-lantern](https://awesomeprompts.xyz/images/creative/fluffy-jack-o-lantern.webp)
 
 ---
 
@@ -1460,7 +1460,7 @@ A photo of a person or other subject.
 - [Original Post](https://animeai.online/#demo-gallery)
 
 ## Example Output
-![Mona Lisa redrawn in Ghibli style](https://awesomeprompts.xyz/images/arts/ghibli-style.webp)
+![Mona Lisa redrawn in Ghibli style](https://awesomeprompts.xyz/images/creative/ghibli-style.webp)
 
 ---
 
@@ -1512,7 +1512,7 @@ An image needs to be uploaded as the base for retexturing.
 - [Original Post](https://x.com/egeberkina/status/1920448389960909085)
 
 ## Example Output
-![Glass Retexturing](https://awesomeprompts.xyz/images/arts/glass-retexturing.webp)
+![Glass Retexturing](https://awesomeprompts.xyz/images/creative/glass-retexturing.webp)
 
 ---
 
@@ -1529,7 +1529,7 @@ Replace `[SUBJECT]` and `[PART]` in the prompt.
 - [Original Post](https://x.com/umesh_ai/status/1914644426334314545)
 
 ## Example Output
-![Glowing Lines Anatomy Diagram](https://awesomeprompts.xyz/images/arts/glowing-lines-anatomy-diagram.webp)
+![Glowing Lines Anatomy Diagram](https://awesomeprompts.xyz/images/creative/glowing-lines-anatomy-diagram.webp)
 
 ---
 
@@ -1566,7 +1566,7 @@ Keep updating daily, and results will come — because 99% of people can’t kee
 - [Original Post](https://x.com/dotey/status/1907870919852179850)
 
 ## Example Output
-![Hand-drawn Infographic Card](https://awesomeprompts.xyz/images/arts/hand-drawn-infographic-card.webp)
+![Hand-drawn Infographic Card](https://awesomeprompts.xyz/images/creative/hand-drawn-infographic-card.webp)
 
 ---
 
@@ -1590,7 +1590,7 @@ The overall layout should maintain visual balance, with ample white space reserv
 - [Original Post](https://x.com/dotey/status/1907903480678985784)
 
 ## Example Output
-![Hand-drawn Infographic Card](https://awesomeprompts.xyz/images/arts/hand-drawn-infographic-card-cognition.webp)
+![Hand-drawn Infographic Card](https://awesomeprompts.xyz/images/creative/hand-drawn-infographic-card-cognition.webp)
 
 ---
 
@@ -1649,7 +1649,7 @@ Replace the word { beautify } with the word you want to integrate
 - [Original Post](https://x.com/dotey/status/1918529055340576812)
 
 ## Example Output
-![Integrating Word Meaning into Letters](https://awesomeprompts.xyz/images/arts/integrating-word-meaning-into-letters.webp)
+![Integrating Word Meaning into Letters](https://awesomeprompts.xyz/images/creative/integrating-word-meaning-into-letters.webp)
 
 ---
 
@@ -1686,7 +1686,7 @@ A photo of a person is needed for reference.
 - [Original Post](https://x.com/hellokaton/status/1910900979194646959)
 
 ## Example Output
-![Two-panel Cute Japanese Manga](https://awesomeprompts.xyz/images/arts/japanese-style-two-panel-manga-angry-girl-presiden.webp)
+![Two-panel Cute Japanese Manga](https://awesomeprompts.xyz/images/creative/japanese-style-two-panel-manga-angry-girl-presiden.webp)
 
 ---
 
@@ -1818,7 +1818,7 @@ Needs a photo of an object, food, etc., as inspiration.
 - [Original Post](https://x.com/Anima_Labs/status/1915044265895379166)
 
 ## Example Output
-![Original Pokemon Creation](https://awesomeprompts.xyz/images/arts/original-pokemon-creation.webp)
+![Original Pokemon Creation](https://awesomeprompts.xyz/images/creative/original-pokemon-creation.webp)
 
 ---
 
@@ -1835,7 +1835,7 @@ The original prompt generated the room based on ChatGPT's memory of the user. Th
 - [Original Post](https://x.com/ZHO_ZHO_ZHO/status/1910698005193515370)
 
 ## Example Output
-![Personalized Room Design](https://awesomeprompts.xyz/images/arts/personalized-room-design.webp)
+![Personalized Room Design](https://awesomeprompts.xyz/images/creative/personalized-room-design.webp)
 
 ---
 
@@ -1873,7 +1873,7 @@ The original tweet mentioned key terms are "dimensional break effects" and "moti
 - [Original Post](https://x.com/hc_dsn/status/1912367201476309396)
 
 ## Example Output
-![Physical Destruction Effect Card (Lara Croft)](https://awesomeprompts.xyz/images/arts/physical-destruction-effect-card-lara-croft.webp)
+![Physical Destruction Effect Card (Lara Croft)](https://awesomeprompts.xyz/images/creative/physical-destruction-effect-card-lara-croft.webp)
 
 ---
 
@@ -1922,7 +1922,7 @@ Replace [shape or logo] in the prompt with a specific shape or logo description,
 - [Original Post](https://x.com/Gdgtify/status/1925176250626159053)
 
 ## Example Output
-![Retro CRT Computer Boot Screen](https://awesomeprompts.xyz/images/arts/retro-crt-computer-boot-screen.webp)
+![Retro CRT Computer Boot Screen](https://awesomeprompts.xyz/images/creative/retro-crt-computer-boot-screen.webp)
 
 ---
 
@@ -1954,7 +1954,7 @@ The composition is exaggerated and satirical, carrying a strong critique of poli
 - [Original Post](https://x.com/dotey/status/1910514811756065159)
 
 ## Example Output
-![Satirical Cartoon Generation](https://awesomeprompts.xyz/images/arts/satirical-cartoon-generation.webp)
+![Satirical Cartoon Generation](https://awesomeprompts.xyz/images/creative/satirical-cartoon-generation.webp)
 
 ---
 
@@ -2011,7 +2011,7 @@ This image showcases an excellent combination of steampunk style and metallic te
 - [Original Post](https://github.com/f-is-h/f-is-h/blob/main/images/streampank-fish-4.webp)
 
 ## Example Output
-![Steampunk Mechanical Fish](https://awesomeprompts.xyz/images/arts/steampunk-mechanical-fish.webp)
+![Steampunk Mechanical Fish](https://awesomeprompts.xyz/images/creative/steampunk-mechanical-fish.webp)
 
 ---
 
@@ -2028,7 +2028,7 @@ Replace [Subject 1] and [Subject 2] in the prompt with specific subject descript
 - [Original Post](https://x.com/umesh_ai/status/1917444534239191544)
 
 ## Example Output
-![Surreal Interaction Scene](https://awesomeprompts.xyz/images/arts/surreal-interaction-scene.webp)
+![Surreal Interaction Scene](https://awesomeprompts.xyz/images/creative/surreal-interaction-scene.webp)
 
 ---
 
@@ -2042,7 +2042,7 @@ Tilt POV shot of a hand holding a surreal popsicle with a transparent blue exter
 - [Original Post](https://x.com/madpencil_/status/1920037538372128998)
 
 ## Example Output
-![Surreal Underwater Scene Popsicle](https://awesomeprompts.xyz/images/arts/surreal-underwater-scene-popsicle.webp)
+![Surreal Underwater Scene Popsicle](https://awesomeprompts.xyz/images/creative/surreal-underwater-scene-popsicle.webp)
 
 ---
 
@@ -2485,7 +2485,7 @@ A clear profile photo.
 
 </details>
 
-### 👤 People
+### 👤 Portraits
 
 <details>
 <summary>View 22 prompts</summary>
@@ -2697,7 +2697,7 @@ The overall atmosphere is abstract yet deeply human, like a fleeting glance or a
 - [Original Post](https://x.com/ZHO_ZHO_ZHO/status/1922150692145283299)
 
 ## Example Output
-![Black and White Portrait Art](https://awesomeprompts.xyz/images/people/black-and-white-portrait-art.webp)
+![Black and White Portrait Art](https://awesomeprompts.xyz/images/portraits/black-and-white-portrait-art.webp)
 
 ---
 
@@ -2715,7 +2715,7 @@ For example, set [SUBJECT] to “a Sith Lord wielding a red lightsaber in one ha
 - [Original Post](https://x.com/umesh_ai/status/1921487841634156999)
 
 ## Example Output
-![Blurred Silhouette Behind Frosted Glass](https://awesomeprompts.xyz/images/people/blurred-silhouette-behind-frosted-glass.webp)
+![Blurred Silhouette Behind Frosted Glass](https://awesomeprompts.xyz/images/portraits/blurred-silhouette-behind-frosted-glass.webp)
 
 ---
 
@@ -2744,7 +2744,7 @@ Double exposure, Midjourney style, merging, blending, overlay double exposure im
 - [Original Post](https://sora.com/g/gen_01jtc9btfzef080z31v8w9rtbw)
 
 ## Example Output
-![Double Exposure](https://awesomeprompts.xyz/images/people/double-exposure.webp)
+![Double Exposure](https://awesomeprompts.xyz/images/portraits/double-exposure.webp)
 
 ---
 
@@ -2762,7 +2762,7 @@ This prompt aims to generate a photo that looks very casual, even slightly like 
 - [Original Post](https://x.com/jiamimaodashu/status/1912653073190879410)
 
 ## Example Output
-![Extremely Ordinary iPhone Selfie](https://awesomeprompts.xyz/images/people/extremely-ordinary-iphone-selfie.webp)
+![Extremely Ordinary iPhone Selfie](https://awesomeprompts.xyz/images/portraits/extremely-ordinary-iphone-selfie.webp)
 
 ---
 
@@ -2783,7 +2783,7 @@ A family photo.
 - [Original Post](https://x.com/balconychy/status/1909426314643222595)
 
 ## Example Output
-![Q-version 3D Family Portrait](https://awesomeprompts.xyz/images/people/family-wedding-photo-q-version.webp)
+![Q-version 3D Family Portrait](https://awesomeprompts.xyz/images/portraits/family-wedding-photo-q-version.webp)
 
 ---
 
@@ -2965,7 +2965,7 @@ Optional. Can be generated based on profession/role description or use an upload
 - [Original Post](https://x.com/berryxia_ai/status/1911334046724165905)
 
 ## Example Output
-![RPG-Style Character Card Creation](https://awesomeprompts.xyz/images/people/rpg-style-character-card-creation.webp)
+![RPG-Style Character Card Creation](https://awesomeprompts.xyz/images/portraits/rpg-style-character-card-creation.webp)
 
 ---
 
@@ -2982,7 +2982,7 @@ Replace `[PROMPT]` with the specific subject, e.g., "dragon on a castle", "woman
 - [Original Post](https://x.com/umesh_ai/status/1915417277953962048)
 
 ## Example Output
-![Silhouette Art](https://awesomeprompts.xyz/images/people/silhouette-art.webp)
+![Silhouette Art](https://awesomeprompts.xyz/images/portraits/silhouette-art.webp)
 
 ---
 
@@ -2999,7 +2999,7 @@ Replace [animal type] and [landmark] in the prompt with specific descriptions.
 - [Original Post](https://x.com/berryxia_ai/status/1920795648946782583)
 
 ## Example Output
-![Three Animals Selfie at Landmark](https://awesomeprompts.xyz/images/people/three-animals-selfie-at-landmark.webp)
+![Three Animals Selfie at Landmark](https://awesomeprompts.xyz/images/portraits/three-animals-selfie-at-landmark.webp)
 
 ---
 
@@ -3050,7 +3050,7 @@ Replace the values of name, title, email, and link in the final JSON code. The p
 - [Original Post](https://x.com/dotey/status/1917412535130563006)
 
 ## Example Output
-![Code Style Business Card](https://awesomeprompts.xyz/images/thumbnails/code-style-business-card.webp)
+![Code Style Business Card](https://awesomeprompts.xyz/images/posters/code-style-business-card.webp)
 
 ---
 
@@ -3067,7 +3067,7 @@ Replace the city and country names in the prompt (e.g., replace "Barcelona Spain
 - [Original Post](https://x.com/michaelrabone/status/1913865394139316291)
 
 ## Example Output
-![Colorful Vector Art Poster](https://awesomeprompts.xyz/images/thumbnails/colorful-vector-art-poster.webp)
+![Colorful Vector Art Poster](https://awesomeprompts.xyz/images/posters/colorful-vector-art-poster.webp)
 
 ---
 
@@ -3100,7 +3100,7 @@ a hyper realistic twitter post by Albert Einstein right after finishing the theo
 - [Original Post](https://x.com/egeberkina/status/1914299716394778713)
 
 ## Example Output
-![Fake Tweet Screenshot (Einstein)](https://awesomeprompts.xyz/images/thumbnails/fake-tweet-screenshot-einstein.webp)
+![Fake Tweet Screenshot (Einstein)](https://awesomeprompts.xyz/images/posters/fake-tweet-screenshot-einstein.webp)
 
 ---
 
@@ -3114,7 +3114,7 @@ A beautiful woman wearing a pink qipao, adorned with delicate floral accessories
 - [Original Post](https://x.com/dotey/status/1912536019905233194)
 
 ## Example Output
-![Fashion Magazine Cover Style](https://awesomeprompts.xyz/images/thumbnails/fashion-magazine-cover-style.webp)
+![Fashion Magazine Cover Style](https://awesomeprompts.xyz/images/posters/fashion-magazine-cover-style.webp)
 
 ---
 
@@ -3157,7 +3157,7 @@ The prompt uses a JSON-like structure to describe card elements. Modify values i
 - [Original Post](https://x.com/hewarsaber/status/1912933875166171515)
 
 ## Example Output
-![Futuristic Logo Trading Card](https://awesomeprompts.xyz/images/thumbnails/futuristic-logo-trading-card.webp)
+![Futuristic Logo Trading Card](https://awesomeprompts.xyz/images/posters/futuristic-logo-trading-card.webp)
 
 ---
 
@@ -3174,7 +3174,7 @@ A Google Maps screenshot or other map image needs to be uploaded as the basis fo
 - [Original Post](https://x.com/umesh_ai/status/1919701229363466328)
 
 ## Example Output
-![Google Maps to Ancient Treasure Map](https://awesomeprompts.xyz/images/thumbnails/google-maps-to-ancient-treasure-map.webp)
+![Google Maps to Ancient Treasure Map](https://awesomeprompts.xyz/images/posters/google-maps-to-ancient-treasure-map.webp)
 
 ---
 
@@ -3235,7 +3235,7 @@ The [Classic 3D Coca-Cola Bottle] in the prompt can be replaced with description
 - [Original Post](https://x.com/ZHO_ZHO_ZHO/status/1921906728763105394)
 
 ## Example Output
-![Minimalist Futurist Poster](https://awesomeprompts.xyz/images/thumbnails/minimalist-futurist-poster.webp)
+![Minimalist Futurist Poster](https://awesomeprompts.xyz/images/posters/minimalist-futurist-poster.webp)
 
 ---
 
@@ -3252,7 +3252,7 @@ You can replace the movie title "{The Lord of the Rings}" in the prompt with oth
 - [Original Post](https://sora.com/g/gen_01jsfxrdpjfpebnyed8yaz42nf)
 
 ## Example Output
-![Nostalgic Anime Film Poster](https://awesomeprompts.xyz/images/thumbnails/nostalgic-anime-film-poster.webp)
+![Nostalgic Anime Film Poster](https://awesomeprompts.xyz/images/posters/nostalgic-anime-film-poster.webp)
 
 ---
 
@@ -3266,7 +3266,7 @@ Can you create a PS2 video game case of "Grand Theft Auto: Far Far Away" a GTA b
 - [Original Post](https://x.com/dotey/status/1904978767090524372)
 
 ## Example Output
-![PS2 Game Cover (GTA x Shrek)](https://awesomeprompts.xyz/images/thumbnails/ps2-game-cover-gta-x-shrek.webp)
+![PS2 Game Cover (GTA x Shrek)](https://awesomeprompts.xyz/images/posters/ps2-game-cover-gta-x-shrek.webp)
 
 ---
 
@@ -3280,7 +3280,7 @@ A retro-style promotional poster emphasizing bold Chinese text. The background f
 - [Original Post](https://x.com/dotey/status/1905251524248248650)
 
 ## Example Output
-![Retro Style Promotional Poster](https://awesomeprompts.xyz/images/thumbnails/retro-style-promotional-poster.webp)
+![Retro Style Promotional Poster](https://awesomeprompts.xyz/images/posters/retro-style-promotional-poster.webp)
 
 ---
 
@@ -3297,7 +3297,7 @@ maybe it’s time to deliver takeout instead.
 - [Original Post](https://x.com/ZHO_ZHO_ZHO/status/1905287637084274742)
 
 ## Example Output
-![Satirical Poster Generation](https://awesomeprompts.xyz/images/thumbnails/satirical-poster-generation.webp)
+![Satirical Poster Generation](https://awesomeprompts.xyz/images/posters/satirical-poster-generation.webp)
 
 ---
 
@@ -3314,7 +3314,7 @@ The city, weather, temperature, and building names can be replaced with the cont
 - [Original Post](https://x.com/dotey/status/1917988595228438771)
 
 ## Example Output
-![Signature City Weather Forecast](https://awesomeprompts.xyz/images/thumbnails/signature-city-weather-forecast.webp)
+![Signature City Weather Forecast](https://awesomeprompts.xyz/images/posters/signature-city-weather-forecast.webp)
 
 ---
 
@@ -3334,7 +3334,7 @@ Yes, needs an image to be uploaded as reference.
 - [Original Post](https://x.com/dotey/status/1917042797506662560)
 
 ## Example Output
-![Social Media Frame Integration](https://awesomeprompts.xyz/images/thumbnails/social-media-frame-integration.webp)
+![Social Media Frame Integration](https://awesomeprompts.xyz/images/posters/social-media-frame-integration.webp)
 
 ---
 
@@ -3383,7 +3383,7 @@ Image aspect ratio: 9:16
 - [Original Post](https://x.com/balconychy/status/1905507936526627078)
 
 ## Example Output
-![Xiaohongshu Cover Image](https://awesomeprompts.xyz/images/thumbnails/xiaohongshu-cover-image.webp)
+![Xiaohongshu Cover Image](https://awesomeprompts.xyz/images/posters/xiaohongshu-cover-image.webp)
 
 ---
 

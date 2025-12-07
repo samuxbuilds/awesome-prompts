@@ -3,7 +3,7 @@ title: "Satirical Poster Generation"
 category: posters
 tags: ["poster", "ai-art"]
 author: "@ZHO_ZHO_ZHO"
-preview: "/images/thumbnails/satirical-poster-generation.webp"
+preview: "/images/posters/satirical-poster-generation.webp"
 ---
 
 Satirical Poster Text (English):
@@ -15,4 +15,4 @@ maybe it’s time to deliver takeout instead.
 - [Original Post](https://x.com/ZHO_ZHO_ZHO/status/1905287637084274742)
 
 ## Example Output
-![Satirical Poster Generation](/images/thumbnails/satirical-poster-generation.webp)
+![Satirical Poster Generation](/images/posters/satirical-poster-generation.webp)

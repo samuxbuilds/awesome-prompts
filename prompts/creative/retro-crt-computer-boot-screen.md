@@ -3,7 +3,7 @@ title: "Retro CRT Computer Boot Screen"
 category: creative
 tags: ["retro", "logo"]
 author: "@Gdgtify"
-preview: "/images/arts/retro-crt-computer-boot-screen.webp"
+preview: "/images/creative/retro-crt-computer-boot-screen.webp"
 ---
 
 Retro CRT computer boot screen that resolves into ASCII-art of [shape or logo]
@@ -15,4 +15,4 @@ Replace [shape or logo] in the prompt with a specific shape or logo description,
 - [Original Post](https://x.com/Gdgtify/status/1925176250626159053)
 
 ## Example Output
-![Retro CRT Computer Boot Screen](/images/arts/retro-crt-computer-boot-screen.webp)
+![Retro CRT Computer Boot Screen](/images/creative/retro-crt-computer-boot-screen.webp)

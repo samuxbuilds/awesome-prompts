@@ -3,7 +3,7 @@ title: "Fluffy Jack-o'-lantern"
 category: creative
 tags: ["3d", "realistic", "surreal", "icon"]
 author: "gizakdag"
-preview: "/images/arts/fluffy-jack-o-lantern.webp"
+preview: "/images/creative/fluffy-jack-o-lantern.webp"
 ---
 
 Transform a simple flat vector icon of [🎃] into a soft, 3D fluffy object. The shape is fully covered in fur, with hyperrealistic hair texture and soft shadows. The object is centered on a clean, light gray background and floats gently in space. The style is surreal, tactile, and modern, evoking a sense of comfort and playfulness. Studio lighting, high-resolution render.
@@ -13,4 +13,4 @@ Transform a simple flat vector icon of [🎃] into a soft, 3D fluffy object. The
 - [Original Post](https://x.com/dotey/status/1912276883196039520)
 
 ## Example Output
-![Fluffy Jack-o'-lantern](/images/arts/fluffy-jack-o-lantern.webp)
+![Fluffy Jack-o'-lantern](/images/creative/fluffy-jack-o-lantern.webp)

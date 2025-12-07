@@ -3,7 +3,7 @@ title: "Hand-drawn Infographic Card"
 category: creative
 tags: ["illustration", "icon"]
 author: "@dotey"
-preview: "/images/arts/hand-drawn-infographic-card.webp"
+preview: "/images/creative/hand-drawn-infographic-card.webp"
 ---
 
 Create a hand-drawn style infographic card in a 9:16 vertical format. The card should have a clear theme, with a beige or off-white paper-textured background. The overall design should reflect a simple, warm, and handmade aesthetic.
@@ -19,4 +19,4 @@ Keep updating daily, and results will come — because 99% of people can’t kee
 - [Original Post](https://x.com/dotey/status/1907870919852179850)
 
 ## Example Output
-![Hand-drawn Infographic Card](/images/arts/hand-drawn-infographic-card.webp)
+![Hand-drawn Infographic Card](/images/creative/hand-drawn-infographic-card.webp)

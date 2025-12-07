@@ -3,7 +3,7 @@ title: "Silhouette Art"
 category: portraits
 tags: ["creative", "ai-art"]
 author: "@umesh_ai"
-preview: "/images/people/silhouette-art.webp"
+preview: "/images/portraits/silhouette-art.webp"
 ---
 
 The silhouette of a basic outline of a [PROMPT]. The background is bright yellow, and the silhouette is solid black.
@@ -15,4 +15,4 @@ Replace `[PROMPT]` with the specific subject, e.g., "dragon on a castle", "woman
 - [Original Post](https://x.com/umesh_ai/status/1915417277953962048)
 
 ## Example Output
-![Silhouette Art](/images/people/silhouette-art.webp)
+![Silhouette Art](/images/portraits/silhouette-art.webp)

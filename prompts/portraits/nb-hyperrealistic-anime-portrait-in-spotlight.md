@@ -3,7 +3,7 @@ title: "Hyperrealistic Anime Portrait in Spotlight"
 category: portraits
 tags: ["anime", "realistic", "portrait", "character"]
 author: "@nanobanana-pro"
-preview: "/images/portraits/nb-hyperrealistic-anime-portrait-in-spotlight.jpg"
+preview: "/images/portraits/nb-hyperrealistic-anime-portrait-in-spotlight.webp"
 ---
 
 *A hyperrealistic anime-style portrait with dramatic lighting*
@@ -24,4 +24,4 @@ High-contrast only in the lit portion of the face.
 Everything outside the spotlight should be nearly invisible.
 
 ## Example Output
-![Hyperrealistic Anime Portrait in Spotlight](/images/portraits/nb-hyperrealistic-anime-portrait-in-spotlight.jpg)
+![Hyperrealistic Anime Portrait in Spotlight](/images/portraits/nb-hyperrealistic-anime-portrait-in-spotlight.webp)

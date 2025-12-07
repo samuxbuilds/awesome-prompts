@@ -3,7 +3,7 @@ title: "Famous Painting Character Cereal Ad"
 category: creative
 tags: ["3d", "chibi", "minimalist", "cute", "character"]
 author: "@ZHO_ZHO_ZHO"
-preview: "/images/arts/famous-painting-character-cereal-ad.webp"
+preview: "/images/creative/famous-painting-character-cereal-ad.webp"
 ---
 
 “Master Oats”: Based on the visual features of the person in the uploaded photo, generate a custom oatmeal mix that reflects their personality traits — for example, using vegetables, fruits, yogurt, whole grains, etc.
@@ -29,4 +29,4 @@ All visuals should be balanced, modern, and appealing, reflecting a premium and 
 - [Original Post](https://x.com/ZHO_ZHO_ZHO/status/1909542765857587310)
 
 ## Example Output
-![Famous Painting Character Cereal Ad](/images/arts/famous-painting-character-cereal-ad.webp)
+![Famous Painting Character Cereal Ad](/images/creative/famous-painting-character-cereal-ad.webp)

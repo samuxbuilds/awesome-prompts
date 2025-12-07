@@ -3,7 +3,7 @@ title: "Colorful Vector Art Poster"
 category: posters
 tags: ["poster", "ai-art"]
 author: "@michaelrabone"
-preview: "/images/thumbnails/colorful-vector-art-poster.webp"
+preview: "/images/posters/colorful-vector-art-poster.webp"
 ---
 
 Barcelona Spain colourful summer vector art poster with big "BARCELONA" title at the top and smaller "SPAIN" title under
@@ -15,4 +15,4 @@ Replace the city and country names in the prompt (e.g., replace "Barcelona Spain
 - [Original Post](https://x.com/michaelrabone/status/1913865394139316291)
 
 ## Example Output
-![Colorful Vector Art Poster](/images/thumbnails/colorful-vector-art-poster.webp)
+![Colorful Vector Art Poster](/images/posters/colorful-vector-art-poster.webp)

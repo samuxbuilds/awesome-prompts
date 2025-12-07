@@ -3,7 +3,7 @@ title: "Ghibli Style"
 category: creative
 tags: ["ghibli", "ai-art"]
 author: "AnimeAI"
-preview: "/images/arts/ghibli-style.webp"
+preview: "/images/creative/ghibli-style.webp"
 ---
 
 Redraw this photo in Ghibli style
@@ -18,4 +18,4 @@ A photo of a person or other subject.
 - [Original Post](https://animeai.online/#demo-gallery)
 
 ## Example Output
-![Mona Lisa redrawn in Ghibli style](/images/arts/ghibli-style.webp)
+![Mona Lisa redrawn in Ghibli style](/images/creative/ghibli-style.webp)

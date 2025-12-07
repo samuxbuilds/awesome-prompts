@@ -3,7 +3,7 @@ title: "Y2K Scrapbook Poster with Multiple Poses"
 category: posters
 tags: ["retro", "realistic", "cute", "poster", "sticker"]
 author: "@nanobanana-pro"
-preview: "/images/posters/nb-y2k-scrapbook-poster-with-multiple-poses.jpg"
+preview: "/images/posters/nb-y2k-scrapbook-poster-with-multiple-poses.webp"
 ---
 
 *Create a Y2K-style scrapbook poster with multiple poses*
@@ -45,4 +45,4 @@ photography_rendering": {
 negative_prompt": "no realism that breaks Y2K aesthetic, no modern 2020s clothing, no messy composition, no blurry face, no distorted hands, no extra limbs, no face warping, no low resolution, no grain, no muted colors, no watermark, no AI artifacts"
 
 ## Example Output
-![Y2K Scrapbook Poster with Multiple Poses](/images/posters/nb-y2k-scrapbook-poster-with-multiple-poses.jpg)
+![Y2K Scrapbook Poster with Multiple Poses](/images/posters/nb-y2k-scrapbook-poster-with-multiple-poses.webp)

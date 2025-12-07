@@ -3,7 +3,7 @@ title: "Code Style Business Card"
 category: posters
 tags: ["realistic", "icon"]
 author: "@umesh_ai"
-preview: "/images/thumbnails/code-style-business-card.webp"
+preview: "/images/posters/code-style-business-card.webp"
 ---
 
 A close-up shot of a hand holding a business card designed to look like a JSON file opened in VS Code. The card shows code formatted in realistic syntax-highlighted JSON code. The window includes typical toolbar icons and a title bar labeled Business Card.json, styled exactly like the interface of VS Code. Background is slightly blurred, keeping the focus on the card.
@@ -24,4 +24,4 @@ Replace the values of name, title, email, and link in the final JSON code. The p
 - [Original Post](https://x.com/dotey/status/1917412535130563006)
 
 ## Example Output
-![Code Style Business Card](/images/thumbnails/code-style-business-card.webp)
+![Code Style Business Card](/images/posters/code-style-business-card.webp)
