@@ -2,9 +2,19 @@
 interface Props {
   title: string;
   description?: string;
+  image?: string;
+  url?: string;
 }
 
-const { title, description = 'A curated collection of awesome prompts for AI tools' } = Astro.props;
+const { 
+  title, 
+  description = 'Explore AwesomePrompts, a curated, open-source collection of 160+ AI image generation prompts for 3D art, portraits, thumbnails, and more.',
+  image = '/og-image.png',
+  url = Astro.url.href
+} = Astro.props;
+
+const siteUrl = 'https://awesomeprompts.xyz';
+const imageUrl = image.startsWith('http') ? image : `${siteUrl}${image}`;
 ---
 
 <!DOCTYPE html>
@@ -14,6 +24,22 @@ const { title, description = 'A curated collection of awesome prompts for AI too
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta name="description" content={description} />
     <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <link rel="canonical" href={url} />
+
+    <!-- Open Graph / Facebook -->
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content={url} />
+    <meta property="og:title" content={title} />
+    <meta property="og:description" content={description} />
+    <meta property="og:image" content={imageUrl} />
+
+    <!-- Twitter -->
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:url" content={url} />
+    <meta name="twitter:title" content={title} />
+    <meta name="twitter:description" content={description} />
+    <meta name="twitter:image" content={imageUrl} />
+
     <title>{title}</title>
   </head>
   <body>
