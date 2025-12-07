@@ -5,7 +5,7 @@ tags: ["modern","nano-banana-pro"]
 author: "@ZaraIrahh"
 author_url: "https://twitter.com/ZaraIrahh"
 source_url: "https://twitter.com/ZaraIrahh/status/1997139760469643639"
-preview: "/images/portraits/pg-1997139760469643639.jpg"
+preview: "/images/portraits/pg-1997139760469643639.webp"
 ---
 
 Captured in a cozy modern space, a young woman radiates charm in a floral dress. Her soft expression and natural glow reflect a serene moment that celebrates beauty and style.
@@ -94,4 +94,4 @@ Captured in a cozy modern space, a young woman radiates charm in a floral dress.
 
 ## Example Output
 
-![Floral Vibes & Mirror Reflections](/images/portraits/pg-1997139760469643639.jpg)
+![Floral Vibes & Mirror Reflections](/images/portraits/pg-1997139760469643639.webp)

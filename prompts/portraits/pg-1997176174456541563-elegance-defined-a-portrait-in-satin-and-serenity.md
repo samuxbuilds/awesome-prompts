@@ -5,7 +5,7 @@ tags: ["portrait","nano-banana-pro"]
 author: "@AIByAbbay"
 author_url: "https://twitter.com/AIByAbbay"
 source_url: "https://twitter.com/AIByAbbay/status/1997176174456541563"
-preview: "/images/portraits/pg-1997176174456541563.jpg"
+preview: "/images/portraits/pg-1997176174456541563.webp"
 ---
 
 Soft, radiant elegance unfolds in this stunning editorial shot, where a model showcasing satin and confidence captivates against a warm cream backdrop.
@@ -73,4 +73,4 @@ Soft, radiant elegance unfolds in this stunning editorial shot, where a model sh
 
 ## Example Output
 
-![Elegance Defined: A Portrait in Satin and Serenity](/images/portraits/pg-1997176174456541563.jpg)
+![Elegance Defined: A Portrait in Satin and Serenity](/images/portraits/pg-1997176174456541563.webp)

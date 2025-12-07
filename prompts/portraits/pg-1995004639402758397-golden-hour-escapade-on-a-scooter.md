@@ -5,7 +5,7 @@ tags: ["vintage","light","nano-banana-pro"]
 author: "@AIwithkhan"
 author_url: "https://twitter.com/AIwithkhan"
 source_url: "https://twitter.com/AIwithkhan/status/1995004639402758397"
-preview: "/images/portraits/pg-1995004639402758397.jpg"
+preview: "/images/portraits/pg-1995004639402758397.webp"
 ---
 
 A sunset-kissed journey unfolds as a couple rides a vintage scooter, the warm glow of twilight enveloping them. Love and adventure intertwine on a winding coastal road!
@@ -20,4 +20,4 @@ A romantic couple enjoys a scenic coastal drive on a vintage scooter during suns
 
 ## Example Output
 
-![Golden Hour Escapade on a Scooter](/images/portraits/pg-1995004639402758397.jpg)
+![Golden Hour Escapade on a Scooter](/images/portraits/pg-1995004639402758397.webp)

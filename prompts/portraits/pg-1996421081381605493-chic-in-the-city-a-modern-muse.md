@@ -5,7 +5,7 @@ tags: ["modern","urban","fashion","nano-banana-pro"]
 author: "@mehvishs25"
 author_url: "https://twitter.com/mehvishs25"
 source_url: "https://twitter.com/mehvishs25/status/1996421081381605493"
-preview: "/images/portraits/pg-1996421081381605493.jpg"
+preview: "/images/portraits/pg-1996421081381605493.webp"
 ---
 
 Elegance meets urban flair as this stylish woman stands poised against a historic backdrop. With a coffee cup in hand and a confident stance, she redefines city fashion.
@@ -20,4 +20,4 @@ A photorealistic, full-body shot captures a stylish woman standing outdoors in a
 
 ## Example Output
 
-![Chic in the City: A Modern Muse](/images/portraits/pg-1996421081381605493.jpg)
+![Chic in the City: A Modern Muse](/images/portraits/pg-1996421081381605493.webp)

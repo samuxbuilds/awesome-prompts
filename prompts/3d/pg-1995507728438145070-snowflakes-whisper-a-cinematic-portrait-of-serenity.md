@@ -5,7 +5,7 @@ tags: ["portrait","dark","nano-banana-pro"]
 author: "@oggii_0"
 author_url: "https://twitter.com/oggii_0"
 source_url: "https://twitter.com/oggii_0/status/1995507728438145070"
-preview: "/images/3d/pg-1995507728438145070.jpg"
+preview: "/images/3d/pg-1995507728438145070.webp"
 ---
 
 Amidst a gentle snowfall, a figure in a dark wool coat exudes calm confidence. The illuminated snowflakes dance around them, creating a poetic winter dreamscape.
@@ -20,4 +20,4 @@ A cinematic portrait of a person standing amidst falling snow, wearing a wide, d
 
 ## Example Output
 
-![Snowflakes Whisper: A Cinematic Portrait of Serenity](/images/3d/pg-1995507728438145070.jpg)
+![Snowflakes Whisper: A Cinematic Portrait of Serenity](/images/3d/pg-1995507728438145070.webp)

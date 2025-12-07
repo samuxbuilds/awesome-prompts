@@ -5,7 +5,7 @@ tags: ["portrait","light","nano-banana-pro"]
 author: "@Just_sharon7"
 author_url: "https://twitter.com/Just_sharon7"
 source_url: "https://twitter.com/Just_sharon7/status/1992780207036760078"
-preview: "/images/portraits/pg-1992780207036760078.jpg"
+preview: "/images/portraits/pg-1992780207036760078.webp"
 ---
 
 Bathed in golden light, a poised woman stands in a stunning cruise atrium, her confidence mirrored by the elegant geometries of the glass dome above. The ocean horizon tinges the scene with serene sunset hues.
@@ -50,4 +50,4 @@ Bathed in golden light, a poised woman stands in a stunning cruise atrium, her c
 
 ## Example Output
 
-![Glimmers of Luxury: A Sunset Portrait on the High Seas](/images/portraits/pg-1992780207036760078.jpg)
+![Glimmers of Luxury: A Sunset Portrait on the High Seas](/images/portraits/pg-1992780207036760078.webp)

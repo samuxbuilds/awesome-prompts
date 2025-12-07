@@ -5,7 +5,7 @@ tags: ["nano-banana-pro"]
 author: "@raizamrtn"
 author_url: "https://twitter.com/raizamrtn"
 source_url: "https://twitter.com/raizamrtn/status/1991541943969673542"
-preview: "/images/posters/pg-1991541943969673542.jpg"
+preview: "/images/posters/pg-1991541943969673542.webp"
 ---
 
 Imagine NASA discoveries transformed into engaging posters for students! The Nano Banana Pro merges real-time search and stunning visuals, reshaping how we interact with information!
@@ -20,4 +20,4 @@ Find the latest NASA data on Mars rover discoveries this month and create an edu
 
 ## Example Output
 
-![Revolutionizing AI: The Nano Banana Pro Unleashes Image Power!](/images/posters/pg-1991541943969673542.jpg)
+![Revolutionizing AI: The Nano Banana Pro Unleashes Image Power!](/images/posters/pg-1991541943969673542.webp)

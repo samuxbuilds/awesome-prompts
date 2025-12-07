@@ -5,7 +5,7 @@ tags: ["nature","vibrant","nano-banana-pro"]
 author: "@rowanali09"
 author_url: "https://twitter.com/rowanali09"
 source_url: "https://twitter.com/rowanali09/status/1996580922465075399"
-preview: "/images/portraits/pg-1996580922465075399.jpg"
+preview: "/images/portraits/pg-1996580922465075399.webp"
 ---
 
 Caught in golden hour magic, the young woman radiates confidence in her oversized knit sweater. Her smile and vibrant sneakers pop against the warm autumn foliage, creating a scene that feels both inviting and timeless.
@@ -20,4 +20,4 @@ A beautiful, confident youngr hair woman with long dark hair, similar to them. i
 
 ## Example Output
 
-![Autumn Vibes: A Cozy Moment in Nature's Embrace](/images/portraits/pg-1996580922465075399.jpg)
+![Autumn Vibes: A Cozy Moment in Nature's Embrace](/images/portraits/pg-1996580922465075399.webp)

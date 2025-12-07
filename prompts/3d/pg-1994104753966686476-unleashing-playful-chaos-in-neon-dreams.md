@@ -5,7 +5,7 @@ tags: ["light","neon","vibrant","nano-banana-pro"]
 author: "@awesome_visuals"
 author_url: "https://twitter.com/awesome_visuals"
 source_url: "https://twitter.com/awesome_visuals/status/1994104753966686476"
-preview: "/images/3d/pg-1994104753966686476.jpg"
+preview: "/images/3d/pg-1994104753966686476.webp"
 ---
 
 A whimsical arcade realm bursts to life with sugary monsters and vibrant hues, spotlighting a playful young woman ready to savor every moment in her neon paradise!
@@ -73,4 +73,4 @@ A whimsical arcade realm bursts to life with sugary monsters and vibrant hues, s
 
 ## Example Output
 
-![Unleashing Playful Chaos in Neon Dreams](/images/3d/pg-1994104753966686476.jpg)
+![Unleashing Playful Chaos in Neon Dreams](/images/3d/pg-1994104753966686476.webp)

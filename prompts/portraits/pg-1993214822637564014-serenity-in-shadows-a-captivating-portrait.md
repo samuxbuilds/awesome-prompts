@@ -5,7 +5,7 @@ tags: ["portrait","light","nano-banana-pro"]
 author: "@AIwithkhan"
 author_url: "https://twitter.com/AIwithkhan"
 source_url: "https://twitter.com/AIwithkhan/status/1993214822637564014"
-preview: "/images/portraits/pg-1993214822637564014.jpg"
+preview: "/images/portraits/pg-1993214822637564014.webp"
 ---
 
 A striking interplay of light and shadows captures a woman's allure. Her piercing gaze and elegant attire draw you into a world of quiet confidence and sophistication.
@@ -20,4 +20,4 @@ A professional portrait photograph captures a young woman with dark, wavy, shoul
 
 ## Example Output
 
-![Serenity in Shadows: A Captivating Portrait](/images/portraits/pg-1993214822637564014.jpg)
+![Serenity in Shadows: A Captivating Portrait](/images/portraits/pg-1993214822637564014.webp)

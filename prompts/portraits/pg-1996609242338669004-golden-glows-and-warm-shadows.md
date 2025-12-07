@@ -5,7 +5,7 @@ tags: ["light","sketch","nano-banana-pro"]
 author: "@saniaspeaks_"
 author_url: "https://twitter.com/saniaspeaks_"
 source_url: "https://twitter.com/saniaspeaks_/status/1996609242338669004"
-preview: "/images/portraits/pg-1996609242338669004.jpg"
+preview: "/images/portraits/pg-1996609242338669004.webp"
 ---
 
 A captivating moment caught in sunlight! Her wavy hair dances in the warm glow as gentle shadows sketch stories across her face. The perfect blend of light and serenity!
@@ -24,4 +24,4 @@ A captivating moment caught in sunlight! Her wavy hair dances in the warm glow a
 
 ## Example Output
 
-![Golden Glows and Warm Shadows](/images/portraits/pg-1996609242338669004.jpg)
+![Golden Glows and Warm Shadows](/images/portraits/pg-1996609242338669004.webp)

@@ -5,7 +5,7 @@ tags: ["portrait","nano-banana-pro"]
 author: "@ZaraIrahh"
 author_url: "https://twitter.com/ZaraIrahh"
 source_url: "https://twitter.com/ZaraIrahh/status/1992762678989971671"
-preview: "/images/portraits/pg-1992762678989971671.jpg"
+preview: "/images/portraits/pg-1992762678989971671.webp"
 ---
 
 Gaze upon a stunning portrait of grace, adorned in teal Victorian splendor. The intricate embroidery, blooming roses, and serene pose craft a timeless tale of elegance.
@@ -77,4 +77,4 @@ Gaze upon a stunning portrait of grace, adorned in teal Victorian splendor. The 
 
 ## Example Output
 
-![Step Back in Time: Victorian Elegance Unveiled](/images/portraits/pg-1992762678989971671.jpg)
+![Step Back in Time: Victorian Elegance Unveiled](/images/portraits/pg-1992762678989971671.webp)

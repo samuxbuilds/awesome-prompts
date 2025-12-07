@@ -5,7 +5,7 @@ tags: ["nature","light","nano-banana-pro"]
 author: "@SimplyAnnisa"
 author_url: "https://twitter.com/SimplyAnnisa"
 source_url: "https://twitter.com/SimplyAnnisa/status/1992819599541485701"
-preview: "/images/3d/pg-1992819599541485701.jpg"
+preview: "/images/3d/pg-1992819599541485701.webp"
 ---
 
 A lone figure stands amidst swaying grass, eyes closed, embraced by twilight. Teal hues dance in the air, capturing a moment of serene introspection. Nature's whisper calls.
@@ -20,4 +20,4 @@ A lone figure stands amidst swaying grass, eyes closed, embraced by twilight. Te
 
 ## Example Output
 
-![Whispers of Freedom in a Dusk-Kissed Field](/images/3d/pg-1992819599541485701.jpg)
+![Whispers of Freedom in a Dusk-Kissed Field](/images/3d/pg-1992819599541485701.webp)

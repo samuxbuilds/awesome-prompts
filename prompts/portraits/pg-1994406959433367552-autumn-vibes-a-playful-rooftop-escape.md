@@ -5,7 +5,7 @@ tags: ["portrait","nano-banana-pro"]
 author: "@awesome_visuals"
 author_url: "https://twitter.com/awesome_visuals"
 source_url: "https://twitter.com/awesome_visuals/status/1994406959433367552"
-preview: "/images/portraits/pg-1994406959433367552.jpg"
+preview: "/images/portraits/pg-1994406959433367552.webp"
 ---
 
 Golden hour casts a warm glow on a carefree spirit, as she leans playfully on the railing. With her bright smile and autumn backdrop, this portrait captures the essence of confidence.
@@ -30,4 +30,4 @@ Golden hour casts a warm glow on a carefree spirit, as she leans playfully on th
 
 ## Example Output
 
-![Autumn Vibes: A Playful Rooftop Escape](/images/portraits/pg-1994406959433367552.jpg)
+![Autumn Vibes: A Playful Rooftop Escape](/images/portraits/pg-1994406959433367552.webp)

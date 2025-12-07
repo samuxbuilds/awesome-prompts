@@ -5,7 +5,7 @@ tags: ["portrait","nano-banana-pro"]
 author: "@monicamoonx"
 author_url: "https://twitter.com/monicamoonx"
 source_url: "https://twitter.com/monicamoonx/status/1996686272078008691"
-preview: "/images/portraits/pg-1996686272078008691.jpg"
+preview: "/images/portraits/pg-1996686272078008691.webp"
 ---
 
 A breathtaking portrait of an elven warrior, her snow-white skin accentuated by freckles and frosted hair. Amidst a swirling snowstorm, she stands resolute, her ornate sword anchored in the icy ground, embodying both strength and grace.
@@ -20,4 +20,4 @@ hyperrealistic profile of a female elf warrior with snow-white skin and delicate
 
 ## Example Output
 
-![Frost-Kissed Elegance: The Elven Warrior in Winter's Grip](/images/portraits/pg-1996686272078008691.jpg)
+![Frost-Kissed Elegance: The Elven Warrior in Winter's Grip](/images/portraits/pg-1996686272078008691.webp)

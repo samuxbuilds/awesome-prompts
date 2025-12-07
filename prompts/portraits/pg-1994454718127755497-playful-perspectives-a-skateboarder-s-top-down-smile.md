@@ -5,7 +5,7 @@ tags: ["vibrant","nano-banana-pro"]
 author: "@ViralOps_"
 author_url: "https://twitter.com/ViralOps_"
 source_url: "https://twitter.com/ViralOps_/status/1994454718127755497"
-preview: "/images/portraits/pg-1994454718127755497.jpg"
+preview: "/images/portraits/pg-1994454718127755497.webp"
 ---
 
 Look up to see joy personified! A vibrant young woman squats over her skateboard, radiating fun with her playful grin against a cool, overcast backdrop.
@@ -265,4 +265,4 @@ Look up to see joy personified! A vibrant young woman squats over her skateboard
 
 ## Example Output
 
-![Playful Perspectives: A Skateboarder's Top-Down Smile](/images/portraits/pg-1994454718127755497.jpg)
+![Playful Perspectives: A Skateboarder's Top-Down Smile](/images/portraits/pg-1994454718127755497.webp)

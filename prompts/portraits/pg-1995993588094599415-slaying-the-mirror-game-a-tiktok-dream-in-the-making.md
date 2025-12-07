@@ -5,7 +5,7 @@ tags: ["nano-banana-pro"]
 author: "@joonmts"
 author_url: "https://twitter.com/joonmts"
 source_url: "https://twitter.com/joonmts/status/1995993588094599415"
-preview: "/images/portraits/pg-1995993588094599415.jpg"
+preview: "/images/portraits/pg-1995993588094599415.webp"
 ---
 
 With a perfectly arched back and a playful glance, this creator knows how to captivate. The glow of her aesthetic room and soft glam makeup create a vibe that’s irresistible!
@@ -95,4 +95,4 @@ With a perfectly arched back and a playful glance, this creator knows how to cap
 
 ## Example Output
 
-![Slaying the Mirror Game: A TikTok Dream in the Making](/images/portraits/pg-1995993588094599415.jpg)
+![Slaying the Mirror Game: A TikTok Dream in the Making](/images/portraits/pg-1995993588094599415.webp)

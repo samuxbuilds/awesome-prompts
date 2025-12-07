@@ -5,7 +5,7 @@ tags: ["modern","urban","dark","light","nano-banana-pro"]
 author: "@SimplyAnnisa"
 author_url: "https://twitter.com/SimplyAnnisa"
 source_url: "https://twitter.com/SimplyAnnisa/status/1996164763664236814"
-preview: "/images/3d/pg-1996164763664236814.jpg"
+preview: "/images/3d/pg-1996164763664236814.webp"
 ---
 
 Boldly captivating, her serious gaze pierces through a blurred urban backdrop, where soft shadows and highlights dance across her sharp features. The dark attire echoes a cinematic allure, leaving a lasting impression.
@@ -57,4 +57,4 @@ Boldly captivating, her serious gaze pierces through a blurred urban backdrop, w
 
 ## Example Output
 
-![Striking Elegance: A Modern Muse in Motion](/images/3d/pg-1996164763664236814.jpg)
+![Striking Elegance: A Modern Muse in Motion](/images/3d/pg-1996164763664236814.webp)

@@ -5,7 +5,7 @@ tags: ["fantasy","neon","nano-banana-pro"]
 author: "@CharaspowerAI"
 author_url: "https://twitter.com/CharaspowerAI"
 source_url: "https://twitter.com/CharaspowerAI/status/1992646835727446294"
-preview: "/images/portraits/pg-1992646835727446294.jpg"
+preview: "/images/portraits/pg-1992646835727446294.webp"
 ---
 
 How about your face gracing a bold game cover? Picture a neon-lit LA skyline, complete with palm trees and sleek cars, all featuring your custom character in the latest streetwear!
@@ -20,4 +20,4 @@ Create a PlayStation 5 game cover in the style of GTA VI. Use the man from the p
 
 ## Example Output
 
-![Craft Your Own GTA VI Fantasy with a Personal Twist!](/images/portraits/pg-1992646835727446294.jpg)
+![Craft Your Own GTA VI Fantasy with a Personal Twist!](/images/portraits/pg-1992646835727446294.webp)

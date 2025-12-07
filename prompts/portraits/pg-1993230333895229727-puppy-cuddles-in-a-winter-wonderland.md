@@ -5,7 +5,7 @@ tags: ["art","vibrant","nano-banana-pro"]
 author: "@kingofdairyque"
 author_url: "https://twitter.com/kingofdairyque"
 source_url: "https://twitter.com/kingofdairyque/status/1993230333895229727"
-preview: "/images/portraits/pg-1993230333895229727.jpg"
+preview: "/images/portraits/pg-1993230333895229727.webp"
 ---
 
 Amidst a snowy landscape, a young girl strikes a playful pose with her serene puppy. The contrast of her vibrant teal hoodie against the crisp white snow creates a heartwarming winter moment.
@@ -20,4 +20,4 @@ A young girl with long, wavy brown hair, wearing a teal hooded sweatshirt, holds
 
 ## Example Output
 
-![Puppy Cuddles in a Winter Wonderland](/images/portraits/pg-1993230333895229727.jpg)
+![Puppy Cuddles in a Winter Wonderland](/images/portraits/pg-1993230333895229727.webp)

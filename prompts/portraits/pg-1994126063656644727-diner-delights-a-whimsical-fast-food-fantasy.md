@@ -5,7 +5,7 @@ tags: ["fantasy","food","light","neon","nano-banana-pro"]
 author: "@ecommartinez"
 author_url: "https://twitter.com/ecommartinez"
 source_url: "https://twitter.com/ecommartinez/status/1994126063656644727"
-preview: "/images/portraits/pg-1994126063656644727.jpg"
+preview: "/images/portraits/pg-1994126063656644727.webp"
 ---
 
 Imagine a retro diner where food comes alive! Our protagonist is hilariously surprised, surrounded by playful pizza surfboards and burger beasts, all bathed in warm neon light.
@@ -65,4 +65,4 @@ Imagine a retro diner where food comes alive! Our protagonist is hilariously sur
 
 ## Example Output
 
-![Diner Delights: A Whimsical Fast-Food Fantasy](/images/portraits/pg-1994126063656644727.jpg)
+![Diner Delights: A Whimsical Fast-Food Fantasy](/images/portraits/pg-1994126063656644727.webp)

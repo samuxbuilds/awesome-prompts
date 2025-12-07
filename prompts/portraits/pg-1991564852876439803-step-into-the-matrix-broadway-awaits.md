@@ -5,7 +5,7 @@ tags: ["nano-banana-pro"]
 author: "@fofrAI"
 author_url: "https://twitter.com/fofrAI"
 source_url: "https://twitter.com/fofrAI/status/1991564852876439803"
-preview: "/images/portraits/pg-1991564852876439803.jpg"
+preview: "/images/portraits/pg-1991564852876439803.webp"
 ---
 
 Behold the stunning program of The Matrix on Broadway! Its glossy finish reflects a world where reality bends, showcasing a captivating glimpse of the stage's magic.
@@ -20,4 +20,4 @@ A photo of a programme for The Matrix broadway show, it's professional and well 
 
 ## Example Output
 
-![Step into The Matrix: Broadway Awaits!](/images/portraits/pg-1991564852876439803.jpg)
+![Step into The Matrix: Broadway Awaits!](/images/portraits/pg-1991564852876439803.webp)

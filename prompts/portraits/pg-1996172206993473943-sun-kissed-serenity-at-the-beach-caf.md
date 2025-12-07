@@ -5,7 +5,7 @@ tags: ["light","vibrant","nano-banana-pro"]
 author: "@ZaraIrahh"
 author_url: "https://twitter.com/ZaraIrahh"
 source_url: "https://twitter.com/ZaraIrahh/status/1996172206993473943"
-preview: "/images/portraits/pg-1996172206993473943.jpg"
+preview: "/images/portraits/pg-1996172206993473943.webp"
 ---
 
 A playful spirit captured in a sunlit beach café, her gentle smile and relaxed pose evoke the essence of summer. The warm ambiance and soft golden light create a perfect backdrop for this vibrant moment.
@@ -77,4 +77,4 @@ A playful spirit captured in a sunlit beach café, her gentle smile and relaxed 
 
 ## Example Output
 
-![Sun-Kissed Serenity at the Beach Café](/images/portraits/pg-1996172206993473943.jpg)
+![Sun-Kissed Serenity at the Beach Café](/images/portraits/pg-1996172206993473943.webp)

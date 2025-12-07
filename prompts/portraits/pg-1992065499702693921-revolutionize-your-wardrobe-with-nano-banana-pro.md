@@ -5,7 +5,7 @@ tags: ["fashion","nano-banana-pro"]
 author: "@iX00AI"
 author_url: "https://twitter.com/iX00AI"
 source_url: "https://twitter.com/iX00AI/status/1992065499702693921"
-preview: "/images/portraits/pg-1992065499702693921.jpg"
+preview: "/images/portraits/pg-1992065499702693921.webp"
 ---
 
 Ever thought dressing up could be this seamless? Transform your style with stunning realism using Nano Banana Pro! The perfect blend of tech and fashion awaits your creativity!
@@ -27,4 +27,4 @@ Background optional, neutral or Tokyo street setting.
 
 ## Example Output
 
-![Revolutionize Your Wardrobe with Nano Banana Pro!](/images/portraits/pg-1992065499702693921.jpg)
+![Revolutionize Your Wardrobe with Nano Banana Pro!](/images/portraits/pg-1992065499702693921.webp)

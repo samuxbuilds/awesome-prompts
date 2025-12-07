@@ -5,7 +5,7 @@ tags: ["nano-banana-pro"]
 author: "@MrDasOnX"
 author_url: "https://twitter.com/MrDasOnX"
 source_url: "https://twitter.com/MrDasOnX/status/1995124376296149397"
-preview: "/images/3d/pg-1995124376296149397.jpg"
+preview: "/images/3d/pg-1995124376296149397.webp"
 ---
 
 Is there anything more inviting than a charming book café? This elegant young woman captivates with her warm smile, surrounded by the rich ambiance of literature and coffee.
@@ -65,4 +65,4 @@ Is there anything more inviting than a charming book café? This elegant young w
 
 ## Example Output
 
-![A Cozy Moment at the Book Café](/images/3d/pg-1995124376296149397.jpg)
+![A Cozy Moment at the Book Café](/images/3d/pg-1995124376296149397.webp)

@@ -5,7 +5,7 @@ tags: ["vibrant","nano-banana-pro"]
 author: "@kingofdairyque"
 author_url: "https://twitter.com/kingofdairyque"
 source_url: "https://twitter.com/kingofdairyque/status/1993175500915982855"
-preview: "/images/portraits/pg-1993175500915982855.jpg"
+preview: "/images/portraits/pg-1993175500915982855.webp"
 ---
 
 Can you feel the warmth of casual café culture? This vibrant POV shot captures a friendly face offering a steaming cup, inviting you into a bustling street scene framed by reflections and laughter.
@@ -20,4 +20,4 @@ Create a hyper-realistic wide-angle street-café POV photo featuring the attache
 
 ## Example Output
 
-![Sipping Serenity: A Street Café Dream](/images/portraits/pg-1993175500915982855.jpg)
+![Sipping Serenity: A Street Café Dream](/images/portraits/pg-1993175500915982855.webp)

@@ -5,7 +5,7 @@ tags: ["modern","nano-banana-pro"]
 author: "@mehvishs25"
 author_url: "https://twitter.com/mehvishs25"
 source_url: "https://twitter.com/mehvishs25/status/1995684279922331840"
-preview: "/images/portraits/pg-1995684279922331840.jpg"
+preview: "/images/portraits/pg-1995684279922331840.webp"
 ---
 
 Isn't her style captivating? With a chic beret and rich hues, this image exudes timeless elegance. Soft backgrounds amplify her serene presence, embodying luxury in every detail.
@@ -22,4 +22,4 @@ Standing in a living room. Background is blur. Left portrait. 8 100% matching wi
 
 ## Example Output
 
-![Elegance Unveiled: The Classic Charm of Modern Sophistication](/images/portraits/pg-1995684279922331840.jpg)
+![Elegance Unveiled: The Classic Charm of Modern Sophistication](/images/portraits/pg-1995684279922331840.webp)

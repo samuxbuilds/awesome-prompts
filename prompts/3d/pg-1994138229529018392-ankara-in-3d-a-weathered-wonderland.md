@@ -5,7 +5,7 @@ tags: ["3d","miniature","colorful","vibrant","nano-banana-pro"]
 author: "@teachaixr"
 author_url: "https://twitter.com/teachaixr"
 source_url: "https://twitter.com/teachaixr/status/1994138229529018392"
-preview: "/images/3d/pg-1994138229529018392.jpg"
+preview: "/images/3d/pg-1994138229529018392.webp"
 ---
 
 What if Ankara came alive in vibrant 3D? This miniature scene captures its iconic architecture, perfectly reflecting today’s weather in a playful, colorful twist.
@@ -25,4 +25,4 @@ Square 1080x1080 dimension.
 
 ## Example Output
 
-![Ankara in 3D: A Weathered Wonderland](/images/3d/pg-1994138229529018392.jpg)
+![Ankara in 3D: A Weathered Wonderland](/images/3d/pg-1994138229529018392.webp)

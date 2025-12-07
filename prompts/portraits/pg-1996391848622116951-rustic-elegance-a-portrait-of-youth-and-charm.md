@@ -5,7 +5,7 @@ tags: ["portrait","nano-banana-pro"]
 author: "@SimplyAnnisa"
 author_url: "https://twitter.com/SimplyAnnisa"
 source_url: "https://twitter.com/SimplyAnnisa/status/1996391848622116951"
-preview: "/images/portraits/pg-1996391848622116951.jpg"
+preview: "/images/portraits/pg-1996391848622116951.webp"
 ---
 
 Captured from above, this enchanting portrait showcases a young woman exuding warmth and vibrance, perfectly poised on rustic wooden stairs.
@@ -20,4 +20,4 @@ Realistic 8K quality portrait of a young woman in her mid-20s with a sweet face,
 
 ## Example Output
 
-![Rustic Elegance: A Portrait of Youth and Charm](/images/portraits/pg-1996391848622116951.jpg)
+![Rustic Elegance: A Portrait of Youth and Charm](/images/portraits/pg-1996391848622116951.webp)

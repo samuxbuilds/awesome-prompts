@@ -5,7 +5,7 @@ tags: ["art","nano-banana-pro"]
 author: "@dotey"
 author_url: "https://twitter.com/dotey"
 source_url: "https://twitter.com/dotey/status/1991928906291556681"
-preview: "/images/portraits/pg-1991928906291556681.jpg"
+preview: "/images/portraits/pg-1991928906291556681.webp"
 ---
 
 A comical encounter unfolds on a scroll! A Ming scholar's astonished gaze meets a Tang beauty channeling Marilyn Monroe, while a playful child indulges in cotton candy. Artistry meets hilarity!
@@ -20,4 +20,4 @@ A comical encounter unfolds on a scroll! A Ming scholar's astonished gaze meets 
 
 ## Example Output
 
-![Whimsical Ink: A Playful Fusion of History and Humor](/images/portraits/pg-1991928906291556681.jpg)
+![Whimsical Ink: A Playful Fusion of History and Humor](/images/portraits/pg-1991928906291556681.webp)

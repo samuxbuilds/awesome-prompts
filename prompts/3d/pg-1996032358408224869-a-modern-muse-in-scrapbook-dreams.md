@@ -5,7 +5,7 @@ tags: ["modern","vibrant","nano-banana-pro"]
 author: "@ZaraIrahh"
 author_url: "https://twitter.com/ZaraIrahh"
 source_url: "https://twitter.com/ZaraIrahh/status/1996032358408224869"
-preview: "/images/3d/pg-1996032358408224869.jpg"
+preview: "/images/3d/pg-1996032358408224869.webp"
 ---
 
 A captivating scene unfolds! With her confident stance and playful outfit, she embodies creativity amidst a charming collage backdrop adorned with whimsical doodles and vibrant colors.
@@ -122,4 +122,4 @@ A captivating scene unfolds! With her confident stance and playful outfit, she e
 
 ## Example Output
 
-![A Modern Muse in Scrapbook Dreams](/images/3d/pg-1996032358408224869.jpg)
+![A Modern Muse in Scrapbook Dreams](/images/3d/pg-1996032358408224869.webp)

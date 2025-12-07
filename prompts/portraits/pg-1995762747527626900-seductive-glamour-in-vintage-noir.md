@@ -5,7 +5,7 @@ tags: ["vintage","nano-banana-pro"]
 author: "@xmliisu"
 author_url: "https://twitter.com/xmliisu"
 source_url: "https://twitter.com/xmliisu/status/1995762747527626900"
-preview: "/images/portraits/pg-1995762747527626900.jpg"
+preview: "/images/portraits/pg-1995762747527626900.webp"
 ---
 
 A captivating scene unfolds as she exudes confidence in her backless satin dress, the smoky nightlife capturing her sultry allure.
@@ -49,4 +49,4 @@ A captivating scene unfolds as she exudes confidence in her backless satin dress
 
 ## Example Output
 
-![Seductive Glamour in Vintage Noir](/images/portraits/pg-1995762747527626900.jpg)
+![Seductive Glamour in Vintage Noir](/images/portraits/pg-1995762747527626900.webp)

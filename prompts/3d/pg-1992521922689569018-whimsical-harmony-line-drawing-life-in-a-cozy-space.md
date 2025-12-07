@@ -5,7 +5,7 @@ tags: ["minimal","light","nano-banana-pro"]
 author: "@egeberkina"
 author_url: "https://twitter.com/egeberkina"
 source_url: "https://twitter.com/egeberkina/status/1992521922689569018"
-preview: "/images/3d/pg-1992521922689569018.jpg"
+preview: "/images/3d/pg-1992521922689569018.webp"
 ---
 
 Who knew minimalism could come alive? Delightful, clean line-drawings of people gracefully mingle with the scene, adding warmth and whimsy without overshadowing the environment.
@@ -20,4 +20,4 @@ Add clean, minimal white line-drawing illustrations of people into this photo. M
 
 ## Example Output
 
-![Whimsical Harmony: Line-Drawing Life in a Cozy Space](/images/3d/pg-1992521922689569018.jpg)
+![Whimsical Harmony: Line-Drawing Life in a Cozy Space](/images/3d/pg-1992521922689569018.webp)

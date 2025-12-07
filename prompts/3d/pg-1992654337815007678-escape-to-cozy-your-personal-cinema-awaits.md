@@ -5,7 +5,7 @@ tags: ["nano-banana-pro"]
 author: "@egeberkina"
 author_url: "https://twitter.com/egeberkina"
 source_url: "https://twitter.com/egeberkina/status/1992654337815007678"
-preview: "/images/3d/pg-1992654337815007678.jpg"
+preview: "/images/3d/pg-1992654337815007678.webp"
 ---
 
 Imagine a snug haven where the ESC key morphs into a cozy living room, complete with popcorn and a glowing Netflix screen. Who needs reality when you can lounge with your favorite shows?
@@ -20,4 +20,4 @@ A photorealistic ESC keycap scene shows a miniature cozy living room setup. Insi
 
 ## Example Output
 
-![Escape to Cozy: Your Personal Cinema Awaits!](/images/3d/pg-1992654337815007678.jpg)
+![Escape to Cozy: Your Personal Cinema Awaits!](/images/3d/pg-1992654337815007678.webp)

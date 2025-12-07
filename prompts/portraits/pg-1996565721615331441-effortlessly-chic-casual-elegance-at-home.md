@@ -5,7 +5,7 @@ tags: ["fashion","nano-banana-pro"]
 author: "@Just_sharon7"
 author_url: "https://twitter.com/Just_sharon7"
 source_url: "https://twitter.com/Just_sharon7/status/1996565721615331441"
-preview: "/images/portraits/pg-1996565721615331441.jpg"
+preview: "/images/portraits/pg-1996565721615331441.webp"
 ---
 
 A cozy moment captured! This young woman radiates style in a playful crop top and textured cardigan, perfectly blending comfort and fashion in her inviting indoor space.
@@ -45,4 +45,4 @@ A cozy moment captured! This young woman radiates style in a playful crop top an
 
 ## Example Output
 
-![Effortlessly Chic: Casual Elegance at Home](/images/portraits/pg-1996565721615331441.jpg)
+![Effortlessly Chic: Casual Elegance at Home](/images/portraits/pg-1996565721615331441.webp)

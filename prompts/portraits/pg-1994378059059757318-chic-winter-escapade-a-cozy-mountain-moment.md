@@ -5,7 +5,7 @@ tags: ["nano-banana-pro"]
 author: "@mehvishs25"
 author_url: "https://twitter.com/mehvishs25"
 source_url: "https://twitter.com/mehvishs25/status/1994378059059757318"
-preview: "/images/portraits/pg-1994378059059757318.jpg"
+preview: "/images/portraits/pg-1994378059059757318.webp"
 ---
 
 A serene scene unfolds as our model exudes elegance, cradling her coffee. Wrapped in a fluffy white coat, she gazes into the snowy horizon, perfectly blending with the winter wilderness.
@@ -25,4 +25,4 @@ portrait 2:3.
 
 ## Example Output
 
-![Chic Winter Escapade: A Cozy Mountain Moment](/images/portraits/pg-1994378059059757318.jpg)
+![Chic Winter Escapade: A Cozy Mountain Moment](/images/portraits/pg-1994378059059757318.webp)

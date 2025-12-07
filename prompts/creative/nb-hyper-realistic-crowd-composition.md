@@ -3,7 +3,7 @@ title: "Hyper-Realistic Crowd Composition"
 category: creative
 tags: ["realistic", "photorealistic", "cinematic"]
 author: "@nanobanana-pro"
-preview: "/images/creative/nb-hyper-realistic-crowd-composition.png"
+preview: "/images/creative/nb-hyper-realistic-crowd-composition.webp"
 ---
 
 *Handling complex compositions with multiple famous faces and specific lighting.*
@@ -18,4 +18,4 @@ THE ENVIRONMENT: A luxurious open-air rooftop terrace at sunset overlooking a mo
 - [Original](https://x.com/SebJefferies/status/1991531687147360728)
 
 ## Example Output
-![Hyper-Realistic Crowd Composition](/images/creative/nb-hyper-realistic-crowd-composition.png)
+![Hyper-Realistic Crowd Composition](/images/creative/nb-hyper-realistic-crowd-composition.webp)

@@ -5,7 +5,7 @@ tags: ["art","minimal","vibrant","digital","nano-banana-pro"]
 author: "@AIwithkhan"
 author_url: "https://twitter.com/AIwithkhan"
 source_url: "https://twitter.com/AIwithkhan/status/1996770108933656800"
-preview: "/images/3d/pg-1996770108933656800.jpg"
+preview: "/images/3d/pg-1996770108933656800.webp"
 ---
 
 A mesmerizing blend of art and technology unfolds! A life-sized figure melts into cyberspace, surrounded by vibrant holograms and minimalist design. Can you feel the digital pulse?
@@ -20,4 +20,4 @@ A futuristic art installation inside a modern gallery, depicting a life-sized la
 
 ## Example Output
 
-![Futuristic Fusion: Digital Dreams in a Gallery Space](/images/3d/pg-1996770108933656800.jpg)
+![Futuristic Fusion: Digital Dreams in a Gallery Space](/images/3d/pg-1996770108933656800.webp)

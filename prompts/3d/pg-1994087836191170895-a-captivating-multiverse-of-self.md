@@ -5,7 +5,7 @@ tags: ["portrait","miniature","nano-banana-pro"]
 author: "@ShreyaYadav___"
 author_url: "https://twitter.com/ShreyaYadav___"
 source_url: "https://twitter.com/ShreyaYadav___/status/1994087836191170895"
-preview: "/images/3d/pg-1994087836191170895.jpg"
+preview: "/images/3d/pg-1994087836191170895.webp"
 ---
 
 Who’s the star? A stunning woman commands the scene, while her miniature selves add whimsical charm, all against a pristine white backdrop. A striking portrait of imagination!
@@ -29,4 +29,4 @@ Who’s the star? A stunning woman commands the scene, while her miniature selve
 
 ## Example Output
 
-![A Captivating Multiverse of Self](/images/3d/pg-1994087836191170895.jpg)
+![A Captivating Multiverse of Self](/images/3d/pg-1994087836191170895.webp)

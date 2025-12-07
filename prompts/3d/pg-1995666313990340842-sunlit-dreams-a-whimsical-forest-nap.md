@@ -5,7 +5,7 @@ tags: ["light","nano-banana-pro"]
 author: "@ShreyaYadav___"
 author_url: "https://twitter.com/ShreyaYadav___"
 source_url: "https://twitter.com/ShreyaYadav___/status/1995666313990340842"
-preview: "/images/3d/pg-1995666313990340842.jpg"
+preview: "/images/3d/pg-1995666313990340842.webp"
 ---
 
 Lush greenery cradles a serene scene—Snorlax snoozes while Pikachu finds comfort on its belly. The warm rays of midday light enhance this enchanting moment.
@@ -112,4 +112,4 @@ Lush greenery cradles a serene scene—Snorlax snoozes while Pikachu finds comfo
 
 ## Example Output
 
-![Sunlit Dreams: A Whimsical Forest Nap](/images/3d/pg-1995666313990340842.jpg)
+![Sunlit Dreams: A Whimsical Forest Nap](/images/3d/pg-1995666313990340842.webp)

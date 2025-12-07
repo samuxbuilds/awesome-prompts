@@ -5,7 +5,7 @@ tags: ["neon","nano-banana-pro"]
 author: "@ShreyaYadav___"
 author_url: "https://twitter.com/ShreyaYadav___"
 source_url: "https://twitter.com/ShreyaYadav___/status/1994336540940779613"
-preview: "/images/portraits/pg-1994336540940779613.jpg"
+preview: "/images/portraits/pg-1994336540940779613.webp"
 ---
 
 Bold and radiant, she commands the dance floor, her silhouette a masterpiece of nightlife. Neon reflections and ocean waves create the perfect backdrop for this stunning moment.
@@ -22,4 +22,4 @@ Cinematic nightlife atmosphere, ultra-sharp details, glossy highlights on skin, 
 
 ## Example Output
 
-![Neon Nights: Dancing Under Electric Skies](/images/portraits/pg-1994336540940779613.jpg)
+![Neon Nights: Dancing Under Electric Skies](/images/portraits/pg-1994336540940779613.webp)

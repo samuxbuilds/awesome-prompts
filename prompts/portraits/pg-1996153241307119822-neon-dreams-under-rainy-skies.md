@@ -5,7 +5,7 @@ tags: ["light","neon","vibrant","nano-banana-pro"]
 author: "@john_my07"
 author_url: "https://twitter.com/john_my07"
 source_url: "https://twitter.com/john_my07/status/1996153241307119822"
-preview: "/images/portraits/pg-1996153241307119822.jpg"
+preview: "/images/portraits/pg-1996153241307119822.webp"
 ---
 
 Footsteps echo through a rain-soaked street, where neon lights dance in puddles. A woman's moody expression reflects the vibrant chaos of the night, captured in cinematic hues.
@@ -20,4 +20,4 @@ A woman walking through a rainy street at night, neon signs reflecting off puddl
 
 ## Example Output
 
-![Neon Dreams Under Rainy Skies](/images/portraits/pg-1996153241307119822.jpg)
+![Neon Dreams Under Rainy Skies](/images/portraits/pg-1996153241307119822.webp)

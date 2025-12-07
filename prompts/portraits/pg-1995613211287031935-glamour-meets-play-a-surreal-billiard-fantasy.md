@@ -5,7 +5,7 @@ tags: ["fantasy","pastel","nano-banana-pro"]
 author: "@_MehdiSharifi_"
 author_url: "https://twitter.com/_MehdiSharifi_"
 source_url: "https://twitter.com/_MehdiSharifi_/status/1995613211287031935"
-preview: "/images/portraits/pg-1995613211287031935.jpg"
+preview: "/images/portraits/pg-1995613211287031935.webp"
 ---
 
 A whimsical scene unfolds as a red-haired beauty lounges atop a fluffy pink pool table, her playful smile radiating confidence amidst pastel billiard balls. Luxury and fun collide in this striking editorial shot.
@@ -108,4 +108,4 @@ A whimsical scene unfolds as a red-haired beauty lounges atop a fluffy pink pool
 
 ## Example Output
 
-![Glamour Meets Play: A Surreal Billiard Fantasy](/images/portraits/pg-1995613211287031935.jpg)
+![Glamour Meets Play: A Surreal Billiard Fantasy](/images/portraits/pg-1995613211287031935.webp)

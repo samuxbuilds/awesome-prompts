@@ -5,7 +5,7 @@ tags: ["portrait","art","vibrant","nano-banana-pro"]
 author: "@rovvmut_"
 author_url: "https://twitter.com/rovvmut_"
 source_url: "https://twitter.com/rovvmut_/status/1995687660460146999"
-preview: "/images/portraits/pg-1995687660460146999.jpg"
+preview: "/images/portraits/pg-1995687660460146999.webp"
 ---
 
 Ready to conquer the arena? This stunning portrait captures a Pokémon trainer, outfitted in Ash Ketchum's iconic style, alongside a vibrant Pikachu-like partner, reflecting the electric energy of battle!
@@ -20,4 +20,4 @@ Hyper-realistic editorial portrait of the person in the uploaded image set insid
 
 ## Example Output
 
-![Unleash Your Inner Pokémon Master!](/images/portraits/pg-1995687660460146999.jpg)
+![Unleash Your Inner Pokémon Master!](/images/portraits/pg-1995687660460146999.webp)

@@ -5,7 +5,7 @@ tags: ["chibi","nano-banana-pro"]
 author: "@0uhly2VacK23204"
 author_url: "https://twitter.com/0uhly2VacK23204"
 source_url: "https://twitter.com/0uhly2VacK23204/status/1991780261068226776"
-preview: "/images/3d/pg-1991780261068226776.jpg"
+preview: "/images/3d/pg-1991780261068226776.webp"
 ---
 
 Transform your characters into adorable chibi stickers! Create 12 unique expressions and poses with catchy phrases, all in a flash. Say goodbye to costly outsourcing!
@@ -20,4 +20,4 @@ Transform your characters into adorable chibi stickers! Create 12 unique express
 
 ## Example Output
 
-![Craft Custom LINE Stickers in a Snap with Nano Banana Pro!](/images/3d/pg-1991780261068226776.jpg)
+![Craft Custom LINE Stickers in a Snap with Nano Banana Pro!](/images/3d/pg-1991780261068226776.webp)

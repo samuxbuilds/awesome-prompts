@@ -5,7 +5,7 @@ tags: ["art","nano-banana-pro"]
 author: "@madpencil_"
 author_url: "https://twitter.com/madpencil_"
 source_url: "https://twitter.com/madpencil_/status/1993654188723851585"
-preview: "/images/portraits/pg-1993654188723851585.jpg"
+preview: "/images/portraits/pg-1993654188723851585.webp"
 ---
 
 Transform ordinary moments into laugh-out-loud masterpieces! Add googly eyes and wacky poses to your pals' photos for a dose of joy and hilarity. Who's up for some absurd fun?
@@ -20,4 +20,4 @@ Add illustrated googly eyes and stick hands on the (object/animal/ your bff) in 
 
 ## Example Output
 
-![Goofy Creations: Unleash Your Inner Artist!](/images/portraits/pg-1993654188723851585.jpg)
+![Goofy Creations: Unleash Your Inner Artist!](/images/portraits/pg-1993654188723851585.webp)

@@ -5,7 +5,7 @@ tags: ["modern","minimal","nano-banana-pro"]
 author: "@ShreyaYadav___"
 author_url: "https://twitter.com/ShreyaYadav___"
 source_url: "https://twitter.com/ShreyaYadav___/status/1992041992143216912"
-preview: "/images/3d/pg-1992041992143216912.jpg"
+preview: "/images/3d/pg-1992041992143216912.webp"
 ---
 
 Floating in a minimalist studio, a woman defies gravity, harmonizing work and creativity. Surrounded by innovative tools, she embodies modern inspiration with every detail.
@@ -32,4 +32,4 @@ Emphasize: completely realistic levitation (no visible support), flawless symmet
 
 ## Example Output
 
-![Elevated Creativity: A Dreamy Workspace in Mid-Air](/images/3d/pg-1992041992143216912.jpg)
+![Elevated Creativity: A Dreamy Workspace in Mid-Air](/images/3d/pg-1992041992143216912.webp)

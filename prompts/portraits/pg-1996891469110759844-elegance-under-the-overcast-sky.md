@@ -5,7 +5,7 @@ tags: ["nano-banana-pro"]
 author: "@Harboris_27"
 author_url: "https://twitter.com/Harboris_27"
 source_url: "https://twitter.com/Harboris_27/status/1996891469110759844"
-preview: "/images/portraits/pg-1996891469110759844.jpg"
+preview: "/images/portraits/pg-1996891469110759844.webp"
 ---
 
 A serene moment unfolds as a young woman reclines on ancient stone steps, exuding confidence in muted hues. Her casual chic style harmonizes with the rustic backdrop, inviting you to explore the beauty of everyday elegance.
@@ -20,4 +20,4 @@ Ultra realistic &Meine matic portrait, fatio 9:16, a young woman based on upload
 
 ## Example Output
 
-![Elegance Under the Overcast Sky](/images/portraits/pg-1996891469110759844.jpg)
+![Elegance Under the Overcast Sky](/images/portraits/pg-1996891469110759844.webp)

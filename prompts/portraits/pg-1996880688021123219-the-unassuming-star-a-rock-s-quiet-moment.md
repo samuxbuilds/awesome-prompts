@@ -5,7 +5,7 @@ tags: ["nano-banana-pro"]
 author: "@ProperPrompter"
 author_url: "https://twitter.com/ProperPrompter"
 source_url: "https://twitter.com/ProperPrompter/status/1996880688021123219"
-preview: "/images/portraits/pg-1996880688021123219.jpg"
+preview: "/images/portraits/pg-1996880688021123219.webp"
 ---
 
 How can something so simple speak volumes? This solitary gray rock, draped in subtle speckles, rests in serene elegance against a neutral backdrop, inviting reflection on beauty in the mundane.
@@ -226,4 +226,4 @@ How can something so simple speak volumes? This solitary gray rock, draped in su
 
 ## Example Output
 
-![The Unassuming Star: A Rock's Quiet Moment](/images/portraits/pg-1996880688021123219.jpg)
+![The Unassuming Star: A Rock's Quiet Moment](/images/portraits/pg-1996880688021123219.webp)

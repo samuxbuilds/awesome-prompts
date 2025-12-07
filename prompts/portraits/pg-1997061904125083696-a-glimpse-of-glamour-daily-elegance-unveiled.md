@@ -5,7 +5,7 @@ tags: ["modern","light","nano-banana-pro"]
 author: "@kaanakz"
 author_url: "https://twitter.com/kaanakz"
 source_url: "https://twitter.com/kaanakz/status/1997061904125083696"
-preview: "/images/portraits/pg-1997061904125083696.jpg"
+preview: "/images/portraits/pg-1997061904125083696.webp"
 ---
 
 Captivating close-up reveals a stunning model's gentle smile, cradling a glossy blister pack. With radiant lighting and a cinematic backdrop, every detail exudes modern luxury.
@@ -101,4 +101,4 @@ Captivating close-up reveals a stunning model's gentle smile, cradling a glossy 
 
 ## Example Output
 
-![A Glimpse of Glamour: Daily Elegance Unveiled](/images/portraits/pg-1997061904125083696.jpg)
+![A Glimpse of Glamour: Daily Elegance Unveiled](/images/portraits/pg-1997061904125083696.webp)

@@ -5,7 +5,7 @@ tags: ["portrait","nano-banana-pro"]
 author: "@Just_sharon7"
 author_url: "https://twitter.com/Just_sharon7"
 source_url: "https://twitter.com/Just_sharon7/status/1995108671026803004"
-preview: "/images/3d/pg-1995108671026803004.jpg"
+preview: "/images/3d/pg-1995108671026803004.webp"
 ---
 
 A captivating close-up reveals a young woman playfully framing her eye, adorned with shimmering nails and a chic striped sweater.
@@ -31,4 +31,4 @@ A captivating close-up reveals a young woman playfully framing her eye, adorned 
 
 ## Example Output
 
-![Framing Beauty: A Portrait of Playfulness](/images/3d/pg-1995108671026803004.jpg)
+![Framing Beauty: A Portrait of Playfulness](/images/3d/pg-1995108671026803004.webp)

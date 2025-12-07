@@ -5,7 +5,7 @@ tags: ["nature","fashion","nano-banana-pro"]
 author: "@kingofdairyque"
 author_url: "https://twitter.com/kingofdairyque"
 source_url: "https://twitter.com/kingofdairyque/status/1994263741006008758"
-preview: "/images/portraits/pg-1994263741006008758.jpg"
+preview: "/images/portraits/pg-1994263741006008758.webp"
 ---
 
 A stunning blend of high fashion and serene winter beauty unfolds. The model's hair flows gracefully as her gaze connects with the horse, encapsulating a moment of ethereal elegance. With soft textures and a crisp landscape, this editorial captures the essence of refined style in nature.
@@ -20,4 +20,4 @@ Create a fashion editorial interpretation of the image provided, maintaining the
 
 ## Example Output
 
-![Elegance in Winter: A Fashion Fusion with Nature](/images/portraits/pg-1994263741006008758.jpg)
+![Elegance in Winter: A Fashion Fusion with Nature](/images/portraits/pg-1994263741006008758.webp)

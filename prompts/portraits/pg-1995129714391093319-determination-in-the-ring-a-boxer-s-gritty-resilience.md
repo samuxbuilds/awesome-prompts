@@ -5,7 +5,7 @@ tags: ["nano-banana-pro"]
 author: "@azed_ai"
 author_url: "https://twitter.com/azed_ai"
 source_url: "https://twitter.com/azed_ai/status/1995129714391093319"
-preview: "/images/portraits/pg-1995129714391093319.jpg"
+preview: "/images/portraits/pg-1995129714391093319.webp"
 ---
 
 Amidst the haze of battle, a boxer pauses, embodying raw tenacity. Sweat and bruises mark his journey as he readies for the next round, fueled by sheer will.
@@ -88,4 +88,4 @@ Amidst the haze of battle, a boxer pauses, embodying raw tenacity. Sweat and bru
 
 ## Example Output
 
-![Determination in the Ring: A Boxer’s Gritty Resilience](/images/portraits/pg-1995129714391093319.jpg)
+![Determination in the Ring: A Boxer’s Gritty Resilience](/images/portraits/pg-1995129714391093319.webp)

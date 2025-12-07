@@ -5,7 +5,7 @@ tags: ["vintage","modern","nano-banana-pro"]
 author: "@ZaraIrahh"
 author_url: "https://twitter.com/ZaraIrahh"
 source_url: "https://twitter.com/ZaraIrahh/status/1994256542238167068"
-preview: "/images/3d/pg-1994256542238167068.jpg"
+preview: "/images/3d/pg-1994256542238167068.webp"
 ---
 
 Sunkissed warmth envelops a playful figure on a cozy sofa, embodying effortless style. The 'FRISTO' tee and glowy makeup radiate a nostalgic charm, blending modern flair with vintage comfort.
@@ -97,4 +97,4 @@ Sunkissed warmth envelops a playful figure on a cozy sofa, embodying effortless 
 
 ## Example Output
 
-![Charming Vintage Vibes with Gemini Nano Banana 3.0](/images/3d/pg-1994256542238167068.jpg)
+![Charming Vintage Vibes with Gemini Nano Banana 3.0](/images/3d/pg-1994256542238167068.webp)

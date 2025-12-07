@@ -5,7 +5,7 @@ tags: ["portrait","light","nano-banana-pro"]
 author: "@AIByAbbay"
 author_url: "https://twitter.com/AIByAbbay"
 source_url: "https://twitter.com/AIByAbbay/status/1996418934778863865"
-preview: "/images/portraits/pg-1996418934778863865.jpg"
+preview: "/images/portraits/pg-1996418934778863865.webp"
 ---
 
 A stunning close-up reveals a woman bathed in sunlight, her silky black hair dances across her face. The glow highlights her features, elevating beauty against a deep, velvety backdrop.
@@ -20,4 +20,4 @@ A stunning close-up reveals a woman bathed in sunlight, her silky black hair dan
 
 ## Example Output
 
-![Silhouetted Elegance: Portrait of Light and Shadow](/images/portraits/pg-1996418934778863865.jpg)
+![Silhouetted Elegance: Portrait of Light and Shadow](/images/portraits/pg-1996418934778863865.webp)

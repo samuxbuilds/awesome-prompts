@@ -5,7 +5,7 @@ tags: ["portrait","nano-banana-pro"]
 author: "@AIMevzulari"
 author_url: "https://twitter.com/AIMevzulari"
 source_url: "https://twitter.com/AIMevzulari/status/1996863628050301114"
-preview: "/images/portraits/pg-1996863628050301114.jpg"
+preview: "/images/portraits/pg-1996863628050301114.webp"
 ---
 
 Can a face tell a story across decades? This stunning mosaic captures one soul's evolution from 40 to 90, showcasing the beauty and wisdom of aging in every detail.
@@ -39,4 +39,4 @@ Can a face tell a story across decades? This stunning mosaic captures one soul's
 
 ## Example Output
 
-![A Journey Through Time: Portraits of Aging](/images/portraits/pg-1996863628050301114.jpg)
+![A Journey Through Time: Portraits of Aging](/images/portraits/pg-1996863628050301114.webp)

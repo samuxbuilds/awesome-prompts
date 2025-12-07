@@ -5,7 +5,7 @@ tags: ["nano-banana-pro"]
 author: "@Ankit_patel211"
 author_url: "https://twitter.com/Ankit_patel211"
 source_url: "https://twitter.com/Ankit_patel211/status/1996869845271654422"
-preview: "/images/portraits/pg-1996869845271654422.jpg"
+preview: "/images/portraits/pg-1996869845271654422.webp"
 ---
 
 A young Japanese beauty dazzles in a stylish maid-inspired dress, exuding playful elegance amidst a lively market scene.
@@ -60,4 +60,4 @@ A young Japanese beauty dazzles in a stylish maid-inspired dress, exuding playfu
 
 ## Example Output
 
-![Charming Elegance in a Festival Breeze](/images/portraits/pg-1996869845271654422.jpg)
+![Charming Elegance in a Festival Breeze](/images/portraits/pg-1996869845271654422.webp)

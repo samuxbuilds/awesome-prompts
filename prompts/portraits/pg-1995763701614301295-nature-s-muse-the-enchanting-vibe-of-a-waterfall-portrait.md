@@ -5,7 +5,7 @@ tags: ["portrait","nature","vibrant","nano-banana-pro"]
 author: "@YaseenK7212"
 author_url: "https://twitter.com/YaseenK7212"
 source_url: "https://twitter.com/YaseenK7212/status/1995763701614301295"
-preview: "/images/portraits/pg-1995763701614301295.jpg"
+preview: "/images/portraits/pg-1995763701614301295.webp"
 ---
 
 A stunning young woman with windswept curls radiates confidence against a majestic waterfall backdrop. Her vibrant burgundy eyes and dewy makeup harmonize perfectly with nature's beauty.
@@ -111,4 +111,4 @@ A stunning young woman with windswept curls radiates confidence against a majest
 
 ## Example Output
 
-![Nature's Muse: The Enchanting Vibe of a Waterfall Portrait](/images/portraits/pg-1995763701614301295.jpg)
+![Nature's Muse: The Enchanting Vibe of a Waterfall Portrait](/images/portraits/pg-1995763701614301295.webp)

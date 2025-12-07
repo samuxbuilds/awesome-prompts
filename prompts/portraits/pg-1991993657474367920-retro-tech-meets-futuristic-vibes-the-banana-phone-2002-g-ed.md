@@ -5,7 +5,7 @@ tags: ["selfie","nano-banana-pro"]
 author: "@GraphicsRonin"
 author_url: "https://twitter.com/GraphicsRonin"
 source_url: "https://twitter.com/GraphicsRonin/status/1991993657474367920"
-preview: "/images/portraits/pg-1991993657474367920.jpg"
+preview: "/images/portraits/pg-1991993657474367920.webp"
 ---
 
 A curious blend of Y2K nostalgia and future tech! Meet the sleek avatar snapping a selfie with a whimsical banana phone, surrounded by a cluttered tech paradise.
@@ -75,4 +75,4 @@ A curious blend of Y2K nostalgia and future tech! Meet the sleek avatar snapping
 
 ## Example Output
 
-![Retro Tech Meets Futuristic Vibes: The Banana Phone 2002 G-Edition](/images/portraits/pg-1991993657474367920.jpg)
+![Retro Tech Meets Futuristic Vibes: The Banana Phone 2002 G-Edition](/images/portraits/pg-1991993657474367920.webp)

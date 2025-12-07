@@ -5,7 +5,7 @@ tags: ["light","nano-banana-pro"]
 author: "@ReemKhan_07"
 author_url: "https://twitter.com/ReemKhan_07"
 source_url: "https://twitter.com/ReemKhan_07/status/1995108418823315836"
-preview: "/images/portraits/pg-1995108418823315836.jpg"
+preview: "/images/portraits/pg-1995108418823315836.webp"
 ---
 
 A serene moment captured as twilight whispers secrets. Her thoughtful gaze, framed by soft light, evokes a sense of longing amidst a dreamy backdrop.
@@ -21,4 +21,4 @@ Ultra-realistic cinematic portrait of a young woman, standing outdoors in a quie
 
 ## Example Output
 
-![Caught in the Enchantment of the Blue Hour](/images/portraits/pg-1995108418823315836.jpg)
+![Caught in the Enchantment of the Blue Hour](/images/portraits/pg-1995108418823315836.webp)

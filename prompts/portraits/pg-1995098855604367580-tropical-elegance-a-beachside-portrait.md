@@ -5,7 +5,7 @@ tags: ["portrait","vibrant","nano-banana-pro"]
 author: "@chatgptpaglu"
 author_url: "https://twitter.com/chatgptpaglu"
 source_url: "https://twitter.com/chatgptpaglu/status/1995098855604367580"
-preview: "/images/portraits/pg-1995098855604367580.jpg"
+preview: "/images/portraits/pg-1995098855604367580.webp"
 ---
 
 Bask in the glow of a sunlit beach hut, where vibrant colors and a curious gaze converge. This portrait captures the essence of seaside bliss, adorned with a plumeria and oversized shirt.
@@ -80,4 +80,4 @@ Bask in the glow of a sunlit beach hut, where vibrant colors and a curious gaze 
 
 ## Example Output
 
-![Tropical Elegance: A Beachside Portrait](/images/portraits/pg-1995098855604367580.jpg)
+![Tropical Elegance: A Beachside Portrait](/images/portraits/pg-1995098855604367580.webp)

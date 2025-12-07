@@ -3,7 +3,7 @@ title: "Professional Product Photography"
 category: portraits
 tags: ["professional", "ai-art"]
 author: "@nanobanana-pro"
-preview: "/images/portraits/nb-professional-product-photography.png"
+preview: "/images/portraits/nb-professional-product-photography.webp"
 ---
 
 *Isolates products from messy backgrounds and places them in a high-end commercial studio setting.*
@@ -14,4 +14,4 @@ Identify the main product in the uploaded photo (automatically removing any hand
 - [Original](https://mp.weixin.qq.com/s/lrYNbs4rGs3KOqewoZ6aNQ)
 
 ## Example Output
-![Professional Product Photography](/images/portraits/nb-professional-product-photography.png)
+![Professional Product Photography](/images/portraits/nb-professional-product-photography.webp)

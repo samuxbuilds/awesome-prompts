@@ -5,7 +5,7 @@ tags: ["portrait","art","light","nano-banana-pro"]
 author: "@qisi_ai"
 author_url: "https://twitter.com/qisi_ai"
 source_url: "https://twitter.com/qisi_ai/status/1996989678894153791"
-preview: "/images/portraits/pg-1996989678894153791.jpg"
+preview: "/images/portraits/pg-1996989678894153791.webp"
 ---
 
 A striking portrayal of a woman, her windswept hair partially concealing one eye. Illuminated by sharp natural light, every feature radiates intensity and allure.
@@ -49,4 +49,4 @@ A striking portrayal of a woman, her windswept hair partially concealing one eye
 
 ## Example Output
 
-![Captivating Portrait: A Dance of Light and Shadow](/images/portraits/pg-1996989678894153791.jpg)
+![Captivating Portrait: A Dance of Light and Shadow](/images/portraits/pg-1996989678894153791.webp)

@@ -5,7 +5,7 @@ tags: ["art","fantasy","nano-banana-pro"]
 author: "@starwalker0202"
 author_url: "https://twitter.com/starwalker0202"
 source_url: "https://twitter.com/starwalker0202/status/1991789421671449071"
-preview: "/images/creative/pg-1991789421671449071.jpg"
+preview: "/images/creative/pg-1991789421671449071.webp"
 ---
 
 A whimsical four-panel comic unfolds as a fairy descends to Earth, finding a curious calico cat. Is this a feline paradise? Discover their enchanting dialogue!
@@ -20,4 +20,4 @@ A whimsical four-panel comic unfolds as a fairy descends to Earth, finding a cur
 
 ## Example Output
 
-![A Feline Fantasy: When Fairies Meet Cats](/images/creative/pg-1991789421671449071.jpg)
+![A Feline Fantasy: When Fairies Meet Cats](/images/creative/pg-1991789421671449071.webp)

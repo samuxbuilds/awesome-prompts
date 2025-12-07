@@ -5,7 +5,7 @@ tags: ["modern","nano-banana-pro"]
 author: "@Just_sharon7"
 author_url: "https://twitter.com/Just_sharon7"
 source_url: "https://twitter.com/Just_sharon7/status/1992900701765189746"
-preview: "/images/portraits/pg-1992900701765189746.jpg"
+preview: "/images/portraits/pg-1992900701765189746.webp"
 ---
 
 What a striking vision of modern elegance! A blonde beauty lounges gracefully, draped in a chic black bodysuit while the glossy leather chair complements her alluring style.
@@ -79,4 +79,4 @@ What a striking vision of modern elegance! A blonde beauty lounges gracefully, d
 
 ## Example Output
 
-![Elegance in Black: A Glamorous Sophistication](/images/portraits/pg-1992900701765189746.jpg)
+![Elegance in Black: A Glamorous Sophistication](/images/portraits/pg-1992900701765189746.webp)

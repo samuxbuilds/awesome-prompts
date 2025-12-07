@@ -5,7 +5,7 @@ tags: ["portrait","light","nano-banana-pro"]
 author: "@xmiiru_"
 author_url: "https://twitter.com/xmiiru_"
 source_url: "https://twitter.com/xmiiru_/status/1996062041367269671"
-preview: "/images/3d/pg-1996062041367269671.jpg"
+preview: "/images/3d/pg-1996062041367269671.webp"
 ---
 
 What secrets does her captivating gaze hold? This enchanting scene, bathed in sunlight, unfolds in a dreamy bedroom with soft colors, showcasing elegance and charm.
@@ -34,4 +34,4 @@ What secrets does her captivating gaze hold? This enchanting scene, bathed in su
 
 ## Example Output
 
-![Seductive Serenity: A Portrait in Pink](/images/3d/pg-1996062041367269671.jpg)
+![Seductive Serenity: A Portrait in Pink](/images/3d/pg-1996062041367269671.webp)

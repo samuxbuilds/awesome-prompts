@@ -5,7 +5,7 @@ tags: ["portrait","light","nano-banana-pro"]
 author: "@YaseenK7212"
 author_url: "https://twitter.com/YaseenK7212"
 source_url: "https://twitter.com/YaseenK7212/status/1994252212571181224"
-preview: "/images/portraits/pg-1994252212571181224.jpg"
+preview: "/images/portraits/pg-1994252212571181224.webp"
 ---
 
 Basking in golden sunlight, this portrait captures effortless style. A girl leans against a textured wall, her relaxed pose and chic outfit radiating summer vibes. The play of shadows from lush leaves adds depth, while her radiant makeup and messy bun exude a carefree spirit.
@@ -29,4 +29,4 @@ Basking in golden sunlight, this portrait captures effortless style. A girl lean
 
 ## Example Output
 
-![Sun-Kissed Serenity: A Stylish Summer Portrait](/images/portraits/pg-1994252212571181224.jpg)
+![Sun-Kissed Serenity: A Stylish Summer Portrait](/images/portraits/pg-1994252212571181224.webp)

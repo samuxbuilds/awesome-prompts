@@ -5,7 +5,7 @@ tags: ["portrait","modern","minimal","nano-banana-pro"]
 author: "@Harboris_27"
 author_url: "https://twitter.com/Harboris_27"
 source_url: "https://twitter.com/Harboris_27/status/1995726644045320680"
-preview: "/images/portraits/pg-1995726644045320680.jpg"
+preview: "/images/portraits/pg-1995726644045320680.webp"
 ---
 
 Capturing the essence of style, this portrait radiates confidence with a playful smirk. The high ponytail and fluffy jacket harmonize chic sophistication against a minimal backdrop.
@@ -20,4 +20,4 @@ A portrait of the same woman from the reference image, keeping her exact face, f
 
 ## Example Output
 
-![Chic Confidence: A Modern Portrait](/images/portraits/pg-1995726644045320680.jpg)
+![Chic Confidence: A Modern Portrait](/images/portraits/pg-1995726644045320680.webp)

@@ -5,7 +5,7 @@ tags: ["art","watercolor","nano-banana-pro"]
 author: "@munou_ac"
 author_url: "https://twitter.com/munou_ac"
 source_url: "https://twitter.com/munou_ac/status/1996129537806213597"
-preview: "/images/3d/pg-1996129537806213597.jpg"
+preview: "/images/3d/pg-1996129537806213597.webp"
 ---
 
 Can you believe each tear reveals a new artistic style? From crisp line art to soft watercolors, explore the endless creativity of torn-paper effects!
@@ -84,4 +84,4 @@ interior_style:
 
 ## Example Output
 
-![Torn Paper Artistry: Transforming Styles with Nano Banana Pro](/images/3d/pg-1996129537806213597.jpg)
+![Torn Paper Artistry: Transforming Styles with Nano Banana Pro](/images/3d/pg-1996129537806213597.webp)

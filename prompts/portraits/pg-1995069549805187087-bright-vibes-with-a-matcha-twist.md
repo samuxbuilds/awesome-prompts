@@ -5,7 +5,7 @@ tags: ["vibrant","nano-banana-pro"]
 author: "@egeberkina"
 author_url: "https://twitter.com/egeberkina"
 source_url: "https://twitter.com/egeberkina/status/1995069549805187087"
-preview: "/images/portraits/pg-1995069549805187087.jpg"
+preview: "/images/portraits/pg-1995069549805187087.webp"
 ---
 
 Curiosity sparkles in her eyes as she leans forward, sipping a refreshing iced matcha latte on a sunlit boardwalk. The vibrant greens and playful reflections create a fun atmosphere to savor!
@@ -66,4 +66,4 @@ Curiosity sparkles in her eyes as she leans forward, sipping a refreshing iced m
 
 ## Example Output
 
-![Bright Vibes with a Matcha Twist](/images/portraits/pg-1995069549805187087.jpg)
+![Bright Vibes with a Matcha Twist](/images/portraits/pg-1995069549805187087.webp)

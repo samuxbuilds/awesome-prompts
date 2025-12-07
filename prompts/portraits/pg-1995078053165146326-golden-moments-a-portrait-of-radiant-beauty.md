@@ -5,7 +5,7 @@ tags: ["portrait","nano-banana-pro"]
 author: "@xmiiru_"
 author_url: "https://twitter.com/xmiiru_"
 source_url: "https://twitter.com/xmiiru_/status/1995078053165146326"
-preview: "/images/portraits/pg-1995078053165146326.jpg"
+preview: "/images/portraits/pg-1995078053165146326.webp"
 ---
 
 Sun-kissed and ethereal, her luminous glow radiates warmth, with gentle shadows playing on her face. The soft, messy bun and sparkling eyes create a captivating harmony.
@@ -41,4 +41,4 @@ Sun-kissed and ethereal, her luminous glow radiates warmth, with gentle shadows 
 
 ## Example Output
 
-![Golden Moments: A Portrait of Radiant Beauty](/images/portraits/pg-1995078053165146326.jpg)
+![Golden Moments: A Portrait of Radiant Beauty](/images/portraits/pg-1995078053165146326.webp)

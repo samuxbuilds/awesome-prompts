@@ -5,7 +5,7 @@ tags: ["portrait","nano-banana-pro"]
 author: "@YaseenK7212"
 author_url: "https://twitter.com/YaseenK7212"
 source_url: "https://twitter.com/YaseenK7212/status/1992920950505963820"
-preview: "/images/portraits/pg-1992920950505963820.jpg"
+preview: "/images/portraits/pg-1992920950505963820.webp"
 ---
 
 A striking triptych portrait unfolds with disjointed beauty. Sharp eyes meet motion-blurred contours, while soft lips linger in the background, creating a visual symphony of contrast.
@@ -51,4 +51,4 @@ A striking triptych portrait unfolds with disjointed beauty. Sharp eyes meet mot
 
 ## Example Output
 
-![Fragmented Faces: The Gemini Nano Banana 3.0](/images/portraits/pg-1992920950505963820.jpg)
+![Fragmented Faces: The Gemini Nano Banana 3.0](/images/portraits/pg-1992920950505963820.webp)

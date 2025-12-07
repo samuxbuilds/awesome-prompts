@@ -5,7 +5,7 @@ tags: ["nano-banana-pro"]
 author: "@_MehdiSharifi_"
 author_url: "https://twitter.com/_MehdiSharifi_"
 source_url: "https://twitter.com/_MehdiSharifi_/status/1993829344326688957"
-preview: "/images/portraits/pg-1993829344326688957.jpg"
+preview: "/images/portraits/pg-1993829344326688957.webp"
 ---
 
 Can you feel the heat? An elite sprinter battles a fiery smoke stallion in a breathtaking Olympic night. Raw power and adrenaline collide in this stunning visual masterpiece!
@@ -116,4 +116,4 @@ Can you feel the heat? An elite sprinter battles a fiery smoke stallion in a bre
 
 ## Example Output
 
-![Chasing Fire: The Sprint of a Lifetime](/images/portraits/pg-1993829344326688957.jpg)
+![Chasing Fire: The Sprint of a Lifetime](/images/portraits/pg-1993829344326688957.webp)

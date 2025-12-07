@@ -5,7 +5,7 @@ tags: ["light","nano-banana-pro"]
 author: "@aleenaamiir"
 author_url: "https://twitter.com/aleenaamiir"
 source_url: "https://twitter.com/aleenaamiir/status/1996780474820436097"
-preview: "/images/portraits/pg-1996780474820436097.jpg"
+preview: "/images/portraits/pg-1996780474820436097.webp"
 ---
 
 In a tranquil snowy escape, a young woman with freckled cheeks captures the essence of serenity. Her gentle gaze and cozy sweater harmonize with the soft, diffused sunlight, inviting reflection in this peaceful moment.
@@ -30,4 +30,4 @@ In a tranquil snowy escape, a young woman with freckled cheeks captures the esse
 
 ## Example Output
 
-![Contemplation in a Winter Wonderland](/images/portraits/pg-1996780474820436097.jpg)
+![Contemplation in a Winter Wonderland](/images/portraits/pg-1996780474820436097.webp)

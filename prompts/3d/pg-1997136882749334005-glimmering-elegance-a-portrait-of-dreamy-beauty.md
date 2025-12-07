@@ -5,7 +5,7 @@ tags: ["portrait","light","nano-banana-pro"]
 author: "@rowanali09"
 author_url: "https://twitter.com/rowanali09"
 source_url: "https://twitter.com/rowanali09/status/1997136882749334005"
-preview: "/images/3d/pg-1997136882749334005.jpg"
+preview: "/images/3d/pg-1997136882749334005.webp"
 ---
 
 Captured in soft evening light, this close-up reveals a young woman draped in shimmering pink hues, her flowing hair and soft expression radiating a tranquil elegance.
@@ -113,4 +113,4 @@ Captured in soft evening light, this close-up reveals a young woman draped in sh
 
 ## Example Output
 
-![Glimmering Elegance: A Portrait of Dreamy Beauty](/images/3d/pg-1997136882749334005.jpg)
+![Glimmering Elegance: A Portrait of Dreamy Beauty](/images/3d/pg-1997136882749334005.webp)

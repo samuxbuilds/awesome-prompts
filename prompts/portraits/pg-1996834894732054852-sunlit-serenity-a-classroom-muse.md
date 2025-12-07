@@ -5,7 +5,7 @@ tags: ["vintage","nano-banana-pro"]
 author: "@saniaspeaks_"
 author_url: "https://twitter.com/saniaspeaks_"
 source_url: "https://twitter.com/saniaspeaks_/status/1996834894732054852"
-preview: "/images/portraits/pg-1996834894732054852.jpg"
+preview: "/images/portraits/pg-1996834894732054852.webp"
 ---
 
 In a warm afternoon glow, a young woman embodies calmness, leaning thoughtfully in a vintage classroom, where silence reigns and creativity sparks.
@@ -39,4 +39,4 @@ In a warm afternoon glow, a young woman embodies calmness, leaning thoughtfully 
 
 ## Example Output
 
-![Sunlit Serenity: A Classroom Muse](/images/portraits/pg-1996834894732054852.jpg)
+![Sunlit Serenity: A Classroom Muse](/images/portraits/pg-1996834894732054852.webp)

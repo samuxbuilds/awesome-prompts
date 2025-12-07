@@ -5,7 +5,7 @@ tags: ["anime","fantasy","vibrant","nano-banana-pro"]
 author: "@fofrAI"
 author_url: "https://twitter.com/fofrAI"
 source_url: "https://twitter.com/fofrAI/status/1991583161495502896"
-preview: "/images/portraits/pg-1991583161495502896.jpg"
+preview: "/images/portraits/pg-1991583161495502896.webp"
 ---
 
 A vibrant juxtaposition of worlds! An anime man in a bright yellow hoodie navigates the bustling London Underground, surrounded by adverts for AI companions, bringing a dash of fantasy to rush hour.
@@ -22,4 +22,4 @@ He is on the Victoria line. There are ads about AI companions. He has big wired 
 
 ## Example Output
 
-![Anime Meets Reality on the Tube](/images/portraits/pg-1991583161495502896.jpg)
+![Anime Meets Reality on the Tube](/images/portraits/pg-1991583161495502896.webp)

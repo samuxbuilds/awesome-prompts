@@ -5,7 +5,7 @@ tags: ["vintage","nano-banana-pro"]
 author: "@_MehdiSharifi_"
 author_url: "https://twitter.com/_MehdiSharifi_"
 source_url: "https://twitter.com/_MehdiSharifi_/status/1997082051800080734"
-preview: "/images/3d/pg-1997082051800080734.jpg"
+preview: "/images/3d/pg-1997082051800080734.webp"
 ---
 
 A young woman basks in the golden hour glow, framed by her classic C3 Corvette. The vintage aesthetic captures a dreamy coastal lifestyle, evoking nostalgia for carefree summer days.
@@ -150,4 +150,4 @@ A young woman basks in the golden hour glow, framed by her classic C3 Corvette. 
 
 ## Example Output
 
-![Sunset Vibes & Retro Rides: A 70s Dream](/images/3d/pg-1997082051800080734.jpg)
+![Sunset Vibes & Retro Rides: A 70s Dream](/images/3d/pg-1997082051800080734.webp)

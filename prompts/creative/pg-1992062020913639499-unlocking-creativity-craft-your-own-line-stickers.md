@@ -5,7 +5,7 @@ tags: ["vibrant","nano-banana-pro"]
 author: "@shironeko_icy"
 author_url: "https://twitter.com/shironeko_icy"
 source_url: "https://twitter.com/shironeko_icy/status/1992062020913639499"
-preview: "/images/creative/pg-1992062020913639499.jpg"
+preview: "/images/creative/pg-1992062020913639499.webp"
 ---
 
 Imagine a vibrant world where your unique characters spring to life! Design 12 diverse stickers with playful expressions and witty phrases that resonate. Let your creativity shine!
@@ -20,4 +20,4 @@ Imagine a vibrant world where your unique characters spring to life! Design 12 d
 
 ## Example Output
 
-![Unlocking Creativity: Craft Your Own Line Stickers!](/images/creative/pg-1992062020913639499.jpg)
+![Unlocking Creativity: Craft Your Own Line Stickers!](/images/creative/pg-1992062020913639499.webp)

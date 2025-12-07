@@ -5,7 +5,7 @@ tags: ["portrait","light","nano-banana-pro"]
 author: "@AIwithkhan"
 author_url: "https://twitter.com/AIwithkhan"
 source_url: "https://twitter.com/AIwithkhan/status/1994327648370397283"
-preview: "/images/portraits/pg-1994327648370397283.jpg"
+preview: "/images/portraits/pg-1994327648370397283.webp"
 ---
 
 A raw, gripping portrait captures a man lost in thought. His rugged features and reflective sunglasses create an aura of mystery, perfectly framed in dramatic light.
@@ -20,4 +20,4 @@ A rugged, intense close-up portrait of a middle-aged man with a textured beard a
 
 ## Example Output
 
-![Grit and Gaze: The Soul of a Man in Shadows](/images/portraits/pg-1994327648370397283.jpg)
+![Grit and Gaze: The Soul of a Man in Shadows](/images/portraits/pg-1994327648370397283.webp)

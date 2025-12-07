@@ -5,7 +5,7 @@ tags: ["art","nano-banana-pro"]
 author: "@berryxia_ai"
 author_url: "https://twitter.com/berryxia_ai"
 source_url: "https://twitter.com/berryxia_ai/status/1992989895850430908"
-preview: "/images/portraits/pg-1992989895850430908.jpg"
+preview: "/images/portraits/pg-1992989895850430908.webp"
 ---
 
 Behold the elegance of Dan Dan Noodles! Each layer, from fiery chili flakes to glossy broth, tells a delicious story, masterfully crafted for an upscale culinary experience.
@@ -30,4 +30,4 @@ NO white pedestal, NO platform base. All layers float freely in space against pu
 
 ## Example Output
 
-![Gastronomic Artistry: The Luxe Layering of Dan Dan Noodles](/images/portraits/pg-1992989895850430908.jpg)
+![Gastronomic Artistry: The Luxe Layering of Dan Dan Noodles](/images/portraits/pg-1992989895850430908.webp)

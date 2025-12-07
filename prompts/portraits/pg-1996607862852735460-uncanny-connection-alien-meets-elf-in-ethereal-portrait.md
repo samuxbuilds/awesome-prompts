@@ -5,7 +5,7 @@ tags: ["portrait","nano-banana-pro"]
 author: "@monicamoonx"
 author_url: "https://twitter.com/monicamoonx"
 source_url: "https://twitter.com/monicamoonx/status/1996607862852735460"
-preview: "/images/portraits/pg-1996607862852735460.jpg"
+preview: "/images/portraits/pg-1996607862852735460.webp"
 ---
 
 Two worlds collide in this striking close-up: an alien and an elf, each with hauntingly similar emerald and obsidian eyes, locked in an emotionless gaze that captivates and unsettles.
@@ -20,4 +20,4 @@ Extreme close-up portrait of two faces pressed together: on the left a bald, pal
 
 ## Example Output
 
-![Uncanny Connection: Alien Meets Elf in Ethereal Portrait](/images/portraits/pg-1996607862852735460.jpg)
+![Uncanny Connection: Alien Meets Elf in Ethereal Portrait](/images/portraits/pg-1996607862852735460.webp)

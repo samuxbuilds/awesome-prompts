@@ -5,7 +5,7 @@ tags: ["modern","fashion","nano-banana-pro"]
 author: "@SynthetixArt"
 author_url: "https://twitter.com/SynthetixArt"
 source_url: "https://twitter.com/SynthetixArt/status/1996124480674906322"
-preview: "/images/portraits/pg-1996124480674906322.jpg"
+preview: "/images/portraits/pg-1996124480674906322.webp"
 ---
 
 Elegantly poised, she embodies sophistication in a black polka-dotted bodysuit. The plush leather chair complements her radiant blonde waves, creating a striking visual that captivates the essence of modern glamour.
@@ -79,4 +79,4 @@ Elegantly poised, she embodies sophistication in a black polka-dotted bodysuit. 
 
 ## Example Output
 
-![Glamour Meets Elegance: A Chic Fashion Moment](/images/portraits/pg-1996124480674906322.jpg)
+![Glamour Meets Elegance: A Chic Fashion Moment](/images/portraits/pg-1996124480674906322.webp)

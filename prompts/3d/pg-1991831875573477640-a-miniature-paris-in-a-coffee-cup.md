@@ -5,7 +5,7 @@ tags: ["miniature","nano-banana-pro"]
 author: "@umesh_ai"
 author_url: "https://twitter.com/umesh_ai"
 source_url: "https://twitter.com/umesh_ai/status/1991831875573477640"
-preview: "/images/3d/pg-1991831875573477640.jpg"
+preview: "/images/3d/pg-1991831875573477640.webp"
 ---
 
 Imagine sipping coffee while gazing at Paris! This exquisite cup holds a tiny world, complete with the Eiffel Tower and bustling streets, all captured in stunning detail.
@@ -20,4 +20,4 @@ Prompt on Nano Banana Pro : White ceramic coffee cup rests on a smooth gray surf
 
 ## Example Output
 
-![A Miniature Paris in a Coffee Cup](/images/3d/pg-1991831875573477640.jpg)
+![A Miniature Paris in a Coffee Cup](/images/3d/pg-1991831875573477640.webp)

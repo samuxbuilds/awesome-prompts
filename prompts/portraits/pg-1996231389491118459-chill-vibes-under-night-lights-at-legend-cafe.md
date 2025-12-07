@@ -5,7 +5,7 @@ tags: ["modern","light","nano-banana-pro"]
 author: "@Harboris_27"
 author_url: "https://twitter.com/Harboris_27"
 source_url: "https://twitter.com/Harboris_27/status/1996231389491118459"
-preview: "/images/portraits/pg-1996231389491118459.jpg"
+preview: "/images/portraits/pg-1996231389491118459.webp"
 ---
 
 Under the glow of the 'Legend' sign, a modern muse radiates casual confidence, draped in oversized threads. The night whispers stories of street style and soft ambient charm.
@@ -20,4 +20,4 @@ Generate an 8K ultra realistic cinematic portrait of the subject standing casual
 
 ## Example Output
 
-![Chill Vibes Under Night Lights at Legend Cafe](/images/portraits/pg-1996231389491118459.jpg)
+![Chill Vibes Under Night Lights at Legend Cafe](/images/portraits/pg-1996231389491118459.webp)

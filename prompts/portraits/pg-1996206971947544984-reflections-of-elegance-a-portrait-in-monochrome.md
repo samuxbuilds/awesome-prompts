@@ -5,7 +5,7 @@ tags: ["portrait","light","nano-banana-pro"]
 author: "@saniaspeaks_"
 author_url: "https://twitter.com/saniaspeaks_"
 source_url: "https://twitter.com/saniaspeaks_/status/1996206971947544984"
-preview: "/images/portraits/pg-1996206971947544984.jpg"
+preview: "/images/portraits/pg-1996206971947544984.webp"
 ---
 
 Caught in a moment of contemplation, this young woman embodies sophistication. The soft light accentuates her poised demeanor, while reflections in the window whisper stories of elegance.
@@ -47,4 +47,4 @@ Caught in a moment of contemplation, this young woman embodies sophistication. T
 
 ## Example Output
 
-![Reflections of Elegance: A Portrait in Monochrome](/images/portraits/pg-1996206971947544984.jpg)
+![Reflections of Elegance: A Portrait in Monochrome](/images/portraits/pg-1996206971947544984.webp)

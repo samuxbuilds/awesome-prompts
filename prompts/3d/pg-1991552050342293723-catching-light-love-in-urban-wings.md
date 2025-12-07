@@ -5,7 +5,7 @@ tags: ["art","urban","light","vibrant","nano-banana-pro"]
 author: "@ShreyaYadav___"
 author_url: "https://twitter.com/ShreyaYadav___"
 source_url: "https://twitter.com/ShreyaYadav___/status/1991552050342293723"
-preview: "/images/3d/pg-1991552050342293723.jpg"
+preview: "/images/3d/pg-1991552050342293723.webp"
 ---
 
 Bathed in golden hour glow, a heart-shaped gesture meets vibrant angel wings, blending warmth and style in an urban dreamscape.
@@ -30,4 +30,4 @@ Composition: The camera is positioned in a medium shot, slightly below the subje
 
 ## Example Output
 
-![Catching Light & Love in Urban Wings](/images/3d/pg-1991552050342293723.jpg)
+![Catching Light & Love in Urban Wings](/images/3d/pg-1991552050342293723.webp)

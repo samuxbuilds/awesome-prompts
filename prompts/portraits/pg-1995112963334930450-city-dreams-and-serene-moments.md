@@ -5,7 +5,7 @@ tags: ["light","nano-banana-pro"]
 author: "@ShreyaYadav___"
 author_url: "https://twitter.com/ShreyaYadav___"
 source_url: "https://twitter.com/ShreyaYadav___/status/1995112963334930450"
-preview: "/images/portraits/pg-1995112963334930450.jpg"
+preview: "/images/portraits/pg-1995112963334930450.webp"
 ---
 
 Caught in a tranquil moment, this young woman gazes out over a sparkling cityscape, holding her warm mug like a treasure. The fairy lights dance softly, echoing the warmth of her thoughts.
@@ -30,7 +30,7 @@ Caught in a tranquil moment, this young woman gazes out over a sparkling citysca
       "content": "Shreya Yadav",
       "location": "Bottom right corner"
     },
-    "filename": "image_1.png"
+    "filename": "image_1.webp"
   }
 }
 ```
@@ -41,4 +41,4 @@ Caught in a tranquil moment, this young woman gazes out over a sparkling citysca
 
 ## Example Output
 
-![City Dreams and Serene Moments 🌃✨](/images/portraits/pg-1995112963334930450.jpg)
+![City Dreams and Serene Moments 🌃✨](/images/portraits/pg-1995112963334930450.webp)

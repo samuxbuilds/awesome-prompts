@@ -5,7 +5,7 @@ tags: ["nano-banana-pro"]
 author: "@fahabib91"
 author_url: "https://twitter.com/fahabib91"
 source_url: "https://twitter.com/fahabib91/status/1991888579686215986"
-preview: "/images/portraits/pg-1991888579686215986.jpg"
+preview: "/images/portraits/pg-1991888579686215986.webp"
 ---
 
 A determined woman reaches for a mysterious gem, surrounded by suspended fragments of time. The scene pulses with energy, hinting at secrets held within the intricate metallic chaos.
@@ -32,4 +32,4 @@ The lighting is high contrast, with strong highlights on the woman's face and ar
 
 ## Example Output
 
-![A Dance with Time: The Clockwork Conundrum](/images/portraits/pg-1991888579686215986.jpg)
+![A Dance with Time: The Clockwork Conundrum](/images/portraits/pg-1991888579686215986.webp)

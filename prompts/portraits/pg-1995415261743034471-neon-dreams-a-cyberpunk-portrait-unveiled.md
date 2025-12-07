@@ -5,7 +5,7 @@ tags: ["realistic","portrait","urban","dark","neon","nano-banana-pro"]
 author: "@_imfaizan18"
 author_url: "https://twitter.com/_imfaizan18"
 source_url: "https://twitter.com/_imfaizan18/status/1995415261743034471"
-preview: "/images/portraits/pg-1995415261743034471.jpg"
+preview: "/images/portraits/pg-1995415261743034471.webp"
 ---
 
 Amidst a dark urban blur, a hyper-realistic portrait emerges, capturing an ethereal calm. Soft neon colors dance around, illuminating the focused gaze and techwear style!
@@ -67,4 +67,4 @@ Amidst a dark urban blur, a hyper-realistic portrait emerges, capturing an ether
 
 ## Example Output
 
-![Neon Dreams: A Cyberpunk Portrait Unveiled](/images/portraits/pg-1995415261743034471.jpg)
+![Neon Dreams: A Cyberpunk Portrait Unveiled](/images/portraits/pg-1995415261743034471.webp)

@@ -5,7 +5,7 @@ tags: ["portrait","pastel","nano-banana-pro"]
 author: "@woshi_ai"
 author_url: "https://twitter.com/woshi_ai"
 source_url: "https://twitter.com/woshi_ai/status/1996138931352469774"
-preview: "/images/3d/pg-1996138931352469774.jpg"
+preview: "/images/3d/pg-1996138931352469774.webp"
 ---
 
 What a vision! With coral-red waves and turquoise eyes, she captivates in a satin corset. The soft glow and dreamy bokeh create an ethereal, luxurious moment captured in time.
@@ -20,4 +20,4 @@ A breathtakingly beautiful young woman with vibrant coral-red hair in soft retro
 
 ## Example Output
 
-![Radiant Elegance: A Glamourous Portrait in Pastel Hues](/images/3d/pg-1996138931352469774.jpg)
+![Radiant Elegance: A Glamourous Portrait in Pastel Hues](/images/3d/pg-1996138931352469774.webp)

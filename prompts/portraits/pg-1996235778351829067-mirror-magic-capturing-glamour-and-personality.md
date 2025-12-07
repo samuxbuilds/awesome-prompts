@@ -5,7 +5,7 @@ tags: ["selfie","vibrant","nano-banana-pro"]
 author: "@real_novax"
 author_url: "https://twitter.com/real_novax"
 source_url: "https://twitter.com/real_novax/status/1996235778351829067"
-preview: "/images/portraits/pg-1996235778351829067.jpg"
+preview: "/images/portraits/pg-1996235778351829067.webp"
 ---
 
 A selfie that radiates confidence! With her striking red lips and playful purple cat clip, this young woman's style shines against a warm backdrop, showcasing her vibrant personality.
@@ -20,4 +20,4 @@ A young woman with long, dark wavy hair and red lipstick is taking a selfie in f
 
 ## Example Output
 
-![Mirror Magic: Capturing Glamour and Personality](/images/portraits/pg-1996235778351829067.jpg)
+![Mirror Magic: Capturing Glamour and Personality](/images/portraits/pg-1996235778351829067.webp)

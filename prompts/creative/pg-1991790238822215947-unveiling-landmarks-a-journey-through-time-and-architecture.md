@@ -5,7 +5,7 @@ tags: ["art","vibrant","nano-banana-pro"]
 author: "@Ankit_patel211"
 author_url: "https://twitter.com/Ankit_patel211"
 source_url: "https://twitter.com/Ankit_patel211/status/1991790238822215947"
-preview: "/images/creative/pg-1991790238822215947.jpg"
+preview: "/images/creative/pg-1991790238822215947.webp"
 ---
 
 Marvel at the Eiffel Tower's intricate ironwork and sunset glow, revealing stories of Paris. Explore each landmark's essence, where history meets artistry in vibrant detail.
@@ -30,4 +30,4 @@ Each image should be rendered with exceptional detail, vibrant colors, and dynam
 
 ## Example Output
 
-![Unveiling Landmarks: A Journey Through Time and Architecture](/images/creative/pg-1991790238822215947.jpg)
+![Unveiling Landmarks: A Journey Through Time and Architecture](/images/creative/pg-1991790238822215947.webp)

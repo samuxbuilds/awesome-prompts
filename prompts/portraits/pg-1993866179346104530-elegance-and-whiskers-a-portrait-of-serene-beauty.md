@@ -5,7 +5,7 @@ tags: ["portrait","art","vintage","nano-banana-pro"]
 author: "@chatgptpaglu"
 author_url: "https://twitter.com/chatgptpaglu"
 source_url: "https://twitter.com/chatgptpaglu/status/1993866179346104530"
-preview: "/images/portraits/pg-1993866179346104530.jpg"
+preview: "/images/portraits/pg-1993866179346104530.webp"
 ---
 
 In a vintage haven, a dreamy woman in rust-orange drapes gracefully beside her calm orange cat, enveloped by warm hues and artistic charm. A serene moment captured!
@@ -66,4 +66,4 @@ In a vintage haven, a dreamy woman in rust-orange drapes gracefully beside her c
 
 ## Example Output
 
-![Elegance and Whiskers: A Portrait of Serene Beauty](/images/portraits/pg-1993866179346104530.jpg)
+![Elegance and Whiskers: A Portrait of Serene Beauty](/images/portraits/pg-1993866179346104530.webp)

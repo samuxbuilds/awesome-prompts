@@ -5,7 +5,7 @@ tags: ["selfie","art","nano-banana-pro"]
 author: "@Samann_ai"
 author_url: "https://twitter.com/Samann_ai"
 source_url: "https://twitter.com/Samann_ai/status/1994444395525832898"
-preview: "/images/3d/pg-1994444395525832898.jpg"
+preview: "/images/3d/pg-1994444395525832898.webp"
 ---
 
 Celebrating love in a cozy living room! A human and their futuristic robot partner share an intimate moment, bringing a blend of warmth and tech into one perfect selfie.
@@ -25,4 +25,4 @@ Celebrating love in a cozy living room! A human and their futuristic robot partn
 
 ## Example Output
 
-![Snap a Selfie with Your Robotic Companion!](/images/3d/pg-1994444395525832898.jpg)
+![Snap a Selfie with Your Robotic Companion!](/images/3d/pg-1994444395525832898.webp)

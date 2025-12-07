@@ -5,7 +5,7 @@ tags: ["portrait","light","nano-banana-pro"]
 author: "@Taaruk_"
 author_url: "https://twitter.com/Taaruk_"
 source_url: "https://twitter.com/Taaruk_/status/1996533151850696863"
-preview: "/images/portraits/pg-1996533151850696863.jpg"
+preview: "/images/portraits/pg-1996533151850696863.webp"
 ---
 
 Bold shadows and intense highlights converge in this 8K black-and-white portrait. A man’s enigmatic gaze and tousled hair evoke a powerful cinematic aura, captured in stunning detail.
@@ -66,4 +66,4 @@ Bold shadows and intense highlights converge in this 8K black-and-white portrait
 
 ## Example Output
 
-![Cinematic Depth: A Striking Monochrome Portrait](/images/portraits/pg-1996533151850696863.jpg)
+![Cinematic Depth: A Striking Monochrome Portrait](/images/portraits/pg-1996533151850696863.webp)

@@ -5,7 +5,7 @@ tags: ["colorful","vibrant","nano-banana-pro"]
 author: "@xmiiru_"
 author_url: "https://twitter.com/xmiiru_"
 source_url: "https://twitter.com/xmiiru_/status/1997123820474253356"
-preview: "/images/3d/pg-1997123820474253356.jpg"
+preview: "/images/3d/pg-1997123820474253356.webp"
 ---
 
 Amidst a cascade of colorful confetti, a joyful spirit shines bright! This young woman in a cozy white faux-fur coat radiates Christmas magic, celebrating with her unique style and vibrant cheer.
@@ -66,4 +66,4 @@ Amidst a cascade of colorful confetti, a joyful spirit shines bright! This young
 
 ## Example Output
 
-![Sparkle and Cheer: A Festive Celebration](/images/3d/pg-1997123820474253356.jpg)
+![Sparkle and Cheer: A Festive Celebration](/images/3d/pg-1997123820474253356.webp)

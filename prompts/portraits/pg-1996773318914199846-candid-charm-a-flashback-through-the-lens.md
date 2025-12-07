@@ -5,7 +5,7 @@ tags: ["light","nano-banana-pro"]
 author: "@ShreyaYadav___"
 author_url: "https://twitter.com/ShreyaYadav___"
 source_url: "https://twitter.com/ShreyaYadav___/status/1996773318914199846"
-preview: "/images/portraits/pg-1996773318914199846.jpg"
+preview: "/images/portraits/pg-1996773318914199846.webp"
 ---
 
 Captured in a single moment, this snapshot reveals the raw beauty of youth—a young woman in soft light, echoes of nostalgia shimmer through the camera's lens.
@@ -63,4 +63,4 @@ Captured in a single moment, this snapshot reveals the raw beauty of youth—a y
 
 ## Example Output
 
-![Candid Charm: A Flashback Through the Lens](/images/portraits/pg-1996773318914199846.jpg)
+![Candid Charm: A Flashback Through the Lens](/images/portraits/pg-1996773318914199846.webp)

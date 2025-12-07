@@ -5,7 +5,7 @@ tags: ["portrait","selfie","nano-banana-pro"]
 author: "@miilesus"
 author_url: "https://twitter.com/miilesus"
 source_url: "https://twitter.com/miilesus/status/1993798065065484334"
-preview: "/images/portraits/pg-1993798065065484334.jpg"
+preview: "/images/portraits/pg-1993798065065484334.webp"
 ---
 
 Captured amidst a flurry of snowflakes, her calm intensity shines against a dramatic night sky. The chic contrast of her black faux-fur hat and puffer jacket adds style to the raw winter energy.
@@ -75,4 +75,4 @@ Captured amidst a flurry of snowflakes, her calm intensity shines against a dram
 
 ## Example Output
 
-![Snowy Selfie Vibes: A Bold Winter Portrait](/images/portraits/pg-1993798065065484334.jpg)
+![Snowy Selfie Vibes: A Bold Winter Portrait](/images/portraits/pg-1993798065065484334.webp)

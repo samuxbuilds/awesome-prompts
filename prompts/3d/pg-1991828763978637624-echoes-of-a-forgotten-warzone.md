@@ -5,7 +5,7 @@ tags: ["nano-banana-pro"]
 author: "@rovvmut_"
 author_url: "https://twitter.com/rovvmut_"
 source_url: "https://twitter.com/rovvmut_/status/1991828763978637624"
-preview: "/images/3d/pg-1991828763978637624.jpg"
+preview: "/images/3d/pg-1991828763978637624.webp"
 ---
 
 Amidst the desolation, a lone figure stands guard. The rugged man, dust-laden and resolute, holds his shotgun tight as shadows dance over a rusted helicopter—a relic of past battles. Beneath the brooding sky, the stillness tells stories of survival and grit.
@@ -20,4 +20,4 @@ Cinematic full-body portrait of a rugged man holding a shotgun, standing beside 
 
 ## Example Output
 
-![Echoes of a Forgotten Warzone](/images/3d/pg-1991828763978637624.jpg)
+![Echoes of a Forgotten Warzone](/images/3d/pg-1991828763978637624.webp)

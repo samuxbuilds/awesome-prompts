@@ -5,7 +5,7 @@ tags: ["vibrant","nano-banana-pro"]
 author: "@ViralOps_"
 author_url: "https://twitter.com/ViralOps_"
 source_url: "https://twitter.com/ViralOps_/status/1995493922898837785"
-preview: "/images/3d/pg-1995493922898837785.jpg"
+preview: "/images/3d/pg-1995493922898837785.webp"
 ---
 
 A stunning close-up showcases a confident woman applying skincare with flair. Her charcoal mask hints at self-care, while the vibrant teal product pops, celebrating beauty without limits!
@@ -187,4 +187,4 @@ A stunning close-up showcases a confident woman applying skincare with flair. He
 
 ## Example Output
 
-![Embrace the Beauty Revolution with Bold Confidence!](/images/3d/pg-1995493922898837785.jpg)
+![Embrace the Beauty Revolution with Bold Confidence!](/images/3d/pg-1995493922898837785.webp)

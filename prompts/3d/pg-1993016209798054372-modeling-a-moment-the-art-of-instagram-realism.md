@@ -5,7 +5,7 @@ tags: ["portrait","art","modern","fashion","nano-banana-pro"]
 author: "@miilesus"
 author_url: "https://twitter.com/miilesus"
 source_url: "https://twitter.com/miilesus/status/1993016209798054372"
-preview: "/images/3d/pg-1993016209798054372.jpg"
+preview: "/images/3d/pg-1993016209798054372.webp"
 ---
 
 Boldly stepping through the frame, she captivates with a modern allure. A stunning portrait where hyper-realism meets high fashion, showcasing the ultimate Insta aesthetic!
@@ -34,4 +34,4 @@ Lighting should be clean and high-end, accentuating the structure of her face, t
 
 ## Example Output
 
-![Modeling a Moment: The Art of Instagram Realism](/images/3d/pg-1993016209798054372.jpg)
+![Modeling a Moment: The Art of Instagram Realism](/images/3d/pg-1993016209798054372.webp)

@@ -5,7 +5,7 @@ tags: ["urban","fashion","light","neon","nano-banana-pro"]
 author: "@_MehdiSharifi_"
 author_url: "https://twitter.com/_MehdiSharifi_"
 source_url: "https://twitter.com/_MehdiSharifi_/status/1994170508871340462"
-preview: "/images/portraits/pg-1994170508871340462.jpg"
+preview: "/images/portraits/pg-1994170508871340462.webp"
 ---
 
 Under the neon glow, a young woman transforms the night. From fierce poses to candid laughs, her style shines against the urban backdrop of shimmering lights.
@@ -72,4 +72,4 @@ Under the neon glow, a young woman transforms the night. From fierce poses to ca
 
 ## Example Output
 
-![City Lights & Glam Nights: A Fashion Odyssey 🌟](/images/portraits/pg-1994170508871340462.jpg)
+![City Lights & Glam Nights: A Fashion Odyssey 🌟](/images/portraits/pg-1994170508871340462.webp)

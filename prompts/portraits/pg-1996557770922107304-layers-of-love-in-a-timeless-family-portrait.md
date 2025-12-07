@@ -5,7 +5,7 @@ tags: ["portrait","nano-banana-pro"]
 author: "@ShreyaYadav___"
 author_url: "https://twitter.com/ShreyaYadav___"
 source_url: "https://twitter.com/ShreyaYadav___/status/1996557770922107304"
-preview: "/images/portraits/pg-1996557770922107304.jpg"
+preview: "/images/portraits/pg-1996557770922107304.webp"
 ---
 
 A striking black-and-white portrait captures a family’s bond. The dynamic layering of profiles reveals deep connections, while dramatic shadows lend an air of mystery.
@@ -42,4 +42,4 @@ Signature: Shreya Yadav
 
 ## Example Output
 
-![Layers of Love in a Timeless Family Portrait](/images/portraits/pg-1996557770922107304.jpg)
+![Layers of Love in a Timeless Family Portrait](/images/portraits/pg-1996557770922107304.webp)

@@ -5,7 +5,7 @@ tags: ["nano-banana-pro"]
 author: "@ZaraIrahh"
 author_url: "https://twitter.com/ZaraIrahh"
 source_url: "https://twitter.com/ZaraIrahh/status/1994991014545957032"
-preview: "/images/portraits/pg-1994991014545957032.jpg"
+preview: "/images/portraits/pg-1994991014545957032.webp"
 ---
 
 Bask in the gentle glow of golden hour as she relaxes in a cable car, the lush landscape unfolding below. Her casual vibe and warm smile capture the essence of carefree adventures!
@@ -86,4 +86,4 @@ Bask in the gentle glow of golden hour as she relaxes in a cable car, the lush l
 
 ## Example Output
 
-![Sunlit Serenity: A Stylish Ride Above Green Canopies](/images/portraits/pg-1994991014545957032.jpg)
+![Sunlit Serenity: A Stylish Ride Above Green Canopies](/images/portraits/pg-1994991014545957032.webp)

@@ -5,7 +5,7 @@ tags: ["oil","nano-banana-pro"]
 author: "@ShreyaYadav___"
 author_url: "https://twitter.com/ShreyaYadav___"
 source_url: "https://twitter.com/ShreyaYadav___/status/1993887007874142296"
-preview: "/images/portraits/pg-1993887007874142296.jpg"
+preview: "/images/portraits/pg-1993887007874142296.webp"
 ---
 
 Three captivating panels capture a young man's brooding essence. His trench coat dances in the wind, while dramatic skies and wild grass echo his inner turmoil.
@@ -26,4 +26,4 @@ Bottom panel: Close-up of his face, sharp attractive eyes, hairs moving in the w
 
 ## Example Output
 
-![A Cinematic Triptych of Moody Elegance](/images/portraits/pg-1993887007874142296.jpg)
+![A Cinematic Triptych of Moody Elegance](/images/portraits/pg-1993887007874142296.webp)

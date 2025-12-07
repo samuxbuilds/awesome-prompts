@@ -5,7 +5,7 @@ tags: ["portrait","selfie","light","nano-banana-pro"]
 author: "@haniya_445"
 author_url: "https://twitter.com/haniya_445"
 source_url: "https://twitter.com/haniya_445/status/1991656582309187823"
-preview: "/images/3d/pg-1991656582309187823.jpg"
+preview: "/images/3d/pg-1991656582309187823.webp"
 ---
 
 With golden light kissing her flawless skin, this portrait captures both beauty and joy. Holding her iced latte, she embodies effortless charm on a sunlit balcony.
@@ -23,4 +23,4 @@ highlighting her features with a gentle glow, suggesting natural daylight or stu
 
 ## Example Output
 
-![Golden Hour Radiance: A Selfie That Charms](/images/3d/pg-1991656582309187823.jpg)
+![Golden Hour Radiance: A Selfie That Charms](/images/3d/pg-1991656582309187823.webp)

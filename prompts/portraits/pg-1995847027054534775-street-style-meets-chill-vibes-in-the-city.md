@@ -5,7 +5,7 @@ tags: ["modern","urban","nano-banana-pro"]
 author: "@saniaspeaks_"
 author_url: "https://twitter.com/saniaspeaks_"
 source_url: "https://twitter.com/saniaspeaks_/status/1995847027054534775"
-preview: "/images/portraits/pg-1995847027054534775.jpg"
+preview: "/images/portraits/pg-1995847027054534775.webp"
 ---
 
 Casual coolness radiates from this stylish young woman, sipping her iced drink against a backdrop of bamboo and modern architecture. Bold and bright, her look captures the essence of urban streetwear!
@@ -55,4 +55,4 @@ Casual coolness radiates from this stylish young woman, sipping her iced drink a
 
 ## Example Output
 
-![Street Style Meets Chill Vibes in the City](/images/portraits/pg-1995847027054534775.jpg)
+![Street Style Meets Chill Vibes in the City](/images/portraits/pg-1995847027054534775.webp)

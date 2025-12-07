@@ -5,7 +5,7 @@ tags: ["portrait","selfie","fashion","light","nano-banana-pro"]
 author: "@xmliisu"
 author_url: "https://twitter.com/xmliisu"
 source_url: "https://twitter.com/xmliisu/status/1996485143561695390"
-preview: "/images/portraits/pg-1996485143561695390.jpg"
+preview: "/images/portraits/pg-1996485143561695390.webp"
 ---
 
 Captured in a sleek car, this striking portrait exudes cool confidence. The model's playful expression and bold fashion steal the spotlight amidst the night’s allure.
@@ -48,4 +48,4 @@ Captured in a sleek car, this striking portrait exudes cool confidence. The mode
 
 ## Example Output
 
-![Seductive Night Vibes: A Selfie in the Shadows](/images/portraits/pg-1996485143561695390.jpg)
+![Seductive Night Vibes: A Selfie in the Shadows](/images/portraits/pg-1996485143561695390.webp)

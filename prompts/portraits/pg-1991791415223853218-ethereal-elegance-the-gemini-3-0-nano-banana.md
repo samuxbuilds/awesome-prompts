@@ -5,7 +5,7 @@ tags: ["portrait","minimal","nano-banana-pro"]
 author: "@xmliisu"
 author_url: "https://twitter.com/xmliisu"
 source_url: "https://twitter.com/xmliisu/status/1991791415223853218"
-preview: "/images/portraits/pg-1991791415223853218.jpg"
+preview: "/images/portraits/pg-1991791415223853218.webp"
 ---
 
 A vision of neoclassical beauty! This full-body portrait showcases a stunning gown, intricate arm cuffs, and a serene yet powerful pose amidst minimalist marble accents.
@@ -48,4 +48,4 @@ A vision of neoclassical beauty! This full-body portrait showcases a stunning go
 
 ## Example Output
 
-![Ethereal Elegance: The Gemini 3.0 Nano Banana](/images/portraits/pg-1991791415223853218.jpg)
+![Ethereal Elegance: The Gemini 3.0 Nano Banana](/images/portraits/pg-1991791415223853218.webp)

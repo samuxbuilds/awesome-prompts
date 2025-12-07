@@ -3,7 +3,7 @@ title: "Virtual Model Try-On"
 category: creative
 tags: ["realistic", "logo", "professional", "fashion"]
 author: "@nanobanana-pro"
-preview: "/images/creative/nb-virtual-model-try-on.png"
+preview: "/images/creative/nb-virtual-model-try-on.webp"
 ---
 
 *Dresses a model in a specific garment while preserving fabric texture and lighting integration.*
@@ -14,4 +14,4 @@ Using Image 1 (the garment) and Image 2 (the model), create a hyper-realistic fu
 - [Original](https://mp.weixin.qq.com/s/lrYNbs4rGs3KOqewoZ6aNQ)
 
 ## Example Output
-![Virtual Model Try-On](/images/creative/nb-virtual-model-try-on.png)
+![Virtual Model Try-On](/images/creative/nb-virtual-model-try-on.webp)

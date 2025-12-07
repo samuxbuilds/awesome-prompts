@@ -5,7 +5,7 @@ tags: ["light","nano-banana-pro"]
 author: "@xmiiru_"
 author_url: "https://twitter.com/xmiiru_"
 source_url: "https://twitter.com/xmiiru_/status/1996884824393449709"
-preview: "/images/portraits/pg-1996884824393449709.jpg"
+preview: "/images/portraits/pg-1996884824393449709.webp"
 ---
 
 Caught in a moment of joy, she radiates playful confidence. What's your favorite self-care moment today? Share your stories of delight!
@@ -57,4 +57,4 @@ Caught in a moment of joy, she radiates playful confidence. What's your favorite
 
 ## Example Output
 
-![Self-Love Shines in Golden Light 🌟](/images/portraits/pg-1996884824393449709.jpg)
+![Self-Love Shines in Golden Light 🌟](/images/portraits/pg-1996884824393449709.webp)

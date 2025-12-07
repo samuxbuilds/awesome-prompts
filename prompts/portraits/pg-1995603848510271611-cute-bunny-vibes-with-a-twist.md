@@ -5,7 +5,7 @@ tags: ["cute","nano-banana-pro"]
 author: "@IqraSaifiii"
 author_url: "https://twitter.com/IqraSaifiii"
 source_url: "https://twitter.com/IqraSaifiii/status/1995603848510271611"
-preview: "/images/portraits/pg-1995603848510271611.jpg"
+preview: "/images/portraits/pg-1995603848510271611.webp"
 ---
 
 Radiating playful charm, this young woman strikes a whimsical pose in a classic bunny outfit, bringing a touch of fun to the everyday setting. A perfect blend of sass and sweetness!
@@ -29,4 +29,4 @@ Radiating playful charm, this young woman strikes a whimsical pose in a classic 
 
 ## Example Output
 
-![Cute Bunny Vibes with a Twist!](/images/portraits/pg-1995603848510271611.jpg)
+![Cute Bunny Vibes with a Twist!](/images/portraits/pg-1995603848510271611.webp)

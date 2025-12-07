@@ -5,7 +5,7 @@ tags: ["portrait","nature","light","nano-banana-pro"]
 author: "@ZaraIrahh"
 author_url: "https://twitter.com/ZaraIrahh"
 source_url: "https://twitter.com/ZaraIrahh/status/1994424368051757454"
-preview: "/images/3d/pg-1994424368051757454.jpg"
+preview: "/images/3d/pg-1994424368051757454.webp"
 ---
 
 A tranquil park scene captures a graceful figure in a stunning blue gown, illuminated by warm sunlight. Nature's backdrop enhances her calm smile, creating an enchanting portrait.
@@ -79,4 +79,4 @@ A tranquil park scene captures a graceful figure in a stunning blue gown, illumi
 
 ## Example Output
 
-![Bathed in Golden Hour: A Serene Outdoor Elegance](/images/3d/pg-1994424368051757454.jpg)
+![Bathed in Golden Hour: A Serene Outdoor Elegance](/images/3d/pg-1994424368051757454.webp)

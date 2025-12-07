@@ -5,7 +5,7 @@ tags: ["urban","light","neon","nano-banana-pro"]
 author: "@AIwithkhan"
 author_url: "https://twitter.com/AIwithkhan"
 source_url: "https://twitter.com/AIwithkhan/status/1995319486438953152"
-preview: "/images/3d/pg-1995319486438953152.jpg"
+preview: "/images/3d/pg-1995319486438953152.webp"
 ---
 
 A fierce assassin, clad in soaked black, readies her glowing katana amid a rain-soaked urban jungle. Neon lights dance on wet pavement, hinting at the imminent clash.
@@ -20,4 +20,4 @@ A cyberpunk female assassin stands in the pouring rain, gripping a glowing red k
 
 ## Example Output
 
-![Neon Shadows: A Cyberpunk Duel in the Rain](/images/3d/pg-1995319486438953152.jpg)
+![Neon Shadows: A Cyberpunk Duel in the Rain](/images/3d/pg-1995319486438953152.webp)

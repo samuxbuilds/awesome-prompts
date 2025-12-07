@@ -5,7 +5,7 @@ tags: ["selfie","nano-banana-pro"]
 author: "@PavolRusnak"
 author_url: "https://twitter.com/PavolRusnak"
 source_url: "https://twitter.com/PavolRusnak/status/1994097306526994558"
-preview: "/images/portraits/pg-1994097306526994558.jpg"
+preview: "/images/portraits/pg-1994097306526994558.webp"
 ---
 
 Forget traditional photoshoots! This Nano Banana Pro selfie captures your essence with a chic blazer and striking clarity, all from the comfort of your space. Instant professionalism at your fingertips!
@@ -20,4 +20,4 @@ A professional, high-resolution profile photo, maintaining the exact facial stru
 
 ## Example Output
 
-![Say Goodbye to Photoshoots: The Nano Banana Pro Revolution!](/images/portraits/pg-1994097306526994558.jpg)
+![Say Goodbye to Photoshoots: The Nano Banana Pro Revolution!](/images/portraits/pg-1994097306526994558.webp)

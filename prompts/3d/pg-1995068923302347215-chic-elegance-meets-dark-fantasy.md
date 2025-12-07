@@ -5,7 +5,7 @@ tags: ["fantasy","dark","light","nano-banana-pro"]
 author: "@Just_sharon7"
 author_url: "https://twitter.com/Just_sharon7"
 source_url: "https://twitter.com/Just_sharon7/status/1995068923302347215"
-preview: "/images/3d/pg-1995068923302347215.jpg"
+preview: "/images/3d/pg-1995068923302347215.webp"
 ---
 
 Bold and striking, this avant-garde beauty captivates with her metallic ensemble and dramatic skull prop. A play of light and shadow amplifies the richness of her unique style!
@@ -31,4 +31,4 @@ Bold and striking, this avant-garde beauty captivates with her metallic ensemble
 
 ## Example Output
 
-![Chic Elegance Meets Dark Fantasy](/images/3d/pg-1995068923302347215.jpg)
+![Chic Elegance Meets Dark Fantasy](/images/3d/pg-1995068923302347215.webp)

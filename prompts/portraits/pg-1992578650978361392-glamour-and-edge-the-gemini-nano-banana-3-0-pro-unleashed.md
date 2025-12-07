@@ -5,7 +5,7 @@ tags: ["art","fashion","nano-banana-pro"]
 author: "@xmliisu"
 author_url: "https://twitter.com/xmliisu"
 source_url: "https://twitter.com/xmliisu/status/1992578650978361392"
-preview: "/images/portraits/pg-1992578650978361392.jpg"
+preview: "/images/portraits/pg-1992578650978361392.webp"
 ---
 
 Bold and alluring, this high-fashion moment captures a confident muse in a chic black lace ensemble, turning heads and hearts in a lavish night setting.
@@ -54,4 +54,4 @@ Bold and alluring, this high-fashion moment captures a confident muse in a chic 
 
 ## Example Output
 
-![Glamour and Edge: The Gemini Nano Banana 3.0 Pro Unleashed](/images/portraits/pg-1992578650978361392.jpg)
+![Glamour and Edge: The Gemini Nano Banana 3.0 Pro Unleashed](/images/portraits/pg-1992578650978361392.webp)

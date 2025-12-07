@@ -5,7 +5,7 @@ tags: ["modern","vibrant","nano-banana-pro"]
 author: "@ChillaiKalan__"
 author_url: "https://twitter.com/ChillaiKalan__"
 source_url: "https://twitter.com/ChillaiKalan__/status/1992875420396757499"
-preview: "/images/portraits/pg-1992875420396757499.jpg"
+preview: "/images/portraits/pg-1992875420396757499.webp"
 ---
 
 Behold the striking clash of eras! A soccer player captures the moment mid-kick, with vibrant trails of teal and violet slicing through the shadowy ambiance, a masterpiece in motion.
@@ -20,4 +20,4 @@ A slow-motion cinematic video in Renaissance painting style showing a soccer pla
 
 ## Example Output
 
-![A Kick Beyond Time: Renaissance Meets Modern Soccer](/images/portraits/pg-1992875420396757499.jpg)
+![A Kick Beyond Time: Renaissance Meets Modern Soccer](/images/portraits/pg-1992875420396757499.webp)

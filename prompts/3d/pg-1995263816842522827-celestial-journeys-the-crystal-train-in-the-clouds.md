@@ -5,7 +5,7 @@ tags: ["light","nano-banana-pro"]
 author: "@_MehdiSharifi_"
 author_url: "https://twitter.com/_MehdiSharifi_"
 source_url: "https://twitter.com/_MehdiSharifi_/status/1995263816842522827"
-preview: "/images/3d/pg-1995263816842522827.jpg"
+preview: "/images/3d/pg-1995263816842522827.webp"
 ---
 
 A majestic train glides effortlessly on golden rails, surrounded by clouds. Its glass body catches the golden light, creating a dreamlike spectacle against a surreal sky.
@@ -82,4 +82,4 @@ A majestic train glides effortlessly on golden rails, surrounded by clouds. Its 
 
 ## Example Output
 
-![Celestial Journeys: The Crystal Train in the Clouds](/images/3d/pg-1995263816842522827.jpg)
+![Celestial Journeys: The Crystal Train in the Clouds](/images/3d/pg-1995263816842522827.webp)

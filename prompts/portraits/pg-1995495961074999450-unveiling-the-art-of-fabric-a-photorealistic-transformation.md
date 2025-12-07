@@ -5,7 +5,7 @@ tags: ["realistic","portrait","art","fashion","photorealistic","nano-banana-pro"
 author: "@ShreyaYadav___"
 author_url: "https://twitter.com/ShreyaYadav___"
 source_url: "https://twitter.com/ShreyaYadav___/status/1995495961074999450"
-preview: "/images/portraits/pg-1995495961074999450.jpg"
+preview: "/images/portraits/pg-1995495961074999450.webp"
 ---
 
 What if your outfit could literally tear away? This striking portrait blurs the lines between fashion and art, revealing the beauty beneath a paper layer.
@@ -54,4 +54,4 @@ What if your outfit could literally tear away? This striking portrait blurs the 
 
 ## Example Output
 
-![Unveiling the Art of Fabric: A Photorealistic Transformation](/images/portraits/pg-1995495961074999450.jpg)
+![Unveiling the Art of Fabric: A Photorealistic Transformation](/images/portraits/pg-1995495961074999450.webp)

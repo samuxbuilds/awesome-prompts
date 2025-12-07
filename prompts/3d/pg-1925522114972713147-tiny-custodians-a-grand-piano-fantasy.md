@@ -5,7 +5,7 @@ tags: ["realistic","miniature","fantasy","light","nano-banana-pro"]
 author: "@BeanieBlossom"
 author_url: "https://twitter.com/BeanieBlossom"
 source_url: "https://twitter.com/BeanieBlossom/status/1925522114972713147"
-preview: "/images/3d/pg-1925522114972713147.jpg"
+preview: "/images/3d/pg-1925522114972713147.webp"
 ---
 
 Gaze upon a miniature world where tiny figures meticulously polish a grand piano's keys, creating a whimsical yet hyper-realistic scene bathed in soft light.
@@ -20,4 +20,4 @@ tilt-shift photo of a grand piano keyboard, side view from the left looking alon
 
 ## Example Output
 
-![Tiny Custodians: A Grand Piano Fantasy](/images/3d/pg-1925522114972713147.jpg)
+![Tiny Custodians: A Grand Piano Fantasy](/images/3d/pg-1925522114972713147.webp)

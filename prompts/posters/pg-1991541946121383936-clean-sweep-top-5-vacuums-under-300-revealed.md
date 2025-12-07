@@ -5,7 +5,7 @@ tags: ["vibrant","nano-banana-pro"]
 author: "@raizamrtn"
 author_url: "https://twitter.com/raizamrtn"
 source_url: "https://twitter.com/raizamrtn/status/1991541946121383936"
-preview: "/images/posters/pg-1991541946121383936.jpg"
+preview: "/images/posters/pg-1991541946121383936.webp"
 ---
 
 Which vacuum reigns supreme under $300? This vibrant infographic lays out the pros and cons, making your choice a breeze. Discover the best for your home!
@@ -20,4 +20,4 @@ Look up the 5 best vacuum cleaners under $300 and create an infographic with pro
 
 ## Example Output
 
-![Clean Sweep: Top 5 Vacuums Under $300 Revealed!](/images/posters/pg-1991541946121383936.jpg)
+![Clean Sweep: Top 5 Vacuums Under $300 Revealed!](/images/posters/pg-1991541946121383936.webp)

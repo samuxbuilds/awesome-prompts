@@ -5,7 +5,7 @@ tags: ["light","nano-banana-pro"]
 author: "@xmliisu"
 author_url: "https://twitter.com/xmliisu"
 source_url: "https://twitter.com/xmliisu/status/1996825681280307472"
-preview: "/images/portraits/pg-1996825681280307472.jpg"
+preview: "/images/portraits/pg-1996825681280307472.webp"
 ---
 
 A young woman's soft expression glows from a Canon screen, bathed in retro lighting. The familiar clutter of a kitchen adds an intimate touch to this nostalgic macro shot.
@@ -75,4 +75,4 @@ A young woman's soft expression glows from a Canon screen, bathed in retro light
 
 ## Example Output
 
-![Candid Moments Captured: A Glimpse of Nostalgia](/images/portraits/pg-1996825681280307472.jpg)
+![Candid Moments Captured: A Glimpse of Nostalgia](/images/portraits/pg-1996825681280307472.webp)

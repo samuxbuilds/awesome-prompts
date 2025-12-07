@@ -5,7 +5,7 @@ tags: ["urban","light","neon","vibrant","nano-banana-pro"]
 author: "@AIwithkhan"
 author_url: "https://twitter.com/AIwithkhan"
 source_url: "https://twitter.com/AIwithkhan/status/1995474483935899848"
-preview: "/images/portraits/pg-1995474483935899848.jpg"
+preview: "/images/portraits/pg-1995474483935899848.webp"
 ---
 
 Against a backdrop of vibrant city lights, a weathered soul exudes resilience. Rain-slicked features and a haunting gaze capture the essence of a cyber-noir tale.
@@ -20,4 +20,4 @@ A hardened man in his late 40s, rain dripping from his stubbled jaw, stands bene
 
 ## Example Output
 
-![Neon Shadows: The Face of Urban Grit](/images/portraits/pg-1995474483935899848.jpg)
+![Neon Shadows: The Face of Urban Grit](/images/portraits/pg-1995474483935899848.webp)

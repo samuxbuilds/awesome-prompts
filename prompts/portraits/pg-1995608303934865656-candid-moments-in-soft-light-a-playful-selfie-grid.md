@@ -5,7 +5,7 @@ tags: ["selfie","light","nano-banana-pro"]
 author: "@IqraSaifiii"
 author_url: "https://twitter.com/IqraSaifiii"
 source_url: "https://twitter.com/IqraSaifiii/status/1995608303934865656"
-preview: "/images/portraits/pg-1995608303934865656.jpg"
+preview: "/images/portraits/pg-1995608303934865656.webp"
 ---
 
 Captured in a sunlit sanctuary, a joyful blend of expressions radiates warmth. The cozy bedroom setting becomes a backdrop for playful charm and intimate vibes.
@@ -29,4 +29,4 @@ Captured in a sunlit sanctuary, a joyful blend of expressions radiates warmth. T
 
 ## Example Output
 
-![Candid Moments in Soft Light: A Playful Selfie Grid](/images/portraits/pg-1995608303934865656.jpg)
+![Candid Moments in Soft Light: A Playful Selfie Grid](/images/portraits/pg-1995608303934865656.webp)

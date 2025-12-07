@@ -5,7 +5,7 @@ tags: ["light","nano-banana-pro"]
 author: "@YaseenK7212"
 author_url: "https://twitter.com/YaseenK7212"
 source_url: "https://twitter.com/YaseenK7212/status/1996186805398364512"
-preview: "/images/3d/pg-1996186805398364512.jpg"
+preview: "/images/3d/pg-1996186805398364512.webp"
 ---
 
 A cozy scene unfolds as a couple, wrapped in oversized hoodies, share a playful MacBook moment. The cool screen light dances on their faces, revealing joy and connection.
@@ -54,12 +54,12 @@ A cozy scene unfolds as a couple, wrapped in oversized hoodies, share a playful 
           "Looking at screen"
         ],
         "subject_a_guy": {
-          "identity_target": "reference_image_male.jpg",
+          "identity_target": "reference_image_male.webp",
           "action": "Holding phone in right hand with clear reflective case",
           "position": "Right/Center"
         },
         "subject_b_girl": {
-          "identity_target": "reference_image_female.jpg",
+          "identity_target": "reference_image_female.webp",
           "action": "Resting closely beside Subject A",
           "position": "Left/Center"
         }
@@ -105,4 +105,4 @@ A cozy scene unfolds as a couple, wrapped in oversized hoodies, share a playful 
 
 ## Example Output
 
-![Candid Moments: Love in the Glow of a MacBook](/images/3d/pg-1996186805398364512.jpg)
+![Candid Moments: Love in the Glow of a MacBook](/images/3d/pg-1996186805398364512.webp)

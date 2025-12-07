@@ -5,7 +5,7 @@ tags: ["art","vibrant","nano-banana-pro"]
 author: "@ShreyaYadav___"
 author_url: "https://twitter.com/ShreyaYadav___"
 source_url: "https://twitter.com/ShreyaYadav___/status/1991681176504004853"
-preview: "/images/portraits/pg-1991681176504004853.jpg"
+preview: "/images/portraits/pg-1991681176504004853.webp"
 ---
 
 Captured in a moment of reflection, this young woman stands tall against a riot of scribbles and equations, embodying a blend of intellect and artistry. Her vibrant curls and confident stance hint at the stories hidden within.
@@ -39,4 +39,4 @@ Captured in a moment of reflection, this young woman stands tall against a riot 
 
 ## Example Output
 
-![Curly Confessions: A Woman's Journey Through Chaos](/images/portraits/pg-1991681176504004853.jpg)
+![Curly Confessions: A Woman's Journey Through Chaos](/images/portraits/pg-1991681176504004853.webp)

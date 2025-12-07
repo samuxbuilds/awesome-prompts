@@ -5,7 +5,7 @@ tags: ["fashion","light","nano-banana-pro"]
 author: "@john_my07"
 author_url: "https://twitter.com/john_my07"
 source_url: "https://twitter.com/john_my07/status/1991726604113047586"
-preview: "/images/portraits/pg-1991726604113047586.jpg"
+preview: "/images/portraits/pg-1991726604113047586.webp"
 ---
 
 A striking model commands the poolside with his sophisticated attire, bathed in golden sunlight. The glimmering water reflects a world of luxury and style, perfect for any fashion enthusiast.
@@ -20,4 +20,4 @@ Create a high-quality, editorial-style photoshoot of the same man as in the refe
 
 ## Example Output
 
-![Sunlit Elegance: Editorial Poolside Vibes](/images/portraits/pg-1991726604113047586.jpg)
+![Sunlit Elegance: Editorial Poolside Vibes](/images/portraits/pg-1991726604113047586.webp)

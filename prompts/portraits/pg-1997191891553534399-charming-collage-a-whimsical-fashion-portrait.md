@@ -5,7 +5,7 @@ tags: ["portrait","fashion","colorful","vibrant","nano-banana-pro"]
 author: "@dotey"
 author_url: "https://twitter.com/dotey"
 source_url: "https://twitter.com/dotey/status/1997191891553534399"
-preview: "/images/portraits/pg-1997191891553534399.jpg"
+preview: "/images/portraits/pg-1997191891553534399.webp"
 ---
 
 A vibrant portrait bursts to life, blending trendy styles with playful stickers. Lollipop in hand, she radiates youthful energy amid a colorful corkboard backdrop!
@@ -28,4 +28,4 @@ Aspect ratio: 9:16.
 
 ## Example Output
 
-![Charming Collage: A Whimsical Fashion Portrait](/images/portraits/pg-1997191891553534399.jpg)
+![Charming Collage: A Whimsical Fashion Portrait](/images/portraits/pg-1997191891553534399.webp)

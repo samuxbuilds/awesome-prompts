@@ -5,7 +5,7 @@ tags: ["dark","light","nano-banana-pro"]
 author: "@YaseenK7212"
 author_url: "https://twitter.com/YaseenK7212"
 source_url: "https://twitter.com/YaseenK7212/status/1995488723387978228"
-preview: "/images/3d/pg-1995488723387978228.jpg"
+preview: "/images/3d/pg-1995488723387978228.webp"
 ---
 
 In a world draped in shadows, a mysterious figure stands poised, her thoughtful expression beckoning secrets. The interplay of light and dark dances across her features, inviting deep contemplation.
@@ -80,4 +80,4 @@ In a world draped in shadows, a mysterious figure stands poised, her thoughtful 
 
 ## Example Output
 
-![The Enigmatic Gaze of Gemini Nano Banana 3.0](/images/3d/pg-1995488723387978228.jpg)
+![The Enigmatic Gaze of Gemini Nano Banana 3.0](/images/3d/pg-1995488723387978228.webp)

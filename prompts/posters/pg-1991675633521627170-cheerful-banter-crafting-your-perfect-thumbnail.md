@@ -5,7 +5,7 @@ tags: ["vibrant","nano-banana-pro"]
 author: "@sll_gametoai"
 author_url: "https://twitter.com/sll_gametoai"
 source_url: "https://twitter.com/sll_gametoai/status/1991675633521627170"
-preview: "/images/posters/pg-1991675633521627170.jpg"
+preview: "/images/posters/pg-1991675633521627170.webp"
 ---
 
 Imagine a lively character bursting with joy, ready to engage with viewers! The vibrant '雑談' text paired with a clean, striped background sets the perfect tone for fun discussions.
@@ -23,4 +23,4 @@ Imagine a lively character bursting with joy, ready to engage with viewers! The 
 
 ## Example Output
 
-![Cheerful Banter: Crafting Your Perfect Thumbnail!](/images/posters/pg-1991675633521627170.jpg)
+![Cheerful Banter: Crafting Your Perfect Thumbnail!](/images/posters/pg-1991675633521627170.webp)

@@ -5,7 +5,7 @@ tags: ["light","nano-banana-pro"]
 author: "@hedo_ist"
 author_url: "https://twitter.com/hedo_ist"
 source_url: "https://twitter.com/hedo_ist/status/1996672479155441826"
-preview: "/images/3d/pg-1996672479155441826.jpg"
+preview: "/images/3d/pg-1996672479155441826.webp"
 ---
 
 Can you feel the cosmic energy? A colossal tree of swirling nebulae rises from a misty valley, lighting up the night sky. Two figures stand in awe, surrounded by ethereal beauty.
@@ -24,4 +24,4 @@ Can you feel the cosmic energy? A colossal tree of swirling nebulae rises from a
 
 ## Example Output
 
-![A Celestial Marvel: The Colossal Tree of Nebulae](/images/3d/pg-1996672479155441826.jpg)
+![A Celestial Marvel: The Colossal Tree of Nebulae](/images/3d/pg-1996672479155441826.webp)

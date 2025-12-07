@@ -5,7 +5,7 @@ tags: ["nature","light","vibrant","nano-banana-pro"]
 author: "@BeanieBlossom"
 author_url: "https://twitter.com/BeanieBlossom"
 source_url: "https://twitter.com/BeanieBlossom/status/1996566221643510042"
-preview: "/images/creative/pg-1996566221643510042.jpg"
+preview: "/images/creative/pg-1996566221643510042.webp"
 ---
 
 A whimsical gathering unfolds as vibrant birds flock to a seed-laden feeder, basking in warm morning light. Nature's palette dances in harmony, crafting a serene yet lively tableau.
@@ -20,4 +20,4 @@ A flat wooden bird feeder sprinkled with seeds rests on a sunlit garden table, r
 
 ## Example Output
 
-![A Symphony of Color on a Sunlit Garden Table](/images/creative/pg-1996566221643510042.jpg)
+![A Symphony of Color on a Sunlit Garden Table](/images/creative/pg-1996566221643510042.webp)

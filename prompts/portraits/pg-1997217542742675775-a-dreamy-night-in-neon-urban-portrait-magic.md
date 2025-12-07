@@ -5,7 +5,7 @@ tags: ["portrait","urban","light","neon","vibrant","nano-banana-pro"]
 author: "@Sheldon056"
 author_url: "https://twitter.com/Sheldon056"
 source_url: "https://twitter.com/Sheldon056/status/1997217542742675775"
-preview: "/images/portraits/pg-1997217542742675775.jpg"
+preview: "/images/portraits/pg-1997217542742675775.webp"
 ---
 
 Under a shimmering drizzle in a vibrant cityscape, a woman gazes dreamily upward, cloaked in her oversized hoodie. Neon lights dance in reflections, creating a surreal ambiance!
@@ -25,4 +25,4 @@ Under a shimmering drizzle in a vibrant cityscape, a woman gazes dreamily upward
 
 ## Example Output
 
-![A Dreamy Night in Neon: Urban Portrait Magic](/images/portraits/pg-1997217542742675775.jpg)
+![A Dreamy Night in Neon: Urban Portrait Magic](/images/portraits/pg-1997217542742675775.webp)

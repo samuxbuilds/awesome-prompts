@@ -5,7 +5,7 @@ tags: ["portrait","urban","nano-banana-pro"]
 author: "@AIwithkhan"
 author_url: "https://twitter.com/AIwithkhan"
 source_url: "https://twitter.com/AIwithkhan/status/1995721644032360584"
-preview: "/images/portraits/pg-1995721644032360584.jpg"
+preview: "/images/portraits/pg-1995721644032360584.webp"
 ---
 
 Who is the man behind those amber-tinted lenses? This striking portrait captures a life etched in every wrinkle, set against a brooding city backdrop.
@@ -20,4 +20,4 @@ A gritty, hyper-realistic close-up portrait of a rugged middle-aged man with a t
 
 ## Example Output
 
-![Urban Grit: The Face of Resilience](/images/portraits/pg-1995721644032360584.jpg)
+![Urban Grit: The Face of Resilience](/images/portraits/pg-1995721644032360584.webp)

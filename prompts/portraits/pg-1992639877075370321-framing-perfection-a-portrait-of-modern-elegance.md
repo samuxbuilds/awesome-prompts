@@ -5,7 +5,7 @@ tags: ["portrait","modern","fashion","nano-banana-pro"]
 author: "@ShreyaYadav___"
 author_url: "https://twitter.com/ShreyaYadav___"
 source_url: "https://twitter.com/ShreyaYadav___/status/1992639877075370321"
-preview: "/images/portraits/pg-1992639877075370321.jpg"
+preview: "/images/portraits/pg-1992639877075370321.webp"
 ---
 
 An oversized Instagram frame encases a striking portrait, where sharp yet delicate features captivate with a magnetic gaze, embodying high-fashion allure.
@@ -20,4 +20,4 @@ Ultra realistic portrait of an individual presented inside an oversized Instagra
 
 ## Example Output
 
-![Framing Perfection: A Portrait of Modern Elegance](/images/portraits/pg-1992639877075370321.jpg)
+![Framing Perfection: A Portrait of Modern Elegance](/images/portraits/pg-1992639877075370321.webp)

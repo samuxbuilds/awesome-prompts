@@ -5,7 +5,7 @@ tags: ["art","light","nano-banana-pro"]
 author: "@FedericoLKG"
 author_url: "https://twitter.com/FedericoLKG"
 source_url: "https://twitter.com/FedericoLKG/status/1991533868944351491"
-preview: "/images/creative/pg-1991533868944351491.jpg"
+preview: "/images/creative/pg-1991533868944351491.webp"
 ---
 
 A surreal blend of culinary delight and timekeeping art! Marvel at the analog clock, succulent burger, and a glass brimming with red wine. What stories do these images tell?
@@ -20,4 +20,4 @@ Create an image of an analog clock reading 15:32 [Not digital and no other time]
 
 ## Example Output
 
-![Time, Taste, and Tints: A Visual Feast](/images/creative/pg-1991533868944351491.jpg)
+![Time, Taste, and Tints: A Visual Feast](/images/creative/pg-1991533868944351491.webp)

@@ -5,7 +5,7 @@ tags: ["urban","dark","nano-banana-pro"]
 author: "@lexx_aura"
 author_url: "https://twitter.com/lexx_aura"
 source_url: "https://twitter.com/lexx_aura/status/1991496254950428951"
-preview: "/images/3d/pg-1991496254950428951.jpg"
+preview: "/images/3d/pg-1991496254950428951.webp"
 ---
 
 A bearded figure leans pensively against a railing, shrouded in shadows. His intense gaze pierces the dark urban backdrop, capturing the essence of contemplation and raw emotion.
@@ -61,4 +61,4 @@ A bearded figure leans pensively against a railing, shrouded in shadows. His int
 
 ## Example Output
 
-![Urban Grit: The Soul of the City in Black and White](/images/3d/pg-1991496254950428951.jpg)
+![Urban Grit: The Soul of the City in Black and White](/images/3d/pg-1991496254950428951.webp)

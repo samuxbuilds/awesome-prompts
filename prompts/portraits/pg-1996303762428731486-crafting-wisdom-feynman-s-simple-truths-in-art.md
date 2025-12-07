@@ -5,7 +5,7 @@ tags: ["illustration","art","vibrant","nano-banana-pro"]
 author: "@dotey"
 author_url: "https://twitter.com/dotey"
 source_url: "https://twitter.com/dotey/status/1996303762428731486"
-preview: "/images/portraits/pg-1996303762428731486.jpg"
+preview: "/images/portraits/pg-1996303762428731486.webp"
 ---
 
 A vibrant blend of hand-drawn charm and insightful quotes! This infographic card captures Feynman’s wisdom with flowing scripts and playful illustrations, making complex ideas feel accessible.
@@ -31,4 +31,4 @@ topic: “If you can't explain it simply, you don't understand it well enough.�
 
 ## Example Output
 
-![Crafting Wisdom: Feynman's Simple Truths in Art](/images/portraits/pg-1996303762428731486.jpg)
+![Crafting Wisdom: Feynman's Simple Truths in Art](/images/portraits/pg-1996303762428731486.webp)

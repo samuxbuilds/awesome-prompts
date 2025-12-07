@@ -5,7 +5,7 @@ tags: ["portrait","modern","vibrant","nano-banana-pro"]
 author: "@saniaspeaks_"
 author_url: "https://twitter.com/saniaspeaks_"
 source_url: "https://twitter.com/saniaspeaks_/status/1996416718873444749"
-preview: "/images/portraits/pg-1996416718873444749.jpg"
+preview: "/images/portraits/pg-1996416718873444749.webp"
 ---
 
 In a vibrant classroom, a poised educator exudes warmth and wisdom. With a soft smile and confident stance, she embodies the spirit of learning surrounded by inspiring educational elements.
@@ -69,4 +69,4 @@ Google Gemini Nano banana Pro.
 
 ## Example Output
 
-![Classroom Confidence: A Modern Scholar's Portrait](/images/portraits/pg-1996416718873444749.jpg)
+![Classroom Confidence: A Modern Scholar's Portrait](/images/portraits/pg-1996416718873444749.webp)

@@ -5,7 +5,7 @@ tags: ["art","light","vibrant","nano-banana-pro"]
 author: "@NameIsSudee"
 author_url: "https://twitter.com/NameIsSudee"
 source_url: "https://twitter.com/NameIsSudee/status/1995782971945898291"
-preview: "/images/3d/pg-1995782971945898291.jpg"
+preview: "/images/3d/pg-1995782971945898291.webp"
 ---
 
 A stunning young woman rests thoughtfully, surrounded by delicate blooms and vibrant art. The warm light and soft ambiance invite you into her serene world.
@@ -25,4 +25,4 @@ A stunning young woman rests thoughtfully, surrounded by delicate blooms and vib
 
 ## Example Output
 
-![Whispers of Melancholy: A Cozy Artistic Retreat](/images/3d/pg-1995782971945898291.jpg)
+![Whispers of Melancholy: A Cozy Artistic Retreat](/images/3d/pg-1995782971945898291.webp)

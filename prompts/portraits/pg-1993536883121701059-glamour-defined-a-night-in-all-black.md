@@ -5,7 +5,7 @@ tags: ["light","nano-banana-pro"]
 author: "@Just_sharon7"
 author_url: "https://twitter.com/Just_sharon7"
 source_url: "https://twitter.com/Just_sharon7/status/1993536883121701059"
-preview: "/images/portraits/pg-1993536883121701059.jpg"
+preview: "/images/portraits/pg-1993536883121701059.webp"
 ---
 
 Bold, glittering elegance comes alive as she leans confidently against a white pillar, her sequined crop top shimmering in warm evening light. Who's ready for the spotlight?
@@ -39,4 +39,4 @@ Bold, glittering elegance comes alive as she leans confidently against a white p
 
 ## Example Output
 
-![Glamour Defined: A Night in All Black](/images/portraits/pg-1993536883121701059.jpg)
+![Glamour Defined: A Night in All Black](/images/portraits/pg-1993536883121701059.webp)

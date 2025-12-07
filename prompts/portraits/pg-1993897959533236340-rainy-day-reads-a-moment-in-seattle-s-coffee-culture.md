@@ -5,7 +5,7 @@ tags: ["nano-banana-pro"]
 author: "@minchoi"
 author_url: "https://twitter.com/minchoi"
 source_url: "https://twitter.com/minchoi/status/1993897959533236340"
-preview: "/images/portraits/pg-1993897959533236340.jpg"
+preview: "/images/portraits/pg-1993897959533236340.webp"
 ---
 
 A bearded man sifts through the news as raindrops dance on the window. The cozy ambiance of this 2006 Seattle coffee shop captures an everyday moment, where stories blend with the rich aroma of brewing coffee.
@@ -22,4 +22,4 @@ A candid digital photo from 2006 shows a man with a beard and a striped shirt re
 
 ## Example Output
 
-![Rainy Day Reads: A Moment in Seattle's Coffee Culture](/images/portraits/pg-1993897959533236340.jpg)
+![Rainy Day Reads: A Moment in Seattle's Coffee Culture](/images/portraits/pg-1993897959533236340.webp)

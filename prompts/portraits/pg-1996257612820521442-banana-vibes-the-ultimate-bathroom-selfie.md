@@ -5,7 +5,7 @@ tags: ["selfie","nano-banana-pro"]
 author: "@YaseenK7212"
 author_url: "https://twitter.com/YaseenK7212"
 source_url: "https://twitter.com/YaseenK7212/status/1996257612820521442"
-preview: "/images/portraits/pg-1996257612820521442.jpg"
+preview: "/images/portraits/pg-1996257612820521442.webp"
 ---
 
 Caught in a moment of playful confidence, this NYC bathroom selfie radiates a blend of innocence and allure. With doe-like eyes and a cheeky outfit, every detail tells a story!
@@ -104,4 +104,4 @@ Caught in a moment of playful confidence, this NYC bathroom selfie radiates a bl
 
 ## Example Output
 
-![Banana Vibes: The Ultimate Bathroom Selfie!](/images/portraits/pg-1996257612820521442.jpg)
+![Banana Vibes: The Ultimate Bathroom Selfie!](/images/portraits/pg-1996257612820521442.webp)

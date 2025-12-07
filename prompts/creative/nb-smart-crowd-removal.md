@@ -3,7 +3,7 @@ title: "Smart Crowd Removal"
 category: creative
 tags: ["realistic", "ai-art"]
 author: "@nanobanana-pro"
-preview: "/images/creative/nb-smart-crowd-removal.png"
+preview: "/images/creative/nb-smart-crowd-removal.webp"
 ---
 
 *Removes unwanted people from backgrounds and fills the space with logical textures.*
@@ -14,4 +14,4 @@ Remove all the tourists/people in the background behind the main subject. Intell
 - [Original](https://mp.weixin.qq.com/s/lrYNbs4rGs3KOqewoZ6aNQ)
 
 ## Example Output
-![Smart Crowd Removal](/images/creative/nb-smart-crowd-removal.png)
+![Smart Crowd Removal](/images/creative/nb-smart-crowd-removal.webp)

@@ -5,7 +5,7 @@ tags: ["modern","minimal","nano-banana-pro"]
 author: "@kingofdairyque"
 author_url: "https://twitter.com/kingofdairyque"
 source_url: "https://twitter.com/kingofdairyque/status/1996894118031856043"
-preview: "/images/portraits/pg-1996894118031856043.jpg"
+preview: "/images/portraits/pg-1996894118031856043.webp"
 ---
 
 A sleek composition captures the essence of modern sophistication—an oversized silver fox jacket drapes gracefully, set against a serene neutral backdrop that whispers elegance.
@@ -20,4 +20,4 @@ Female model wearing an oversized silver fox jacket, posing in a minimalist phot
 
 ## Example Output
 
-![Elegance Redefined: The Luxe Minimalist Look](/images/portraits/pg-1996894118031856043.jpg)
+![Elegance Redefined: The Luxe Minimalist Look](/images/portraits/pg-1996894118031856043.webp)

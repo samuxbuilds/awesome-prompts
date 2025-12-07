@@ -5,7 +5,7 @@ tags: ["nano-banana-pro"]
 author: "@maxescu"
 author_url: "https://twitter.com/maxescu"
 source_url: "https://twitter.com/maxescu/status/1994465147893551346"
-preview: "/images/posters/pg-1994465147893551346.jpg"
+preview: "/images/posters/pg-1994465147893551346.webp"
 ---
 
 Caught in a pivotal moment, Nixon greets the King amidst the Watergate's historic backdrop. What stories linger in that office's shadows?
@@ -20,4 +20,4 @@ Nixon welcoming the King in his office inside the Watergate building
 
 ## Example Output
 
-![A Royal Encounter: Nixon Meets the King](/images/posters/pg-1994465147893551346.jpg)
+![A Royal Encounter: Nixon Meets the King](/images/posters/pg-1994465147893551346.webp)

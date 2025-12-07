@@ -5,7 +5,7 @@ tags: ["vintage","fashion","light","nano-banana-pro"]
 author: "@kingofdairyque"
 author_url: "https://twitter.com/kingofdairyque"
 source_url: "https://twitter.com/kingofdairyque/status/1996943841249972624"
-preview: "/images/portraits/pg-1996943841249972624.jpg"
+preview: "/images/portraits/pg-1996943841249972624.webp"
 ---
 
 Stunning light dances through fog as a young woman stands poised at a vintage train station, her stylish attire merging with the ethereal moment of dawn. A striking fusion of fashion and atmosphere.
@@ -24,4 +24,4 @@ Stunning light dances through fog as a young woman stands poised at a vintage tr
 
 ## Example Output
 
-![Golden Dawn: A Commuter's Silent Soliloquy](/images/portraits/pg-1996943841249972624.jpg)
+![Golden Dawn: A Commuter's Silent Soliloquy](/images/portraits/pg-1996943841249972624.webp)

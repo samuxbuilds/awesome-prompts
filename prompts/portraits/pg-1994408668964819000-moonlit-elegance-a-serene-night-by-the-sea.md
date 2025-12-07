@@ -5,7 +5,7 @@ tags: ["light","nano-banana-pro"]
 author: "@Ashlley_grace_"
 author_url: "https://twitter.com/Ashlley_grace_"
 source_url: "https://twitter.com/Ashlley_grace_/status/1994408668964819000"
-preview: "/images/portraits/pg-1994408668964819000.jpg"
+preview: "/images/portraits/pg-1994408668964819000.webp"
 ---
 
 Bathed in moonlight, she exudes grace on a tranquil beach. Antique lanterns flicker beside her as roses scatter softly on the sand, creating a dreamy atmosphere beneath the stars.
@@ -20,4 +20,4 @@ a woman sitting gracefully on a moonlit beach, wearing a flowing green off-the-s
 
 ## Example Output
 
-![Moonlit Elegance: A Serene Night by the Sea](/images/portraits/pg-1994408668964819000.jpg)
+![Moonlit Elegance: A Serene Night by the Sea](/images/portraits/pg-1994408668964819000.webp)

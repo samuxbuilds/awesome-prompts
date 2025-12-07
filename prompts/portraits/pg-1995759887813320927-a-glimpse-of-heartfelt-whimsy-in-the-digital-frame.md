@@ -5,7 +5,7 @@ tags: ["art","cute","digital","nano-banana-pro"]
 author: "@xmiiru_"
 author_url: "https://twitter.com/xmiiru_"
 source_url: "https://twitter.com/xmiiru_/status/1995759887813320927"
-preview: "/images/portraits/pg-1995759887813320927.jpg"
+preview: "/images/portraits/pg-1995759887813320927.webp"
 ---
 
 Floating pink hearts and a soft glow capture a moment of delicate charm! This young woman, framed by a MacBook, embodies both cuteness and a hint of melancholy.
@@ -24,4 +24,4 @@ Floating pink hearts and a soft glow capture a moment of delicate charm! This yo
 
 ## Example Output
 
-![A Glimpse of Heartfelt Whimsy in the Digital Frame](/images/portraits/pg-1995759887813320927.jpg)
+![A Glimpse of Heartfelt Whimsy in the Digital Frame](/images/portraits/pg-1995759887813320927.webp)

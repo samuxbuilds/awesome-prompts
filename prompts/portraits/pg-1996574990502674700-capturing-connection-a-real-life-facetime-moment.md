@@ -5,7 +5,7 @@ tags: ["light","nano-banana-pro"]
 author: "@_imfaizan18"
 author_url: "https://twitter.com/_imfaizan18"
 source_url: "https://twitter.com/_imfaizan18/status/1996574990502674700"
-preview: "/images/portraits/pg-1996574990502674700.jpg"
+preview: "/images/portraits/pg-1996574990502674700.webp"
 ---
 
 A cozy bedroom scene unfolds as a couple shares a warm, intimate video call. Dust on the iPad screen adds authenticity, while soft fairy lights create a dreamy ambiance.
@@ -48,12 +48,12 @@ A cozy bedroom scene unfolds as a couple shares a warm, intimate video call. Dus
       "lighting_simulation": "Warm tungsten + soft screen glow blend",
       "subjects": {
         "subject_a_guy": {
-          "identity_target": "reference_image_male.jpg",
+          "identity_target": "reference_image_male.webp",
           "action": "Waving casually at camera",
           "position": "Left-center"
         },
         "subject_b_girl": {
-          "identity_target": "reference_image_female.jpg",
+          "identity_target": "reference_image_female.webp",
           "action": "Leaning on his shoulder, smiling gently",
           "position": "Right-center"
         }
@@ -96,4 +96,4 @@ A cozy bedroom scene unfolds as a couple shares a warm, intimate video call. Dus
 
 ## Example Output
 
-![Capturing Connection: A Real-Life FaceTime Moment](/images/portraits/pg-1996574990502674700.jpg)
+![Capturing Connection: A Real-Life FaceTime Moment](/images/portraits/pg-1996574990502674700.webp)

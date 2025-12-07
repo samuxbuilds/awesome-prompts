@@ -5,7 +5,7 @@ tags: ["art","vibrant","nano-banana-pro"]
 author: "@IamEmily2050"
 author_url: "https://twitter.com/IamEmily2050"
 source_url: "https://twitter.com/IamEmily2050/status/1994624635300974734"
-preview: "/images/portraits/pg-1994624635300974734.jpg"
+preview: "/images/portraits/pg-1994624635300974734.webp"
 ---
 
 In this serene classroom, Boa Hancock commands attention from a vibrant chalkboard, her bold colors and striking pose captivating with every glance. A unique fusion of art and academia!
@@ -60,4 +60,4 @@ In this serene classroom, Boa Hancock commands attention from a vibrant chalkboa
 
 ## Example Output
 
-![Chalkboard Dreams: Boa Hancock Comes to Life](/images/portraits/pg-1994624635300974734.jpg)
+![Chalkboard Dreams: Boa Hancock Comes to Life](/images/portraits/pg-1994624635300974734.webp)

@@ -5,7 +5,7 @@ tags: ["portrait","vibrant","nano-banana-pro"]
 author: "@xmiiru_"
 author_url: "https://twitter.com/xmiiru_"
 source_url: "https://twitter.com/xmiiru_/status/1997231517995499808"
-preview: "/images/portraits/pg-1997231517995499808.jpg"
+preview: "/images/portraits/pg-1997231517995499808.webp"
 ---
 
 Bold colors and playful styles collide in this captivating portrait! Imagine the fun escapades that could unfold with such vibrant energy!
@@ -39,4 +39,4 @@ Bold colors and playful styles collide in this captivating portrait! Imagine the
 
 ## Example Output
 
-![Candy Dreams and Pigtail Adventures Await!](/images/portraits/pg-1997231517995499808.jpg)
+![Candy Dreams and Pigtail Adventures Await!](/images/portraits/pg-1997231517995499808.webp)

@@ -5,7 +5,7 @@ tags: ["selfie","light","nano-banana-pro"]
 author: "@johnnprofits"
 author_url: "https://twitter.com/johnnprofits"
 source_url: "https://twitter.com/johnnprofits/status/1996622274636706130"
-preview: "/images/portraits/pg-1996622274636706130.jpg"
+preview: "/images/portraits/pg-1996622274636706130.webp"
 ---
 
 A blend of casual chic and effortless charm, this young woman nails the mirror selfie game. The soft lighting and perfect reflections elevate her relaxed vibe!
@@ -65,4 +65,4 @@ A blend of casual chic and effortless charm, this young woman nails the mirror s
 
 ## Example Output
 
-![Reflections of Confidence: A Stylish AI Creation](/images/portraits/pg-1996622274636706130.jpg)
+![Reflections of Confidence: A Stylish AI Creation](/images/portraits/pg-1996622274636706130.webp)

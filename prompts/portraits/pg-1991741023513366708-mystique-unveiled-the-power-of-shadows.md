@@ -5,7 +5,7 @@ tags: ["portrait","light","nano-banana-pro"]
 author: "@lexx_aura"
 author_url: "https://twitter.com/lexx_aura"
 source_url: "https://twitter.com/lexx_aura/status/1991741023513366708"
-preview: "/images/portraits/pg-1991741023513366708.jpg"
+preview: "/images/portraits/pg-1991741023513366708.webp"
 ---
 
 A striking black and white portrait captures a man lost in thought, his tousled hair and rough beard illuminated by bold light. The interplay of light and shadow evokes an aura of intrigue and strength.
@@ -39,4 +39,4 @@ A striking black and white portrait captures a man lost in thought, his tousled 
 
 ## Example Output
 
-![Mystique Unveiled: The Power of Shadows](/images/portraits/pg-1991741023513366708.jpg)
+![Mystique Unveiled: The Power of Shadows](/images/portraits/pg-1991741023513366708.webp)

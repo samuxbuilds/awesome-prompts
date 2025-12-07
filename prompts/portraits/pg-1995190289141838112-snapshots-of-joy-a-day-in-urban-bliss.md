@@ -5,7 +5,7 @@ tags: ["urban","vibrant","nano-banana-pro"]
 author: "@IqraSaifiii"
 author_url: "https://twitter.com/IqraSaifiii"
 source_url: "https://twitter.com/IqraSaifiii/status/1995190289141838112"
-preview: "/images/portraits/pg-1995190289141838112.jpg"
+preview: "/images/portraits/pg-1995190289141838112.webp"
 ---
 
 Four vibrant moments capture a young woman's laughter and thoughtfulness against a lively city backdrop, showcasing the essence of spontaneous joy.
@@ -21,7 +21,7 @@ Four vibrant moments capture a young woman's laughter and thoughtfulness against
     "visual_style": "Realistic, candid street style photography with natural daylight.",
     "lighting": "Soft, natural daylight, creating realistic shadows and highlights.",
     "background": "Blurred urban environment, like a city street or park, to keep the focus on the subject.",
-    "reference_image": "1000484277.jpg"
+    "reference_image": "1000484277.webp"
   },
   "subject": {
     "description": "A real-life young woman with dark brown hair in a high ponytail, resembling the character from the reference image. She is wearing a grey t-shirt, an open pink jacket, blue denim shorts, and pink and white sneakers."
@@ -53,4 +53,4 @@ Four vibrant moments capture a young woman's laughter and thoughtfulness against
 
 ## Example Output
 
-![Snapshots of Joy: A Day in Urban Bliss](/images/portraits/pg-1995190289141838112.jpg)
+![Snapshots of Joy: A Day in Urban Bliss](/images/portraits/pg-1995190289141838112.webp)

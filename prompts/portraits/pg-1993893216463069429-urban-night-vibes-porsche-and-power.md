@@ -5,7 +5,7 @@ tags: ["urban","light","neon","nano-banana-pro"]
 author: "@YaseenK7212"
 author_url: "https://twitter.com/YaseenK7212"
 source_url: "https://twitter.com/YaseenK7212/status/1993893216463069429"
-preview: "/images/portraits/pg-1993893216463069429.jpg"
+preview: "/images/portraits/pg-1993893216463069429.webp"
 ---
 
 A striking scene unfolds—under neon lights, a confident woman in a black tracksuit leans against a sleek Porsche GT3 RS, reflecting the pulse of the city.
@@ -72,4 +72,4 @@ A striking scene unfolds—under neon lights, a confident woman in a black track
 
 ## Example Output
 
-![Urban Night Vibes: Porsche and Power](/images/portraits/pg-1993893216463069429.jpg)
+![Urban Night Vibes: Porsche and Power](/images/portraits/pg-1993893216463069429.webp)

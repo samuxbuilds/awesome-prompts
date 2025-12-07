@@ -5,7 +5,7 @@ tags: ["light","nano-banana-pro"]
 author: "@Zar_xplorer"
 author_url: "https://twitter.com/Zar_xplorer"
 source_url: "https://twitter.com/Zar_xplorer/status/1995815931398779281"
-preview: "/images/portraits/pg-1995815931398779281.jpg"
+preview: "/images/portraits/pg-1995815931398779281.webp"
 ---
 
 A rugged landscape framed by golden hour light showcases a man in a black vest, embodying resilience. Beside him, his loyal German Shepherd reflects unwavering companionship amidst swirling dust.
@@ -20,4 +20,4 @@ A cinematic portrait of a man standing in front of a rugged off-road jeep with a
 
 ## Example Output
 
-![Strength on the Road: Man and Dog in Cinematic Harmony](/images/portraits/pg-1995815931398779281.jpg)
+![Strength on the Road: Man and Dog in Cinematic Harmony](/images/portraits/pg-1995815931398779281.webp)

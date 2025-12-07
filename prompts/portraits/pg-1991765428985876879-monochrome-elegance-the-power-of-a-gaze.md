@@ -5,7 +5,7 @@ tags: ["minimal","light","nano-banana-pro"]
 author: "@aleenaamiir"
 author_url: "https://twitter.com/aleenaamiir"
 source_url: "https://twitter.com/aleenaamiir/status/1991765428985876879"
-preview: "/images/portraits/pg-1991765428985876879.jpg"
+preview: "/images/portraits/pg-1991765428985876879.webp"
 ---
 
 Imagine a world painted in black and white, where a young woman's intense eyes steal the spotlight. Her minimalist attire and soft freckles tell a story of elegance and strength.
@@ -54,4 +54,4 @@ Imagine a world painted in black and white, where a young woman's intense eyes s
 
 ## Example Output
 
-![Monochrome Elegance: The Power of a Gaze](/images/portraits/pg-1991765428985876879.jpg)
+![Monochrome Elegance: The Power of a Gaze](/images/portraits/pg-1991765428985876879.webp)

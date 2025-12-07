@@ -5,7 +5,7 @@ tags: ["portrait","modern","urban","fashion","light","nano-banana-pro"]
 author: "@Drshadow56"
 author_url: "https://twitter.com/Drshadow56"
 source_url: "https://twitter.com/Drshadow56/status/1991425359603229019"
-preview: "/images/3d/pg-1991425359603229019.jpg"
+preview: "/images/3d/pg-1991425359603229019.webp"
 ---
 
 Captured in serene evening light, this striking portrait showcases a bold young man with a two-block haircut, exuding effortless cool against a coffee shop backdrop. Perfectly styled yet casual, he embodies modern urban fashion.
@@ -32,4 +32,4 @@ Camera settings: f/1.8, ISO 200, 85mm lens,
 
 ## Example Output
 
-![Cinematic Style Meets Urban Vibe: The Nano Banana Portrait](/images/3d/pg-1991425359603229019.jpg)
+![Cinematic Style Meets Urban Vibe: The Nano Banana Portrait](/images/3d/pg-1991425359603229019.webp)

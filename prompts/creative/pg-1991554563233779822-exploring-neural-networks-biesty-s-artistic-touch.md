@@ -5,7 +5,7 @@ tags: ["art","nano-banana-pro"]
 author: "@jon_barron"
 author_url: "https://twitter.com/jon_barron"
 source_url: "https://twitter.com/jon_barron/status/1991554563233779822"
-preview: "/images/creative/pg-1991554563233779822.jpg"
+preview: "/images/creative/pg-1991554563233779822.webp"
 ---
 
 Imagine a two-layer neural network brought to life through intricate, hand-drawn detail! This stunning diagram blends technology with artistry, capturing the complexity of AI in a captivating, illustrative style.
@@ -20,4 +20,4 @@ Generate a diagram of a two-layer neural network in the style of Stephen Biesty
 
 ## Example Output
 
-![Exploring Neural Networks: Biesty's Artistic Touch](/images/creative/pg-1991554563233779822.jpg)
+![Exploring Neural Networks: Biesty's Artistic Touch](/images/creative/pg-1991554563233779822.webp)

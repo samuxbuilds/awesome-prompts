@@ -5,7 +5,7 @@ tags: ["vibrant","nano-banana-pro"]
 author: "@minchoi"
 author_url: "https://twitter.com/minchoi"
 source_url: "https://twitter.com/minchoi/status/1993897946505527347"
-preview: "/images/portraits/pg-1993897946505527347.jpg"
+preview: "/images/portraits/pg-1993897946505527347.webp"
 ---
 
 Can you feel the buzz of late October? A young blonde stands out against the vibrant blur of Times Square, captured like a moment frozen in time from 2006.
@@ -20,4 +20,4 @@ Generate a photorealistic image of Time Square on a saturday in Fall 2006, it's 
 
 ## Example Output
 
-![A Glimpse of Time: Busy Fall Days in Times Square 2006](/images/portraits/pg-1993897946505527347.jpg)
+![A Glimpse of Time: Busy Fall Days in Times Square 2006](/images/portraits/pg-1993897946505527347.webp)

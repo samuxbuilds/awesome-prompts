@@ -5,7 +5,7 @@ tags: ["vibrant","nano-banana-pro"]
 author: "@MrDasOnX"
 author_url: "https://twitter.com/MrDasOnX"
 source_url: "https://twitter.com/MrDasOnX/status/1991708316339433901"
-preview: "/images/3d/pg-1991708316339433901.jpg"
+preview: "/images/3d/pg-1991708316339433901.webp"
 ---
 
 Imagine iconic figures striding across a vibrant cityscape, echoing the legendary Beatles moment. Nano Banana 2 captures every detail with a stylish twist!
@@ -20,4 +20,4 @@ Imagine iconic figures striding across a vibrant cityscape, echoing the legendar
 
 ## Example Output
 
-![Pop Culture Walks: The Ultimate Abbey Road Revival](/images/3d/pg-1991708316339433901.jpg)
+![Pop Culture Walks: The Ultimate Abbey Road Revival](/images/3d/pg-1991708316339433901.webp)

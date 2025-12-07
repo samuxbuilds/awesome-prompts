@@ -5,7 +5,7 @@ tags: ["nano-banana-pro"]
 author: "@Sophia_here12"
 author_url: "https://twitter.com/Sophia_here12"
 source_url: "https://twitter.com/Sophia_here12/status/1996010195617485042"
-preview: "/images/portraits/pg-1996010195617485042.jpg"
+preview: "/images/portraits/pg-1996010195617485042.webp"
 ---
 
 Amidst a flurry of soft snowflakes, a young woman embodies winter elegance. Her serene presence under a glistening umbrella contrasts beautifully with the tranquil forest backdrop.
@@ -27,4 +27,4 @@ A perfect blend of tranquility, style, and natural beauty captured in one frame.
 
 ## Example Output
 
-![Elegance in a Winter Wonderland](/images/portraits/pg-1996010195617485042.jpg)
+![Elegance in a Winter Wonderland](/images/portraits/pg-1996010195617485042.webp)

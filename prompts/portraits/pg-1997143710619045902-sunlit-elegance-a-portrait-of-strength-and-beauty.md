@@ -5,7 +5,7 @@ tags: ["portrait","light","nano-banana-pro"]
 author: "@AIByAbbay"
 author_url: "https://twitter.com/AIByAbbay"
 source_url: "https://twitter.com/AIByAbbay/status/1997143710619045902"
-preview: "/images/portraits/pg-1997143710619045902.jpg"
+preview: "/images/portraits/pg-1997143710619045902.webp"
 ---
 
 Caught in a moment of quiet defiance, her gaze pierces through shadows, illuminated by radiant beams of sunlight. The interplay of light sculpting her features creates a stunning visual narrative.
@@ -20,4 +20,4 @@ Generate an 8K lifelike close-up of a woman (face characteristics 100% same as u
 
 ## Example Output
 
-![Sunlit Elegance: A Portrait of Strength and Beauty](/images/portraits/pg-1997143710619045902.jpg)
+![Sunlit Elegance: A Portrait of Strength and Beauty](/images/portraits/pg-1997143710619045902.webp)

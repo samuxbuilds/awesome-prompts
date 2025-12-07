@@ -5,7 +5,7 @@ tags: ["vintage","light","nano-banana-pro"]
 author: "@AIwithkhan"
 author_url: "https://twitter.com/AIwithkhan"
 source_url: "https://twitter.com/AIwithkhan/status/1996570588148810137"
-preview: "/images/portraits/pg-1996570588148810137.jpg"
+preview: "/images/portraits/pg-1996570588148810137.webp"
 ---
 
 Captured in the soft glow of sunset, a woman exudes confidence in her vintage convertible. The warm amber light dances across cobblestones, evoking nostalgia and timeless elegance.
@@ -20,4 +20,4 @@ A cinematic sunset street scene featuring a woman seated in a vintage convertibl
 
 ## Example Output
 
-![Golden Hour Glamour on Cobblestone Streets](/images/portraits/pg-1996570588148810137.jpg)
+![Golden Hour Glamour on Cobblestone Streets](/images/portraits/pg-1996570588148810137.webp)

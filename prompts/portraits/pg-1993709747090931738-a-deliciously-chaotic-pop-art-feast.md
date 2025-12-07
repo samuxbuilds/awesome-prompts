@@ -5,7 +5,7 @@ tags: ["art","food","nano-banana-pro"]
 author: "@_MehdiSharifi_"
 author_url: "https://twitter.com/_MehdiSharifi_"
 source_url: "https://twitter.com/_MehdiSharifi_/status/1993709747090931738"
-preview: "/images/portraits/pg-1993709747090931738.jpg"
+preview: "/images/portraits/pg-1993709747090931738.webp"
 ---
 
 In a retro diner, a playful girl snacks on a burger while whimsical food monsters come alive around her. Bright colors and wild characters create a savory spectacle!
@@ -64,4 +64,4 @@ In a retro diner, a playful girl snacks on a burger while whimsical food monster
 
 ## Example Output
 
-![A Deliciously Chaotic Pop-Art Feast](/images/portraits/pg-1993709747090931738.jpg)
+![A Deliciously Chaotic Pop-Art Feast](/images/portraits/pg-1993709747090931738.webp)

@@ -5,7 +5,7 @@ tags: ["nano-banana-pro"]
 author: "@Sheldon056"
 author_url: "https://twitter.com/Sheldon056"
 source_url: "https://twitter.com/Sheldon056/status/1995096007529668632"
-preview: "/images/3d/pg-1995096007529668632.jpg"
+preview: "/images/3d/pg-1995096007529668632.webp"
 ---
 
 A fierce solitary figure braves the ashes of a lost village, embodying resilience. With frost in his tangled hair and battle scars etched deep, he carries the weight of history on his blood-stained axe.
@@ -89,4 +89,4 @@ A fierce solitary figure braves the ashes of a lost village, embodying resilienc
 
 ## Example Output
 
-![A Viking's Last Stand: Echoes of the Fallen](/images/3d/pg-1995096007529668632.jpg)
+![A Viking's Last Stand: Echoes of the Fallen](/images/3d/pg-1995096007529668632.webp)

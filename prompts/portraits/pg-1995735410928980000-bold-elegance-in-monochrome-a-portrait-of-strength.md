@@ -5,7 +5,7 @@ tags: ["portrait","nano-banana-pro"]
 author: "@rovvmut_"
 author_url: "https://twitter.com/rovvmut_"
 source_url: "https://twitter.com/rovvmut_/status/1995735410928980000"
-preview: "/images/portraits/pg-1995735410928980000.jpg"
+preview: "/images/portraits/pg-1995735410928980000.webp"
 ---
 
 Striking contrast reveals a young woman's fierce gaze, adorned in intricately patterned fabric. The dramatic chiaroscuro enhances her presence, commanding attention in timeless black and white.
@@ -20,4 +20,4 @@ Black and white studio portrait of a young woman in the uploaded image with a se
 
 ## Example Output
 
-![Bold Elegance in Monochrome: A Portrait of Strength](/images/portraits/pg-1995735410928980000.jpg)
+![Bold Elegance in Monochrome: A Portrait of Strength](/images/portraits/pg-1995735410928980000.webp)

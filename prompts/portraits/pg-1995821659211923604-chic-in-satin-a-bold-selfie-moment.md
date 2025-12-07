@@ -5,7 +5,7 @@ tags: ["portrait","selfie","vibrant","nano-banana-pro"]
 author: "@Just_sharon7"
 author_url: "https://twitter.com/Just_sharon7"
 source_url: "https://twitter.com/Just_sharon7/status/1995821659211923604"
-preview: "/images/portraits/pg-1995821659211923604.jpg"
+preview: "/images/portraits/pg-1995821659211923604.webp"
 ---
 
 This stunning portrait radiates confidence! A young woman in a vibrant red satin slip dress strikes a pose, capturing her glamorous reflection amid a stylish boutique backdrop.
@@ -53,4 +53,4 @@ This stunning portrait radiates confidence! A young woman in a vibrant red satin
 
 ## Example Output
 
-![Chic in Satin: A Bold Selfie Moment](/images/portraits/pg-1995821659211923604.jpg)
+![Chic in Satin: A Bold Selfie Moment](/images/portraits/pg-1995821659211923604.webp)

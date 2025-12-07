@@ -5,7 +5,7 @@ tags: ["portrait","minimal","light","nano-banana-pro"]
 author: "@john_my07"
 author_url: "https://twitter.com/john_my07"
 source_url: "https://twitter.com/john_my07/status/1995803274193392094"
-preview: "/images/portraits/pg-1995803274193392094.jpg"
+preview: "/images/portraits/pg-1995803274193392094.webp"
 ---
 
 In a realm of soft shadows and sharp contrasts, this stylish man's portrait captivates with calm confidence. Every detail draws the eye in a minimalist embrace.
@@ -29,4 +29,4 @@ In a realm of soft shadows and sharp contrasts, this stylish man's portrait capt
 
 ## Example Output
 
-![Spotlight on Serenity: A Monochrome Masterpiece](/images/portraits/pg-1995803274193392094.jpg)
+![Spotlight on Serenity: A Monochrome Masterpiece](/images/portraits/pg-1995803274193392094.webp)

@@ -5,7 +5,7 @@ tags: ["food","nano-banana-pro"]
 author: "@icreatelife"
 author_url: "https://twitter.com/icreatelife"
 source_url: "https://twitter.com/icreatelife/status/1992610069180198936"
-preview: "/images/portraits/pg-1992610069180198936.jpg"
+preview: "/images/portraits/pg-1992610069180198936.webp"
 ---
 
 Elevate your dining experience! The Nano Banana Pro brings mouthwatering food photos right to your menu, making every dish irresistible.
@@ -20,4 +20,4 @@ Add photos of food to this menu to each item of food
 
 ## Example Output
 
-![Transform Your Menu with Tasty Visuals!](/images/portraits/pg-1992610069180198936.jpg)
+![Transform Your Menu with Tasty Visuals!](/images/portraits/pg-1992610069180198936.webp)

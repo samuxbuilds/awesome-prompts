@@ -5,7 +5,7 @@ tags: ["nano-banana-pro"]
 author: "@xmiiru_"
 author_url: "https://twitter.com/xmiiru_"
 source_url: "https://twitter.com/xmiiru_/status/1995127035081932940"
-preview: "/images/portraits/pg-1995127035081932940.jpg"
+preview: "/images/portraits/pg-1995127035081932940.webp"
 ---
 
 Step into a realm of sophistication where a stunning woman commands attention in a sleek hotel elevator.
@@ -52,4 +52,4 @@ Step into a realm of sophistication where a stunning woman commands attention in
 
 ## Example Output
 
-![Elevator Elegance: A Vision in Glamour](/images/portraits/pg-1995127035081932940.jpg)
+![Elevator Elegance: A Vision in Glamour](/images/portraits/pg-1995127035081932940.webp)

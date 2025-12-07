@@ -5,7 +5,7 @@ tags: ["portrait","minimal","nano-banana-pro"]
 author: "@lexx_aura"
 author_url: "https://twitter.com/lexx_aura"
 source_url: "https://twitter.com/lexx_aura/status/1994397944209142213"
-preview: "/images/portraits/pg-1994397944209142213.jpg"
+preview: "/images/portraits/pg-1994397944209142213.webp"
 ---
 
 A striking portrait captures a young woman exuding confidence, seated elegantly on a minimalist metal chair. Her tousled ponytail and chic black dress create an intimate ambiance, inviting the viewer to connect deeply.
@@ -50,4 +50,4 @@ quality = Soft yet defined, creating subtle shadows that enhance her features an
 
 ## Example Output
 
-![Elegance Meets Confidence in Ultra-Realism](/images/portraits/pg-1994397944209142213.jpg)
+![Elegance Meets Confidence in Ultra-Realism](/images/portraits/pg-1994397944209142213.webp)

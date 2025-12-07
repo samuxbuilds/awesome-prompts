@@ -5,7 +5,7 @@ tags: ["cartoon","portrait","art","vibrant","nano-banana-pro"]
 author: "@teachaixr"
 author_url: "https://twitter.com/teachaixr"
 source_url: "https://twitter.com/teachaixr/status/1995579063923040295"
-preview: "/images/3d/pg-1995579063923040295.jpg"
+preview: "/images/3d/pg-1995579063923040295.webp"
 ---
 
 A captivating blend of realism and vibrant cartoon flair! This unique portrait features soft glows, dreamy elements, and playful kawaii touches that bring the Gemini Nano Banana Pro to life.
@@ -121,4 +121,4 @@ A captivating blend of realism and vibrant cartoon flair! This unique portrait f
 
 ## Example Output
 
-![Banana Bliss: A Split-Style Portrait 🍌✨](/images/3d/pg-1995579063923040295.jpg)
+![Banana Bliss: A Split-Style Portrait 🍌✨](/images/3d/pg-1995579063923040295.webp)

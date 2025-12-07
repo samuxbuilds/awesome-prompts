@@ -5,7 +5,7 @@ tags: ["realistic","vibrant","nano-banana-pro"]
 author: "@ShreyaYadav___"
 author_url: "https://twitter.com/ShreyaYadav___"
 source_url: "https://twitter.com/ShreyaYadav___/status/1996643066657259683"
-preview: "/images/portraits/pg-1996643066657259683.jpg"
+preview: "/images/portraits/pg-1996643066657259683.webp"
 ---
 
 Transform your cherished yet worn photos into stunning masterpieces! With hyper-realistic details and vibrant hues, every scratch and blur vanishes, revealing the beauty of the past.
@@ -20,4 +20,4 @@ Restore and enhance this damaged photo to a hyper-realistic, ultra-detailed imag
 
 ## Example Output
 
-![Revitalize Your Memories with AI Magic](/images/portraits/pg-1996643066657259683.jpg)
+![Revitalize Your Memories with AI Magic](/images/portraits/pg-1996643066657259683.webp)

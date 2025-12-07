@@ -5,7 +5,7 @@ tags: ["travel","light","nano-banana-pro"]
 author: "@ShreyaYadav___"
 author_url: "https://twitter.com/ShreyaYadav___"
 source_url: "https://twitter.com/ShreyaYadav___/status/1996542045217861748"
-preview: "/images/portraits/pg-1996542045217861748.jpg"
+preview: "/images/portraits/pg-1996542045217861748.webp"
 ---
 
 Against a backdrop of luxury cabin interiors, a flight attendant exudes sophistication. Her soft smile and stylish uniform capture the essence of travel's refined elegance.
@@ -52,4 +52,4 @@ Against a backdrop of luxury cabin interiors, a flight attendant exudes sophisti
 
 ## Example Output
 
-![Jet-Set Elegance: A Flight Attendant's Smile in the Sky](/images/portraits/pg-1996542045217861748.jpg)
+![Jet-Set Elegance: A Flight Attendant's Smile in the Sky](/images/portraits/pg-1996542045217861748.webp)

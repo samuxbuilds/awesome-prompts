@@ -5,7 +5,7 @@ tags: ["selfie","light","nano-banana-pro"]
 author: "@saniaspeaks_"
 author_url: "https://twitter.com/saniaspeaks_"
 source_url: "https://twitter.com/saniaspeaks_/status/1995090309923938365"
-preview: "/images/3d/pg-1995090309923938365.jpg"
+preview: "/images/3d/pg-1995090309923938365.webp"
 ---
 
 Golden hour magic captured! A confident young woman leans on a sleek car, snapping a selfie. The warm light dances through the trees, creating a dreamy backdrop that highlights her effortless style.
@@ -56,4 +56,4 @@ Golden hour magic captured! A confident young woman leans on a sleek car, snappi
 
 ## Example Output
 
-![Reflecting the Perfect Moment](/images/3d/pg-1995090309923938365.jpg)
+![Reflecting the Perfect Moment](/images/3d/pg-1995090309923938365.webp)

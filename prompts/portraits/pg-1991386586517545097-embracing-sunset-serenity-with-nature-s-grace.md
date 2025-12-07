@@ -5,7 +5,7 @@ tags: ["nature","light","nano-banana-pro"]
 author: "@ShreyaYadav___"
 author_url: "https://twitter.com/ShreyaYadav___"
 source_url: "https://twitter.com/ShreyaYadav___/status/1991386586517545097"
-preview: "/images/portraits/pg-1991386586517545097.jpg"
+preview: "/images/portraits/pg-1991386586517545097.webp"
 ---
 
 A tranquil moment unfolds as a model sits on a rustic fence, bathed in golden light. The gentle grazing horse and warm hues create a nostalgic atmosphere, evoking calm reflection.
@@ -37,4 +37,4 @@ A tranquil moment unfolds as a model sits on a rustic fence, bathed in golden li
 
 ## Example Output
 
-![Embracing Sunset Serenity with Nature's Grace](/images/portraits/pg-1991386586517545097.jpg)
+![Embracing Sunset Serenity with Nature's Grace](/images/portraits/pg-1991386586517545097.webp)

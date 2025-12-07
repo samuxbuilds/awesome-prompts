@@ -5,7 +5,7 @@ tags: ["nano-banana-pro"]
 author: "@BeanieBlossom"
 author_url: "https://twitter.com/BeanieBlossom"
 source_url: "https://twitter.com/BeanieBlossom/status/1992880952054603848"
-preview: "/images/creative/pg-1992880952054603848.jpg"
+preview: "/images/creative/pg-1992880952054603848.webp"
 ---
 
 Amidst tranquil whispers, a red-scarfed fox dances along a snow-kissed riverside path. Bare branches cradle the scene, painting a serene winter wonderland in soft hues.
@@ -20,4 +20,4 @@ A quiet riverside path dusted with the first snow of the season. Bare branches a
 
 ## Example Output
 
-![Whispers of Winter: A Fox's Journey](/images/creative/pg-1992880952054603848.jpg)
+![Whispers of Winter: A Fox's Journey](/images/creative/pg-1992880952054603848.webp)

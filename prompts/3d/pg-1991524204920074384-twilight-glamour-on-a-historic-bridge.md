@@ -5,7 +5,7 @@ tags: ["light","nano-banana-pro"]
 author: "@IqraSaifiii"
 author_url: "https://twitter.com/IqraSaifiii"
 source_url: "https://twitter.com/IqraSaifiii/status/1991524204920074384"
-preview: "/images/3d/pg-1991524204920074384.jpg"
+preview: "/images/3d/pg-1991524204920074384.webp"
 ---
 
 An enchanting scene unfolds as our model exudes elegance at dusk, framed by a shimmering cityscape. The warm glow of city lights dances on her striking silhouette, embracing the evening's allure.
@@ -48,4 +48,4 @@ An enchanting scene unfolds as our model exudes elegance at dusk, framed by a sh
 
 ## Example Output
 
-![Twilight Glamour on a Historic Bridge](/images/3d/pg-1991524204920074384.jpg)
+![Twilight Glamour on a Historic Bridge](/images/3d/pg-1991524204920074384.webp)

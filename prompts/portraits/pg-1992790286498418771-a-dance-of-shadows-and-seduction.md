@@ -5,7 +5,7 @@ tags: ["light","nano-banana-pro"]
 author: "@xmliisu"
 author_url: "https://twitter.com/xmliisu"
 source_url: "https://twitter.com/xmliisu/status/1992790286498418771"
-preview: "/images/portraits/pg-1992790286498418771.jpg"
+preview: "/images/portraits/pg-1992790286498418771.webp"
 ---
 
 In a dimly lit ballroom, elegance reigns as a confident beauty captivates. Her off-the-shoulder gown and lace gloves blend seduction with gothic allure, while flickering candlelight casts enchanting shadows.
@@ -81,4 +81,4 @@ In a dimly lit ballroom, elegance reigns as a confident beauty captivates. Her o
 
 ## Example Output
 
-![A Dance of Shadows and Seduction](/images/portraits/pg-1992790286498418771.jpg)
+![A Dance of Shadows and Seduction](/images/portraits/pg-1992790286498418771.webp)

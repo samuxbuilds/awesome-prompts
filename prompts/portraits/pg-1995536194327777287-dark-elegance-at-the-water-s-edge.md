@@ -5,7 +5,7 @@ tags: ["portrait","dark","nano-banana-pro"]
 author: "@YaseenK7212"
 author_url: "https://twitter.com/YaseenK7212"
 source_url: "https://twitter.com/YaseenK7212/status/1995536194327777287"
-preview: "/images/portraits/pg-1995536194327777287.jpg"
+preview: "/images/portraits/pg-1995536194327777287.webp"
 ---
 
 A hauntingly beautiful portrait unfolds by the misty lakeside, where the subject's gaze pierces through the somber grey. Black roses contrast against her pale skin and backless top, exuding gothic allure.
@@ -76,4 +76,4 @@ A hauntingly beautiful portrait unfolds by the misty lakeside, where the subject
 
 ## Example Output
 
-![Dark Elegance at the Water's Edge](/images/portraits/pg-1995536194327777287.jpg)
+![Dark Elegance at the Water's Edge](/images/portraits/pg-1995536194327777287.webp)

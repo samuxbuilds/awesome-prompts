@@ -5,7 +5,7 @@ tags: ["nano-banana-pro"]
 author: "@Harboris_27"
 author_url: "https://twitter.com/Harboris_27"
 source_url: "https://twitter.com/Harboris_27/status/1995331396504867012"
-preview: "/images/portraits/pg-1995331396504867012.jpg"
+preview: "/images/portraits/pg-1995331396504867012.webp"
 ---
 
 What if you could bend luck to your will? Here, a young man channels his inner magician, surrounded by a whirlwind of playing cards, all captured in stunning slow motion.
@@ -20,4 +20,4 @@ A young man with dark hair (keep the exact face and skin tone with sharp feature
 
 ## Example Output
 
-![Master of Chance: Card Magic in Motion](/images/portraits/pg-1995331396504867012.jpg)
+![Master of Chance: Card Magic in Motion](/images/portraits/pg-1995331396504867012.webp)

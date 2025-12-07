@@ -5,7 +5,7 @@ tags: ["modern","fashion","nano-banana-pro"]
 author: "@Taaruk_"
 author_url: "https://twitter.com/Taaruk_"
 source_url: "https://twitter.com/Taaruk_/status/1996108230532235710"
-preview: "/images/portraits/pg-1996108230532235710.jpg"
+preview: "/images/portraits/pg-1996108230532235710.webp"
 ---
 
 Behold the captivating elegance of a male model draped in a bold oversized sweatshirt. Set against a soft green backdrop, the futuristic vibes radiate confidence and style, creating a perfect blend of modern and editorial aesthetics.
@@ -70,4 +70,4 @@ Behold the captivating elegance of a male model draped in a bold oversized sweat
 
 ## Example Output
 
-![Future Chic: A Fashion Evolution in Soft Greens](/images/portraits/pg-1996108230532235710.jpg)
+![Future Chic: A Fashion Evolution in Soft Greens](/images/portraits/pg-1996108230532235710.webp)

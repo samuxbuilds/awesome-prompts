@@ -5,7 +5,7 @@ tags: ["art","dark","light","neon","vibrant","digital","nano-banana-pro"]
 author: "@dotey"
 author_url: "https://twitter.com/dotey"
 source_url: "https://twitter.com/dotey/status/1995633652139442373"
-preview: "/images/portraits/pg-1995633652139442373.jpg"
+preview: "/images/portraits/pg-1995633652139442373.webp"
 ---
 
 Picture this: a sleek, glowing acrylic card cradled in a hand, showcasing your social identity in vibrant neon hues. The dark, blurred backdrop highlights the stunning details of your profile, transforming it into a stunning digital artifact.
@@ -33,4 +33,4 @@ Displayed in this exact order:
 
 ## Example Output
 
-![Futuristic Vibes: Your Profile in a Cyber Glow](/images/portraits/pg-1995633652139442373.jpg)
+![Futuristic Vibes: Your Profile in a Cyber Glow](/images/portraits/pg-1995633652139442373.webp)

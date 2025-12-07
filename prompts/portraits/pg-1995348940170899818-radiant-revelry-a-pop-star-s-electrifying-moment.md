@@ -5,7 +5,7 @@ tags: ["art","light","nano-banana-pro"]
 author: "@minchoi"
 author_url: "https://twitter.com/minchoi"
 source_url: "https://twitter.com/minchoi/status/1995348940170899818"
-preview: "/images/portraits/pg-1995348940170899818.jpg"
+preview: "/images/portraits/pg-1995348940170899818.webp"
 ---
 
 Captured in a kaleidoscope of lights, our pop star dazzles with her shimmering bodysuit and fiery passion. Confetti cascades as her guitar strums the hearts of thousands, creating an unforgettable celebration.
@@ -20,4 +20,4 @@ A close-up, euphoric concert photograph taken from the front row captures a worl
 
 ## Example Output
 
-![Radiant Revelry: A Pop Star's Electrifying Moment](/images/portraits/pg-1995348940170899818.jpg)
+![Radiant Revelry: A Pop Star's Electrifying Moment](/images/portraits/pg-1995348940170899818.webp)

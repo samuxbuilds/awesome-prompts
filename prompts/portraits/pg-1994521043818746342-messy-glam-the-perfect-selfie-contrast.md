@@ -5,7 +5,7 @@ tags: ["selfie","nano-banana-pro"]
 author: "@IamEmily2050"
 author_url: "https://twitter.com/IamEmily2050"
 source_url: "https://twitter.com/IamEmily2050/status/1994521043818746342"
-preview: "/images/portraits/pg-1994521043818746342.jpg"
+preview: "/images/portraits/pg-1994521043818746342.webp"
 ---
 
 What a striking duel of chaos and beauty! A pop idol strikes a flawless pose amidst bedroom clutter, proving that glamour thrives even in disarray.
@@ -59,4 +59,4 @@ What a striking duel of chaos and beauty! A pop idol strikes a flawless pose ami
 
 ## Example Output
 
-![Messy Glam: The Perfect Selfie Contrast](/images/portraits/pg-1994521043818746342.jpg)
+![Messy Glam: The Perfect Selfie Contrast](/images/portraits/pg-1994521043818746342.webp)

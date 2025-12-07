@@ -5,7 +5,7 @@ tags: ["light","nano-banana-pro"]
 author: "@Sheldon056"
 author_url: "https://twitter.com/Sheldon056"
 source_url: "https://twitter.com/Sheldon056/status/1995874839244997070"
-preview: "/images/portraits/pg-1995874839244997070.jpg"
+preview: "/images/portraits/pg-1995874839244997070.webp"
 ---
 
 A rugged young man captivates with his confident gaze, sunlight illuminating his tousled hair and athletic jacket, striking a balance between strength and serenity.
@@ -63,4 +63,4 @@ A rugged young man captivates with his confident gaze, sunlight illuminating his
 
 ## Example Output
 
-![Bold Vibes Under a Clear Sky](/images/portraits/pg-1995874839244997070.jpg)
+![Bold Vibes Under a Clear Sky](/images/portraits/pg-1995874839244997070.webp)

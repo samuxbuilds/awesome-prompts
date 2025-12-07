@@ -5,7 +5,7 @@ tags: ["nano-banana-pro"]
 author: "@YaseenK7212"
 author_url: "https://twitter.com/YaseenK7212"
 source_url: "https://twitter.com/YaseenK7212/status/1991493635137831348"
-preview: "/images/portraits/pg-1991493635137831348.jpg"
+preview: "/images/portraits/pg-1991493635137831348.webp"
 ---
 
 Calm yet haunting, a man gazes back from the weathered pier as sunset ignites the waves. The deep blues and fiery oranges create a stunning, melancholic tableau.
@@ -38,4 +38,4 @@ A high-resolution 8K full-length portrait of an attractive man [reference face i
 
 ## Example Output
 
-![Glimmers of Reflection: A Moment by the Sea](/images/portraits/pg-1991493635137831348.jpg)
+![Glimmers of Reflection: A Moment by the Sea](/images/portraits/pg-1991493635137831348.webp)

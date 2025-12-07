@@ -5,7 +5,7 @@ tags: ["neon","nano-banana-pro"]
 author: "@chatgptpaglu"
 author_url: "https://twitter.com/chatgptpaglu"
 source_url: "https://twitter.com/chatgptpaglu/status/1992885627109470237"
-preview: "/images/portraits/pg-1992885627109470237.jpg"
+preview: "/images/portraits/pg-1992885627109470237.webp"
 ---
 
 Amidst a winter wonderland, she embodies a sharp retro-y2k aesthetic. Frost-kissed lashes and sequins sparkle under the city glow—this scene radiates cool elegance!
@@ -51,4 +51,4 @@ Amidst a winter wonderland, she embodies a sharp retro-y2k aesthetic. Frost-kiss
 
 ## Example Output
 
-![Chill Vibes: A Frosty Fusion of Neon and Retro](/images/portraits/pg-1992885627109470237.jpg)
+![Chill Vibes: A Frosty Fusion of Neon and Retro](/images/portraits/pg-1992885627109470237.webp)

@@ -5,7 +5,7 @@ tags: ["nano-banana-pro"]
 author: "@ShreyaYadav___"
 author_url: "https://twitter.com/ShreyaYadav___"
 source_url: "https://twitter.com/ShreyaYadav___/status/1995553234593919284"
-preview: "/images/portraits/pg-1995553234593919284.jpg"
+preview: "/images/portraits/pg-1995553234593919284.webp"
 ---
 
 In a dimly lit dojo, a fierce warrior embodies strength. Her glowing katana illuminates the shadows, reflecting her determination and skill. Can you feel the intensity?
@@ -55,4 +55,4 @@ In a dimly lit dojo, a fierce warrior embodies strength. Her glowing katana illu
 
 ## Example Output
 
-![Katana's Glow: A Samurai's Fiery Resolve](/images/portraits/pg-1995553234593919284.jpg)
+![Katana's Glow: A Samurai's Fiery Resolve](/images/portraits/pg-1995553234593919284.webp)

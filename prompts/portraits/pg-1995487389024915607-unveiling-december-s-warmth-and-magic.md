@@ -5,7 +5,7 @@ tags: ["portrait","art","light","nano-banana-pro"]
 author: "@MrDasOnX"
 author_url: "https://twitter.com/MrDasOnX"
 source_url: "https://twitter.com/MrDasOnX/status/1995487389024915607"
-preview: "/images/portraits/pg-1995487389024915607.jpg"
+preview: "/images/portraits/pg-1995487389024915607.webp"
 ---
 
 Can you feel the cozy embrace of December? With twinkling lights and a heartwarming smile, this portrait perfectly captures the essence of festive cheer!
@@ -58,4 +58,4 @@ Can you feel the cozy embrace of December? With twinkling lights and a heartwarm
 
 ## Example Output
 
-![Unveiling December's Warmth and Magic ✨](/images/portraits/pg-1995487389024915607.jpg)
+![Unveiling December's Warmth and Magic ✨](/images/portraits/pg-1995487389024915607.webp)

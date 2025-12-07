@@ -5,7 +5,7 @@ tags: ["art","fantasy","nano-banana-pro"]
 author: "@_MehdiSharifi_"
 author_url: "https://twitter.com/_MehdiSharifi_"
 source_url: "https://twitter.com/_MehdiSharifi_/status/1996969905678143983"
-preview: "/images/3d/pg-1996969905678143983.jpg"
+preview: "/images/3d/pg-1996969905678143983.webp"
 ---
 
 A serene slumber transforms into an underwater escapade! This dreamy artwork beautifully merges reality with imaginative doodles, whisking viewers away into a playful deep-sea adventure.
@@ -131,4 +131,4 @@ A serene slumber transforms into an underwater escapade! This dreamy artwork bea
 
 ## Example Output
 
-![Dreaming Deep: A Whimsical Underwater Fantasy](/images/3d/pg-1996969905678143983.jpg)
+![Dreaming Deep: A Whimsical Underwater Fantasy](/images/3d/pg-1996969905678143983.webp)

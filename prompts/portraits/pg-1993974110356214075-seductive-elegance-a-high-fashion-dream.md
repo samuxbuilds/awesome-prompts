@@ -5,7 +5,7 @@ tags: ["art","fashion","nano-banana-pro"]
 author: "@Just_sharon7"
 author_url: "https://twitter.com/Just_sharon7"
 source_url: "https://twitter.com/Just_sharon7/status/1993974110356214075"
-preview: "/images/portraits/pg-1993974110356214075.jpg"
+preview: "/images/portraits/pg-1993974110356214075.webp"
 ---
 
 Lush hues of a deep wine-red dress embrace the model's flawless skin, while subtle floral tattoos peek through intricate cutouts. Each glance captivates, merging art with allure.
@@ -62,4 +62,4 @@ Lush hues of a deep wine-red dress embrace the model's flawless skin, while subt
 
 ## Example Output
 
-![Seductive Elegance: A High-Fashion Dream](/images/portraits/pg-1993974110356214075.jpg)
+![Seductive Elegance: A High-Fashion Dream](/images/portraits/pg-1993974110356214075.webp)

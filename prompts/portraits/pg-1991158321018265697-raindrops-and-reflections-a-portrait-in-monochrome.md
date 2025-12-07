@@ -5,7 +5,7 @@ tags: ["portrait","nano-banana-pro"]
 author: "@ShreyaYadav___"
 author_url: "https://twitter.com/ShreyaYadav___"
 source_url: "https://twitter.com/ShreyaYadav___/status/1991158321018265697"
-preview: "/images/portraits/pg-1991158321018265697.jpg"
+preview: "/images/portraits/pg-1991158321018265697.webp"
 ---
 
 In a captivating black-and-white portrait, a woman stands serenely in the rain, her wet hair framing a face of calm contemplation, evoking a powerful introspection amidst the storm.
@@ -46,4 +46,4 @@ In a captivating black-and-white portrait, a woman stands serenely in the rain, 
 
 ## Example Output
 
-![Raindrops and Reflections: A Portrait in Monochrome](/images/portraits/pg-1991158321018265697.jpg)
+![Raindrops and Reflections: A Portrait in Monochrome](/images/portraits/pg-1991158321018265697.webp)

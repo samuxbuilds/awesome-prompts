@@ -5,7 +5,7 @@ tags: ["nano-banana-pro"]
 author: "@IamEmily2050"
 author_url: "https://twitter.com/IamEmily2050"
 source_url: "https://twitter.com/IamEmily2050/status/1994980573102968940"
-preview: "/images/portraits/pg-1994980573102968940.jpg"
+preview: "/images/portraits/pg-1994980573102968940.webp"
 ---
 
 Did you remember to stretch today? A young woman strikes a perfect standing split amidst her cozy, cluttered bedroom, capturing authenticity in everyday life.
@@ -62,4 +62,4 @@ Did you remember to stretch today? A young woman strikes a perfect standing spli
 
 ## Example Output
 
-![Stretching in Chaos: A Mirror Moment](/images/portraits/pg-1994980573102968940.jpg)
+![Stretching in Chaos: A Mirror Moment](/images/portraits/pg-1994980573102968940.webp)

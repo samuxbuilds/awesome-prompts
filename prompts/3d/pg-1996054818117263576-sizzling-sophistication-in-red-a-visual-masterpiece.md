@@ -5,7 +5,7 @@ tags: ["portrait","fashion","vibrant","nano-banana-pro"]
 author: "@YaseenK7212"
 author_url: "https://twitter.com/YaseenK7212"
 source_url: "https://twitter.com/YaseenK7212/status/1996054818117263576"
-preview: "/images/3d/pg-1996054818117263576.jpg"
+preview: "/images/3d/pg-1996054818117263576.webp"
 ---
 
 Capturing elegance and allure, this stunning portrait features a woman in a vibrant red mini-dress, perfectly blending chic fashion with irresistible charm.
@@ -79,7 +79,7 @@ Capturing elegance and allure, this stunning portrait features a woman in a vibr
   "image_guidance_settings": {
     "notes": "User requires high fidelity to source image facial features and hair, with modified body proportions.",
     "input_image": {
-      "source_path": "./user_uploads/reference_photo.jpg",
+      "source_path": "./user_uploads/reference_photo.webp",
       "usage_type": "control_net"
     },
     "control_net_units": [
@@ -122,4 +122,4 @@ Capturing elegance and allure, this stunning portrait features a woman in a vibr
 
 ## Example Output
 
-![Sizzling Sophistication in Red: A Visual Masterpiece](/images/3d/pg-1996054818117263576.jpg)
+![Sizzling Sophistication in Red: A Visual Masterpiece](/images/3d/pg-1996054818117263576.webp)

@@ -5,7 +5,7 @@ tags: ["fashion","light","nano-banana-pro"]
 author: "@Just_sharon7"
 author_url: "https://twitter.com/Just_sharon7"
 source_url: "https://twitter.com/Just_sharon7/status/1995457964967178679"
-preview: "/images/portraits/pg-1995457964967178679.jpg"
+preview: "/images/portraits/pg-1995457964967178679.webp"
 ---
 
 Bathed in warm light, a striking woman in a red dress reclines gracefully on a grand staircase, blending luxury and style in a captivating scene of opulence.
@@ -43,4 +43,4 @@ Bathed in warm light, a striking woman in a red dress reclines gracefully on a g
 
 ## Example Output
 
-![Elegance on Every Step: A Stately Fashion Moment](/images/portraits/pg-1995457964967178679.jpg)
+![Elegance on Every Step: A Stately Fashion Moment](/images/portraits/pg-1995457964967178679.webp)

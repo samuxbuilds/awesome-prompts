@@ -5,7 +5,7 @@ tags: ["nano-banana-pro"]
 author: "@MingleeJ"
 author_url: "https://twitter.com/MingleeJ"
 source_url: "https://twitter.com/MingleeJ/status/1992057312622874857"
-preview: "/images/posters/pg-1992057312622874857.jpg"
+preview: "/images/posters/pg-1992057312622874857.webp"
 ---
 
 Behold a stunning grid of iconic characters from 'Water Margin', each meticulously crafted in traditional Chinese fine brushwork. Names elegantly inscribed, this visual marvel celebrates rich cultural heritage!
@@ -20,4 +20,4 @@ Behold a stunning grid of iconic characters from 'Water Margin', each meticulous
 
 ## Example Output
 
-![Cultural Tapestry: The Heroes of Water Margin in Intricate Detail](/images/posters/pg-1992057312622874857.jpg)
+![Cultural Tapestry: The Heroes of Water Margin in Intricate Detail](/images/posters/pg-1992057312622874857.webp)

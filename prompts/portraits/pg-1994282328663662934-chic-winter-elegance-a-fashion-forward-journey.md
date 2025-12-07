@@ -5,7 +5,7 @@ tags: ["nature","fashion","nano-banana-pro"]
 author: "@xmliisu"
 author_url: "https://twitter.com/xmliisu"
 source_url: "https://twitter.com/xmliisu/status/1994282328663662934"
-preview: "/images/portraits/pg-1994282328663662934.jpg"
+preview: "/images/portraits/pg-1994282328663662934.webp"
 ---
 
 A breathtaking fusion of fashion and nature unfolds—an ethereal model draped in luxurious textures, harmonizing with a majestic horse against a wintry backdrop. The scene breathes sophistication and intrigue.
@@ -61,4 +61,4 @@ A breathtaking fusion of fashion and nature unfolds—an ethereal model draped i
 
 ## Example Output
 
-![Chic Winter Elegance: A Fashion-Forward Journey](/images/portraits/pg-1994282328663662934.jpg)
+![Chic Winter Elegance: A Fashion-Forward Journey](/images/portraits/pg-1994282328663662934.webp)

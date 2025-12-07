@@ -5,7 +5,7 @@ tags: ["nano-banana-pro"]
 author: "@YaseenK7212"
 author_url: "https://twitter.com/YaseenK7212"
 source_url: "https://twitter.com/YaseenK7212/status/1992997424441233425"
-preview: "/images/portraits/pg-1992997424441233425.jpg"
+preview: "/images/portraits/pg-1992997424441233425.webp"
 ---
 
 Wrapped in luxurious crimson satin pajamas, she finds warmth in her fluffy teddy bear. The soft glow of the bedside lamp creates a romantic, cozy atmosphere, perfect for a peaceful night in.
@@ -68,4 +68,4 @@ Wrapped in luxurious crimson satin pajamas, she finds warmth in her fluffy teddy
 
 ## Example Output
 
-![A Cozy Night with a Fluffy Friend](/images/portraits/pg-1992997424441233425.jpg)
+![A Cozy Night with a Fluffy Friend](/images/portraits/pg-1992997424441233425.webp)

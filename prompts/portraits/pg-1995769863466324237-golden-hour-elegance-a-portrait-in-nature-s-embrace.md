@@ -5,7 +5,7 @@ tags: ["portrait","nature","light","nano-banana-pro"]
 author: "@ShreyaYadav___"
 author_url: "https://twitter.com/ShreyaYadav___"
 source_url: "https://twitter.com/ShreyaYadav___/status/1995769863466324237"
-preview: "/images/portraits/pg-1995769863466324237.jpg"
+preview: "/images/portraits/pg-1995769863466324237.webp"
 ---
 
 Bathed in warm sunlight, a young woman's radiant smile and floral dress dance in harmony with the lush forest backdrop, capturing a moment of pure beauty.
@@ -21,4 +21,4 @@ Signature: Shreya Yadav
 
 ## Example Output
 
-![Golden Hour Elegance: A Portrait in Nature's Embrace](/images/portraits/pg-1995769863466324237.jpg)
+![Golden Hour Elegance: A Portrait in Nature's Embrace](/images/portraits/pg-1995769863466324237.webp)

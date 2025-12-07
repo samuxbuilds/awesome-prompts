@@ -5,7 +5,7 @@ tags: ["nature","vibrant","nano-banana-pro"]
 author: "@Just_sharon7"
 author_url: "https://twitter.com/Just_sharon7"
 source_url: "https://twitter.com/Just_sharon7/status/1993865254217142442"
-preview: "/images/portraits/pg-1993865254217142442.jpg"
+preview: "/images/portraits/pg-1993865254217142442.webp"
 ---
 
 Bask in the sun as waves crash below! A young woman lounges in a floral mini dress, merging with nature's vibrant hues on the rocky edge.
@@ -61,4 +61,4 @@ Bask in the sun as waves crash below! A young woman lounges in a floral mini dre
 
 ## Example Output
 
-![Mermaid Vibes on the Cliffside](/images/portraits/pg-1993865254217142442.jpg)
+![Mermaid Vibes on the Cliffside](/images/portraits/pg-1993865254217142442.webp)

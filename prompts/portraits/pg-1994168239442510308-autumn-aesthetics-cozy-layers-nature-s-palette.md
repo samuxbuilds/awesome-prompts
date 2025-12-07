@@ -5,7 +5,7 @@ tags: ["nature","fashion","vibrant","nano-banana-pro"]
 author: "@_MehdiSharifi_"
 author_url: "https://twitter.com/_MehdiSharifi_"
 source_url: "https://twitter.com/_MehdiSharifi_/status/1994168239442510308"
-preview: "/images/portraits/pg-1994168239442510308.jpg"
+preview: "/images/portraits/pg-1994168239442510308.webp"
 ---
 
 Sun-kissed moments in a vibrant autumn park! This stylish young woman embodies fall warmth, wrapped in layers of cozy fashion amidst a backdrop of golden leaves. 🍂
@@ -72,4 +72,4 @@ Sun-kissed moments in a vibrant autumn park! This stylish young woman embodies f
 
 ## Example Output
 
-![Autumn Aesthetics: Cozy Layers & Nature's Palette](/images/portraits/pg-1994168239442510308.jpg)
+![Autumn Aesthetics: Cozy Layers & Nature's Palette](/images/portraits/pg-1994168239442510308.webp)

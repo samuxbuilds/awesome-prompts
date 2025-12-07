@@ -5,7 +5,7 @@ tags: ["vibrant","nano-banana-pro"]
 author: "@godofprompt"
 author_url: "https://twitter.com/godofprompt"
 source_url: "https://twitter.com/godofprompt/status/1994226363692171267"
-preview: "/images/portraits/pg-1994226363692171267.jpg"
+preview: "/images/portraits/pg-1994226363692171267.webp"
 ---
 
 A vibrant gym moment unfolds as this young woman radiates success. With a confident smile, sweat glistening on her dewy skin, she embodies the essence of hard work and determination. Surrounding her, the energetic setting features motivational murals and scattered equipment, enhancing the inspiring atmosphere.
@@ -90,4 +90,4 @@ A vibrant gym moment unfolds as this young woman radiates success. With a confid
 
 ## Example Output
 
-![Empowered Vibes: A Post-Workout Glow](/images/portraits/pg-1994226363692171267.jpg)
+![Empowered Vibes: A Post-Workout Glow](/images/portraits/pg-1994226363692171267.webp)

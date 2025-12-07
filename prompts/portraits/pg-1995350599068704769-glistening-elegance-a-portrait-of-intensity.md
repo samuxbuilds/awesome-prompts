@@ -5,7 +5,7 @@ tags: ["portrait","dark","nano-banana-pro"]
 author: "@SimplyAnnisa"
 author_url: "https://twitter.com/SimplyAnnisa"
 source_url: "https://twitter.com/SimplyAnnisa/status/1995350599068704769"
-preview: "/images/portraits/pg-1995350599068704769.jpg"
+preview: "/images/portraits/pg-1995350599068704769.webp"
 ---
 
 Radiating raw beauty, this close-up captures a young woman with dark, wet hair clinging to her radiant skin.
@@ -20,4 +20,4 @@ xtreme wet close-up portrait. Young woman's face in profile (use uploaded pictur
 
 ## Example Output
 
-![Glistening Elegance: A Portrait of Intensity](/images/portraits/pg-1995350599068704769.jpg)
+![Glistening Elegance: A Portrait of Intensity](/images/portraits/pg-1995350599068704769.webp)

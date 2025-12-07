@@ -5,7 +5,7 @@ tags: ["art","fashion","nano-banana-pro"]
 author: "@ZaraIrahh"
 author_url: "https://twitter.com/ZaraIrahh"
 source_url: "https://twitter.com/ZaraIrahh/status/1993972774667473328"
-preview: "/images/3d/pg-1993972774667473328.jpg"
+preview: "/images/3d/pg-1993972774667473328.webp"
 ---
 
 Elegance meets power! This striking woman in a bold jumpsuit radiates confidence against a sleek studio backdrop, showcasing high-fashion art at its finest.
@@ -76,4 +76,4 @@ Elegance meets power! This striking woman in a bold jumpsuit radiates confidence
 
 ## Example Output
 
-![Unveiling Confidence in Couture: Gemini Nano Banana Pro](/images/3d/pg-1993972774667473328.jpg)
+![Unveiling Confidence in Couture: Gemini Nano Banana Pro](/images/3d/pg-1993972774667473328.webp)

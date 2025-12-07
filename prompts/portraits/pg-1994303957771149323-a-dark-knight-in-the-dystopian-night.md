@@ -5,7 +5,7 @@ tags: ["dark","nano-banana-pro"]
 author: "@lexx_aura"
 author_url: "https://twitter.com/lexx_aura"
 source_url: "https://twitter.com/lexx_aura/status/1994303957771149323"
-preview: "/images/portraits/pg-1994303957771149323.jpg"
+preview: "/images/portraits/pg-1994303957771149323.webp"
 ---
 
 An anti-hero emerges from the shadows, clad in a dark bespoke suit with wing textures, ready to conquer a rain-soaked cityscape. The muscle car roars under a fiery portal, embodying raw power and danger.
@@ -64,4 +64,4 @@ An anti-hero emerges from the shadows, clad in a dark bespoke suit with wing tex
 
 ## Example Output
 
-![A Dark Knight in the Dystopian Night](/images/portraits/pg-1994303957771149323.jpg)
+![A Dark Knight in the Dystopian Night](/images/portraits/pg-1994303957771149323.webp)

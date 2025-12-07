@@ -5,7 +5,7 @@ tags: ["portrait","nano-banana-pro"]
 author: "@ShreyaYadav___"
 author_url: "https://twitter.com/ShreyaYadav___"
 source_url: "https://twitter.com/ShreyaYadav___/status/1993237880928715057"
-preview: "/images/portraits/pg-1993237880928715057.jpg"
+preview: "/images/portraits/pg-1993237880928715057.webp"
 ---
 
 Can one face tell the tale of a century and a half? This stunning grid showcases the transformative beauty of aging, revealing each unique chapter of life.
@@ -133,4 +133,4 @@ Can one face tell the tale of a century and a half? This stunning grid showcases
 
 ## Example Output
 
-![A Journey Through Time: 151 Years in 16 Portraits](/images/portraits/pg-1993237880928715057.jpg)
+![A Journey Through Time: 151 Years in 16 Portraits](/images/portraits/pg-1993237880928715057.webp)

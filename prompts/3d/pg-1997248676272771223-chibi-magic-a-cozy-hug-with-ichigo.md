@@ -5,7 +5,7 @@ tags: ["3d","chibi","art","nano-banana-pro"]
 author: "@ShreyaYadav___"
 author_url: "https://twitter.com/ShreyaYadav___"
 source_url: "https://twitter.com/ShreyaYadav___/status/1997248676272771223"
-preview: "/images/3d/pg-1997248676272771223.jpg"
+preview: "/images/3d/pg-1997248676272771223.webp"
 ---
 
 Smiles abound in this heartwarming 3D chibi scene! Our character, laughing joyfully while embracing Ichigo Kurosaki, bursts with charm against a cozy amber-hued backdrop.
@@ -51,4 +51,4 @@ Smiles abound in this heartwarming 3D chibi scene! Our character, laughing joyfu
 
 ## Example Output
 
-![Chibi Magic: A Cozy Hug with Ichigo!](/images/3d/pg-1997248676272771223.jpg)
+![Chibi Magic: A Cozy Hug with Ichigo!](/images/3d/pg-1997248676272771223.webp)

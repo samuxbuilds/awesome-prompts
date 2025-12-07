@@ -5,7 +5,7 @@ tags: ["selfie","nano-banana-pro"]
 author: "@ZaraIrahh"
 author_url: "https://twitter.com/ZaraIrahh"
 source_url: "https://twitter.com/ZaraIrahh/status/1993910890681520198"
-preview: "/images/portraits/pg-1993910890681520198.jpg"
+preview: "/images/portraits/pg-1993910890681520198.webp"
 ---
 
 Cozy up with this playful selfie! A sunlit moment captures a relaxed spirit, adorned in soft beige shorts and a Powerpuff girls tee, radiating warmth and joy.
@@ -75,4 +75,4 @@ Cozy up with this playful selfie! A sunlit moment captures a relaxed spirit, ado
 
 ## Example Output
 
-![Banana Vibes: Chill Selife in Dreamy Comfort](/images/portraits/pg-1993910890681520198.jpg)
+![Banana Vibes: Chill Selife in Dreamy Comfort](/images/portraits/pg-1993910890681520198.webp)

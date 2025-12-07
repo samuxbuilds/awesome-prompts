@@ -3,7 +3,7 @@ title: "Recursive Visuals"
 category: creative
 tags: ["creative", "ai-art"]
 author: "@nanobanana-pro"
-preview: "/images/creative/nb-recursive-visuals.png"
+preview: "/images/creative/nb-recursive-visuals.webp"
 ---
 
 *Demonstrates the model's ability to handle infinite loop logic (Droste effect).*
@@ -14,4 +14,4 @@ recursive image of an orange cat sitting in an office chair holding up an iPad. 
 - [Original](https://x.com/venturetwins/status/1993174445515772086)
 
 ## Example Output
-![Recursive Visuals](/images/creative/nb-recursive-visuals.png)
+![Recursive Visuals](/images/creative/nb-recursive-visuals.webp)

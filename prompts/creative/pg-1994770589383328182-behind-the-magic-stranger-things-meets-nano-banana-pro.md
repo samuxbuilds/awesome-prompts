@@ -5,7 +5,7 @@ tags: ["light","nano-banana-pro"]
 author: "@Ror_Fly"
 author_url: "https://twitter.com/Ror_Fly"
 source_url: "https://twitter.com/Ror_Fly/status/1994770589383328182"
-preview: "/images/creative/pg-1994770589383328182.jpg"
+preview: "/images/creative/pg-1994770589383328182.webp"
 ---
 
 Lights, cameras, action! Sneak a peek at the bustling set where creativity collides with technology, revealing the unseen forces that bring your favorite scenes to life.
@@ -20,4 +20,4 @@ Show the behind the scenes view of this movie set of this exact scene. Keeping t
 
 ## Example Output
 
-![Behind the Magic: Stranger Things Meets Nano Banana Pro](/images/creative/pg-1994770589383328182.jpg)
+![Behind the Magic: Stranger Things Meets Nano Banana Pro](/images/creative/pg-1994770589383328182.webp)

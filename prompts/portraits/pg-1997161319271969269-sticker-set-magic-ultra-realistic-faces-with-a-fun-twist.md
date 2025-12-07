@@ -5,7 +5,7 @@ tags: ["realistic","art","nano-banana-pro"]
 author: "@ShreyaYadav___"
 author_url: "https://twitter.com/ShreyaYadav___"
 source_url: "https://twitter.com/ShreyaYadav___/status/1997161319271969269"
-preview: "/images/portraits/pg-1997161319271969269.jpg"
+preview: "/images/portraits/pg-1997161319271969269.webp"
 ---
 
 Crafting stickers that celebrate real beauty! This set captures every exquisite detail of the woman's features, from her lively eyes to her voluminous hair, adorned with playful elements like rainbows and hearts.
@@ -40,4 +40,4 @@ Emphasis: Reiterate 'maintain 100% of the original face features from the provid
 
 ## Example Output
 
-![Sticker Set Magic: Ultra-Realistic Faces with a Fun Twist!](/images/portraits/pg-1997161319271969269.jpg)
+![Sticker Set Magic: Ultra-Realistic Faces with a Fun Twist!](/images/portraits/pg-1997161319271969269.webp)

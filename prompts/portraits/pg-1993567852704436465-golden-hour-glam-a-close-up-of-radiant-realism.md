@@ -5,7 +5,7 @@ tags: ["portrait","nano-banana-pro"]
 author: "@miilesus"
 author_url: "https://twitter.com/miilesus"
 source_url: "https://twitter.com/miilesus/status/1993567852704436465"
-preview: "/images/portraits/pg-1993567852704436465.jpg"
+preview: "/images/portraits/pg-1993567852704436465.webp"
 ---
 
 Stunningly lifelike, this portrait captures every detail of wet skin and lush textures. The golden glow intensifies a captivating gaze and beautifully defined features!
@@ -59,4 +59,4 @@ Stunningly lifelike, this portrait captures every detail of wet skin and lush te
 
 ## Example Output
 
-![Golden Hour Glam: A Close-Up of Radiant Realism](/images/portraits/pg-1993567852704436465.jpg)
+![Golden Hour Glam: A Close-Up of Radiant Realism](/images/portraits/pg-1993567852704436465.webp)

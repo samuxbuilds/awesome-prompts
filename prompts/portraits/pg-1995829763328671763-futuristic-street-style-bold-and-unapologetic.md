@@ -5,7 +5,7 @@ tags: ["urban","neon","nano-banana-pro"]
 author: "@Strength04_X"
 author_url: "https://twitter.com/Strength04_X"
 source_url: "https://twitter.com/Strength04_X/status/1995829763328671763"
-preview: "/images/portraits/pg-1995829763328671763.jpg"
+preview: "/images/portraits/pg-1995829763328671763.webp"
 ---
 
 A daring fusion of oversized comfort and urban edge! The 'MindSpark' tee pops against a striking neon platform, embodying a confident blend of style.
@@ -64,4 +64,4 @@ A daring fusion of oversized comfort and urban edge! The 'MindSpark' tee pops ag
 
 ## Example Output
 
-![Futuristic Street Style: Bold and Unapologetic](/images/portraits/pg-1995829763328671763.jpg)
+![Futuristic Street Style: Bold and Unapologetic](/images/portraits/pg-1995829763328671763.webp)

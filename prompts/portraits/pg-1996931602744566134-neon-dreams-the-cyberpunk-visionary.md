@@ -5,7 +5,7 @@ tags: ["modern","neon","vibrant","nano-banana-pro"]
 author: "@rovvmut_"
 author_url: "https://twitter.com/rovvmut_"
 source_url: "https://twitter.com/rovvmut_/status/1996931602744566134"
-preview: "/images/portraits/pg-1996931602744566134.jpg"
+preview: "/images/portraits/pg-1996931602744566134.webp"
 ---
 
 Bold and daring, a young man gazes upward, draped in vibrant hues of teal and magenta. His pink sunglasses reflect the electric pulse of a neon-lit world, embodying modern confidence.
@@ -20,4 +20,4 @@ Create a bold, cinematic portrait 8K ultra HD high details resolution of a confi
 
 ## Example Output
 
-![Neon Dreams: The Cyberpunk Visionary](/images/portraits/pg-1996931602744566134.jpg)
+![Neon Dreams: The Cyberpunk Visionary](/images/portraits/pg-1996931602744566134.webp)

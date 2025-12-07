@@ -5,7 +5,7 @@ tags: ["selfie","digital","nano-banana-pro"]
 author: "@johnnprofits"
 author_url: "https://twitter.com/johnnprofits"
 source_url: "https://twitter.com/johnnprofits/status/1997297474856464790"
-preview: "/images/portraits/pg-1997297474856464790.jpg"
+preview: "/images/portraits/pg-1997297474856464790.webp"
 ---
 
 Caught in a moment of serene beauty, this stunning AI-generated selfie challenges perceptions. A young woman's calm gaze against a cozy backdrop invites intrigue and admiration.
@@ -20,4 +20,4 @@ A candid high-angle selfie photograph of a young woman with long dark hair lying
 
 ## Example Output
 
-![AI Magic: When Reality Blurs with Digital Dreams](/images/portraits/pg-1997297474856464790.jpg)
+![AI Magic: When Reality Blurs with Digital Dreams](/images/portraits/pg-1997297474856464790.webp)

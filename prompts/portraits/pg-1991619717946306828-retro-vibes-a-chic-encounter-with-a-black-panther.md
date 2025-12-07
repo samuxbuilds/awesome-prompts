@@ -5,7 +5,7 @@ tags: ["pastel","vibrant","nano-banana-pro"]
 author: "@javilopen"
 author_url: "https://twitter.com/javilopen"
 source_url: "https://twitter.com/javilopen/status/1991619717946306828"
-preview: "/images/portraits/pg-1991619717946306828.jpg"
+preview: "/images/portraits/pg-1991619717946306828.webp"
 ---
 
 In a charming retro diner, a stylish blonde in pastel hues captures the essence of 80s Miami. Her tropical soda and feline companion add an unexpected twist to this vibrant scene!
@@ -20,4 +20,4 @@ Cinematic photograph of a stylish young blonde woman in a bikini, with a black p
 
 ## Example Output
 
-![Retro Vibes: A Chic Encounter with a Black Panther](/images/portraits/pg-1991619717946306828.jpg)
+![Retro Vibes: A Chic Encounter with a Black Panther](/images/portraits/pg-1991619717946306828.webp)

@@ -5,7 +5,7 @@ tags: ["light","neon","vibrant","nano-banana-pro"]
 author: "@Just_sharon7"
 author_url: "https://twitter.com/Just_sharon7"
 source_url: "https://twitter.com/Just_sharon7/status/1994337846040342654"
-preview: "/images/3d/pg-1994337846040342654.jpg"
+preview: "/images/3d/pg-1994337846040342654.webp"
 ---
 
 Beneath the pulsating lights, confidence radiates! A young woman flaunts her edgy style—an off-the-shoulder top paired with distressed shorts, all set against a vibrant backdrop of dancing shadows and neon hues.
@@ -97,4 +97,4 @@ Beneath the pulsating lights, confidence radiates! A young woman flaunts her edg
 
 ## Example Output
 
-![Chic Vibes in Neon Nights](/images/3d/pg-1994337846040342654.jpg)
+![Chic Vibes in Neon Nights](/images/3d/pg-1994337846040342654.webp)

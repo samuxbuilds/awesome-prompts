@@ -5,7 +5,7 @@ tags: ["digital","nano-banana-pro"]
 author: "@SimplyAnnisa"
 author_url: "https://twitter.com/SimplyAnnisa"
 source_url: "https://twitter.com/SimplyAnnisa/status/1996956528205799871"
-preview: "/images/portraits/pg-1996956528205799871.jpg"
+preview: "/images/portraits/pg-1996956528205799871.webp"
 ---
 
 Who needs perfection when raw nostalgia shines through? This close-up reveals a young woman's natural beauty, illuminated by the sharp flash of a compact camera. The soft strands of her hair and the cluttered kitchen backdrop tell a story of candid memories in a digital era.
@@ -36,4 +36,4 @@ Color grading: nostalgic digital-camera tones, strong flash contrast, subtle dis
 
 ## Example Output
 
-![A Flash from the Past: Candid Moments Captured](/images/portraits/pg-1996956528205799871.jpg)
+![A Flash from the Past: Candid Moments Captured](/images/portraits/pg-1996956528205799871.webp)

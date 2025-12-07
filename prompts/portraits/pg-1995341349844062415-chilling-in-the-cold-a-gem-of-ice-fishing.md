@@ -5,7 +5,7 @@ tags: ["vibrant","nano-banana-pro"]
 author: "@oggii_0"
 author_url: "https://twitter.com/oggii_0"
 source_url: "https://twitter.com/oggii_0/status/1995341349844062415"
-preview: "/images/portraits/pg-1995341349844062415.jpg"
+preview: "/images/portraits/pg-1995341349844062415.webp"
 ---
 
 Beneath a heavy, cloud-laden sky, a bespectacled man in vibrant orange winter gear surveys a frozen pond, blending research with the thrill of ice fishing.
@@ -89,4 +89,4 @@ Beneath a heavy, cloud-laden sky, a bespectacled man in vibrant orange winter ge
 
 ## Example Output
 
-![Chilling in the Cold: A Gem of Ice Fishing](/images/portraits/pg-1995341349844062415.jpg)
+![Chilling in the Cold: A Gem of Ice Fishing](/images/portraits/pg-1995341349844062415.webp)

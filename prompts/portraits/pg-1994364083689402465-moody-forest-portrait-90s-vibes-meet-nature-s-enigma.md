@@ -5,7 +5,7 @@ tags: ["portrait","nature","nano-banana-pro"]
 author: "@kingofdairyque"
 author_url: "https://twitter.com/kingofdairyque"
 source_url: "https://twitter.com/kingofdairyque/status/1994364083689402465"
-preview: "/images/portraits/pg-1994364083689402465.jpg"
+preview: "/images/portraits/pg-1994364083689402465.webp"
 ---
 
 Under a canopy of shadows, a 23-year-old captures the essence of solitude. Her oversized flannel contrasts with the cool greens, evoking nostalgia in every grainy pixel.
@@ -20,4 +20,4 @@ Soft-lit but dark 90s portrait, Dutch angle, a 23-year-old woman standing under 
 
 ## Example Output
 
-![Moody Forest Portrait: 90s Vibes Meet Nature's Enigma](/images/portraits/pg-1994364083689402465.jpg)
+![Moody Forest Portrait: 90s Vibes Meet Nature's Enigma](/images/portraits/pg-1994364083689402465.webp)

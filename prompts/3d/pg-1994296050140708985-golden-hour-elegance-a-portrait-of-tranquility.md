@@ -5,7 +5,7 @@ tags: ["portrait","light","nano-banana-pro"]
 author: "@rovvmut_"
 author_url: "https://twitter.com/rovvmut_"
 source_url: "https://twitter.com/rovvmut_/status/1994296050140708985"
-preview: "/images/3d/pg-1994296050140708985.jpg"
+preview: "/images/3d/pg-1994296050140708985.webp"
 ---
 
 Bathed in warm sunset light, a man gazes upward with a serene smile, dressed in a stylish black coat and textured scarf. The rooftop setting enhances the moment's tranquility.
@@ -55,4 +55,4 @@ Bathed in warm sunset light, a man gazes upward with a serene smile, dressed in 
 
 ## Example Output
 
-![Golden Hour Elegance: A Portrait of Tranquility](/images/3d/pg-1994296050140708985.jpg)
+![Golden Hour Elegance: A Portrait of Tranquility](/images/3d/pg-1994296050140708985.webp)

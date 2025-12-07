@@ -5,7 +5,7 @@ tags: ["light","nano-banana-pro"]
 author: "@xmliisu"
 author_url: "https://twitter.com/xmliisu"
 source_url: "https://twitter.com/xmliisu/status/1993215769765703861"
-preview: "/images/portraits/pg-1993215769765703861.jpg"
+preview: "/images/portraits/pg-1993215769765703861.webp"
 ---
 
 A moment of pure intimacy unfolds as a couple shares a tender embrace in a dimly lit car. The raindrops glisten on fogged glass, creating an enchanting backdrop, while the strong flash highlights their connection.
@@ -66,4 +66,4 @@ A moment of pure intimacy unfolds as a couple shares a tender embrace in a dimly
 
 ## Example Output
 
-![Captured Affection in the Night: Gemini Nano Banana 3.0 Pro](/images/portraits/pg-1993215769765703861.jpg)
+![Captured Affection in the Night: Gemini Nano Banana 3.0 Pro](/images/portraits/pg-1993215769765703861.webp)

@@ -5,7 +5,7 @@ tags: ["nano-banana-pro"]
 author: "@moburin01"
 author_url: "https://twitter.com/moburin01"
 source_url: "https://twitter.com/moburin01/status/1991804188536525169"
-preview: "/images/posters/pg-1991804188536525169.jpg"
+preview: "/images/posters/pg-1991804188536525169.webp"
 ---
 
 Can a thumbnail truly captivate? The Nano Banana Pro proves it can! With its striking design, this creation redefines visual appeal and grabs attention instantly.
@@ -20,4 +20,4 @@ Can a thumbnail truly captivate? The Nano Banana Pro proves it can! With its str
 
 ## Example Output
 
-![Nano Banana Pro: The Thumbnail Game-Changer!](/images/posters/pg-1991804188536525169.jpg)
+![Nano Banana Pro: The Thumbnail Game-Changer!](/images/posters/pg-1991804188536525169.webp)

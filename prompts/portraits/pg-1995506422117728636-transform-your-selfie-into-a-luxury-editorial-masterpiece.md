@@ -5,7 +5,7 @@ tags: ["selfie","pastel","nano-banana-pro"]
 author: "@AIByAbbay"
 author_url: "https://twitter.com/AIByAbbay"
 source_url: "https://twitter.com/AIByAbbay/status/1995506422117728636"
-preview: "/images/portraits/pg-1995506422117728636.jpg"
+preview: "/images/portraits/pg-1995506422117728636.webp"
 ---
 
 A pastel dream unfolds! Each shot captures an elegant essence, from macro beauty to striking profiles. Which angle captivates your gaze? 💖
@@ -20,4 +20,4 @@ Editorial 3x3 grid in soft pastel-blue studio. Character (face characteristics 1
 
 ## Example Output
 
-![Transform Your Selfie into a Luxury Editorial Masterpiece!](/images/portraits/pg-1995506422117728636.jpg)
+![Transform Your Selfie into a Luxury Editorial Masterpiece!](/images/portraits/pg-1995506422117728636.webp)

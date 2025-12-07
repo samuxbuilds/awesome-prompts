@@ -5,7 +5,7 @@ tags: ["art","light","nano-banana-pro"]
 author: "@emmanuel_2m"
 author_url: "https://twitter.com/emmanuel_2m"
 source_url: "https://twitter.com/emmanuel_2m/status/1991634982784336157"
-preview: "/images/creative/pg-1991634982784336157.jpg"
+preview: "/images/creative/pg-1991634982784336157.webp"
 ---
 
 Altered perspectives and harmonious lighting transform this product into a seamless part of its environment, showcasing Gemini 3.0’s cutting-edge capabilities.
@@ -20,4 +20,4 @@ Fuse the image, correct the product’s perspective and lighting, and make the p
 
 ## Example Output
 
-![When Innovation Meets Art: Gemini 3.0 Unleashed](/images/creative/pg-1991634982784336157.jpg)
+![When Innovation Meets Art: Gemini 3.0 Unleashed](/images/creative/pg-1991634982784336157.webp)

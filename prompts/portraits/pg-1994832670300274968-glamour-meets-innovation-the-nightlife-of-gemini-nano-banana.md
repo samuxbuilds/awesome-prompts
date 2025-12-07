@@ -5,7 +5,7 @@ tags: ["light","nano-banana-pro"]
 author: "@xmliisu"
 author_url: "https://twitter.com/xmliisu"
 source_url: "https://twitter.com/xmliisu/status/1994832670300274968"
-preview: "/images/portraits/pg-1994832670300274968.jpg"
+preview: "/images/portraits/pg-1994832670300274968.webp"
 ---
 
 In the opulent backseat of luxury, a confident woman captivates with elegance and allure. The city's lights blur, while soft LED glows reflect the sophistication of the Gemini Nano Banana 3.0.
@@ -43,4 +43,4 @@ In the opulent backseat of luxury, a confident woman captivates with elegance an
 
 ## Example Output
 
-![Glamour Meets Innovation: The Nightlife of Gemini Nano Banana 3.0](/images/portraits/pg-1994832670300274968.jpg)
+![Glamour Meets Innovation: The Nightlife of Gemini Nano Banana 3.0](/images/portraits/pg-1994832670300274968.webp)

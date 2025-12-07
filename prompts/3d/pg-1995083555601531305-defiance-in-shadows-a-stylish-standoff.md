@@ -5,7 +5,7 @@ tags: ["dark","nano-banana-pro"]
 author: "@SimplyAnnisa"
 author_url: "https://twitter.com/SimplyAnnisa"
 source_url: "https://twitter.com/SimplyAnnisa/status/1995083555601531305"
-preview: "/images/3d/pg-1995083555601531305.jpg"
+preview: "/images/3d/pg-1995083555601531305.webp"
 ---
 
 Caught in an electrifying moment, this bold figure leans against the entrance, rebellious attitude on full display. The contrast of dark surroundings and her striking pose creates a captivating visual story.
@@ -25,4 +25,4 @@ Lighting: Dark. The only light source is the flash of a 35mm analog camera shoot
 
 ## Example Output
 
-![Defiance in Shadows: A Stylish Standoff](/images/3d/pg-1995083555601531305.jpg)
+![Defiance in Shadows: A Stylish Standoff](/images/3d/pg-1995083555601531305.webp)

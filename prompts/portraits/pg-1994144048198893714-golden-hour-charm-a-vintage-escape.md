@@ -5,7 +5,7 @@ tags: ["vintage","nano-banana-pro"]
 author: "@teachaixr"
 author_url: "https://twitter.com/teachaixr"
 source_url: "https://twitter.com/teachaixr/status/1994144048198893714"
-preview: "/images/portraits/pg-1994144048198893714.jpg"
+preview: "/images/portraits/pg-1994144048198893714.webp"
 ---
 
 A striking moment unfolds as a young woman leans from a classic cream car, cigarette in hand. The warm glow of sunset casts a magical ambiance on the cobblestone street, where life bustles around her.
@@ -25,4 +25,4 @@ A striking moment unfolds as a young woman leans from a classic cream car, cigar
 
 ## Example Output
 
-![Golden Hour Charm: A Vintage Escape](/images/portraits/pg-1994144048198893714.jpg)
+![Golden Hour Charm: A Vintage Escape](/images/portraits/pg-1994144048198893714.webp)

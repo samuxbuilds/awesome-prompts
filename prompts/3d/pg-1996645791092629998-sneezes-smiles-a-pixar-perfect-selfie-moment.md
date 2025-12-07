@@ -5,7 +5,7 @@ tags: ["selfie","vibrant","nano-banana-pro"]
 author: "@ShreyaYadav___"
 author_url: "https://twitter.com/ShreyaYadav___"
 source_url: "https://twitter.com/ShreyaYadav___/status/1996645791092629998"
-preview: "/images/3d/pg-1996645791092629998.jpg"
+preview: "/images/3d/pg-1996645791092629998.webp"
 ---
 
 Caught in a comedic twist, this Pixar-style scene captures a couple's rooftop selfie gone hilariously wrong as laughter and a sunset collide in vibrant hues!
@@ -20,4 +20,4 @@ Ultra HD 4K Pixar-style 3D portrait of a young couple attempting a selfie on a c
 
 ## Example Output
 
-![Sneezes & Smiles: A Pixar-Perfect Selfie Moment](/images/3d/pg-1996645791092629998.jpg)
+![Sneezes & Smiles: A Pixar-Perfect Selfie Moment](/images/3d/pg-1996645791092629998.webp)

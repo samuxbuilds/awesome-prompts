@@ -5,7 +5,7 @@ tags: ["fantasy","nano-banana-pro"]
 author: "@kingofdairyque"
 author_url: "https://twitter.com/kingofdairyque"
 source_url: "https://twitter.com/kingofdairyque/status/1995876314746913060"
-preview: "/images/portraits/pg-1995876314746913060.jpg"
+preview: "/images/portraits/pg-1995876314746913060.webp"
 ---
 
 A soft glow envelops this serene visage, where striking gray-green eyes capture your gaze. The delicate blush and wet black strands create an editorial fantasy that feels both intimate and dreamlike.
@@ -30,4 +30,4 @@ The overall mood of the photo is intimate, soft, and peaceful, with a strong foc
 
 ## Example Output
 
-![Luminous Beauty: A Glimpse of Radiance](/images/portraits/pg-1995876314746913060.jpg)
+![Luminous Beauty: A Glimpse of Radiance](/images/portraits/pg-1995876314746913060.webp)

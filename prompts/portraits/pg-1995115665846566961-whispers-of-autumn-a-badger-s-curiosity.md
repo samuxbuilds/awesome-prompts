@@ -5,7 +5,7 @@ tags: ["light","watercolor","nano-banana-pro"]
 author: "@BeanieBlossom"
 author_url: "https://twitter.com/BeanieBlossom"
 source_url: "https://twitter.com/BeanieBlossom/status/1995115665846566961"
-preview: "/images/portraits/pg-1995115665846566961.jpg"
+preview: "/images/portraits/pg-1995115665846566961.webp"
 ---
 
 Golden light dances through rust-colored hollyhocks, where a curious badger explores a quaint garden bench. This soft watercolor scene captures the serene beauty of fall.
@@ -20,4 +20,4 @@ A small garden bench nestled among tall, rust-colored hollyhocks and fallen leav
 
 ## Example Output
 
-![Whispers of Autumn: A Badger’s Curiosity](/images/portraits/pg-1995115665846566961.jpg)
+![Whispers of Autumn: A Badger’s Curiosity](/images/portraits/pg-1995115665846566961.webp)

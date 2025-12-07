@@ -5,7 +5,7 @@ tags: ["dark","nano-banana-pro"]
 author: "@xmiiru_"
 author_url: "https://twitter.com/xmiiru_"
 source_url: "https://twitter.com/xmiiru_/status/1996207944136872018"
-preview: "/images/3d/pg-1996207944136872018.jpg"
+preview: "/images/3d/pg-1996207944136872018.webp"
 ---
 
 Boldly channeling the edgy Y2K aesthetic, this high-angle shot captures a striking figure with a serious gaze.
@@ -103,4 +103,4 @@ Boldly channeling the edgy Y2K aesthetic, this high-angle shot captures a striki
 
 ## Example Output
 
-![Y2K Unleashed: Dark Glamour at a High Angle](/images/3d/pg-1996207944136872018.jpg)
+![Y2K Unleashed: Dark Glamour at a High Angle](/images/3d/pg-1996207944136872018.webp)

@@ -5,7 +5,7 @@ tags: ["3d","realistic","light","nano-banana-pro"]
 author: "@icreatelife"
 author_url: "https://twitter.com/icreatelife"
 source_url: "https://twitter.com/icreatelife/status/1992927023279268029"
-preview: "/images/3d/pg-1992927023279268029.jpg"
+preview: "/images/3d/pg-1992927023279268029.webp"
 ---
 
 Can a logo be cozy? This fluffy 3D creation defies convention, floating softly against a light gray backdrop, radiating warmth and whimsy with its hyperrealistic fur texture.
@@ -20,4 +20,4 @@ Transform a simple flat vector logo into a soft, 3D fluffy object. Use the exact
 
 ## Example Output
 
-![Fluffing Up Creativity: A Logo Like No Other](/images/3d/pg-1992927023279268029.jpg)
+![Fluffing Up Creativity: A Logo Like No Other](/images/3d/pg-1992927023279268029.webp)

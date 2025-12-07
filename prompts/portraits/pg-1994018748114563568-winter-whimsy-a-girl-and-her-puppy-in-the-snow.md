@@ -5,7 +5,7 @@ tags: ["art","nano-banana-pro"]
 author: "@chatgptpaglu"
 author_url: "https://twitter.com/chatgptpaglu"
 source_url: "https://twitter.com/chatgptpaglu/status/1994018748114563568"
-preview: "/images/portraits/pg-1994018748114563568.jpg"
+preview: "/images/portraits/pg-1994018748114563568.webp"
 ---
 
 A heartwarming scene unfolds as a young girl in a cozy black hoodie puckers her lips beside a calm white puppy. Surrounding them, soft snow blankets the ground, and bare trees stand still under a clear blue sky.
@@ -54,4 +54,4 @@ A heartwarming scene unfolds as a young girl in a cozy black hoodie puckers her 
 
 ## Example Output
 
-![Winter Whimsy: A Girl and Her Puppy in the Snow](/images/portraits/pg-1994018748114563568.jpg)
+![Winter Whimsy: A Girl and Her Puppy in the Snow](/images/portraits/pg-1994018748114563568.webp)

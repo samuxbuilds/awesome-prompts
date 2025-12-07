@@ -5,7 +5,7 @@ tags: ["portrait","nano-banana-pro"]
 author: "@ReemKhan_07"
 author_url: "https://twitter.com/ReemKhan_07"
 source_url: "https://twitter.com/ReemKhan_07/status/1995690209904918934"
-preview: "/images/portraits/pg-1995690209904918934.jpg"
+preview: "/images/portraits/pg-1995690209904918934.webp"
 ---
 
 A striking portrayal of quiet power! The high-contrast black and white portrait captures a confident woman, her intense gaze piercing through sleek sunglasses, embodying a blend of mystery and poise.
@@ -22,7 +22,7 @@ A striking portrayal of quiet power! The high-contrast black and white portrait 
       "Hair": "Sleek, neat bun or pulled-back hairstyle",
       "Expression": "Neutral yet intense, mysterious, direct gaze through sunglasses, or pensive look.",
       "Pose": "Hand resting gently on the chin/jawline, looking slightly to the side. Posture is confident and stable.",
-      "FacialFeatures": "The subject should maintain the same facial structure and features as the reference image (1000045331.jpg and 1000054961.jpg) for consistency."
+      "FacialFeatures": "The subject should maintain the same facial structure and features as the reference image (1000045331.webp and 1000054961.webp) for consistency."
     },
     "Wardrobe": {
       "Top": "Simple, solid black crewneck or high-neck casual sweater/top",
@@ -66,4 +66,4 @@ A striking portrayal of quiet power! The high-contrast black and white portrait 
 
 ## Example Output
 
-![Unveiling Strength in Monochrome Elegance](/images/portraits/pg-1995690209904918934.jpg)
+![Unveiling Strength in Monochrome Elegance](/images/portraits/pg-1995690209904918934.webp)

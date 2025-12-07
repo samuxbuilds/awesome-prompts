@@ -5,7 +5,7 @@ tags: ["art","fashion","nano-banana-pro"]
 author: "@bananaprompts"
 author_url: "https://twitter.com/bananaprompts"
 source_url: "https://twitter.com/bananaprompts/status/1991666618607267864"
-preview: "/images/portraits/pg-1991666618607267864.jpg"
+preview: "/images/portraits/pg-1991666618607267864.webp"
 ---
 
 Fashion meets creativity! This stunning collage artfully showcases each outfit piece on a warm corkboard, complete with charming labels that tell their story.
@@ -20,4 +20,4 @@ Create a fashion product collage on a brown corkboard based on this outfit. Each
 
 ## Example Output
 
-![Corkboard Chic: A Fashion Collage Unveiled](/images/portraits/pg-1991666618607267864.jpg)
+![Corkboard Chic: A Fashion Collage Unveiled](/images/portraits/pg-1991666618607267864.webp)

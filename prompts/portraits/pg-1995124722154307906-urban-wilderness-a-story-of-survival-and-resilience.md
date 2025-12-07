@@ -5,7 +5,7 @@ tags: ["nature","urban","nano-banana-pro"]
 author: "@john_my07"
 author_url: "https://twitter.com/john_my07"
 source_url: "https://twitter.com/john_my07/status/1995124722154307906"
-preview: "/images/portraits/pg-1995124722154307906.jpg"
+preview: "/images/portraits/pg-1995124722154307906.webp"
 ---
 
 Amidst the whispers of nature reclaiming the city, a rugged wanderer stands alert. His weathered skin tells tales of adventure, framed by a backdrop of ivy-clad ruins and sun-drenched shadows.
@@ -80,4 +80,4 @@ Amidst the whispers of nature reclaiming the city, a rugged wanderer stands aler
 
 ## Example Output
 
-![Urban Wilderness: A Story of Survival and Resilience](/images/portraits/pg-1995124722154307906.jpg)
+![Urban Wilderness: A Story of Survival and Resilience](/images/portraits/pg-1995124722154307906.webp)

@@ -5,7 +5,7 @@ tags: ["art","vibrant","watercolor","nano-banana-pro"]
 author: "@FlorianGallwitz"
 author_url: "https://twitter.com/FlorianGallwitz"
 source_url: "https://twitter.com/FlorianGallwitz/status/1991796624646091091"
-preview: "/images/portraits/pg-1991796624646091091.jpg"
+preview: "/images/portraits/pg-1991796624646091091.webp"
 ---
 
 Imagine a vibrant watercolor map, where each German state is lovingly outlined in bold pen. This artistic blend beckons exploration and sparks curiosity!
@@ -20,4 +20,4 @@ Erzeuge eine Karte von Deutschland im Wasserfarben-Stil, auf der alle Bundeslän
 
 ## Example Output
 
-![A Watercolor Journey Through Germany's States](/images/portraits/pg-1991796624646091091.jpg)
+![A Watercolor Journey Through Germany's States](/images/portraits/pg-1991796624646091091.webp)

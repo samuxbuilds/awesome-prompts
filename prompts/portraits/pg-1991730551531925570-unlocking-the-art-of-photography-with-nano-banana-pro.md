@@ -5,7 +5,7 @@ tags: ["art","nano-banana-pro"]
 author: "@Jimmy_JingLv"
 author_url: "https://twitter.com/Jimmy_JingLv"
 source_url: "https://twitter.com/Jimmy_JingLv/status/1991730551531925570"
-preview: "/images/portraits/pg-1991730551531925570.jpg"
+preview: "/images/portraits/pg-1991730551531925570.webp"
 ---
 
 Can you imagine capturing the enchanting blues of dusk? The stunning model, paired with a Canon 85mm, showcases mesmerizing aperture effects, creating a visual symphony!
@@ -20,4 +20,4 @@ Can you imagine capturing the enchanting blues of dusk? The stunning model, pair
 
 ## Example Output
 
-![Unlocking the Art of Photography with Nano Banana Pro!](/images/portraits/pg-1991730551531925570.jpg)
+![Unlocking the Art of Photography with Nano Banana Pro!](/images/portraits/pg-1991730551531925570.webp)

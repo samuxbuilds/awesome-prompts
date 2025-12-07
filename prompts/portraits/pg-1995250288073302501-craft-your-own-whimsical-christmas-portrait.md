@@ -5,7 +5,7 @@ tags: ["portrait","selfie","light","nano-banana-pro"]
 author: "@ecommartinez"
 author_url: "https://twitter.com/ecommartinez"
 source_url: "https://twitter.com/ecommartinez/status/1995250288073302501"
-preview: "/images/portraits/pg-1995250288073302501.jpg"
+preview: "/images/portraits/pg-1995250288073302501.webp"
 ---
 
 Transform a simple selfie into a festive wonderland, surrounded by playful monsters and twinkling lights. Embrace the holiday spirit with a warm, cheerful twist!
@@ -73,4 +73,4 @@ Transform a simple selfie into a festive wonderland, surrounded by playful monst
 
 ## Example Output
 
-![Craft Your Own Whimsical Christmas Portrait!](/images/portraits/pg-1995250288073302501.jpg)
+![Craft Your Own Whimsical Christmas Portrait!](/images/portraits/pg-1995250288073302501.webp)

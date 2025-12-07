@@ -5,7 +5,7 @@ tags: ["light","nano-banana-pro"]
 author: "@eyishazyer"
 author_url: "https://twitter.com/eyishazyer"
 source_url: "https://twitter.com/eyishazyer/status/1993745191417807209"
-preview: "/images/portraits/pg-1993745191417807209.jpg"
+preview: "/images/portraits/pg-1993745191417807209.webp"
 ---
 
 Elegance radiates as she lounges by the poolside under soft lights. With playful eyes and a relaxed pose, her effortless beauty captivates the serene night.
@@ -24,4 +24,4 @@ The photo has a soft white-pink cast, bright skin tones, slight grain, sharp ski
 
 ## Example Output
 
-![Moonlit Elegance: A Night by the Pool](/images/portraits/pg-1993745191417807209.jpg)
+![Moonlit Elegance: A Night by the Pool](/images/portraits/pg-1993745191417807209.webp)

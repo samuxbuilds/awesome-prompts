@@ -5,7 +5,7 @@ tags: ["portrait","nano-banana-pro"]
 author: "@ShreyaYadav___"
 author_url: "https://twitter.com/ShreyaYadav___"
 source_url: "https://twitter.com/ShreyaYadav___/status/1994776689667444907"
-preview: "/images/portraits/pg-1994776689667444907.jpg"
+preview: "/images/portraits/pg-1994776689667444907.webp"
 ---
 
 Feel the intensity of a confident smile! This cinematic portrait captures a young woman with messy black hair, lit by striking red and blue hues against a sleek black backdrop.
@@ -35,4 +35,4 @@ Feel the intensity of a confident smile! This cinematic portrait captures a youn
 
 ## Example Output
 
-![Bold Beauty: A Dramatic Portrait in Black](/images/portraits/pg-1994776689667444907.jpg)
+![Bold Beauty: A Dramatic Portrait in Black](/images/portraits/pg-1994776689667444907.webp)

@@ -5,7 +5,7 @@ tags: ["portrait","urban","vibrant","nano-banana-pro"]
 author: "@xmliisu"
 author_url: "https://twitter.com/xmliisu"
 source_url: "https://twitter.com/xmliisu/status/1992985230303527355"
-preview: "/images/3d/pg-1992985230303527355.jpg"
+preview: "/images/3d/pg-1992985230303527355.webp"
 ---
 
 A vibrant night unfolds as a confident figure leans against a shiny yellow Ferrari, embodying urban allure. The nostalgic film grain adds depth to this gritty street portrait.
@@ -91,4 +91,4 @@ A vibrant night unfolds as a confident figure leans against a shiny yellow Ferra
 
 ## Example Output
 
-![Candid Nights: Embracing the City Vibe](/images/3d/pg-1992985230303527355.jpg)
+![Candid Nights: Embracing the City Vibe](/images/3d/pg-1992985230303527355.webp)

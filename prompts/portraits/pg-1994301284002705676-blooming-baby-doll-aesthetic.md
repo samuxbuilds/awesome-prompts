@@ -5,7 +5,7 @@ tags: ["neon","nano-banana-pro"]
 author: "@xmiiru_"
 author_url: "https://twitter.com/xmiiru_"
 source_url: "https://twitter.com/xmiiru_/status/1994301284002705676"
-preview: "/images/portraits/pg-1994301284002705676.jpg"
+preview: "/images/portraits/pg-1994301284002705676.webp"
 ---
 
 Bright turquoise and neon pink collide in this playful Y2K-inspired poster! A striking close-up reveals a thoughtful beauty adorned with lace and silver hoops, while her full-body shot flaunts a bold 'Baby Doll' look. Pure nostalgic magic!
@@ -52,4 +52,4 @@ Bright turquoise and neon pink collide in this playful Y2K-inspired poster! A st
 
 ## Example Output
 
-![Blooming Baby Doll Aesthetic 🌸](/images/portraits/pg-1994301284002705676.jpg)
+![Blooming Baby Doll Aesthetic 🌸](/images/portraits/pg-1994301284002705676.webp)

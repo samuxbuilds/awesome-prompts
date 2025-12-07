@@ -5,7 +5,7 @@ tags: ["selfie","art","light","nano-banana-pro"]
 author: "@YaseenK7212"
 author_url: "https://twitter.com/YaseenK7212"
 source_url: "https://twitter.com/YaseenK7212/status/1995124913183572410"
-preview: "/images/3d/pg-1995124913183572410.jpg"
+preview: "/images/3d/pg-1995124913183572410.webp"
 ---
 
 Captured in soft morning light, this stunning selfie showcases effortless beauty with a touch of Y2K flair. From the sparkling heart necklace to the glossy pink lips, every detail shines!
@@ -89,4 +89,4 @@ Captured in soft morning light, this stunning selfie showcases effortless beauty
 
 ## Example Output
 
-![Morning Glow: The Perfect Selfie with Y2K Vibes](/images/3d/pg-1995124913183572410.jpg)
+![Morning Glow: The Perfect Selfie with Y2K Vibes](/images/3d/pg-1995124913183572410.webp)

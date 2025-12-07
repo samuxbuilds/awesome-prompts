@@ -5,7 +5,7 @@ tags: ["portrait","art","light","nano-banana-pro"]
 author: "@ShreyaYadav___"
 author_url: "https://twitter.com/ShreyaYadav___"
 source_url: "https://twitter.com/ShreyaYadav___/status/1995881297861115909"
-preview: "/images/portraits/pg-1995881297861115909.jpg"
+preview: "/images/portraits/pg-1995881297861115909.webp"
 ---
 
 A stunning letter 'S' frames a serene face, hands delicately holding the cutout. Soft lighting enhances the serene gaze, capturing both artistry and personality in a beautiful tableau.
@@ -43,4 +43,4 @@ Signature: Shreya Yadav
 
 ## Example Output
 
-![Sculpted Elegance: A Portrait in Light and Form](/images/portraits/pg-1995881297861115909.jpg)
+![Sculpted Elegance: A Portrait in Light and Form](/images/portraits/pg-1995881297861115909.webp)

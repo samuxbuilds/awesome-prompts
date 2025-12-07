@@ -5,7 +5,7 @@ tags: ["fantasy","fashion","light","nano-banana-pro"]
 author: "@ShreyaYadav___"
 author_url: "https://twitter.com/ShreyaYadav___"
 source_url: "https://twitter.com/ShreyaYadav___/status/1996071136090816744"
-preview: "/images/portraits/pg-1996071136090816744.jpg"
+preview: "/images/portraits/pg-1996071136090816744.webp"
 ---
 
 Imagine a serene winter wonderland where elegance reigns. Captured in soft hues, our enchanting model embodies grace in a flowing gown, surrounded by twinkling lights and luxurious decor.
@@ -68,4 +68,4 @@ Imagine a serene winter wonderland where elegance reigns. Captured in soft hues,
 
 ## Example Output
 
-![Sophistication Meets Winter: A Fashion Fantasy](/images/portraits/pg-1996071136090816744.jpg)
+![Sophistication Meets Winter: A Fashion Fantasy](/images/portraits/pg-1996071136090816744.webp)

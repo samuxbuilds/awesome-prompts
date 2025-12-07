@@ -5,7 +5,7 @@ tags: ["urban","light","nano-banana-pro"]
 author: "@YaseenK7212"
 author_url: "https://twitter.com/YaseenK7212"
 source_url: "https://twitter.com/YaseenK7212/status/1991854470196523261"
-preview: "/images/portraits/pg-1991854470196523261.jpg"
+preview: "/images/portraits/pg-1991854470196523261.webp"
 ---
 
 Perched high above the city, a model in a bomber jacket contemplates life. The soft glow of twilight paints the urban backdrop, while a monogrammed bag hints at stories untold.
@@ -20,4 +20,4 @@ A male model, dressed in a brown bomber jacket, dark trousers, is perched on the
 
 ## Example Output
 
-![Urban Reflections: A Moment on the Fire Escape](/images/portraits/pg-1991854470196523261.jpg)
+![Urban Reflections: A Moment on the Fire Escape](/images/portraits/pg-1991854470196523261.webp)

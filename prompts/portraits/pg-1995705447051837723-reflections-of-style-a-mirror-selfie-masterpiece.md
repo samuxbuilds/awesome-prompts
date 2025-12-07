@@ -5,7 +5,7 @@ tags: ["selfie","nano-banana-pro"]
 author: "@ShreyaYadav___"
 author_url: "https://twitter.com/ShreyaYadav___"
 source_url: "https://twitter.com/ShreyaYadav___/status/1995705447051837723"
-preview: "/images/portraits/pg-1995705447051837723.jpg"
+preview: "/images/portraits/pg-1995705447051837723.webp"
 ---
 
 Captured in stunning ultrarealism, this mirror selfie reveals a stylish young woman. Her cream jacket and Apple watch shine against a softly lit backdrop, making every detail pop!
@@ -53,4 +53,4 @@ Captured in stunning ultrarealism, this mirror selfie reveals a stylish young wo
 
 ## Example Output
 
-![Reflections of Style: A Mirror Selfie Masterpiece](/images/portraits/pg-1995705447051837723.jpg)
+![Reflections of Style: A Mirror Selfie Masterpiece](/images/portraits/pg-1995705447051837723.webp)

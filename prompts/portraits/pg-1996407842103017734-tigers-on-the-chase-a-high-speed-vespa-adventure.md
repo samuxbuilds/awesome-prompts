@@ -5,7 +5,7 @@ tags: ["nano-banana-pro"]
 author: "@ShreyaYadav___"
 author_url: "https://twitter.com/ShreyaYadav___"
 source_url: "https://twitter.com/ShreyaYadav___/status/1996407842103017734"
-preview: "/images/portraits/pg-1996407842103017734.jpg"
+preview: "/images/portraits/pg-1996407842103017734.webp"
 ---
 
 Can you feel the adrenaline? A terrified couple races through lush fields with Bengal tigers in pursuit, all captured in stunning cinematic detail. Action-packed vibes await!
@@ -46,4 +46,4 @@ Can you feel the adrenaline? A terrified couple races through lush fields with B
 
 ## Example Output
 
-![Tigers on the Chase: A High-Speed Vespa Adventure](/images/portraits/pg-1996407842103017734.jpg)
+![Tigers on the Chase: A High-Speed Vespa Adventure](/images/portraits/pg-1996407842103017734.webp)

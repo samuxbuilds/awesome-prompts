@@ -5,7 +5,7 @@ tags: ["nature","nano-banana-pro"]
 author: "@oggii_0"
 author_url: "https://twitter.com/oggii_0"
 source_url: "https://twitter.com/oggii_0/status/1991720649350606995"
-preview: "/images/3d/pg-1991720649350606995.jpg"
+preview: "/images/3d/pg-1991720649350606995.webp"
 ---
 
 A lone figure in a moss-green overcoat glides through a foggy pine forest, brushing aside branches. Nature's tranquility contrasts with an air of curiosity.
@@ -58,4 +58,4 @@ A lone figure in a moss-green overcoat glides through a foggy pine forest, brush
 
 ## Example Output
 
-![Misty Wanderings in the Pine Forest](/images/3d/pg-1991720649350606995.jpg)
+![Misty Wanderings in the Pine Forest](/images/3d/pg-1991720649350606995.webp)

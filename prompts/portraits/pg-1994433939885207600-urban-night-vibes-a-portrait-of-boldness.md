@@ -5,7 +5,7 @@ tags: ["portrait","vintage","urban","light","nano-banana-pro"]
 author: "@xmiiru_"
 author_url: "https://twitter.com/xmiiru_"
 source_url: "https://twitter.com/xmiiru_/status/1994433939885207600"
-preview: "/images/portraits/pg-1994433939885207600.jpg"
+preview: "/images/portraits/pg-1994433939885207600.webp"
 ---
 
 Amidst the glow of city lights, she embodies fierce individuality—ash brown hair cascading with purple highlights, a charcoal cropped hoodie with striking 'FORUM' text, and a confident posture against a vintage orange truck. Tired yet bold, she captures the essence of night wanderers.
@@ -81,4 +81,4 @@ Amidst the glow of city lights, she embodies fierce individuality—ash brown ha
 
 ## Example Output
 
-![Urban Night Vibes: A Portrait of Boldness](/images/portraits/pg-1994433939885207600.jpg)
+![Urban Night Vibes: A Portrait of Boldness](/images/portraits/pg-1994433939885207600.webp)

@@ -5,7 +5,7 @@ tags: ["portrait","minimal","nano-banana-pro"]
 author: "@kingofdairyque"
 author_url: "https://twitter.com/kingofdairyque"
 source_url: "https://twitter.com/kingofdairyque/status/1995829751639146611"
-preview: "/images/3d/pg-1995829751639146611.jpg"
+preview: "/images/3d/pg-1995829751639146611.webp"
 ---
 
 A serene moment captured! This young woman radiates calm with her glowing skin and effortless beauty, enhanced by delicate gold earrings and a minimalist Polaroid backdrop.
@@ -20,4 +20,4 @@ Create a portrait of a young woman with short, wavy, brownish-black hair, fallin
 
 ## Example Output
 
-![Elegance in Simplicity: A Natural Portrait](/images/3d/pg-1995829751639146611.jpg)
+![Elegance in Simplicity: A Natural Portrait](/images/3d/pg-1995829751639146611.webp)

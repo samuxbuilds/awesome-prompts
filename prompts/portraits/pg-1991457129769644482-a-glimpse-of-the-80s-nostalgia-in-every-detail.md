@@ -5,7 +5,7 @@ tags: ["portrait","vintage","nano-banana-pro"]
 author: "@ZaraIrahh"
 author_url: "https://twitter.com/ZaraIrahh"
 source_url: "https://twitter.com/ZaraIrahh/status/1991457129769644482"
-preview: "/images/portraits/pg-1991457129769644482.jpg"
+preview: "/images/portraits/pg-1991457129769644482.webp"
 ---
 
 Captured in a cozy family kitchen, this portrait evokes the warmth of 1980s life. From the floral shirt to the vintage décor, every element whispers stories of yesteryear.
@@ -75,4 +75,4 @@ Captured in a cozy family kitchen, this portrait evokes the warmth of 1980s life
 
 ## Example Output
 
-![A Glimpse of the 80s: Nostalgia in Every Detail](/images/portraits/pg-1991457129769644482.jpg)
+![A Glimpse of the 80s: Nostalgia in Every Detail](/images/portraits/pg-1991457129769644482.webp)

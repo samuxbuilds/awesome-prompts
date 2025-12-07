@@ -5,7 +5,7 @@ tags: ["vibrant","nano-banana-pro"]
 author: "@saniaspeaks_"
 author_url: "https://twitter.com/saniaspeaks_"
 source_url: "https://twitter.com/saniaspeaks_/status/1994256800523407671"
-preview: "/images/portraits/pg-1994256800523407671.jpg"
+preview: "/images/portraits/pg-1994256800523407671.webp"
 ---
 
 Can you feel the joy? This young woman radiates happiness with her adorable kitten, set against a vibrant shopping backdrop that whispers adventure and style.
@@ -24,4 +24,4 @@ Can you feel the joy? This young woman radiates happiness with her adorable kitt
 
 ## Example Output
 
-![Charming Vibes: Kitten Cuddles & Chic Styles](/images/portraits/pg-1994256800523407671.jpg)
+![Charming Vibes: Kitten Cuddles & Chic Styles](/images/portraits/pg-1994256800523407671.webp)

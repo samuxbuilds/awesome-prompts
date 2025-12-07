@@ -5,7 +5,7 @@ tags: ["nano-banana-pro"]
 author: "@Taaruk_"
 author_url: "https://twitter.com/Taaruk_"
 source_url: "https://twitter.com/Taaruk_/status/1996771902090891711"
-preview: "/images/portraits/pg-1996771902090891711.jpg"
+preview: "/images/portraits/pg-1996771902090891711.webp"
 ---
 
 Chilling yet captivating, this close-up captures the intensity of winter survival. Icy blue eyes pierce through the snowflakes, revealing resilience against the harsh backdrop.
@@ -81,4 +81,4 @@ Chilling yet captivating, this close-up captures the intensity of winter surviva
 
 ## Example Output
 
-![Frosted Gaze: Survival in the Winter Wilderness](/images/portraits/pg-1996771902090891711.jpg)
+![Frosted Gaze: Survival in the Winter Wilderness](/images/portraits/pg-1996771902090891711.webp)

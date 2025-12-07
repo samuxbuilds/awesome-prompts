@@ -5,7 +5,7 @@ tags: ["urban","light","neon","vibrant","nano-banana-pro"]
 author: "@YaseenK7212"
 author_url: "https://twitter.com/YaseenK7212"
 source_url: "https://twitter.com/YaseenK7212/status/1996992897821073914"
-preview: "/images/3d/pg-1996992897821073914.jpg"
+preview: "/images/3d/pg-1996992897821073914.webp"
 ---
 
 Amidst the vibrant chaos of Tokyo's streets, a hot pink coupe gleams under neon lights. A stylish young woman leans confidently against her ride, embodying urban chic in a crochet top and denim skirt.
@@ -140,4 +140,4 @@ Amidst the vibrant chaos of Tokyo's streets, a hot pink coupe gleams under neon 
 
 ## Example Output
 
-![Neon Dreams: Pink Coupe in Tokyo's Glimmering Night](/images/3d/pg-1996992897821073914.jpg)
+![Neon Dreams: Pink Coupe in Tokyo's Glimmering Night](/images/3d/pg-1996992897821073914.webp)

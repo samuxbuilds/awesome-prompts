@@ -5,7 +5,7 @@ tags: ["fashion","nano-banana-pro"]
 author: "@chatgptpaglu"
 author_url: "https://twitter.com/chatgptpaglu"
 source_url: "https://twitter.com/chatgptpaglu/status/1992767441303113771"
-preview: "/images/portraits/pg-1992767441303113771.jpg"
+preview: "/images/portraits/pg-1992767441303113771.webp"
 ---
 
 Bold shadows and glossy waves paint a picture of glamour. This high-fashion moment captures confidence in a luxurious setting, where every glance draws you in.
@@ -54,4 +54,4 @@ Bold shadows and glossy waves paint a picture of glamour. This high-fashion mome
 
 ## Example Output
 
-![Chic Nightlife Elegance: The Gemini Nano Banana 3.0 Pro](/images/portraits/pg-1992767441303113771.jpg)
+![Chic Nightlife Elegance: The Gemini Nano Banana 3.0 Pro](/images/portraits/pg-1992767441303113771.webp)

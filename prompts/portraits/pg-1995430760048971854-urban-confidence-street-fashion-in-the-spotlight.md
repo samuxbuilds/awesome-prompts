@@ -5,7 +5,7 @@ tags: ["urban","fashion","light","vibrant","nano-banana-pro"]
 author: "@Taaruk_"
 author_url: "https://twitter.com/Taaruk_"
 source_url: "https://twitter.com/Taaruk_/status/1995430760048971854"
-preview: "/images/portraits/pg-1995430760048971854.jpg"
+preview: "/images/portraits/pg-1995430760048971854.webp"
 ---
 
 Strutting down slick pavement, this stylish young man radiates effortless cool. His beige jacket and baggy jeans pop against a vibrant urban backdrop, bathed in warm sunlight.
@@ -81,4 +81,4 @@ Strutting down slick pavement, this stylish young man radiates effortless cool. 
 
 ## Example Output
 
-![Urban Confidence: Street Fashion in the Spotlight](/images/portraits/pg-1995430760048971854.jpg)
+![Urban Confidence: Street Fashion in the Spotlight](/images/portraits/pg-1995430760048971854.webp)

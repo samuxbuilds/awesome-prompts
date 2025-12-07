@@ -5,7 +5,7 @@ tags: ["art","light","vibrant","nano-banana-pro"]
 author: "@oggii_0"
 author_url: "https://twitter.com/oggii_0"
 source_url: "https://twitter.com/oggii_0/status/1995788162996531616"
-preview: "/images/portraits/pg-1995788162996531616.jpg"
+preview: "/images/portraits/pg-1995788162996531616.webp"
 ---
 
 Chilling in a go-kart with vibrant tire graffiti in the backdrop, this stylish young man exudes cool confidence. A flash of night lights captures his laid-back vibe perfectly!
@@ -24,4 +24,4 @@ In the background, include colorful worn tires, ramps with yellow-red stripes, a
 
 ## Example Output
 
-![Revved Up Style: A Go-Karting Adventure](/images/portraits/pg-1995788162996531616.jpg)
+![Revved Up Style: A Go-Karting Adventure](/images/portraits/pg-1995788162996531616.webp)

@@ -5,7 +5,7 @@ tags: ["selfie","fashion","pastel","nano-banana-pro"]
 author: "@saniaspeaks_"
 author_url: "https://twitter.com/saniaspeaks_"
 source_url: "https://twitter.com/saniaspeaks_/status/1996271886666457303"
-preview: "/images/portraits/pg-1996271886666457303.jpg"
+preview: "/images/portraits/pg-1996271886666457303.webp"
 ---
 
 Caught in a moment of casual chic, this platinum blonde flaunts her playful style in pastel and bold accessories. Who says bathroom selfies can’t be a fashion statement?
@@ -74,4 +74,4 @@ Caught in a moment of casual chic, this platinum blonde flaunts her playful styl
 
 ## Example Output
 
-![Banana Vibes & Bathroom Reflections](/images/portraits/pg-1996271886666457303.jpg)
+![Banana Vibes & Bathroom Reflections](/images/portraits/pg-1996271886666457303.webp)

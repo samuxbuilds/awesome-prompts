@@ -5,7 +5,7 @@ tags: ["portrait","vintage","modern","light","nano-banana-pro"]
 author: "@kingofdairyque"
 author_url: "https://twitter.com/kingofdairyque"
 source_url: "https://twitter.com/kingofdairyque/status/1991780760030961768"
-preview: "/images/portraits/pg-1991780760030961768.jpg"
+preview: "/images/portraits/pg-1991780760030961768.webp"
 ---
 
 Can you feel the warmth of a cozy room? This stunning portrait radiates vintage vibes with its porcelain beauty and playful spirit, framed by soft lighting and nostalgic magazine decor.
@@ -20,4 +20,4 @@ create a portrait of a beautiful young woman with porcelain-white skin,captured 
 
 ## Example Output
 
-![A Portrait of Nostalgia: 90s Charm Meets Modern Style](/images/portraits/pg-1991780760030961768.jpg)
+![A Portrait of Nostalgia: 90s Charm Meets Modern Style](/images/portraits/pg-1991780760030961768.webp)

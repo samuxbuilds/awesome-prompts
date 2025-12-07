@@ -5,7 +5,7 @@ tags: ["realistic","portrait","nano-banana-pro"]
 author: "@ShreyaYadav___"
 author_url: "https://twitter.com/ShreyaYadav___"
 source_url: "https://twitter.com/ShreyaYadav___/status/1996641925055873418"
-preview: "/images/portraits/pg-1996641925055873418.jpg"
+preview: "/images/portraits/pg-1996641925055873418.webp"
 ---
 
 A windswept beauty captivates with her luminous gaze, set against deep shadows. This ultra-realistic close-up reveals high cheekbones and glossy lips, embodying an editorial mood.
@@ -54,4 +54,4 @@ A windswept beauty captivates with her luminous gaze, set against deep shadows. 
 
 ## Example Output
 
-![Gaze of Mystery: A Portrait of Intrigue](/images/portraits/pg-1996641925055873418.jpg)
+![Gaze of Mystery: A Portrait of Intrigue](/images/portraits/pg-1996641925055873418.webp)

@@ -5,7 +5,7 @@ tags: ["portrait","modern","fashion","minimal","nano-banana-pro"]
 author: "@AIByAbbay"
 author_url: "https://twitter.com/AIByAbbay"
 source_url: "https://twitter.com/AIByAbbay/status/1997274447188029593"
-preview: "/images/portraits/pg-1997274447188029593.jpg"
+preview: "/images/portraits/pg-1997274447188029593.webp"
 ---
 
 A striking portrait captures the essence of modern fashion. The satin bomber jacket gleams against a moody backdrop, while relaxed expressions and sharp textures create a captivating visual narrative.
@@ -73,4 +73,4 @@ A striking portrait captures the essence of modern fashion. The satin bomber jac
 
 ## Example Output
 
-![Chic Shadows: The Elegance of Minimalism](/images/portraits/pg-1997274447188029593.jpg)
+![Chic Shadows: The Elegance of Minimalism](/images/portraits/pg-1997274447188029593.webp)

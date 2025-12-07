@@ -5,7 +5,7 @@ tags: ["art","urban","colorful","vibrant","nano-banana-pro"]
 author: "@_MehdiSharifi_"
 author_url: "https://twitter.com/_MehdiSharifi_"
 source_url: "https://twitter.com/_MehdiSharifi_/status/1993706544861446178"
-preview: "/images/portraits/pg-1993706544861446178.jpg"
+preview: "/images/portraits/pg-1993706544861446178.webp"
 ---
 
 A subway scene bursts with life as a cool dancer tunes into the rhythm. Surrounded by vibrant graffiti and whimsical doodles, music transforms the urban space into a colorful explosion!
@@ -64,4 +64,4 @@ A subway scene bursts with life as a cool dancer tunes into the rhythm. Surround
 
 ## Example Output
 
-![Rhythmic Chaos: The Beat of Urban Art](/images/portraits/pg-1993706544861446178.jpg)
+![Rhythmic Chaos: The Beat of Urban Art](/images/portraits/pg-1993706544861446178.webp)

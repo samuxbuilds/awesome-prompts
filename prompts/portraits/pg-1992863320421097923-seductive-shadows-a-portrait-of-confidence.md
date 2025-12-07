@@ -5,7 +5,7 @@ tags: ["portrait","dark","light","nano-banana-pro"]
 author: "@kingofdairyque"
 author_url: "https://twitter.com/kingofdairyque"
 source_url: "https://twitter.com/kingofdairyque/status/1992863320421097923"
-preview: "/images/portraits/pg-1992863320421097923.jpg"
+preview: "/images/portraits/pg-1992863320421097923.webp"
 ---
 
 A striking close-up captures confidence and allure. Her wavy hair and subtle tattoo complement the dramatic lighting, making each detail pop against the dark backdrop.
@@ -20,4 +20,4 @@ A young woman with dark wavy hair sits in a black hoodie partially open over a w
 
 ## Example Output
 
-![Seductive Shadows: A Portrait of Confidence](/images/portraits/pg-1992863320421097923.jpg)
+![Seductive Shadows: A Portrait of Confidence](/images/portraits/pg-1992863320421097923.webp)

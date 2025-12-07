@@ -5,7 +5,7 @@ tags: ["art","vibrant","nano-banana-pro"]
 author: "@art_muse"
 author_url: "https://twitter.com/art_muse"
 source_url: "https://twitter.com/art_muse/status/1995919720030101591"
-preview: "/images/creative/pg-1995919720030101591.jpg"
+preview: "/images/creative/pg-1995919720030101591.webp"
 ---
 
 An angel rests beneath a Van Gogh-inspired night sky, where vibrant swirls of blue and yellow dance. This artwork captures a moment of serenity and cosmic wonder.
@@ -20,4 +20,4 @@ A beautiful angel with wings sitting under a night sky inspired by Vincent Van G
 
 ## Example Output
 
-![Heavenly Dreams Under a Starry Canvas](/images/creative/pg-1995919720030101591.jpg)
+![Heavenly Dreams Under a Starry Canvas](/images/creative/pg-1995919720030101591.webp)

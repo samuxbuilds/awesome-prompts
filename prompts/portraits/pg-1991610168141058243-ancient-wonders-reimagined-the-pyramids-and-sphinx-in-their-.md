@@ -5,7 +5,7 @@ tags: ["art","nano-banana-pro"]
 author: "@fofrAI"
 author_url: "https://twitter.com/fofrAI"
 source_url: "https://twitter.com/fofrAI/status/1991610168141058243"
-preview: "/images/portraits/pg-1991610168141058243.jpg"
+preview: "/images/portraits/pg-1991610168141058243.webp"
 ---
 
 Can you imagine the Sphinx with a flawlessly chiseled face? This stunning image transports us to the time when the Pyramids soared in their original splendor, revealing breathtaking details of ancient artistry.
@@ -20,4 +20,4 @@ a photo of the pyramids and sphinx, but how they looked when they were originall
 
 ## Example Output
 
-![Ancient Wonders Reimagined: The Pyramids and Sphinx in Their Glory](/images/portraits/pg-1991610168141058243.jpg)
+![Ancient Wonders Reimagined: The Pyramids and Sphinx in Their Glory](/images/portraits/pg-1991610168141058243.webp)

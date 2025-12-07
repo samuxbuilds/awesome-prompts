@@ -5,7 +5,7 @@ tags: ["illustration","light","vibrant","nano-banana-pro"]
 author: "@dr_hacker_fuk"
 author_url: "https://twitter.com/dr_hacker_fuk"
 source_url: "https://twitter.com/dr_hacker_fuk/status/1992064424660906262"
-preview: "/images/creative/pg-1992064424660906262.jpg"
+preview: "/images/creative/pg-1992064424660906262.webp"
 ---
 
 Imagine transforming a simple illustration into a vibrant LINE sticker collection! With 16 unique expressions and poses, creativity meets efficiency like never before!
@@ -20,4 +20,4 @@ Imagine transforming a simple illustration into a vibrant LINE sticker collectio
 
 ## Example Output
 
-![Crafting Characters at Lightning Speed with Nano Banana Pro!](/images/creative/pg-1992064424660906262.jpg)
+![Crafting Characters at Lightning Speed with Nano Banana Pro!](/images/creative/pg-1992064424660906262.webp)

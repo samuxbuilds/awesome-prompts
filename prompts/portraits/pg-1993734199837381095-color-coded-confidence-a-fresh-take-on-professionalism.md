@@ -5,7 +5,7 @@ tags: ["art","nano-banana-pro"]
 author: "@miilesus"
 author_url: "https://twitter.com/miilesus"
 source_url: "https://twitter.com/miilesus/status/1993734199837381095"
-preview: "/images/portraits/pg-1993734199837381095.jpg"
+preview: "/images/portraits/pg-1993734199837381095.webp"
 ---
 
 Can a picture speak volumes? This striking profile shot combines sharp details and soft bokeh, capturing a confident spirit in smart casual attire against a rich backdrop.
@@ -20,4 +20,4 @@ A professional, high-resolution profile photo, maintaining the exact facial stru
 
 ## Example Output
 
-![Color-Coded Confidence: A Fresh Take on Professionalism](/images/portraits/pg-1993734199837381095.jpg)
+![Color-Coded Confidence: A Fresh Take on Professionalism](/images/portraits/pg-1993734199837381095.webp)

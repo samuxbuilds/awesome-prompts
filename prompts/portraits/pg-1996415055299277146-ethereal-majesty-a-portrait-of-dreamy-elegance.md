@@ -5,7 +5,7 @@ tags: ["portrait","fantasy","nano-banana-pro"]
 author: "@rowanali09"
 author_url: "https://twitter.com/rowanali09"
 source_url: "https://twitter.com/rowanali09/status/1996415055299277146"
-preview: "/images/portraits/pg-1996415055299277146.jpg"
+preview: "/images/portraits/pg-1996415055299277146.webp"
 ---
 
 Caught in a moment of fantasy, this captivating portrait showcases a young woman adorned in a magnificent bronze ensemble, her auburn hair flowing like soft waves.
@@ -20,4 +20,4 @@ Ultra-realistic ethereal portrait of a beautiful young woman with long flowing a
 
 ## Example Output
 
-![Ethereal Majesty: A Portrait of Dreamy Elegance](/images/portraits/pg-1996415055299277146.jpg)
+![Ethereal Majesty: A Portrait of Dreamy Elegance](/images/portraits/pg-1996415055299277146.webp)

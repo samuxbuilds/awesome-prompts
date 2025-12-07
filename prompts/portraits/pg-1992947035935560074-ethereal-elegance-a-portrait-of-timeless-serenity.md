@@ -5,7 +5,7 @@ tags: ["portrait","art","modern","nano-banana-pro"]
 author: "@ShreyaYadav___"
 author_url: "https://twitter.com/ShreyaYadav___"
 source_url: "https://twitter.com/ShreyaYadav___/status/1992947035935560074"
-preview: "/images/portraits/pg-1992947035935560074.jpg"
+preview: "/images/portraits/pg-1992947035935560074.webp"
 ---
 
 Captured in a gentle haze, this artwork unveils a divine gaze that transcends time. A fusion of tradition and modernity, the soft strokes invite contemplation and admiration.
@@ -32,4 +32,4 @@ The direct gaze of the subject combined with the traditional attire creates a re
 
 ## Example Output
 
-![Ethereal Elegance: A Portrait of Timeless Serenity](/images/portraits/pg-1992947035935560074.jpg)
+![Ethereal Elegance: A Portrait of Timeless Serenity](/images/portraits/pg-1992947035935560074.webp)

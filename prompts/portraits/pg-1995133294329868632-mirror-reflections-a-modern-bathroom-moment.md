@@ -5,7 +5,7 @@ tags: ["selfie","modern","light","nano-banana-pro"]
 author: "@_imfaizan18"
 author_url: "https://twitter.com/_imfaizan18"
 source_url: "https://twitter.com/_imfaizan18/status/1995133294329868632"
-preview: "/images/portraits/pg-1995133294329868632.jpg"
+preview: "/images/portraits/pg-1995133294329868632.webp"
 ---
 
 In a chic bathroom, a young woman captures her essence with a striking mirror selfie. The matte grey tiles and soft lighting create an intimate ambiance that enhances her casual elegance.
@@ -32,4 +32,4 @@ In a chic bathroom, a young woman captures her essence with a striking mirror se
 
 ## Example Output
 
-![Mirror Reflections: A Modern Bathroom Moment](/images/portraits/pg-1995133294329868632.jpg)
+![Mirror Reflections: A Modern Bathroom Moment](/images/portraits/pg-1995133294329868632.webp)

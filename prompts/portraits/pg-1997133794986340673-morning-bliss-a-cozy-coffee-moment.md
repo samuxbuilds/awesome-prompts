@@ -5,7 +5,7 @@ tags: ["light","nano-banana-pro"]
 author: "@Sophia_here12"
 author_url: "https://twitter.com/Sophia_here12"
 source_url: "https://twitter.com/Sophia_here12/status/1997133794986340673"
-preview: "/images/portraits/pg-1997133794986340673.jpg"
+preview: "/images/portraits/pg-1997133794986340673.webp"
 ---
 
 Golden morning light bathe her serene smile as she cradles coffee, wrapped in warmth. A cozy café haven, where simplicity meets beauty in every sip.
@@ -27,4 +27,4 @@ A perfect blend of warmth, calmness, and morning delight.
 
 ## Example Output
 
-![Morning Bliss: A Cozy Coffee Moment](/images/portraits/pg-1997133794986340673.jpg)
+![Morning Bliss: A Cozy Coffee Moment](/images/portraits/pg-1997133794986340673.webp)

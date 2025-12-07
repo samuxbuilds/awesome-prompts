@@ -5,7 +5,7 @@ tags: ["portrait","nano-banana-pro"]
 author: "@miilesus"
 author_url: "https://twitter.com/miilesus"
 source_url: "https://twitter.com/miilesus/status/1996304252948635969"
-preview: "/images/3d/pg-1996304252948635969.jpg"
+preview: "/images/3d/pg-1996304252948635969.webp"
 ---
 
 A captivating scene unfolds on a luxury terrace, where a charming woman with soft pink lips and a dreamy smile rests her chin on delicate hands, the evening sky glittering in the background.
@@ -98,4 +98,4 @@ A captivating scene unfolds on a luxury terrace, where a charming woman with sof
 
 ## Example Output
 
-![Chic Serenity: A Portrait of Timeless Elegance](/images/3d/pg-1996304252948635969.jpg)
+![Chic Serenity: A Portrait of Timeless Elegance](/images/3d/pg-1996304252948635969.webp)

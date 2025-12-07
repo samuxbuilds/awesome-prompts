@@ -5,7 +5,7 @@ tags: ["anime","selfie","cute","nano-banana-pro"]
 author: "@ZaraIrahh"
 author_url: "https://twitter.com/ZaraIrahh"
 source_url: "https://twitter.com/ZaraIrahh/status/1991681614368436468"
-preview: "/images/portraits/pg-1991681614368436468.jpg"
+preview: "/images/portraits/pg-1991681614368436468.webp"
 ---
 
 Capture the essence of the early 2000s with a playful mirror selfie! Long waves, a cute anime tee, and retro decor set the stage for confident self-expression.
@@ -43,4 +43,4 @@ Capture the essence of the early 2000s with a playful mirror selfie! Long waves,
 
 ## Example Output
 
-![Nostalgia in a Snap: 2000s Mirror Selfie Vibes](/images/portraits/pg-1991681614368436468.jpg)
+![Nostalgia in a Snap: 2000s Mirror Selfie Vibes](/images/portraits/pg-1991681614368436468.webp)

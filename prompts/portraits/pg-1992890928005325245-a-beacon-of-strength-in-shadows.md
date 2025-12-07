@@ -5,7 +5,7 @@ tags: ["art","minimal","light","nano-banana-pro"]
 author: "@AIwithkhan"
 author_url: "https://twitter.com/AIwithkhan"
 source_url: "https://twitter.com/AIwithkhan/status/1992890928005325245"
-preview: "/images/portraits/pg-1992890928005325245.jpg"
+preview: "/images/portraits/pg-1992890928005325245.webp"
 ---
 
 In a minimalist realm, a woman stands illuminated by a bold beam, her transparent glasses reflecting light like art. Her upward gaze hints at untold stories of resilience and power.
@@ -20,4 +20,4 @@ A dramatic, low-angle portrait of a woman standing in a dark, minimalist space, 
 
 ## Example Output
 
-![A Beacon of Strength in Shadows](/images/portraits/pg-1992890928005325245.jpg)
+![A Beacon of Strength in Shadows](/images/portraits/pg-1992890928005325245.webp)

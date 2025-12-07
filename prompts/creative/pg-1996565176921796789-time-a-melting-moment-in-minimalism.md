@@ -5,7 +5,7 @@ tags: ["minimal","nano-banana-pro"]
 author: "@LudovicCreator"
 author_url: "https://twitter.com/LudovicCreator"
 source_url: "https://twitter.com/LudovicCreator/status/1996565176921796789"
-preview: "/images/creative/pg-1996565176921796789.jpg"
+preview: "/images/creative/pg-1996565176921796789.webp"
 ---
 
 A stunning visual language unfolds as the word 'TIME' transforms. A candle melts elegantly, capturing the essence of fleeting moments against a serene gradient backdrop.
@@ -20,4 +20,4 @@ Design a minimalist poster of the word "TIME" in a clean sans-serif font. Replac
 
 ## Example Output
 
-![TIME: A Melting Moment in Minimalism](/images/creative/pg-1996565176921796789.jpg)
+![TIME: A Melting Moment in Minimalism](/images/creative/pg-1996565176921796789.webp)

@@ -5,7 +5,7 @@ tags: ["realistic","portrait","art","nano-banana-pro"]
 author: "@ShreyaYadav___"
 author_url: "https://twitter.com/ShreyaYadav___"
 source_url: "https://twitter.com/ShreyaYadav___/status/1994322787776032903"
-preview: "/images/portraits/pg-1994322787776032903.jpg"
+preview: "/images/portraits/pg-1994322787776032903.webp"
 ---
 
 Can art capture the soul? This stunning hyperrealistic portrait glows under the night sky, showcasing a woman in an all-black ensemble, exuding confidence with every detail.
@@ -43,4 +43,4 @@ Can art capture the soul? This stunning hyperrealistic portrait glows under the 
 
 ## Example Output
 
-![Captivating Night Portrait: A Hyperrealistic Vision](/images/portraits/pg-1994322787776032903.jpg)
+![Captivating Night Portrait: A Hyperrealistic Vision](/images/portraits/pg-1994322787776032903.webp)

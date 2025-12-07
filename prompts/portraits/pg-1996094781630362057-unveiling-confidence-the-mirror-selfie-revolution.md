@@ -5,7 +5,7 @@ tags: ["selfie","nano-banana-pro"]
 author: "@xmiiru_"
 author_url: "https://twitter.com/xmiiru_"
 source_url: "https://twitter.com/xmiiru_/status/1996094781630362057"
-preview: "/images/portraits/pg-1996094781630362057.jpg"
+preview: "/images/portraits/pg-1996094781630362057.webp"
 ---
 
 Caught in a moment of self-assurance, this young woman radiates style with her two-toned waves and chic outfit. Are you ready to flaunt your selfie game?
@@ -67,4 +67,4 @@ Caught in a moment of self-assurance, this young woman radiates style with her t
 
 ## Example Output
 
-![Unveiling Confidence: The Mirror Selfie Revolution](/images/portraits/pg-1996094781630362057.jpg)
+![Unveiling Confidence: The Mirror Selfie Revolution](/images/portraits/pg-1996094781630362057.webp)

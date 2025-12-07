@@ -5,7 +5,7 @@ tags: ["anime","modern","vibrant","nano-banana-pro"]
 author: "@CharaspowerAI"
 author_url: "https://twitter.com/CharaspowerAI"
 source_url: "https://twitter.com/CharaspowerAI/status/1993065781362672074"
-preview: "/images/portraits/pg-1993065781362672074.jpg"
+preview: "/images/portraits/pg-1993065781362672074.webp"
 ---
 
 Imagine Goku glowing at the center of a vibrant, anime-styled feast! Classic Renaissance meets thrilling manga in this dynamic reinterpretation, where heroes unite at the table.
@@ -20,4 +20,4 @@ Recreate the composition of Leonardo da Vinci’s The Last Supper, but with icon
 
 ## Example Output
 
-![Anime Supremacy: A Modern Twist on The Last Supper](/images/portraits/pg-1993065781362672074.jpg)
+![Anime Supremacy: A Modern Twist on The Last Supper](/images/portraits/pg-1993065781362672074.webp)

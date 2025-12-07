@@ -5,7 +5,7 @@ tags: ["light","digital","nano-banana-pro"]
 author: "@craftian_keskin"
 author_url: "https://twitter.com/craftian_keskin"
 source_url: "https://twitter.com/craftian_keskin/status/1997029136725065981"
-preview: "/images/portraits/pg-1997029136725065981.jpg"
+preview: "/images/portraits/pg-1997029136725065981.webp"
 ---
 
 A striking redhead flashes a gentle smile, cradling a blister pack of social media icons. Is it time for your tech-inspired refresh?
@@ -110,4 +110,4 @@ A striking redhead flashes a gentle smile, cradling a blister pack of social med
 
 ## Example Output
 
-![Your Daily Dose of Digital Delight](/images/portraits/pg-1997029136725065981.jpg)
+![Your Daily Dose of Digital Delight](/images/portraits/pg-1997029136725065981.webp)

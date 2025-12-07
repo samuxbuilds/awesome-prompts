@@ -5,7 +5,7 @@ tags: ["urban","light","neon","vibrant","nano-banana-pro"]
 author: "@AshifalikhanF"
 author_url: "https://twitter.com/AshifalikhanF"
 source_url: "https://twitter.com/AshifalikhanF/status/1996456554376385013"
-preview: "/images/3d/pg-1996456554376385013.jpg"
+preview: "/images/3d/pg-1996456554376385013.webp"
 ---
 
 What stories do raindrops tell in a bustling city? This striking image captures the vibrant chaos of a rainy street, where neon lights dance in puddles and blurred figures create a dynamic urban narrative.
@@ -20,4 +20,4 @@ Hyper-realistic street photo in heavy rainfall , raindrops frozen mid-air, refle
 
 ## Example Output
 
-![Urban Symphony: Rain-Drenched Reflections](/images/3d/pg-1996456554376385013.jpg)
+![Urban Symphony: Rain-Drenched Reflections](/images/3d/pg-1996456554376385013.webp)

@@ -5,7 +5,7 @@ tags: ["light","nano-banana-pro"]
 author: "@_imfaizan18"
 author_url: "https://twitter.com/_imfaizan18"
 source_url: "https://twitter.com/_imfaizan18/status/1993157519779545238"
-preview: "/images/portraits/pg-1993157519779545238.jpg"
+preview: "/images/portraits/pg-1993157519779545238.webp"
 ---
 
 A snowy morning scene captures a young woman in a cream hoodie, sharing warmth with her curious fluffy puppy. The gentle light adds a touch of magic to their bond.
@@ -94,4 +94,4 @@ A snowy morning scene captures a young woman in a cream hoodie, sharing warmth w
 
 ## Example Output
 
-![Winter Whispers: Cozy Moments with a Puppy](/images/portraits/pg-1993157519779545238.jpg)
+![Winter Whispers: Cozy Moments with a Puppy](/images/portraits/pg-1993157519779545238.webp)

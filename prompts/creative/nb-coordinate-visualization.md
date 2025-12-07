@@ -3,7 +3,7 @@ title: "Coordinate Visualization"
 category: creative
 tags: ["creative", "ai-art"]
 author: "@nanobanana-pro"
-preview: "/images/creative/nb-coordinate-visualization.png"
+preview: "/images/creative/nb-coordinate-visualization.webp"
 ---
 
 *Generates a specific location and time based purely on latitude/longitude coordinates.*
@@ -14,4 +14,4 @@ preview: "/images/creative/nb-coordinate-visualization.png"
 - [Original](https://replicate.com/)
 
 ## Example Output
-![Coordinate Visualization](/images/creative/nb-coordinate-visualization.png)
+![Coordinate Visualization](/images/creative/nb-coordinate-visualization.webp)

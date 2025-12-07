@@ -5,7 +5,7 @@ tags: ["selfie","art","light","nano-banana-pro"]
 author: "@kaanakz"
 author_url: "https://twitter.com/kaanakz"
 source_url: "https://twitter.com/kaanakz/status/1996837849916649847"
-preview: "/images/portraits/pg-1996837849916649847.jpg"
+preview: "/images/portraits/pg-1996837849916649847.webp"
 ---
 
 Captured chaos! A retro Canon reveals a lively group selfie, bursting with laughter amidst party lights. Can you feel the Y2K fun?
@@ -75,4 +75,4 @@ Captured chaos! A retro Canon reveals a lively group selfie, bursting with laugh
 
 ## Example Output
 
-![Nostalgic Vibes: A Nano Banana Moment 🍌](/images/portraits/pg-1996837849916649847.jpg)
+![Nostalgic Vibes: A Nano Banana Moment 🍌](/images/portraits/pg-1996837849916649847.webp)

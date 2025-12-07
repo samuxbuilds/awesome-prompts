@@ -5,7 +5,7 @@ tags: ["art","modern","fashion","minimal","nano-banana-pro"]
 author: "@lexx_aura"
 author_url: "https://twitter.com/lexx_aura"
 source_url: "https://twitter.com/lexx_aura/status/1995857816457019660"
-preview: "/images/portraits/pg-1995857816457019660.jpg"
+preview: "/images/portraits/pg-1995857816457019660.webp"
 ---
 
 Radiating confidence, this stunning model in a sleek black slip dress captivates against a backdrop of modern sophistication. Her warm glow and sultry gaze transform this upscale apartment into a fashion statement!
@@ -87,4 +87,4 @@ Radiating confidence, this stunning model in a sleek black slip dress captivates
 
 ## Example Output
 
-![Chic Elegance in a Minimalist Haven](/images/portraits/pg-1995857816457019660.jpg)
+![Chic Elegance in a Minimalist Haven](/images/portraits/pg-1995857816457019660.webp)

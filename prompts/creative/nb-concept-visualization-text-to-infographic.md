@@ -3,7 +3,7 @@ title: "Concept Visualization (Text to Infographic)"
 category: creative
 tags: ["illustration", "ai-art"]
 author: "@nanobanana-pro"
-preview: "/images/creative/nb-concept-visualization-text-to-infographic.png"
+preview: "/images/creative/nb-concept-visualization-text-to-infographic.webp"
 ---
 
 *Converts textual concepts into clear, educational vector illustrations.*
@@ -14,4 +14,4 @@ Create an educational infographic explaining [Photosynthesis] . Visual Elements 
 - [Original](https://mp.weixin.qq.com/s/lrYNbs4rGs3KOqewoZ6aNQ)
 
 ## Example Output
-![Concept Visualization (Text to Infographic)](/images/creative/nb-concept-visualization-text-to-infographic.png)
+![Concept Visualization (Text to Infographic)](/images/creative/nb-concept-visualization-text-to-infographic.webp)

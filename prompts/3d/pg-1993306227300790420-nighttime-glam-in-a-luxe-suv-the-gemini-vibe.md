@@ -5,7 +5,7 @@ tags: ["nano-banana-pro"]
 author: "@xmliisu"
 author_url: "https://twitter.com/xmliisu"
 source_url: "https://twitter.com/xmliisu/status/1993306227300790420"
-preview: "/images/3d/pg-1993306227300790420.jpg"
+preview: "/images/3d/pg-1993306227300790420.webp"
 ---
 
 Check out this stunning scene of confidence and allure! A young woman, radiant in her shiny white tube top and high-waisted jeans, exudes charm behind the wheel. The cinematic glow and luxurious SUV interior create an unforgettable visual experience.
@@ -74,4 +74,4 @@ Check out this stunning scene of confidence and allure! A young woman, radiant i
 
 ## Example Output
 
-![Nighttime Glam in a Luxe SUV: The Gemini Vibe](/images/3d/pg-1993306227300790420.jpg)
+![Nighttime Glam in a Luxe SUV: The Gemini Vibe](/images/3d/pg-1993306227300790420.webp)

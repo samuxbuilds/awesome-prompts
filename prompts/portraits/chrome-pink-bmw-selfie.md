@@ -5,7 +5,7 @@ tags: ["selfie", "bmw", "luxury", "urban", "street-style", "casual", "pink-car"]
 author: "Gauche AI"
 author_url: "https://x.com/gaucheai"
 source_url: "https://x.com/gaucheai/status/1997405140723323255"
-preview: "/images/portraits/chrome-pink-bmw-selfie.jpg"
+preview: "/images/portraits/chrome-pink-bmw-selfie.webp"
 ---
 
 *A casual yet luxurious main character moment featuring a chrome pink BMW i8.*
@@ -35,4 +35,4 @@ A high-quality vertical shot of a young woman in her early 20s taking a casual s
 
 ## Example Output
 
-![Chrome Pink BMW Selfie](/images/portraits/chrome-pink-bmw-selfie.jpg)
+![Chrome Pink BMW Selfie](/images/portraits/chrome-pink-bmw-selfie.webp)

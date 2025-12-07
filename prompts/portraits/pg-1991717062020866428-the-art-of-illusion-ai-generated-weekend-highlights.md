@@ -5,7 +5,7 @@ tags: ["selfie","art","light","nano-banana-pro"]
 author: "@imaxichuhai"
 author_url: "https://twitter.com/imaxichuhai"
 source_url: "https://twitter.com/imaxichuhai/status/1991717062020866428"
-preview: "/images/portraits/pg-1991717062020866428.jpg"
+preview: "/images/portraits/pg-1991717062020866428.webp"
 ---
 
 Can you tell the difference? Every image in this stunning grid is AI-crafted, capturing moments that never happened. A mirror selfie, café vibes, and laughter—all imagined!
@@ -20,4 +20,4 @@ Generate a 9-image ‘photo dump’ grid of this person’s weekend: a mirror se
 
 ## Example Output
 
-![The Art of Illusion: AI-Generated Weekend Highlights](/images/portraits/pg-1991717062020866428.jpg)
+![The Art of Illusion: AI-Generated Weekend Highlights](/images/portraits/pg-1991717062020866428.webp)

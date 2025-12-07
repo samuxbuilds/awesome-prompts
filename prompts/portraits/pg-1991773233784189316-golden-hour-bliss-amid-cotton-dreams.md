@@ -5,7 +5,7 @@ tags: ["light","nano-banana-pro"]
 author: "@SimplyAnnisa"
 author_url: "https://twitter.com/SimplyAnnisa"
 source_url: "https://twitter.com/SimplyAnnisa/status/1991773233784189316"
-preview: "/images/portraits/pg-1991773233784189316.jpg"
+preview: "/images/portraits/pg-1991773233784189316.webp"
 ---
 
 Bathed in golden sunlight, a young woman stands serenely in a sea of cotton blooms, their fluffy white petals contrasting beautifully with her warm glow. A moment of pure tranquility unfolds.
@@ -29,4 +29,4 @@ Her skin glows naturally under the warm sunlight, with realistic soft shadows em
 
 ## Example Output
 
-![Golden Hour Bliss Amid Cotton Dreams](/images/portraits/pg-1991773233784189316.jpg)
+![Golden Hour Bliss Amid Cotton Dreams](/images/portraits/pg-1991773233784189316.webp)

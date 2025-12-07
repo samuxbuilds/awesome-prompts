@@ -5,7 +5,7 @@ tags: ["selfie","cute","light","vibrant","nano-banana-pro"]
 author: "@ReemKhan_07"
 author_url: "https://twitter.com/ReemKhan_07"
 source_url: "https://twitter.com/ReemKhan_07/status/1996494595757416834"
-preview: "/images/3d/pg-1996494595757416834.jpg"
+preview: "/images/3d/pg-1996494595757416834.webp"
 ---
 
 A mirror selfie bursting with whimsy! This charming young woman embodies joy in her playful outfit, surrounded by vibrant decor and twinkling lights. What a delightful moment!
@@ -20,4 +20,4 @@ A mirror selfie bursting with whimsy! This charming young woman embodies joy in 
 
 ## Example Output
 
-![Cuteness in a Cozy Wonderland 💖](/images/3d/pg-1996494595757416834.jpg)
+![Cuteness in a Cozy Wonderland 💖](/images/3d/pg-1996494595757416834.webp)

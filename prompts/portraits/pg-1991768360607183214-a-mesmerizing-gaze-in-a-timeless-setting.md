@@ -5,7 +5,7 @@ tags: ["portrait","art","light","nano-banana-pro"]
 author: "@AIwithkhan"
 author_url: "https://twitter.com/AIwithkhan"
 source_url: "https://twitter.com/AIwithkhan/status/1991768360607183214"
-preview: "/images/portraits/pg-1991768360607183214.jpg"
+preview: "/images/portraits/pg-1991768360607183214.webp"
 ---
 
 Is it the enchanting eyes or the sultry ambiance that captures your heart? This stunning portrait, enveloped in warm shadows and rich textures, reveals a captivating beauty that lingers long after the light fades.
@@ -20,4 +20,4 @@ A high-quality portrait photograph shows a beautiful woman with long, wavy brown
 
 ## Example Output
 
-![A Mesmerizing Gaze in a Timeless Setting](/images/portraits/pg-1991768360607183214.jpg)
+![A Mesmerizing Gaze in a Timeless Setting](/images/portraits/pg-1991768360607183214.webp)

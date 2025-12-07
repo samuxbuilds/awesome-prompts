@@ -5,7 +5,7 @@ tags: ["portrait","nano-banana-pro"]
 author: "@lexx_aura"
 author_url: "https://twitter.com/lexx_aura"
 source_url: "https://twitter.com/lexx_aura/status/1992619822396678367"
-preview: "/images/portraits/pg-1992619822396678367.jpg"
+preview: "/images/portraits/pg-1992619822396678367.webp"
 ---
 
 A man strides through the shadows of an airport runway, smoke curling from his lips as flames roar behind him. The night is alive with fiery reflections, painting a dramatic portrait of resilience and danger.
@@ -48,4 +48,4 @@ A man strides through the shadows of an airport runway, smoke curling from his l
 
 ## Example Output
 
-![Nightfall Inferno: A Gritty Airport Encounter](/images/portraits/pg-1992619822396678367.jpg)
+![Nightfall Inferno: A Gritty Airport Encounter](/images/portraits/pg-1992619822396678367.webp)

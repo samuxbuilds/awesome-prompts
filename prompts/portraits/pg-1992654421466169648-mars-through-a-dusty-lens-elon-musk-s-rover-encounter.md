@@ -5,7 +5,7 @@ tags: ["art","light","nano-banana-pro"]
 author: "@azed_ai"
 author_url: "https://twitter.com/azed_ai"
 source_url: "https://twitter.com/azed_ai/status/1992654421466169648"
-preview: "/images/portraits/pg-1992654421466169648.jpg"
+preview: "/images/portraits/pg-1992654421466169648.webp"
 ---
 
 Caught in the harsh Martian light, Elon Musk gazes intensely into the rover's lens, revealing a weathered visage and a story of exploration etched in every line.
@@ -20,4 +20,4 @@ Raw wide-angle engineering camera footage from the Mars surface. Extreme fisheye
 
 ## Example Output
 
-![Mars Through a Dusty Lens: Elon Musk's Rover Encounter](/images/portraits/pg-1992654421466169648.jpg)
+![Mars Through a Dusty Lens: Elon Musk's Rover Encounter](/images/portraits/pg-1992654421466169648.webp)

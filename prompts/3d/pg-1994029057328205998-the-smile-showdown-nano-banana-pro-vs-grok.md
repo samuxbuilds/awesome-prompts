@@ -5,7 +5,7 @@ tags: ["selfie","light","vibrant","nano-banana-pro"]
 author: "@ViralOps_"
 author_url: "https://twitter.com/ViralOps_"
 source_url: "https://twitter.com/ViralOps_/status/1994029057328205998"
-preview: "/images/3d/pg-1994029057328205998.jpg"
+preview: "/images/3d/pg-1994029057328205998.webp"
 ---
 
 Bright smiles and vibrant colors collide in this selfie! A young woman radiates joy in her vivid red tee, basking in natural light from the car's window.
@@ -183,4 +183,4 @@ Bright smiles and vibrant colors collide in this selfie! A young woman radiates 
 
 ## Example Output
 
-![The Smile Showdown: Nano Banana Pro vs. Grok](/images/3d/pg-1994029057328205998.jpg)
+![The Smile Showdown: Nano Banana Pro vs. Grok](/images/3d/pg-1994029057328205998.webp)

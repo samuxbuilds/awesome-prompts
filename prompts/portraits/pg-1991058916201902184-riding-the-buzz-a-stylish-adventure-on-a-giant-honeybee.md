@@ -5,7 +5,7 @@ tags: ["nano-banana-pro"]
 author: "@ShreyaYadav___"
 author_url: "https://twitter.com/ShreyaYadav___"
 source_url: "https://twitter.com/ShreyaYadav___/status/1991058916201902184"
-preview: "/images/portraits/pg-1991058916201902184.jpg"
+preview: "/images/portraits/pg-1991058916201902184.webp"
 ---
 
 What a scene! A stylish individual draped in Gucci casually rides a massive honeybee, basking in golden-hour glow. The intricate details of the bee's wings and fur create a stunning visual harmony, capturing the essence of whimsical luxury.
@@ -22,4 +22,4 @@ Holding bee .
 
 ## Example Output
 
-![Riding the Buzz: A Stylish Adventure on a Giant Honeybee](/images/portraits/pg-1991058916201902184.jpg)
+![Riding the Buzz: A Stylish Adventure on a Giant Honeybee](/images/portraits/pg-1991058916201902184.webp)

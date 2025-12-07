@@ -5,7 +5,7 @@ tags: ["portrait","nano-banana-pro"]
 author: "@Just_sharon7"
 author_url: "https://twitter.com/Just_sharon7"
 source_url: "https://twitter.com/Just_sharon7/status/1996585605921386904"
-preview: "/images/3d/pg-1996585605921386904.jpg"
+preview: "/images/3d/pg-1996585605921386904.webp"
 ---
 
 A mesmerizing portrait of elegance! This enchanting woman atop her ornate camel embodies opulence with every detail, from her rich attire to the golden hour glow.
@@ -33,4 +33,4 @@ A mesmerizing portrait of elegance! This enchanting woman atop her ornate camel 
 
 ## Example Output
 
-![Regal Beauty in the Desert Sun](/images/3d/pg-1996585605921386904.jpg)
+![Regal Beauty in the Desert Sun](/images/3d/pg-1996585605921386904.webp)

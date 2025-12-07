@@ -5,7 +5,7 @@ tags: ["modern","fashion","nano-banana-pro"]
 author: "@aleenaamiir"
 author_url: "https://twitter.com/aleenaamiir"
 source_url: "https://twitter.com/aleenaamiir/status/1996536685459607688"
-preview: "/images/portraits/pg-1996536685459607688.jpg"
+preview: "/images/portraits/pg-1996536685459607688.webp"
 ---
 
 Bold and beautiful! This young woman embodies modern elegance in a striking red dress, poised effortlessly against a textured white backdrop. Her chic accessories elevate the look to pure sophistication.
@@ -30,4 +30,4 @@ Bold and beautiful! This young woman embodies modern elegance in a striking red 
 
 ## Example Output
 
-![Elegance in Red: A Modern Fashion Statement](/images/portraits/pg-1996536685459607688.jpg)
+![Elegance in Red: A Modern Fashion Statement](/images/portraits/pg-1996536685459607688.webp)

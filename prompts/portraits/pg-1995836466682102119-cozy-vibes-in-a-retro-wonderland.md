@@ -5,7 +5,7 @@ tags: ["nano-banana-pro"]
 author: "@IqraSaifiii"
 author_url: "https://twitter.com/IqraSaifiii"
 source_url: "https://twitter.com/IqraSaifiii/status/1995836466682102119"
-preview: "/images/portraits/pg-1995836466682102119.jpg"
+preview: "/images/portraits/pg-1995836466682102119.webp"
 ---
 
 A charming young woman radiates warmth against a kaleidoscope of retro visuals. Her oversized sweater and gentle smile invite you into this cozy, eclectic space.
@@ -29,4 +29,4 @@ A charming young woman radiates warmth against a kaleidoscope of retro visuals. 
 
 ## Example Output
 
-![Cozy Vibes in a Retro Wonderland](/images/portraits/pg-1995836466682102119.jpg)
+![Cozy Vibes in a Retro Wonderland](/images/portraits/pg-1995836466682102119.webp)

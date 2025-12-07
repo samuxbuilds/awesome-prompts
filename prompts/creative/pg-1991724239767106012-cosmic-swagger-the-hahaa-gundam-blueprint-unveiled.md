@@ -5,7 +5,7 @@ tags: ["vibrant","nano-banana-pro"]
 author: "@CaptainHaHaa"
 author_url: "https://twitter.com/CaptainHaHaa"
 source_url: "https://twitter.com/CaptainHaHaa/status/1991724239767106012"
-preview: "/images/creative/pg-1991724239767106012.jpg"
+preview: "/images/creative/pg-1991724239767106012.webp"
 ---
 
 Behold the RX-HH-01 HaHaa Gundam! Retro chrome meets cosmic flair with funky features like the boomerang V-crest and vibrant CRT panels. A true Aussie rogue masterpiece!
@@ -39,4 +39,4 @@ Camera: orthographic front view, side inset.
 
 ## Example Output
 
-![Cosmic Swagger: The HaHaa Gundam Blueprint Unveiled!](/images/creative/pg-1991724239767106012.jpg)
+![Cosmic Swagger: The HaHaa Gundam Blueprint Unveiled!](/images/creative/pg-1991724239767106012.webp)

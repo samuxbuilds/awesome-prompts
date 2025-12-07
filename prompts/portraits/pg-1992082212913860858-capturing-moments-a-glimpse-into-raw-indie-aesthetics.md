@@ -5,7 +5,7 @@ tags: ["nano-banana-pro"]
 author: "@kingofdairyque"
 author_url: "https://twitter.com/kingofdairyque"
 source_url: "https://twitter.com/kingofdairyque/status/1992082212913860858"
-preview: "/images/portraits/pg-1992082212913860858.jpg"
+preview: "/images/portraits/pg-1992082212913860858.webp"
 ---
 
 A knowing smirk and scattered memories—this young woman embodies the spirit of indie film. The grainy texture and cluttered background pull you into her world.
@@ -20,4 +20,4 @@ A young woman, same face preserved, lit by a harsh on-camera flash from a thrift
 
 ## Example Output
 
-![Capturing Moments: A Glimpse into Raw Indie Aesthetics](/images/portraits/pg-1992082212913860858.jpg)
+![Capturing Moments: A Glimpse into Raw Indie Aesthetics](/images/portraits/pg-1992082212913860858.webp)

@@ -5,7 +5,7 @@ tags: ["vibrant","nano-banana-pro"]
 author: "@kon39000"
 author_url: "https://twitter.com/kon39000"
 source_url: "https://twitter.com/kon39000/status/1991689847468372274"
-preview: "/images/portraits/pg-1991689847468372274.jpg"
+preview: "/images/portraits/pg-1991689847468372274.webp"
 ---
 
 How about a burst of personality in your chats? These 8 LINE stickers, crafted with vibrant expressions and poses, bring daily greetings to life in a fun, engaging way!
@@ -22,4 +22,4 @@ How about a burst of personality in your chats? These 8 LINE stickers, crafted w
 
 ## Example Output
 
-![Unleashing Line Stickers: Meet Nano Banana Pro!](/images/portraits/pg-1991689847468372274.jpg)
+![Unleashing Line Stickers: Meet Nano Banana Pro!](/images/portraits/pg-1991689847468372274.webp)

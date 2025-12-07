@@ -5,7 +5,7 @@ tags: ["light","vibrant","nano-banana-pro"]
 author: "@IamEmily2050"
 author_url: "https://twitter.com/IamEmily2050"
 source_url: "https://twitter.com/IamEmily2050/status/1994112331278852312"
-preview: "/images/3d/pg-1994112331278852312.jpg"
+preview: "/images/3d/pg-1994112331278852312.webp"
 ---
 
 Under the shimmering lights of a vibrant night market, a young woman emanates grace in royal blue satin, savoring roasted bone marrow. Her captivating smile and alluring features shine amidst the bustling ambiance.
@@ -65,4 +65,4 @@ Under the shimmering lights of a vibrant night market, a young woman emanates gr
 
 ## Example Output
 
-![Capturing Elegance: A Night Market Delight](/images/3d/pg-1994112331278852312.jpg)
+![Capturing Elegance: A Night Market Delight](/images/3d/pg-1994112331278852312.webp)

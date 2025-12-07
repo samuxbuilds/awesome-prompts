@@ -5,7 +5,7 @@ tags: ["fashion","light","nano-banana-pro"]
 author: "@xmiiru_"
 author_url: "https://twitter.com/xmiiru_"
 source_url: "https://twitter.com/xmiiru_/status/1992863330726203428"
-preview: "/images/3d/pg-1992863330726203428.jpg"
+preview: "/images/3d/pg-1992863330726203428.webp"
 ---
 
 A soft glow envelops this chic figure, balancing casual style with high-fashion flair. Sunlit highlights dance on her curls, creating a dreamlike aura.
@@ -47,4 +47,4 @@ A soft glow envelops this chic figure, balancing casual style with high-fashion 
 
 ## Example Output
 
-![Breezy Elegance on the Walkway](/images/3d/pg-1992863330726203428.jpg)
+![Breezy Elegance on the Walkway](/images/3d/pg-1992863330726203428.webp)

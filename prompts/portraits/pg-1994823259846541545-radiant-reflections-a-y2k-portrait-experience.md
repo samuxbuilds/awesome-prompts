@@ -5,7 +5,7 @@ tags: ["portrait","dark","nano-banana-pro"]
 author: "@miilesus"
 author_url: "https://twitter.com/miilesus"
 source_url: "https://twitter.com/miilesus/status/1994823259846541545"
-preview: "/images/portraits/pg-1994823259846541545.jpg"
+preview: "/images/portraits/pg-1994823259846541545.webp"
 ---
 
 A teenage girl shines in a Y2K-inspired portrait, her dark waves cascading against a mirror's reflection. The cool blue tones and bright flash enhance her captivating look.
@@ -100,4 +100,4 @@ A teenage girl shines in a Y2K-inspired portrait, her dark waves cascading again
 
 ## Example Output
 
-![Radiant Reflections: A Y2K Portrait Experience](/images/portraits/pg-1994823259846541545.jpg)
+![Radiant Reflections: A Y2K Portrait Experience](/images/portraits/pg-1994823259846541545.webp)

@@ -5,7 +5,7 @@ tags: ["light","nano-banana-pro"]
 author: "@SimplyAnnisa"
 author_url: "https://twitter.com/SimplyAnnisa"
 source_url: "https://twitter.com/SimplyAnnisa/status/1994565437670207617"
-preview: "/images/3d/pg-1994565437670207617.jpg"
+preview: "/images/3d/pg-1994565437670207617.webp"
 ---
 
 A young woman radiates holiday cheer, posing with her plush Minnie Mouse amidst twinkling lights and garlands. The joyful scene captures the magic of Christmas at Disney!
@@ -26,4 +26,4 @@ The overall mood is joyful, whimsical, and full of holiday spirit — vibrant co
 
 ## Example Output
 
-![Festive Whimsy at Disney: A Night to Remember](/images/3d/pg-1994565437670207617.jpg)
+![Festive Whimsy at Disney: A Night to Remember](/images/3d/pg-1994565437670207617.webp)

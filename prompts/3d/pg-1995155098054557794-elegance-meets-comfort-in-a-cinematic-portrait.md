@@ -5,7 +5,7 @@ tags: ["portrait","modern","light","nano-banana-pro"]
 author: "@ShreyaYadav___"
 author_url: "https://twitter.com/ShreyaYadav___"
 source_url: "https://twitter.com/ShreyaYadav___/status/1995155098054557794"
-preview: "/images/3d/pg-1995155098054557794.jpg"
+preview: "/images/3d/pg-1995155098054557794.webp"
 ---
 
 A striking scene unfolds as a poised man lounges in a modern setting. His all-black ensemble and confident posture radiate sophistication, enhanced by soft, ambient lighting and tasteful decor.
@@ -35,4 +35,4 @@ A striking scene unfolds as a poised man lounges in a modern setting. His all-bl
 
 ## Example Output
 
-![Elegance Meets Comfort in a Cinematic Portrait](/images/3d/pg-1995155098054557794.jpg)
+![Elegance Meets Comfort in a Cinematic Portrait](/images/3d/pg-1995155098054557794.webp)

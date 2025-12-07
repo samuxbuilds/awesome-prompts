@@ -5,7 +5,7 @@ tags: ["light","nano-banana-pro"]
 author: "@lexx_aura"
 author_url: "https://twitter.com/lexx_aura"
 source_url: "https://twitter.com/lexx_aura/status/1991870830167429185"
-preview: "/images/portraits/pg-1991870830167429185.jpg"
+preview: "/images/portraits/pg-1991870830167429185.webp"
 ---
 
 In a world of grainy elegance, a man in a fedora and trench coat emerges, sliced light revealing secrets behind deep shadows. Unravel the intrigue of this cinematic moment.
@@ -41,4 +41,4 @@ In a world of grainy elegance, a man in a fedora and trench coat emerges, sliced
 
 ## Example Output
 
-![Shadows and Style: The Noir Elegance of Nano Banana Pro 3.0](/images/portraits/pg-1991870830167429185.jpg)
+![Shadows and Style: The Noir Elegance of Nano Banana Pro 3.0](/images/portraits/pg-1991870830167429185.webp)

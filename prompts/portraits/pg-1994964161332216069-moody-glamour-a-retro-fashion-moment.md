@@ -5,7 +5,7 @@ tags: ["fashion","nano-banana-pro"]
 author: "@mehvishs25"
 author_url: "https://twitter.com/mehvishs25"
 source_url: "https://twitter.com/mehvishs25/status/1994964161332216069"
-preview: "/images/portraits/pg-1994964161332216069.jpg"
+preview: "/images/portraits/pg-1994964161332216069.webp"
 ---
 
 Elegance meets intrigue as this stylish woman poses against a textured wall. Her soft curls and tailored ensemble capture a cinematic essence, enveloped in nostalgic shadows.
@@ -20,4 +20,4 @@ A stylish young woman standing against a plain solid wall, dressed in a tailored
 
 ## Example Output
 
-![Moody Glamour: A Retro Fashion Moment](/images/portraits/pg-1994964161332216069.jpg)
+![Moody Glamour: A Retro Fashion Moment](/images/portraits/pg-1994964161332216069.webp)

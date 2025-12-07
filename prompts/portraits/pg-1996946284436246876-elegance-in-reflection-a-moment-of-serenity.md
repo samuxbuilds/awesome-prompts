@@ -5,7 +5,7 @@ tags: ["light","nano-banana-pro"]
 author: "@rowanali09"
 author_url: "https://twitter.com/rowanali09"
 source_url: "https://twitter.com/rowanali09/status/1996946284436246876"
-preview: "/images/portraits/pg-1996946284436246876.jpg"
+preview: "/images/portraits/pg-1996946284436246876.webp"
 ---
 
 A tranquil scene unfolds as a serene woman rests on a glossy surface, adorned with delicate lilies. The soft lighting enhances her beauty, inviting a sense of calm and introspection.
@@ -21,4 +21,4 @@ She is wearing a dark blue garment with intricate light blue embroidery. Two whi
 
 ## Example Output
 
-![Elegance in Reflection: A Moment of Serenity](/images/portraits/pg-1996946284436246876.jpg)
+![Elegance in Reflection: A Moment of Serenity](/images/portraits/pg-1996946284436246876.webp)

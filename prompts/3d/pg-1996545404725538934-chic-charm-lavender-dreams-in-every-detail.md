@@ -5,7 +5,7 @@ tags: ["nano-banana-pro"]
 author: "@ShreyaYadav___"
 author_url: "https://twitter.com/ShreyaYadav___"
 source_url: "https://twitter.com/ShreyaYadav___/status/1996545404725538934"
-preview: "/images/3d/pg-1996545404725538934.jpg"
+preview: "/images/3d/pg-1996545404725538934.webp"
 ---
 
 How captivating is her playful gaze? Adorned in lavender lace, she commands attention, with metallic sandals that shimmer against a cool blue backdrop.
@@ -23,4 +23,4 @@ Image Ratio 3:4
 
 ## Example Output
 
-![Chic Charm: Lavender Dreams in Every Detail](/images/3d/pg-1996545404725538934.jpg)
+![Chic Charm: Lavender Dreams in Every Detail](/images/3d/pg-1996545404725538934.webp)

@@ -5,7 +5,7 @@ tags: ["portrait","nano-banana-pro"]
 author: "@ShreyaYadav___"
 author_url: "https://twitter.com/ShreyaYadav___"
 source_url: "https://twitter.com/ShreyaYadav___/status/1993000208792494327"
-preview: "/images/portraits/pg-1993000208792494327.jpg"
+preview: "/images/portraits/pg-1993000208792494327.webp"
 ---
 
 Behold the captivating allure of this rugged man, his piercing green eyes locked onto yours through yellow-tinted sunglasses, set against a dramatic chiaroscuro backdrop.
@@ -67,4 +67,4 @@ Behold the captivating allure of this rugged man, his piercing green eyes locked
 
 ## Example Output
 
-![Intense Gaze: A Portrait of Rugged Charm](/images/portraits/pg-1993000208792494327.jpg)
+![Intense Gaze: A Portrait of Rugged Charm](/images/portraits/pg-1993000208792494327.webp)

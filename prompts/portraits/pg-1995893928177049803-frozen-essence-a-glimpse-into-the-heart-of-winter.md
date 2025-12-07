@@ -5,7 +5,7 @@ tags: ["portrait","art","light","nano-banana-pro"]
 author: "@ChillaiKalan__"
 author_url: "https://twitter.com/ChillaiKalan__"
 source_url: "https://twitter.com/ChillaiKalan__/status/1995893928177049803"
-preview: "/images/portraits/pg-1995893928177049803.jpg"
+preview: "/images/portraits/pg-1995893928177049803.webp"
 ---
 
 How does warmth bloom amid frost? This striking portrait captures a woman's deep gaze framed by icy elegance, where the sun’s golden rays kiss her face, revealing a tapestry of light and chill.
@@ -20,4 +20,4 @@ A hyperreal close portrait of a woman meeting the viewer's gaze head-on, eyes st
 
 ## Example Output
 
-![Frozen Essence: A Glimpse into the Heart of Winter](/images/portraits/pg-1995893928177049803.jpg)
+![Frozen Essence: A Glimpse into the Heart of Winter](/images/portraits/pg-1995893928177049803.webp)

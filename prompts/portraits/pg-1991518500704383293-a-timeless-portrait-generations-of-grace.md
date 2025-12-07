@@ -5,7 +5,7 @@ tags: ["portrait","light","nano-banana-pro"]
 author: "@ShreyaYadav___"
 author_url: "https://twitter.com/ShreyaYadav___"
 source_url: "https://twitter.com/ShreyaYadav___/status/1991518500704383293"
-preview: "/images/portraits/pg-1991518500704383293.jpg"
+preview: "/images/portraits/pg-1991518500704383293.webp"
 ---
 
 Five faces of beauty, each telling a story of time. This AI masterpiece captures the essence of family across generations in dreamy low light, where each smile shines with love.
@@ -22,4 +22,4 @@ Signature: Shreya Yadav
 
 ## Example Output
 
-![A Timeless Portrait: Generations of Grace 🌟](/images/portraits/pg-1991518500704383293.jpg)
+![A Timeless Portrait: Generations of Grace 🌟](/images/portraits/pg-1991518500704383293.webp)

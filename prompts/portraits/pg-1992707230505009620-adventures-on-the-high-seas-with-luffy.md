@@ -5,7 +5,7 @@ tags: ["nano-banana-pro"]
 author: "@CharaspowerAI"
 author_url: "https://twitter.com/CharaspowerAI"
 source_url: "https://twitter.com/CharaspowerAI/status/1992707230505009620"
-preview: "/images/portraits/pg-1992707230505009620.jpg"
+preview: "/images/portraits/pg-1992707230505009620.webp"
 ---
 
 A snapshot of joy as the man poses with Monkey D. Luffy, both grinning from ear to ear against the backdrop of the sunny Thousand Sunny deck. Bright skies and bold spirits unite!
@@ -20,4 +20,4 @@ Place Monkey D. Luffy next to the man, smiling widely with his straw hat tilted.
 
 ## Example Output
 
-![Adventures on the High Seas with Luffy!](/images/portraits/pg-1992707230505009620.jpg)
+![Adventures on the High Seas with Luffy!](/images/portraits/pg-1992707230505009620.webp)

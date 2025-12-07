@@ -5,7 +5,7 @@ tags: ["modern","vibrant","digital","nano-banana-pro"]
 author: "@ShreyaYadav___"
 author_url: "https://twitter.com/ShreyaYadav___"
 source_url: "https://twitter.com/ShreyaYadav___/status/1993161301326225691"
-preview: "/images/3d/pg-1993161301326225691.jpg"
+preview: "/images/3d/pg-1993161301326225691.webp"
 ---
 
 Capturing the essence of our online lives, vibrant film strips cascade from the phone, revealing snapshots of memories. A stylish gamer, lost in the flow of the digital age, transforms his space into a kaleidoscope of connectivity.
@@ -22,4 +22,4 @@ Cinematic lighting, realistic, vibrant, vertical 1080*1440 ratio, UHD, Exact sam
 
 ## Example Output
 
-![Unleashing Digital Dreams: A Modern Day Archive](/images/3d/pg-1993161301326225691.jpg)
+![Unleashing Digital Dreams: A Modern Day Archive](/images/3d/pg-1993161301326225691.webp)

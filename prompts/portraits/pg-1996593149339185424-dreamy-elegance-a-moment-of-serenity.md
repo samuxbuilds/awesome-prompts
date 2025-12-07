@@ -5,7 +5,7 @@ tags: ["nano-banana-pro"]
 author: "@Aleysha_khan12"
 author_url: "https://twitter.com/Aleysha_khan12"
 source_url: "https://twitter.com/Aleysha_khan12/status/1996593149339185424"
-preview: "/images/portraits/pg-1996593149339185424.jpg"
+preview: "/images/portraits/pg-1996593149339185424.webp"
 ---
 
 Under a cascade of shimmering silk, a vision of peace unfolds. A woman draped in satin, exudes tranquility, embracing the allure of a restful night.
@@ -20,4 +20,4 @@ A woman with long black hair lies on a bed with shiny, silky bedding and pillows
 
 ## Example Output
 
-![Dreamy Elegance: A Moment of Serenity](/images/portraits/pg-1996593149339185424.jpg)
+![Dreamy Elegance: A Moment of Serenity](/images/portraits/pg-1996593149339185424.webp)

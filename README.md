@@ -232,7 +232,7 @@ Same face, hit with an unforgiving flash that nukes the shadows. Her hair is sho
 
 ## Example Output
 
-![90s Vibes: A Bold Stare Amidst Torn Memories](https://awesomeprompts.xyz/images/3d/pg-1992749778606973304.jpg)
+![90s Vibes: A Bold Stare Amidst Torn Memories](https://awesomeprompts.xyz/images/3d/pg-1992749778606973304.webp)
 
 ---
 
@@ -261,7 +261,7 @@ Who’s the star? A stunning woman commands the scene, while her miniature selve
 
 ## Example Output
 
-![A Captivating Multiverse of Self](https://awesomeprompts.xyz/images/3d/pg-1994087836191170895.jpg)
+![A Captivating Multiverse of Self](https://awesomeprompts.xyz/images/3d/pg-1994087836191170895.webp)
 
 ---
 
@@ -285,7 +285,7 @@ Can you feel the cosmic energy? A colossal tree of swirling nebulae rises from a
 
 ## Example Output
 
-![A Celestial Marvel: The Colossal Tree of Nebulae](https://awesomeprompts.xyz/images/3d/pg-1996672479155441826.jpg)
+![A Celestial Marvel: The Colossal Tree of Nebulae](https://awesomeprompts.xyz/images/3d/pg-1996672479155441826.webp)
 
 ---
 
@@ -307,7 +307,7 @@ Brand name: Starbucks
 
 ## Example Output
 
-![A Cozy Chibi Café: The Starbucks Dream in Miniature](https://awesomeprompts.xyz/images/3d/pg-1995190286775881780.jpg)
+![A Cozy Chibi Café: The Starbucks Dream in Miniature](https://awesomeprompts.xyz/images/3d/pg-1995190286775881780.webp)
 
 ---
 
@@ -372,7 +372,7 @@ Is there anything more inviting than a charming book café? This elegant young w
 
 ## Example Output
 
-![A Cozy Moment at the Book Café](https://awesomeprompts.xyz/images/3d/pg-1995124376296149397.jpg)
+![A Cozy Moment at the Book Café](https://awesomeprompts.xyz/images/3d/pg-1995124376296149397.webp)
 
 ---
 
@@ -426,7 +426,7 @@ Captured in a warm embrace of natural light, this triptych unveils a young man's
 
 ## Example Output
 
-![A Cozy Retreat: The Tranquil Moments of a Young Dreamer](https://awesomeprompts.xyz/images/3d/pg-1992977525866373401.jpg)
+![A Cozy Retreat: The Tranquil Moments of a Young Dreamer](https://awesomeprompts.xyz/images/3d/pg-1992977525866373401.webp)
 
 ---
 
@@ -465,7 +465,7 @@ Be captivated by the striking contrast of light and shadow, as this portrait rev
 
 ## Example Output
 
-![A Dazzling Shadow: Hyperrealistic Anime Portrait Unveiled](https://awesomeprompts.xyz/images/3d/pg-1995179913805168966.jpg)
+![A Dazzling Shadow: Hyperrealistic Anime Portrait Unveiled](https://awesomeprompts.xyz/images/3d/pg-1995179913805168966.webp)
 
 ---
 
@@ -519,7 +519,7 @@ Against a backdrop of swirling shadows, a figure in a red hoodie gazes skyward a
 
 ## Example Output
 
-![A Fiery Flight of Imagination](https://awesomeprompts.xyz/images/3d/pg-1991206055725134201.jpg)
+![A Fiery Flight of Imagination](https://awesomeprompts.xyz/images/3d/pg-1991206055725134201.webp)
 
 ---
 
@@ -543,7 +543,7 @@ The background is dominated by intense, raging fire, suggesting a destructive or
 
 ## Example Output
 
-![A Fiery Sorceress in a Landscape of Chaos](https://awesomeprompts.xyz/images/3d/pg-1991886481171136514.jpg)
+![A Fiery Sorceress in a Landscape of Chaos](https://awesomeprompts.xyz/images/3d/pg-1991886481171136514.webp)
 
 ---
 
@@ -563,7 +563,7 @@ Prompt on Nano Banana Pro : White ceramic coffee cup rests on a smooth gray surf
 
 ## Example Output
 
-![A Miniature Paris in a Coffee Cup](https://awesomeprompts.xyz/images/3d/pg-1991831875573477640.jpg)
+![A Miniature Paris in a Coffee Cup](https://awesomeprompts.xyz/images/3d/pg-1991831875573477640.webp)
 
 ---
 
@@ -685,7 +685,7 @@ A captivating scene unfolds! With her confident stance and playful outfit, she e
 
 ## Example Output
 
-![A Modern Muse in Scrapbook Dreams](https://awesomeprompts.xyz/images/3d/pg-1996032358408224869.jpg)
+![A Modern Muse in Scrapbook Dreams](https://awesomeprompts.xyz/images/3d/pg-1996032358408224869.webp)
 
 ---
 
@@ -746,7 +746,7 @@ Amidst rolling hills and dark skies, a lone figure in a flowing cloak wanders. T
 
 ## Example Output
 
-![A Solitary Journey Through Golden Hills](https://awesomeprompts.xyz/images/3d/pg-1994234346493108690.jpg)
+![A Solitary Journey Through Golden Hills](https://awesomeprompts.xyz/images/3d/pg-1994234346493108690.webp)
 
 ---
 
@@ -835,7 +835,7 @@ A fierce solitary figure braves the ashes of a lost village, embodying resilienc
 
 ## Example Output
 
-![A Viking's Last Stand: Echoes of the Fallen](https://awesomeprompts.xyz/images/3d/pg-1995096007529668632.jpg)
+![A Viking's Last Stand: Echoes of the Fallen](https://awesomeprompts.xyz/images/3d/pg-1995096007529668632.webp)
 
 ---
 
@@ -855,7 +855,7 @@ Blazing colors and exquisite design collide in this avant-garde spectacle! A stu
 
 ## Example Output
 
-![A Whirlwind of Letters and Style](https://awesomeprompts.xyz/images/3d/pg-1992650501402542303.jpg)
+![A Whirlwind of Letters and Style](https://awesomeprompts.xyz/images/3d/pg-1992650501402542303.webp)
 
 ---
 
@@ -879,7 +879,7 @@ A tender moment captured, where two souls unite in the warm glow of love. Their 
 
 ## Example Output
 
-![A Whisper of Love: Portrait of Anticipation](https://awesomeprompts.xyz/images/3d/pg-1996155919894524124.jpg)
+![A Whisper of Love: Portrait of Anticipation](https://awesomeprompts.xyz/images/3d/pg-1996155919894524124.webp)
 
 ---
 
@@ -921,7 +921,7 @@ Square 1080x1080 dimension.
 
 ## Example Output
 
-![Ankara in 3D: A Weathered Wonderland](https://awesomeprompts.xyz/images/3d/pg-1994138229529018392.jpg)
+![Ankara in 3D: A Weathered Wonderland](https://awesomeprompts.xyz/images/3d/pg-1994138229529018392.webp)
 
 ---
 
@@ -966,7 +966,7 @@ A playful twist on yoga unfolds in this cozy kitchen! With her mother watching i
 
 ## Example Output
 
-![Balancing Life and Laughter: Yoga at the Kitchen Table](https://awesomeprompts.xyz/images/3d/pg-1995519480974156069.jpg)
+![Balancing Life and Laughter: Yoga at the Kitchen Table](https://awesomeprompts.xyz/images/3d/pg-1995519480974156069.webp)
 
 ---
 
@@ -1087,7 +1087,7 @@ A captivating blend of realism and vibrant cartoon flair! This unique portrait f
 
 ## Example Output
 
-![Banana Bliss: A Split-Style Portrait 🍌✨](https://awesomeprompts.xyz/images/3d/pg-1995579063923040295.jpg)
+![Banana Bliss: A Split-Style Portrait 🍌✨](https://awesomeprompts.xyz/images/3d/pg-1995579063923040295.webp)
 
 ---
 
@@ -1158,7 +1158,7 @@ A chic young woman poses effortlessly with a playful giant Angry Birds character
 
 ## Example Output
 
-![Banana Pro Meets Pink Power in Fashion Fusion](https://awesomeprompts.xyz/images/3d/pg-1993949134618030432.jpg)
+![Banana Pro Meets Pink Power in Fashion Fusion](https://awesomeprompts.xyz/images/3d/pg-1993949134618030432.webp)
 
 ---
 
@@ -1237,7 +1237,7 @@ A tranquil park scene captures a graceful figure in a stunning blue gown, illumi
 
 ## Example Output
 
-![Bathed in Golden Hour: A Serene Outdoor Elegance](https://awesomeprompts.xyz/images/3d/pg-1994424368051757454.jpg)
+![Bathed in Golden Hour: A Serene Outdoor Elegance](https://awesomeprompts.xyz/images/3d/pg-1994424368051757454.webp)
 
 ---
 
@@ -1315,7 +1315,7 @@ Surrounded by a vibrant bouquet of bougainvillea, this enchanting portrait captu
 
 ## Example Output
 
-![Blooming Beauty: A Portrait of Playfulness](https://awesomeprompts.xyz/images/3d/pg-1996090542871150699.jpg)
+![Blooming Beauty: A Portrait of Playfulness](https://awesomeprompts.xyz/images/3d/pg-1996090542871150699.webp)
 
 ---
 
@@ -1355,7 +1355,7 @@ In a striking clash of color, a chic figure exudes confidence in crisp, tailored
 
 ## Example Output
 
-![Bold Elegance: A Modern Fashion Statement](https://awesomeprompts.xyz/images/3d/pg-1995473408826703918.jpg)
+![Bold Elegance: A Modern Fashion Statement](https://awesomeprompts.xyz/images/3d/pg-1995473408826703918.webp)
 
 ---
 
@@ -1375,7 +1375,7 @@ Create an Ultra-realistic 8k portrait, standing against a deep red background. S
 
 ## Example Output
 
-![Bold Elegance: A Portrait in Red](https://awesomeprompts.xyz/images/3d/pg-1995092464193933467.jpg)
+![Bold Elegance: A Portrait in Red](https://awesomeprompts.xyz/images/3d/pg-1995092464193933467.webp)
 
 ---
 
@@ -1479,7 +1479,7 @@ A striking portrait of confidence! Mira, in a vintage pinstripe suit, leans agai
 
 ## Example Output
 
-![Breaking Boundaries: The Bold Mugshot of Mira](https://awesomeprompts.xyz/images/3d/pg-1995344587750072496.jpg)
+![Breaking Boundaries: The Bold Mugshot of Mira](https://awesomeprompts.xyz/images/3d/pg-1995344587750072496.webp)
 
 ---
 
@@ -1526,7 +1526,7 @@ A soft glow envelops this chic figure, balancing casual style with high-fashion 
 
 ## Example Output
 
-![Breezy Elegance on the Walkway](https://awesomeprompts.xyz/images/3d/pg-1992863330726203428.jpg)
+![Breezy Elegance on the Walkway](https://awesomeprompts.xyz/images/3d/pg-1992863330726203428.webp)
 
 ---
 
@@ -1580,12 +1580,12 @@ A cozy scene unfolds as a couple, wrapped in oversized hoodies, share a playful 
           "Looking at screen"
         ],
         "subject_a_guy": {
-          "identity_target": "reference_image_male.jpg",
+          "identity_target": "reference_image_male.webp",
           "action": "Holding phone in right hand with clear reflective case",
           "position": "Right/Center"
         },
         "subject_b_girl": {
-          "identity_target": "reference_image_female.jpg",
+          "identity_target": "reference_image_female.webp",
           "action": "Resting closely beside Subject A",
           "position": "Left/Center"
         }
@@ -1631,7 +1631,7 @@ A cozy scene unfolds as a couple, wrapped in oversized hoodies, share a playful 
 
 ## Example Output
 
-![Candid Moments: Love in the Glow of a MacBook](https://awesomeprompts.xyz/images/3d/pg-1996186805398364512.jpg)
+![Candid Moments: Love in the Glow of a MacBook](https://awesomeprompts.xyz/images/3d/pg-1996186805398364512.webp)
 
 ---
 
@@ -1722,7 +1722,7 @@ A vibrant night unfolds as a confident figure leans against a shiny yellow Ferra
 
 ## Example Output
 
-![Candid Nights: Embracing the City Vibe](https://awesomeprompts.xyz/images/3d/pg-1992985230303527355.jpg)
+![Candid Nights: Embracing the City Vibe](https://awesomeprompts.xyz/images/3d/pg-1992985230303527355.webp)
 
 ---
 
@@ -1767,7 +1767,7 @@ Behold the striking details of this extreme close-up! A young woman's moist skin
 
 ## Example Output
 
-![Captivating Close-Up: A Glimpse of Raw Beauty 🌟](https://awesomeprompts.xyz/images/3d/pg-1995183894073852277.jpg)
+![Captivating Close-Up: A Glimpse of Raw Beauty 🌟](https://awesomeprompts.xyz/images/3d/pg-1995183894073852277.webp)
 
 ---
 
@@ -1890,7 +1890,7 @@ Unleash your creativity with stunning 8K portraits! The Gemini Nano Banana 3.0 b
 
 ## Example Output
 
-![Capture Perfection with Gemini Nano Banana 3.0! 📸](https://awesomeprompts.xyz/images/3d/pg-1996532029379289277.jpg)
+![Capture Perfection with Gemini Nano Banana 3.0! 📸](https://awesomeprompts.xyz/images/3d/pg-1996532029379289277.webp)
 
 ---
 
@@ -1955,7 +1955,7 @@ Under the shimmering lights of a vibrant night market, a young woman emanates gr
 
 ## Example Output
 
-![Capturing Elegance: A Night Market Delight](https://awesomeprompts.xyz/images/3d/pg-1994112331278852312.jpg)
+![Capturing Elegance: A Night Market Delight](https://awesomeprompts.xyz/images/3d/pg-1994112331278852312.webp)
 
 ---
 
@@ -1985,7 +1985,7 @@ Composition: The camera is positioned in a medium shot, slightly below the subje
 
 ## Example Output
 
-![Catching Light & Love in Urban Wings](https://awesomeprompts.xyz/images/3d/pg-1991552050342293723.jpg)
+![Catching Light & Love in Urban Wings](https://awesomeprompts.xyz/images/3d/pg-1991552050342293723.webp)
 
 ---
 
@@ -2015,7 +2015,7 @@ Candid analog snapshot, not posed or staged
 
 ## Example Output
 
-![Caught in the Flash: A 90s Party Unfiltered](https://awesomeprompts.xyz/images/3d/pg-1992635023904887249.jpg)
+![Caught in the Flash: A 90s Party Unfiltered](https://awesomeprompts.xyz/images/3d/pg-1992635023904887249.webp)
 
 ---
 
@@ -2097,7 +2097,7 @@ A majestic train glides effortlessly on golden rails, surrounded by clouds. Its 
 
 ## Example Output
 
-![Celestial Journeys: The Crystal Train in the Clouds](https://awesomeprompts.xyz/images/3d/pg-1995263816842522827.jpg)
+![Celestial Journeys: The Crystal Train in the Clouds](https://awesomeprompts.xyz/images/3d/pg-1995263816842522827.webp)
 
 ---
 
@@ -2121,7 +2121,7 @@ Get the current live status of the Central Line using search.
 
 ## Example Output
 
-![Central Line Updates: A Miniature Marvel](https://awesomeprompts.xyz/images/3d/pg-1995870054366232961.jpg)
+![Central Line Updates: A Miniature Marvel](https://awesomeprompts.xyz/images/3d/pg-1995870054366232961.webp)
 
 ---
 
@@ -2169,7 +2169,7 @@ Caught in a whirlwind of newspapers, this high-fashion portrait captures the ess
 
 ## Example Output
 
-![Chaos Meets Chic: A Stormy Fashion Statement](https://awesomeprompts.xyz/images/3d/pg-1991468062764380244.jpg)
+![Chaos Meets Chic: A Stormy Fashion Statement](https://awesomeprompts.xyz/images/3d/pg-1991468062764380244.webp)
 
 ---
 
@@ -2241,7 +2241,7 @@ A stunning young woman poses effortlessly with a glossy Winnie-the-Pooh, radiati
 
 ## Example Output
 
-![Charming Colors and Characters Unite in Style!](https://awesomeprompts.xyz/images/3d/pg-1994433496186585544.jpg)
+![Charming Colors and Characters Unite in Style!](https://awesomeprompts.xyz/images/3d/pg-1994433496186585544.webp)
 
 ---
 
@@ -2313,7 +2313,7 @@ A stylish blend of casual elegance! The playful flick of hair and cheerful expre
 
 ## Example Output
 
-![Charming Vibes at the Modern Pub](https://awesomeprompts.xyz/images/3d/pg-1996561195424260299.jpg)
+![Charming Vibes at the Modern Pub](https://awesomeprompts.xyz/images/3d/pg-1996561195424260299.webp)
 
 ---
 
@@ -2410,7 +2410,7 @@ Sunkissed warmth envelops a playful figure on a cozy sofa, embodying effortless 
 
 ## Example Output
 
-![Charming Vintage Vibes with Gemini Nano Banana 3.0](https://awesomeprompts.xyz/images/3d/pg-1994256542238167068.jpg)
+![Charming Vintage Vibes with Gemini Nano Banana 3.0](https://awesomeprompts.xyz/images/3d/pg-1994256542238167068.webp)
 
 ---
 
@@ -2430,7 +2430,7 @@ A high-quality 3D CGI animated movie still of Tom and Jerry in a chaotic chase s
 
 ## Example Output
 
-![Chasing Friendship: A Classic Tom and Jerry Moment](https://awesomeprompts.xyz/images/3d/pg-1996417319904448581.jpg)
+![Chasing Friendship: A Classic Tom and Jerry Moment](https://awesomeprompts.xyz/images/3d/pg-1996417319904448581.webp)
 
 ---
 
@@ -2553,7 +2553,7 @@ A stunning blend of hyper-realism and dramatic lighting brings the Gemini Nano B
 
 ## Example Output
 
-![Chiaroscuro Elegance: The Gemini Nano Banana 3.0 Portrait](https://awesomeprompts.xyz/images/3d/pg-1996489036337213933.jpg)
+![Chiaroscuro Elegance: The Gemini Nano Banana 3.0 Portrait](https://awesomeprompts.xyz/images/3d/pg-1996489036337213933.webp)
 
 ---
 
@@ -2633,7 +2633,7 @@ Smiles abound in this heartwarming 3D chibi scene! Our character, laughing joyfu
 
 ## Example Output
 
-![Chibi Magic: A Cozy Hug with Ichigo!](https://awesomeprompts.xyz/images/3d/pg-1997248676272771223.jpg)
+![Chibi Magic: A Cozy Hug with Ichigo!](https://awesomeprompts.xyz/images/3d/pg-1997248676272771223.webp)
 
 ---
 
@@ -2656,7 +2656,7 @@ Image Ratio 3:4
 
 ## Example Output
 
-![Chic Charm: Lavender Dreams in Every Detail](https://awesomeprompts.xyz/images/3d/pg-1996545404725538934.jpg)
+![Chic Charm: Lavender Dreams in Every Detail](https://awesomeprompts.xyz/images/3d/pg-1996545404725538934.webp)
 
 ---
 
@@ -2702,7 +2702,7 @@ Elegance meets innovation! A young woman exudes confidence against a breathtakin
 
 ## Example Output
 
-![Chic Coastal Vibes with the Google Nano Banana Pro](https://awesomeprompts.xyz/images/3d/pg-1995680081042440554.jpg)
+![Chic Coastal Vibes with the Google Nano Banana Pro](https://awesomeprompts.xyz/images/3d/pg-1995680081042440554.webp)
 
 ---
 
@@ -2728,7 +2728,7 @@ Shot on a full-frame camera with an 85mm or 100mm prime lens, aperture f/2.8–f
 
 ## Example Output
 
-![Chic Confidence: A Modern Portrait in Dramatic Light](https://awesomeprompts.xyz/images/3d/pg-1995719926993310177.jpg)
+![Chic Confidence: A Modern Portrait in Dramatic Light](https://awesomeprompts.xyz/images/3d/pg-1995719926993310177.webp)
 
 ---
 
@@ -2759,7 +2759,7 @@ Bold and striking, this avant-garde beauty captivates with her metallic ensemble
 
 ## Example Output
 
-![Chic Elegance Meets Dark Fantasy](https://awesomeprompts.xyz/images/3d/pg-1995068923302347215.jpg)
+![Chic Elegance Meets Dark Fantasy](https://awesomeprompts.xyz/images/3d/pg-1995068923302347215.webp)
 
 ---
 
@@ -2870,7 +2870,7 @@ A confident young woman exudes modern flair, casually posing with a glossy 3D An
 
 ## Example Output
 
-![Chic Meets Playful: The Pink Style Statement](https://awesomeprompts.xyz/images/3d/pg-1994214859756683341.jpg)
+![Chic Meets Playful: The Pink Style Statement](https://awesomeprompts.xyz/images/3d/pg-1994214859756683341.webp)
 
 ---
 
@@ -2890,7 +2890,7 @@ A hyperrealistic cinematic wide street shot. The subject stands right beside a c
 
 ## Example Output
 
-![Chic Meets Street: A Burst of Color and Style](https://awesomeprompts.xyz/images/3d/pg-1991726685201608963.jpg)
+![Chic Meets Street: A Burst of Color and Style](https://awesomeprompts.xyz/images/3d/pg-1991726685201608963.webp)
 
 ---
 
@@ -2988,7 +2988,7 @@ A captivating scene unfolds on a luxury terrace, where a charming woman with sof
 
 ## Example Output
 
-![Chic Serenity: A Portrait of Timeless Elegance](https://awesomeprompts.xyz/images/3d/pg-1996304252948635969.jpg)
+![Chic Serenity: A Portrait of Timeless Elegance](https://awesomeprompts.xyz/images/3d/pg-1996304252948635969.webp)
 
 ---
 
@@ -3085,7 +3085,7 @@ Beneath the pulsating lights, confidence radiates! A young woman flaunts her edg
 
 ## Example Output
 
-![Chic Vibes in Neon Nights](https://awesomeprompts.xyz/images/3d/pg-1994337846040342654.jpg)
+![Chic Vibes in Neon Nights](https://awesomeprompts.xyz/images/3d/pg-1994337846040342654.webp)
 
 ---
 
@@ -3136,7 +3136,7 @@ A vivid snapshot of rebellion and relaxation; a figure reclines in the trunk of 
 
 ## Example Output
 
-![Chill Vibes in Neon Dreams](https://awesomeprompts.xyz/images/3d/pg-1991846916586438678.jpg)
+![Chill Vibes in Neon Dreams](https://awesomeprompts.xyz/images/3d/pg-1991846916586438678.webp)
 
 ---
 
@@ -3187,7 +3187,7 @@ Captured in a moment of relaxed rebellion, this edgy scene unveils a dreamy figu
 
 ## Example Output
 
-![Chillin' Under Neon Lights: A Night in a Yellow Dream](https://awesomeprompts.xyz/images/3d/pg-1993904258559693157.jpg)
+![Chillin' Under Neon Lights: A Night in a Yellow Dream](https://awesomeprompts.xyz/images/3d/pg-1993904258559693157.webp)
 
 ---
 
@@ -3271,7 +3271,7 @@ In a dimly lit room, a captivating woman with radiant skin and doll-like makeup 
 
 ## Example Output
 
-![Cinematic Charm: A Modern Film Noir Portrait](https://awesomeprompts.xyz/images/3d/pg-1994360675217408267.jpg)
+![Cinematic Charm: A Modern Film Noir Portrait](https://awesomeprompts.xyz/images/3d/pg-1994360675217408267.webp)
 
 ---
 
@@ -3316,7 +3316,7 @@ A playful blend of nostalgia and whimsy! This fan portrait captures a young woma
 
 ## Example Output
 
-![Cinematic Charm: A Zootopia Dreamscape](https://awesomeprompts.xyz/images/3d/pg-1993898539571884456.jpg)
+![Cinematic Charm: A Zootopia Dreamscape](https://awesomeprompts.xyz/images/3d/pg-1993898539571884456.webp)
 
 ---
 
@@ -3395,7 +3395,7 @@ A strikingly handsome figure stands poised against a softly blurred backdrop, ex
 
 ## Example Output
 
-![Cinematic Elegance: A Portrait of Style and Confidence](https://awesomeprompts.xyz/images/3d/pg-1996411574362550675.jpg)
+![Cinematic Elegance: A Portrait of Style and Confidence](https://awesomeprompts.xyz/images/3d/pg-1996411574362550675.webp)
 
 ---
 
@@ -3415,7 +3415,7 @@ A dramatic overhead cinematic shot of a stylish individual seated alone on a vin
 
 ## Example Output
 
-![Cinematic Solitude: A Stylish Retreat](https://awesomeprompts.xyz/images/3d/pg-1997136725143916720.jpg)
+![Cinematic Solitude: A Stylish Retreat](https://awesomeprompts.xyz/images/3d/pg-1997136725143916720.webp)
 
 ---
 
@@ -3447,7 +3447,7 @@ Camera settings: f/1.8, ISO 200, 85mm lens,
 
 ## Example Output
 
-![Cinematic Style Meets Urban Vibe: The Nano Banana Portrait](https://awesomeprompts.xyz/images/3d/pg-1991425359603229019.jpg)
+![Cinematic Style Meets Urban Vibe: The Nano Banana Portrait](https://awesomeprompts.xyz/images/3d/pg-1991425359603229019.webp)
 
 ---
 
@@ -3467,7 +3467,7 @@ A cinematic, low-light photograph of a young man with dark, messy curly hair lea
 
 ## Example Output
 
-![City Dreams: A Nighttime Revelation](https://awesomeprompts.xyz/images/3d/pg-1991533904554258539.jpg)
+![City Dreams: A Nighttime Revelation](https://awesomeprompts.xyz/images/3d/pg-1991533904554258539.webp)
 
 ---
 
@@ -3561,7 +3561,7 @@ A stunning young woman exudes confidence in a luxurious SUV, her backless halter
 
 ## Example Output
 
-![City Lights & Curves: A Night of Glamour](https://awesomeprompts.xyz/images/3d/pg-1995691515465621876.jpg)
+![City Lights & Curves: A Night of Glamour](https://awesomeprompts.xyz/images/3d/pg-1995691515465621876.webp)
 
 ---
 
@@ -3581,7 +3581,7 @@ A hyper-realistic cinematic portrait of a masked female operative standing in th
 
 ## Example Output
 
-![City Shadows: The Masked Operative in Rain-soaked Dystopia](https://awesomeprompts.xyz/images/3d/pg-1996115125078819056.jpg)
+![City Shadows: The Masked Operative in Rain-soaked Dystopia](https://awesomeprompts.xyz/images/3d/pg-1996115125078819056.webp)
 
 ---
 
@@ -3637,7 +3637,7 @@ Camera settings: f/1.8, ISO 200, 85mm lens,
 
 ## Example Output
 
-![Coffee Vibes and Calm Confidence](https://awesomeprompts.xyz/images/3d/pg-1991350094235595151.jpg)
+![Coffee Vibes and Calm Confidence](https://awesomeprompts.xyz/images/3d/pg-1991350094235595151.webp)
 
 ---
 
@@ -3748,7 +3748,7 @@ A stunning mirror selfie captures a warm smile and chic style, set against a lux
 
 ## Example Output
 
-![Cozy Glam: A Mirror Selfie in Elegance](https://awesomeprompts.xyz/images/3d/pg-1997237942386053422.jpg)
+![Cozy Glam: A Mirror Selfie in Elegance](https://awesomeprompts.xyz/images/3d/pg-1997237942386053422.webp)
 
 ---
 
@@ -3773,7 +3773,7 @@ Snowflakes dance outside while she snuggles a giant Doraemon. Wrapped in a cream
 
 ## Example Output
 
-![Cozy Moments: Winter's Embrace with a Plush Companion](https://awesomeprompts.xyz/images/3d/pg-1991338284518371647.jpg)
+![Cozy Moments: Winter's Embrace with a Plush Companion](https://awesomeprompts.xyz/images/3d/pg-1991338284518371647.webp)
 
 ---
 
@@ -3793,7 +3793,7 @@ Transform your characters into adorable chibi stickers! Create 12 unique express
 
 ## Example Output
 
-![Craft Custom LINE Stickers in a Snap with Nano Banana Pro!](https://awesomeprompts.xyz/images/3d/pg-1991780261068226776.jpg)
+![Craft Custom LINE Stickers in a Snap with Nano Banana Pro!](https://awesomeprompts.xyz/images/3d/pg-1991780261068226776.webp)
 
 ---
 
@@ -3863,7 +3863,7 @@ Amidst a cluttered workshop, a focused creator hones in on a 3D hologram, visual
 
 ## Example Output
 
-![Crafting Complexity: The Art of the Nano Banana Pro](https://awesomeprompts.xyz/images/3d/pg-1994822441793671485.jpg)
+![Crafting Complexity: The Art of the Nano Banana Pro](https://awesomeprompts.xyz/images/3d/pg-1994822441793671485.webp)
 
 ---
 
@@ -3898,7 +3898,7 @@ Transform your face into a vibrant doodle masterpiece! This creative prompt capt
 
 ## Example Output
 
-![Crafting Your Unique Doodle Portrait](https://awesomeprompts.xyz/images/3d/pg-1993005355639751022.jpg)
+![Crafting Your Unique Doodle Portrait](https://awesomeprompts.xyz/images/3d/pg-1993005355639751022.webp)
 
 ---
 
@@ -3918,7 +3918,7 @@ A detailed gashapon capsule diorama held between fingers, featuring Cristiano Ro
 
 ## Example Output
 
-![Cristiano Ronaldo Captured in Gashapon Glory!](https://awesomeprompts.xyz/images/3d/pg-1995174054337429931.jpg)
+![Cristiano Ronaldo Captured in Gashapon Glory!](https://awesomeprompts.xyz/images/3d/pg-1995174054337429931.webp)
 
 ---
 
@@ -3992,7 +3992,7 @@ A mirror selfie bursting with whimsy! This charming young woman embodies joy in 
 
 ## Example Output
 
-![Cuteness in a Cozy Wonderland 💖](https://awesomeprompts.xyz/images/3d/pg-1996494595757416834.jpg)
+![Cuteness in a Cozy Wonderland 💖](https://awesomeprompts.xyz/images/3d/pg-1996494595757416834.webp)
 
 ---
 
@@ -4017,7 +4017,7 @@ Lighting: Dark. The only light source is the flash of a 35mm analog camera shoot
 
 ## Example Output
 
-![Defiance in Shadows: A Stylish Standoff](https://awesomeprompts.xyz/images/3d/pg-1995083555601531305.jpg)
+![Defiance in Shadows: A Stylish Standoff](https://awesomeprompts.xyz/images/3d/pg-1995083555601531305.webp)
 
 ---
 
@@ -4048,7 +4048,7 @@ In a stark white studio, a striking figure emerges. This fierce woman, poised wi
 
 ## Example Output
 
-![Defiance Redefined: Strength in Elegance](https://awesomeprompts.xyz/images/3d/pg-1996678914580635971.jpg)
+![Defiance Redefined: Strength in Elegance](https://awesomeprompts.xyz/images/3d/pg-1996678914580635971.webp)
 
 ---
 
@@ -4179,7 +4179,7 @@ A serene slumber transforms into an underwater escapade! This dreamy artwork bea
 
 ## Example Output
 
-![Dreaming Deep: A Whimsical Underwater Fantasy](https://awesomeprompts.xyz/images/3d/pg-1996969905678143983.jpg)
+![Dreaming Deep: A Whimsical Underwater Fantasy](https://awesomeprompts.xyz/images/3d/pg-1996969905678143983.webp)
 
 ---
 
@@ -4199,7 +4199,7 @@ Cinematic full-body portrait of a rugged man holding a shotgun, standing beside 
 
 ## Example Output
 
-![Echoes of a Forgotten Warzone](https://awesomeprompts.xyz/images/3d/pg-1991828763978637624.jpg)
+![Echoes of a Forgotten Warzone](https://awesomeprompts.xyz/images/3d/pg-1991828763978637624.webp)
 
 ---
 
@@ -4251,7 +4251,7 @@ Chilled winds and smoky whispers surround this striking triptych, capturing a lo
 
 ## Example Output
 
-![Echoes of Winter: A Cinematic Portrait Journey](https://awesomeprompts.xyz/images/3d/pg-1992986148650815572.jpg)
+![Echoes of Winter: A Cinematic Portrait Journey](https://awesomeprompts.xyz/images/3d/pg-1992986148650815572.webp)
 
 ---
 
@@ -4320,7 +4320,7 @@ A striking portrait of modern confidence! With light gray waves framing her shar
 
 ## Example Output
 
-![Edgy Elegance: The Nano Banana Muse](https://awesomeprompts.xyz/images/3d/pg-1995146612885410093.jpg)
+![Edgy Elegance: The Nano Banana Muse](https://awesomeprompts.xyz/images/3d/pg-1995146612885410093.webp)
 
 ---
 
@@ -4340,7 +4340,7 @@ Ultra-photorealistic 8K vertical 3:4 cinematic editorial portrait, mobile-camera
 
 ## Example Output
 
-![Elegance in Motion: A Crimson Dream](https://awesomeprompts.xyz/images/3d/pg-1996569426385387864.jpg)
+![Elegance in Motion: A Crimson Dream](https://awesomeprompts.xyz/images/3d/pg-1996569426385387864.webp)
 
 ---
 
@@ -4403,7 +4403,7 @@ Captured in a serene embrace of artful shadows, a young man exudes refined charm
 
 ## Example Output
 
-![Elegance in Silence: A Modern Gallery Encounter](https://awesomeprompts.xyz/images/3d/pg-1991431970325188678.jpg)
+![Elegance in Silence: A Modern Gallery Encounter](https://awesomeprompts.xyz/images/3d/pg-1991431970325188678.webp)
 
 ---
 
@@ -4423,7 +4423,7 @@ Create a portrait of a young woman with short, wavy, brownish-black hair, fallin
 
 ## Example Output
 
-![Elegance in Simplicity: A Natural Portrait](https://awesomeprompts.xyz/images/3d/pg-1995829751639146611.jpg)
+![Elegance in Simplicity: A Natural Portrait](https://awesomeprompts.xyz/images/3d/pg-1995829751639146611.webp)
 
 ---
 
@@ -4458,7 +4458,7 @@ A striking scene unfolds as a poised man lounges in a modern setting. His all-bl
 
 ## Example Output
 
-![Elegance Meets Comfort in a Cinematic Portrait](https://awesomeprompts.xyz/images/3d/pg-1995155098054557794.jpg)
+![Elegance Meets Comfort in a Cinematic Portrait](https://awesomeprompts.xyz/images/3d/pg-1995155098054557794.webp)
 
 ---
 
@@ -4526,7 +4526,7 @@ A serene winter wonderland embraces this graceful figure in an exquisite gown. S
 
 ## Example Output
 
-![Elegance Meets Winter: A Fashion Fantasy Unveiled](https://awesomeprompts.xyz/images/3d/pg-1996030943476547820.jpg)
+![Elegance Meets Winter: A Fashion Fantasy Unveiled](https://awesomeprompts.xyz/images/3d/pg-1996030943476547820.webp)
 
 ---
 
@@ -4558,7 +4558,7 @@ Emphasize: completely realistic levitation (no visible support), flawless symmet
 
 ## Example Output
 
-![Elevated Creativity: A Dreamy Workspace in Mid-Air](https://awesomeprompts.xyz/images/3d/pg-1992041992143216912.jpg)
+![Elevated Creativity: A Dreamy Workspace in Mid-Air](https://awesomeprompts.xyz/images/3d/pg-1992041992143216912.webp)
 
 ---
 
@@ -4745,7 +4745,7 @@ A stunning close-up showcases a confident woman applying skincare with flair. He
 
 ## Example Output
 
-![Embrace the Beauty Revolution with Bold Confidence!](https://awesomeprompts.xyz/images/3d/pg-1995493922898837785.jpg)
+![Embrace the Beauty Revolution with Bold Confidence!](https://awesomeprompts.xyz/images/3d/pg-1995493922898837785.webp)
 
 ---
 
@@ -4836,7 +4836,7 @@ A confident young woman, framed by a brilliant sky, radiates positivity. Her pla
 
 ## Example Output
 
-![Empowerment in Every Curve: A Portrait of Radiance](https://awesomeprompts.xyz/images/3d/pg-1994544453655433705.jpg)
+![Empowerment in Every Curve: A Portrait of Radiance](https://awesomeprompts.xyz/images/3d/pg-1994544453655433705.webp)
 
 ---
 
@@ -4870,7 +4870,7 @@ Everything outside the spotlight should be nearly invisible.
 
 ## Example Output
 
-![Enigmatic Elegance in Shadows](https://awesomeprompts.xyz/images/3d/pg-1995131975351562274.jpg)
+![Enigmatic Elegance in Shadows](https://awesomeprompts.xyz/images/3d/pg-1995131975351562274.webp)
 
 ---
 
@@ -4890,7 +4890,7 @@ Add ultra-tiny realistic skiing, snowboarding, and winter-sports action figures 
 
 ## Example Output
 
-![Epic Fun on a Miniature Snowy Adventure!](https://awesomeprompts.xyz/images/3d/pg-1993046180717101451.jpg)
+![Epic Fun on a Miniature Snowy Adventure!](https://awesomeprompts.xyz/images/3d/pg-1993046180717101451.webp)
 
 ---
 
@@ -4924,7 +4924,7 @@ A photorealistic ESC keycap scene shows a miniature cozy living room setup. Insi
 
 ## Example Output
 
-![Escape to Cozy: Your Personal Cinema Awaits!](https://awesomeprompts.xyz/images/3d/pg-1992654337815007678.jpg)
+![Escape to Cozy: Your Personal Cinema Awaits!](https://awesomeprompts.xyz/images/3d/pg-1992654337815007678.webp)
 
 ---
 
@@ -4944,7 +4944,7 @@ Captured in a moment of serene grace, this enchanting figure embodies tranquilit
 
 ## Example Output
 
-![Ethereal Beauty Awaits Under Golden Skies](https://awesomeprompts.xyz/images/3d/pg-1991790721318445084.jpg)
+![Ethereal Beauty Awaits Under Golden Skies](https://awesomeprompts.xyz/images/3d/pg-1991790721318445084.webp)
 
 ---
 
@@ -4971,7 +4971,7 @@ A perfect blend of nature, magic, and emotional stillness.
 
 ## Example Output
 
-![Ethereal Night: A Dreamscape of Serenity](https://awesomeprompts.xyz/images/3d/pg-1996958740059152573.jpg)
+![Ethereal Night: A Dreamscape of Serenity](https://awesomeprompts.xyz/images/3d/pg-1996958740059152573.webp)
 
 ---
 
@@ -4996,7 +4996,7 @@ Bold meets humor on busy streets! A striking figure bursts from a futuristic bil
 
 ## Example Output
 
-![Fashion Takes Flight: A 3D Billboarding Revolution](https://awesomeprompts.xyz/images/3d/pg-1996852047430225937.jpg)
+![Fashion Takes Flight: A 3D Billboarding Revolution](https://awesomeprompts.xyz/images/3d/pg-1996852047430225937.webp)
 
 ---
 
@@ -5054,7 +5054,7 @@ A stunning young woman radiates confidence in a festive, all-white ensemble, set
 
 ## Example Output
 
-![Festive Allure: A Glamorous Holiday Vision](https://awesomeprompts.xyz/images/3d/pg-1997253669901975559.jpg)
+![Festive Allure: A Glamorous Holiday Vision](https://awesomeprompts.xyz/images/3d/pg-1997253669901975559.webp)
 
 ---
 
@@ -5074,7 +5074,7 @@ Create a realistic portrait image of a young woman (face 100% identical to the o
 
 ## Example Output
 
-![Festive Charm: A Portrait of Holiday Elegance](https://awesomeprompts.xyz/images/3d/pg-1995113455192605105.jpg)
+![Festive Charm: A Portrait of Holiday Elegance](https://awesomeprompts.xyz/images/3d/pg-1995113455192605105.webp)
 
 ---
 
@@ -5094,7 +5094,7 @@ Using my reference image. DO NOT CHANGE THE FACE. keep all facial features exact
 
 ## Example Output
 
-![Festive Magic Awaits at Disney This Christmas!](https://awesomeprompts.xyz/images/3d/pg-1995127440964743545.jpg)
+![Festive Magic Awaits at Disney This Christmas!](https://awesomeprompts.xyz/images/3d/pg-1995127440964743545.webp)
 
 ---
 
@@ -5120,7 +5120,7 @@ The overall mood is joyful, whimsical, and full of holiday spirit — vibrant co
 
 ## Example Output
 
-![Festive Whimsy at Disney: A Night to Remember](https://awesomeprompts.xyz/images/3d/pg-1994565437670207617.jpg)
+![Festive Whimsy at Disney: A Night to Remember](https://awesomeprompts.xyz/images/3d/pg-1994565437670207617.webp)
 
 ---
 
@@ -5140,7 +5140,7 @@ Transform a simple flat vector logo into a soft, 3D fluffy object. Use the exact
 
 ## Example Output
 
-![Fluffing Up Creativity: A Logo Like No Other](https://awesomeprompts.xyz/images/3d/pg-1992927023279268029.jpg)
+![Fluffing Up Creativity: A Logo Like No Other](https://awesomeprompts.xyz/images/3d/pg-1992927023279268029.webp)
 
 ---
 
@@ -5171,7 +5171,7 @@ A captivating close-up reveals a young woman playfully framing her eye, adorned 
 
 ## Example Output
 
-![Framing Beauty: A Portrait of Playfulness](https://awesomeprompts.xyz/images/3d/pg-1995108671026803004.jpg)
+![Framing Beauty: A Portrait of Playfulness](https://awesomeprompts.xyz/images/3d/pg-1995108671026803004.webp)
 
 ---
 
@@ -5211,7 +5211,7 @@ A futuristic art installation inside a modern gallery, depicting a life-sized la
 
 ## Example Output
 
-![Futuristic Fusion: Digital Dreams in a Gallery Space](https://awesomeprompts.xyz/images/3d/pg-1996770108933656800.jpg)
+![Futuristic Fusion: Digital Dreams in a Gallery Space](https://awesomeprompts.xyz/images/3d/pg-1996770108933656800.webp)
 
 ---
 
@@ -5271,7 +5271,7 @@ Bright lights and quirky collectibles surround this playful gamer girl, capturin
 
 ## Example Output
 
-![Gamer Vibes: A Snapshot of Playful Aesthetics](https://awesomeprompts.xyz/images/3d/pg-1994803815649087958.jpg)
+![Gamer Vibes: A Snapshot of Playful Aesthetics](https://awesomeprompts.xyz/images/3d/pg-1994803815649087958.webp)
 
 ---
 
@@ -5346,7 +5346,7 @@ Behold the striking beauty of Gemini Nano in a luxurious caramel ensemble! The m
 
 ## Example Output
 
-![Gemini Nano: A Stunning Virtual Reality Vision](https://awesomeprompts.xyz/images/3d/pg-1994090956916969536.jpg)
+![Gemini Nano: A Stunning Virtual Reality Vision](https://awesomeprompts.xyz/images/3d/pg-1994090956916969536.webp)
 
 ---
 
@@ -5397,7 +5397,7 @@ Quality_Tags=Lifelike lighting, 8k realism, ultra-detailed
 
 ## Example Output
 
-![Glamour Unveiled: The Allure of Sequins](https://awesomeprompts.xyz/images/3d/pg-1995087662882213894.jpg)
+![Glamour Unveiled: The Allure of Sequins](https://awesomeprompts.xyz/images/3d/pg-1995087662882213894.webp)
 
 ---
 
@@ -5510,7 +5510,7 @@ Captured in soft evening light, this close-up reveals a young woman draped in sh
 
 ## Example Output
 
-![Glimmering Elegance: A Portrait of Dreamy Beauty](https://awesomeprompts.xyz/images/3d/pg-1997136882749334005.jpg)
+![Glimmering Elegance: A Portrait of Dreamy Beauty](https://awesomeprompts.xyz/images/3d/pg-1997136882749334005.webp)
 
 ---
 
@@ -5585,7 +5585,7 @@ Bathed in warm sunset light, a man gazes upward with a serene smile, dressed in 
 
 ## Example Output
 
-![Golden Hour Elegance: A Portrait of Tranquility](https://awesomeprompts.xyz/images/3d/pg-1994296050140708985.jpg)
+![Golden Hour Elegance: A Portrait of Tranquility](https://awesomeprompts.xyz/images/3d/pg-1994296050140708985.webp)
 
 ---
 
@@ -5608,7 +5608,7 @@ highlighting her features with a gentle glow, suggesting natural daylight or stu
 
 ## Example Output
 
-![Golden Hour Radiance: A Selfie That Charms](https://awesomeprompts.xyz/images/3d/pg-1991656582309187823.jpg)
+![Golden Hour Radiance: A Selfie That Charms](https://awesomeprompts.xyz/images/3d/pg-1991656582309187823.webp)
 
 ---
 
@@ -5702,7 +5702,7 @@ A striking blend of hyper-realism and gothic manga brings this calm portrait to 
 
 ## Example Output
 
-![Gothic Elegance: A Portrait of Intellectual Beauty](https://awesomeprompts.xyz/images/3d/pg-1995717860082249937.jpg)
+![Gothic Elegance: A Portrait of Intellectual Beauty](https://awesomeprompts.xyz/images/3d/pg-1995717860082249937.webp)
 
 ---
 
@@ -5750,7 +5750,7 @@ Elegance and intrigue collide as a stunning figure graces a weathered brick wall
 
 ## Example Output
 
-![Gothic Glamour Meets Nature's Touch](https://awesomeprompts.xyz/images/3d/pg-1996239377178275974.jpg)
+![Gothic Glamour Meets Nature's Touch](https://awesomeprompts.xyz/images/3d/pg-1996239377178275974.webp)
 
 ---
 
@@ -5789,7 +5789,7 @@ A close-up, half-body mirror selfie of a young woman standing indoors. She is we
 
 ## Example Output
 
-![Heartfelt Style: Cozy Vibes in a Chic Selfie](https://awesomeprompts.xyz/images/3d/pg-1996484114573340841.jpg)
+![Heartfelt Style: Cozy Vibes in a Chic Selfie](https://awesomeprompts.xyz/images/3d/pg-1996484114573340841.webp)
 
 ---
 
@@ -5810,7 +5810,7 @@ That’s literally all I typed. And it produced something insanely strange. I ma
 
 ## Example Output
 
-![Hieronymus Bosch Meets Modern Power: A Surreal AI Creation](https://awesomeprompts.xyz/images/3d/pg-1992638368266551625.jpg)
+![Hieronymus Bosch Meets Modern Power: A Surreal AI Creation](https://awesomeprompts.xyz/images/3d/pg-1992638368266551625.webp)
 
 ---
 
@@ -5905,7 +5905,7 @@ Create a clean 45° isometric miniature diorama scene of [LOCATION], designed li
 
 ## Example Output
 
-![Miniature Metropolis: Real-Time Weather in 3D Brilliance](https://awesomeprompts.xyz/images/3d/pg-1995334958974476770.jpg)
+![Miniature Metropolis: Real-Time Weather in 3D Brilliance](https://awesomeprompts.xyz/images/3d/pg-1995334958974476770.webp)
 
 ---
 
@@ -6081,7 +6081,7 @@ A lone figure in a moss-green overcoat glides through a foggy pine forest, brush
 
 ## Example Output
 
-![Misty Wanderings in the Pine Forest](https://awesomeprompts.xyz/images/3d/pg-1991720649350606995.jpg)
+![Misty Wanderings in the Pine Forest](https://awesomeprompts.xyz/images/3d/pg-1991720649350606995.webp)
 
 ---
 
@@ -6115,7 +6115,7 @@ Lighting should be clean and high-end, accentuating the structure of her face, t
 
 ## Example Output
 
-![Modeling a Moment: The Art of Instagram Realism](https://awesomeprompts.xyz/images/3d/pg-1993016209798054372.jpg)
+![Modeling a Moment: The Art of Instagram Realism](https://awesomeprompts.xyz/images/3d/pg-1993016209798054372.webp)
 
 ---
 
@@ -6175,7 +6175,7 @@ A serene portrait captures the essence of morning bliss, where soft sunlight dan
 
 ## Example Output
 
-![Monday Mood: A Cozy Dreamscape in Soft Sunlight](https://awesomeprompts.xyz/images/3d/pg-1992838971030647050.jpg)
+![Monday Mood: A Cozy Dreamscape in Soft Sunlight](https://awesomeprompts.xyz/images/3d/pg-1992838971030647050.webp)
 
 ---
 
@@ -6196,7 +6196,7 @@ Good Night.
 
 ## Example Output
 
-![Moonlit Dreams: A Serene Anime Escape](https://awesomeprompts.xyz/images/3d/pg-1995850755132326311.jpg)
+![Moonlit Dreams: A Serene Anime Escape](https://awesomeprompts.xyz/images/3d/pg-1995850755132326311.webp)
 
 ---
 
@@ -6285,7 +6285,7 @@ Captured in soft morning light, this stunning selfie showcases effortless beauty
 
 ## Example Output
 
-![Morning Glow: The Perfect Selfie with Y2K Vibes](https://awesomeprompts.xyz/images/3d/pg-1995124913183572410.jpg)
+![Morning Glow: The Perfect Selfie with Y2K Vibes](https://awesomeprompts.xyz/images/3d/pg-1995124913183572410.webp)
 
 ---
 
@@ -6309,7 +6309,7 @@ Use gentle film-grain, soft contrast, and warm highlights to make the whole scen
 
 ## Example Output
 
-![Mythic Serenity: A Beach Sunset Unleashed](https://awesomeprompts.xyz/images/3d/pg-1995441233544757656.jpg)
+![Mythic Serenity: A Beach Sunset Unleashed](https://awesomeprompts.xyz/images/3d/pg-1995441233544757656.webp)
 
 ---
 
@@ -6472,7 +6472,7 @@ Caught between floors, this playful selfie radiates warmth and soft allure. The 
 
 ## Example Output
 
-![Nanobanana Vibes: A Selfie in the Moment](https://awesomeprompts.xyz/images/3d/pg-1996518068235751487.jpg)
+![Nanobanana Vibes: A Selfie in the Moment](https://awesomeprompts.xyz/images/3d/pg-1996518068235751487.webp)
 
 ---
 
@@ -6542,7 +6542,7 @@ A treasure trove sprawled across an old captain's desk, where Nami's journey com
 
 ## Example Output
 
-![Navigating the Grand Line: A Vintage Adventure Awaits](https://awesomeprompts.xyz/images/3d/pg-1995507698150920309.jpg)
+![Navigating the Grand Line: A Vintage Adventure Awaits](https://awesomeprompts.xyz/images/3d/pg-1995507698150920309.webp)
 
 ---
 
@@ -6564,7 +6564,7 @@ A grainy digital photo shows a young woman in a trench coat holding a clear umbr
 
 ## Example Output
 
-![Neon Dreams in Tokyo's Rain-Slicked Streets](https://awesomeprompts.xyz/images/3d/pg-1993897966789349842.jpg)
+![Neon Dreams in Tokyo's Rain-Slicked Streets](https://awesomeprompts.xyz/images/3d/pg-1993897966789349842.webp)
 
 ---
 
@@ -6633,7 +6633,7 @@ Captured in a cinematic moment, a lone figure clad in vibrant layers sits on a r
 
 ## Example Output
 
-![Neon Dreams on a Rainy Dusk](https://awesomeprompts.xyz/images/3d/pg-1995087450788573215.jpg)
+![Neon Dreams on a Rainy Dusk](https://awesomeprompts.xyz/images/3d/pg-1995087450788573215.webp)
 
 ---
 
@@ -6773,7 +6773,7 @@ Amidst the vibrant chaos of Tokyo's streets, a hot pink coupe gleams under neon 
 
 ## Example Output
 
-![Neon Dreams: Pink Coupe in Tokyo's Glimmering Night](https://awesomeprompts.xyz/images/3d/pg-1996992897821073914.jpg)
+![Neon Dreams: Pink Coupe in Tokyo's Glimmering Night](https://awesomeprompts.xyz/images/3d/pg-1996992897821073914.webp)
 
 ---
 
@@ -6873,7 +6873,7 @@ Amidst the rain-soaked streets of Times Square, a stylish figure stands poised w
 
 ## Example Output
 
-![Neon Nights in Times Square: The Nano Banan Vibe](https://awesomeprompts.xyz/images/3d/pg-1995309737932726300.jpg)
+![Neon Nights in Times Square: The Nano Banan Vibe](https://awesomeprompts.xyz/images/3d/pg-1995309737932726300.webp)
 
 ---
 
@@ -6893,7 +6893,7 @@ A cyberpunk female assassin stands in the pouring rain, gripping a glowing red k
 
 ## Example Output
 
-![Neon Shadows: A Cyberpunk Duel in the Rain](https://awesomeprompts.xyz/images/3d/pg-1995319486438953152.jpg)
+![Neon Shadows: A Cyberpunk Duel in the Rain](https://awesomeprompts.xyz/images/3d/pg-1995319486438953152.webp)
 
 ---
 
@@ -6987,7 +6987,7 @@ A mesmerizing blend of glamour and aquatic allure, this young woman captivates i
 
 ## Example Output
 
-![Neon Siren: Elegance Underwater](https://awesomeprompts.xyz/images/3d/pg-1997065515035251194.jpg)
+![Neon Siren: Elegance Underwater](https://awesomeprompts.xyz/images/3d/pg-1997065515035251194.webp)
 
 ---
 
@@ -7059,7 +7059,7 @@ A stunning blend of speed and style! A female figure in a sleek black tracksuit 
 
 ## Example Output
 
-![Night Drive Vibes: Porsche Meets City Lights](https://awesomeprompts.xyz/images/3d/pg-1994007071952388603.jpg)
+![Night Drive Vibes: Porsche Meets City Lights](https://awesomeprompts.xyz/images/3d/pg-1994007071952388603.webp)
 
 ---
 
@@ -7112,7 +7112,7 @@ Amidst a vibrant night market, a young woman beams as she savors sizzling rib on
 
 ## Example Output
 
-![Night Market Vibes: A Culinary Delight Awaits!](https://awesomeprompts.xyz/images/3d/pg-1994223148468981893.jpg)
+![Night Market Vibes: A Culinary Delight Awaits!](https://awesomeprompts.xyz/images/3d/pg-1994223148468981893.webp)
 
 ---
 
@@ -7211,7 +7211,7 @@ Under the glow of street lamps, a confident young woman winks at the camera, ice
 
 ## Example Output
 
-![Night Vibes with a Twist: The Gemini Nano Banana 3.0 Look](https://awesomeprompts.xyz/images/3d/pg-1995820734233370767.jpg)
+![Night Vibes with a Twist: The Gemini Nano Banana 3.0 Look](https://awesomeprompts.xyz/images/3d/pg-1995820734233370767.webp)
 
 ---
 
@@ -7231,7 +7231,7 @@ A young man leaning against a brick wall at night, illuminated only by a weak ne
 
 ## Example Output
 
-![Night's Embrace: Urban Vibes with Gemini Nano Banana 3.0](https://awesomeprompts.xyz/images/3d/pg-1991819585880768654.jpg)
+![Night's Embrace: Urban Vibes with Gemini Nano Banana 3.0](https://awesomeprompts.xyz/images/3d/pg-1991819585880768654.webp)
 
 ---
 
@@ -7305,7 +7305,7 @@ Check out this stunning scene of confidence and allure! A young woman, radiant i
 
 ## Example Output
 
-![Nighttime Glam in a Luxe SUV: The Gemini Vibe](https://awesomeprompts.xyz/images/3d/pg-1993306227300790420.jpg)
+![Nighttime Glam in a Luxe SUV: The Gemini Vibe](https://awesomeprompts.xyz/images/3d/pg-1993306227300790420.webp)
 
 ---
 
@@ -7389,7 +7389,7 @@ Label format:
 
 ## Example Output
 
-![Pet Shop Paradise: Learn English with Every Paw](https://awesomeprompts.xyz/images/3d/pg-1993225494410805623.jpg)
+![Pet Shop Paradise: Learn English with Every Paw](https://awesomeprompts.xyz/images/3d/pg-1993225494410805623.webp)
 
 ---
 
@@ -7443,7 +7443,7 @@ Imagine iconic figures striding across a vibrant cityscape, echoing the legendar
 
 ## Example Output
 
-![Pop Culture Walks: The Ultimate Abbey Road Revival](https://awesomeprompts.xyz/images/3d/pg-1991708316339433901.jpg)
+![Pop Culture Walks: The Ultimate Abbey Road Revival](https://awesomeprompts.xyz/images/3d/pg-1991708316339433901.webp)
 
 ---
 
@@ -7514,7 +7514,7 @@ In a vibrant green meadow, a fierce red-haired archer exudes determination, draw
 
 ## Example Output
 
-![Precision in the Meadow: A Heroine's Aim](https://awesomeprompts.xyz/images/3d/pg-1995914202062668009.jpg)
+![Precision in the Meadow: A Heroine's Aim](https://awesomeprompts.xyz/images/3d/pg-1995914202062668009.webp)
 
 ---
 
@@ -7534,7 +7534,7 @@ A breathtakingly beautiful young woman with vibrant coral-red hair in soft retro
 
 ## Example Output
 
-![Radiant Elegance: A Glamourous Portrait in Pastel Hues](https://awesomeprompts.xyz/images/3d/pg-1996138931352469774.jpg)
+![Radiant Elegance: A Glamourous Portrait in Pastel Hues](https://awesomeprompts.xyz/images/3d/pg-1996138931352469774.webp)
 
 ---
 
@@ -7590,7 +7590,7 @@ Golden hour magic captured! A confident young woman leans on a sleek car, snappi
 
 ## Example Output
 
-![Reflecting the Perfect Moment](https://awesomeprompts.xyz/images/3d/pg-1995090309923938365.jpg)
+![Reflecting the Perfect Moment](https://awesomeprompts.xyz/images/3d/pg-1995090309923938365.webp)
 
 ---
 
@@ -7636,7 +7636,7 @@ A stunning street scene captures a woman touching a shop window, where her carto
 
 ## Example Output
 
-![Reflections of Growth: The Cartoon Within Us](https://awesomeprompts.xyz/images/3d/pg-1997182817235583293.jpg)
+![Reflections of Growth: The Cartoon Within Us](https://awesomeprompts.xyz/images/3d/pg-1997182817235583293.webp)
 
 ---
 
@@ -7661,7 +7661,7 @@ Create a hyper-realistic waist-up portrait using the attached photo.  Don't chan
 
 ## Example Output
 
-![Reflections of Radiance in a Sunlit Oasis](https://awesomeprompts.xyz/images/3d/pg-1992768690098692104.jpg)
+![Reflections of Radiance in a Sunlit Oasis](https://awesomeprompts.xyz/images/3d/pg-1992768690098692104.webp)
 
 ---
 
@@ -7694,7 +7694,7 @@ A mesmerizing portrait of elegance! This enchanting woman atop her ornate camel 
 
 ## Example Output
 
-![Regal Beauty in the Desert Sun](https://awesomeprompts.xyz/images/3d/pg-1996585605921386904.jpg)
+![Regal Beauty in the Desert Sun](https://awesomeprompts.xyz/images/3d/pg-1996585605921386904.webp)
 
 ---
 
@@ -7785,7 +7785,7 @@ Chilling on a vintage couch, this gamer girl embodies 90s nostalgia. With her pl
 
 ## Example Output
 
-![Retro Gamer Vibes: A Nostalgic Portrait in a Gamer's Paradise](https://awesomeprompts.xyz/images/3d/pg-1995209201522495851.jpg)
+![Retro Gamer Vibes: A Nostalgic Portrait in a Gamer's Paradise](https://awesomeprompts.xyz/images/3d/pg-1995209201522495851.webp)
 
 ---
 
@@ -7820,7 +7820,7 @@ A vintage-inspired vision! This stunning K-pop model in a plaid bustier and leat
 
 ## Example Output
 
-![Retro Glam Meets K-Pop Chic in Striking Portrait](https://awesomeprompts.xyz/images/3d/pg-1994427568372728212.jpg)
+![Retro Glam Meets K-Pop Chic in Striking Portrait](https://awesomeprompts.xyz/images/3d/pg-1994427568372728212.webp)
 
 ---
 
@@ -7840,7 +7840,7 @@ Create this photo into a photorealistic image with a strong nostalgic and melanc
 
 ## Example Output
 
-![Retro Glam: A Nostalgic 80s Captured Moment](https://awesomeprompts.xyz/images/3d/pg-1994997797628907764.jpg)
+![Retro Glam: A Nostalgic 80s Captured Moment](https://awesomeprompts.xyz/images/3d/pg-1994997797628907764.webp)
 
 ---
 
@@ -7954,7 +7954,7 @@ A serene yoga scene unfolds, showcasing a meditative pose with exquisite detail.
 
 ## Example Output
 
-![Revolutionizing Yoga Artistry with Nano Banana Pro](https://awesomeprompts.xyz/images/3d/pg-1993143153042636868.jpg)
+![Revolutionizing Yoga Artistry with Nano Banana Pro](https://awesomeprompts.xyz/images/3d/pg-1993143153042636868.webp)
 
 ---
 
@@ -8015,7 +8015,7 @@ A sleek figure lounges on a red beanbag, exuding confidence amid luxury. The viv
 
 ## Example Output
 
-![Revving Style: Gemini Nano Banana 3.0 Unleashed](https://awesomeprompts.xyz/images/3d/pg-1994082290129891340.jpg)
+![Revving Style: Gemini Nano Banana 3.0 Unleashed](https://awesomeprompts.xyz/images/3d/pg-1994082290129891340.webp)
 
 ---
 
@@ -8106,7 +8106,7 @@ Four frames of fierce beauty showcase a blend of confidence and allure, capturin
 
 ## Example Output
 
-![Sassy Silhouettes: A Vibrant Portraits Collage](https://awesomeprompts.xyz/images/3d/pg-1997054120323104938.jpg)
+![Sassy Silhouettes: A Vibrant Portraits Collage](https://awesomeprompts.xyz/images/3d/pg-1997054120323104938.webp)
 
 ---
 
@@ -8140,7 +8140,7 @@ What secrets does her captivating gaze hold? This enchanting scene, bathed in su
 
 ## Example Output
 
-![Seductive Serenity: A Portrait in Pink](https://awesomeprompts.xyz/images/3d/pg-1996062041367269671.jpg)
+![Seductive Serenity: A Portrait in Pink](https://awesomeprompts.xyz/images/3d/pg-1996062041367269671.webp)
 
 ---
 
@@ -8199,7 +8199,7 @@ A graceful figure in a flowing kimono, against the majestic backdrop of Mount Fu
 
 ## Example Output
 
-![Serenity at Fuji: A Moment of Pure Bliss](https://awesomeprompts.xyz/images/3d/pg-1995163677608304966.jpg)
+![Serenity at Fuji: A Moment of Pure Bliss](https://awesomeprompts.xyz/images/3d/pg-1995163677608304966.webp)
 
 ---
 
@@ -8307,7 +8307,7 @@ An extreme close-up reveals delicate beauty—a serene expression, soft wavy hai
 
 ## Example Output
 
-![Serenity in Soft Focus: A Macro Masterpiece](https://awesomeprompts.xyz/images/3d/pg-1995622941954891907.jpg)
+![Serenity in Soft Focus: A Macro Masterpiece](https://awesomeprompts.xyz/images/3d/pg-1995622941954891907.webp)
 
 ---
 
@@ -8327,7 +8327,7 @@ Edit the photo to be standing casually in a modern style elevator with reflectiv
 
 ## Example Output
 
-![Shadows and Style: The Modern Mystery](https://awesomeprompts.xyz/images/3d/pg-1991886673391874388.jpg)
+![Shadows and Style: The Modern Mystery](https://awesomeprompts.xyz/images/3d/pg-1991886673391874388.webp)
 
 ---
 
@@ -8400,7 +8400,7 @@ Amidst the chaos of the city, one figure stands frozen in introspection. This ci
 
 ## Example Output
 
-![Silence Speaks: A Still Moment in the Urban Hustle](https://awesomeprompts.xyz/images/3d/pg-1996916781475418441.jpg)
+![Silence Speaks: A Still Moment in the Urban Hustle](https://awesomeprompts.xyz/images/3d/pg-1996916781475418441.webp)
 
 ---
 
@@ -8426,7 +8426,7 @@ The overall style should be corporate but playful, 2D vector art, high contrast,
 
 ## Example Output
 
-![Sipping on Success: The Beverage Giants Unveiled](https://awesomeprompts.xyz/images/3d/pg-1991568652882309461.jpg)
+![Sipping on Success: The Beverage Giants Unveiled](https://awesomeprompts.xyz/images/3d/pg-1991568652882309461.webp)
 
 ---
 
@@ -8446,7 +8446,7 @@ In a cozy haven, a young woman's gaze drifts softly, her thoughts as warm as the
 
 ## Example Output
 
-![Sipping Serenity: A Moment of Reflection](https://awesomeprompts.xyz/images/3d/pg-1996766348362592498.jpg)
+![Sipping Serenity: A Moment of Reflection](https://awesomeprompts.xyz/images/3d/pg-1996766348362592498.webp)
 
 ---
 
@@ -8541,7 +8541,7 @@ A chic moment captured: a poised woman on a stone bench, savoring iced coffee. H
 
 ## Example Output
 
-![Sipping Style: The Nano Banana Vibe](https://awesomeprompts.xyz/images/3d/pg-1996444479583326443.jpg)
+![Sipping Style: The Nano Banana Vibe](https://awesomeprompts.xyz/images/3d/pg-1996444479583326443.webp)
 
 ---
 
@@ -8620,7 +8620,7 @@ Capturing elegance and allure, this stunning portrait features a woman in a vibr
   "image_guidance_settings": {
     "notes": "User requires high fidelity to source image facial features and hair, with modified body proportions.",
     "input_image": {
-      "source_path": "./user_uploads/reference_photo.jpg",
+      "source_path": "./user_uploads/reference_photo.webp",
       "usage_type": "control_net"
     },
     "control_net_units": [
@@ -8663,7 +8663,7 @@ Capturing elegance and allure, this stunning portrait features a woman in a vibr
 
 ## Example Output
 
-![Sizzling Sophistication in Red: A Visual Masterpiece](https://awesomeprompts.xyz/images/3d/pg-1996054818117263576.jpg)
+![Sizzling Sophistication in Red: A Visual Masterpiece](https://awesomeprompts.xyz/images/3d/pg-1996054818117263576.webp)
 
 ---
 
@@ -8775,7 +8775,7 @@ Behold a stunningly crafted packaging box that showcases immaculate design. Its 
 
 ## Example Output
 
-![Sleek Perfection: The Art of Assembly in 3D Packaging](https://awesomeprompts.xyz/images/3d/pg-1994022879051014312.jpg)
+![Sleek Perfection: The Art of Assembly in 3D Packaging](https://awesomeprompts.xyz/images/3d/pg-1994022879051014312.webp)
 
 ---
 
@@ -8836,7 +8836,7 @@ In a luxurious showroom glow, a confident figure relaxes on a vibrant red beanba
 
 ## Example Output
 
-![Sleek Style Meets Supercar Elegance](https://awesomeprompts.xyz/images/3d/pg-1994391705727254608.jpg)
+![Sleek Style Meets Supercar Elegance](https://awesomeprompts.xyz/images/3d/pg-1994391705727254608.webp)
 
 ---
 
@@ -8861,7 +8861,7 @@ Celebrating love in a cozy living room! A human and their futuristic robot partn
 
 ## Example Output
 
-![Snap a Selfie with Your Robotic Companion!](https://awesomeprompts.xyz/images/3d/pg-1994444395525832898.jpg)
+![Snap a Selfie with Your Robotic Companion!](https://awesomeprompts.xyz/images/3d/pg-1994444395525832898.webp)
 
 ---
 
@@ -8881,7 +8881,7 @@ Ultra HD 4K Pixar-style 3D portrait of a young couple attempting a selfie on a c
 
 ## Example Output
 
-![Sneezes & Smiles: A Pixar-Perfect Selfie Moment](https://awesomeprompts.xyz/images/3d/pg-1996645791092629998.jpg)
+![Sneezes & Smiles: A Pixar-Perfect Selfie Moment](https://awesomeprompts.xyz/images/3d/pg-1996645791092629998.webp)
 
 ---
 
@@ -8901,7 +8901,7 @@ A cinematic portrait of a person standing amidst falling snow, wearing a wide, d
 
 ## Example Output
 
-![Snowflakes Whisper: A Cinematic Portrait of Serenity](https://awesomeprompts.xyz/images/3d/pg-1995507728438145070.jpg)
+![Snowflakes Whisper: A Cinematic Portrait of Serenity](https://awesomeprompts.xyz/images/3d/pg-1995507728438145070.webp)
 
 ---
 
@@ -8970,7 +8970,7 @@ Basking in natural light, a serene figure stands gracefully by the window, refle
 
 ## Example Output
 
-![Soft Elegance by the Window: A Portrait of Serenity](https://awesomeprompts.xyz/images/3d/pg-1994369832494706898.jpg)
+![Soft Elegance by the Window: A Portrait of Serenity](https://awesomeprompts.xyz/images/3d/pg-1994369832494706898.webp)
 
 ---
 
@@ -9061,7 +9061,7 @@ A striking scene unfolds as the fit redhead, adorned in burnt orange and teal, e
 
 ## Example Output
 
-![Soviet Charm: A Glimpse of Strength and Serenity](https://awesomeprompts.xyz/images/3d/pg-1993003948312088865.jpg)
+![Soviet Charm: A Glimpse of Strength and Serenity](https://awesomeprompts.xyz/images/3d/pg-1993003948312088865.webp)
 
 ---
 
@@ -9127,7 +9127,7 @@ Amidst a cascade of colorful confetti, a joyful spirit shines bright! This young
 
 ## Example Output
 
-![Sparkle and Cheer: A Festive Celebration](https://awesomeprompts.xyz/images/3d/pg-1997123820474253356.jpg)
+![Sparkle and Cheer: A Festive Celebration](https://awesomeprompts.xyz/images/3d/pg-1997123820474253356.webp)
 
 ---
 
@@ -9243,7 +9243,7 @@ Boldly captivating, her serious gaze pierces through a blurred urban backdrop, w
 
 ## Example Output
 
-![Striking Elegance: A Modern Muse in Motion](https://awesomeprompts.xyz/images/3d/pg-1996164763664236814.jpg)
+![Striking Elegance: A Modern Muse in Motion](https://awesomeprompts.xyz/images/3d/pg-1996164763664236814.webp)
 
 ---
 
@@ -9370,7 +9370,7 @@ A vibrant tableau unfolds—a fit figure lies on a crisp orange-striped towel, s
 
 ## Example Output
 
-![Sun-Soaked Serenity on the Shoreline](https://awesomeprompts.xyz/images/3d/pg-1993792341132406823.jpg)
+![Sun-Soaked Serenity on the Shoreline](https://awesomeprompts.xyz/images/3d/pg-1993792341132406823.webp)
 
 ---
 
@@ -9482,7 +9482,7 @@ Lush greenery cradles a serene scene—Snorlax snoozes while Pikachu finds comfo
 
 ## Example Output
 
-![Sunlit Dreams: A Whimsical Forest Nap](https://awesomeprompts.xyz/images/3d/pg-1995666313990340842.jpg)
+![Sunlit Dreams: A Whimsical Forest Nap](https://awesomeprompts.xyz/images/3d/pg-1995666313990340842.webp)
 
 ---
 
@@ -9528,7 +9528,7 @@ With a focused smile, she swings high, sending the shuttlecock soaring under the
 
 ## Example Output
 
-![Sunlit Smashes: Badminton Bliss at the Playground](https://awesomeprompts.xyz/images/3d/pg-1996423188834820180.jpg)
+![Sunlit Smashes: Badminton Bliss at the Playground](https://awesomeprompts.xyz/images/3d/pg-1996423188834820180.webp)
 
 ---
 
@@ -9678,7 +9678,7 @@ A young woman basks in the golden hour glow, framed by her classic C3 Corvette. 
 
 ## Example Output
 
-![Sunset Vibes & Retro Rides: A 70s Dream](https://awesomeprompts.xyz/images/3d/pg-1997082051800080734.jpg)
+![Sunset Vibes & Retro Rides: A 70s Dream](https://awesomeprompts.xyz/images/3d/pg-1997082051800080734.webp)
 
 ---
 
@@ -9758,7 +9758,7 @@ In a world draped in shadows, a mysterious figure stands poised, her thoughtful 
 
 ## Example Output
 
-![The Enigmatic Gaze of Gemini Nano Banana 3.0](https://awesomeprompts.xyz/images/3d/pg-1995488723387978228.jpg)
+![The Enigmatic Gaze of Gemini Nano Banana 3.0](https://awesomeprompts.xyz/images/3d/pg-1995488723387978228.webp)
 
 ---
 
@@ -9819,7 +9819,7 @@ Explore the vibrant spectrum of emotions with this captivating six-panel collage
 
 ## Example Output
 
-![The Many Faces of Shreya: Six Moods in One Stunning Collage](https://awesomeprompts.xyz/images/3d/pg-1995052291981005278.jpg)
+![The Many Faces of Shreya: Six Moods in One Stunning Collage](https://awesomeprompts.xyz/images/3d/pg-1995052291981005278.webp)
 
 ---
 
@@ -9839,7 +9839,7 @@ Generate an ultra-detailed, hyperrealistic exploded technical view of Kaneda’s
 
 ## Example Output
 
-![The Mechanical Marvel of Kaneda’s Ride Unveiled!](https://awesomeprompts.xyz/images/3d/pg-1993007964756611159.jpg)
+![The Mechanical Marvel of Kaneda’s Ride Unveiled!](https://awesomeprompts.xyz/images/3d/pg-1993007964756611159.webp)
 
 ---
 
@@ -9898,7 +9898,7 @@ Bold lines and exaggerated features tell a powerful story in this hand-drawn car
 
 ## Example Output
 
-![The Serious Side of Satire: A Caricature Unveiled](https://awesomeprompts.xyz/images/3d/pg-1996955607656812714.jpg)
+![The Serious Side of Satire: A Caricature Unveiled](https://awesomeprompts.xyz/images/3d/pg-1996955607656812714.webp)
 
 ---
 
@@ -10081,7 +10081,7 @@ Bright smiles and vibrant colors collide in this selfie! A young woman radiates 
 
 ## Example Output
 
-![The Smile Showdown: Nano Banana Pro vs. Grok](https://awesomeprompts.xyz/images/3d/pg-1994029057328205998.jpg)
+![The Smile Showdown: Nano Banana Pro vs. Grok](https://awesomeprompts.xyz/images/3d/pg-1994029057328205998.webp)
 
 ---
 
@@ -10198,7 +10198,7 @@ An enigmatic figure stands confidently on cobbled streets, clutching a brass poc
 
 ## Example Output
 
-![Timeless Elegance: Vintage Portrait in Cinematic Style](https://awesomeprompts.xyz/images/3d/pg-1995766317044171121.jpg)
+![Timeless Elegance: Vintage Portrait in Cinematic Style](https://awesomeprompts.xyz/images/3d/pg-1995766317044171121.webp)
 
 ---
 
@@ -10218,7 +10218,7 @@ tilt-shift photo of a grand piano keyboard, side view from the left looking alon
 
 ## Example Output
 
-![Tiny Custodians: A Grand Piano Fantasy](https://awesomeprompts.xyz/images/3d/pg-1925522114972713147.jpg)
+![Tiny Custodians: A Grand Piano Fantasy](https://awesomeprompts.xyz/images/3d/pg-1925522114972713147.webp)
 
 ---
 
@@ -10302,7 +10302,7 @@ interior_style:
 
 ## Example Output
 
-![Torn Paper Artistry: Transforming Styles with Nano Banana Pro](https://awesomeprompts.xyz/images/3d/pg-1996129537806213597.jpg)
+![Torn Paper Artistry: Transforming Styles with Nano Banana Pro](https://awesomeprompts.xyz/images/3d/pg-1996129537806213597.webp)
 
 ---
 
@@ -10339,7 +10339,7 @@ A cozy flat-lay reveals a delightful One Piece collection, featuring Luffy's gri
 
 ## Example Output
 
-![Treasure Trove of One Piece Goodies Awaits!](https://awesomeprompts.xyz/images/3d/pg-1995501571728183455.jpg)
+![Treasure Trove of One Piece Goodies Awaits!](https://awesomeprompts.xyz/images/3d/pg-1995501571728183455.webp)
 
 ---
 
@@ -10372,7 +10372,7 @@ Caught in a sunlit moment, a striking beauty radiates confidence in a chic black
 
 ## Example Output
 
-![Tropical Elegance: A Fashion Statement in Serenity](https://awesomeprompts.xyz/images/3d/pg-1993900460441530764.jpg)
+![Tropical Elegance: A Fashion Statement in Serenity](https://awesomeprompts.xyz/images/3d/pg-1993900460441530764.webp)
 
 ---
 
@@ -10420,7 +10420,7 @@ An enchanting scene unfolds as our model exudes elegance at dusk, framed by a sh
 
 ## Example Output
 
-![Twilight Glamour on a Historic Bridge](https://awesomeprompts.xyz/images/3d/pg-1991524204920074384.jpg)
+![Twilight Glamour on a Historic Bridge](https://awesomeprompts.xyz/images/3d/pg-1991524204920074384.webp)
 
 ---
 
@@ -10541,7 +10541,7 @@ A captivating chest-up portrait split between reality and vibrant cartoon fantas
 
 ## Example Output
 
-![Two Worlds Collide: Gemini Nano Banana Pro](https://awesomeprompts.xyz/images/3d/pg-1995304550610407807.jpg)
+![Two Worlds Collide: Gemini Nano Banana Pro](https://awesomeprompts.xyz/images/3d/pg-1995304550610407807.webp)
 
 ---
 
@@ -10577,7 +10577,7 @@ A highly stylized 3D caricature of the person in the uploaded image, with expres
 
 ## Example Output
 
-![Unleash Your Playful Side with 3D Caricature Magic!](https://awesomeprompts.xyz/images/3d/pg-1993255617855729818.jpg)
+![Unleash Your Playful Side with 3D Caricature Magic!](https://awesomeprompts.xyz/images/3d/pg-1993255617855729818.webp)
 
 ---
 
@@ -10644,7 +10644,7 @@ Who knew creativity could come in such small packages? This stunning portrait bl
 
 ## Example Output
 
-![Unleashing Creativity: A Portrait of Miniature Clones](https://awesomeprompts.xyz/images/3d/pg-1996775143478383101.jpg)
+![Unleashing Creativity: A Portrait of Miniature Clones](https://awesomeprompts.xyz/images/3d/pg-1996775143478383101.webp)
 
 ---
 
@@ -10666,7 +10666,7 @@ Cinematic lighting, realistic, vibrant, vertical 1080*1440 ratio, UHD, Exact sam
 
 ## Example Output
 
-![Unleashing Digital Dreams: A Modern Day Archive](https://awesomeprompts.xyz/images/3d/pg-1993161301326225691.jpg)
+![Unleashing Digital Dreams: A Modern Day Archive](https://awesomeprompts.xyz/images/3d/pg-1993161301326225691.webp)
 
 ---
 
@@ -10739,7 +10739,7 @@ A whimsical arcade realm bursts to life with sugary monsters and vibrant hues, s
 
 ## Example Output
 
-![Unleashing Playful Chaos in Neon Dreams](https://awesomeprompts.xyz/images/3d/pg-1994104753966686476.jpg)
+![Unleashing Playful Chaos in Neon Dreams](https://awesomeprompts.xyz/images/3d/pg-1994104753966686476.webp)
 
 ---
 
@@ -10769,7 +10769,7 @@ High-Resolution Full-Frame Digital SLR or Mirrorless Camera ( Canon R). A medium
 
 ## Example Output
 
-![Unleashing Vibrancy: A Dance of Fabric and Storm](https://awesomeprompts.xyz/images/3d/pg-1992953432668536956.jpg)
+![Unleashing Vibrancy: A Dance of Fabric and Storm](https://awesomeprompts.xyz/images/3d/pg-1992953432668536956.webp)
 
 ---
 
@@ -10789,7 +10789,7 @@ A photorealistic ESC keycap scene shows a miniature cozy living room from 90s.. 
 
 ## Example Output
 
-![Unlocking Nostalgia: The Ultimate 90s Gaming Escape Key](https://awesomeprompts.xyz/images/3d/pg-1992873252390068678.jpg)
+![Unlocking Nostalgia: The Ultimate 90s Gaming Escape Key](https://awesomeprompts.xyz/images/3d/pg-1992873252390068678.webp)
 
 ---
 
@@ -10865,7 +10865,7 @@ Elegance meets power! This striking woman in a bold jumpsuit radiates confidence
 
 ## Example Output
 
-![Unveiling Confidence in Couture: Gemini Nano Banana Pro](https://awesomeprompts.xyz/images/3d/pg-1993972774667473328.jpg)
+![Unveiling Confidence in Couture: Gemini Nano Banana Pro](https://awesomeprompts.xyz/images/3d/pg-1993972774667473328.webp)
 
 ---
 
@@ -10934,7 +10934,7 @@ In a lavish mansion, a stunning figure emerges, draped in glossy black latex. Th
 
 ## Example Output
 
-![Unveiling Glamour: The Bold Fashion Statement](https://awesomeprompts.xyz/images/3d/pg-1993264932738248940.jpg)
+![Unveiling Glamour: The Bold Fashion Statement](https://awesomeprompts.xyz/images/3d/pg-1993264932738248940.webp)
 
 ---
 
@@ -10958,7 +10958,7 @@ Is it art or engineering? This captivating macro shot unveils a toy figure split
 
 ## Example Output
 
-![Unveiling the Heart of a Toy: A Stunning Half-Reveal](https://awesomeprompts.xyz/images/3d/pg-1994837926266454114.jpg)
+![Unveiling the Heart of a Toy: A Stunning Half-Reveal](https://awesomeprompts.xyz/images/3d/pg-1994837926266454114.webp)
 
 ---
 
@@ -10991,7 +10991,7 @@ Can you feel the essence of heartbreak captured in this stunning 1/7 figure? 'Lo
 
 ## Example Output
 
-![Unveiling the Heartbreak: Meet the 'Lost Love Girls' Figure!](https://awesomeprompts.xyz/images/3d/pg-1991767005557583966.jpg)
+![Unveiling the Heartbreak: Meet the 'Lost Love Girls' Figure!](https://awesomeprompts.xyz/images/3d/pg-1991767005557583966.webp)
 
 ---
 
@@ -11011,7 +11011,7 @@ Use my image in Hyper-ultra realistic 8K cinematic portrait, face unchanged from
 
 ## Example Output
 
-![Urban Edge: A Portrait of Style and Strength](https://awesomeprompts.xyz/images/3d/pg-1991873639017554424.jpg)
+![Urban Edge: A Portrait of Style and Strength](https://awesomeprompts.xyz/images/3d/pg-1991873639017554424.webp)
 
 ---
 
@@ -11087,7 +11087,7 @@ A striking black and white portrait reveals a woman with short gray hair, exudin
 
 ## Example Output
 
-![Urban Elegance: A Gritty Portrait in Monochrome](https://awesomeprompts.xyz/images/3d/pg-1996523096170549383.jpg)
+![Urban Elegance: A Gritty Portrait in Monochrome](https://awesomeprompts.xyz/images/3d/pg-1996523096170549383.webp)
 
 ---
 
@@ -11147,7 +11147,7 @@ Bold and vibrant, this gritty fisheye capture showcases a stunning Gyaru model r
 
 ## Example Output
 
-![Urban Glamour: Gyaru Style in Neon Tokyo](https://awesomeprompts.xyz/images/3d/pg-1994036974961705057.jpg)
+![Urban Glamour: Gyaru Style in Neon Tokyo](https://awesomeprompts.xyz/images/3d/pg-1994036974961705057.webp)
 
 ---
 
@@ -11208,7 +11208,7 @@ A bearded figure leans pensively against a railing, shrouded in shadows. His int
 
 ## Example Output
 
-![Urban Grit: The Soul of the City in Black and White](https://awesomeprompts.xyz/images/3d/pg-1991496254950428951.jpg)
+![Urban Grit: The Soul of the City in Black and White](https://awesomeprompts.xyz/images/3d/pg-1991496254950428951.webp)
 
 ---
 
@@ -11228,7 +11228,7 @@ Hyper-realistic street photo in heavy rainfall , raindrops frozen mid-air, refle
 
 ## Example Output
 
-![Urban Symphony: Rain-Drenched Reflections](https://awesomeprompts.xyz/images/3d/pg-1996456554376385013.jpg)
+![Urban Symphony: Rain-Drenched Reflections](https://awesomeprompts.xyz/images/3d/pg-1996456554376385013.webp)
 
 ---
 
@@ -11308,7 +11308,7 @@ Caught in a cinematic moment, a striking woman leans against the silver escalato
 
 ## Example Output
 
-![Vintage Vibes: A Subway Portrait in Red](https://awesomeprompts.xyz/images/3d/pg-1993126634304815217.jpg)
+![Vintage Vibes: A Subway Portrait in Red](https://awesomeprompts.xyz/images/3d/pg-1993126634304815217.webp)
 
 ---
 
@@ -11370,7 +11370,7 @@ Two worlds collide! A striking man in a trendy hoodie stands beside his animated
 
 ## Example Output
 
-![When Reality Meets 90s Cartoon Magic](https://awesomeprompts.xyz/images/3d/pg-1994060915478811002.jpg)
+![When Reality Meets 90s Cartoon Magic](https://awesomeprompts.xyz/images/3d/pg-1994060915478811002.webp)
 
 ---
 
@@ -11390,7 +11390,7 @@ Add clean, minimal white line-drawing illustrations of people into this photo. M
 
 ## Example Output
 
-![Whimsical Harmony: Line-Drawing Life in a Cozy Space](https://awesomeprompts.xyz/images/3d/pg-1992521922689569018.jpg)
+![Whimsical Harmony: Line-Drawing Life in a Cozy Space](https://awesomeprompts.xyz/images/3d/pg-1992521922689569018.webp)
 
 ---
 
@@ -11410,7 +11410,7 @@ a diminutive street musician, no taller than a wine bottle, performing atop a st
 
 ## Example Output
 
-![Whimsical Symphony Amongst Vintage Pages](https://awesomeprompts.xyz/images/3d/pg-1994027714777669779.jpg)
+![Whimsical Symphony Amongst Vintage Pages](https://awesomeprompts.xyz/images/3d/pg-1994027714777669779.webp)
 
 ---
 
@@ -11430,7 +11430,7 @@ A highly stylized 3D caricature of the person in the uploaded image, with expres
 
 ## Example Output
 
-![Whimsical Wonders: 3D Caricature Unleashed](https://awesomeprompts.xyz/images/3d/pg-1996554636166049928.jpg)
+![Whimsical Wonders: 3D Caricature Unleashed](https://awesomeprompts.xyz/images/3d/pg-1996554636166049928.webp)
 
 ---
 
@@ -11450,7 +11450,7 @@ Create a portrait From a 100% reference image, it is a close-up of a movie. A mo
 
 ## Example Output
 
-![Whispers of Elegance: A Portrait in Soft Hues](https://awesomeprompts.xyz/images/3d/pg-1994774952222859651.jpg)
+![Whispers of Elegance: A Portrait in Soft Hues](https://awesomeprompts.xyz/images/3d/pg-1994774952222859651.webp)
 
 ---
 
@@ -11470,7 +11470,7 @@ A lone figure stands amidst swaying grass, eyes closed, embraced by twilight. Te
 
 ## Example Output
 
-![Whispers of Freedom in a Dusk-Kissed Field](https://awesomeprompts.xyz/images/3d/pg-1992819599541485701.jpg)
+![Whispers of Freedom in a Dusk-Kissed Field](https://awesomeprompts.xyz/images/3d/pg-1992819599541485701.webp)
 
 ---
 
@@ -11495,7 +11495,7 @@ A stunning young woman rests thoughtfully, surrounded by delicate blooms and vib
 
 ## Example Output
 
-![Whispers of Melancholy: A Cozy Artistic Retreat](https://awesomeprompts.xyz/images/3d/pg-1995782971945898291.jpg)
+![Whispers of Melancholy: A Cozy Artistic Retreat](https://awesomeprompts.xyz/images/3d/pg-1995782971945898291.webp)
 
 ---
 
@@ -11515,7 +11515,7 @@ A mysterious woman stands alone in a vast golden desert at sunset, dressed in fl
 
 ## Example Output
 
-![Whispers of the Desert: A Mysterious Encounter](https://awesomeprompts.xyz/images/3d/pg-1994266703291973678.jpg)
+![Whispers of the Desert: A Mysterious Encounter](https://awesomeprompts.xyz/images/3d/pg-1994266703291973678.webp)
 
 ---
 
@@ -11568,7 +11568,7 @@ Caught in a whirlwind of memories, a figure drifts through the night, hair wild 
 
 ## Example Output
 
-![Whispers of the Night: A Dreamy Vintage Escape](https://awesomeprompts.xyz/images/3d/pg-1995086924126564486.jpg)
+![Whispers of the Night: A Dreamy Vintage Escape](https://awesomeprompts.xyz/images/3d/pg-1995086924126564486.webp)
 
 ---
 
@@ -11588,7 +11588,7 @@ outdoor street-style photo of a cheerful young woman on the sidewalk shows her w
 
 ## Example Output
 
-![Wink, Peace, and Style: A Day in the Sun](https://awesomeprompts.xyz/images/3d/pg-1995816395997938048.jpg)
+![Wink, Peace, and Style: A Day in the Sun](https://awesomeprompts.xyz/images/3d/pg-1995816395997938048.webp)
 
 ---
 
@@ -11645,7 +11645,7 @@ Can a toy iron truly smooth the complexities of aging? This striking macro shot 
 
 ## Example Output
 
-![Wrinkles Under Pressure: A Surreal Take on Beauty](https://awesomeprompts.xyz/images/3d/pg-1997061102237049047.jpg)
+![Wrinkles Under Pressure: A Surreal Take on Beauty](https://awesomeprompts.xyz/images/3d/pg-1997061102237049047.webp)
 
 ---
 
@@ -11748,7 +11748,7 @@ Boldly channeling the edgy Y2K aesthetic, this high-angle shot captures a striki
 
 ## Example Output
 
-![Y2K Unleashed: Dark Glamour at a High Angle](https://awesomeprompts.xyz/images/3d/pg-1996207944136872018.jpg)
+![Y2K Unleashed: Dark Glamour at a High Angle](https://awesomeprompts.xyz/images/3d/pg-1996207944136872018.webp)
 
 ---
 
@@ -11810,7 +11810,7 @@ Still from a Shopping channel VHS tape from 1986, where someone is selling the m
 
 ## Example Output
 
-![A Blast from the Past: The Most Useless Trinket of '86!](https://awesomeprompts.xyz/images/creative/pg-1991559112635850956.jpg)
+![A Blast from the Past: The Most Useless Trinket of '86!](https://awesomeprompts.xyz/images/creative/pg-1991559112635850956.webp)
 
 ---
 
@@ -11830,7 +11830,7 @@ Lincoln, one of the top CEOs in the country
 
 ## Example Output
 
-![A CEO Among Giants: Lincoln's Leadership Unveiled](https://awesomeprompts.xyz/images/creative/pg-1994465156047290824.jpg)
+![A CEO Among Giants: Lincoln's Leadership Unveiled](https://awesomeprompts.xyz/images/creative/pg-1994465156047290824.webp)
 
 ---
 
@@ -11850,7 +11850,7 @@ A whimsical four-panel comic unfolds as a fairy descends to Earth, finding a cur
 
 ## Example Output
 
-![A Feline Fantasy: When Fairies Meet Cats](https://awesomeprompts.xyz/images/creative/pg-1991789421671449071.jpg)
+![A Feline Fantasy: When Fairies Meet Cats](https://awesomeprompts.xyz/images/creative/pg-1991789421671449071.webp)
 
 ---
 
@@ -11870,7 +11870,7 @@ Draw an illustration of GARP biology for Tregs
 
 ## Example Output
 
-![A Heartfelt Tribute to GARP Biology: Nostalgia in Art](https://awesomeprompts.xyz/images/creative/pg-1991613761481027586.jpg)
+![A Heartfelt Tribute to GARP Biology: Nostalgia in Art](https://awesomeprompts.xyz/images/creative/pg-1991613761481027586.webp)
 
 ---
 
@@ -11890,7 +11890,7 @@ Captured in a vibrant moment, this AI-generated image showcases a dedicated Japa
 
 ## Example Output
 
-![A Patriots Fan's Pride: AI Meets NFL Spirit!](https://awesomeprompts.xyz/images/creative/pg-1991704379808968721.jpg)
+![A Patriots Fan's Pride: AI Meets NFL Spirit!](https://awesomeprompts.xyz/images/creative/pg-1991704379808968721.webp)
 
 ---
 
@@ -11910,7 +11910,7 @@ A flat wooden bird feeder sprinkled with seeds rests on a sunlit garden table, r
 
 ## Example Output
 
-![A Symphony of Color on a Sunlit Garden Table](https://awesomeprompts.xyz/images/creative/pg-1996566221643510042.jpg)
+![A Symphony of Color on a Sunlit Garden Table](https://awesomeprompts.xyz/images/creative/pg-1996566221643510042.webp)
 
 ---
 
@@ -11926,7 +11926,7 @@ A flat wooden bird feeder sprinkled with seeds rests on a sunlit garden table, r
 - [Original](https://x.com/dr_cintas/status/1991888364099035581?s=20)
 
 ## Example Output
-![Aging Through the Years](https://awesomeprompts.xyz/images/creative/nb-aging-through-the-years.png)
+![Aging Through the Years](https://awesomeprompts.xyz/images/creative/nb-aging-through-the-years.webp)
 
 ---
 
@@ -11986,7 +11986,7 @@ A Victorian surgeon's medical kit laid open on aged leather, featuring antique b
 
 ## Example Output
 
-![Anatomical Elegance: A Victorian Surgeon’s Artistry](https://awesomeprompts.xyz/images/creative/pg-1996868169546579972.jpg)
+![Anatomical Elegance: A Victorian Surgeon’s Artistry](https://awesomeprompts.xyz/images/creative/pg-1996868169546579972.webp)
 
 ---
 
@@ -12006,7 +12006,7 @@ Show the behind the scenes view of this movie set of this exact scene. Keeping t
 
 ## Example Output
 
-![Behind the Magic: Stranger Things Meets Nano Banana Pro](https://awesomeprompts.xyz/images/creative/pg-1994770589383328182.jpg)
+![Behind the Magic: Stranger Things Meets Nano Banana Pro](https://awesomeprompts.xyz/images/creative/pg-1994770589383328182.webp)
 
 ---
 
@@ -12026,7 +12026,7 @@ Make a highly detailed original Construction plan of Laxmi Vilas Palace based on
 
 ## Example Output
 
-![Blueprints of Royalty: The Laxmi Vilas Palace Unveiled](https://awesomeprompts.xyz/images/creative/pg-1991718455150801098.jpg)
+![Blueprints of Royalty: The Laxmi Vilas Palace Unveiled](https://awesomeprompts.xyz/images/creative/pg-1991718455150801098.webp)
 
 ---
 
@@ -12251,7 +12251,7 @@ Zoom out and expand this image to a 16:9 aspect ratio (computer wallpaper size).
 - [Original](https://mp.weixin.qq.com/s/lrYNbs4rGs3KOqewoZ6aNQ)
 
 ## Example Output
-![Composition Rescue (Smart Outpainting)](https://awesomeprompts.xyz/images/creative/nb-composition-rescue-smart-outpainting.png)
+![Composition Rescue (Smart Outpainting)](https://awesomeprompts.xyz/images/creative/nb-composition-rescue-smart-outpainting.webp)
 
 ---
 
@@ -12267,7 +12267,7 @@ Create an educational infographic explaining [Photosynthesis] . Visual Elements 
 - [Original](https://mp.weixin.qq.com/s/lrYNbs4rGs3KOqewoZ6aNQ)
 
 ## Example Output
-![Concept Visualization (Text to Infographic)](https://awesomeprompts.xyz/images/creative/nb-concept-visualization-text-to-infographic.png)
+![Concept Visualization (Text to Infographic)](https://awesomeprompts.xyz/images/creative/nb-concept-visualization-text-to-infographic.webp)
 
 ---
 
@@ -12283,7 +12283,7 @@ How engineers see the San Francisco Bridge
 - [Original](https://replicate.com/)
 
 ## Example Output
-![Conceptual Visualization](https://awesomeprompts.xyz/images/creative/nb-conceptual-visualization.png)
+![Conceptual Visualization](https://awesomeprompts.xyz/images/creative/nb-conceptual-visualization.webp)
 
 ---
 
@@ -12303,7 +12303,7 @@ A digital illustration of a (your character) from a low angle, standing with a s
 
 ## Example Output
 
-![Confidence Unleashed: A Power Pose with a Twist](https://awesomeprompts.xyz/images/creative/pg-1995786881544716782.jpg)
+![Confidence Unleashed: A Power Pose with a Twist](https://awesomeprompts.xyz/images/creative/pg-1995786881544716782.webp)
 
 ---
 
@@ -12319,7 +12319,7 @@ A digital illustration of a (your character) from a low angle, standing with a s
 - [Original](https://replicate.com/)
 
 ## Example Output
-![Coordinate Visualization](https://awesomeprompts.xyz/images/creative/nb-coordinate-visualization.png)
+![Coordinate Visualization](https://awesomeprompts.xyz/images/creative/nb-coordinate-visualization.webp)
 
 ---
 
@@ -12358,7 +12358,7 @@ Camera: orthographic front view, side inset.
 
 ## Example Output
 
-![Cosmic Swagger: The HaHaa Gundam Blueprint Unveiled!](https://awesomeprompts.xyz/images/creative/pg-1991724239767106012.jpg)
+![Cosmic Swagger: The HaHaa Gundam Blueprint Unveiled!](https://awesomeprompts.xyz/images/creative/pg-1991724239767106012.webp)
 
 ---
 
@@ -12378,7 +12378,7 @@ Imagine transforming a simple illustration into a vibrant LINE sticker collectio
 
 ## Example Output
 
-![Crafting Characters at Lightning Speed with Nano Banana Pro!](https://awesomeprompts.xyz/images/creative/pg-1992064424660906262.jpg)
+![Crafting Characters at Lightning Speed with Nano Banana Pro!](https://awesomeprompts.xyz/images/creative/pg-1992064424660906262.webp)
 
 ---
 
@@ -12404,7 +12404,7 @@ Visualize resilience! This hand-drawn infographic bursts with inspiring wisdom. 
 
 ## Example Output
 
-![Crafting Commitment: The Art of Persistence in IP Creation](https://awesomeprompts.xyz/images/creative/pg-1991786129046044735.jpg)
+![Crafting Commitment: The Art of Persistence in IP Creation](https://awesomeprompts.xyz/images/creative/pg-1991786129046044735.webp)
 
 ---
 
@@ -12424,7 +12424,7 @@ A list of eight color names is written in crayons of the corresponding color, bu
 
 ## Example Output
 
-![Crayon Confusion: The Colorful Mix-Up!](https://awesomeprompts.xyz/images/creative/pg-1992673828372172937.jpg)
+![Crayon Confusion: The Colorful Mix-Up!](https://awesomeprompts.xyz/images/creative/pg-1992673828372172937.webp)
 
 ---
 
@@ -12531,7 +12531,7 @@ Translate the text in the speech bubbles/captions from [Japanese/English] to [Ch
 - [Original](https://mp.weixin.qq.com/s/lrYNbs4rGs3KOqewoZ6aNQ)
 
 ## Example Output
-![Digital Content Localization (Comics/Memes)](https://awesomeprompts.xyz/images/creative/nb-digital-content-localization-comics-memes.png)
+![Digital Content Localization (Comics/Memes)](https://awesomeprompts.xyz/images/creative/nb-digital-content-localization-comics-memes.webp)
 
 ---
 
@@ -12551,7 +12551,7 @@ Create an image at 40.7128° N, 74.0060° W, September 11, 2001, 08:46 hours
 
 ## Example Output
 
-![Echoes from the Past: A Moment in Time](https://awesomeprompts.xyz/images/creative/pg-1992947742948442516.jpg)
+![Echoes from the Past: A Moment in Time](https://awesomeprompts.xyz/images/creative/pg-1992947742948442516.webp)
 
 ---
 
@@ -12571,7 +12571,7 @@ Draw an anime poster for the 2025 World Series: The Dodgers vs. Blue Jays, featu
 
 ## Example Output
 
-![Epic Showdown: Dodgers vs. Blue Jays Anime Art Awaits!](https://awesomeprompts.xyz/images/creative/pg-1993593366555378137.jpg)
+![Epic Showdown: Dodgers vs. Blue Jays Anime Art Awaits!](https://awesomeprompts.xyz/images/creative/pg-1993593366555378137.webp)
 
 ---
 
@@ -12591,7 +12591,7 @@ A cutaway illustration of a cruise ship. We see the engine room, the ballroom, t
 
 ## Example Output
 
-![Explore the Hidden Wonders of Cruise Life!](https://awesomeprompts.xyz/images/creative/pg-1991552579441135956.jpg)
+![Explore the Hidden Wonders of Cruise Life!](https://awesomeprompts.xyz/images/creative/pg-1991552579441135956.webp)
 
 ---
 
@@ -12611,7 +12611,7 @@ Generate a diagram of a two-layer neural network in the style of Stephen Biesty
 
 ## Example Output
 
-![Exploring Neural Networks: Biesty's Artistic Touch](https://awesomeprompts.xyz/images/creative/pg-1991554563233779822.jpg)
+![Exploring Neural Networks: Biesty's Artistic Touch](https://awesomeprompts.xyz/images/creative/pg-1991554563233779822.webp)
 
 ---
 
@@ -12740,7 +12740,7 @@ Every known meme character in the style of "Where's Wally"
 
 ## Example Output
 
-![Find the Fun: Meme Madness Meets Nano Banana Pro!](https://awesomeprompts.xyz/images/creative/pg-1991662539827241223.jpg)
+![Find the Fun: Meme Madness Meets Nano Banana Pro!](https://awesomeprompts.xyz/images/creative/pg-1991662539827241223.webp)
 
 ---
 
@@ -12775,7 +12775,7 @@ Make me a detailed diagram showing how mitosis works,, with annotations and visu
 
 ## Example Output
 
-![Gemini 3.0: Your Ultimate Teaching Ally!](https://awesomeprompts.xyz/images/creative/pg-1991591659478364574.jpg)
+![Gemini 3.0: Your Ultimate Teaching Ally!](https://awesomeprompts.xyz/images/creative/pg-1991591659478364574.webp)
 
 ---
 
@@ -12867,7 +12867,7 @@ a beautiful butterfly with golden wings, detailed and colorful, with ornate patt
 
 ## Example Output
 
-![Gleaming Elegance: A Butterfly's Golden Dance](https://awesomeprompts.xyz/images/creative/pg-1995478061123526920.jpg)
+![Gleaming Elegance: A Butterfly's Golden Dance](https://awesomeprompts.xyz/images/creative/pg-1995478061123526920.webp)
 
 ---
 
@@ -12900,7 +12900,7 @@ Convert this hand-drawn whiteboard sketch into a professional corporate flowchar
 - [Original](https://mp.weixin.qq.com/s/lrYNbs4rGs3KOqewoZ6aNQ)
 
 ## Example Output
-![Hand-drawn Flowchart to Corporate Charts](https://awesomeprompts.xyz/images/creative/nb-hand-drawn-flowchart-to-corporate-charts.png)
+![Hand-drawn Flowchart to Corporate Charts](https://awesomeprompts.xyz/images/creative/nb-hand-drawn-flowchart-to-corporate-charts.webp)
 
 ---
 
@@ -12965,7 +12965,7 @@ Based on the uploaded 2D floor plan, generate a professional interior design pre
 - [Original](https://mp.weixin.qq.com/s/lrYNbs4rGs3KOqewoZ6aNQ)
 
 ## Example Output
-![Hard Furnishing Preview (Floor Plan to Design)](https://awesomeprompts.xyz/images/creative/nb-hard-furnishing-preview-floor-plan-to-design.png)
+![Hard Furnishing Preview (Floor Plan to Design)](https://awesomeprompts.xyz/images/creative/nb-hard-furnishing-preview-floor-plan-to-design.webp)
 
 ---
 
@@ -12985,7 +12985,7 @@ A beautiful angel with wings sitting under a night sky inspired by Vincent Van G
 
 ## Example Output
 
-![Heavenly Dreams Under a Starry Canvas](https://awesomeprompts.xyz/images/creative/pg-1995919720030101591.jpg)
+![Heavenly Dreams Under a Starry Canvas](https://awesomeprompts.xyz/images/creative/pg-1995919720030101591.webp)
 
 ---
 
@@ -13005,7 +13005,7 @@ create a novel xkcd style comic, with a clever new insight
 
 ## Example Output
 
-![Humor Meets Insight: An xkcd Comic Adventure](https://awesomeprompts.xyz/images/creative/pg-1991605181830824106.jpg)
+![Humor Meets Insight: An xkcd Comic Adventure](https://awesomeprompts.xyz/images/creative/pg-1991605181830824106.webp)
 
 ---
 
@@ -13025,7 +13025,7 @@ THE ENVIRONMENT: A luxurious open-air rooftop terrace at sunset overlooking a mo
 - [Original](https://x.com/SebJefferies/status/1991531687147360728)
 
 ## Example Output
-![Hyper-Realistic Crowd Composition](https://awesomeprompts.xyz/images/creative/nb-hyper-realistic-crowd-composition.png)
+![Hyper-Realistic Crowd Composition](https://awesomeprompts.xyz/images/creative/nb-hyper-realistic-crowd-composition.webp)
 
 ---
 
@@ -13045,7 +13045,7 @@ Chiaroscuro is an artistic technique using strong light-dark contrasts to create
 
 ## Example Output
 
-![Illuminate Your Art with Chiaroscuro Magic](https://awesomeprompts.xyz/images/creative/pg-1994864493931950139.jpg)
+![Illuminate Your Art with Chiaroscuro Magic](https://awesomeprompts.xyz/images/creative/pg-1994864493931950139.webp)
 
 ---
 
@@ -13220,7 +13220,7 @@ Stay hungry, stay foolish.
 
 ## Example Output
 
-![Mapping Steve Jobs' Epic Journey in a Middle-earth Adventure](https://awesomeprompts.xyz/images/creative/pg-1992589073039671607.jpg)
+![Mapping Steve Jobs' Epic Journey in a Middle-earth Adventure](https://awesomeprompts.xyz/images/creative/pg-1992589073039671607.webp)
 
 ---
 
@@ -13292,7 +13292,7 @@ Turn this photo of my [cat/dog] into a funny hand-drawn WeChat sticker . Style :
 - [Original](https://mp.weixin.qq.com/s/lrYNbs4rGs3KOqewoZ6aNQ)
 
 ## Example Output
-![Pet Meme Creation](https://awesomeprompts.xyz/images/creative/nb-pet-meme-creation.png)
+![Pet Meme Creation](https://awesomeprompts.xyz/images/creative/nb-pet-meme-creation.webp)
 
 ---
 
@@ -13330,7 +13330,7 @@ Translate the Chinese dish names on the wall menu into English for foreign touri
 - [Original](https://mp.weixin.qq.com/s/lrYNbs4rGs3KOqewoZ6aNQ)
 
 ## Example Output
-![Physical Store/Travel Translation](https://awesomeprompts.xyz/images/creative/nb-physical-store-travel-translation.png)
+![Physical Store/Travel Translation](https://awesomeprompts.xyz/images/creative/nb-physical-store-travel-translation.webp)
 
 ---
 
@@ -13350,7 +13350,7 @@ A 16-bit pixel art poster showcasing all the black and white animals of nature. 
 
 ## Example Output
 
-![Pixelated Nature: A Retro Showcase of Black & White Wildlife](https://awesomeprompts.xyz/images/creative/pg-1991791005319016642.jpg)
+![Pixelated Nature: A Retro Showcase of Black & White Wildlife](https://awesomeprompts.xyz/images/creative/pg-1991791005319016642.webp)
 
 ---
 
@@ -13366,7 +13366,7 @@ recursive image of an orange cat sitting in an office chair holding up an iPad. 
 - [Original](https://x.com/venturetwins/status/1993174445515772086)
 
 ## Example Output
-![Recursive Visuals](https://awesomeprompts.xyz/images/creative/nb-recursive-visuals.png)
+![Recursive Visuals](https://awesomeprompts.xyz/images/creative/nb-recursive-visuals.webp)
 
 ---
 
@@ -13386,7 +13386,7 @@ Could this vibrant depiction of a Showa-era shopping street be any more captivat
 
 ## Example Output
 
-![Reimagining Japan's Economic Boom: A Pixelated Marketplace](https://awesomeprompts.xyz/images/creative/pg-1991689358181822948.jpg)
+![Reimagining Japan's Economic Boom: A Pixelated Marketplace](https://awesomeprompts.xyz/images/creative/pg-1991689358181822948.webp)
 
 ---
 
@@ -13423,7 +13423,7 @@ Describe in an illustration the events for a cytotoxic T cell recognizing & kill
 
 ## Example Output
 
-![Revolutionizing Science: Instant Artistry with NanoBanana Pro](https://awesomeprompts.xyz/images/creative/pg-1991602903258394911.jpg)
+![Revolutionizing Science: Instant Artistry with NanoBanana Pro](https://awesomeprompts.xyz/images/creative/pg-1991602903258394911.webp)
 
 ---
 
@@ -13459,7 +13459,7 @@ A striking blend of tradition and modernity, this infographic channels Hokusai's
 
 ## Example Output
 
-![Samurai Tides: A Katsushika Hokusai-Inspired Infographic](https://awesomeprompts.xyz/images/creative/pg-1992463929684246763.jpg)
+![Samurai Tides: A Katsushika Hokusai-Inspired Infographic](https://awesomeprompts.xyz/images/creative/pg-1992463929684246763.webp)
 
 ---
 
@@ -13495,7 +13495,7 @@ ultra hugging close-up view of with edges of glasses with the lenses almost touc
 
 ## Example Output
 
-![Seeing the World Through Myopic Lenses](https://awesomeprompts.xyz/images/creative/pg-1997177277327856085.jpg)
+![Seeing the World Through Myopic Lenses](https://awesomeprompts.xyz/images/creative/pg-1997177277327856085.webp)
 
 ---
 
@@ -13511,7 +13511,7 @@ Remove all the tourists/people in the background behind the main subject. Intell
 - [Original](https://mp.weixin.qq.com/s/lrYNbs4rGs3KOqewoZ6aNQ)
 
 ## Example Output
-![Smart Crowd Removal](https://awesomeprompts.xyz/images/creative/nb-smart-crowd-removal.png)
+![Smart Crowd Removal](https://awesomeprompts.xyz/images/creative/nb-smart-crowd-removal.webp)
 
 ---
 
@@ -13572,7 +13572,7 @@ Can you imagine wandering the vibrant streets of Edo-era Japan? This intricate c
 
 ## Example Output
 
-![Step Back in Time: Edo Castle Town in Stunning Detail](https://awesomeprompts.xyz/images/creative/pg-1991707605086138408.jpg)
+![Step Back in Time: Edo Castle Town in Stunning Detail](https://awesomeprompts.xyz/images/creative/pg-1991707605086138408.webp)
 
 ---
 
@@ -13623,7 +13623,7 @@ i need a flowchart for how to toast bread, make it as wacky and over the top and
 
 ## Example Output
 
-![The Art of Toast: A Whimsical Flowchart Adventure](https://awesomeprompts.xyz/images/creative/pg-1991549167773376978.jpg)
+![The Art of Toast: A Whimsical Flowchart Adventure](https://awesomeprompts.xyz/images/creative/pg-1991549167773376978.webp)
 
 ---
 
@@ -13643,7 +13643,7 @@ Could tech be turning designers obsolete? This eye-catching image tackles basic 
 
 ## Example Output
 
-![The Battle of Design: Nano Banana Pro vs. Creativity](https://awesomeprompts.xyz/images/creative/pg-1992058790347444549.jpg)
+![The Battle of Design: Nano Banana Pro vs. Creativity](https://awesomeprompts.xyz/images/creative/pg-1992058790347444549.webp)
 
 ---
 
@@ -13663,7 +13663,7 @@ Hyper-detailed, ultra-realistic illustration of an owl emerging from dense jungl
 
 ## Example Output
 
-![The Enigmatic Owl of the Jungle](https://awesomeprompts.xyz/images/creative/pg-1995155798222311891.jpg)
+![The Enigmatic Owl of the Jungle](https://awesomeprompts.xyz/images/creative/pg-1995155798222311891.webp)
 
 ---
 
@@ -13683,7 +13683,7 @@ Create an image of an analog clock reading 15:32 [Not digital and no other time]
 
 ## Example Output
 
-![Time, Taste, and Tints: A Visual Feast](https://awesomeprompts.xyz/images/creative/pg-1991533868944351491.jpg)
+![Time, Taste, and Tints: A Visual Feast](https://awesomeprompts.xyz/images/creative/pg-1991533868944351491.webp)
 
 ---
 
@@ -13703,7 +13703,7 @@ Design a minimalist poster of the word "TIME" in a clean sans-serif font. Replac
 
 ## Example Output
 
-![TIME: A Melting Moment in Minimalism](https://awesomeprompts.xyz/images/creative/pg-1996565176921796789.jpg)
+![TIME: A Melting Moment in Minimalism](https://awesomeprompts.xyz/images/creative/pg-1996565176921796789.webp)
 
 ---
 
@@ -13723,7 +13723,7 @@ Zoom in on the toes
 
 ## Example Output
 
-![Tiny Toes, Big Surprises: The Nano Banana Experience!](https://awesomeprompts.xyz/images/creative/pg-1992059240287244364.jpg)
+![Tiny Toes, Big Surprises: The Nano Banana Experience!](https://awesomeprompts.xyz/images/creative/pg-1992059240287244364.webp)
 
 ---
 
@@ -13820,7 +13820,7 @@ Can you believe the magic of NanoBanana Pro? With seamless character swaps and i
 
 ## Example Output
 
-![Transforming Conversations with NanoBanana Pro!](https://awesomeprompts.xyz/images/creative/pg-1991557599519728113.jpg)
+![Transforming Conversations with NanoBanana Pro!](https://awesomeprompts.xyz/images/creative/pg-1991557599519728113.webp)
 
 ---
 
@@ -13840,7 +13840,7 @@ Generate better visuals with more accurate, legible text directly in the image i
 
 ## Example Output
 
-![Transforming Text: Multilingual Visuals Reimagined](https://awesomeprompts.xyz/images/creative/pg-1991524603261526420.jpg)
+![Transforming Text: Multilingual Visuals Reimagined](https://awesomeprompts.xyz/images/creative/pg-1991524603261526420.webp)
 
 ---
 
@@ -13856,7 +13856,7 @@ Transform this rough wireframe sketch into a high-fidelity UI design mockups for
 - [Original](https://mp.weixin.qq.com/s/lrYNbs4rGs3KOqewoZ6aNQ)
 
 ## Example Output
-![UI Hand-drawn Sketch to High-Fidelity Prototype](https://awesomeprompts.xyz/images/creative/nb-ui-hand-drawn-sketch-to-high-fidelity-prototype.png)
+![UI Hand-drawn Sketch to High-Fidelity Prototype](https://awesomeprompts.xyz/images/creative/nb-ui-hand-drawn-sketch-to-high-fidelity-prototype.webp)
 
 ---
 
@@ -13876,7 +13876,7 @@ Everyone is capturing this special moment, celebrating "WORLD PEACE 2025"
 
 ## Example Output
 
-![United in Harmony: Celebrating World Peace 2025](https://awesomeprompts.xyz/images/creative/pg-1994465133490249949.jpg)
+![United in Harmony: Celebrating World Peace 2025](https://awesomeprompts.xyz/images/creative/pg-1994465133490249949.webp)
 
 ---
 
@@ -13896,7 +13896,7 @@ Create a detailed technical illustration of a Cybernetic Samurai, exploded into 
 
 ## Example Output
 
-![Unleashing the Cybernetic Samurai: A Technical Breakdown](https://awesomeprompts.xyz/images/creative/pg-1994390935019360466.jpg)
+![Unleashing the Cybernetic Samurai: A Technical Breakdown](https://awesomeprompts.xyz/images/creative/pg-1994390935019360466.webp)
 
 ---
 
@@ -13916,7 +13916,7 @@ Create a 9-image Instagram feed for this product in the same aesthetic. Use diff
 
 ## Example Output
 
-![Unleashing the Nano Banana Pro: A Visual Adventure](https://awesomeprompts.xyz/images/creative/pg-1993777913548984394.jpg)
+![Unleashing the Nano Banana Pro: A Visual Adventure](https://awesomeprompts.xyz/images/creative/pg-1993777913548984394.webp)
 
 ---
 
@@ -13936,7 +13936,7 @@ Imagine a vibrant world where your unique characters spring to life! Design 12 d
 
 ## Example Output
 
-![Unlocking Creativity: Craft Your Own Line Stickers!](https://awesomeprompts.xyz/images/creative/pg-1992062020913639499.jpg)
+![Unlocking Creativity: Craft Your Own Line Stickers!](https://awesomeprompts.xyz/images/creative/pg-1992062020913639499.webp)
 
 ---
 
@@ -13956,7 +13956,7 @@ Generate an image of a classroom blackboard with the Pythagoras theorem being so
 
 ## Example Output
 
-![Unlocking Geometry: The Pythagorean Journey](https://awesomeprompts.xyz/images/creative/pg-1991517542683455672.jpg)
+![Unlocking Geometry: The Pythagorean Journey](https://awesomeprompts.xyz/images/creative/pg-1991517542683455672.webp)
 
 ---
 
@@ -13976,7 +13976,7 @@ In an illustration describe all of the stages of CAR-T cell therapy from lab to 
 
 ## Example Output
 
-![Unlocking Healing: The Journey of CAR-T Cell Therapy](https://awesomeprompts.xyz/images/creative/pg-1991558446429409554.jpg)
+![Unlocking Healing: The Journey of CAR-T Cell Therapy](https://awesomeprompts.xyz/images/creative/pg-1991558446429409554.webp)
 
 ---
 
@@ -13996,7 +13996,7 @@ Create an image of 37°31'11.24"N 126°56'25.11"E at night.
 
 ## Example Output
 
-![Unlocking Nighttime Wonders with Nano Banana Pro](https://awesomeprompts.xyz/images/creative/pg-1992058919678849106.jpg)
+![Unlocking Nighttime Wonders with Nano Banana Pro](https://awesomeprompts.xyz/images/creative/pg-1992058919678849106.webp)
 
 ---
 
@@ -14016,7 +14016,7 @@ What happens when technology meets a banana? An enlightening visual journey thro
 
 ## Example Output
 
-![Unlocking Ray Kurzweil's Six Epochs with Nano Banana Pro!](https://awesomeprompts.xyz/images/creative/pg-1991669329491120165.jpg)
+![Unlocking Ray Kurzweil's Six Epochs with Nano Banana Pro!](https://awesomeprompts.xyz/images/creative/pg-1991669329491120165.webp)
 
 ---
 
@@ -14036,7 +14036,7 @@ Create a visual in the style of a comic strip based on the secret message"
 
 ## Example Output
 
-![Unveil the Mystery: A Comic Strip Adventure](https://awesomeprompts.xyz/images/creative/pg-1991523261545607340.jpg)
+![Unveil the Mystery: A Comic Strip Adventure](https://awesomeprompts.xyz/images/creative/pg-1991523261545607340.webp)
 
 ---
 
@@ -14066,7 +14066,7 @@ Each image should be rendered with exceptional detail, vibrant colors, and dynam
 
 ## Example Output
 
-![Unveiling Landmarks: A Journey Through Time and Architecture](https://awesomeprompts.xyz/images/creative/pg-1991790238822215947.jpg)
+![Unveiling Landmarks: A Journey Through Time and Architecture](https://awesomeprompts.xyz/images/creative/pg-1991790238822215947.webp)
 
 ---
 
@@ -14086,7 +14086,7 @@ behind the scene shots of new live action remake of Quake - by Nano Banana Pro
 
 ## Example Output
 
-![Unveiling Quake: Behind the Scenes of the Live Action Remake](https://awesomeprompts.xyz/images/creative/pg-1991930541491556530.jpg)
+![Unveiling Quake: Behind the Scenes of the Live Action Remake](https://awesomeprompts.xyz/images/creative/pg-1991930541491556530.webp)
 
 ---
 
@@ -14106,7 +14106,7 @@ The Google Android robot, presented in a high-contrast scientific studio render 
 
 ## Example Output
 
-![Unveiling the Android: A Glimpse Inside the Future](https://awesomeprompts.xyz/images/creative/pg-1997085645538472118.jpg)
+![Unveiling the Android: A Glimpse Inside the Future](https://awesomeprompts.xyz/images/creative/pg-1997085645538472118.webp)
 
 ---
 
@@ -14168,7 +14168,7 @@ A Coca-Cola bottle sparkles amidst twinkling lights and soft snow. This festive 
 
 ## Example Output
 
-![Unwrap the Magic of Christmas with Coca-Cola](https://awesomeprompts.xyz/images/creative/pg-1995096725955002404.jpg)
+![Unwrap the Magic of Christmas with Coca-Cola](https://awesomeprompts.xyz/images/creative/pg-1995096725955002404.webp)
 
 ---
 
@@ -14197,7 +14197,7 @@ Using Image 1 (the garment) and Image 2 (the model), create a hyper-realistic fu
 - [Original](https://mp.weixin.qq.com/s/lrYNbs4rGs3KOqewoZ6aNQ)
 
 ## Example Output
-![Virtual Model Try-On](https://awesomeprompts.xyz/images/creative/nb-virtual-model-try-on.png)
+![Virtual Model Try-On](https://awesomeprompts.xyz/images/creative/nb-virtual-model-try-on.webp)
 
 ---
 
@@ -14217,7 +14217,7 @@ Fuse the image, correct the product’s perspective and lighting, and make the p
 
 ## Example Output
 
-![When Innovation Meets Art: Gemini 3.0 Unleashed](https://awesomeprompts.xyz/images/creative/pg-1991634982784336157.jpg)
+![When Innovation Meets Art: Gemini 3.0 Unleashed](https://awesomeprompts.xyz/images/creative/pg-1991634982784336157.webp)
 
 ---
 
@@ -14237,7 +14237,7 @@ A tiny monkey wearing a knitted scarf rolls a giant acorn down a forest path, le
 
 ## Example Output
 
-![Whimsical Adventure: A Monkey's Nutty Quest](https://awesomeprompts.xyz/images/creative/pg-1992941431506542633.jpg)
+![Whimsical Adventure: A Monkey's Nutty Quest](https://awesomeprompts.xyz/images/creative/pg-1992941431506542633.webp)
 
 ---
 
@@ -14257,7 +14257,7 @@ A burst of colorful charm awaits! This half-body character design captures playf
 
 ## Example Output
 
-![Whimsical LINE-Style Expressions in Vivid Detail](https://awesomeprompts.xyz/images/creative/pg-1992975148140396782.jpg)
+![Whimsical LINE-Style Expressions in Vivid Detail](https://awesomeprompts.xyz/images/creative/pg-1992975148140396782.webp)
 
 ---
 
@@ -14277,7 +14277,7 @@ A quiet riverside path dusted with the first snow of the season. Bare branches a
 
 ## Example Output
 
-![Whispers of Winter: A Fox's Journey](https://awesomeprompts.xyz/images/creative/pg-1992880952054603848.jpg)
+![Whispers of Winter: A Fox's Journey](https://awesomeprompts.xyz/images/creative/pg-1992880952054603848.webp)
 
 ---
 
@@ -14293,7 +14293,7 @@ Create a photo of vagabonds musashi praying drawn on a glass whiteboard in a sli
 - [Original](https://x.com/nicdunz/status/1991556910106177849)
 
 ## Example Output
-![Whiteboard Marker Art](https://awesomeprompts.xyz/images/creative/nb-whiteboard-marker-art.png)
+![Whiteboard Marker Art](https://awesomeprompts.xyz/images/creative/nb-whiteboard-marker-art.webp)
 
 ---
 
@@ -14547,7 +14547,7 @@ Marilyn in Times Square holding her iPhone in her hand
 
 ## Example Output
 
-![Marilyn Monroe: The Modern Icon in Times Square](https://awesomeprompts.xyz/images/icons/pg-1994465117187022969.jpg)
+![Marilyn Monroe: The Modern Icon in Times Square](https://awesomeprompts.xyz/images/icons/pg-1994465117187022969.webp)
 
 ---
 
@@ -14726,7 +14726,7 @@ A dramatic, low-angle portrait of a woman standing in a dark, minimalist space, 
 
 ## Example Output
 
-![A Beacon of Strength in Shadows](https://awesomeprompts.xyz/images/portraits/pg-1992890928005325245.jpg)
+![A Beacon of Strength in Shadows](https://awesomeprompts.xyz/images/portraits/pg-1992890928005325245.webp)
 
 ---
 
@@ -14746,7 +14746,7 @@ A large brown bear dressed in intricate traditional Russian folk clothing, sitti
 
 ## Example Output
 
-![A Bear's Delight: Honey Harmony in Nature's Embrace](https://awesomeprompts.xyz/images/portraits/pg-1991539821840589032.jpg)
+![A Bear's Delight: Honey Harmony in Nature's Embrace](https://awesomeprompts.xyz/images/portraits/pg-1991539821840589032.webp)
 
 ---
 
@@ -14768,7 +14768,7 @@ Soft hues and gentle lighting embrace a relaxed pose, revealing the beauty of si
 
 ## Example Output
 
-![A Breath of Urban Elegance: Capture Your Essence](https://awesomeprompts.xyz/images/portraits/pg-1996738867391852622.jpg)
+![A Breath of Urban Elegance: Capture Your Essence](https://awesomeprompts.xyz/images/portraits/pg-1996738867391852622.webp)
 
 ---
 
@@ -14868,7 +14868,7 @@ Who is she? A silhouette against the rainy cobblestones, this femme fatale capti
 
 ## Example Output
 
-![A Cinematic Enigma: Femme Fatale in Noir Elegance](https://awesomeprompts.xyz/images/portraits/pg-1991911905212936317.jpg)
+![A Cinematic Enigma: Femme Fatale in Noir Elegance](https://awesomeprompts.xyz/images/portraits/pg-1991911905212936317.webp)
 
 ---
 
@@ -14894,7 +14894,7 @@ Bottom panel: Close-up of his face, sharp attractive eyes, hairs moving in the w
 
 ## Example Output
 
-![A Cinematic Triptych of Moody Elegance](https://awesomeprompts.xyz/images/portraits/pg-1993887007874142296.jpg)
+![A Cinematic Triptych of Moody Elegance](https://awesomeprompts.xyz/images/portraits/pg-1993887007874142296.webp)
 
 ---
 
@@ -14914,7 +14914,7 @@ Sunlit smiles and enchanting emerald eyes create a heartwarming bond. This intim
 
 ## Example Output
 
-![A Cozy Connection: Man and Cat Under a Blue Sky](https://awesomeprompts.xyz/images/portraits/pg-1991349410731815214.jpg)
+![A Cozy Connection: Man and Cat Under a Blue Sky](https://awesomeprompts.xyz/images/portraits/pg-1991349410731815214.webp)
 
 ---
 
@@ -14982,7 +14982,7 @@ Wrapped in luxurious crimson satin pajamas, she finds warmth in her fluffy teddy
 
 ## Example Output
 
-![A Cozy Night with a Fluffy Friend](https://awesomeprompts.xyz/images/portraits/pg-1992997424441233425.jpg)
+![A Cozy Night with a Fluffy Friend](https://awesomeprompts.xyz/images/portraits/pg-1992997424441233425.webp)
 
 ---
 
@@ -15063,7 +15063,7 @@ In a dimly lit ballroom, elegance reigns as a confident beauty captivates. Her o
 
 ## Example Output
 
-![A Dance of Shadows and Seduction](https://awesomeprompts.xyz/images/portraits/pg-1992790286498418771.jpg)
+![A Dance of Shadows and Seduction](https://awesomeprompts.xyz/images/portraits/pg-1992790286498418771.webp)
 
 ---
 
@@ -15095,7 +15095,7 @@ The lighting is high contrast, with strong highlights on the woman's face and ar
 
 ## Example Output
 
-![A Dance with Time: The Clockwork Conundrum](https://awesomeprompts.xyz/images/portraits/pg-1991888579686215986.jpg)
+![A Dance with Time: The Clockwork Conundrum](https://awesomeprompts.xyz/images/portraits/pg-1991888579686215986.webp)
 
 ---
 
@@ -15159,7 +15159,7 @@ An anti-hero emerges from the shadows, clad in a dark bespoke suit with wing tex
 
 ## Example Output
 
-![A Dark Knight in the Dystopian Night](https://awesomeprompts.xyz/images/portraits/pg-1994303957771149323.jpg)
+![A Dark Knight in the Dystopian Night](https://awesomeprompts.xyz/images/portraits/pg-1994303957771149323.webp)
 
 ---
 
@@ -15179,7 +15179,7 @@ Create a realistic HDR movie shot using the uploaded image as a reference. A sun
 
 ## Example Output
 
-![A Daydream in the Alpine Meadow](https://awesomeprompts.xyz/images/portraits/pg-1991107701586444357.jpg)
+![A Daydream in the Alpine Meadow](https://awesomeprompts.xyz/images/portraits/pg-1991107701586444357.webp)
 
 ---
 
@@ -15243,7 +15243,7 @@ In a retro diner, a playful girl snacks on a burger while whimsical food monster
 
 ## Example Output
 
-![A Deliciously Chaotic Pop-Art Feast](https://awesomeprompts.xyz/images/portraits/pg-1993709747090931738.jpg)
+![A Deliciously Chaotic Pop-Art Feast](https://awesomeprompts.xyz/images/portraits/pg-1993709747090931738.webp)
 
 ---
 
@@ -15268,7 +15268,7 @@ Under a shimmering drizzle in a vibrant cityscape, a woman gazes dreamily upward
 
 ## Example Output
 
-![A Dreamy Night in Neon: Urban Portrait Magic](https://awesomeprompts.xyz/images/portraits/pg-1997217542742675775.jpg)
+![A Dreamy Night in Neon: Urban Portrait Magic](https://awesomeprompts.xyz/images/portraits/pg-1997217542742675775.webp)
 
 ---
 
@@ -15304,7 +15304,7 @@ Color grading: nostalgic digital-camera tones, strong flash contrast, subtle dis
 
 ## Example Output
 
-![A Flash from the Past: Candid Moments Captured](https://awesomeprompts.xyz/images/portraits/pg-1996956528205799871.jpg)
+![A Flash from the Past: Candid Moments Captured](https://awesomeprompts.xyz/images/portraits/pg-1996956528205799871.webp)
 
 ---
 
@@ -15358,7 +15358,7 @@ Rain-soaked streets blur the line between reality and memory as Officer K and Jo
 
 ## Example Output
 
-![A Glimpse into a Futuristic Realm of Emotion](https://awesomeprompts.xyz/images/portraits/pg-1995144148832141327.jpg)
+![A Glimpse into a Futuristic Realm of Emotion](https://awesomeprompts.xyz/images/portraits/pg-1995144148832141327.webp)
 
 ---
 
@@ -15459,7 +15459,7 @@ Captivating close-up reveals a stunning model's gentle smile, cradling a glossy 
 
 ## Example Output
 
-![A Glimpse of Glamour: Daily Elegance Unveiled](https://awesomeprompts.xyz/images/portraits/pg-1997061904125083696.jpg)
+![A Glimpse of Glamour: Daily Elegance Unveiled](https://awesomeprompts.xyz/images/portraits/pg-1997061904125083696.webp)
 
 ---
 
@@ -15483,7 +15483,7 @@ Floating pink hearts and a soft glow capture a moment of delicate charm! This yo
 
 ## Example Output
 
-![A Glimpse of Heartfelt Whimsy in the Digital Frame](https://awesomeprompts.xyz/images/portraits/pg-1995759887813320927.jpg)
+![A Glimpse of Heartfelt Whimsy in the Digital Frame](https://awesomeprompts.xyz/images/portraits/pg-1995759887813320927.webp)
 
 ---
 
@@ -15558,7 +15558,7 @@ Captured in a cozy family kitchen, this portrait evokes the warmth of 1980s life
 
 ## Example Output
 
-![A Glimpse of the 80s: Nostalgia in Every Detail](https://awesomeprompts.xyz/images/portraits/pg-1991457129769644482.jpg)
+![A Glimpse of the 80s: Nostalgia in Every Detail](https://awesomeprompts.xyz/images/portraits/pg-1991457129769644482.webp)
 
 ---
 
@@ -15578,7 +15578,7 @@ Generate a photorealistic image of Time Square on a saturday in Fall 2006, it's 
 
 ## Example Output
 
-![A Glimpse of Time: Busy Fall Days in Times Square 2006](https://awesomeprompts.xyz/images/portraits/pg-1993897946505527347.jpg)
+![A Glimpse of Time: Busy Fall Days in Times Square 2006](https://awesomeprompts.xyz/images/portraits/pg-1993897946505527347.webp)
 
 ---
 
@@ -15711,7 +15711,7 @@ Can one face tell the tale of a century and a half? This stunning grid showcases
 
 ## Example Output
 
-![A Journey Through Time: 151 Years in 16 Portraits](https://awesomeprompts.xyz/images/portraits/pg-1993237880928715057.jpg)
+![A Journey Through Time: 151 Years in 16 Portraits](https://awesomeprompts.xyz/images/portraits/pg-1993237880928715057.webp)
 
 ---
 
@@ -15750,7 +15750,7 @@ Can a face tell a story across decades? This stunning mosaic captures one soul's
 
 ## Example Output
 
-![A Journey Through Time: Portraits of Aging](https://awesomeprompts.xyz/images/portraits/pg-1996863628050301114.jpg)
+![A Journey Through Time: Portraits of Aging](https://awesomeprompts.xyz/images/portraits/pg-1996863628050301114.webp)
 
 ---
 
@@ -15770,7 +15770,7 @@ A slow-motion cinematic video in Renaissance painting style showing a soccer pla
 
 ## Example Output
 
-![A Kick Beyond Time: Renaissance Meets Modern Soccer](https://awesomeprompts.xyz/images/portraits/pg-1992875420396757499.jpg)
+![A Kick Beyond Time: Renaissance Meets Modern Soccer](https://awesomeprompts.xyz/images/portraits/pg-1992875420396757499.webp)
 
 ---
 
@@ -15790,7 +15790,7 @@ A high-quality portrait photograph shows a beautiful woman with long, wavy brown
 
 ## Example Output
 
-![A Mesmerizing Gaze in a Timeless Setting](https://awesomeprompts.xyz/images/portraits/pg-1991768360607183214.jpg)
+![A Mesmerizing Gaze in a Timeless Setting](https://awesomeprompts.xyz/images/portraits/pg-1991768360607183214.webp)
 
 ---
 
@@ -15810,7 +15810,7 @@ Captured in soft shadows and stark light, a young woman reflects in solitude. He
 
 ## Example Output
 
-![A Moment in Time: Night Thoughts at the Bus Stop](https://awesomeprompts.xyz/images/portraits/pg-1991828184627920938.jpg)
+![A Moment in Time: Night Thoughts at the Bus Stop](https://awesomeprompts.xyz/images/portraits/pg-1991828184627920938.webp)
 
 ---
 
@@ -15830,7 +15830,7 @@ German soldiers waving the flag in Berlin
 
 ## Example Output
 
-![A Moment of Patriotism: Flags Fly High in Berlin](https://awesomeprompts.xyz/images/portraits/pg-1994465137311306054.jpg)
+![A Moment of Patriotism: Flags Fly High in Berlin](https://awesomeprompts.xyz/images/portraits/pg-1994465137311306054.webp)
 
 ---
 
@@ -15892,7 +15892,7 @@ In a cool blue glow, a young woman rests her chin on her hand, lost in thought. 
 
 ## Example Output
 
-![A Night of Thoughts: Reflections on the Gemini Nano Banana 3.0](https://awesomeprompts.xyz/images/portraits/pg-1992590973885432046.jpg)
+![A Night of Thoughts: Reflections on the Gemini Nano Banana 3.0](https://awesomeprompts.xyz/images/portraits/pg-1992590973885432046.webp)
 
 ---
 
@@ -15913,7 +15913,7 @@ Use image [0] as face reference. Half-body. Subject leaning against newspaper-co
 
 ## Example Output
 
-![A Nostalgic Glimpse of 90s Hong Kong Vibes](https://awesomeprompts.xyz/images/portraits/pg-1994430035554603247.jpg)
+![A Nostalgic Glimpse of 90s Hong Kong Vibes](https://awesomeprompts.xyz/images/portraits/pg-1994430035554603247.webp)
 
 ---
 
@@ -15933,7 +15933,7 @@ create a portrait of a beautiful young woman with porcelain-white skin,captured 
 
 ## Example Output
 
-![A Portrait of Nostalgia: 90s Charm Meets Modern Style](https://awesomeprompts.xyz/images/portraits/pg-1991780760030961768.jpg)
+![A Portrait of Nostalgia: 90s Charm Meets Modern Style](https://awesomeprompts.xyz/images/portraits/pg-1991780760030961768.webp)
 
 ---
 
@@ -15953,7 +15953,7 @@ Beautiful woman in profile, elegant and serene expression, elaborate red headsca
 
 ## Example Output
 
-![A Regal Dream: Elegance in Crimson and Gold](https://awesomeprompts.xyz/images/portraits/pg-1995849675543380473.jpg)
+![A Regal Dream: Elegance in Crimson and Gold](https://awesomeprompts.xyz/images/portraits/pg-1995849675543380473.webp)
 
 ---
 
@@ -16036,7 +16036,7 @@ Under a faint rainbow, this enchanting scene captures love’s essence. A couple
 
 ## Example Output
 
-![A Romantic Serenade on the Venetian Canal](https://awesomeprompts.xyz/images/portraits/pg-1993213980446237006.jpg)
+![A Romantic Serenade on the Venetian Canal](https://awesomeprompts.xyz/images/portraits/pg-1993213980446237006.webp)
 
 ---
 
@@ -16056,7 +16056,7 @@ Generate the holiday photo of this person through the ages up to 80 years old
 
 ## Example Output
 
-![A Time-Traveling Banana Adventure](https://awesomeprompts.xyz/images/portraits/pg-1991526532536496353.jpg)
+![A Time-Traveling Banana Adventure](https://awesomeprompts.xyz/images/portraits/pg-1991526532536496353.webp)
 
 ---
 
@@ -16076,7 +16076,7 @@ Narrative, cinematic photofray ,woman in a deep burgundy polka dot dree with cre
 
 ## Example Output
 
-![A Timeless Farewell from the Train Window](https://awesomeprompts.xyz/images/portraits/pg-1992946348522631169.jpg)
+![A Timeless Farewell from the Train Window](https://awesomeprompts.xyz/images/portraits/pg-1992946348522631169.webp)
 
 ---
 
@@ -16109,7 +16109,7 @@ Can you spot the evolution of style? This stunning grid captures a model dressed
 
 ## Example Output
 
-![A Timeless Fashion Journey: 16 Eras in One Frame](https://awesomeprompts.xyz/images/portraits/pg-1993885596985774186.jpg)
+![A Timeless Fashion Journey: 16 Eras in One Frame](https://awesomeprompts.xyz/images/portraits/pg-1993885596985774186.webp)
 
 ---
 
@@ -16153,7 +16153,7 @@ Stately in her Edwardian-inspired ensemble, she captures a moment of introspecti
 
 ## Example Output
 
-![A Timeless Muse Amidst Ancient Walls](https://awesomeprompts.xyz/images/portraits/pg-1992987520968339581.jpg)
+![A Timeless Muse Amidst Ancient Walls](https://awesomeprompts.xyz/images/portraits/pg-1992987520968339581.webp)
 
 ---
 
@@ -16175,7 +16175,7 @@ Signature: Shreya Yadav
 
 ## Example Output
 
-![A Timeless Portrait: Generations of Grace 🌟](https://awesomeprompts.xyz/images/portraits/pg-1991518500704383293.jpg)
+![A Timeless Portrait: Generations of Grace 🌟](https://awesomeprompts.xyz/images/portraits/pg-1991518500704383293.webp)
 
 ---
 
@@ -16233,7 +16233,7 @@ Effortless grace radiates as she leans against the garden's iron railing, draped
 
 ## Example Output
 
-![A Velvet Affair: Elegance in Bloom](https://awesomeprompts.xyz/images/portraits/pg-1992828036505280858.jpg)
+![A Velvet Affair: Elegance in Bloom](https://awesomeprompts.xyz/images/portraits/pg-1992828036505280858.webp)
 
 ---
 
@@ -16253,7 +16253,7 @@ Erzeuge eine Karte von Deutschland im Wasserfarben-Stil, auf der alle Bundeslän
 
 ## Example Output
 
-![A Watercolor Journey Through Germany's States](https://awesomeprompts.xyz/images/portraits/pg-1991796624646091091.jpg)
+![A Watercolor Journey Through Germany's States](https://awesomeprompts.xyz/images/portraits/pg-1991796624646091091.webp)
 
 ---
 
@@ -16322,7 +16322,7 @@ Can you feel the charm? This adorable cat-eared girl, with her pink locks and fr
 
 ## Example Output
 
-![A Whimsical World of Cute: The Nano Banana Pro Illustration](https://awesomeprompts.xyz/images/portraits/pg-1991800706719010873.jpg)
+![A Whimsical World of Cute: The Nano Banana Pro Illustration](https://awesomeprompts.xyz/images/portraits/pg-1991800706719010873.webp)
 
 ---
 
@@ -16342,7 +16342,7 @@ Uploaded Image with short curly hair, stubble, and a bright smile is taking a se
 
 ## Example Output
 
-![A Whirlwind of Nostalgia Captured in One Click](https://awesomeprompts.xyz/images/portraits/pg-1995399933348970875.jpg)
+![A Whirlwind of Nostalgia Captured in One Click](https://awesomeprompts.xyz/images/portraits/pg-1995399933348970875.webp)
 
 ---
 
@@ -16369,7 +16369,7 @@ This scene feels like a gentle escape into the heart of spring.
 
 ## Example Output
 
-![A Whisper of Spring: Serenity in Bloom](https://awesomeprompts.xyz/images/portraits/pg-1996120648049987965.jpg)
+![A Whisper of Spring: Serenity in Bloom](https://awesomeprompts.xyz/images/portraits/pg-1996120648049987965.webp)
 
 ---
 
@@ -16389,7 +16389,7 @@ Place Monkey D. Luffy next to the man, smiling widely with his straw hat tilted.
 
 ## Example Output
 
-![Adventures on the High Seas with Luffy!](https://awesomeprompts.xyz/images/portraits/pg-1992707230505009620.jpg)
+![Adventures on the High Seas with Luffy!](https://awesomeprompts.xyz/images/portraits/pg-1992707230505009620.webp)
 
 ---
 
@@ -16409,7 +16409,7 @@ create a 4 panel manga titled "I was reincarnated into another world as an ai re
 
 ## Example Output
 
-![AI Adventures: A Hilarious Manga Twist!](https://awesomeprompts.xyz/images/portraits/pg-1991591875934056554.jpg)
+![AI Adventures: A Hilarious Manga Twist!](https://awesomeprompts.xyz/images/portraits/pg-1991591875934056554.webp)
 
 ---
 
@@ -16429,7 +16429,7 @@ A candid high-angle selfie photograph of a young woman with long dark hair lying
 
 ## Example Output
 
-![AI Magic: When Reality Blurs with Digital Dreams](https://awesomeprompts.xyz/images/portraits/pg-1997297474856464790.jpg)
+![AI Magic: When Reality Blurs with Digital Dreams](https://awesomeprompts.xyz/images/portraits/pg-1997297474856464790.webp)
 
 ---
 
@@ -16449,7 +16449,7 @@ a photo of the pyramids and sphinx, but how they looked when they were originall
 
 ## Example Output
 
-![Ancient Wonders Reimagined: The Pyramids and Sphinx in Their Glory](https://awesomeprompts.xyz/images/portraits/pg-1991610168141058243.jpg)
+![Ancient Wonders Reimagined: The Pyramids and Sphinx in Their Glory](https://awesomeprompts.xyz/images/portraits/pg-1991610168141058243.webp)
 
 ---
 
@@ -16478,7 +16478,7 @@ What a vibrant assembly! Goku, Naruto, and friends stand proudly in this lively 
 
 ## Example Output
 
-![Anime Heroes Unite in a Colorful Classroom Gathering!](https://awesomeprompts.xyz/images/portraits/pg-1995186065095692351.jpg)
+![Anime Heroes Unite in a Colorful Classroom Gathering!](https://awesomeprompts.xyz/images/portraits/pg-1995186065095692351.webp)
 
 ---
 
@@ -16500,7 +16500,7 @@ He is on the Victoria line. There are ads about AI companions. He has big wired 
 
 ## Example Output
 
-![Anime Meets Reality on the Tube](https://awesomeprompts.xyz/images/portraits/pg-1991583161495502896.jpg)
+![Anime Meets Reality on the Tube](https://awesomeprompts.xyz/images/portraits/pg-1991583161495502896.webp)
 
 ---
 
@@ -16520,7 +16520,7 @@ Recreate the composition of Leonardo da Vinci’s The Last Supper, but with icon
 
 ## Example Output
 
-![Anime Supremacy: A Modern Twist on The Last Supper](https://awesomeprompts.xyz/images/portraits/pg-1993065781362672074.jpg)
+![Anime Supremacy: A Modern Twist on The Last Supper](https://awesomeprompts.xyz/images/portraits/pg-1993065781362672074.webp)
 
 ---
 
@@ -16540,7 +16540,7 @@ Amateur photograph from 1998 of a middle-aged artist copying an image by hand fr
 
 ## Example Output
 
-![Art in Repetition: Capturing Creation's Echo](https://awesomeprompts.xyz/images/portraits/pg-1992065152695578814.jpg)
+![Art in Repetition: Capturing Creation's Echo](https://awesomeprompts.xyz/images/portraits/pg-1992065152695578814.webp)
 
 ---
 
@@ -16612,7 +16612,7 @@ Sun-kissed moments in a vibrant autumn park! This stylish young woman embodies f
 
 ## Example Output
 
-![Autumn Aesthetics: Cozy Layers & Nature's Palette](https://awesomeprompts.xyz/images/portraits/pg-1994168239442510308.jpg)
+![Autumn Aesthetics: Cozy Layers & Nature's Palette](https://awesomeprompts.xyz/images/portraits/pg-1994168239442510308.webp)
 
 ---
 
@@ -16632,7 +16632,7 @@ A beautiful, confident youngr hair woman with long dark hair, similar to them. i
 
 ## Example Output
 
-![Autumn Vibes: A Cozy Moment in Nature's Embrace](https://awesomeprompts.xyz/images/portraits/pg-1996580922465075399.jpg)
+![Autumn Vibes: A Cozy Moment in Nature's Embrace](https://awesomeprompts.xyz/images/portraits/pg-1996580922465075399.webp)
 
 ---
 
@@ -16662,7 +16662,7 @@ Golden hour casts a warm glow on a carefree spirit, as she leans playfully on th
 
 ## Example Output
 
-![Autumn Vibes: A Playful Rooftop Escape](https://awesomeprompts.xyz/images/portraits/pg-1994406959433367552.jpg)
+![Autumn Vibes: A Playful Rooftop Escape](https://awesomeprompts.xyz/images/portraits/pg-1994406959433367552.webp)
 
 ---
 
@@ -16683,7 +16683,7 @@ Signature: Shreya Yadav
 
 ## Example Output
 
-![Autumn Vogue: A Cozy Collage of Style and Serenity](https://awesomeprompts.xyz/images/portraits/pg-1996250545884155933.jpg)
+![Autumn Vogue: A Cozy Collage of Style and Serenity](https://awesomeprompts.xyz/images/portraits/pg-1996250545884155933.webp)
 
 ---
 
@@ -16708,7 +16708,7 @@ Final image should be in 4K resolution, 16:9 aspect ratio.
 
 ## Example Output
 
-![Banana Bonanza: A Colorful Emoji Portrait Parade!](https://awesomeprompts.xyz/images/portraits/pg-1993042754008686712.jpg)
+![Banana Bonanza: A Colorful Emoji Portrait Parade!](https://awesomeprompts.xyz/images/portraits/pg-1993042754008686712.webp)
 
 ---
 
@@ -16812,7 +16812,7 @@ Caught in a moment of playful innocence, this young woman flaunts a striking con
 
 ## Example Output
 
-![Banana Chic: The Sweetest Bathroom Selfie](https://awesomeprompts.xyz/images/portraits/pg-1996427496904908959.jpg)
+![Banana Chic: The Sweetest Bathroom Selfie](https://awesomeprompts.xyz/images/portraits/pg-1996427496904908959.webp)
 
 ---
 
@@ -16832,7 +16832,7 @@ A 16:9 close up photo of a banana, with a long secret messages handwritten writt
 
 ## Example Output
 
-![Banana Secrets: Messages Written in Yellow](https://awesomeprompts.xyz/images/portraits/pg-1991523244529336390.jpg)
+![Banana Secrets: Messages Written in Yellow](https://awesomeprompts.xyz/images/portraits/pg-1991523244529336390.webp)
 
 ---
 
@@ -16906,7 +16906,7 @@ Caught in a moment of casual chic, this platinum blonde flaunts her playful styl
 
 ## Example Output
 
-![Banana Vibes & Bathroom Reflections](https://awesomeprompts.xyz/images/portraits/pg-1996271886666457303.jpg)
+![Banana Vibes & Bathroom Reflections](https://awesomeprompts.xyz/images/portraits/pg-1996271886666457303.webp)
 
 ---
 
@@ -16981,7 +16981,7 @@ Cozy up with this playful selfie! A sunlit moment captures a relaxed spirit, ado
 
 ## Example Output
 
-![Banana Vibes: Chill Selife in Dreamy Comfort](https://awesomeprompts.xyz/images/portraits/pg-1993910890681520198.jpg)
+![Banana Vibes: Chill Selife in Dreamy Comfort](https://awesomeprompts.xyz/images/portraits/pg-1993910890681520198.webp)
 
 ---
 
@@ -17085,7 +17085,7 @@ Caught in a moment of playful confidence, this NYC bathroom selfie radiates a bl
 
 ## Example Output
 
-![Banana Vibes: The Ultimate Bathroom Selfie!](https://awesomeprompts.xyz/images/portraits/pg-1996257612820521442.jpg)
+![Banana Vibes: The Ultimate Bathroom Selfie!](https://awesomeprompts.xyz/images/portraits/pg-1996257612820521442.webp)
 
 ---
 
@@ -17209,7 +17209,7 @@ Cinematic portrait of Batman (mask off) sitting on a rain-soaked skyscraper edge
 
 ## Example Output
 
-![Batman's Solitude: A Night of Reflection](https://awesomeprompts.xyz/images/portraits/pg-1996591034768441721.jpg)
+![Batman's Solitude: A Night of Reflection](https://awesomeprompts.xyz/images/portraits/pg-1996591034768441721.webp)
 
 ---
 
@@ -17229,7 +17229,7 @@ Backstage photo of the 《 Legend of Zelda: Breath of the Wild 》 movie.
 
 ## Example Output
 
-![Behind the Scenes of Hyrule: A Cinematic Adventure](https://awesomeprompts.xyz/images/portraits/pg-1991874047060455550.jpg)
+![Behind the Scenes of Hyrule: A Cinematic Adventure](https://awesomeprompts.xyz/images/portraits/pg-1991874047060455550.webp)
 
 ---
 
@@ -17301,7 +17301,7 @@ Bright turquoise and neon pink collide in this playful Y2K-inspired poster! A st
 
 ## Example Output
 
-![Blooming Baby Doll Aesthetic 🌸](https://awesomeprompts.xyz/images/portraits/pg-1994301284002705676.jpg)
+![Blooming Baby Doll Aesthetic 🌸](https://awesomeprompts.xyz/images/portraits/pg-1994301284002705676.webp)
 
 ---
 
@@ -17325,7 +17325,7 @@ A captivating street mural blends beauty and nature, featuring a serene cartoon 
 
 ## Example Output
 
-![Blooming Whimsy: A Dreamy Rose Girl Mural](https://awesomeprompts.xyz/images/portraits/pg-1991958132419919975.jpg)
+![Blooming Whimsy: A Dreamy Rose Girl Mural](https://awesomeprompts.xyz/images/portraits/pg-1991958132419919975.webp)
 
 ---
 
@@ -17377,7 +17377,7 @@ Captured in the serene embrace of twilight, a girl exudes quiet confidence. Her 
 
 ## Example Output
 
-![Blue Hour Elegance: A Cinematic Portrait](https://awesomeprompts.xyz/images/portraits/pg-1993923107040481328.jpg)
+![Blue Hour Elegance: A Cinematic Portrait](https://awesomeprompts.xyz/images/portraits/pg-1993923107040481328.webp)
 
 ---
 
@@ -17437,7 +17437,7 @@ Is this the future of business fashion? This striking editorial portrait capture
 
 ## Example Output
 
-![Bold & Fierce: A Modern Muse Unleashed](https://awesomeprompts.xyz/images/portraits/pg-1996247577218720100.jpg)
+![Bold & Fierce: A Modern Muse Unleashed](https://awesomeprompts.xyz/images/portraits/pg-1996247577218720100.webp)
 
 ---
 
@@ -17472,7 +17472,7 @@ Feel the intensity of a confident smile! This cinematic portrait captures a youn
 
 ## Example Output
 
-![Bold Beauty: A Dramatic Portrait in Black](https://awesomeprompts.xyz/images/portraits/pg-1994776689667444907.jpg)
+![Bold Beauty: A Dramatic Portrait in Black](https://awesomeprompts.xyz/images/portraits/pg-1994776689667444907.webp)
 
 ---
 
@@ -17523,7 +17523,7 @@ Black and white studio portrait of a young woman in the uploaded image with a se
 
 ## Example Output
 
-![Bold Elegance in Monochrome: A Portrait of Strength](https://awesomeprompts.xyz/images/portraits/pg-1995735410928980000.jpg)
+![Bold Elegance in Monochrome: A Portrait of Strength](https://awesomeprompts.xyz/images/portraits/pg-1995735410928980000.webp)
 
 ---
 
@@ -17550,7 +17550,7 @@ This moment captures courage, strength, and the joy of outdoor exploration.
 
 ## Example Output
 
-![Bold Steps in the Winter Wonderland](https://awesomeprompts.xyz/images/portraits/pg-1997191906732781621.jpg)
+![Bold Steps in the Winter Wonderland](https://awesomeprompts.xyz/images/portraits/pg-1997191906732781621.webp)
 
 ---
 
@@ -17625,7 +17625,7 @@ Against a striking hot-pink wall, a young man exudes confidence in modern fashio
 
 ## Example Output
 
-![Bold Style Meets Vibrant Backdrops](https://awesomeprompts.xyz/images/portraits/pg-1995375820819354033.jpg)
+![Bold Style Meets Vibrant Backdrops](https://awesomeprompts.xyz/images/portraits/pg-1995375820819354033.webp)
 
 ---
 
@@ -17688,7 +17688,7 @@ A rugged young man captivates with his confident gaze, sunlight illuminating his
 
 ## Example Output
 
-![Bold Vibes Under a Clear Sky](https://awesomeprompts.xyz/images/portraits/pg-1995874839244997070.jpg)
+![Bold Vibes Under a Clear Sky](https://awesomeprompts.xyz/images/portraits/pg-1995874839244997070.webp)
 
 ---
 
@@ -17754,7 +17754,7 @@ Curiosity sparkles in her eyes as she leans forward, sipping a refreshing iced m
 
 ## Example Output
 
-![Bright Vibes with a Matcha Twist](https://awesomeprompts.xyz/images/portraits/pg-1995069549805187087.jpg)
+![Bright Vibes with a Matcha Twist](https://awesomeprompts.xyz/images/portraits/pg-1995069549805187087.webp)
 
 ---
 
@@ -17774,7 +17774,7 @@ Generate a photorealistic image of a cafe terrace in the Marais district of Pari
 
 ## Example Output
 
-![Café Vibes: Parisian Mornings Captured](https://awesomeprompts.xyz/images/portraits/pg-1996186327491162275.jpg)
+![Café Vibes: Parisian Mornings Captured](https://awesomeprompts.xyz/images/portraits/pg-1996186327491162275.webp)
 
 ---
 
@@ -17837,7 +17837,7 @@ Captured in a single moment, this snapshot reveals the raw beauty of youth—a y
 
 ## Example Output
 
-![Candid Charm: A Flashback Through the Lens](https://awesomeprompts.xyz/images/portraits/pg-1996773318914199846.jpg)
+![Candid Charm: A Flashback Through the Lens](https://awesomeprompts.xyz/images/portraits/pg-1996773318914199846.webp)
 
 ---
 
@@ -17912,7 +17912,7 @@ A young woman's soft expression glows from a Canon screen, bathed in retro light
 
 ## Example Output
 
-![Candid Moments Captured: A Glimpse of Nostalgia](https://awesomeprompts.xyz/images/portraits/pg-1996825681280307472.jpg)
+![Candid Moments Captured: A Glimpse of Nostalgia](https://awesomeprompts.xyz/images/portraits/pg-1996825681280307472.webp)
 
 ---
 
@@ -17941,7 +17941,7 @@ Captured in a sunlit sanctuary, a joyful blend of expressions radiates warmth. T
 
 ## Example Output
 
-![Candid Moments in Soft Light: A Playful Selfie Grid](https://awesomeprompts.xyz/images/portraits/pg-1995608303934865656.jpg)
+![Candid Moments in Soft Light: A Playful Selfie Grid](https://awesomeprompts.xyz/images/portraits/pg-1995608303934865656.webp)
 
 ---
 
@@ -17980,7 +17980,7 @@ Bold colors and playful styles collide in this captivating portrait! Imagine the
 
 ## Example Output
 
-![Candy Dreams and Pigtail Adventures Await!](https://awesomeprompts.xyz/images/portraits/pg-1997231517995499808.jpg)
+![Candy Dreams and Pigtail Adventures Await!](https://awesomeprompts.xyz/images/portraits/pg-1997231517995499808.webp)
 
 ---
 
@@ -18000,7 +18000,7 @@ Create an 8k photorealistic image using the attached photo. A close-up portrait 
 
 ## Example Output
 
-![Captivating Light: A Portrait of Elegance](https://awesomeprompts.xyz/images/portraits/pg-1992600010656292878.jpg)
+![Captivating Light: A Portrait of Elegance](https://awesomeprompts.xyz/images/portraits/pg-1992600010656292878.webp)
 
 ---
 
@@ -18043,7 +18043,7 @@ Can art capture the soul? This stunning hyperrealistic portrait glows under the 
 
 ## Example Output
 
-![Captivating Night Portrait: A Hyperrealistic Vision](https://awesomeprompts.xyz/images/portraits/pg-1994322787776032903.jpg)
+![Captivating Night Portrait: A Hyperrealistic Vision](https://awesomeprompts.xyz/images/portraits/pg-1994322787776032903.webp)
 
 ---
 
@@ -18092,7 +18092,7 @@ A striking portrayal of a woman, her windswept hair partially concealing one eye
 
 ## Example Output
 
-![Captivating Portrait: A Dance of Light and Shadow](https://awesomeprompts.xyz/images/portraits/pg-1996989678894153791.jpg)
+![Captivating Portrait: A Dance of Light and Shadow](https://awesomeprompts.xyz/images/portraits/pg-1996989678894153791.webp)
 
 ---
 
@@ -18158,7 +18158,7 @@ A moment of pure intimacy unfolds as a couple shares a tender embrace in a dimly
 
 ## Example Output
 
-![Captured Affection in the Night: Gemini Nano Banana 3.0 Pro](https://awesomeprompts.xyz/images/portraits/pg-1993215769765703861.jpg)
+![Captured Affection in the Night: Gemini Nano Banana 3.0 Pro](https://awesomeprompts.xyz/images/portraits/pg-1993215769765703861.webp)
 
 ---
 
@@ -18206,12 +18206,12 @@ A cozy bedroom scene unfolds as a couple shares a warm, intimate video call. Dus
       "lighting_simulation": "Warm tungsten + soft screen glow blend",
       "subjects": {
         "subject_a_guy": {
-          "identity_target": "reference_image_male.jpg",
+          "identity_target": "reference_image_male.webp",
           "action": "Waving casually at camera",
           "position": "Left-center"
         },
         "subject_b_girl": {
-          "identity_target": "reference_image_female.jpg",
+          "identity_target": "reference_image_female.webp",
           "action": "Leaning on his shoulder, smiling gently",
           "position": "Right-center"
         }
@@ -18254,7 +18254,7 @@ A cozy bedroom scene unfolds as a couple shares a warm, intimate video call. Dus
 
 ## Example Output
 
-![Capturing Connection: A Real-Life FaceTime Moment](https://awesomeprompts.xyz/images/portraits/pg-1996574990502674700.jpg)
+![Capturing Connection: A Real-Life FaceTime Moment](https://awesomeprompts.xyz/images/portraits/pg-1996574990502674700.webp)
 
 ---
 
@@ -18274,7 +18274,7 @@ A young woman, same face preserved, lit by a harsh on-camera flash from a thrift
 
 ## Example Output
 
-![Capturing Moments: A Glimpse into Raw Indie Aesthetics](https://awesomeprompts.xyz/images/portraits/pg-1992082212913860858.jpg)
+![Capturing Moments: A Glimpse into Raw Indie Aesthetics](https://awesomeprompts.xyz/images/portraits/pg-1992082212913860858.webp)
 
 ---
 
@@ -18366,7 +18366,7 @@ Self-assured and stylish, she captures the moment with a sleek pose, embodying t
 
 ## Example Output
 
-![Casual Chic: The Ultimate Mirror Selfie Vibe](https://awesomeprompts.xyz/images/portraits/pg-1995747839381832159.jpg)
+![Casual Chic: The Ultimate Mirror Selfie Vibe](https://awesomeprompts.xyz/images/portraits/pg-1995747839381832159.webp)
 
 ---
 
@@ -18387,7 +18387,7 @@ Ultra-realistic cinematic portrait of a young woman, standing outdoors in a quie
 
 ## Example Output
 
-![Caught in the Enchantment of the Blue Hour](https://awesomeprompts.xyz/images/portraits/pg-1995108418823315836.jpg)
+![Caught in the Enchantment of the Blue Hour](https://awesomeprompts.xyz/images/portraits/pg-1995108418823315836.webp)
 
 ---
 
@@ -18407,7 +18407,7 @@ A dramatic, ethereal portrait of a woman standing in a dark minimalist room, her
 
 ## Example Output
 
-![Celestial Glow: A Moment of Surrender](https://awesomeprompts.xyz/images/portraits/pg-1996863405706113150.jpg)
+![Celestial Glow: A Moment of Surrender](https://awesomeprompts.xyz/images/portraits/pg-1996863405706113150.webp)
 
 ---
 
@@ -18467,7 +18467,7 @@ In this serene classroom, Boa Hancock commands attention from a vibrant chalkboa
 
 ## Example Output
 
-![Chalkboard Dreams: Boa Hancock Comes to Life](https://awesomeprompts.xyz/images/portraits/pg-1994624635300974734.jpg)
+![Chalkboard Dreams: Boa Hancock Comes to Life](https://awesomeprompts.xyz/images/portraits/pg-1994624635300974734.webp)
 
 ---
 
@@ -18510,7 +18510,7 @@ Aspect ratio: 9:16.
 
 ## Example Output
 
-![Charming Collage: A Whimsical Fashion Portrait](https://awesomeprompts.xyz/images/portraits/pg-1997191891553534399.jpg)
+![Charming Collage: A Whimsical Fashion Portrait](https://awesomeprompts.xyz/images/portraits/pg-1997191891553534399.webp)
 
 ---
 
@@ -18570,7 +18570,7 @@ A young Japanese beauty dazzles in a stylish maid-inspired dress, exuding playfu
 
 ## Example Output
 
-![Charming Elegance in a Festival Breeze](https://awesomeprompts.xyz/images/portraits/pg-1996869845271654422.jpg)
+![Charming Elegance in a Festival Breeze](https://awesomeprompts.xyz/images/portraits/pg-1996869845271654422.webp)
 
 ---
 
@@ -18602,7 +18602,7 @@ Atmosphere: lively, warm, romantic, playful festival vibe.
 
 ## Example Output
 
-![Charming Elegance: A Maid's Day Out](https://awesomeprompts.xyz/images/portraits/pg-1996795234651721762.jpg)
+![Charming Elegance: A Maid's Day Out](https://awesomeprompts.xyz/images/portraits/pg-1996795234651721762.webp)
 
 ---
 
@@ -18640,7 +18640,7 @@ A sunlit moment captured—this young woman radiates warmth in a mint-green sati
 
 ## Example Output
 
-![Charming Morning Vibes with a Touch of Elegance](https://awesomeprompts.xyz/images/portraits/pg-1994138666868904319.jpg)
+![Charming Morning Vibes with a Touch of Elegance](https://awesomeprompts.xyz/images/portraits/pg-1994138666868904319.webp)
 
 ---
 
@@ -18664,7 +18664,7 @@ Can you feel the joy? This young woman radiates happiness with her adorable kitt
 
 ## Example Output
 
-![Charming Vibes: Kitten Cuddles & Chic Styles](https://awesomeprompts.xyz/images/portraits/pg-1994256800523407671.jpg)
+![Charming Vibes: Kitten Cuddles & Chic Styles](https://awesomeprompts.xyz/images/portraits/pg-1994256800523407671.webp)
 
 ---
 
@@ -18689,7 +18689,7 @@ All four images maintain consistent soft, warm lighting and a cozy, inviting atm
 
 ## Example Output
 
-![Charming Whispers of Warmth in Every Portrait](https://awesomeprompts.xyz/images/portraits/pg-1992048216830030088.jpg)
+![Charming Whispers of Warmth in Every Portrait](https://awesomeprompts.xyz/images/portraits/pg-1992048216830030088.webp)
 
 ---
 
@@ -18805,7 +18805,7 @@ Can you feel the heat? An elite sprinter battles a fiery smoke stallion in a bre
 
 ## Example Output
 
-![Chasing Fire: The Sprint of a Lifetime](https://awesomeprompts.xyz/images/portraits/pg-1993829344326688957.jpg)
+![Chasing Fire: The Sprint of a Lifetime](https://awesomeprompts.xyz/images/portraits/pg-1993829344326688957.webp)
 
 ---
 
@@ -18872,7 +18872,7 @@ Soft sunlight dances through sheer curtains, illuminating a serene face. The rel
 
 ## Example Output
 
-![Chasing Light: A Cozy Moment with Gemini Nano Banana 3.0](https://awesomeprompts.xyz/images/portraits/pg-1994342814646153476.jpg)
+![Chasing Light: A Cozy Moment with Gemini Nano Banana 3.0](https://awesomeprompts.xyz/images/portraits/pg-1994342814646153476.webp)
 
 ---
 
@@ -18951,7 +18951,7 @@ A radiant young woman captures a peaceful moment, her warm glow and gentle smile
 
 ## Example Output
 
-![Chasing Sunbeams: A Serene Selfie Moment](https://awesomeprompts.xyz/images/portraits/pg-1995485429265575954.jpg)
+![Chasing Sunbeams: A Serene Selfie Moment](https://awesomeprompts.xyz/images/portraits/pg-1995485429265575954.webp)
 
 ---
 
@@ -18997,7 +18997,7 @@ Caught in a sunny moment, a charming blonde winks while savoring a cheese cracke
 
 ## Example Output
 
-![Cheesy Smiles on the Go!](https://awesomeprompts.xyz/images/portraits/pg-1996722937727201301.jpg)
+![Cheesy Smiles on the Go!](https://awesomeprompts.xyz/images/portraits/pg-1996722937727201301.webp)
 
 ---
 
@@ -19018,7 +19018,7 @@ sneakers with green accents. She has white Nike crew socks with a black swoosh l
 
 ## Example Output
 
-![Chic and Chill: A Sporty Vibe in Bold Green](https://awesomeprompts.xyz/images/portraits/pg-1995323791271141559.jpg)
+![Chic and Chill: A Sporty Vibe in Bold Green](https://awesomeprompts.xyz/images/portraits/pg-1995323791271141559.webp)
 
 ---
 
@@ -19038,7 +19038,7 @@ Generate a 8k Instagram-style portrait of an Indian woman sitting in a trendy ca
 
 ## Example Output
 
-![Chic Café Vibes: A Portrait of Calm and Style](https://awesomeprompts.xyz/images/portraits/pg-1992958103730692208.jpg)
+![Chic Café Vibes: A Portrait of Calm and Style](https://awesomeprompts.xyz/images/portraits/pg-1992958103730692208.webp)
 
 ---
 
@@ -19135,7 +19135,7 @@ A captivating young woman exudes elegance amidst the basketball action, her dark
 
 ## Example Output
 
-![Chic Confidence Courtside: A Bold Portrait](https://awesomeprompts.xyz/images/portraits/pg-1993191642627453301.jpg)
+![Chic Confidence Courtside: A Bold Portrait](https://awesomeprompts.xyz/images/portraits/pg-1993191642627453301.webp)
 
 ---
 
@@ -19155,7 +19155,7 @@ A portrait of the same woman from the reference image, keeping her exact face, f
 
 ## Example Output
 
-![Chic Confidence: A Modern Portrait](https://awesomeprompts.xyz/images/portraits/pg-1995726644045320680.jpg)
+![Chic Confidence: A Modern Portrait](https://awesomeprompts.xyz/images/portraits/pg-1995726644045320680.webp)
 
 ---
 
@@ -19221,7 +19221,7 @@ A captivating portrait featuring a confident woman in a fluffy black jacket. Wit
 
 ## Example Output
 
-![Chic Confidence: The Gemini Nano Banana Pro Look](https://awesomeprompts.xyz/images/portraits/pg-1994216072426475887.jpg)
+![Chic Confidence: The Gemini Nano Banana Pro Look](https://awesomeprompts.xyz/images/portraits/pg-1994216072426475887.webp)
 
 ---
 
@@ -19241,7 +19241,7 @@ Ultra-realistic 8K photo of a young man with exact facial likeness from the refe
 
 ## Example Output
 
-![Chic Contemplation in an Urban Oasis](https://awesomeprompts.xyz/images/portraits/pg-1991471837390467321.jpg)
+![Chic Contemplation in an Urban Oasis](https://awesomeprompts.xyz/images/portraits/pg-1991471837390467321.webp)
 
 ---
 
@@ -19328,7 +19328,7 @@ Radiating confidence, this stunning model in a sleek black slip dress captivates
 
 ## Example Output
 
-![Chic Elegance in a Minimalist Haven](https://awesomeprompts.xyz/images/portraits/pg-1995857816457019660.jpg)
+![Chic Elegance in a Minimalist Haven](https://awesomeprompts.xyz/images/portraits/pg-1995857816457019660.webp)
 
 ---
 
@@ -19364,7 +19364,7 @@ Sensual an sultry pose. Staring intently at the camera,
 
 ## Example Output
 
-![Chic Elegance in a Tesla: A Morning Glamour Shot](https://awesomeprompts.xyz/images/portraits/pg-1995004569483710718.jpg)
+![Chic Elegance in a Tesla: A Morning Glamour Shot](https://awesomeprompts.xyz/images/portraits/pg-1995004569483710718.webp)
 
 ---
 
@@ -19441,7 +19441,7 @@ A striking portrait under a vibrant blue sky captures a young woman in a texture
 
 ## Example Output
 
-![Chic Encounters with an Orange Muse](https://awesomeprompts.xyz/images/portraits/pg-1991835833028989331.jpg)
+![Chic Encounters with an Orange Muse](https://awesomeprompts.xyz/images/portraits/pg-1991835833028989331.webp)
 
 ---
 
@@ -19494,7 +19494,7 @@ This stunning portrait radiates confidence! A young woman in a vibrant red satin
 
 ## Example Output
 
-![Chic in Satin: A Bold Selfie Moment](https://awesomeprompts.xyz/images/portraits/pg-1995821659211923604.jpg)
+![Chic in Satin: A Bold Selfie Moment](https://awesomeprompts.xyz/images/portraits/pg-1995821659211923604.webp)
 
 ---
 
@@ -19514,7 +19514,7 @@ A photorealistic, full-body shot captures a stylish woman standing outdoors in a
 
 ## Example Output
 
-![Chic in the City: A Modern Muse](https://awesomeprompts.xyz/images/portraits/pg-1996421081381605493.jpg)
+![Chic in the City: A Modern Muse](https://awesomeprompts.xyz/images/portraits/pg-1996421081381605493.webp)
 
 ---
 
@@ -19534,7 +19534,7 @@ A young woman sitting at an outdoor café table in a Paris setting, with the Eif
 
 ## Example Output
 
-![Chic Moments in Paris: A Café Escape](https://awesomeprompts.xyz/images/portraits/pg-1993945533585739792.jpg)
+![Chic Moments in Paris: A Café Escape](https://awesomeprompts.xyz/images/portraits/pg-1993945533585739792.webp)
 
 ---
 
@@ -19574,7 +19574,7 @@ Sun-kissed and stylish! This petite beauty radiates charm in mint satin, capturi
 
 ## Example Output
 
-![Chic Mornings: A Cozy Selfie Moment](https://awesomeprompts.xyz/images/portraits/pg-1996840216892449138.jpg)
+![Chic Mornings: A Cozy Selfie Moment](https://awesomeprompts.xyz/images/portraits/pg-1996840216892449138.webp)
 
 ---
 
@@ -19617,7 +19617,7 @@ A stunning woman captures a moment in a sleek car, her blonde locks shining unde
 
 ## Example Output
 
-![Chic Night Vibes in a Luxe Ride](https://awesomeprompts.xyz/images/portraits/pg-1995424977018036367.jpg)
+![Chic Night Vibes in a Luxe Ride](https://awesomeprompts.xyz/images/portraits/pg-1995424977018036367.webp)
 
 ---
 
@@ -19671,7 +19671,7 @@ Bold shadows and glossy waves paint a picture of glamour. This high-fashion mome
 
 ## Example Output
 
-![Chic Nightlife Elegance: The Gemini Nano Banana 3.0 Pro](https://awesomeprompts.xyz/images/portraits/pg-1992767441303113771.jpg)
+![Chic Nightlife Elegance: The Gemini Nano Banana 3.0 Pro](https://awesomeprompts.xyz/images/portraits/pg-1992767441303113771.webp)
 
 ---
 
@@ -19772,7 +19772,7 @@ Amidst a backdrop of dark elegance, a group of bold trendsetters share playful d
 
 ## Example Output
 
-![Chic Rebellion: A Black Friday Feast with Style](https://awesomeprompts.xyz/images/portraits/pg-1994375017971564779.jpg)
+![Chic Rebellion: A Black Friday Feast with Style](https://awesomeprompts.xyz/images/portraits/pg-1994375017971564779.webp)
 
 ---
 
@@ -19799,7 +19799,7 @@ Soft cinematic lighting highlights outfit textures with a slightly blurred backg
 
 ## Example Output
 
-![Chic Reflections: A Modern Muse in 8K HD](https://awesomeprompts.xyz/images/portraits/pg-1994005234960552087.jpg)
+![Chic Reflections: A Modern Muse in 8K HD](https://awesomeprompts.xyz/images/portraits/pg-1994005234960552087.webp)
 
 ---
 
@@ -19836,7 +19836,7 @@ In a warm, moody space, a young woman captures her calm essence. Her stylish lay
 
 ## Example Output
 
-![Chic Reflections: A Modern Take on Self-Expression](https://awesomeprompts.xyz/images/portraits/pg-1996494518762553632.jpg)
+![Chic Reflections: A Modern Take on Self-Expression](https://awesomeprompts.xyz/images/portraits/pg-1996494518762553632.webp)
 
 ---
 
@@ -19909,7 +19909,7 @@ A striking portrait captures the essence of modern fashion. The satin bomber jac
 
 ## Example Output
 
-![Chic Shadows: The Elegance of Minimalism](https://awesomeprompts.xyz/images/portraits/pg-1997274447188029593.jpg)
+![Chic Shadows: The Elegance of Minimalism](https://awesomeprompts.xyz/images/portraits/pg-1997274447188029593.webp)
 
 ---
 
@@ -19931,7 +19931,7 @@ A digital photograph captures an older woman with sunglasses and a scarf sipping
 
 ## Example Output
 
-![Chic Sips in the City of Lights](https://awesomeprompts.xyz/images/portraits/pg-1993897954667548732.jpg)
+![Chic Sips in the City of Lights](https://awesomeprompts.xyz/images/portraits/pg-1993897954667548732.webp)
 
 ---
 
@@ -20016,7 +20016,7 @@ A breathtaking fusion of fashion and nature unfolds—an ethereal model draped i
 
 ## Example Output
 
-![Chic Winter Elegance: A Fashion-Forward Journey](https://awesomeprompts.xyz/images/portraits/pg-1994282328663662934.jpg)
+![Chic Winter Elegance: A Fashion-Forward Journey](https://awesomeprompts.xyz/images/portraits/pg-1994282328663662934.webp)
 
 ---
 
@@ -20041,7 +20041,7 @@ portrait 2:3.
 
 ## Example Output
 
-![Chic Winter Escapade: A Cozy Mountain Moment](https://awesomeprompts.xyz/images/portraits/pg-1994378059059757318.jpg)
+![Chic Winter Escapade: A Cozy Mountain Moment](https://awesomeprompts.xyz/images/portraits/pg-1994378059059757318.webp)
 
 ---
 
@@ -20066,7 +20066,7 @@ A moment of tranquility captured: a young man exudes calm with a gentle smile, n
 
 ## Example Output
 
-![Chill Vibes in Urban Twilight](https://awesomeprompts.xyz/images/portraits/pg-1995876252385685956.jpg)
+![Chill Vibes in Urban Twilight](https://awesomeprompts.xyz/images/portraits/pg-1995876252385685956.webp)
 
 ---
 
@@ -20086,7 +20086,7 @@ Generate an 8K ultra realistic cinematic portrait of the subject standing casual
 
 ## Example Output
 
-![Chill Vibes Under Night Lights at Legend Cafe](https://awesomeprompts.xyz/images/portraits/pg-1996231389491118459.jpg)
+![Chill Vibes Under Night Lights at Legend Cafe](https://awesomeprompts.xyz/images/portraits/pg-1996231389491118459.webp)
 
 ---
 
@@ -20131,7 +20131,7 @@ A warm smile and casual style paint a picture of comfort. Surrounded by soft lig
 
 ## Example Output
 
-![Chill Vibes: A Cozy Moment Captured](https://awesomeprompts.xyz/images/portraits/pg-1994237260905238844.jpg)
+![Chill Vibes: A Cozy Moment Captured](https://awesomeprompts.xyz/images/portraits/pg-1994237260905238844.webp)
 
 ---
 
@@ -20182,7 +20182,7 @@ Amidst a winter wonderland, she embodies a sharp retro-y2k aesthetic. Frost-kiss
 
 ## Example Output
 
-![Chill Vibes: A Frosty Fusion of Neon and Retro](https://awesomeprompts.xyz/images/portraits/pg-1992885627109470237.jpg)
+![Chill Vibes: A Frosty Fusion of Neon and Retro](https://awesomeprompts.xyz/images/portraits/pg-1992885627109470237.webp)
 
 ---
 
@@ -20280,7 +20280,7 @@ In a shimmering Disney dream, this chic beauty captures the essence of winter ma
 
 ## Example Output
 
-![Chill Vibes: A Modern Ice Princess in Disney Wonderland](https://awesomeprompts.xyz/images/portraits/pg-1995104370686357772.jpg)
+![Chill Vibes: A Modern Ice Princess in Disney Wonderland](https://awesomeprompts.xyz/images/portraits/pg-1995104370686357772.webp)
 
 ---
 
@@ -20300,7 +20300,7 @@ A candid high-angle selfie photograph of a young woman with long dark hair lying
 
 ## Example Output
 
-![Chill Vibes: The Cozy Selfie Moment](https://awesomeprompts.xyz/images/portraits/pg-1997303396961861772.jpg)
+![Chill Vibes: The Cozy Selfie Moment](https://awesomeprompts.xyz/images/portraits/pg-1997303396961861772.webp)
 
 ---
 
@@ -20349,7 +20349,7 @@ Under the sun's golden gaze, a confident woman in a vibrant green sweater brings
 
 ## Example Output
 
-![Chillin' at the Boardwalk with Nano Banana Pro](https://awesomeprompts.xyz/images/portraits/pg-1995131281806614623.jpg)
+![Chillin' at the Boardwalk with Nano Banana Pro](https://awesomeprompts.xyz/images/portraits/pg-1995131281806614623.webp)
 
 ---
 
@@ -20448,7 +20448,7 @@ Soft lighting embraces a serene moment. In a cozy white outfit and large headpho
 
 ## Example Output
 
-![Chillin' in Minimalism: A Portrait of Pure Vibes](https://awesomeprompts.xyz/images/portraits/pg-1996925069189079063.jpg)
+![Chillin' in Minimalism: A Portrait of Pure Vibes](https://awesomeprompts.xyz/images/portraits/pg-1996925069189079063.webp)
 
 ---
 
@@ -20537,7 +20537,7 @@ Beneath a heavy, cloud-laden sky, a bespectacled man in vibrant orange winter ge
 
 ## Example Output
 
-![Chilling in the Cold: A Gem of Ice Fishing](https://awesomeprompts.xyz/images/portraits/pg-1995341349844062415.jpg)
+![Chilling in the Cold: A Gem of Ice Fishing](https://awesomeprompts.xyz/images/portraits/pg-1995341349844062415.webp)
 
 ---
 
@@ -20602,7 +20602,7 @@ Caught in a moment of contemplation, this young woman embraces retro charm in a 
 
 ## Example Output
 
-![Chilling with a Vintage Vibe and a Coca-Cola Twist](https://awesomeprompts.xyz/images/portraits/pg-1994446756978020701.jpg)
+![Chilling with a Vintage Vibe and a Coca-Cola Twist](https://awesomeprompts.xyz/images/portraits/pg-1994446756978020701.webp)
 
 ---
 
@@ -20637,7 +20637,7 @@ A high-quality vertical shot of a young woman in her early 20s taking a casual s
 
 ## Example Output
 
-![Chrome Pink BMW Selfie](https://awesomeprompts.xyz/images/portraits/chrome-pink-bmw-selfie.jpg)
+![Chrome Pink BMW Selfie](https://awesomeprompts.xyz/images/portraits/chrome-pink-bmw-selfie.webp)
 
 ---
 
@@ -20716,7 +20716,7 @@ Bold red lips and tousled hair illuminate a moody stairway scene. This striking 
 
 ## Example Output
 
-![Cinematic Charm: A Bold Androgynous Muse](https://awesomeprompts.xyz/images/portraits/pg-1991769381861486747.jpg)
+![Cinematic Charm: A Bold Androgynous Muse](https://awesomeprompts.xyz/images/portraits/pg-1991769381861486747.webp)
 
 ---
 
@@ -20765,7 +20765,7 @@ Against a backdrop of sleek mirrors, this young girl exudes effortless style, he
 
 ## Example Output
 
-![Cinematic Chic: A Portrait of Confidence](https://awesomeprompts.xyz/images/portraits/pg-1995453492933361979.jpg)
+![Cinematic Chic: A Portrait of Confidence](https://awesomeprompts.xyz/images/portraits/pg-1995453492933361979.webp)
 
 ---
 
@@ -20831,7 +20831,7 @@ Bold shadows and intense highlights converge in this 8K black-and-white portrait
 
 ## Example Output
 
-![Cinematic Depth: A Striking Monochrome Portrait](https://awesomeprompts.xyz/images/portraits/pg-1996533151850696863.jpg)
+![Cinematic Depth: A Striking Monochrome Portrait](https://awesomeprompts.xyz/images/portraits/pg-1996533151850696863.webp)
 
 ---
 
@@ -20880,7 +20880,7 @@ A stylish woman elegantly perched on her bed, her smartphone obscuring her face.
 
 ## Example Output
 
-![Cinematic Elegance: A Glimpse of Modern Intimacy](https://awesomeprompts.xyz/images/portraits/pg-1994835650739331364.jpg)
+![Cinematic Elegance: A Glimpse of Modern Intimacy](https://awesomeprompts.xyz/images/portraits/pg-1994835650739331364.webp)
 
 ---
 
@@ -20904,7 +20904,7 @@ Camera angle: shot from inside the car, close and intimate, focusing primarily o
 
 ## Example Output
 
-![Cinematic Night Drive: A Portrait of Serene Adventure](https://awesomeprompts.xyz/images/portraits/pg-1994443159862976995.jpg)
+![Cinematic Night Drive: A Portrait of Serene Adventure](https://awesomeprompts.xyz/images/portraits/pg-1994443159862976995.webp)
 
 ---
 
@@ -20946,7 +20946,7 @@ In a bustling cinema, Miyeon captures a playful moment with Judy Hopps, the spir
 
 ## Example Output
 
-![Cinematic Smiles with My Cop Bunny! 🐰✨](https://awesomeprompts.xyz/images/portraits/pg-1994360357100368334.jpg)
+![Cinematic Smiles with My Cop Bunny! 🐰✨](https://awesomeprompts.xyz/images/portraits/pg-1994360357100368334.webp)
 
 ---
 
@@ -20976,7 +20976,7 @@ Caught in a tranquil moment, this young woman gazes out over a sparkling citysca
       "content": "Shreya Yadav",
       "location": "Bottom right corner"
     },
-    "filename": "image_1.png"
+    "filename": "image_1.webp"
   }
 }
 ```
@@ -20987,7 +20987,7 @@ Caught in a tranquil moment, this young woman gazes out over a sparkling citysca
 
 ## Example Output
 
-![City Dreams and Serene Moments 🌃✨](https://awesomeprompts.xyz/images/portraits/pg-1995112963334930450.jpg)
+![City Dreams and Serene Moments 🌃✨](https://awesomeprompts.xyz/images/portraits/pg-1995112963334930450.webp)
 
 ---
 
@@ -21059,7 +21059,7 @@ Under the neon glow, a young woman transforms the night. From fierce poses to ca
 
 ## Example Output
 
-![City Lights & Glam Nights: A Fashion Odyssey 🌟](https://awesomeprompts.xyz/images/portraits/pg-1994170508871340462.jpg)
+![City Lights & Glam Nights: A Fashion Odyssey 🌟](https://awesomeprompts.xyz/images/portraits/pg-1994170508871340462.webp)
 
 ---
 
@@ -21128,7 +21128,7 @@ Google Gemini Nano banana Pro.
 
 ## Example Output
 
-![Classroom Confidence: A Modern Scholar's Portrait](https://awesomeprompts.xyz/images/portraits/pg-1996416718873444749.jpg)
+![Classroom Confidence: A Modern Scholar's Portrait](https://awesomeprompts.xyz/images/portraits/pg-1996416718873444749.webp)
 
 ---
 
@@ -21189,7 +21189,7 @@ A stunning overhead view captures a young woman in a straddle split, laptop in h
 
 ## Example Output
 
-![Coding Elegance: A Flexible Fashion Statement](https://awesomeprompts.xyz/images/portraits/pg-1993888342531035562.jpg)
+![Coding Elegance: A Flexible Fashion Statement](https://awesomeprompts.xyz/images/portraits/pg-1993888342531035562.webp)
 
 ---
 
@@ -21209,7 +21209,7 @@ A professional, high-resolution profile photo, maintaining the exact facial stru
 
 ## Example Output
 
-![Color-Coded Confidence: A Fresh Take on Professionalism](https://awesomeprompts.xyz/images/portraits/pg-1993734199837381095.jpg)
+![Color-Coded Confidence: A Fresh Take on Professionalism](https://awesomeprompts.xyz/images/portraits/pg-1993734199837381095.webp)
 
 ---
 
@@ -21229,7 +21229,7 @@ A professional, high-resolution profile photo, maintaining the exact facial stru
 
 ## Example Output
 
-![Confidence Captured: A Professional Portrait in Perfect Detail](https://awesomeprompts.xyz/images/portraits/pg-1993992685963866542.jpg)
+![Confidence Captured: A Professional Portrait in Perfect Detail](https://awesomeprompts.xyz/images/portraits/pg-1993992685963866542.webp)
 
 ---
 
@@ -21256,7 +21256,7 @@ The hoodie features a small "Shivay" logo on the front. The background is soft, 
 
 ## Example Output
 
-![Confidence in Cinematic Style: A Modern Portrait](https://awesomeprompts.xyz/images/portraits/pg-1994239249554788596.jpg)
+![Confidence in Cinematic Style: A Modern Portrait](https://awesomeprompts.xyz/images/portraits/pg-1994239249554788596.webp)
 
 ---
 
@@ -21280,7 +21280,7 @@ The setting is a desolate, yet picturesque, dry and hilly landscape, with a wind
 
 ## Example Output
 
-![Confidence on Wheels: The Sheriff Chic Vibe](https://awesomeprompts.xyz/images/portraits/pg-1995864688807346458.jpg)
+![Confidence on Wheels: The Sheriff Chic Vibe](https://awesomeprompts.xyz/images/portraits/pg-1995864688807346458.webp)
 
 ---
 
@@ -21310,7 +21310,7 @@ In a tranquil snowy escape, a young woman with freckled cheeks captures the esse
 
 ## Example Output
 
-![Contemplation in a Winter Wonderland](https://awesomeprompts.xyz/images/portraits/pg-1996780474820436097.jpg)
+![Contemplation in a Winter Wonderland](https://awesomeprompts.xyz/images/portraits/pg-1996780474820436097.webp)
 
 ---
 
@@ -21363,7 +21363,7 @@ A striking collage comes alive with a singular face, showcasing modern elegance 
 
 ## Example Output
 
-![Contemporary Canvas: A Stylish Fusion of Identity](https://awesomeprompts.xyz/images/portraits/pg-1997266221998428639.jpg)
+![Contemporary Canvas: A Stylish Fusion of Identity](https://awesomeprompts.xyz/images/portraits/pg-1997266221998428639.webp)
 
 ---
 
@@ -21383,7 +21383,7 @@ Create a fashion product collage on a brown corkboard based on this outfit. Each
 
 ## Example Output
 
-![Corkboard Chic: A Fashion Collage Unveiled](https://awesomeprompts.xyz/images/portraits/pg-1991666618607267864.jpg)
+![Corkboard Chic: A Fashion Collage Unveiled](https://awesomeprompts.xyz/images/portraits/pg-1991666618607267864.webp)
 
 ---
 
@@ -21407,7 +21407,7 @@ Bold typography meets striking portraiture in this glossy magazine cover! The vi
 
 ## Example Output
 
-![Cosmic Chic: A Fashion Magazine Reinvented](https://awesomeprompts.xyz/images/portraits/pg-1996444045070233633.jpg)
+![Cosmic Chic: A Fashion Magazine Reinvented](https://awesomeprompts.xyz/images/portraits/pg-1996444045070233633.webp)
 
 ---
 
@@ -21461,7 +21461,7 @@ A stunning portrayal of a cosplayer in a cosmic black and silver suit, her cotto
 
 ## Example Output
 
-![Cosmic Elegance: The Symbiote Queen Revealed](https://awesomeprompts.xyz/images/portraits/pg-1994404675739894229.jpg)
+![Cosmic Elegance: The Symbiote Queen Revealed](https://awesomeprompts.xyz/images/portraits/pg-1994404675739894229.webp)
 
 ---
 
@@ -21562,7 +21562,7 @@ What a mesmerizing blend of style and charm! A teenage girl with long, dark brow
 
 ## Example Output
 
-![Cosmic Vibes: A Stylish Teen Portrait](https://awesomeprompts.xyz/images/portraits/pg-1994984379186102752.jpg)
+![Cosmic Vibes: A Stylish Teen Portrait](https://awesomeprompts.xyz/images/portraits/pg-1994984379186102752.webp)
 
 ---
 
@@ -21582,7 +21582,7 @@ Cute and aesthetic winter portrait featuring a woman in an oversized pastel hood
 
 ## Example Output
 
-![Cozy Glow: Winter Vibes in Pastel Hues](https://awesomeprompts.xyz/images/portraits/pg-1993237966643466406.jpg)
+![Cozy Glow: Winter Vibes in Pastel Hues](https://awesomeprompts.xyz/images/portraits/pg-1993237966643466406.webp)
 
 ---
 
@@ -21655,7 +21655,7 @@ Imagine a serene winter afternoon as a delicate girl in pastel loungewear cradle
 
 ## Example Output
 
-![Cozy Kawaii Bliss: A Winter Portrait of Comfort](https://awesomeprompts.xyz/images/portraits/pg-1996751012934082673.jpg)
+![Cozy Kawaii Bliss: A Winter Portrait of Comfort](https://awesomeprompts.xyz/images/portraits/pg-1996751012934082673.webp)
 
 ---
 
@@ -21675,7 +21675,7 @@ A cozy indoor portrait of a young woman sitting on a sofa, wearing a loose, off-
 
 ## Example Output
 
-![Cozy Moments: A Captivating Evening Retreat](https://awesomeprompts.xyz/images/portraits/pg-1995173693665001744.jpg)
+![Cozy Moments: A Captivating Evening Retreat](https://awesomeprompts.xyz/images/portraits/pg-1995173693665001744.webp)
 
 ---
 
@@ -21704,7 +21704,7 @@ A charming young woman radiates warmth against a kaleidoscope of retro visuals. 
 
 ## Example Output
 
-![Cozy Vibes in a Retro Wonderland](https://awesomeprompts.xyz/images/portraits/pg-1995836466682102119.jpg)
+![Cozy Vibes in a Retro Wonderland](https://awesomeprompts.xyz/images/portraits/pg-1995836466682102119.webp)
 
 ---
 
@@ -21755,7 +21755,7 @@ All frames feature photorealistic textures, consistent cinematic color grading, 
 
 ## Example Output
 
-![Craft the Perfect Scene with Nano Banana's 3x3 Grid Magic](https://awesomeprompts.xyz/images/portraits/pg-1995462524704362683.jpg)
+![Craft the Perfect Scene with Nano Banana's 3x3 Grid Magic](https://awesomeprompts.xyz/images/portraits/pg-1995462524704362683.webp)
 
 ---
 
@@ -21775,7 +21775,7 @@ Create a PlayStation 5 game cover in the style of GTA VI. Use the man from the p
 
 ## Example Output
 
-![Craft Your Own GTA VI Fantasy with a Personal Twist!](https://awesomeprompts.xyz/images/portraits/pg-1992646835727446294.jpg)
+![Craft Your Own GTA VI Fantasy with a Personal Twist!](https://awesomeprompts.xyz/images/portraits/pg-1992646835727446294.webp)
 
 ---
 
@@ -21795,7 +21795,7 @@ style panels arranged in a dynamic layout, resembling a professionally printed J
 
 ## Example Output
 
-![Craft Your Own Manga Masterpiece with Nano Banana!](https://awesomeprompts.xyz/images/portraits/pg-1991585679264944306.jpg)
+![Craft Your Own Manga Masterpiece with Nano Banana!](https://awesomeprompts.xyz/images/portraits/pg-1991585679264944306.webp)
 
 ---
 
@@ -21868,7 +21868,7 @@ Transform a simple selfie into a festive wonderland, surrounded by playful monst
 
 ## Example Output
 
-![Craft Your Own Whimsical Christmas Portrait!](https://awesomeprompts.xyz/images/portraits/pg-1995250288073302501.jpg)
+![Craft Your Own Whimsical Christmas Portrait!](https://awesomeprompts.xyz/images/portraits/pg-1995250288073302501.webp)
 
 ---
 
@@ -21909,7 +21909,7 @@ Act as a professional set designer and director of photography. Given a short na
 
 ## Example Output
 
-![Crafting Cinematic Realities: A Set Designer's Dream](https://awesomeprompts.xyz/images/portraits/pg-1993250026567635146.jpg)
+![Crafting Cinematic Realities: A Set Designer's Dream](https://awesomeprompts.xyz/images/portraits/pg-1993250026567635146.webp)
 
 ---
 
@@ -21940,7 +21940,7 @@ topic: “If you can't explain it simply, you don't understand it well enough.�
 
 ## Example Output
 
-![Crafting Wisdom: Feynman's Simple Truths in Art](https://awesomeprompts.xyz/images/portraits/pg-1996303762428731486.jpg)
+![Crafting Wisdom: Feynman's Simple Truths in Art](https://awesomeprompts.xyz/images/portraits/pg-1996303762428731486.webp)
 
 ---
 
@@ -21974,7 +21974,7 @@ Bathe in the allure of a striking red gown, artfully contrasted against rich vel
 
 ## Example Output
 
-![Crimson Elegance: A Sensual Fashion Statement](https://awesomeprompts.xyz/images/portraits/pg-1997241895966130425.jpg)
+![Crimson Elegance: A Sensual Fashion Statement](https://awesomeprompts.xyz/images/portraits/pg-1997241895966130425.webp)
 
 ---
 
@@ -22020,7 +22020,7 @@ Bold and striking, this confident beauty radiates charm atop a sleek dark yellow
 
 ## Example Output
 
-![Cruising in Style: Confidence Meets Chic](https://awesomeprompts.xyz/images/portraits/pg-1993856945061843070.jpg)
+![Cruising in Style: Confidence Meets Chic](https://awesomeprompts.xyz/images/portraits/pg-1993856945061843070.webp)
 
 ---
 
@@ -22059,7 +22059,7 @@ Captured in a moment of reflection, this young woman stands tall against a riot 
 
 ## Example Output
 
-![Curly Confessions: A Woman's Journey Through Chaos](https://awesomeprompts.xyz/images/portraits/pg-1991681176504004853.jpg)
+![Curly Confessions: A Woman's Journey Through Chaos](https://awesomeprompts.xyz/images/portraits/pg-1991681176504004853.webp)
 
 ---
 
@@ -22088,7 +22088,7 @@ Radiating playful charm, this young woman strikes a whimsical pose in a classic 
 
 ## Example Output
 
-![Cute Bunny Vibes with a Twist!](https://awesomeprompts.xyz/images/portraits/pg-1995603848510271611.jpg)
+![Cute Bunny Vibes with a Twist!](https://awesomeprompts.xyz/images/portraits/pg-1995603848510271611.webp)
 
 ---
 
@@ -22164,7 +22164,7 @@ A hauntingly beautiful portrait unfolds by the misty lakeside, where the subject
 
 ## Example Output
 
-![Dark Elegance at the Water's Edge](https://awesomeprompts.xyz/images/portraits/pg-1995536194327777287.jpg)
+![Dark Elegance at the Water's Edge](https://awesomeprompts.xyz/images/portraits/pg-1995536194327777287.webp)
 
 ---
 
@@ -22184,7 +22184,7 @@ Make a 4×4 grid starting with the 1880s. In each section, I should appear style
 
 ## Example Output
 
-![Decades of Style: A Visual Journey Through Time](https://awesomeprompts.xyz/images/portraits/pg-1992767833919672818.jpg)
+![Decades of Style: A Visual Journey Through Time](https://awesomeprompts.xyz/images/portraits/pg-1992767833919672818.webp)
 
 ---
 
@@ -22272,7 +22272,7 @@ Amidst the haze of battle, a boxer pauses, embodying raw tenacity. Sweat and bru
 
 ## Example Output
 
-![Determination in the Ring: A Boxer’s Gritty Resilience](https://awesomeprompts.xyz/images/portraits/pg-1995129714391093319.jpg)
+![Determination in the Ring: A Boxer’s Gritty Resilience](https://awesomeprompts.xyz/images/portraits/pg-1995129714391093319.webp)
 
 ---
 
@@ -22363,7 +22363,7 @@ Imagine a retro diner where food comes alive! Our protagonist is hilariously sur
 
 ## Example Output
 
-![Diner Delights: A Whimsical Fast-Food Fantasy](https://awesomeprompts.xyz/images/portraits/pg-1994126063656644727.jpg)
+![Diner Delights: A Whimsical Fast-Food Fantasy](https://awesomeprompts.xyz/images/portraits/pg-1994126063656644727.webp)
 
 ---
 
@@ -22393,7 +22393,7 @@ A striking high-contrast portrait reveals the contours of identity, where the sh
   "title": "High-Contrast Monochrome Side-Profile Rim-Lit Portrait (use user face reference)",
   "model": "stable-diffusion-xl-v1-0", 
   "size": "2048x3072",
-  "reference_image": "face.jpg",
+  "reference_image": "face.webp",
   "use_reference_for": ["face", "hairstyle", "skin_tone", "facial_proportions"],
   "prompt": "Use the provided face reference (preserve identity and same short hairstyle, no face-morphing). Create a stark, high-contrast black-and-white side-profile portrait (monochrome). Subject: gender-neutral / slightly masculine, short hair, clean profile, wearing a dark form-fitting turtleneck that disappears into pure black background. Composition: strict side-profile (face turned ~90° from camera) looking slightly upward and to the side, conveying contemplation/aspiration. Lighting: single extremely hard, concentrated light placed directly behind and slightly to the side of the subject to produce a very narrow, intense rim light that traces the head, jawline, brow, neck and arm — rim should be razor-sharp and bright white against a true black background; the rest of the face should remain in deep shadow with only the rim defining contours. Camera & technical: photorealistic, 85mm medium telephoto, shallow depth of field (tight head-and-shoulders crop), fine film grain, extremely high dynamic range (emphasize bright rim vs deep black), crisp detail at edges, subtle skin texture visible where rim light catches it. Mood & style: cinematic, minimalist, austere, dramatic. Preserve natural facial features, avoid stylization or exaggeration. Ensure the turtleneck blends into the background with no visible seams, and avoid visible props or background elements. Final output: black-and-white, high contrast, ultra-photorealistic, high-resolution.",
   "negative_prompt": "no color, no makeup exaggeration, no glasses, no jewelry, no logos, no text, no watermark, no extra limbs, no face-morphing, no heavy retouching or plastic look, no smiling, no open mouth, no visible teeth, no background details, avoid painterly or illustrative styles, avoid soft or diffuse rim light (rim must be hard and narrow).",
@@ -22415,7 +22415,7 @@ A striking high-contrast portrait reveals the contours of identity, where the sh
     "consent_required": "user_provided_reference",
     "face_editing_rules": "do not alter identity, maintain hairstyle, no age or gender shifting beyond subtle photorealistic lighting effects"
   },
-  "notes_for_operator": "Attach the user's reference image as 'face.jpg' before running. Verify the generator uses the reference only for face & hairstyle; enforce strict negative prompts to prevent stylization or background artifacts. Output requested: one high-resolution PNG, monochrome.
+  "notes_for_operator": "Attach the user's reference image as 'face.webp' before running. Verify the generator uses the reference only for face & hairstyle; enforce strict negative prompts to prevent stylization or background artifacts. Output requested: one high-resolution PNG, monochrome.
 
 ## Source
 
@@ -22423,7 +22423,7 @@ A striking high-contrast portrait reveals the contours of identity, where the sh
 
 ## Example Output
 
-![Dramatic Monochrome Side-Profile: A Study in Light and Shadow](https://awesomeprompts.xyz/images/portraits/pg-1991333326603579944.jpg)
+![Dramatic Monochrome Side-Profile: A Study in Light and Shadow](https://awesomeprompts.xyz/images/portraits/pg-1991333326603579944.webp)
 
 ---
 
@@ -22448,7 +22448,7 @@ A striking play of light and shadow captures a rugged soul. Tousled hair and a f
 
 ## Example Output
 
-![Dramatic Shadows: A Noir Portrait Unveiled](https://awesomeprompts.xyz/images/portraits/pg-1995505636864610471.jpg)
+![Dramatic Shadows: A Noir Portrait Unveiled](https://awesomeprompts.xyz/images/portraits/pg-1995505636864610471.webp)
 
 ---
 
@@ -22468,7 +22468,7 @@ A woman with long black hair lies on a bed with shiny, silky bedding and pillows
 
 ## Example Output
 
-![Dreamy Elegance: A Moment of Serenity](https://awesomeprompts.xyz/images/portraits/pg-1996593149339185424.jpg)
+![Dreamy Elegance: A Moment of Serenity](https://awesomeprompts.xyz/images/portraits/pg-1996593149339185424.webp)
 
 ---
 
@@ -22492,7 +22492,7 @@ Caught in a moment of daydreaming bliss, this young girl’s serene expression s
 
 ## Example Output
 
-![Dreamy Selfie in 16K Radiance ✨🌸](https://awesomeprompts.xyz/images/portraits/pg-1995711137057251447.jpg)
+![Dreamy Selfie in 16K Radiance ✨🌸](https://awesomeprompts.xyz/images/portraits/pg-1995711137057251447.webp)
 
 ---
 
@@ -22553,7 +22553,7 @@ Captured in a moment of quiet reflection, this young woman embodies the nostalgi
 
 ## Example Output
 
-![Echoes of the Past: A Night on Ancient Steps](https://awesomeprompts.xyz/images/portraits/pg-1997153977540993356.jpg)
+![Echoes of the Past: A Night on Ancient Steps](https://awesomeprompts.xyz/images/portraits/pg-1997153977540993356.webp)
 
 ---
 
@@ -22603,7 +22603,7 @@ A radiant young woman lounges effortlessly in her minimalist space, exuding conf
 
 ## Example Output
 
-![Effortless Elegance in a Cozy Retreat](https://awesomeprompts.xyz/images/portraits/pg-1995816465531064716.jpg)
+![Effortless Elegance in a Cozy Retreat](https://awesomeprompts.xyz/images/portraits/pg-1995816465531064716.webp)
 
 ---
 
@@ -22677,7 +22677,7 @@ Soft amber hues envelop this serene scene, where a model exudes calm in a cream 
 
 ## Example Output
 
-![Effortless Elegance: A Portrait in Warm Tones](https://awesomeprompts.xyz/images/portraits/pg-1996549545522565510.jpg)
+![Effortless Elegance: A Portrait in Warm Tones](https://awesomeprompts.xyz/images/portraits/pg-1996549545522565510.webp)
 
 ---
 
@@ -22722,7 +22722,7 @@ A cozy moment captured! This young woman radiates style in a playful crop top an
 
 ## Example Output
 
-![Effortlessly Chic: Casual Elegance at Home](https://awesomeprompts.xyz/images/portraits/pg-1996565721615331441.jpg)
+![Effortlessly Chic: Casual Elegance at Home](https://awesomeprompts.xyz/images/portraits/pg-1996565721615331441.webp)
 
 ---
 
@@ -22742,7 +22742,7 @@ Einstein would totally wear Patagonia and an Apple Watch
 
 ## Example Output
 
-![Einstein's Modern Style: A Fusion of Genius and Fashion](https://awesomeprompts.xyz/images/portraits/pg-1994465121507201397.jpg)
+![Einstein's Modern Style: A Fusion of Genius and Fashion](https://awesomeprompts.xyz/images/portraits/pg-1994465121507201397.webp)
 
 ---
 
@@ -22762,7 +22762,7 @@ A close-up, medium shot captures a man dressed as Batman, appearing to be in the
 
 ## Example Output
 
-![Electrifying Batman: A Shocking Showdown!](https://awesomeprompts.xyz/images/portraits/pg-1991885171285733629.jpg)
+![Electrifying Batman: A Shocking Showdown!](https://awesomeprompts.xyz/images/portraits/pg-1991885171285733629.webp)
 
 ---
 
@@ -22782,7 +22782,7 @@ A highly detailed 8k digital illustration of a person, presented as a close-up, 
 
 ## Example Output
 
-![Electrifying Portrait: A New Vision in 8K Artistry](https://awesomeprompts.xyz/images/portraits/pg-1993275001072468135.jpg)
+![Electrifying Portrait: A New Vision in 8K Artistry](https://awesomeprompts.xyz/images/portraits/pg-1993275001072468135.webp)
 
 ---
 
@@ -22848,7 +22848,7 @@ In a vintage haven, a dreamy woman in rust-orange drapes gracefully beside her c
 
 ## Example Output
 
-![Elegance and Whiskers: A Portrait of Serene Beauty](https://awesomeprompts.xyz/images/portraits/pg-1993866179346104530.jpg)
+![Elegance and Whiskers: A Portrait of Serene Beauty](https://awesomeprompts.xyz/images/portraits/pg-1993866179346104530.webp)
 
 ---
 
@@ -22921,7 +22921,7 @@ Soft, radiant elegance unfolds in this stunning editorial shot, where a model sh
 
 ## Example Output
 
-![Elegance Defined: A Portrait in Satin and Serenity](https://awesomeprompts.xyz/images/portraits/pg-1997176174456541563.jpg)
+![Elegance Defined: A Portrait in Satin and Serenity](https://awesomeprompts.xyz/images/portraits/pg-1997176174456541563.webp)
 
 ---
 
@@ -22941,7 +22941,7 @@ Use the uploaded photo as the face reference for both the large painted portrait
 
 ## Example Output
 
-![Elegance Embodied: A Portrait of Confidence](https://awesomeprompts.xyz/images/portraits/pg-1994962490049139047.jpg)
+![Elegance Embodied: A Portrait of Confidence](https://awesomeprompts.xyz/images/portraits/pg-1994962490049139047.webp)
 
 ---
 
@@ -22968,7 +22968,7 @@ A perfect blend of tranquility, style, and natural beauty captured in one frame.
 
 ## Example Output
 
-![Elegance in a Winter Wonderland](https://awesomeprompts.xyz/images/portraits/pg-1996010195617485042.jpg)
+![Elegance in a Winter Wonderland](https://awesomeprompts.xyz/images/portraits/pg-1996010195617485042.webp)
 
 ---
 
@@ -23047,7 +23047,7 @@ What a striking vision of modern elegance! A blonde beauty lounges gracefully, d
 
 ## Example Output
 
-![Elegance in Black: A Glamorous Sophistication](https://awesomeprompts.xyz/images/portraits/pg-1992900701765189746.jpg)
+![Elegance in Black: A Glamorous Sophistication](https://awesomeprompts.xyz/images/portraits/pg-1992900701765189746.webp)
 
 ---
 
@@ -23198,7 +23198,7 @@ Amidst a backdrop of soft beige, an East Asian beauty captivates in a white cheo
 
 ## Example Output
 
-![Elegance in Bloom: A Portrait of Serenity](https://awesomeprompts.xyz/images/portraits/pg-1997242522708377885.jpg)
+![Elegance in Bloom: A Portrait of Serenity](https://awesomeprompts.xyz/images/portraits/pg-1997242522708377885.webp)
 
 ---
 
@@ -23232,7 +23232,7 @@ Behold the stunning close-up of a young woman's profile, where dark, wet hair cl
 
 ## Example Output
 
-![Elegance in Every Droplet: The Gemini Nano Banana 3.0](https://awesomeprompts.xyz/images/portraits/pg-1996232341031891077.jpg)
+![Elegance in Every Droplet: The Gemini Nano Banana 3.0](https://awesomeprompts.xyz/images/portraits/pg-1996232341031891077.webp)
 
 ---
 
@@ -23281,7 +23281,7 @@ A stylish man leans confidently on an elegant desk, surrounded by sleek tech and
 
 ## Example Output
 
-![Elegance in Focus: The Nano Banana Pro Unleashed](https://awesomeprompts.xyz/images/portraits/pg-1993980595244761517.jpg)
+![Elegance in Focus: The Nano Banana Pro Unleashed](https://awesomeprompts.xyz/images/portraits/pg-1993980595244761517.webp)
 
 ---
 
@@ -23301,7 +23301,7 @@ A 29-year-old man sitting on a majestic white horse, possibly a Gypsy Vanner or 
 
 ## Example Output
 
-![Elegance in Motion: Horse and Rider Unite](https://awesomeprompts.xyz/images/portraits/pg-1991683809159573859.jpg)
+![Elegance in Motion: Horse and Rider Unite](https://awesomeprompts.xyz/images/portraits/pg-1991683809159573859.webp)
 
 ---
 
@@ -23331,7 +23331,7 @@ Bold and beautiful! This young woman embodies modern elegance in a striking red 
 
 ## Example Output
 
-![Elegance in Red: A Modern Fashion Statement](https://awesomeprompts.xyz/images/portraits/pg-1996536685459607688.jpg)
+![Elegance in Red: A Modern Fashion Statement](https://awesomeprompts.xyz/images/portraits/pg-1996536685459607688.webp)
 
 ---
 
@@ -23352,7 +23352,7 @@ She is wearing a dark blue garment with intricate light blue embroidery. Two whi
 
 ## Example Output
 
-![Elegance in Reflection: A Moment of Serenity](https://awesomeprompts.xyz/images/portraits/pg-1996946284436246876.jpg)
+![Elegance in Reflection: A Moment of Serenity](https://awesomeprompts.xyz/images/portraits/pg-1996946284436246876.webp)
 
 ---
 
@@ -23384,7 +23384,7 @@ Amidst soft hues, a couple embodies romance—her ruffled gown cascades like a d
 
 ## Example Output
 
-![Elegance in Sage: A Romantic Fashion Portrait](https://awesomeprompts.xyz/images/portraits/pg-1996791111084548501.jpg)
+![Elegance in Sage: A Romantic Fashion Portrait](https://awesomeprompts.xyz/images/portraits/pg-1996791111084548501.webp)
 
 ---
 
@@ -23404,7 +23404,7 @@ A fierce, free-spirited woman with curly hair walks through a rain-soaked ancien
 
 ## Example Output
 
-![Elegance in the Rain: A Bold Stroll Through History](https://awesomeprompts.xyz/images/portraits/pg-1995754286505173428.jpg)
+![Elegance in the Rain: A Bold Stroll Through History](https://awesomeprompts.xyz/images/portraits/pg-1995754286505173428.webp)
 
 ---
 
@@ -23424,7 +23424,7 @@ Create a fashion editorial interpretation of the image provided, maintaining the
 
 ## Example Output
 
-![Elegance in Winter: A Fashion Fusion with Nature](https://awesomeprompts.xyz/images/portraits/pg-1994263741006008758.jpg)
+![Elegance in Winter: A Fashion Fusion with Nature](https://awesomeprompts.xyz/images/portraits/pg-1994263741006008758.webp)
 
 ---
 
@@ -23444,7 +23444,7 @@ Gaze upon this stunning vintage pencil illustration, where timeless attire meets
 
 ## Example Output
 
-![Elegance Meets Artistry: A Vintage Gentleman Unveiled](https://awesomeprompts.xyz/images/portraits/pg-1991113290114900047.jpg)
+![Elegance Meets Artistry: A Vintage Gentleman Unveiled](https://awesomeprompts.xyz/images/portraits/pg-1991113290114900047.webp)
 
 ---
 
@@ -23494,7 +23494,7 @@ quality = Soft yet defined, creating subtle shadows that enhance her features an
 
 ## Example Output
 
-![Elegance Meets Confidence in Ultra-Realism](https://awesomeprompts.xyz/images/portraits/pg-1994397944209142213.jpg)
+![Elegance Meets Confidence in Ultra-Realism](https://awesomeprompts.xyz/images/portraits/pg-1994397944209142213.webp)
 
 ---
 
@@ -23572,7 +23572,7 @@ A cascade of soft lighting dances on a young woman's playful smile, as she effor
 
 ## Example Output
 
-![Elegance Meets Playfulness on Stylish Stairs](https://awesomeprompts.xyz/images/portraits/pg-1993140376010735685.jpg)
+![Elegance Meets Playfulness on Stylish Stairs](https://awesomeprompts.xyz/images/portraits/pg-1993140376010735685.webp)
 
 ---
 
@@ -23615,7 +23615,7 @@ Bathed in warm light, a striking woman in a red dress reclines gracefully on a g
 
 ## Example Output
 
-![Elegance on Every Step: A Stately Fashion Moment](https://awesomeprompts.xyz/images/portraits/pg-1995457964967178679.jpg)
+![Elegance on Every Step: A Stately Fashion Moment](https://awesomeprompts.xyz/images/portraits/pg-1995457964967178679.webp)
 
 ---
 
@@ -23635,7 +23635,7 @@ A stunning, photo-realistic portrait of a beautiful young woman (based on the re
 
 ## Example Output
 
-![Elegance Redefined: Chic Confidence in Every Detail](https://awesomeprompts.xyz/images/portraits/pg-1996048990765547918.jpg)
+![Elegance Redefined: Chic Confidence in Every Detail](https://awesomeprompts.xyz/images/portraits/pg-1996048990765547918.webp)
 
 ---
 
@@ -23655,7 +23655,7 @@ Female model wearing an oversized silver fox jacket, posing in a minimalist phot
 
 ## Example Output
 
-![Elegance Redefined: The Luxe Minimalist Look](https://awesomeprompts.xyz/images/portraits/pg-1996894118031856043.jpg)
+![Elegance Redefined: The Luxe Minimalist Look](https://awesomeprompts.xyz/images/portraits/pg-1996894118031856043.webp)
 
 ---
 
@@ -23675,7 +23675,7 @@ Ultra realistic &Meine matic portrait, fatio 9:16, a young woman based on upload
 
 ## Example Output
 
-![Elegance Under the Overcast Sky](https://awesomeprompts.xyz/images/portraits/pg-1996891469110759844.jpg)
+![Elegance Under the Overcast Sky](https://awesomeprompts.xyz/images/portraits/pg-1996891469110759844.webp)
 
 ---
 
@@ -23697,7 +23697,7 @@ Standing in a living room. Background is blur. Left portrait. 8 100% matching wi
 
 ## Example Output
 
-![Elegance Unveiled: The Classic Charm of Modern Sophistication](https://awesomeprompts.xyz/images/portraits/pg-1995684279922331840.jpg)
+![Elegance Unveiled: The Classic Charm of Modern Sophistication](https://awesomeprompts.xyz/images/portraits/pg-1995684279922331840.webp)
 
 ---
 
@@ -23717,7 +23717,7 @@ A fashion poster of a young woman (uploaded image). the background features soft
 
 ## Example Output
 
-![Elegance Unveiled: The Essence of Style](https://awesomeprompts.xyz/images/portraits/pg-1996152029484650755.jpg)
+![Elegance Unveiled: The Essence of Style](https://awesomeprompts.xyz/images/portraits/pg-1996152029484650755.webp)
 
 ---
 
@@ -23773,7 +23773,7 @@ Female model wearing an oversized beige puffer jacket, posing in a minimalist ph
 
 ## Example Output
 
-![Elevate Your Style: The Minimalist Muse](https://awesomeprompts.xyz/images/portraits/pg-1996483778764812462.jpg)
+![Elevate Your Style: The Minimalist Muse](https://awesomeprompts.xyz/images/portraits/pg-1996483778764812462.webp)
 
 ---
 
@@ -23848,7 +23848,7 @@ A serene in-flight scene unfolds: an oversized hoodie-clad traveler relaxes in l
 
 ## Example Output
 
-![Elevated Comfort at 30,000 Feet](https://awesomeprompts.xyz/images/portraits/pg-1996127448052674644.jpg)
+![Elevated Comfort at 30,000 Feet](https://awesomeprompts.xyz/images/portraits/pg-1996127448052674644.webp)
 
 ---
 
@@ -23870,7 +23870,7 @@ A slightly blurry digital photo from 2006 shows a hiker with a large backpack pa
 
 ## Example Output
 
-![Elevated Moments: A Hiker's Perspective in the Rockies](https://awesomeprompts.xyz/images/portraits/pg-1993897962234155210.jpg)
+![Elevated Moments: A Hiker's Perspective in the Rockies](https://awesomeprompts.xyz/images/portraits/pg-1993897962234155210.webp)
 
 ---
 
@@ -23925,7 +23925,7 @@ In a cozy elevator bathed in golden light, a playful moment unfolds. With a chic
 
 ## Example Output
 
-![Elevator Chronicles: A Stylish Moment Captured](https://awesomeprompts.xyz/images/portraits/pg-1996622493914664981.jpg)
+![Elevator Chronicles: A Stylish Moment Captured](https://awesomeprompts.xyz/images/portraits/pg-1996622493914664981.webp)
 
 ---
 
@@ -23977,7 +23977,7 @@ Step into a realm of sophistication where a stunning woman commands attention in
 
 ## Example Output
 
-![Elevator Elegance: A Vision in Glamour](https://awesomeprompts.xyz/images/portraits/pg-1995127035081932940.jpg)
+![Elevator Elegance: A Vision in Glamour](https://awesomeprompts.xyz/images/portraits/pg-1995127035081932940.webp)
 
 ---
 
@@ -24046,7 +24046,7 @@ Soft sunlight dances around a young woman with fiery red hair, wrapped in an ove
 
 ## Example Output
 
-![Embracing Cozy Vibes: A Mirror Selfie Moment](https://awesomeprompts.xyz/images/portraits/pg-1995875008950706215.jpg)
+![Embracing Cozy Vibes: A Mirror Selfie Moment](https://awesomeprompts.xyz/images/portraits/pg-1995875008950706215.webp)
 
 ---
 
@@ -24083,7 +24083,7 @@ A tranquil moment unfolds as a model sits on a rustic fence, bathed in golden li
 
 ## Example Output
 
-![Embracing Sunset Serenity with Nature's Grace](https://awesomeprompts.xyz/images/portraits/pg-1991386586517545097.jpg)
+![Embracing Sunset Serenity with Nature's Grace](https://awesomeprompts.xyz/images/portraits/pg-1991386586517545097.webp)
 
 ---
 
@@ -24173,7 +24173,7 @@ A vibrant gym moment unfolds as this young woman radiates success. With a confid
 
 ## Example Output
 
-![Empowered Vibes: A Post-Workout Glow](https://awesomeprompts.xyz/images/portraits/pg-1994226363692171267.jpg)
+![Empowered Vibes: A Post-Workout Glow](https://awesomeprompts.xyz/images/portraits/pg-1994226363692171267.webp)
 
 ---
 
@@ -24193,7 +24193,7 @@ A fierce, stunningly beautiful woman with sharp features and intense eyes, walki
 
 ## Example Output
 
-![Enchanting Elegance in the Rainy Marketplace](https://awesomeprompts.xyz/images/portraits/pg-1995793644696330474.jpg)
+![Enchanting Elegance in the Rainy Marketplace](https://awesomeprompts.xyz/images/portraits/pg-1995793644696330474.webp)
 
 ---
 
@@ -24213,7 +24213,7 @@ a shear and moment diagram for a simply supported beam with a uniform load of 10
 
 ## Example Output
 
-![Engineering Elegance: Shear and Moment Unveiled](https://awesomeprompts.xyz/images/portraits/pg-1992048539552346331.jpg)
+![Engineering Elegance: Shear and Moment Unveiled](https://awesomeprompts.xyz/images/portraits/pg-1992048539552346331.webp)
 
 ---
 
@@ -24246,7 +24246,7 @@ Who knew ancient warriors had such a flair for the fast lane? A dazzling sunset 
 
 ## Example Output
 
-![Epic Drift: A Humorous Fusion of History and Speed](https://awesomeprompts.xyz/images/portraits/pg-1991790313799606651.jpg)
+![Epic Drift: A Humorous Fusion of History and Speed](https://awesomeprompts.xyz/images/portraits/pg-1991790313799606651.webp)
 
 ---
 
@@ -24357,7 +24357,7 @@ Carving through pristine alpine slopes, an extreme snowboarder is pursued by a c
 
 ## Example Output
 
-![Epic Showdown: Snowboarder vs. Powder Wolf](https://awesomeprompts.xyz/images/portraits/pg-1993828568367812980.jpg)
+![Epic Showdown: Snowboarder vs. Powder Wolf](https://awesomeprompts.xyz/images/portraits/pg-1993828568367812980.webp)
 
 ---
 
@@ -24396,7 +24396,7 @@ Capturing a moment of serene beauty, this hyper-realistic image reveals a woman 
 
 ## Example Output
 
-![Ethereal Elegance: A Portrait in Shadows](https://awesomeprompts.xyz/images/portraits/pg-1991187283618435103.jpg)
+![Ethereal Elegance: A Portrait in Shadows](https://awesomeprompts.xyz/images/portraits/pg-1991187283618435103.webp)
 
 ---
 
@@ -24428,7 +24428,7 @@ The direct gaze of the subject combined with the traditional attire creates a re
 
 ## Example Output
 
-![Ethereal Elegance: A Portrait of Timeless Serenity](https://awesomeprompts.xyz/images/portraits/pg-1992947035935560074.jpg)
+![Ethereal Elegance: A Portrait of Timeless Serenity](https://awesomeprompts.xyz/images/portraits/pg-1992947035935560074.webp)
 
 ---
 
@@ -24476,7 +24476,7 @@ A vision of neoclassical beauty! This full-body portrait showcases a stunning go
 
 ## Example Output
 
-![Ethereal Elegance: The Gemini 3.0 Nano Banana](https://awesomeprompts.xyz/images/portraits/pg-1991791415223853218.jpg)
+![Ethereal Elegance: The Gemini 3.0 Nano Banana](https://awesomeprompts.xyz/images/portraits/pg-1991791415223853218.webp)
 
 ---
 
@@ -24535,7 +24535,7 @@ A captivating close-up reveals an enchanting young woman bathed in flash light, 
 
 ## Example Output
 
-![Ethereal Glow: Nighttime Portrait of a Digital Muse](https://awesomeprompts.xyz/images/portraits/pg-1995065474749730989.jpg)
+![Ethereal Glow: Nighttime Portrait of a Digital Muse](https://awesomeprompts.xyz/images/portraits/pg-1995065474749730989.webp)
 
 ---
 
@@ -24584,7 +24584,7 @@ A young person with long, flowing hair tilts back, lost in bliss. Sunlight glint
 
 ## Example Output
 
-![Ethereal Joy: The Magic of Gemini Nano Banana 3.0](https://awesomeprompts.xyz/images/portraits/pg-1992837816733069467.jpg)
+![Ethereal Joy: The Magic of Gemini Nano Banana 3.0](https://awesomeprompts.xyz/images/portraits/pg-1992837816733069467.webp)
 
 ---
 
@@ -24604,7 +24604,7 @@ Ultra-realistic ethereal portrait of a beautiful young woman with long flowing a
 
 ## Example Output
 
-![Ethereal Majesty: A Portrait of Dreamy Elegance](https://awesomeprompts.xyz/images/portraits/pg-1996415055299277146.jpg)
+![Ethereal Majesty: A Portrait of Dreamy Elegance](https://awesomeprompts.xyz/images/portraits/pg-1996415055299277146.webp)
 
 ---
 
@@ -24678,7 +24678,7 @@ An antique porcelain bathtub cradles a vision of beauty, where dewy skin and dar
 
 ## Example Output
 
-![Euphoric Serenity in a Vintage Oasis](https://awesomeprompts.xyz/images/portraits/pg-1992947783184109904.jpg)
+![Euphoric Serenity in a Vintage Oasis](https://awesomeprompts.xyz/images/portraits/pg-1992947783184109904.webp)
 
 ---
 
@@ -24807,7 +24807,7 @@ Amidst a glistening New York street, a stylish woman reclines in a pastel Cadill
 
 ## Example Output
 
-![Festive Glam: A Luxe Winter Wonderland Unveiled](https://awesomeprompts.xyz/images/portraits/pg-1992861873813811258.jpg)
+![Festive Glam: A Luxe Winter Wonderland Unveiled](https://awesomeprompts.xyz/images/portraits/pg-1992861873813811258.webp)
 
 ---
 
@@ -24827,7 +24827,7 @@ A beautiful young woman posing in front of a decorated Christmas tree filled wit
 
 ## Example Output
 
-![Festive Glam: Celebrate the Season in Style!](https://awesomeprompts.xyz/images/portraits/pg-1995838951014498805.jpg)
+![Festive Glam: Celebrate the Season in Style!](https://awesomeprompts.xyz/images/portraits/pg-1995838951014498805.webp)
 
 ---
 
@@ -24847,7 +24847,7 @@ create a photo of python code to calculate the fibonacci numbers drawn on a glas
 
 ## Example Output
 
-![Fibonacci Fun with a Twist: Python & Creativity Unite!](https://awesomeprompts.xyz/images/portraits/pg-1991781961610981714.jpg)
+![Fibonacci Fun with a Twist: Python & Creativity Unite!](https://awesomeprompts.xyz/images/portraits/pg-1991781961610981714.webp)
 
 ---
 
@@ -24867,7 +24867,7 @@ Create a hyper-realistic portrait of the  woman from the uploaded image, she is
 
 ## Example Output
 
-![Fierce Elegance in Motion: Gym Lobby Glam](https://awesomeprompts.xyz/images/portraits/pg-1992985241905184920.jpg)
+![Fierce Elegance in Motion: Gym Lobby Glam](https://awesomeprompts.xyz/images/portraits/pg-1992985241905184920.webp)
 
 ---
 
@@ -24916,7 +24916,7 @@ Color grading: nostalgic digital-camera tones, high contrast flash, subtle displ
 
 ## Example Output
 
-![Flashback to Pixelated Moments: A Night in Focus](https://awesomeprompts.xyz/images/portraits/pg-1993121789111935437.jpg)
+![Flashback to Pixelated Moments: A Night in Focus](https://awesomeprompts.xyz/images/portraits/pg-1993121789111935437.webp)
 
 ---
 
@@ -25010,7 +25010,7 @@ Captured in a cozy modern space, a young woman radiates charm in a floral dress.
 
 ## Example Output
 
-![Floral Vibes & Mirror Reflections](https://awesomeprompts.xyz/images/portraits/pg-1997139760469643639.jpg)
+![Floral Vibes & Mirror Reflections](https://awesomeprompts.xyz/images/portraits/pg-1997139760469643639.webp)
 
 ---
 
@@ -25061,7 +25061,7 @@ A striking triptych portrait unfolds with disjointed beauty. Sharp eyes meet mot
 
 ## Example Output
 
-![Fragmented Faces: The Gemini Nano Banana 3.0](https://awesomeprompts.xyz/images/portraits/pg-1992920950505963820.jpg)
+![Fragmented Faces: The Gemini Nano Banana 3.0](https://awesomeprompts.xyz/images/portraits/pg-1992920950505963820.webp)
 
 ---
 
@@ -25081,7 +25081,7 @@ Ultra realistic portrait of an individual presented inside an oversized Instagra
 
 ## Example Output
 
-![Framing Perfection: A Portrait of Modern Elegance](https://awesomeprompts.xyz/images/portraits/pg-1992639877075370321.jpg)
+![Framing Perfection: A Portrait of Modern Elegance](https://awesomeprompts.xyz/images/portraits/pg-1992639877075370321.webp)
 
 ---
 
@@ -25138,7 +25138,7 @@ Bold lines and vibrant hues bring Frida Kahlo to life in pure ASCII. This intric
 
 ## Example Output
 
-![Frida Reimagined: An ASCII Masterpiece](https://awesomeprompts.xyz/images/portraits/pg-1995952112333979963.jpg)
+![Frida Reimagined: An ASCII Masterpiece](https://awesomeprompts.xyz/images/portraits/pg-1995952112333979963.webp)
 
 ---
 
@@ -25178,7 +25178,7 @@ NEGATIVE PROMPT:
 
 ## Example Output
 
-![From Comic to Reality: A Stunning Transformation](https://awesomeprompts.xyz/images/portraits/pg-1996281855503372510.png)
+![From Comic to Reality: A Stunning Transformation](https://awesomeprompts.xyz/images/portraits/pg-1996281855503372510.webp)
 
 ---
 
@@ -25198,7 +25198,7 @@ hyperrealistic profile of a female elf warrior with snow-white skin and delicate
 
 ## Example Output
 
-![Frost-Kissed Elegance: The Elven Warrior in Winter's Grip](https://awesomeprompts.xyz/images/portraits/pg-1996686272078008691.jpg)
+![Frost-Kissed Elegance: The Elven Warrior in Winter's Grip](https://awesomeprompts.xyz/images/portraits/pg-1996686272078008691.webp)
 
 ---
 
@@ -25279,7 +25279,7 @@ Chilling yet captivating, this close-up captures the intensity of winter surviva
 
 ## Example Output
 
-![Frosted Gaze: Survival in the Winter Wilderness](https://awesomeprompts.xyz/images/portraits/pg-1996771902090891711.jpg)
+![Frosted Gaze: Survival in the Winter Wilderness](https://awesomeprompts.xyz/images/portraits/pg-1996771902090891711.webp)
 
 ---
 
@@ -25299,7 +25299,7 @@ A hyperreal close portrait of a woman meeting the viewer's gaze head-on, eyes st
 
 ## Example Output
 
-![Frozen Essence: A Glimpse into the Heart of Winter](https://awesomeprompts.xyz/images/portraits/pg-1995893928177049803.jpg)
+![Frozen Essence: A Glimpse into the Heart of Winter](https://awesomeprompts.xyz/images/portraits/pg-1995893928177049803.webp)
 
 ---
 
@@ -25369,7 +25369,7 @@ Behold the captivating elegance of a male model draped in a bold oversized sweat
 
 ## Example Output
 
-![Future Chic: A Fashion Evolution in Soft Greens](https://awesomeprompts.xyz/images/portraits/pg-1996108230532235710.jpg)
+![Future Chic: A Fashion Evolution in Soft Greens](https://awesomeprompts.xyz/images/portraits/pg-1996108230532235710.webp)
 
 ---
 
@@ -25443,7 +25443,7 @@ Bold and striking, this high-fashion portrait showcases a confident woman in a m
 
 ## Example Output
 
-![Futuristic Elegance: A Metallic Marvel Unveiled](https://awesomeprompts.xyz/images/portraits/pg-1995685772696191187.jpg)
+![Futuristic Elegance: A Metallic Marvel Unveiled](https://awesomeprompts.xyz/images/portraits/pg-1995685772696191187.webp)
 
 ---
 
@@ -25463,7 +25463,7 @@ Design a high-fashion magazine cover from the year 2099 titled "VOGUE NEON". The
 
 ## Example Output
 
-![Futuristic Fashion: VOGUE NEON 2099 Unveiled](https://awesomeprompts.xyz/images/portraits/pg-1994817399367852495.jpg)
+![Futuristic Fashion: VOGUE NEON 2099 Unveiled](https://awesomeprompts.xyz/images/portraits/pg-1994817399367852495.webp)
 
 ---
 
@@ -25489,7 +25489,7 @@ Bold elegance shines in this high-fashion portrait! A stunning metallic ensemble
 
 ## Example Output
 
-![Futuristic Glam: A Metallic Dreamscape](https://awesomeprompts.xyz/images/portraits/pg-1995974228802502995.jpg)
+![Futuristic Glam: A Metallic Dreamscape](https://awesomeprompts.xyz/images/portraits/pg-1995974228802502995.webp)
 
 ---
 
@@ -25553,7 +25553,7 @@ A daring fusion of oversized comfort and urban edge! The 'MindSpark' tee pops ag
 
 ## Example Output
 
-![Futuristic Street Style: Bold and Unapologetic](https://awesomeprompts.xyz/images/portraits/pg-1995829763328671763.jpg)
+![Futuristic Street Style: Bold and Unapologetic](https://awesomeprompts.xyz/images/portraits/pg-1995829763328671763.webp)
 
 ---
 
@@ -25586,7 +25586,7 @@ Displayed in this exact order:
 
 ## Example Output
 
-![Futuristic Vibes: Your Profile in a Cyber Glow](https://awesomeprompts.xyz/images/portraits/pg-1995633652139442373.jpg)
+![Futuristic Vibes: Your Profile in a Cyber Glow](https://awesomeprompts.xyz/images/portraits/pg-1995633652139442373.webp)
 
 ---
 
@@ -25616,7 +25616,7 @@ NO white pedestal, NO platform base. All layers float freely in space against pu
 
 ## Example Output
 
-![Gastronomic Artistry: The Luxe Layering of Dan Dan Noodles](https://awesomeprompts.xyz/images/portraits/pg-1992989895850430908.jpg)
+![Gastronomic Artistry: The Luxe Layering of Dan Dan Noodles](https://awesomeprompts.xyz/images/portraits/pg-1992989895850430908.webp)
 
 ---
 
@@ -25670,7 +25670,7 @@ A windswept beauty captivates with her luminous gaze, set against deep shadows. 
 
 ## Example Output
 
-![Gaze of Mystery: A Portrait of Intrigue](https://awesomeprompts.xyz/images/portraits/pg-1996641925055873418.jpg)
+![Gaze of Mystery: A Portrait of Intrigue](https://awesomeprompts.xyz/images/portraits/pg-1996641925055873418.webp)
 
 ---
 
@@ -25792,7 +25792,7 @@ Under the warm golden glow of the afternoon sun, a young woman strikes a playful
 
 ## Example Output
 
-![Gemini Nano Banana 3.0: A Playful Day at the Theme Park](https://awesomeprompts.xyz/images/portraits/pg-1996812005714358750.jpg)
+![Gemini Nano Banana 3.0: A Playful Day at the Theme Park](https://awesomeprompts.xyz/images/portraits/pg-1996812005714358750.webp)
 
 ---
 
@@ -25904,7 +25904,7 @@ An elegant night comes alive as two friends capture a playful moment, their whim
 
 ## Example Output
 
-![Glamorous Mirror Selfie with a Twist](https://awesomeprompts.xyz/images/portraits/pg-1996923045328380256.jpg)
+![Glamorous Mirror Selfie with a Twist](https://awesomeprompts.xyz/images/portraits/pg-1996923045328380256.webp)
 
 ---
 
@@ -25958,7 +25958,7 @@ Bold and alluring, this high-fashion moment captures a confident muse in a chic 
 
 ## Example Output
 
-![Glamour and Edge: The Gemini Nano Banana 3.0 Pro Unleashed](https://awesomeprompts.xyz/images/portraits/pg-1992578650978361392.jpg)
+![Glamour and Edge: The Gemini Nano Banana 3.0 Pro Unleashed](https://awesomeprompts.xyz/images/portraits/pg-1992578650978361392.webp)
 
 ---
 
@@ -25997,7 +25997,7 @@ Bold, glittering elegance comes alive as she leans confidently against a white p
 
 ## Example Output
 
-![Glamour Defined: A Night in All Black](https://awesomeprompts.xyz/images/portraits/pg-1993536883121701059.jpg)
+![Glamour Defined: A Night in All Black](https://awesomeprompts.xyz/images/portraits/pg-1993536883121701059.webp)
 
 ---
 
@@ -26074,7 +26074,7 @@ In a cozy, warmly lit room, a young woman radiates confidence, her messy updo fr
 
 ## Example Output
 
-![Glamour in the Shadows: A Stylish Portrait](https://awesomeprompts.xyz/images/portraits/pg-1995924969503817806.jpg)
+![Glamour in the Shadows: A Stylish Portrait](https://awesomeprompts.xyz/images/portraits/pg-1995924969503817806.webp)
 
 ---
 
@@ -26153,7 +26153,7 @@ Elegantly poised, she embodies sophistication in a black polka-dotted bodysuit. 
 
 ## Example Output
 
-![Glamour Meets Elegance: A Chic Fashion Moment](https://awesomeprompts.xyz/images/portraits/pg-1996124480674906322.jpg)
+![Glamour Meets Elegance: A Chic Fashion Moment](https://awesomeprompts.xyz/images/portraits/pg-1996124480674906322.webp)
 
 ---
 
@@ -26196,7 +26196,7 @@ In the opulent backseat of luxury, a confident woman captivates with elegance an
 
 ## Example Output
 
-![Glamour Meets Innovation: The Nightlife of Gemini Nano Banana 3.0](https://awesomeprompts.xyz/images/portraits/pg-1994832670300274968.jpg)
+![Glamour Meets Innovation: The Nightlife of Gemini Nano Banana 3.0](https://awesomeprompts.xyz/images/portraits/pg-1994832670300274968.webp)
 
 ---
 
@@ -26227,7 +26227,7 @@ Elegance radiates as she captures the moment in a sleek black slip dress. The wa
 
 ## Example Output
 
-![Glamour Meets Minimalism: A Striking Portrait](https://awesomeprompts.xyz/images/portraits/pg-1994521805076451818.jpg)
+![Glamour Meets Minimalism: A Striking Portrait](https://awesomeprompts.xyz/images/portraits/pg-1994521805076451818.webp)
 
 ---
 
@@ -26335,7 +26335,7 @@ A whimsical scene unfolds as a red-haired beauty lounges atop a fluffy pink pool
 
 ## Example Output
 
-![Glamour Meets Play: A Surreal Billiard Fantasy](https://awesomeprompts.xyz/images/portraits/pg-1995613211287031935.jpg)
+![Glamour Meets Play: A Surreal Billiard Fantasy](https://awesomeprompts.xyz/images/portraits/pg-1995613211287031935.webp)
 
 ---
 
@@ -26360,7 +26360,7 @@ In a realm of sophistication, this Asian couple radiates elegance. Their intimat
 
 ## Example Output
 
-![Glamour Unveiled: A Night in the Lounge](https://awesomeprompts.xyz/images/portraits/pg-1994838825059885469.jpg)
+![Glamour Unveiled: A Night in the Lounge](https://awesomeprompts.xyz/images/portraits/pg-1994838825059885469.webp)
 
 ---
 
@@ -26403,7 +26403,7 @@ Bold and chic, this portrait showcases striking silver waves against a dramatic 
 
 ## Example Output
 
-![Glimmer of Style: Silver Waves in Studio Light](https://awesomeprompts.xyz/images/portraits/pg-1996595816740598146.jpg)
+![Glimmer of Style: Silver Waves in Studio Light](https://awesomeprompts.xyz/images/portraits/pg-1996595816740598146.webp)
 
 ---
 
@@ -26453,7 +26453,7 @@ Bathed in golden light, a poised woman stands in a stunning cruise atrium, her c
 
 ## Example Output
 
-![Glimmers of Luxury: A Sunset Portrait on the High Seas](https://awesomeprompts.xyz/images/portraits/pg-1992780207036760078.jpg)
+![Glimmers of Luxury: A Sunset Portrait on the High Seas](https://awesomeprompts.xyz/images/portraits/pg-1992780207036760078.webp)
 
 ---
 
@@ -26491,7 +26491,7 @@ A high-resolution 8K full-length portrait of an attractive man [reference face i
 
 ## Example Output
 
-![Glimmers of Reflection: A Moment by the Sea](https://awesomeprompts.xyz/images/portraits/pg-1991493635137831348.jpg)
+![Glimmers of Reflection: A Moment by the Sea](https://awesomeprompts.xyz/images/portraits/pg-1991493635137831348.webp)
 
 ---
 
@@ -26558,7 +26558,7 @@ Caught in a moment of grace, this striking portrait showcases a fashion-forward 
 
 ## Example Output
 
-![Glimpse of Elegance in Burgundy](https://awesomeprompts.xyz/images/portraits/pg-1994309754425139500.jpg)
+![Glimpse of Elegance in Burgundy](https://awesomeprompts.xyz/images/portraits/pg-1994309754425139500.webp)
 
 ---
 
@@ -26578,7 +26578,7 @@ xtreme wet close-up portrait. Young woman's face in profile (use uploaded pictur
 
 ## Example Output
 
-![Glistening Elegance: A Portrait of Intensity](https://awesomeprompts.xyz/images/portraits/pg-1995350599068704769.jpg)
+![Glistening Elegance: A Portrait of Intensity](https://awesomeprompts.xyz/images/portraits/pg-1995350599068704769.webp)
 
 ---
 
@@ -26602,7 +26602,7 @@ Stunning light dances through fog as a young woman stands poised at a vintage tr
 
 ## Example Output
 
-![Golden Dawn: A Commuter's Silent Soliloquy](https://awesomeprompts.xyz/images/portraits/pg-1996943841249972624.jpg)
+![Golden Dawn: A Commuter's Silent Soliloquy](https://awesomeprompts.xyz/images/portraits/pg-1996943841249972624.webp)
 
 ---
 
@@ -26629,7 +26629,7 @@ Highlighting a striking fusion of light and shadow, this portrait captures a mod
 
 ## Example Output
 
-![Golden Glow Meets Cool Green: A Portrait of Contemplation](https://awesomeprompts.xyz/images/portraits/pg-1996575077132017665.jpg)
+![Golden Glow Meets Cool Green: A Portrait of Contemplation](https://awesomeprompts.xyz/images/portraits/pg-1996575077132017665.webp)
 
 ---
 
@@ -26653,7 +26653,7 @@ A captivating moment caught in sunlight! Her wavy hair dances in the warm glow a
 
 ## Example Output
 
-![Golden Glows and Warm Shadows](https://awesomeprompts.xyz/images/portraits/pg-1996609242338669004.jpg)
+![Golden Glows and Warm Shadows](https://awesomeprompts.xyz/images/portraits/pg-1996609242338669004.webp)
 
 ---
 
@@ -26682,7 +26682,7 @@ Her skin glows naturally under the warm sunlight, with realistic soft shadows em
 
 ## Example Output
 
-![Golden Hour Bliss Amid Cotton Dreams](https://awesomeprompts.xyz/images/portraits/pg-1991773233784189316.jpg)
+![Golden Hour Bliss Amid Cotton Dreams](https://awesomeprompts.xyz/images/portraits/pg-1991773233784189316.webp)
 
 ---
 
@@ -26714,7 +26714,7 @@ Basking in the sunset glow, a serene woman captures beachside tranquility. Her d
 
 ## Example Output
 
-![Golden Hour Bliss: Crochet Elegance by the Shore](https://awesomeprompts.xyz/images/portraits/pg-1994478187133432308.jpg)
+![Golden Hour Bliss: Crochet Elegance by the Shore](https://awesomeprompts.xyz/images/portraits/pg-1994478187133432308.webp)
 
 ---
 
@@ -26739,7 +26739,7 @@ A striking moment unfolds as a young woman leans from a classic cream car, cigar
 
 ## Example Output
 
-![Golden Hour Charm: A Vintage Escape](https://awesomeprompts.xyz/images/portraits/pg-1994144048198893714.jpg)
+![Golden Hour Charm: A Vintage Escape](https://awesomeprompts.xyz/images/portraits/pg-1994144048198893714.webp)
 
 ---
 
@@ -26760,7 +26760,7 @@ Signature: Shreya Yadav
 
 ## Example Output
 
-![Golden Hour Elegance: A Portrait in Nature's Embrace](https://awesomeprompts.xyz/images/portraits/pg-1995769863466324237.jpg)
+![Golden Hour Elegance: A Portrait in Nature's Embrace](https://awesomeprompts.xyz/images/portraits/pg-1995769863466324237.webp)
 
 ---
 
@@ -26780,7 +26780,7 @@ Golden hour portrait with tree shadows cast on wall. Subject in white blouse, wa
 
 ## Example Output
 
-![Golden Hour Elegance: A Portrait in Nature's Embrace](https://awesomeprompts.xyz/images/portraits/pg-1991735212615823387.jpg)
+![Golden Hour Elegance: A Portrait in Nature's Embrace](https://awesomeprompts.xyz/images/portraits/pg-1991735212615823387.webp)
 
 ---
 
@@ -26800,7 +26800,7 @@ A romantic couple enjoys a scenic coastal drive on a vintage scooter during suns
 
 ## Example Output
 
-![Golden Hour Escapade on a Scooter](https://awesomeprompts.xyz/images/portraits/pg-1995004639402758397.jpg)
+![Golden Hour Escapade on a Scooter](https://awesomeprompts.xyz/images/portraits/pg-1995004639402758397.webp)
 
 ---
 
@@ -26902,7 +26902,7 @@ Under a cinematic glow, a calm gaze meets the urban skyline. The soft wind dance
 
 ## Example Output
 
-![Golden Hour Glam: A Cinematic Rooftop Moment](https://awesomeprompts.xyz/images/portraits/pg-1996924788590485903.jpg)
+![Golden Hour Glam: A Cinematic Rooftop Moment](https://awesomeprompts.xyz/images/portraits/pg-1996924788590485903.webp)
 
 ---
 
@@ -26961,7 +26961,7 @@ Stunningly lifelike, this portrait captures every detail of wet skin and lush te
 
 ## Example Output
 
-![Golden Hour Glam: A Close-Up of Radiant Realism](https://awesomeprompts.xyz/images/portraits/pg-1993567852704436465.jpg)
+![Golden Hour Glam: A Close-Up of Radiant Realism](https://awesomeprompts.xyz/images/portraits/pg-1993567852704436465.webp)
 
 ---
 
@@ -27020,7 +27020,7 @@ Bathe in the ethereal glow of golden hour as water droplets dance on skin. This 
 
 ## Example Output
 
-![Golden Hour Glam: A Hyper-Realistic Portrait of Beauty](https://awesomeprompts.xyz/images/portraits/pg-1993288440532611172.jpg)
+![Golden Hour Glam: A Hyper-Realistic Portrait of Beauty](https://awesomeprompts.xyz/images/portraits/pg-1993288440532611172.webp)
 
 ---
 
@@ -27040,7 +27040,7 @@ A hyper-realistic close-up portrait of a woman with wet hair clinging to her fac
 
 ## Example Output
 
-![Golden Hour Glam: A Portrait of Raw Rebellion](https://awesomeprompts.xyz/images/portraits/pg-1995776481239466333.jpg)
+![Golden Hour Glam: A Portrait of Raw Rebellion](https://awesomeprompts.xyz/images/portraits/pg-1995776481239466333.webp)
 
 ---
 
@@ -27072,7 +27072,7 @@ A captivating moment unfolds as warm light dances through a bathroom, enveloping
 
 ## Example Output
 
-![Golden Hour Glam: A Silhouette in the Steam](https://awesomeprompts.xyz/images/portraits/pg-1995363407525302329.jpg)
+![Golden Hour Glam: A Silhouette in the Steam](https://awesomeprompts.xyz/images/portraits/pg-1995363407525302329.webp)
 
 ---
 
@@ -27092,7 +27092,7 @@ A cinematic sunset street scene featuring a woman seated in a vintage convertibl
 
 ## Example Output
 
-![Golden Hour Glamour on Cobblestone Streets](https://awesomeprompts.xyz/images/portraits/pg-1996570588148810137.jpg)
+![Golden Hour Glamour on Cobblestone Streets](https://awesomeprompts.xyz/images/portraits/pg-1996570588148810137.webp)
 
 ---
 
@@ -27133,7 +27133,7 @@ Sun-kissed and ethereal, her luminous glow radiates warmth, with gentle shadows 
 
 ## Example Output
 
-![Golden Moments: A Portrait of Radiant Beauty](https://awesomeprompts.xyz/images/portraits/pg-1995078053165146326.jpg)
+![Golden Moments: A Portrait of Radiant Beauty](https://awesomeprompts.xyz/images/portraits/pg-1995078053165146326.webp)
 
 ---
 
@@ -27153,7 +27153,7 @@ Add illustrated googly eyes and stick hands on the (object/animal/ your bff) in 
 
 ## Example Output
 
-![Goofy Creations: Unleash Your Inner Artist!](https://awesomeprompts.xyz/images/portraits/pg-1993654188723851585.jpg)
+![Goofy Creations: Unleash Your Inner Artist!](https://awesomeprompts.xyz/images/portraits/pg-1993654188723851585.webp)
 
 ---
 
@@ -27173,7 +27173,7 @@ A rugged, intense close-up portrait of a middle-aged man with a textured beard a
 
 ## Example Output
 
-![Grit and Gaze: The Soul of a Man in Shadows](https://awesomeprompts.xyz/images/portraits/pg-1994327648370397283.jpg)
+![Grit and Gaze: The Soul of a Man in Shadows](https://awesomeprompts.xyz/images/portraits/pg-1994327648370397283.webp)
 
 ---
 
@@ -27193,7 +27193,7 @@ A portrait of a young woman in a gym, maintaining the features and face from the
 
 ## Example Output
 
-![Gym Goddess Unleashed: Power and Passion in Motion](https://awesomeprompts.xyz/images/portraits/pg-1996064736774160580.jpg)
+![Gym Goddess Unleashed: Power and Passion in Motion](https://awesomeprompts.xyz/images/portraits/pg-1996064736774160580.webp)
 
 ---
 
@@ -27256,7 +27256,7 @@ Bold and confident, this young man flaunts nine striking hairstyles against a st
 
 ## Example Output
 
-![Hair Game Strong: A Stylish Showcase](https://awesomeprompts.xyz/images/portraits/pg-1996039242280325171.jpg)
+![Hair Game Strong: A Stylish Showcase](https://awesomeprompts.xyz/images/portraits/pg-1996039242280325171.webp)
 
 ---
 
@@ -27311,7 +27311,7 @@ A striking portrayal of light and shadow unfolds as a woman leans towards a glow
 
 ## Example Output
 
-![Illuminated Elegance: A Modern Noir Portrait](https://awesomeprompts.xyz/images/portraits/pg-1991571952318964212.jpg)
+![Illuminated Elegance: A Modern Noir Portrait](https://awesomeprompts.xyz/images/portraits/pg-1991571952318964212.webp)
 
 ---
 
@@ -27378,7 +27378,7 @@ Behold the captivating allure of this rugged man, his piercing green eyes locked
 
 ## Example Output
 
-![Intense Gaze: A Portrait of Rugged Charm](https://awesomeprompts.xyz/images/portraits/pg-1993000208792494327.jpg)
+![Intense Gaze: A Portrait of Rugged Charm](https://awesomeprompts.xyz/images/portraits/pg-1993000208792494327.webp)
 
 ---
 
@@ -27438,7 +27438,7 @@ A striking image captures a young woman exuding confidence on a modern chair, he
 
 ## Example Output
 
-![Introducing the Google Gemini Nano Banana 3!](https://awesomeprompts.xyz/images/portraits/pg-1991782300305223712.jpg)
+![Introducing the Google Gemini Nano Banana 3!](https://awesomeprompts.xyz/images/portraits/pg-1991782300305223712.webp)
 
 ---
 
@@ -27503,7 +27503,7 @@ Against a backdrop of luxury cabin interiors, a flight attendant exudes sophisti
 
 ## Example Output
 
-![Jet-Set Elegance: A Flight Attendant's Smile in the Sky](https://awesomeprompts.xyz/images/portraits/pg-1996542045217861748.jpg)
+![Jet-Set Elegance: A Flight Attendant's Smile in the Sky](https://awesomeprompts.xyz/images/portraits/pg-1996542045217861748.webp)
 
 ---
 
@@ -27558,7 +27558,7 @@ In a dimly lit dojo, a fierce warrior embodies strength. Her glowing katana illu
 
 ## Example Output
 
-![Katana's Glow: A Samurai's Fiery Resolve](https://awesomeprompts.xyz/images/portraits/pg-1995553234593919284.jpg)
+![Katana's Glow: A Samurai's Fiery Resolve](https://awesomeprompts.xyz/images/portraits/pg-1995553234593919284.webp)
 
 ---
 
@@ -27580,7 +27580,7 @@ A low-light digital picture captures a group of friends laughing around a bonfir
 
 ## Example Output
 
-![Laughter and Flames: A Night by the Ocean](https://awesomeprompts.xyz/images/portraits/pg-1993897951983489134.jpg)
+![Laughter and Flames: A Night by the Ocean](https://awesomeprompts.xyz/images/portraits/pg-1993897951983489134.webp)
 
 ---
 
@@ -27622,7 +27622,7 @@ Signature: Shreya Yadav
 
 ## Example Output
 
-![Layers of Love in a Timeless Family Portrait](https://awesomeprompts.xyz/images/portraits/pg-1996557770922107304.jpg)
+![Layers of Love in a Timeless Family Portrait](https://awesomeprompts.xyz/images/portraits/pg-1996557770922107304.webp)
 
 ---
 
@@ -27644,7 +27644,7 @@ A slightly pixelated digital photo captures a young couple in hoodies embracing 
 
 ## Example Output
 
-![Love Shines at Santa Monica Pier's Golden Hour](https://awesomeprompts.xyz/images/portraits/pg-1993897948909064528.jpg)
+![Love Shines at Santa Monica Pier's Golden Hour](https://awesomeprompts.xyz/images/portraits/pg-1993897948909064528.webp)
 
 ---
 
@@ -27674,7 +27674,7 @@ The overall mood of the photo is intimate, soft, and peaceful, with a strong foc
 
 ## Example Output
 
-![Luminous Beauty: A Glimpse of Radiance](https://awesomeprompts.xyz/images/portraits/pg-1995876314746913060.jpg)
+![Luminous Beauty: A Glimpse of Radiance](https://awesomeprompts.xyz/images/portraits/pg-1995876314746913060.webp)
 
 ---
 
@@ -27765,7 +27765,7 @@ A radiant woman leans back on a striking red Ferrari, exuding confidence. Her se
 
 ## Example Output
 
-![Luxury Meets Confidence in a Stunning Portrait](https://awesomeprompts.xyz/images/portraits/pg-1996051773677781129.jpg)
+![Luxury Meets Confidence in a Stunning Portrait](https://awesomeprompts.xyz/images/portraits/pg-1996051773677781129.webp)
 
 ---
 
@@ -27785,7 +27785,7 @@ Raw wide-angle engineering camera footage from the Mars surface. Extreme fisheye
 
 ## Example Output
 
-![Mars Through a Dusty Lens: Elon Musk's Rover Encounter](https://awesomeprompts.xyz/images/portraits/pg-1992654421466169648.jpg)
+![Mars Through a Dusty Lens: Elon Musk's Rover Encounter](https://awesomeprompts.xyz/images/portraits/pg-1992654421466169648.webp)
 
 ---
 
@@ -27805,7 +27805,7 @@ A young man with dark hair (keep the exact face and skin tone with sharp feature
 
 ## Example Output
 
-![Master of Chance: Card Magic in Motion](https://awesomeprompts.xyz/images/portraits/pg-1995331396504867012.jpg)
+![Master of Chance: Card Magic in Motion](https://awesomeprompts.xyz/images/portraits/pg-1995331396504867012.webp)
 
 ---
 
@@ -27866,7 +27866,7 @@ Bask in the sun as waves crash below! A young woman lounges in a floral mini dre
 
 ## Example Output
 
-![Mermaid Vibes on the Cliffside](https://awesomeprompts.xyz/images/portraits/pg-1993865254217142442.jpg)
+![Mermaid Vibes on the Cliffside](https://awesomeprompts.xyz/images/portraits/pg-1993865254217142442.webp)
 
 ---
 
@@ -27925,7 +27925,7 @@ What a striking duel of chaos and beauty! A pop idol strikes a flawless pose ami
 
 ## Example Output
 
-![Messy Glam: The Perfect Selfie Contrast](https://awesomeprompts.xyz/images/portraits/pg-1994521043818746342.jpg)
+![Messy Glam: The Perfect Selfie Contrast](https://awesomeprompts.xyz/images/portraits/pg-1994521043818746342.webp)
 
 ---
 
@@ -27966,7 +27966,7 @@ She is wearing a white cropped athletic tank top with a small colorful universit
 
 ## Example Output
 
-![Miami Convertible Selfie](https://awesomeprompts.xyz/images/portraits/miami-convertible-selfie.jpg)
+![Miami Convertible Selfie](https://awesomeprompts.xyz/images/portraits/miami-convertible-selfie.webp)
 
 ---
 
@@ -28020,7 +28020,7 @@ An electrifying moment unfolds as Mike Tyson erupts with raw power, surrounded b
 
 ## Example Output
 
-![Mike Tyson's Raw Energy Captured in Urban Chaos](https://awesomeprompts.xyz/images/portraits/pg-1995459113157840947.jpg)
+![Mike Tyson's Raw Energy Captured in Urban Chaos](https://awesomeprompts.xyz/images/portraits/pg-1995459113157840947.webp)
 
 ---
 
@@ -28040,7 +28040,7 @@ A young woman with long, dark wavy hair and red lipstick is taking a selfie in f
 
 ## Example Output
 
-![Mirror Magic: Capturing Glamour and Personality](https://awesomeprompts.xyz/images/portraits/pg-1996235778351829067.jpg)
+![Mirror Magic: Capturing Glamour and Personality](https://awesomeprompts.xyz/images/portraits/pg-1996235778351829067.webp)
 
 ---
 
@@ -28072,7 +28072,7 @@ In a chic bathroom, a young woman captures her essence with a striking mirror se
 
 ## Example Output
 
-![Mirror Reflections: A Modern Bathroom Moment](https://awesomeprompts.xyz/images/portraits/pg-1995133294329868632.jpg)
+![Mirror Reflections: A Modern Bathroom Moment](https://awesomeprompts.xyz/images/portraits/pg-1995133294329868632.webp)
 
 ---
 
@@ -28164,7 +28164,7 @@ A sleek indoor oasis sets the stage for a stylish moment. Captured in a minimali
 
 ## Example Output
 
-![Mirror Vibes: Casual Chic with a Touch of Elegance](https://awesomeprompts.xyz/images/portraits/pg-1995814080700187060.jpg)
+![Mirror Vibes: Casual Chic with a Touch of Elegance](https://awesomeprompts.xyz/images/portraits/pg-1995814080700187060.webp)
 
 ---
 
@@ -28218,7 +28218,7 @@ Imagine a world painted in black and white, where a young woman's intense eyes s
 
 ## Example Output
 
-![Monochrome Elegance: The Power of a Gaze](https://awesomeprompts.xyz/images/portraits/pg-1991765428985876879.jpg)
+![Monochrome Elegance: The Power of a Gaze](https://awesomeprompts.xyz/images/portraits/pg-1991765428985876879.webp)
 
 ---
 
@@ -28238,7 +28238,7 @@ Soft-lit but dark 90s portrait, Dutch angle, a 23-year-old woman standing under 
 
 ## Example Output
 
-![Moody Forest Portrait: 90s Vibes Meet Nature's Enigma](https://awesomeprompts.xyz/images/portraits/pg-1994364083689402465.jpg)
+![Moody Forest Portrait: 90s Vibes Meet Nature's Enigma](https://awesomeprompts.xyz/images/portraits/pg-1994364083689402465.webp)
 
 ---
 
@@ -28258,7 +28258,7 @@ A stylish young woman standing against a plain solid wall, dressed in a tailored
 
 ## Example Output
 
-![Moody Glamour: A Retro Fashion Moment](https://awesomeprompts.xyz/images/portraits/pg-1994964161332216069.jpg)
+![Moody Glamour: A Retro Fashion Moment](https://awesomeprompts.xyz/images/portraits/pg-1994964161332216069.webp)
 
 ---
 
@@ -28282,7 +28282,7 @@ The photo has a soft white-pink cast, bright skin tones, slight grain, sharp ski
 
 ## Example Output
 
-![Moonlit Elegance: A Night by the Pool](https://awesomeprompts.xyz/images/portraits/pg-1993745191417807209.jpg)
+![Moonlit Elegance: A Night by the Pool](https://awesomeprompts.xyz/images/portraits/pg-1993745191417807209.webp)
 
 ---
 
@@ -28302,7 +28302,7 @@ a woman sitting gracefully on a moonlit beach, wearing a flowing green off-the-s
 
 ## Example Output
 
-![Moonlit Elegance: A Serene Night by the Sea](https://awesomeprompts.xyz/images/portraits/pg-1994408668964819000.jpg)
+![Moonlit Elegance: A Serene Night by the Sea](https://awesomeprompts.xyz/images/portraits/pg-1994408668964819000.webp)
 
 ---
 
@@ -28329,7 +28329,7 @@ A perfect blend of warmth, calmness, and morning delight.
 
 ## Example Output
 
-![Morning Bliss: A Cozy Coffee Moment](https://awesomeprompts.xyz/images/portraits/pg-1997133794986340673.jpg)
+![Morning Bliss: A Cozy Coffee Moment](https://awesomeprompts.xyz/images/portraits/pg-1997133794986340673.webp)
 
 ---
 
@@ -28349,7 +28349,7 @@ Create a photorealistic image of a young woman sitting at a relaxed outdoor rest
 
 ## Example Output
 
-![Morning Serenity: A Tale of Two Visions](https://awesomeprompts.xyz/images/portraits/pg-1996230085645623770.jpg)
+![Morning Serenity: A Tale of Two Visions](https://awesomeprompts.xyz/images/portraits/pg-1996230085645623770.webp)
 
 ---
 
@@ -28409,7 +28409,7 @@ A striking black and white portrait captures a man lost in thought, his tousled 
 
 ## Example Output
 
-![Mystique Unveiled: The Power of Shadows](https://awesomeprompts.xyz/images/portraits/pg-1991741023513366708.jpg)
+![Mystique Unveiled: The Power of Shadows](https://awesomeprompts.xyz/images/portraits/pg-1991741023513366708.webp)
 
 ---
 
@@ -28429,7 +28429,7 @@ Black and white portrait of an elderly bearded man, full face, deep set eyes, fi
 
 ## Example Output
 
-![Nano Banana Pro Takes a Quantum Leap!](https://awesomeprompts.xyz/images/portraits/pg-1991514076829176146.jpg)
+![Nano Banana Pro Takes a Quantum Leap!](https://awesomeprompts.xyz/images/portraits/pg-1991514076829176146.webp)
 
 ---
 
@@ -28538,7 +28538,7 @@ A soul captured amidst the whispers of the forest, where soft textures of a knit
 
 ## Example Output
 
-![Nature's Embrace: A Portrait of Serenity](https://awesomeprompts.xyz/images/portraits/pg-1997241897262211243.jpg)
+![Nature's Embrace: A Portrait of Serenity](https://awesomeprompts.xyz/images/portraits/pg-1997241897262211243.webp)
 
 ---
 
@@ -28649,7 +28649,7 @@ A stunning young woman with windswept curls radiates confidence against a majest
 
 ## Example Output
 
-![Nature's Muse: The Enchanting Vibe of a Waterfall Portrait](https://awesomeprompts.xyz/images/portraits/pg-1995763701614301295.jpg)
+![Nature's Muse: The Enchanting Vibe of a Waterfall Portrait](https://awesomeprompts.xyz/images/portraits/pg-1995763701614301295.webp)
 
 ---
 
@@ -28676,7 +28676,7 @@ Signature: Shreya Yadav
 
 ## Example Output
 
-![Nature’s Whisper: A Cinematic Reflection](https://awesomeprompts.xyz/images/portraits/pg-1991533743367156082.jpg)
+![Nature’s Whisper: A Cinematic Reflection](https://awesomeprompts.xyz/images/portraits/pg-1991533743367156082.webp)
 
 ---
 
@@ -28696,7 +28696,7 @@ A woman walking through a rainy street at night, neon signs reflecting off puddl
 
 ## Example Output
 
-![Neon Dreams Under Rainy Skies](https://awesomeprompts.xyz/images/portraits/pg-1996153241307119822.jpg)
+![Neon Dreams Under Rainy Skies](https://awesomeprompts.xyz/images/portraits/pg-1996153241307119822.webp)
 
 ---
 
@@ -28763,7 +28763,7 @@ Amidst a dark urban blur, a hyper-realistic portrait emerges, capturing an ether
 
 ## Example Output
 
-![Neon Dreams: A Cyberpunk Portrait Unveiled](https://awesomeprompts.xyz/images/portraits/pg-1995415261743034471.jpg)
+![Neon Dreams: A Cyberpunk Portrait Unveiled](https://awesomeprompts.xyz/images/portraits/pg-1995415261743034471.webp)
 
 ---
 
@@ -28832,7 +28832,7 @@ Beneath the glowing neon lights, a woman gazes dreamily into the mystery of the 
 
 ## Example Output
 
-![Neon Dreams: A Night in the City](https://awesomeprompts.xyz/images/portraits/pg-1992052672606921113.jpg)
+![Neon Dreams: A Night in the City](https://awesomeprompts.xyz/images/portraits/pg-1992052672606921113.webp)
 
 ---
 
@@ -28852,7 +28852,7 @@ Create a bold, cinematic portrait 8K ultra HD high details resolution of a confi
 
 ## Example Output
 
-![Neon Dreams: The Cyberpunk Visionary](https://awesomeprompts.xyz/images/portraits/pg-1996931602744566134.jpg)
+![Neon Dreams: The Cyberpunk Visionary](https://awesomeprompts.xyz/images/portraits/pg-1996931602744566134.webp)
 
 ---
 
@@ -28874,7 +28874,7 @@ Cinematic nightlife atmosphere, ultra-sharp details, glossy highlights on skin, 
 
 ## Example Output
 
-![Neon Nights: Dancing Under Electric Skies](https://awesomeprompts.xyz/images/portraits/pg-1994336540940779613.jpg)
+![Neon Nights: Dancing Under Electric Skies](https://awesomeprompts.xyz/images/portraits/pg-1994336540940779613.webp)
 
 ---
 
@@ -28894,7 +28894,7 @@ A hardened man in his late 40s, rain dripping from his stubbled jaw, stands bene
 
 ## Example Output
 
-![Neon Shadows: The Face of Urban Grit](https://awesomeprompts.xyz/images/portraits/pg-1995474483935899848.jpg)
+![Neon Shadows: The Face of Urban Grit](https://awesomeprompts.xyz/images/portraits/pg-1995474483935899848.webp)
 
 ---
 
@@ -28966,7 +28966,7 @@ A dazzling scene unfolds at a gas station, where a sleek black Porsche GT3 RS re
 
 ## Example Output
 
-![Night Vibes: Porsche GT3 RS Meets Urban Glam](https://awesomeprompts.xyz/images/portraits/pg-1994081201993511162.jpg)
+![Night Vibes: Porsche GT3 RS Meets Urban Glam](https://awesomeprompts.xyz/images/portraits/pg-1994081201993511162.webp)
 
 ---
 
@@ -29014,7 +29014,7 @@ A man strides through the shadows of an airport runway, smoke curling from his l
 
 ## Example Output
 
-![Nightfall Inferno: A Gritty Airport Encounter](https://awesomeprompts.xyz/images/portraits/pg-1992619822396678367.jpg)
+![Nightfall Inferno: A Gritty Airport Encounter](https://awesomeprompts.xyz/images/portraits/pg-1992619822396678367.webp)
 
 ---
 
@@ -29035,7 +29035,7 @@ A visual explosion in the middle of a fast-moving street. Frozen faces, sweeping
 
 ## Example Output
 
-![Noir Nights: The Art of Movement and Chaos](https://awesomeprompts.xyz/images/portraits/pg-1994424983477715007.jpg)
+![Noir Nights: The Art of Movement and Chaos](https://awesomeprompts.xyz/images/portraits/pg-1994424983477715007.webp)
 
 ---
 
@@ -29078,7 +29078,7 @@ Capture the essence of the early 2000s with a playful mirror selfie! Long waves,
 
 ## Example Output
 
-![Nostalgia in a Snap: 2000s Mirror Selfie Vibes](https://awesomeprompts.xyz/images/portraits/pg-1991681614368436468.jpg)
+![Nostalgia in a Snap: 2000s Mirror Selfie Vibes](https://awesomeprompts.xyz/images/portraits/pg-1991681614368436468.webp)
 
 ---
 
@@ -29109,7 +29109,7 @@ Color grading: nostalgic digital-camera tones, high contrast flash, subtle displ
 
 ## Example Output
 
-![Nostalgic Glimpses: A Digital Flashback](https://awesomeprompts.xyz/images/portraits/pg-1996033217795903655.jpg)
+![Nostalgic Glimpses: A Digital Flashback](https://awesomeprompts.xyz/images/portraits/pg-1996033217795903655.webp)
 
 ---
 
@@ -29129,7 +29129,7 @@ Japanese photo collage, young woman in cozy living room, morning sunlight, shoji
 
 ## Example Output
 
-![Nostalgic Mornings: A Cozy Japanese Haven](https://awesomeprompts.xyz/images/portraits/pg-1992881418939277708.jpg)
+![Nostalgic Mornings: A Cozy Japanese Haven](https://awesomeprompts.xyz/images/portraits/pg-1992881418939277708.webp)
 
 ---
 
@@ -29204,7 +29204,7 @@ Captured chaos! A retro Canon reveals a lively group selfie, bursting with laugh
 
 ## Example Output
 
-![Nostalgic Vibes: A Nano Banana Moment 🍌](https://awesomeprompts.xyz/images/portraits/pg-1996837849916649847.jpg)
+![Nostalgic Vibes: A Nano Banana Moment 🍌](https://awesomeprompts.xyz/images/portraits/pg-1996837849916649847.webp)
 
 ---
 
@@ -29469,7 +29469,7 @@ Look up to see joy personified! A vibrant young woman squats over her skateboard
 
 ## Example Output
 
-![Playful Perspectives: A Skateboarder's Top-Down Smile](https://awesomeprompts.xyz/images/portraits/pg-1994454718127755497.jpg)
+![Playful Perspectives: A Skateboarder's Top-Down Smile](https://awesomeprompts.xyz/images/portraits/pg-1994454718127755497.webp)
 
 ---
 
@@ -29489,7 +29489,7 @@ Edit this photo without changing the face turning it into an artistic portrait T
 
 ## Example Output
 
-![Portrait of Joy: A Modern Elegance in Monochrome](https://awesomeprompts.xyz/images/portraits/pg-1993274745169887713.jpg)
+![Portrait of Joy: A Modern Elegance in Monochrome](https://awesomeprompts.xyz/images/portraits/pg-1993274745169887713.webp)
 
 ---
 
@@ -29566,7 +29566,7 @@ Identify the main product in the uploaded photo (automatically removing any hand
 - [Original](https://mp.weixin.qq.com/s/lrYNbs4rGs3KOqewoZ6aNQ)
 
 ## Example Output
-![Professional Product Photography](https://awesomeprompts.xyz/images/portraits/nb-professional-product-photography.png)
+![Professional Product Photography](https://awesomeprompts.xyz/images/portraits/nb-professional-product-photography.webp)
 
 ---
 
@@ -29586,7 +29586,7 @@ A young girl with long, wavy brown hair, wearing a teal hooded sweatshirt, holds
 
 ## Example Output
 
-![Puppy Cuddles in a Winter Wonderland](https://awesomeprompts.xyz/images/portraits/pg-1993230333895229727.jpg)
+![Puppy Cuddles in a Winter Wonderland](https://awesomeprompts.xyz/images/portraits/pg-1993230333895229727.webp)
 
 ---
 
@@ -29606,7 +29606,7 @@ A vertical selfie photograph of a young woman with tan skin and dark hair in a m
 
 ## Example Output
 
-![Puppy Love in a Sunlit Room](https://awesomeprompts.xyz/images/portraits/pg-1996999496169857409.jpg)
+![Puppy Love in a Sunlit Room](https://awesomeprompts.xyz/images/portraits/pg-1996999496169857409.webp)
 
 ---
 
@@ -29628,7 +29628,7 @@ Signature: Shreya Yadav
 
 ## Example Output
 
-![Radiance and Shadows: A Portrait of Enigmatic Beauty](https://awesomeprompts.xyz/images/portraits/pg-1995867321324503279.jpg)
+![Radiance and Shadows: A Portrait of Enigmatic Beauty](https://awesomeprompts.xyz/images/portraits/pg-1995867321324503279.webp)
 
 ---
 
@@ -29648,7 +29648,7 @@ A highly detailed 8k digital illustration of a person, presented as a close-up, 
 
 ## Example Output
 
-![Radiant Portrait: A Fusion of Light and Detail](https://awesomeprompts.xyz/images/portraits/pg-1993150717394325653.jpg)
+![Radiant Portrait: A Fusion of Light and Detail](https://awesomeprompts.xyz/images/portraits/pg-1993150717394325653.webp)
 
 ---
 
@@ -29748,7 +29748,7 @@ A teenage girl shines in a Y2K-inspired portrait, her dark waves cascading again
 
 ## Example Output
 
-![Radiant Reflections: A Y2K Portrait Experience](https://awesomeprompts.xyz/images/portraits/pg-1994823259846541545.jpg)
+![Radiant Reflections: A Y2K Portrait Experience](https://awesomeprompts.xyz/images/portraits/pg-1994823259846541545.webp)
 
 ---
 
@@ -29768,7 +29768,7 @@ A close-up, euphoric concert photograph taken from the front row captures a worl
 
 ## Example Output
 
-![Radiant Revelry: A Pop Star's Electrifying Moment](https://awesomeprompts.xyz/images/portraits/pg-1995348940170899818.jpg)
+![Radiant Revelry: A Pop Star's Electrifying Moment](https://awesomeprompts.xyz/images/portraits/pg-1995348940170899818.webp)
 
 ---
 
@@ -29790,7 +29790,7 @@ Her hair, highlighted subtly with shades of purple and brown, catches the sunlig
 
 ## Example Output
 
-![Radiant Serenity: A Rose Garden Dreamscape](https://awesomeprompts.xyz/images/portraits/pg-1992016327951974675.jpg)
+![Radiant Serenity: A Rose Garden Dreamscape](https://awesomeprompts.xyz/images/portraits/pg-1992016327951974675.webp)
 
 ---
 
@@ -29810,7 +29810,7 @@ Create an 8K photoreal portrait of a woman (face characteristics 100% same as up
 
 ## Example Output
 
-![Radiant Shadows: A Noir Portrait of Elegance](https://awesomeprompts.xyz/images/portraits/pg-1996781322505744895.jpg)
+![Radiant Shadows: A Noir Portrait of Elegance](https://awesomeprompts.xyz/images/portraits/pg-1996781322505744895.webp)
 
 ---
 
@@ -29830,7 +29830,7 @@ Create a portrait of a teenage girl with long, soft, wavy dark brown hair, with 
 
 ## Example Output
 
-![Radiant Youth: A Retro Vibe Portrait](https://awesomeprompts.xyz/images/portraits/pg-1994767240844161198.jpg)
+![Radiant Youth: A Retro Vibe Portrait](https://awesomeprompts.xyz/images/portraits/pg-1994767240844161198.webp)
 
 ---
 
@@ -29850,7 +29850,7 @@ Create a 9-panel cinematic storyboard set in a rainy, melancholic atmosphere. Sh
 
 ## Example Output
 
-![Raindrops and Heartstrings: A Cinematic Tale](https://awesomeprompts.xyz/images/portraits/pg-1996580659096387725.jpg)
+![Raindrops and Heartstrings: A Cinematic Tale](https://awesomeprompts.xyz/images/portraits/pg-1996580659096387725.webp)
 
 ---
 
@@ -29896,7 +29896,7 @@ In a captivating black-and-white portrait, a woman stands serenely in the rain, 
 
 ## Example Output
 
-![Raindrops and Reflections: A Portrait in Monochrome](https://awesomeprompts.xyz/images/portraits/pg-1991158321018265697.jpg)
+![Raindrops and Reflections: A Portrait in Monochrome](https://awesomeprompts.xyz/images/portraits/pg-1991158321018265697.webp)
 
 ---
 
@@ -29918,7 +29918,7 @@ A candid digital photo from 2006 shows a man with a beard and a striped shirt re
 
 ## Example Output
 
-![Rainy Day Reads: A Moment in Seattle's Coffee Culture](https://awesomeprompts.xyz/images/portraits/pg-1993897959533236340.jpg)
+![Rainy Day Reads: A Moment in Seattle's Coffee Culture](https://awesomeprompts.xyz/images/portraits/pg-1993897959533236340.webp)
 
 ---
 
@@ -29991,7 +29991,7 @@ Beneath the raindrops, a curious soul in red stands at a lonely bus stop, joined
 
 ## Example Output
 
-![Rainy Night Whimsy: Totoro at the Bus Stop](https://awesomeprompts.xyz/images/portraits/pg-1992864343709663397.jpg)
+![Rainy Night Whimsy: Totoro at the Bus Stop](https://awesomeprompts.xyz/images/portraits/pg-1992864343709663397.webp)
 
 ---
 
@@ -30056,7 +30056,7 @@ A striking portrait of a curvy androgynous biker, exuding confidence on her blac
 
 ## Example Output
 
-![Rebellious Elegance: The Androgynous Biker Vibe](https://awesomeprompts.xyz/images/portraits/pg-1994345499319492729.jpg)
+![Rebellious Elegance: The Androgynous Biker Vibe](https://awesomeprompts.xyz/images/portraits/pg-1994345499319492729.webp)
 
 ---
 
@@ -30106,7 +30106,7 @@ Say goodbye to traditional wedding photos! Imagine your love captured in stunnin
 
 ## Example Output
 
-![Redefining Romance: AI-Generated Wedding Wonders](https://awesomeprompts.xyz/images/portraits/pg-1995536025859354724.jpg)
+![Redefining Romance: AI-Generated Wedding Wonders](https://awesomeprompts.xyz/images/portraits/pg-1995536025859354724.webp)
 
 ---
 
@@ -30171,7 +30171,7 @@ A blend of casual chic and effortless charm, this young woman nails the mirror s
 
 ## Example Output
 
-![Reflections of Confidence: A Stylish AI Creation](https://awesomeprompts.xyz/images/portraits/pg-1996622274636706130.jpg)
+![Reflections of Confidence: A Stylish AI Creation](https://awesomeprompts.xyz/images/portraits/pg-1996622274636706130.webp)
 
 ---
 
@@ -30218,7 +30218,7 @@ Caught in a moment of contemplation, this young woman embodies sophistication. T
 
 ## Example Output
 
-![Reflections of Elegance: A Portrait in Monochrome](https://awesomeprompts.xyz/images/portraits/pg-1996206971947544984.jpg)
+![Reflections of Elegance: A Portrait in Monochrome](https://awesomeprompts.xyz/images/portraits/pg-1996206971947544984.webp)
 
 ---
 
@@ -30257,7 +30257,7 @@ A striking moment captured—a subject's reflection dances on an iPad, revealing
 
 ## Example Output
 
-![Reflections of Reality: A Hyperrealistic Portrait](https://awesomeprompts.xyz/images/portraits/pg-1997263124412686540.jpg)
+![Reflections of Reality: A Hyperrealistic Portrait](https://awesomeprompts.xyz/images/portraits/pg-1997263124412686540.webp)
 
 ---
 
@@ -30310,7 +30310,7 @@ Captured in stunning ultrarealism, this mirror selfie reveals a stylish young wo
 
 ## Example Output
 
-![Reflections of Style: A Mirror Selfie Masterpiece](https://awesomeprompts.xyz/images/portraits/pg-1995705447051837723.jpg)
+![Reflections of Style: A Mirror Selfie Masterpiece](https://awesomeprompts.xyz/images/portraits/pg-1995705447051837723.webp)
 
 ---
 
@@ -30336,7 +30336,7 @@ A photorealistic, highly detailed, cinematic portrait of an **ethereal young wom
 
 ## Example Output
 
-![Regal Allure: A Sunset Portrait of Elegance and Power](https://awesomeprompts.xyz/images/portraits/pg-1991797511192015254.jpg)
+![Regal Allure: A Sunset Portrait of Elegance and Power](https://awesomeprompts.xyz/images/portraits/pg-1991797511192015254.webp)
 
 ---
 
@@ -30444,7 +30444,7 @@ A stunning brunette radiates confidence in a vintage luxury car, wrapped in deep
 
 ## Example Output
 
-![Regal Vibes in a Retro Ride](https://awesomeprompts.xyz/images/portraits/pg-1993987493587513438.jpg)
+![Regal Vibes in a Retro Ride](https://awesomeprompts.xyz/images/portraits/pg-1993987493587513438.webp)
 
 ---
 
@@ -30469,7 +30469,7 @@ Why stick to convention? Explore how ditching 'manga' in prompts unveils richer 
 
 ## Example Output
 
-![Reimagining Manga: Break Free from Traditional Constraints!](https://awesomeprompts.xyz/images/portraits/pg-1991801500096446888.jpg)
+![Reimagining Manga: Break Free from Traditional Constraints!](https://awesomeprompts.xyz/images/portraits/pg-1991801500096446888.webp)
 
 ---
 
@@ -30490,7 +30490,7 @@ Cinematic high grain 90s portrait Dutch angle tilted shot, 23-year-old woman lea
 
 ## Example Output
 
-![Retro Reverie: A 90s Winter Portrait](https://awesomeprompts.xyz/images/portraits/pg-1994028996816982182.jpg)
+![Retro Reverie: A 90s Winter Portrait](https://awesomeprompts.xyz/images/portraits/pg-1994028996816982182.webp)
 
 ---
 
@@ -30565,7 +30565,7 @@ A curious blend of Y2K nostalgia and future tech! Meet the sleek avatar snapping
 
 ## Example Output
 
-![Retro Tech Meets Futuristic Vibes: The Banana Phone 2002 G-Edition](https://awesomeprompts.xyz/images/portraits/pg-1991993657474367920.jpg)
+![Retro Tech Meets Futuristic Vibes: The Banana Phone 2002 G-Edition](https://awesomeprompts.xyz/images/portraits/pg-1991993657474367920.webp)
 
 ---
 
@@ -30585,7 +30585,7 @@ A candid, spontaneous snapshot of a young woman leaning casually out of the wind
 
 ## Example Output
 
-![Retro Vibes in a Modern World: Capturing the Moment](https://awesomeprompts.xyz/images/portraits/pg-1996431568429277353.jpg)
+![Retro Vibes in a Modern World: Capturing the Moment](https://awesomeprompts.xyz/images/portraits/pg-1996431568429277353.webp)
 
 ---
 
@@ -30605,7 +30605,7 @@ A top-down perspective of a young man lying on a clean white floor, styled in a 
 
 ## Example Output
 
-![Retro Vibes: A 90s Dreamscape Unveiled](https://awesomeprompts.xyz/images/portraits/pg-1994040270468599989.jpg)
+![Retro Vibes: A 90s Dreamscape Unveiled](https://awesomeprompts.xyz/images/portraits/pg-1994040270468599989.webp)
 
 ---
 
@@ -30627,7 +30627,7 @@ The background features a white wall with a few magazine clippings and posters o
 
 ## Example Output
 
-![Retro Vibes: A 90s Portrait Revival](https://awesomeprompts.xyz/images/portraits/pg-1991522283354300702.jpg)
+![Retro Vibes: A 90s Portrait Revival](https://awesomeprompts.xyz/images/portraits/pg-1991522283354300702.webp)
 
 ---
 
@@ -30647,7 +30647,7 @@ Cinematic photograph of a stylish young blonde woman in a bikini, with a black p
 
 ## Example Output
 
-![Retro Vibes: A Chic Encounter with a Black Panther](https://awesomeprompts.xyz/images/portraits/pg-1991619717946306828.jpg)
+![Retro Vibes: A Chic Encounter with a Black Panther](https://awesomeprompts.xyz/images/portraits/pg-1991619717946306828.webp)
 
 ---
 
@@ -30667,7 +30667,7 @@ Restore and enhance this damaged photo to a hyper-realistic, ultra-detailed imag
 
 ## Example Output
 
-![Revitalize Your Memories with AI Magic](https://awesomeprompts.xyz/images/portraits/pg-1996643066657259683.jpg)
+![Revitalize Your Memories with AI Magic](https://awesomeprompts.xyz/images/portraits/pg-1996643066657259683.webp)
 
 ---
 
@@ -30687,7 +30687,7 @@ Act as an expert photo restorer and process this image of [INSERT DESCRIPTION OF
 
 ## Example Output
 
-![Reviving Memories: Old Photos in Stunning 4K Colors!](https://awesomeprompts.xyz/images/portraits/pg-1995315482896089114.jpg)
+![Reviving Memories: Old Photos in Stunning 4K Colors!](https://awesomeprompts.xyz/images/portraits/pg-1995315482896089114.webp)
 
 ---
 
@@ -30714,7 +30714,7 @@ Background optional, neutral or Tokyo street setting.
 
 ## Example Output
 
-![Revolutionize Your Wardrobe with Nano Banana Pro!](https://awesomeprompts.xyz/images/portraits/pg-1992065499702693921.jpg)
+![Revolutionize Your Wardrobe with Nano Banana Pro!](https://awesomeprompts.xyz/images/portraits/pg-1992065499702693921.webp)
 
 ---
 
@@ -30734,7 +30734,7 @@ Generate leaked photo BTS from KPOP Demon Hunters live action movie set
 
 ## Example Output
 
-![Revolutionizing Creativity: Nano Banana Pro Unleashed!](https://awesomeprompts.xyz/images/portraits/pg-1991544444051755056.jpg)
+![Revolutionizing Creativity: Nano Banana Pro Unleashed!](https://awesomeprompts.xyz/images/portraits/pg-1991544444051755056.webp)
 
 ---
 
@@ -30758,7 +30758,7 @@ In the background, include colorful worn tires, ramps with yellow-red stripes, a
 
 ## Example Output
 
-![Revved Up Style: A Go-Karting Adventure](https://awesomeprompts.xyz/images/portraits/pg-1995788162996531616.jpg)
+![Revved Up Style: A Go-Karting Adventure](https://awesomeprompts.xyz/images/portraits/pg-1995788162996531616.webp)
 
 ---
 
@@ -30822,7 +30822,7 @@ A subway scene bursts with life as a cool dancer tunes into the rhythm. Surround
 
 ## Example Output
 
-![Rhythmic Chaos: The Beat of Urban Art](https://awesomeprompts.xyz/images/portraits/pg-1993706544861446178.jpg)
+![Rhythmic Chaos: The Beat of Urban Art](https://awesomeprompts.xyz/images/portraits/pg-1993706544861446178.webp)
 
 ---
 
@@ -30844,7 +30844,7 @@ Holding bee .
 
 ## Example Output
 
-![Riding the Buzz: A Stylish Adventure on a Giant Honeybee](https://awesomeprompts.xyz/images/portraits/pg-1991058916201902184.jpg)
+![Riding the Buzz: A Stylish Adventure on a Giant Honeybee](https://awesomeprompts.xyz/images/portraits/pg-1991058916201902184.webp)
 
 ---
 
@@ -30891,7 +30891,7 @@ Realistic 8K quality portrait of a young woman in her mid-20s with a sweet face,
 
 ## Example Output
 
-![Rustic Elegance: A Portrait of Youth and Charm](https://awesomeprompts.xyz/images/portraits/pg-1996391848622116951.jpg)
+![Rustic Elegance: A Portrait of Youth and Charm](https://awesomeprompts.xyz/images/portraits/pg-1996391848622116951.webp)
 
 ---
 
@@ -30911,7 +30911,7 @@ A professional, high-resolution profile photo, maintaining the exact facial stru
 
 ## Example Output
 
-![Say Goodbye to Photoshoots: The Nano Banana Pro Revolution!](https://awesomeprompts.xyz/images/portraits/pg-1994097306526994558.jpg)
+![Say Goodbye to Photoshoots: The Nano Banana Pro Revolution!](https://awesomeprompts.xyz/images/portraits/pg-1994097306526994558.webp)
 
 ---
 
@@ -30931,7 +30931,7 @@ subject in image made of shining marble. The sculpture should display smooth and
 
 ## Example Output
 
-![Sculpt Your Reality: Nano Banana Pro Unleashed!](https://awesomeprompts.xyz/images/portraits/pg-1991728595451203798.jpg)
+![Sculpt Your Reality: Nano Banana Pro Unleashed!](https://awesomeprompts.xyz/images/portraits/pg-1991728595451203798.webp)
 
 ---
 
@@ -30955,7 +30955,7 @@ The model wears a thick wool or felt coat, with richly defined textures atop the
 
 ## Example Output
 
-![Sculpted Elegance: A Modern Portrait](https://awesomeprompts.xyz/images/portraits/pg-1991470728986644794.jpg)
+![Sculpted Elegance: A Modern Portrait](https://awesomeprompts.xyz/images/portraits/pg-1991470728986644794.webp)
 
 ---
 
@@ -30998,7 +30998,7 @@ Signature: Shreya Yadav
 
 ## Example Output
 
-![Sculpted Elegance: A Portrait in Light and Form](https://awesomeprompts.xyz/images/portraits/pg-1995881297861115909.jpg)
+![Sculpted Elegance: A Portrait in Light and Form](https://awesomeprompts.xyz/images/portraits/pg-1995881297861115909.webp)
 
 ---
 
@@ -31079,7 +31079,7 @@ Soft waves kiss the shore as a gentle breeze plays with her hair. Captured in a 
 
 ## Example Output
 
-![Seaside Serenity: A Beach Portrait with a Touch of Whimsy](https://awesomeprompts.xyz/images/portraits/pg-1996226571473179012.jpg)
+![Seaside Serenity: A Beach Portrait with a Touch of Whimsy](https://awesomeprompts.xyz/images/portraits/pg-1996226571473179012.webp)
 
 ---
 
@@ -31141,7 +31141,7 @@ Lush hues of a deep wine-red dress embrace the model's flawless skin, while subt
 
 ## Example Output
 
-![Seductive Elegance: A High-Fashion Dream](https://awesomeprompts.xyz/images/portraits/pg-1993974110356214075.jpg)
+![Seductive Elegance: A High-Fashion Dream](https://awesomeprompts.xyz/images/portraits/pg-1993974110356214075.webp)
 
 ---
 
@@ -31190,7 +31190,7 @@ A captivating scene unfolds as she exudes confidence in her backless satin dress
 
 ## Example Output
 
-![Seductive Glamour in Vintage Noir](https://awesomeprompts.xyz/images/portraits/pg-1995762747527626900.jpg)
+![Seductive Glamour in Vintage Noir](https://awesomeprompts.xyz/images/portraits/pg-1995762747527626900.webp)
 
 ---
 
@@ -31238,7 +31238,7 @@ Captured in a sleek car, this striking portrait exudes cool confidence. The mode
 
 ## Example Output
 
-![Seductive Night Vibes: A Selfie in the Shadows](https://awesomeprompts.xyz/images/portraits/pg-1996485143561695390.jpg)
+![Seductive Night Vibes: A Selfie in the Shadows](https://awesomeprompts.xyz/images/portraits/pg-1996485143561695390.webp)
 
 ---
 
@@ -31258,7 +31258,7 @@ A young woman with dark wavy hair sits in a black hoodie partially open over a w
 
 ## Example Output
 
-![Seductive Shadows: A Portrait of Confidence](https://awesomeprompts.xyz/images/portraits/pg-1992863320421097923.jpg)
+![Seductive Shadows: A Portrait of Confidence](https://awesomeprompts.xyz/images/portraits/pg-1992863320421097923.webp)
 
 ---
 
@@ -31288,7 +31288,7 @@ A captivating blend of fantasy and allure, this cosplay selfie features a striki
 
 ## Example Output
 
-![Seductive Shadows: The Nano Banana Pro Cosplay Enchantment](https://awesomeprompts.xyz/images/portraits/pg-1994480567971123311.jpg)
+![Seductive Shadows: The Nano Banana Pro Cosplay Enchantment](https://awesomeprompts.xyz/images/portraits/pg-1994480567971123311.webp)
 
 ---
 
@@ -31345,7 +31345,7 @@ Caught in a moment of joy, she radiates playful confidence. What's your favorite
 
 ## Example Output
 
-![Self-Love Shines in Golden Light 🌟](https://awesomeprompts.xyz/images/portraits/pg-1996884824393449709.jpg)
+![Self-Love Shines in Golden Light 🌟](https://awesomeprompts.xyz/images/portraits/pg-1996884824393449709.webp)
 
 ---
 
@@ -31365,7 +31365,7 @@ A young woman with dark wavy hair sits in a black hoodie partially open over a w
 
 ## Example Output
 
-![Sensual Confidence in Cinematic Light](https://awesomeprompts.xyz/images/portraits/pg-1992863318764335493.jpg)
+![Sensual Confidence in Cinematic Light](https://awesomeprompts.xyz/images/portraits/pg-1992863318764335493.webp)
 
 ---
 
@@ -31385,7 +31385,7 @@ A professional portrait photograph captures a young woman with dark, wavy, shoul
 
 ## Example Output
 
-![Serenity in Shadows: A Captivating Portrait](https://awesomeprompts.xyz/images/portraits/pg-1993214822637564014.jpg)
+![Serenity in Shadows: A Captivating Portrait](https://awesomeprompts.xyz/images/portraits/pg-1993214822637564014.webp)
 
 ---
 
@@ -31405,7 +31405,7 @@ Same face preserved, shot in near-dark with only a dim window glow hitting one c
 
 ## Example Output
 
-![Shadows and Silhouettes: A Gritty Portrait in Dim Light](https://awesomeprompts.xyz/images/portraits/pg-1992904265921429945.jpg)
+![Shadows and Silhouettes: A Gritty Portrait in Dim Light](https://awesomeprompts.xyz/images/portraits/pg-1992904265921429945.webp)
 
 ---
 
@@ -31446,7 +31446,7 @@ In a world of grainy elegance, a man in a fedora and trench coat emerges, sliced
 
 ## Example Output
 
-![Shadows and Style: The Noir Elegance of Nano Banana Pro 3.0](https://awesomeprompts.xyz/images/portraits/pg-1991870830167429185.jpg)
+![Shadows and Style: The Noir Elegance of Nano Banana Pro 3.0](https://awesomeprompts.xyz/images/portraits/pg-1991870830167429185.webp)
 
 ---
 
@@ -31466,7 +31466,7 @@ Editorial fashion photo, medium portrait, seated model wearing a cream shearling
 
 ## Example Output
 
-![Shearling Dreams: Cozy Elegance in Capture](https://awesomeprompts.xyz/images/portraits/pg-1993254090009460822.jpg)
+![Shearling Dreams: Cozy Elegance in Capture](https://awesomeprompts.xyz/images/portraits/pg-1993254090009460822.webp)
 
 ---
 
@@ -31554,7 +31554,7 @@ A lone survivor treads softly through nature's reclamation. With weary eyes and 
 
 ## Example Output
 
-![Silent Echoes of a Forgotten City](https://awesomeprompts.xyz/images/portraits/pg-1994767576963207277.jpg)
+![Silent Echoes of a Forgotten City](https://awesomeprompts.xyz/images/portraits/pg-1994767576963207277.webp)
 
 ---
 
@@ -31591,7 +31591,7 @@ A stunning close-up reveals a woman bathed in sunlight, her silky black hair dan
 
 ## Example Output
 
-![Silhouetted Elegance: Portrait of Light and Shadow](https://awesomeprompts.xyz/images/portraits/pg-1996418934778863865.jpg)
+![Silhouetted Elegance: Portrait of Light and Shadow](https://awesomeprompts.xyz/images/portraits/pg-1996418934778863865.webp)
 
 ---
 
@@ -31656,7 +31656,7 @@ Under soft streetlights, a stylish woman captivates on a silver hypercar, her se
 
 ## Example Output
 
-![Silver Dreams: The Nighttime Glam of Gemini Nano Banana 3.0](https://awesomeprompts.xyz/images/portraits/pg-1995899876010340636.jpg)
+![Silver Dreams: The Nighttime Glam of Gemini Nano Banana 3.0](https://awesomeprompts.xyz/images/portraits/pg-1995899876010340636.webp)
 
 ---
 
@@ -31676,7 +31676,7 @@ Hyper-realistic portrait of a strikingly handsome young man in his mid-20s, flaw
 
 ## Example Output
 
-![Simplicity Meets Striking Elegance](https://awesomeprompts.xyz/images/portraits/pg-1993213021024395351.jpg)
+![Simplicity Meets Striking Elegance](https://awesomeprompts.xyz/images/portraits/pg-1993213021024395351.webp)
 
 ---
 
@@ -31697,7 +31697,7 @@ create a stylish, modern portrait of a young man with voluminous dark hair, wear
 
 ## Example Output
 
-![Simplicity Meets Style in Cinematic Fashion](https://awesomeprompts.xyz/images/portraits/pg-1991783128567017565.jpg)
+![Simplicity Meets Style in Cinematic Fashion](https://awesomeprompts.xyz/images/portraits/pg-1991783128567017565.webp)
 
 ---
 
@@ -31727,7 +31727,7 @@ quality = "ultra-detailed, high-resolution, cinematic finish"
 
 ## Example Output
 
-![Sipping Serenity: A Cozy Winter Morning](https://awesomeprompts.xyz/images/portraits/pg-1991343397270089941.jpg)
+![Sipping Serenity: A Cozy Winter Morning](https://awesomeprompts.xyz/images/portraits/pg-1991343397270089941.webp)
 
 ---
 
@@ -31747,7 +31747,7 @@ Create a hyper-realistic wide-angle street-café POV photo featuring the attache
 
 ## Example Output
 
-![Sipping Serenity: A Street Café Dream](https://awesomeprompts.xyz/images/portraits/pg-1993175500915982855.jpg)
+![Sipping Serenity: A Street Café Dream](https://awesomeprompts.xyz/images/portraits/pg-1993175500915982855.webp)
 
 ---
 
@@ -31792,7 +31792,7 @@ A cozy coffee scene bursts with warmth! Meet a young woman and her vibrant buddy
 
 ## Example Output
 
-![Sips, Smiles, and Surreal Friends](https://awesomeprompts.xyz/images/portraits/pg-1996457038910836841.jpg)
+![Sips, Smiles, and Surreal Friends](https://awesomeprompts.xyz/images/portraits/pg-1996457038910836841.webp)
 
 ---
 
@@ -31887,7 +31887,7 @@ With a perfectly arched back and a playful glance, this creator knows how to cap
 
 ## Example Output
 
-![Slaying the Mirror Game: A TikTok Dream in the Making](https://awesomeprompts.xyz/images/portraits/pg-1995993588094599415.jpg)
+![Slaying the Mirror Game: A TikTok Dream in the Making](https://awesomeprompts.xyz/images/portraits/pg-1995993588094599415.webp)
 
 ---
 
@@ -31945,7 +31945,7 @@ A confident young woman stands elegantly in a chic black dress, casting an encha
 
 ## Example Output
 
-![Sleek Sophistication Meets Culinary Creativity](https://awesomeprompts.xyz/images/portraits/pg-1993990513238966675.jpg)
+![Sleek Sophistication Meets Culinary Creativity](https://awesomeprompts.xyz/images/portraits/pg-1993990513238966675.webp)
 
 ---
 
@@ -31966,7 +31966,7 @@ Four vibrant moments capture a young woman's laughter and thoughtfulness against
     "visual_style": "Realistic, candid street style photography with natural daylight.",
     "lighting": "Soft, natural daylight, creating realistic shadows and highlights.",
     "background": "Blurred urban environment, like a city street or park, to keep the focus on the subject.",
-    "reference_image": "1000484277.jpg"
+    "reference_image": "1000484277.webp"
   },
   "subject": {
     "description": "A real-life young woman with dark brown hair in a high ponytail, resembling the character from the reference image. She is wearing a grey t-shirt, an open pink jacket, blue denim shorts, and pink and white sneakers."
@@ -31998,7 +31998,7 @@ Four vibrant moments capture a young woman's laughter and thoughtfulness against
 
 ## Example Output
 
-![Snapshots of Joy: A Day in Urban Bliss](https://awesomeprompts.xyz/images/portraits/pg-1995190289141838112.jpg)
+![Snapshots of Joy: A Day in Urban Bliss](https://awesomeprompts.xyz/images/portraits/pg-1995190289141838112.webp)
 
 ---
 
@@ -32073,7 +32073,7 @@ Captured amidst a flurry of snowflakes, her calm intensity shines against a dram
 
 ## Example Output
 
-![Snowy Selfie Vibes: A Bold Winter Portrait](https://awesomeprompts.xyz/images/portraits/pg-1993798065065484334.jpg)
+![Snowy Selfie Vibes: A Bold Winter Portrait](https://awesomeprompts.xyz/images/portraits/pg-1993798065065484334.webp)
 
 ---
 
@@ -32093,7 +32093,7 @@ A snowmobile launching off a jagged ice ridge in mid-air, rider leaning forward 
 
 ## Example Output
 
-![Soaring Through the Blizzard: A Snowmobile's Thrill Ride](https://awesomeprompts.xyz/images/portraits/pg-1996134245094523110.jpg)
+![Soaring Through the Blizzard: A Snowmobile's Thrill Ride](https://awesomeprompts.xyz/images/portraits/pg-1996134245094523110.webp)
 
 ---
 
@@ -32201,7 +32201,7 @@ Imagine a serene winter wonderland where elegance reigns. Captured in soft hues,
 
 ## Example Output
 
-![Sophistication Meets Winter: A Fashion Fantasy](https://awesomeprompts.xyz/images/portraits/pg-1996071136090816744.jpg)
+![Sophistication Meets Winter: A Fashion Fantasy](https://awesomeprompts.xyz/images/portraits/pg-1996071136090816744.webp)
 
 ---
 
@@ -32233,7 +32233,7 @@ Check out this stunning look! A black sports bra paired with a dark brown leathe
 
 ## Example Output
 
-![Sporty Chic Vibes in a Cozy Space](https://awesomeprompts.xyz/images/portraits/pg-1995865854370840919.jpg)
+![Sporty Chic Vibes in a Cozy Space](https://awesomeprompts.xyz/images/portraits/pg-1995865854370840919.webp)
 
 ---
 
@@ -32253,7 +32253,7 @@ Make a photo with a hidden word embedded into it, make the word hard to see unti
 
 ## Example Output
 
-![Spot the Hidden Banana Among the Monkeys!](https://awesomeprompts.xyz/images/portraits/pg-1997009961654870363.jpg)
+![Spot the Hidden Banana Among the Monkeys!](https://awesomeprompts.xyz/images/portraits/pg-1997009961654870363.webp)
 
 ---
 
@@ -32282,7 +32282,7 @@ In a realm of soft shadows and sharp contrasts, this stylish man's portrait capt
 
 ## Example Output
 
-![Spotlight on Serenity: A Monochrome Masterpiece](https://awesomeprompts.xyz/images/portraits/pg-1995803274193392094.jpg)
+![Spotlight on Serenity: A Monochrome Masterpiece](https://awesomeprompts.xyz/images/portraits/pg-1995803274193392094.webp)
 
 ---
 
@@ -32321,7 +32321,7 @@ Behold a mesmerizing fusion of nature and ingenuity! A bioluminescent orchid flo
 
 ## Example Output
 
-![Steampunk Wonders: The Enchanted Orchid Revealed](https://awesomeprompts.xyz/images/portraits/pg-1995869184748662846.jpg)
+![Steampunk Wonders: The Enchanted Orchid Revealed](https://awesomeprompts.xyz/images/portraits/pg-1995869184748662846.webp)
 
 ---
 
@@ -32398,7 +32398,7 @@ Gaze upon a stunning portrait of grace, adorned in teal Victorian splendor. The 
 
 ## Example Output
 
-![Step Back in Time: Victorian Elegance Unveiled](https://awesomeprompts.xyz/images/portraits/pg-1992762678989971671.jpg)
+![Step Back in Time: Victorian Elegance Unveiled](https://awesomeprompts.xyz/images/portraits/pg-1992762678989971671.webp)
 
 ---
 
@@ -32418,7 +32418,7 @@ A photo of a programme for The Matrix broadway show, it's professional and well 
 
 ## Example Output
 
-![Step into The Matrix: Broadway Awaits!](https://awesomeprompts.xyz/images/portraits/pg-1991564852876439803.jpg)
+![Step into The Matrix: Broadway Awaits!](https://awesomeprompts.xyz/images/portraits/pg-1991564852876439803.webp)
 
 ---
 
@@ -32458,7 +32458,7 @@ Emphasis: Reiterate 'maintain 100% of the original face features from the provid
 
 ## Example Output
 
-![Sticker Set Magic: Ultra-Realistic Faces with a Fun Twist!](https://awesomeprompts.xyz/images/portraits/pg-1997161319271969269.jpg)
+![Sticker Set Magic: Ultra-Realistic Faces with a Fun Twist!](https://awesomeprompts.xyz/images/portraits/pg-1997161319271969269.webp)
 
 ---
 
@@ -32478,7 +32478,7 @@ nano banana - generate a laptop with stickers. the laptop belongs to a fan of op
 
 ## Example Output
 
-![Stickers, Code, and Creativity: A Laptop Story](https://awesomeprompts.xyz/images/portraits/pg-1991629732518195585.jpg)
+![Stickers, Code, and Creativity: A Laptop Story](https://awesomeprompts.xyz/images/portraits/pg-1991629732518195585.webp)
 
 ---
 
@@ -32533,7 +32533,7 @@ Casual coolness radiates from this stylish young woman, sipping her iced drink a
 
 ## Example Output
 
-![Street Style Meets Chill Vibes in the City](https://awesomeprompts.xyz/images/portraits/pg-1995847027054534775.jpg)
+![Street Style Meets Chill Vibes in the City](https://awesomeprompts.xyz/images/portraits/pg-1995847027054534775.webp)
 
 ---
 
@@ -32553,7 +32553,7 @@ completing the look with a chunky silver chain around his neck, dark round frame
 
 ## Example Output
 
-![Street Vibes: Defiance in Smoky Chaos](https://awesomeprompts.xyz/images/portraits/pg-1992602230168641866.jpg)
+![Street Vibes: Defiance in Smoky Chaos](https://awesomeprompts.xyz/images/portraits/pg-1992602230168641866.webp)
 
 ---
 
@@ -32573,7 +32573,7 @@ Casual yet striking, this low-angle shot elevates modern streetwear. Oversized s
 
 ## Example Output
 
-![Streetwear Elegance: A Minimalist Vision](https://awesomeprompts.xyz/images/portraits/pg-1991435397726105959.jpg)
+![Streetwear Elegance: A Minimalist Vision](https://awesomeprompts.xyz/images/portraits/pg-1991435397726105959.webp)
 
 ---
 
@@ -32593,7 +32593,7 @@ A cinematic portrait of a man standing in front of a rugged off-road jeep with a
 
 ## Example Output
 
-![Strength on the Road: Man and Dog in Cinematic Harmony](https://awesomeprompts.xyz/images/portraits/pg-1995815931398779281.jpg)
+![Strength on the Road: Man and Dog in Cinematic Harmony](https://awesomeprompts.xyz/images/portraits/pg-1995815931398779281.webp)
 
 ---
 
@@ -32655,7 +32655,7 @@ Did you remember to stretch today? A young woman strikes a perfect standing spli
 
 ## Example Output
 
-![Stretching in Chaos: A Mirror Moment](https://awesomeprompts.xyz/images/portraits/pg-1994980573102968940.jpg)
+![Stretching in Chaos: A Mirror Moment](https://awesomeprompts.xyz/images/portraits/pg-1994980573102968940.webp)
 
 ---
 
@@ -32675,7 +32675,7 @@ Unplanned paparazzi style portrait, an intense, close-up moment capturing a man 
 
 ## Example Output
 
-![Striking Confidence Amidst Chaos](https://awesomeprompts.xyz/images/portraits/pg-1991508261494047125.jpg)
+![Striking Confidence Amidst Chaos](https://awesomeprompts.xyz/images/portraits/pg-1991508261494047125.webp)
 
 ---
 
@@ -32746,7 +32746,7 @@ Sun-kissed and carefree! This stunning mirror selfie captures a young woman's vi
 
 ## Example Output
 
-![Summer Glow: A Cabana Selfie Delight](https://awesomeprompts.xyz/images/portraits/pg-1995862230580023542.jpg)
+![Summer Glow: A Cabana Selfie Delight](https://awesomeprompts.xyz/images/portraits/pg-1995862230580023542.webp)
 
 ---
 
@@ -32823,7 +32823,7 @@ A playful smile lights up her face as she lounges at a sun-drenched café, embod
 
 ## Example Output
 
-![Sun-Kissed Serenity at the Beach Café](https://awesomeprompts.xyz/images/portraits/pg-1996450377181671907.jpg)
+![Sun-Kissed Serenity at the Beach Café](https://awesomeprompts.xyz/images/portraits/pg-1996450377181671907.webp)
 
 ---
 
@@ -32900,7 +32900,7 @@ A playful spirit captured in a sunlit beach café, her gentle smile and relaxed 
 
 ## Example Output
 
-![Sun-Kissed Serenity at the Beach Café](https://awesomeprompts.xyz/images/portraits/pg-1996172206993473943.jpg)
+![Sun-Kissed Serenity at the Beach Café](https://awesomeprompts.xyz/images/portraits/pg-1996172206993473943.webp)
 
 ---
 
@@ -32920,7 +32920,7 @@ A moment of bliss captured: a young woman, adorned with a floral hair clip, radi
 
 ## Example Output
 
-![Sun-Kissed Serenity by the Poolside](https://awesomeprompts.xyz/images/portraits/pg-1993840792071479299.jpg)
+![Sun-Kissed Serenity by the Poolside](https://awesomeprompts.xyz/images/portraits/pg-1993840792071479299.webp)
 
 ---
 
@@ -32940,7 +32940,7 @@ A high-quality photorealistic portrait of a young woman sitting on the edge of a
 
 ## Example Output
 
-![Sun-Kissed Serenity: A Dreamy Poolside Moment](https://awesomeprompts.xyz/images/portraits/pg-1995064120119534045.jpg)
+![Sun-Kissed Serenity: A Dreamy Poolside Moment](https://awesomeprompts.xyz/images/portraits/pg-1995064120119534045.webp)
 
 ---
 
@@ -32969,7 +32969,7 @@ Basking in golden sunlight, this portrait captures effortless style. A girl lean
 
 ## Example Output
 
-![Sun-Kissed Serenity: A Stylish Summer Portrait](https://awesomeprompts.xyz/images/portraits/pg-1994252212571181224.jpg)
+![Sun-Kissed Serenity: A Stylish Summer Portrait](https://awesomeprompts.xyz/images/portraits/pg-1994252212571181224.webp)
 
 ---
 
@@ -33031,7 +33031,7 @@ Under the blazing sun, a girl radiates summer vibes, her stylish sage-mint ensem
 
 ## Example Output
 
-![Sunkissed Serenity: A Fashion Portrait in the Summer Heat](https://awesomeprompts.xyz/images/portraits/pg-1994351098509861265.jpg)
+![Sunkissed Serenity: A Fashion Portrait in the Summer Heat](https://awesomeprompts.xyz/images/portraits/pg-1994351098509861265.webp)
 
 ---
 
@@ -33051,7 +33051,7 @@ Generate an 8K lifelike close-up of a woman (face characteristics 100% same as u
 
 ## Example Output
 
-![Sunlit Elegance: A Portrait of Strength and Beauty](https://awesomeprompts.xyz/images/portraits/pg-1997143710619045902.jpg)
+![Sunlit Elegance: A Portrait of Strength and Beauty](https://awesomeprompts.xyz/images/portraits/pg-1997143710619045902.webp)
 
 ---
 
@@ -33071,7 +33071,7 @@ Create a high-quality, editorial-style photoshoot of the same man as in the refe
 
 ## Example Output
 
-![Sunlit Elegance: Editorial Poolside Vibes](https://awesomeprompts.xyz/images/portraits/pg-1991726604113047586.jpg)
+![Sunlit Elegance: Editorial Poolside Vibes](https://awesomeprompts.xyz/images/portraits/pg-1991726604113047586.webp)
 
 ---
 
@@ -33091,7 +33091,7 @@ A minimal sunlit wall. Sharp, elongated shadow of a human hand holding the exact
 
 ## Example Output
 
-![Sunlit Elegance: The Art of Minimalist Skincare](https://awesomeprompts.xyz/images/portraits/pg-1994380091241922920.jpg)
+![Sunlit Elegance: The Art of Minimalist Skincare](https://awesomeprompts.xyz/images/portraits/pg-1994380091241922920.webp)
 
 ---
 
@@ -33113,7 +33113,7 @@ Golden hour whispers secrets as she savors sweet cake and salty fries. A captiva
 
 ## Example Output
 
-![Sunlit Moments: A Cafe Daydream](https://awesomeprompts.xyz/images/portraits/pg-1996399057875718561.jpg)
+![Sunlit Moments: A Cafe Daydream](https://awesomeprompts.xyz/images/portraits/pg-1996399057875718561.webp)
 
 ---
 
@@ -33152,7 +33152,7 @@ In a warm afternoon glow, a young woman embodies calmness, leaning thoughtfully 
 
 ## Example Output
 
-![Sunlit Serenity: A Classroom Muse](https://awesomeprompts.xyz/images/portraits/pg-1996834894732054852.jpg)
+![Sunlit Serenity: A Classroom Muse](https://awesomeprompts.xyz/images/portraits/pg-1996834894732054852.webp)
 
 ---
 
@@ -33174,7 +33174,7 @@ A high-resolution photorealistic portrait of a young woman sitting at a wooden t
 
 ## Example Output
 
-![Sunlit Serenity: A Moment of Calm Amidst the Chaos](https://awesomeprompts.xyz/images/portraits/pg-1993115578421461467.jpg)
+![Sunlit Serenity: A Moment of Calm Amidst the Chaos](https://awesomeprompts.xyz/images/portraits/pg-1993115578421461467.webp)
 
 ---
 
@@ -33260,7 +33260,7 @@ Bask in the gentle glow of golden hour as she relaxes in a cable car, the lush l
 
 ## Example Output
 
-![Sunlit Serenity: A Stylish Ride Above Green Canopies](https://awesomeprompts.xyz/images/portraits/pg-1994991014545957032.jpg)
+![Sunlit Serenity: A Stylish Ride Above Green Canopies](https://awesomeprompts.xyz/images/portraits/pg-1994991014545957032.webp)
 
 ---
 
@@ -33332,7 +33332,7 @@ Captured in golden hour magic, a playful smile and sweet strawberries create a c
 
 ## Example Output
 
-![Sunny Picnic Vibes with a Berry Twist](https://awesomeprompts.xyz/images/portraits/pg-1994032795363233809.jpg)
+![Sunny Picnic Vibes with a Berry Twist](https://awesomeprompts.xyz/images/portraits/pg-1994032795363233809.webp)
 
 ---
 
@@ -33352,7 +33352,7 @@ Ultra-realistic 8K lifestyle portrait of the same man from the uploaded image. H
 
 ## Example Output
 
-![Sunny Vibes & Urban Style: A Portrait of Cool](https://awesomeprompts.xyz/images/portraits/pg-1995686651683901821.jpg)
+![Sunny Vibes & Urban Style: A Portrait of Cool](https://awesomeprompts.xyz/images/portraits/pg-1995686651683901821.webp)
 
 ---
 
@@ -33372,7 +33372,7 @@ A portrait in the editorial style of the outdoor fashion magazine, inspired by t
 
 ## Example Output
 
-![Sunset Glam: A Fashion Moment by the Red Truck](https://awesomeprompts.xyz/images/portraits/pg-1991513696850649095.jpg)
+![Sunset Glam: A Fashion Moment by the Red Truck](https://awesomeprompts.xyz/images/portraits/pg-1991513696850649095.webp)
 
 ---
 
@@ -33392,7 +33392,7 @@ Create a portraitt of A beautiful young woman standing near a window during suns
 
 ## Example Output
 
-![Sunset Serenade: A Portrait of Grace and Glow](https://awesomeprompts.xyz/images/portraits/pg-1991842136472314031.jpg)
+![Sunset Serenade: A Portrait of Grace and Glow](https://awesomeprompts.xyz/images/portraits/pg-1991842136472314031.webp)
 
 ---
 
@@ -33437,7 +33437,7 @@ Amidst the warm embrace of a golden hour, she splashes joyfully, each droplet re
 
 ## Example Output
 
-![Sunset Whispers: A Playful Moment by the Water](https://awesomeprompts.xyz/images/portraits/pg-1997298656429367700.jpg)
+![Sunset Whispers: A Playful Moment by the Water](https://awesomeprompts.xyz/images/portraits/pg-1997298656429367700.webp)
 
 ---
 
@@ -33521,7 +33521,7 @@ Amidst a wasteland of rust and ruin, a weary mechanic clings to hope. Sunlight g
 
 ## Example Output
 
-![Survivor in the Scrap: A Portrait of Grit and Hope](https://awesomeprompts.xyz/images/portraits/pg-1995484092809515252.jpg)
+![Survivor in the Scrap: A Portrait of Grit and Hope](https://awesomeprompts.xyz/images/portraits/pg-1995484092809515252.webp)
 
 ---
 
@@ -33593,7 +33593,7 @@ A whimsical blend of pastel and neon, this vibrant scene captures a playful youn
 
 ## Example Output
 
-![Sweet Chaos: A Playful Pop-Art Adventure](https://awesomeprompts.xyz/images/portraits/pg-1993609750051766767.jpg)
+![Sweet Chaos: A Playful Pop-Art Adventure](https://awesomeprompts.xyz/images/portraits/pg-1993609750051766767.webp)
 
 ---
 
@@ -33667,7 +33667,7 @@ A gentle embrace captures pure affection; sunlight stripes dance on soft fur and
 
 ## Example Output
 
-![Tender Moments: A Heartwarming Bond](https://awesomeprompts.xyz/images/portraits/pg-1995743907523780826.jpg)
+![Tender Moments: A Heartwarming Bond](https://awesomeprompts.xyz/images/portraits/pg-1995743907523780826.webp)
 
 ---
 
@@ -33736,7 +33736,7 @@ A chic young woman captures her sporty style in a luxurious locker room, radiati
 
 ## Example Output
 
-![Tennis Elegance in Every Reflection](https://awesomeprompts.xyz/images/portraits/pg-1995921561120108703.jpg)
+![Tennis Elegance in Every Reflection](https://awesomeprompts.xyz/images/portraits/pg-1995921561120108703.webp)
 
 ---
 
@@ -33756,7 +33756,7 @@ Generate a 9-image ‘photo dump’ grid of this person’s weekend: a mirror se
 
 ## Example Output
 
-![The Art of Illusion: AI-Generated Weekend Highlights](https://awesomeprompts.xyz/images/portraits/pg-1991717062020866428.jpg)
+![The Art of Illusion: AI-Generated Weekend Highlights](https://awesomeprompts.xyz/images/portraits/pg-1991717062020866428.webp)
 
 ---
 
@@ -33780,7 +33780,7 @@ Topic on the board: THE FUTURE OF AI IN HEALTHCARE, divided into three hand-draw
 
 ## Example Output
 
-![The Art of Presenting AI's Future](https://awesomeprompts.xyz/images/portraits/pg-1995162730467340658.jpg)
+![The Art of Presenting AI's Future](https://awesomeprompts.xyz/images/portraits/pg-1995162730467340658.webp)
 
 ---
 
@@ -33800,7 +33800,7 @@ Amateur photograph from 1998 of a middle-aged artist copying an image by hand fr
 
 ## Example Output
 
-![The Art of Reflection: A Recursive Creation](https://awesomeprompts.xyz/images/portraits/pg-1992038915881029641.jpg)
+![The Art of Reflection: A Recursive Creation](https://awesomeprompts.xyz/images/portraits/pg-1992038915881029641.webp)
 
 ---
 
@@ -33872,7 +33872,7 @@ A piercing gaze meets the lens in this hyper-realistic close-up. With dramatic s
 
 ## Example Output
 
-![The Intensity of Rugged Charm](https://awesomeprompts.xyz/images/portraits/pg-1992946197900964222.jpg)
+![The Intensity of Rugged Charm](https://awesomeprompts.xyz/images/portraits/pg-1992946197900964222.webp)
 
 ---
 
@@ -33892,7 +33892,7 @@ nano banana, how do you tie a tie?
 
 ## Example Output
 
-![The Quest for the Perfect Knot: A Nano Banana's Dilemma](https://awesomeprompts.xyz/images/portraits/pg-1991548690839007460.jpg)
+![The Quest for the Perfect Knot: A Nano Banana's Dilemma](https://awesomeprompts.xyz/images/portraits/pg-1991548690839007460.webp)
 
 ---
 
@@ -34118,7 +34118,7 @@ How can something so simple speak volumes? This solitary gray rock, draped in su
 
 ## Example Output
 
-![The Unassuming Star: A Rock's Quiet Moment](https://awesomeprompts.xyz/images/portraits/pg-1996880688021123219.jpg)
+![The Unassuming Star: A Rock's Quiet Moment](https://awesomeprompts.xyz/images/portraits/pg-1996880688021123219.webp)
 
 ---
 
@@ -34215,7 +34215,7 @@ Can you feel the nostalgia? This enchanting shot perfectly captures early 2000s 
 
 ## Example Output
 
-![Throwback to Mirror Selfies: Capture Your 2000s Vibe!](https://awesomeprompts.xyz/images/portraits/pg-1992028478833881527.jpg)
+![Throwback to Mirror Selfies: Capture Your 2000s Vibe!](https://awesomeprompts.xyz/images/portraits/pg-1992028478833881527.webp)
 
 ---
 
@@ -34261,7 +34261,7 @@ Can you feel the adrenaline? A terrified couple races through lush fields with B
 
 ## Example Output
 
-![Tigers on the Chase: A High-Speed Vespa Adventure](https://awesomeprompts.xyz/images/portraits/pg-1996407842103017734.jpg)
+![Tigers on the Chase: A High-Speed Vespa Adventure](https://awesomeprompts.xyz/images/portraits/pg-1996407842103017734.webp)
 
 ---
 
@@ -34281,7 +34281,7 @@ Black and white studio portrait of the young woman in the uploaded image, lookin
 
 ## Example Output
 
-![Timeless Elegance: A Portrait in Shadows](https://awesomeprompts.xyz/images/portraits/pg-1996220956201881878.jpg)
+![Timeless Elegance: A Portrait in Shadows](https://awesomeprompts.xyz/images/portraits/pg-1996220956201881878.webp)
 
 ---
 
@@ -34449,7 +34449,7 @@ Caught in the neon haze of Tokyo's nightlife, she embodies relaxed elegance—sl
 
 ## Example Output
 
-![Tokyo Nights: Glamour in a Tipsy Glow](https://awesomeprompts.xyz/images/portraits/pg-1995061728128745526.jpg)
+![Tokyo Nights: Glamour in a Tipsy Glow](https://awesomeprompts.xyz/images/portraits/pg-1995061728128745526.webp)
 
 ---
 
@@ -34514,7 +34514,7 @@ Can everyday spaces become your runway? This stunning fitness model performs a v
 
 ## Example Output
 
-![Transform Your Living Room with a Show-Stopping Split!](https://awesomeprompts.xyz/images/portraits/pg-1995847664584589534.jpg)
+![Transform Your Living Room with a Show-Stopping Split!](https://awesomeprompts.xyz/images/portraits/pg-1995847664584589534.webp)
 
 ---
 
@@ -34534,7 +34534,7 @@ Add photos of food to this menu to each item of food
 
 ## Example Output
 
-![Transform Your Menu with Tasty Visuals!](https://awesomeprompts.xyz/images/portraits/pg-1992610069180198936.jpg)
+![Transform Your Menu with Tasty Visuals!](https://awesomeprompts.xyz/images/portraits/pg-1992610069180198936.webp)
 
 ---
 
@@ -34554,7 +34554,7 @@ Editorial 3x3 grid in soft pastel-blue studio. Character (face characteristics 1
 
 ## Example Output
 
-![Transform Your Selfie into a Luxury Editorial Masterpiece!](https://awesomeprompts.xyz/images/portraits/pg-1995506422117728636.jpg)
+![Transform Your Selfie into a Luxury Editorial Masterpiece!](https://awesomeprompts.xyz/images/portraits/pg-1995506422117728636.webp)
 
 ---
 
@@ -34634,7 +34634,7 @@ Bask in the glow of a sunlit beach hut, where vibrant colors and a curious gaze 
 
 ## Example Output
 
-![Tropical Elegance: A Beachside Portrait](https://awesomeprompts.xyz/images/portraits/pg-1995098855604367580.jpg)
+![Tropical Elegance: A Beachside Portrait](https://awesomeprompts.xyz/images/portraits/pg-1995098855604367580.webp)
 
 ---
 
@@ -34660,7 +34660,7 @@ In an ethereal garden terrace, a stunning muse captivates with her mesmerizing r
 
 ## Example Output
 
-![Twilight Allure: Ruby Elegance in Velvet Shadows](https://awesomeprompts.xyz/images/portraits/pg-1995720630436839730.jpg)
+![Twilight Allure: Ruby Elegance in Velvet Shadows](https://awesomeprompts.xyz/images/portraits/pg-1995720630436839730.webp)
 
 ---
 
@@ -34728,7 +34728,7 @@ A striking full-body portrait captures calm confidence, featuring a modern indoo
 
 ## Example Output
 
-![Ultra-Realistic Portrait: The Essence of Confidence](https://awesomeprompts.xyz/images/portraits/pg-1993181552159998267.jpg)
+![Ultra-Realistic Portrait: The Essence of Confidence](https://awesomeprompts.xyz/images/portraits/pg-1993181552159998267.webp)
 
 ---
 
@@ -34748,7 +34748,7 @@ Extreme close-up portrait of two faces pressed together: on the left a bald, pal
 
 ## Example Output
 
-![Uncanny Connection: Alien Meets Elf in Ethereal Portrait](https://awesomeprompts.xyz/images/portraits/pg-1996607862852735460.jpg)
+![Uncanny Connection: Alien Meets Elf in Ethereal Portrait](https://awesomeprompts.xyz/images/portraits/pg-1996607862852735460.webp)
 
 ---
 
@@ -34813,7 +34813,7 @@ Glimmering under soft streetlights, a sleek silver hypercar stands proud. A styl
 
 ## Example Output
 
-![Under the City Lights: A Silver Dream Unveiled](https://awesomeprompts.xyz/images/portraits/pg-1996230263286714641.jpg)
+![Under the City Lights: A Silver Dream Unveiled](https://awesomeprompts.xyz/images/portraits/pg-1996230263286714641.webp)
 
 ---
 
@@ -34833,7 +34833,7 @@ infographic for a fighting game showing the complete moveset of an AI-powered fi
 
 ## Example Output
 
-![Unleash the AI Fighter: Moves That Pack a Punch!](https://awesomeprompts.xyz/images/portraits/pg-1994808576670380292.jpg)
+![Unleash the AI Fighter: Moves That Pack a Punch!](https://awesomeprompts.xyz/images/portraits/pg-1994808576670380292.webp)
 
 ---
 
@@ -34853,7 +34853,7 @@ style of white handwritten text. Describe what needs to be done; write a title: 
 
 ## Example Output
 
-![Unleash Your Creativity with Nano Banana Pro!](https://awesomeprompts.xyz/images/portraits/pg-1991523394253135961.jpg)
+![Unleash Your Creativity with Nano Banana Pro!](https://awesomeprompts.xyz/images/portraits/pg-1991523394253135961.webp)
 
 ---
 
@@ -34873,7 +34873,7 @@ Hyper-realistic editorial portrait of the person in the uploaded image set insid
 
 ## Example Output
 
-![Unleash Your Inner Pokémon Master!](https://awesomeprompts.xyz/images/portraits/pg-1995687660460146999.jpg)
+![Unleash Your Inner Pokémon Master!](https://awesomeprompts.xyz/images/portraits/pg-1995687660460146999.webp)
 
 ---
 
@@ -34893,7 +34893,7 @@ create a laptop cover with stickers that belong to someone who works at hugging 
 
 ## Example Output
 
-![Unleashing Creativity: A Hugging Face Laptop Cover](https://awesomeprompts.xyz/images/portraits/pg-1991609462235541600.jpg)
+![Unleashing Creativity: A Hugging Face Laptop Cover](https://awesomeprompts.xyz/images/portraits/pg-1991609462235541600.webp)
 
 ---
 
@@ -34915,7 +34915,7 @@ Prompt on Nano Banana Pro with image reference : Make this person do the express
 
 ## Example Output
 
-![Unleashing Emoji Expressions with Nano Banana Pro!](https://awesomeprompts.xyz/images/portraits/pg-1992849169602818431.jpg)
+![Unleashing Emoji Expressions with Nano Banana Pro!](https://awesomeprompts.xyz/images/portraits/pg-1992849169602818431.webp)
 
 ---
 
@@ -34937,7 +34937,7 @@ How about a burst of personality in your chats? These 8 LINE stickers, crafted w
 
 ## Example Output
 
-![Unleashing Line Stickers: Meet Nano Banana Pro!](https://awesomeprompts.xyz/images/portraits/pg-1991689847468372274.jpg)
+![Unleashing Line Stickers: Meet Nano Banana Pro!](https://awesomeprompts.xyz/images/portraits/pg-1991689847468372274.webp)
 
 ---
 
@@ -34965,7 +34965,7 @@ Mood & Imperfections: Realistic, powerful, alternative, stylish. Visible fine sk
 
 ## Example Output
 
-![Unleashing the Power of the Nano Banana Pro](https://awesomeprompts.xyz/images/portraits/pg-1991559284971204814.jpg)
+![Unleashing the Power of the Nano Banana Pro](https://awesomeprompts.xyz/images/portraits/pg-1991559284971204814.webp)
 
 ---
 
@@ -34996,7 +34996,7 @@ Aspect Ratio: 3:4
 
 ## Example Output
 
-![Unleashing Your Pokémon Dream Team!](https://awesomeprompts.xyz/images/portraits/pg-1996295748846231766.jpg)
+![Unleashing Your Pokémon Dream Team!](https://awesomeprompts.xyz/images/portraits/pg-1996295748846231766.webp)
 
 ---
 
@@ -35016,7 +35016,7 @@ A photo of the sci-fi books I should read
 
 ## Example Output
 
-![Unlock the Future: Must-Read Sci-Fi Treasures](https://awesomeprompts.xyz/images/portraits/pg-1991552915853742223.jpg)
+![Unlock the Future: Must-Read Sci-Fi Treasures](https://awesomeprompts.xyz/images/portraits/pg-1991552915853742223.webp)
 
 ---
 
@@ -35036,7 +35036,7 @@ Can you imagine capturing the enchanting blues of dusk? The stunning model, pair
 
 ## Example Output
 
-![Unlocking the Art of Photography with Nano Banana Pro!](https://awesomeprompts.xyz/images/portraits/pg-1991730551531925570.jpg)
+![Unlocking the Art of Photography with Nano Banana Pro!](https://awesomeprompts.xyz/images/portraits/pg-1991730551531925570.webp)
 
 ---
 
@@ -35056,7 +35056,7 @@ Make a realistic infographic of the human skeletal system with labels
 
 ## Example Output
 
-![Unlocking the Secrets of the Human Skeleton!](https://awesomeprompts.xyz/images/portraits/pg-1991528293435154522.jpg)
+![Unlocking the Secrets of the Human Skeleton!](https://awesomeprompts.xyz/images/portraits/pg-1991528293435154522.webp)
 
 ---
 
@@ -35079,7 +35079,7 @@ Aesthetic: Ultra photorealistic, hyperdetailed, natural soft studio lighting, hi
 
 ## Example Output
 
-![Unraveling the Illusion: A Photorealistic Journey](https://awesomeprompts.xyz/images/portraits/pg-1995435523645882816.jpg)
+![Unraveling the Illusion: A Photorealistic Journey](https://awesomeprompts.xyz/images/portraits/pg-1995435523645882816.webp)
 
 ---
 
@@ -35099,7 +35099,7 @@ Make an infographic of this person’s life based on this article: [Wikipedia Pa
 
 ## Example Output
 
-![Unraveling the Life of a Tech Trailblazer: Google Gemini AI](https://awesomeprompts.xyz/images/portraits/pg-1991666924862963877.jpg)
+![Unraveling the Life of a Tech Trailblazer: Google Gemini AI](https://awesomeprompts.xyz/images/portraits/pg-1991666924862963877.webp)
 
 ---
 
@@ -35119,7 +35119,7 @@ Churchill, CEO of the UK Corp.
 
 ## Example Output
 
-![Unveiling Churchill: The Man Behind the UK Corp.](https://awesomeprompts.xyz/images/portraits/pg-1994465143778861149.jpg)
+![Unveiling Churchill: The Man Behind the UK Corp.](https://awesomeprompts.xyz/images/portraits/pg-1994465143778861149.webp)
 
 ---
 
@@ -35186,7 +35186,7 @@ Caught in a moment of self-assurance, this young woman radiates style with her t
 
 ## Example Output
 
-![Unveiling Confidence: The Mirror Selfie Revolution](https://awesomeprompts.xyz/images/portraits/pg-1996094781630362057.jpg)
+![Unveiling Confidence: The Mirror Selfie Revolution](https://awesomeprompts.xyz/images/portraits/pg-1996094781630362057.webp)
 
 ---
 
@@ -35244,7 +35244,7 @@ Can you feel the cozy embrace of December? With twinkling lights and a heartwarm
 
 ## Example Output
 
-![Unveiling December's Warmth and Magic ✨](https://awesomeprompts.xyz/images/portraits/pg-1995487389024915607.jpg)
+![Unveiling December's Warmth and Magic ✨](https://awesomeprompts.xyz/images/portraits/pg-1995487389024915607.webp)
 
 ---
 
@@ -35346,7 +35346,7 @@ A striking silhouette against city lights, she exudes mystery and allure. The lu
 
 ## Example Output
 
-![Unveiling Noir Elegance in a Rain-Kissed Cityscape](https://awesomeprompts.xyz/images/portraits/pg-1994877948185514413.jpg)
+![Unveiling Noir Elegance in a Rain-Kissed Cityscape](https://awesomeprompts.xyz/images/portraits/pg-1994877948185514413.webp)
 
 ---
 
@@ -35368,7 +35368,7 @@ A striking portrayal of quiet power! The high-contrast black and white portrait 
       "Hair": "Sleek, neat bun or pulled-back hairstyle",
       "Expression": "Neutral yet intense, mysterious, direct gaze through sunglasses, or pensive look.",
       "Pose": "Hand resting gently on the chin/jawline, looking slightly to the side. Posture is confident and stable.",
-      "FacialFeatures": "The subject should maintain the same facial structure and features as the reference image (1000045331.jpg and 1000054961.jpg) for consistency."
+      "FacialFeatures": "The subject should maintain the same facial structure and features as the reference image (1000045331.webp and 1000054961.webp) for consistency."
     },
     "Wardrobe": {
       "Top": "Simple, solid black crewneck or high-neck casual sweater/top",
@@ -35412,7 +35412,7 @@ A striking portrayal of quiet power! The high-contrast black and white portrait 
 
 ## Example Output
 
-![Unveiling Strength in Monochrome Elegance](https://awesomeprompts.xyz/images/portraits/pg-1995690209904918934.jpg)
+![Unveiling Strength in Monochrome Elegance](https://awesomeprompts.xyz/images/portraits/pg-1995690209904918934.webp)
 
 ---
 
@@ -35466,7 +35466,7 @@ What if your outfit could literally tear away? This striking portrait blurs the 
 
 ## Example Output
 
-![Unveiling the Art of Fabric: A Photorealistic Transformation](https://awesomeprompts.xyz/images/portraits/pg-1995495961074999450.jpg)
+![Unveiling the Art of Fabric: A Photorealistic Transformation](https://awesomeprompts.xyz/images/portraits/pg-1995495961074999450.webp)
 
 ---
 
@@ -35571,7 +35571,7 @@ Can you feel the pulse of technology? This striking x-ray cutaway reveals the in
 
 ## Example Output
 
-![Unveiling the Inner Symphony of Wireless Sound](https://awesomeprompts.xyz/images/portraits/pg-1996627409978671541.jpg)
+![Unveiling the Inner Symphony of Wireless Sound](https://awesomeprompts.xyz/images/portraits/pg-1996627409978671541.webp)
 
 ---
 
@@ -35675,7 +35675,7 @@ Amid the soft urban glow, a stylish individual strides confidently, proclaiming 
 
 ## Example Output
 
-![Urban Charm: A Confident Morning Greeting 🌆](https://awesomeprompts.xyz/images/portraits/pg-1996500227323314613.jpg)
+![Urban Charm: A Confident Morning Greeting 🌆](https://awesomeprompts.xyz/images/portraits/pg-1996500227323314613.webp)
 
 ---
 
@@ -35756,7 +35756,7 @@ Strutting down slick pavement, this stylish young man radiates effortless cool. 
 
 ## Example Output
 
-![Urban Confidence: Street Fashion in the Spotlight](https://awesomeprompts.xyz/images/portraits/pg-1995430760048971854.jpg)
+![Urban Confidence: Street Fashion in the Spotlight](https://awesomeprompts.xyz/images/portraits/pg-1995430760048971854.webp)
 
 ---
 
@@ -35796,7 +35796,7 @@ Sitting atop a weathered car, her gaze pierces through the lens, echoing stories
 
 ## Example Output
 
-![Urban Grit: A Bold Portrait on Rust](https://awesomeprompts.xyz/images/portraits/pg-1993908408924475559.jpg)
+![Urban Grit: A Bold Portrait on Rust](https://awesomeprompts.xyz/images/portraits/pg-1993908408924475559.webp)
 
 ---
 
@@ -35816,7 +35816,7 @@ A gritty, hyper-realistic close-up portrait of a rugged middle-aged man with a t
 
 ## Example Output
 
-![Urban Grit: The Face of Resilience](https://awesomeprompts.xyz/images/portraits/pg-1995721644032360584.jpg)
+![Urban Grit: The Face of Resilience](https://awesomeprompts.xyz/images/portraits/pg-1995721644032360584.webp)
 
 ---
 
@@ -35897,7 +35897,7 @@ Amidst the glow of city lights, she embodies fierce individuality—ash brown ha
 
 ## Example Output
 
-![Urban Night Vibes: A Portrait of Boldness](https://awesomeprompts.xyz/images/portraits/pg-1994433939885207600.jpg)
+![Urban Night Vibes: A Portrait of Boldness](https://awesomeprompts.xyz/images/portraits/pg-1994433939885207600.webp)
 
 ---
 
@@ -35969,7 +35969,7 @@ A striking scene unfolds—under neon lights, a confident woman in a black track
 
 ## Example Output
 
-![Urban Night Vibes: Porsche and Power](https://awesomeprompts.xyz/images/portraits/pg-1993893216463069429.jpg)
+![Urban Night Vibes: Porsche and Power](https://awesomeprompts.xyz/images/portraits/pg-1993893216463069429.webp)
 
 ---
 
@@ -36034,7 +36034,7 @@ A stylish woman leans against a sleek BMW under the shimmering city lights. Palm
 
 ## Example Output
 
-![Urban Nights: Style Meets Sophistication](https://awesomeprompts.xyz/images/portraits/pg-1994308201169481896.jpg)
+![Urban Nights: Style Meets Sophistication](https://awesomeprompts.xyz/images/portraits/pg-1994308201169481896.webp)
 
 ---
 
@@ -36054,7 +36054,7 @@ Nighttime flash photo with Y2K aesthetic, red digital timestamp in corner. Young
 
 ## Example Output
 
-![Urban Nostalgia: A Y2K Moment Captured](https://awesomeprompts.xyz/images/portraits/pg-1995440664172183761.jpg)
+![Urban Nostalgia: A Y2K Moment Captured](https://awesomeprompts.xyz/images/portraits/pg-1995440664172183761.webp)
 
 ---
 
@@ -36074,7 +36074,7 @@ A male model, dressed in a brown bomber jacket, dark trousers, is perched on the
 
 ## Example Output
 
-![Urban Reflections: A Moment on the Fire Escape](https://awesomeprompts.xyz/images/portraits/pg-1991854470196523261.jpg)
+![Urban Reflections: A Moment on the Fire Escape](https://awesomeprompts.xyz/images/portraits/pg-1991854470196523261.webp)
 
 ---
 
@@ -36094,7 +36094,7 @@ A stylish urban fashion photograph showcasing a modern outfit with an oversized 
 
 ## Example Output
 
-![Urban Vibes: A Burst of Color and Style](https://awesomeprompts.xyz/images/portraits/pg-1995096976707428694.jpg)
+![Urban Vibes: A Burst of Color and Style](https://awesomeprompts.xyz/images/portraits/pg-1995096976707428694.webp)
 
 ---
 
@@ -36114,7 +36114,7 @@ A Stylish Young Man (Use The Uploaded Picture As Reference For The Face) is Sitt
 
 ## Example Output
 
-![Urban Vibes: A Streetwear Icon on the Edge](https://awesomeprompts.xyz/images/portraits/pg-1995775546668843213.jpg)
+![Urban Vibes: A Streetwear Icon on the Edge](https://awesomeprompts.xyz/images/portraits/pg-1995775546668843213.webp)
 
 ---
 
@@ -36186,7 +36186,7 @@ Capturing the essence of city life, this 4-panel collage showcases a bold young 
 
 ## Example Output
 
-![Urban Vibes: A Streetwear Story in Four Frames](https://awesomeprompts.xyz/images/portraits/pg-1994166422251950451.jpg)
+![Urban Vibes: A Streetwear Story in Four Frames](https://awesomeprompts.xyz/images/portraits/pg-1994166422251950451.webp)
 
 ---
 
@@ -36266,7 +36266,7 @@ Amidst the whispers of nature reclaiming the city, a rugged wanderer stands aler
 
 ## Example Output
 
-![Urban Wilderness: A Story of Survival and Resilience](https://awesomeprompts.xyz/images/portraits/pg-1995124722154307906.jpg)
+![Urban Wilderness: A Story of Survival and Resilience](https://awesomeprompts.xyz/images/portraits/pg-1995124722154307906.webp)
 
 ---
 
@@ -36286,7 +36286,7 @@ scenery shot, a public bus shot, a pet moment, a sunset, and a candid smile.
 
 ## Example Output
 
-![Vacation Vibes: A Colorful Journey in 9 Snaps! 🌈📸](https://awesomeprompts.xyz/images/portraits/pg-1991936686507307359.jpg)
+![Vacation Vibes: A Colorful Journey in 9 Snaps! 🌈📸](https://awesomeprompts.xyz/images/portraits/pg-1991936686507307359.webp)
 
 ---
 
@@ -36306,7 +36306,7 @@ A dark, atmospheric portrait of a woman standing in an abandoned industrial stru
 
 ## Example Output
 
-![Veiled in Shadows: A Portrait of Mystery](https://awesomeprompts.xyz/images/portraits/pg-1996440524853838224.jpg)
+![Veiled in Shadows: A Portrait of Mystery](https://awesomeprompts.xyz/images/portraits/pg-1996440524853838224.webp)
 
 ---
 
@@ -36401,7 +36401,7 @@ A vision of grace, this portrait captures a woman adorned in a stunning teal Vic
 
 ## Example Output
 
-![Victorian Elegance Reimagined with Nano Banana Pro](https://awesomeprompts.xyz/images/portraits/pg-1992839532622885276.jpg)
+![Victorian Elegance Reimagined with Nano Banana Pro](https://awesomeprompts.xyz/images/portraits/pg-1992839532622885276.webp)
 
 ---
 
@@ -36466,7 +36466,7 @@ A stylish girl in long boots stands confidently beside a mysterious man, envelop
 
 ## Example Output
 
-![Vintage Romance on the Streets of Old Rome](https://awesomeprompts.xyz/images/portraits/pg-1994788982996251040.jpg)
+![Vintage Romance on the Streets of Old Rome](https://awesomeprompts.xyz/images/portraits/pg-1994788982996251040.webp)
 
 ---
 
@@ -36490,7 +36490,7 @@ The background appears to be a wall decorated with a colorful Japanese-style pai
 
 ## Example Output
 
-![Vintage Vibes & Modern Aesthetics: A Portrait of Elegance](https://awesomeprompts.xyz/images/portraits/pg-1994406854609580397.jpg)
+![Vintage Vibes & Modern Aesthetics: A Portrait of Elegance](https://awesomeprompts.xyz/images/portraits/pg-1994406854609580397.webp)
 
 ---
 
@@ -36517,7 +36517,7 @@ The scene captures the beauty of travel, solitude, and new beginnings.
 
 ## Example Output
 
-![Vintage Vibes: A Journey Awaits](https://awesomeprompts.xyz/images/portraits/pg-1997222323053592685.jpg)
+![Vintage Vibes: A Journey Awaits](https://awesomeprompts.xyz/images/portraits/pg-1997222323053592685.webp)
 
 ---
 
@@ -36553,7 +36553,7 @@ Shot on disposable camera film, harsh flash, slightly off-center framing, realis
 
 ## Example Output
 
-![When Breaking Bad Meets Party Chaos: A Hilarious Flashback](https://awesomeprompts.xyz/images/portraits/pg-1993976094857273732.jpg)
+![When Breaking Bad Meets Party Chaos: A Hilarious Flashback](https://awesomeprompts.xyz/images/portraits/pg-1993976094857273732.webp)
 
 ---
 
@@ -36573,7 +36573,7 @@ A photo of the world when GTA 6 is released.
 
 ## Example Output
 
-![When Fantasy Meets Reality: The GTA 6 World Unleashed](https://awesomeprompts.xyz/images/portraits/pg-1991555159001108595.jpg)
+![When Fantasy Meets Reality: The GTA 6 World Unleashed](https://awesomeprompts.xyz/images/portraits/pg-1991555159001108595.webp)
 
 ---
 
@@ -36612,7 +36612,7 @@ A poignant scene unfolds amidst chaos—Spiderman cradles a battle-worn warrior,
 
 ## Example Output
 
-![When Heroes Fall: A Cinematic Twist on Reality](https://awesomeprompts.xyz/images/portraits/pg-1996460469025157249.jpg)
+![When Heroes Fall: A Cinematic Twist on Reality](https://awesomeprompts.xyz/images/portraits/pg-1996460469025157249.webp)
 
 ---
 
@@ -36657,7 +36657,7 @@ A striking young woman leans gracefully against a rustic doorframe, her pearl-ac
 
 ## Example Output
 
-![Where Light Meets Elegance: A Portrait of Thoughtful Beauty](https://awesomeprompts.xyz/images/portraits/pg-1991448689857163301.jpg)
+![Where Light Meets Elegance: A Portrait of Thoughtful Beauty](https://awesomeprompts.xyz/images/portraits/pg-1991448689857163301.webp)
 
 ---
 
@@ -36687,7 +36687,7 @@ Captured in a sparkle-filled Zootopia wonderland, this playful selfie features a
 
 ## Example Output
 
-![Whimsical Disney Dreams: A Selfie with Style!](https://awesomeprompts.xyz/images/portraits/pg-1995071645002747918.jpg)
+![Whimsical Disney Dreams: A Selfie with Style!](https://awesomeprompts.xyz/images/portraits/pg-1995071645002747918.webp)
 
 ---
 
@@ -36711,7 +36711,7 @@ Soft diffused sunlight filters through the background, adding a dreamy golden gl
 
 ## Example Output
 
-![Whimsical Elegance: A Snow-White Dreamscape](https://awesomeprompts.xyz/images/portraits/pg-1992013096655917171.jpg)
+![Whimsical Elegance: A Snow-White Dreamscape](https://awesomeprompts.xyz/images/portraits/pg-1992013096655917171.webp)
 
 ---
 
@@ -36731,7 +36731,7 @@ A comical encounter unfolds on a scroll! A Ming scholar's astonished gaze meets 
 
 ## Example Output
 
-![Whimsical Ink: A Playful Fusion of History and Humor](https://awesomeprompts.xyz/images/portraits/pg-1991928906291556681.jpg)
+![Whimsical Ink: A Playful Fusion of History and Humor](https://awesomeprompts.xyz/images/portraits/pg-1991928906291556681.webp)
 
 ---
 
@@ -36751,7 +36751,7 @@ Ultra-detailed, hyper-realistic, cinematic, aspect ratio 9:16. Low-angle camera 
 
 ## Example Output
 
-![Whimsical Warmth: A Cozy Encounter with Nature](https://awesomeprompts.xyz/images/portraits/pg-1991551320646447220.jpg)
+![Whimsical Warmth: A Cozy Encounter with Nature](https://awesomeprompts.xyz/images/portraits/pg-1991551320646447220.webp)
 
 ---
 
@@ -36771,7 +36771,7 @@ An ultra-realistic scene bursts with laughter, showcasing anime icons mingling i
 
 ## Example Output
 
-![Whimsical Worlds Collide in a Fisheye Fantasy!](https://awesomeprompts.xyz/images/portraits/pg-1991559962334482772.jpg)
+![Whimsical Worlds Collide in a Fisheye Fantasy!](https://awesomeprompts.xyz/images/portraits/pg-1991559962334482772.webp)
 
 ---
 
@@ -36848,7 +36848,7 @@ In a cozy kitchen with glossy white cabinets, a cheerful woman stirs joy into he
 
 ## Example Output
 
-![Whisking Joy in a Modern Kitchen](https://awesomeprompts.xyz/images/portraits/pg-1994751106631831718.jpg)
+![Whisking Joy in a Modern Kitchen](https://awesomeprompts.xyz/images/portraits/pg-1994751106631831718.webp)
 
 ---
 
@@ -36868,7 +36868,7 @@ A small garden bench nestled among tall, rust-colored hollyhocks and fallen leav
 
 ## Example Output
 
-![Whispers of Autumn: A Badger’s Curiosity](https://awesomeprompts.xyz/images/portraits/pg-1995115665846566961.jpg)
+![Whispers of Autumn: A Badger’s Curiosity](https://awesomeprompts.xyz/images/portraits/pg-1995115665846566961.webp)
 
 ---
 
@@ -36942,7 +36942,7 @@ In a serene moment, a woman in a delicate vintage dress and a man peacefully sle
 
 ## Example Output
 
-![Whispers of Nature: A Cottagecore Dream](https://awesomeprompts.xyz/images/portraits/pg-1992636484562903443.jpg)
+![Whispers of Nature: A Cottagecore Dream](https://awesomeprompts.xyz/images/portraits/pg-1992636484562903443.webp)
 
 ---
 
@@ -36962,7 +36962,7 @@ A delicate, intimate close-up portrait in the white studio. The frame is filled 
 
 ## Example Output
 
-![Whispers of Nature: A Portrait in Soft Focus](https://awesomeprompts.xyz/images/portraits/pg-1996136635155587199.jpg)
+![Whispers of Nature: A Portrait in Soft Focus](https://awesomeprompts.xyz/images/portraits/pg-1996136635155587199.webp)
 
 ---
 
@@ -37071,7 +37071,7 @@ Amidst nature's embrace, a warm light reveals a moment of calm. The soft texture
 
 ## Example Output
 
-![Whispers of the Forest: A Serene Portrait](https://awesomeprompts.xyz/images/portraits/pg-1997039870401814612.jpg)
+![Whispers of the Forest: A Serene Portrait](https://awesomeprompts.xyz/images/portraits/pg-1997039870401814612.webp)
 
 ---
 
@@ -37102,7 +37102,7 @@ Caught in a moment of tranquil beauty, a woman in a flowing gown blends with the
 
 ## Example Output
 
-![Whispers of the Wind: A Highland Dreamscape](https://awesomeprompts.xyz/images/portraits/pg-1997273663234851239.jpg)
+![Whispers of the Wind: A Highland Dreamscape](https://awesomeprompts.xyz/images/portraits/pg-1997273663234851239.webp)
 
 ---
 
@@ -37122,7 +37122,7 @@ A highly detailed portrait of a beautiful woman in a dramatic, flowing teal and 
 
 ## Example Output
 
-![Whispers of Wind: A Teal Dream Unveiled](https://awesomeprompts.xyz/images/portraits/pg-1991712850344358255.jpg)
+![Whispers of Wind: A Teal Dream Unveiled](https://awesomeprompts.xyz/images/portraits/pg-1991712850344358255.webp)
 
 ---
 
@@ -37144,7 +37144,7 @@ A low-resolution digital picture focuses on a woman in a thick winter coat holdi
 
 ## Example Output
 
-![Winter Magic: Laughs and Cocoa at Chicago's Christmas Market](https://awesomeprompts.xyz/images/portraits/pg-1993897957238739384.jpg)
+![Winter Magic: Laughs and Cocoa at Chicago's Christmas Market](https://awesomeprompts.xyz/images/portraits/pg-1993897957238739384.webp)
 
 ---
 
@@ -37198,7 +37198,7 @@ A heartwarming scene unfolds as a young girl in a cozy black hoodie puckers her 
 
 ## Example Output
 
-![Winter Whimsy: A Girl and Her Puppy in the Snow](https://awesomeprompts.xyz/images/portraits/pg-1994018748114563568.jpg)
+![Winter Whimsy: A Girl and Her Puppy in the Snow](https://awesomeprompts.xyz/images/portraits/pg-1994018748114563568.webp)
 
 ---
 
@@ -37293,7 +37293,7 @@ In a serene winter landscape, a young woman in a brown hoodie playfully puckers 
 
 ## Example Output
 
-![Winter Whimsy: A Young Woman and Her Adorable Companion](https://awesomeprompts.xyz/images/portraits/pg-1993149955683631251.jpg)
+![Winter Whimsy: A Young Woman and Her Adorable Companion](https://awesomeprompts.xyz/images/portraits/pg-1993149955683631251.webp)
 
 ---
 
@@ -37313,7 +37313,7 @@ A hand-drawn colored-pencil portrait of a woman with long hair, rosy cheeks, and
 
 ## Example Output
 
-![Winter Whispers: A Cozy Portrait Unveiled](https://awesomeprompts.xyz/images/portraits/pg-1996527880256582111.jpg)
+![Winter Whispers: A Cozy Portrait Unveiled](https://awesomeprompts.xyz/images/portraits/pg-1996527880256582111.webp)
 
 ---
 
@@ -37407,7 +37407,7 @@ A snowy morning scene captures a young woman in a cream hoodie, sharing warmth w
 
 ## Example Output
 
-![Winter Whispers: Cozy Moments with a Puppy](https://awesomeprompts.xyz/images/portraits/pg-1993157519779545238.jpg)
+![Winter Whispers: Cozy Moments with a Puppy](https://awesomeprompts.xyz/images/portraits/pg-1993157519779545238.webp)
 
 ---
 
@@ -37460,7 +37460,7 @@ Captured in a playful crouch, our Snow White revels in vintage Y2K charm. A stri
 
 ## Example Output
 
-![Y2K Snow White: A Modern Fairytale in Pixels](https://awesomeprompts.xyz/images/portraits/pg-1995563608911348172.jpg)
+![Y2K Snow White: A Modern Fairytale in Pixels](https://awesomeprompts.xyz/images/portraits/pg-1995563608911348172.webp)
 
 ---
 
@@ -37570,7 +37570,7 @@ A striking redhead flashes a gentle smile, cradling a blister pack of social med
 
 ## Example Output
 
-![Your Daily Dose of Digital Delight](https://awesomeprompts.xyz/images/portraits/pg-1997029136725065981.jpg)
+![Your Daily Dose of Digital Delight](https://awesomeprompts.xyz/images/portraits/pg-1997029136725065981.webp)
 
 ---
 
@@ -37597,7 +37597,7 @@ create a map of the US where every state is made out of its most famous food (th
 
 ## Example Output
 
-![A Culinary Map of America: States in Delicious Detail!](https://awesomeprompts.xyz/images/posters/pg-1995720976068137048.jpg)
+![A Culinary Map of America: States in Delicious Detail!](https://awesomeprompts.xyz/images/posters/pg-1995720976068137048.webp)
 
 ---
 
@@ -37617,7 +37617,7 @@ Lyndon B. Johnson taking the oath, read from an iPad
 
 ## Example Output
 
-![A Modern Twist on History: LBJ Takes Oath with an iPad](https://awesomeprompts.xyz/images/posters/pg-1994465125999260028.jpg)
+![A Modern Twist on History: LBJ Takes Oath with an iPad](https://awesomeprompts.xyz/images/posters/pg-1994465125999260028.webp)
 
 ---
 
@@ -37637,7 +37637,7 @@ Nixon welcoming the King in his office inside the Watergate building
 
 ## Example Output
 
-![A Royal Encounter: Nixon Meets the King](https://awesomeprompts.xyz/images/posters/pg-1994465147893551346.jpg)
+![A Royal Encounter: Nixon Meets the King](https://awesomeprompts.xyz/images/posters/pg-1994465147893551346.webp)
 
 ---
 
@@ -37657,7 +37657,7 @@ Muhammad Ali, sponsored by Prime
 
 ## Example Output
 
-![Ali's Legacy: The Prime Punch of History](https://awesomeprompts.xyz/images/posters/pg-1994465129761493058.jpg)
+![Ali's Legacy: The Prime Punch of History](https://awesomeprompts.xyz/images/posters/pg-1994465129761493058.webp)
 
 ---
 
@@ -37680,7 +37680,7 @@ Imagine a lively character bursting with joy, ready to engage with viewers! The 
 
 ## Example Output
 
-![Cheerful Banter: Crafting Your Perfect Thumbnail!](https://awesomeprompts.xyz/images/posters/pg-1991675633521627170.jpg)
+![Cheerful Banter: Crafting Your Perfect Thumbnail!](https://awesomeprompts.xyz/images/posters/pg-1991675633521627170.webp)
 
 ---
 
@@ -37700,7 +37700,7 @@ Look up the 5 best vacuum cleaners under $300 and create an infographic with pro
 
 ## Example Output
 
-![Clean Sweep: Top 5 Vacuums Under $300 Revealed!](https://awesomeprompts.xyz/images/posters/pg-1991541946121383936.jpg)
+![Clean Sweep: Top 5 Vacuums Under $300 Revealed!](https://awesomeprompts.xyz/images/posters/pg-1991541946121383936.webp)
 
 ---
 
@@ -37762,7 +37762,7 @@ Design a professional promotional poster for a [Coffee Shop]. Composition : A ci
 - [Original](https://mp.weixin.qq.com/s/lrYNbs4rGs3KOqewoZ6aNQ)
 
 ## Example Output
-![Commercial Promotional Poster](https://awesomeprompts.xyz/images/posters/nb-commercial-promotional-poster.png)
+![Commercial Promotional Poster](https://awesomeprompts.xyz/images/posters/nb-commercial-promotional-poster.webp)
 
 ---
 
@@ -37782,7 +37782,7 @@ Create an infographic that shows how to make Matcha.
 
 ## Example Output
 
-![Crafting the Perfect Matcha: An Infographic Guide](https://awesomeprompts.xyz/images/posters/pg-1991524634207088677.jpg)
+![Crafting the Perfect Matcha: An Infographic Guide](https://awesomeprompts.xyz/images/posters/pg-1991524634207088677.webp)
 
 ---
 
@@ -37802,7 +37802,7 @@ Behold a stunning grid of iconic characters from 'Water Margin', each meticulous
 
 ## Example Output
 
-![Cultural Tapestry: The Heroes of Water Margin in Intricate Detail](https://awesomeprompts.xyz/images/posters/pg-1992057312622874857.jpg)
+![Cultural Tapestry: The Heroes of Water Margin in Intricate Detail](https://awesomeprompts.xyz/images/posters/pg-1992057312622874857.webp)
 
 ---
 
@@ -37923,7 +37923,7 @@ Put this whole text, verbatim, into a photo of a glossy magazine article on a de
 - [Original](https://x.com/fofrAI/status/1991530971800182929)
 
 ## Example Output
-![Magazine Layout Generator](https://awesomeprompts.xyz/images/posters/nb-magazine-layout-generator.png)
+![Magazine Layout Generator](https://awesomeprompts.xyz/images/posters/nb-magazine-layout-generator.webp)
 
 ---
 
@@ -37943,7 +37943,7 @@ Please place the product image onto the diagram template. Remove all existing te
 
 ## Example Output
 
-![Mapping Magic: Nano Banana 2 Takes Center Stage](https://awesomeprompts.xyz/images/posters/pg-1992907633540415493.jpg)
+![Mapping Magic: Nano Banana 2 Takes Center Stage](https://awesomeprompts.xyz/images/posters/pg-1992907633540415493.webp)
 
 ---
 
@@ -37991,7 +37991,7 @@ Can a thumbnail truly captivate? The Nano Banana Pro proves it can! With its str
 
 ## Example Output
 
-![Nano Banana Pro: The Thumbnail Game-Changer!](https://awesomeprompts.xyz/images/posters/pg-1991804188536525169.jpg)
+![Nano Banana Pro: The Thumbnail Game-Changer!](https://awesomeprompts.xyz/images/posters/pg-1991804188536525169.webp)
 
 ---
 
@@ -38056,7 +38056,7 @@ Che Guevara leading the revolution, even in 2025
 
 ## Example Output
 
-![Revolutionary Spirit: Che Guevara in 2025](https://awesomeprompts.xyz/images/posters/pg-1994465151659946313.jpg)
+![Revolutionary Spirit: Che Guevara in 2025](https://awesomeprompts.xyz/images/posters/pg-1994465151659946313.webp)
 
 ---
 
@@ -38076,7 +38076,7 @@ Find the latest NASA data on Mars rover discoveries this month and create an edu
 
 ## Example Output
 
-![Revolutionizing AI: The Nano Banana Pro Unleashes Image Power!](https://awesomeprompts.xyz/images/posters/pg-1991541943969673542.jpg)
+![Revolutionizing AI: The Nano Banana Pro Unleashes Image Power!](https://awesomeprompts.xyz/images/posters/pg-1991541943969673542.webp)
 
 ---
 
@@ -38098,7 +38098,7 @@ A digital snapshot captures a student with a backpack and headphones waiting on 
 
 ## Example Output
 
-![Rush Hour Rhapsody: A Student's Subway Story](https://awesomeprompts.xyz/images/posters/pg-1993897964461248817.jpg)
+![Rush Hour Rhapsody: A Student's Subway Story](https://awesomeprompts.xyz/images/posters/pg-1993897964461248817.webp)
 
 ---
 
@@ -38172,7 +38172,7 @@ Look up the weather in San Francisco, CA and create an image of a 5-day forecast
 
 ## Example Output
 
-![Sunny Days Ahead: San Francisco's 5-Day Weather Unveiled!](https://awesomeprompts.xyz/images/posters/pg-1991541948235293071.jpg)
+![Sunny Days Ahead: San Francisco's 5-Day Weather Unveiled!](https://awesomeprompts.xyz/images/posters/pg-1991541948235293071.webp)
 
 ---
 
@@ -38192,7 +38192,7 @@ Show me a very detailed situation of the Battle of Stalingrad at the end of Dece
 
 ## Example Output
 
-![Unraveling the Chaos of Stalingrad: December 1943](https://awesomeprompts.xyz/images/posters/pg-1991595089190141978.jpg)
+![Unraveling the Chaos of Stalingrad: December 1943](https://awesomeprompts.xyz/images/posters/pg-1991595089190141978.webp)
 
 ---
 

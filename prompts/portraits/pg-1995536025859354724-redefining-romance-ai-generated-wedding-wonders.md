@@ -5,7 +5,7 @@ tags: ["nano-banana-pro"]
 author: "@miilesus"
 author_url: "https://twitter.com/miilesus"
 source_url: "https://twitter.com/miilesus/status/1995536025859354724"
-preview: "/images/portraits/pg-1995536025859354724.jpg"
+preview: "/images/portraits/pg-1995536025859354724.webp"
 ---
 
 Say goodbye to traditional wedding photos! Imagine your love captured in stunning AI-crafted elegance, with every detail perfectly tailored to your fairy tale.
@@ -50,4 +50,4 @@ Say goodbye to traditional wedding photos! Imagine your love captured in stunnin
 
 ## Example Output
 
-![Redefining Romance: AI-Generated Wedding Wonders](/images/portraits/pg-1995536025859354724.jpg)
+![Redefining Romance: AI-Generated Wedding Wonders](/images/portraits/pg-1995536025859354724.webp)

@@ -5,7 +5,7 @@ tags: ["art","nano-banana-pro"]
 author: "@Arminn_Ai"
 author_url: "https://twitter.com/Arminn_Ai"
 source_url: "https://twitter.com/Arminn_Ai/status/1992650501402542303"
-preview: "/images/3d/pg-1992650501402542303.jpg"
+preview: "/images/3d/pg-1992650501402542303.webp"
 ---
 
 Blazing colors and exquisite design collide in this avant-garde spectacle! A stunning gown transforms Persian calligraphy into a breath-taking vortex of art.
@@ -20,4 +20,4 @@ Blazing colors and exquisite design collide in this avant-garde spectacle! A stu
 
 ## Example Output
 
-![A Whirlwind of Letters and Style](/images/3d/pg-1992650501402542303.jpg)
+![A Whirlwind of Letters and Style](/images/3d/pg-1992650501402542303.webp)

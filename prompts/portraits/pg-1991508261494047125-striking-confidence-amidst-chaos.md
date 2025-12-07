@@ -5,7 +5,7 @@ tags: ["portrait","dark","nano-banana-pro"]
 author: "@rovvmut_"
 author_url: "https://twitter.com/rovvmut_"
 source_url: "https://twitter.com/rovvmut_/status/1991508261494047125"
-preview: "/images/portraits/pg-1991508261494047125.jpg"
+preview: "/images/portraits/pg-1991508261494047125.webp"
 ---
 
 Caught in a fleeting moment, this portrait reveals a man exuding style and confidence. A dark turtleneck and sunglasses amplify his allure, set against a blurred crowd—pure street chic.
@@ -20,4 +20,4 @@ Unplanned paparazzi style portrait, an intense, close-up moment capturing a man 
 
 ## Example Output
 
-![Striking Confidence Amidst Chaos](/images/portraits/pg-1991508261494047125.jpg)
+![Striking Confidence Amidst Chaos](/images/portraits/pg-1991508261494047125.webp)

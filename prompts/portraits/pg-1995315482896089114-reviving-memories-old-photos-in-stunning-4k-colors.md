@@ -5,7 +5,7 @@ tags: ["vibrant","nano-banana-pro"]
 author: "@ShreyaYadav___"
 author_url: "https://twitter.com/ShreyaYadav___"
 source_url: "https://twitter.com/ShreyaYadav___/status/1995315482896089114"
-preview: "/images/portraits/pg-1995315482896089114.jpg"
+preview: "/images/portraits/pg-1995315482896089114.webp"
 ---
 
 Transform faded history into vibrant life! This old image springs forth, free of flaws and bursting with color, showcasing the beauty of a bygone era in exquisite detail.
@@ -20,4 +20,4 @@ Act as an expert photo restorer and process this image of [INSERT DESCRIPTION OF
 
 ## Example Output
 
-![Reviving Memories: Old Photos in Stunning 4K Colors!](/images/portraits/pg-1995315482896089114.jpg)
+![Reviving Memories: Old Photos in Stunning 4K Colors!](/images/portraits/pg-1995315482896089114.webp)

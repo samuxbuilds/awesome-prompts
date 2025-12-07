@@ -5,7 +5,7 @@ tags: ["vibrant","nano-banana-pro"]
 author: "@Sophia_here12"
 author_url: "https://twitter.com/Sophia_here12"
 source_url: "https://twitter.com/Sophia_here12/status/1997191906732781621"
-preview: "/images/portraits/pg-1997191906732781621.jpg"
+preview: "/images/portraits/pg-1997191906732781621.webp"
 ---
 
 Amidst gentle snowflakes, a woman in a vibrant orange jacket embodies courage on a snowy trail. Her joyful smile contrasts with the serene icy landscape, inspiring adventurers everywhere.
@@ -27,4 +27,4 @@ This moment captures courage, strength, and the joy of outdoor exploration.
 
 ## Example Output
 
-![Bold Steps in the Winter Wonderland](/images/portraits/pg-1997191906732781621.jpg)
+![Bold Steps in the Winter Wonderland](/images/portraits/pg-1997191906732781621.webp)

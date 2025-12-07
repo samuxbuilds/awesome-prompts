@@ -5,7 +5,7 @@ tags: ["light","nano-banana-pro"]
 author: "@Xxaroon"
 author_url: "https://twitter.com/Xxaroon"
 source_url: "https://twitter.com/Xxaroon/status/1991350094235595151"
-preview: "/images/3d/pg-1991350094235595151.jpg"
+preview: "/images/3d/pg-1991350094235595151.webp"
 ---
 
 A young man exudes effortless style under soft evening light, cradling his drink. That oversized denim jacket and subtle accessories tell a story of comfort and cool sophistication.
@@ -34,4 +34,4 @@ Camera settings: f/1.8, ISO 200, 85mm lens,
 
 ## Example Output
 
-![Coffee Vibes and Calm Confidence](/images/3d/pg-1991350094235595151.jpg)
+![Coffee Vibes and Calm Confidence](/images/3d/pg-1991350094235595151.webp)

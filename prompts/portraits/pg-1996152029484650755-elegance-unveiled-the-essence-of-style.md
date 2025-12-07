@@ -5,7 +5,7 @@ tags: ["portrait","art","fashion","nano-banana-pro"]
 author: "@Harboris_27"
 author_url: "https://twitter.com/Harboris_27"
 source_url: "https://twitter.com/Harboris_27/status/1996152029484650755"
-preview: "/images/portraits/pg-1996152029484650755.jpg"
+preview: "/images/portraits/pg-1996152029484650755.webp"
 ---
 
 A captivating portrait unfolds: a young woman radiates grace against a soft orange backdrop, her fashion-forward dress blurring the line between elegance and artistry.
@@ -20,4 +20,4 @@ A fashion poster of a young woman (uploaded image). the background features soft
 
 ## Example Output
 
-![Elegance Unveiled: The Essence of Style](/images/portraits/pg-1996152029484650755.jpg)
+![Elegance Unveiled: The Essence of Style](/images/portraits/pg-1996152029484650755.webp)

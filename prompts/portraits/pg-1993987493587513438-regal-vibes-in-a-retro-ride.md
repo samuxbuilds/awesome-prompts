@@ -5,7 +5,7 @@ tags: ["vintage","nano-banana-pro"]
 author: "@lexx_aura"
 author_url: "https://twitter.com/lexx_aura"
 source_url: "https://twitter.com/lexx_aura/status/1993987493587513438"
-preview: "/images/portraits/pg-1993987493587513438.jpg"
+preview: "/images/portraits/pg-1993987493587513438.webp"
 ---
 
 A stunning brunette radiates confidence in a vintage luxury car, wrapped in deep red velvet. The snowy cityscape outside contrasts beautifully with her warm, composed presence and exquisite detailing.
@@ -108,4 +108,4 @@ A stunning brunette radiates confidence in a vintage luxury car, wrapped in deep
 
 ## Example Output
 
-![Regal Vibes in a Retro Ride](/images/portraits/pg-1993987493587513438.jpg)
+![Regal Vibes in a Retro Ride](/images/portraits/pg-1993987493587513438.webp)

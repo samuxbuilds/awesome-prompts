@@ -5,7 +5,7 @@ tags: ["nano-banana-pro"]
 author: "@john_my07"
 author_url: "https://twitter.com/john_my07"
 source_url: "https://twitter.com/john_my07/status/1991343397270089941"
-preview: "/images/portraits/pg-1991343397270089941.jpg"
+preview: "/images/portraits/pg-1991343397270089941.webp"
 ---
 
 Could there be a better way to greet the chill of winter? Nestled in soft layers, a warm cup of tea cradled in hand, the calm ambiance of the room invites peace.
@@ -30,4 +30,4 @@ quality = "ultra-detailed, high-resolution, cinematic finish"
 
 ## Example Output
 
-![Sipping Serenity: A Cozy Winter Morning](/images/portraits/pg-1991343397270089941.jpg)
+![Sipping Serenity: A Cozy Winter Morning](/images/portraits/pg-1991343397270089941.webp)

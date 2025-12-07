@@ -5,7 +5,7 @@ tags: ["selfie","light","nano-banana-pro"]
 author: "@lexx_aura"
 author_url: "https://twitter.com/lexx_aura"
 source_url: "https://twitter.com/lexx_aura/status/1995485429265575954"
-preview: "/images/portraits/pg-1995485429265575954.jpg"
+preview: "/images/portraits/pg-1995485429265575954.webp"
 ---
 
 A radiant young woman captures a peaceful moment, her warm glow and gentle smile inviting all to share in her relaxed vibe. Sunlight dances on her freckles, enhancing the serene atmosphere.
@@ -79,4 +79,4 @@ A radiant young woman captures a peaceful moment, her warm glow and gentle smile
 
 ## Example Output
 
-![Chasing Sunbeams: A Serene Selfie Moment](/images/portraits/pg-1995485429265575954.jpg)
+![Chasing Sunbeams: A Serene Selfie Moment](/images/portraits/pg-1995485429265575954.webp)

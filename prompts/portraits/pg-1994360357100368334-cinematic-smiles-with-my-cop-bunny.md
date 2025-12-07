@@ -5,7 +5,7 @@ tags: ["fantasy","vibrant","nano-banana-pro"]
 author: "@xmiiru_"
 author_url: "https://twitter.com/xmiiru_"
 source_url: "https://twitter.com/xmiiru_/status/1994360357100368334"
-preview: "/images/portraits/pg-1994360357100368334.jpg"
+preview: "/images/portraits/pg-1994360357100368334.webp"
 ---
 
 In a bustling cinema, Miyeon captures a playful moment with Judy Hopps, the spirited cop bunny! A fusion of fantasy and reality in a vibrant movie night.
@@ -42,4 +42,4 @@ In a bustling cinema, Miyeon captures a playful moment with Judy Hopps, the spir
 
 ## Example Output
 
-![Cinematic Smiles with My Cop Bunny! 🐰✨](/images/portraits/pg-1994360357100368334.jpg)
+![Cinematic Smiles with My Cop Bunny! 🐰✨](/images/portraits/pg-1994360357100368334.webp)

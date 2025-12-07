@@ -5,7 +5,7 @@ tags: ["realistic","nano-banana-pro"]
 author: "@dotey"
 author_url: "https://twitter.com/dotey"
 source_url: "https://twitter.com/dotey/status/1996281855503372510"
-preview: "/images/portraits/pg-1996281855503372510.png"
+preview: "/images/portraits/pg-1996281855503372510.webp"
 ---
 
 What happens when a beloved comic character steps into the real world? This cinematic shot captures an ultra-realistic rendition, merging iconic style with lifelike detail—every expression, outfit, and hairstyle is meticulously crafted against a richly detailed backdrop.
@@ -40,4 +40,4 @@ NEGATIVE PROMPT:
 
 ## Example Output
 
-![From Comic to Reality: A Stunning Transformation](/images/portraits/pg-1996281855503372510.png)
+![From Comic to Reality: A Stunning Transformation](/images/portraits/pg-1996281855503372510.webp)

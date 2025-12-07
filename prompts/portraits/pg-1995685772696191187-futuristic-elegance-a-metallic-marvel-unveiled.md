@@ -5,7 +5,7 @@ tags: ["portrait","fashion","nano-banana-pro"]
 author: "@Just_sharon7"
 author_url: "https://twitter.com/Just_sharon7"
 source_url: "https://twitter.com/Just_sharon7/status/1995685772696191187"
-preview: "/images/portraits/pg-1995685772696191187.jpg"
+preview: "/images/portraits/pg-1995685772696191187.webp"
 ---
 
 Bold and striking, this high-fashion portrait showcases a confident woman in a metallic silver ensemble. Her dramatic gaze and edgy styling redefine elegance against a crisp white backdrop.
@@ -74,4 +74,4 @@ Bold and striking, this high-fashion portrait showcases a confident woman in a m
 
 ## Example Output
 
-![Futuristic Elegance: A Metallic Marvel Unveiled](/images/portraits/pg-1995685772696191187.jpg)
+![Futuristic Elegance: A Metallic Marvel Unveiled](/images/portraits/pg-1995685772696191187.webp)

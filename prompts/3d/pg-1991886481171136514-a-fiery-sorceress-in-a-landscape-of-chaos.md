@@ -5,7 +5,7 @@ tags: ["nano-banana-pro"]
 author: "@fahabib91"
 author_url: "https://twitter.com/fahabib91"
 source_url: "https://twitter.com/fahabib91/status/1991886481171136514"
-preview: "/images/3d/pg-1991886481171136514.jpg"
+preview: "/images/3d/pg-1991886481171136514.webp"
 ---
 
 Amidst a tumultuous blaze, a striking figure commands flames with elegance. Draped in ethereal silk, her luminous presence contrasts starkly against the consuming inferno.
@@ -24,4 +24,4 @@ The background is dominated by intense, raging fire, suggesting a destructive or
 
 ## Example Output
 
-![A Fiery Sorceress in a Landscape of Chaos](/images/3d/pg-1991886481171136514.jpg)
+![A Fiery Sorceress in a Landscape of Chaos](/images/3d/pg-1991886481171136514.webp)

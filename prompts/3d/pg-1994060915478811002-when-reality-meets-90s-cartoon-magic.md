@@ -5,7 +5,7 @@ tags: ["cartoon","art","nano-banana-pro"]
 author: "@ShreyaYadav___"
 author_url: "https://twitter.com/ShreyaYadav___"
 source_url: "https://twitter.com/ShreyaYadav___/status/1994060915478811002"
-preview: "/images/3d/pg-1994060915478811002.jpg"
+preview: "/images/3d/pg-1994060915478811002.webp"
 ---
 
 Two worlds collide! A striking man in a trendy hoodie stands beside his animated twin, bursting with color and energy against a soft backdrop. Can you spot the playful details?
@@ -41,4 +41,4 @@ Two worlds collide! A striking man in a trendy hoodie stands beside his animated
 
 ## Example Output
 
-![When Reality Meets 90s Cartoon Magic](/images/3d/pg-1994060915478811002.jpg)
+![When Reality Meets 90s Cartoon Magic](/images/3d/pg-1994060915478811002.webp)

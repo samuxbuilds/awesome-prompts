@@ -5,7 +5,7 @@ tags: ["portrait","art","nature","vibrant","nano-banana-pro"]
 author: "@kingofdairyque"
 author_url: "https://twitter.com/kingofdairyque"
 source_url: "https://twitter.com/kingofdairyque/status/1996527880256582111"
-preview: "/images/portraits/pg-1996527880256582111.jpg"
+preview: "/images/portraits/pg-1996527880256582111.webp"
 ---
 
 Snowy peaks cradle a vibrant spirit! This colored-pencil artwork captures a woman, her warmth radiating against the chilly backdrop of nature's embrace.
@@ -20,4 +20,4 @@ A hand-drawn colored-pencil portrait of a woman with long hair, rosy cheeks, and
 
 ## Example Output
 
-![Winter Whispers: A Cozy Portrait Unveiled](/images/portraits/pg-1996527880256582111.jpg)
+![Winter Whispers: A Cozy Portrait Unveiled](/images/portraits/pg-1996527880256582111.webp)

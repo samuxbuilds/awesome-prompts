@@ -5,7 +5,7 @@ tags: ["light","nano-banana-pro"]
 author: "@Just_sharon7"
 author_url: "https://twitter.com/Just_sharon7"
 source_url: "https://twitter.com/Just_sharon7/status/1994803815649087958"
-preview: "/images/3d/pg-1994803815649087958.jpg"
+preview: "/images/3d/pg-1994803815649087958.webp"
 ---
 
 Bright lights and quirky collectibles surround this playful gamer girl, capturing a moment full of personality and charm in her cozy streaming space.
@@ -60,4 +60,4 @@ Bright lights and quirky collectibles surround this playful gamer girl, capturin
 
 ## Example Output
 
-![Gamer Vibes: A Snapshot of Playful Aesthetics](/images/3d/pg-1994803815649087958.jpg)
+![Gamer Vibes: A Snapshot of Playful Aesthetics](/images/3d/pg-1994803815649087958.webp)

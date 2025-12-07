@@ -5,7 +5,7 @@ tags: ["portrait","nano-banana-pro"]
 author: "@AIByAbbay"
 author_url: "https://twitter.com/AIByAbbay"
 source_url: "https://twitter.com/AIByAbbay/status/1996549545522565510"
-preview: "/images/portraits/pg-1996549545522565510.jpg"
+preview: "/images/portraits/pg-1996549545522565510.webp"
 ---
 
 Soft amber hues envelop this serene scene, where a model exudes calm in a cream turtleneck and charcoal trousers. Every texture—from the ribbed knit to polished leather—invites you closer.
@@ -74,4 +74,4 @@ Soft amber hues envelop this serene scene, where a model exudes calm in a cream 
 
 ## Example Output
 
-![Effortless Elegance: A Portrait in Warm Tones](/images/portraits/pg-1996549545522565510.jpg)
+![Effortless Elegance: A Portrait in Warm Tones](/images/portraits/pg-1996549545522565510.webp)

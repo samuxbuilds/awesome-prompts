@@ -5,7 +5,7 @@ tags: ["light","nano-banana-pro"]
 author: "@xmliisu"
 author_url: "https://twitter.com/xmliisu"
 source_url: "https://twitter.com/xmliisu/status/1995899876010340636"
-preview: "/images/portraits/pg-1995899876010340636.jpg"
+preview: "/images/portraits/pg-1995899876010340636.webp"
 ---
 
 Under soft streetlights, a stylish woman captivates on a silver hypercar, her sequined dress shimmering like the stars, while palm trees dance in the cinematic glow.
@@ -65,4 +65,4 @@ Under soft streetlights, a stylish woman captivates on a silver hypercar, her se
 
 ## Example Output
 
-![Silver Dreams: The Nighttime Glam of Gemini Nano Banana 3.0](/images/portraits/pg-1995899876010340636.jpg)
+![Silver Dreams: The Nighttime Glam of Gemini Nano Banana 3.0](/images/portraits/pg-1995899876010340636.webp)

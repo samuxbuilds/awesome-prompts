@@ -5,7 +5,7 @@ tags: ["realistic","urban","nano-banana-pro"]
 author: "@CharaspowerAI"
 author_url: "https://twitter.com/CharaspowerAI"
 source_url: "https://twitter.com/CharaspowerAI/status/1995459113157840947"
-preview: "/images/portraits/pg-1995459113157840947.jpg"
+preview: "/images/portraits/pg-1995459113157840947.webp"
 ---
 
 An electrifying moment unfolds as Mike Tyson erupts with raw power, surrounded by captivated onlookers. The gritty urban backdrop enhances this hyper-realistic snapshot of adrenaline and excitement!
@@ -54,4 +54,4 @@ An electrifying moment unfolds as Mike Tyson erupts with raw power, surrounded b
 
 ## Example Output
 
-![Mike Tyson's Raw Energy Captured in Urban Chaos](/images/portraits/pg-1995459113157840947.jpg)
+![Mike Tyson's Raw Energy Captured in Urban Chaos](/images/portraits/pg-1995459113157840947.webp)

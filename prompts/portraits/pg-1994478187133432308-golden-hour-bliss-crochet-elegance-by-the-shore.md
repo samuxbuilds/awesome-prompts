@@ -5,7 +5,7 @@ tags: ["pastel","nano-banana-pro"]
 author: "@IqraSaifiii"
 author_url: "https://twitter.com/IqraSaifiii"
 source_url: "https://twitter.com/IqraSaifiii/status/1994478187133432308"
-preview: "/images/portraits/pg-1994478187133432308.jpg"
+preview: "/images/portraits/pg-1994478187133432308.webp"
 ---
 
 Basking in the sunset glow, a serene woman captures beachside tranquility. Her delicate crochet cardigan and pastel accents harmonize beautifully with the gentle waves.
@@ -32,4 +32,4 @@ Basking in the sunset glow, a serene woman captures beachside tranquility. Her d
 
 ## Example Output
 
-![Golden Hour Bliss: Crochet Elegance by the Shore](/images/portraits/pg-1994478187133432308.jpg)
+![Golden Hour Bliss: Crochet Elegance by the Shore](/images/portraits/pg-1994478187133432308.webp)

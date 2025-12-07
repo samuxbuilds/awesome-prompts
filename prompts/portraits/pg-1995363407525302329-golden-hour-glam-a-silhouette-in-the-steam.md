@@ -5,7 +5,7 @@ tags: ["light","nano-banana-pro"]
 author: "@_imfaizan18"
 author_url: "https://twitter.com/_imfaizan18"
 source_url: "https://twitter.com/_imfaizan18/status/1995363407525302329"
-preview: "/images/portraits/pg-1995363407525302329.jpg"
+preview: "/images/portraits/pg-1995363407525302329.webp"
 ---
 
 A captivating moment unfolds as warm light dances through a bathroom, enveloping a young woman in ethereal beauty. Her silhouette glows, echoing cinematic allure amidst soft steam.
@@ -32,4 +32,4 @@ A captivating moment unfolds as warm light dances through a bathroom, enveloping
 
 ## Example Output
 
-![Golden Hour Glam: A Silhouette in the Steam](/images/portraits/pg-1995363407525302329.jpg)
+![Golden Hour Glam: A Silhouette in the Steam](/images/portraits/pg-1995363407525302329.webp)

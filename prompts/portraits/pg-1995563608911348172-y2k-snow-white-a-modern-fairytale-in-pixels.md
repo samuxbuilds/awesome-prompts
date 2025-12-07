@@ -5,7 +5,7 @@ tags: ["vintage","modern","nano-banana-pro"]
 author: "@IqraSaifiii"
 author_url: "https://twitter.com/IqraSaifiii"
 source_url: "https://twitter.com/IqraSaifiii/status/1995563608911348172"
-preview: "/images/portraits/pg-1995563608911348172.jpg"
+preview: "/images/portraits/pg-1995563608911348172.webp"
 ---
 
 Captured in a playful crouch, our Snow White revels in vintage Y2K charm. A striking red apple in hand, she embodies whimsy against a backdrop of ivy and soft cream.
@@ -53,4 +53,4 @@ Captured in a playful crouch, our Snow White revels in vintage Y2K charm. A stri
 
 ## Example Output
 
-![Y2K Snow White: A Modern Fairytale in Pixels](/images/portraits/pg-1995563608911348172.jpg)
+![Y2K Snow White: A Modern Fairytale in Pixels](/images/portraits/pg-1995563608911348172.webp)

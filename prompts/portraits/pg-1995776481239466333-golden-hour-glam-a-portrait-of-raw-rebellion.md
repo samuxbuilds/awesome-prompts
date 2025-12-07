@@ -5,7 +5,7 @@ tags: ["portrait","light","nano-banana-pro"]
 author: "@AIwithkhan"
 author_url: "https://twitter.com/AIwithkhan"
 source_url: "https://twitter.com/AIwithkhan/status/1995776481239466333"
-preview: "/images/portraits/pg-1995776481239466333.jpg"
+preview: "/images/portraits/pg-1995776481239466333.webp"
 ---
 
 A captivating moment unfolds as golden light dances on her wet hair, reflecting a fierce spirit. Smoky eyes and a cigarette amplify her sultry allure, with dreamy bokeh hinting at luxurious secrets.
@@ -20,4 +20,4 @@ A hyper-realistic close-up portrait of a woman with wet hair clinging to her fac
 
 ## Example Output
 
-![Golden Hour Glam: A Portrait of Raw Rebellion](/images/portraits/pg-1995776481239466333.jpg)
+![Golden Hour Glam: A Portrait of Raw Rebellion](/images/portraits/pg-1995776481239466333.webp)

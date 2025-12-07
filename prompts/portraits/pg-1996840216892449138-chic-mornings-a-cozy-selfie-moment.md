@@ -5,7 +5,7 @@ tags: ["selfie","nature","light","nano-banana-pro"]
 author: "@xmiiru_"
 author_url: "https://twitter.com/xmiiru_"
 source_url: "https://twitter.com/xmiiru_/status/1996840216892449138"
-preview: "/images/portraits/pg-1996840216892449138.jpg"
+preview: "/images/portraits/pg-1996840216892449138.webp"
 ---
 
 Sun-kissed and stylish! This petite beauty radiates charm in mint satin, capturing a serene moment on her velvet sofa. Nature's light dances around, bringing warmth to her playful smile.
@@ -40,4 +40,4 @@ Sun-kissed and stylish! This petite beauty radiates charm in mint satin, capturi
 
 ## Example Output
 
-![Chic Mornings: A Cozy Selfie Moment](/images/portraits/pg-1996840216892449138.jpg)
+![Chic Mornings: A Cozy Selfie Moment](/images/portraits/pg-1996840216892449138.webp)

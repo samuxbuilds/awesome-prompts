@@ -5,7 +5,7 @@ tags: ["portrait","illustration","minimal","light","vibrant","nano-banana-pro"]
 author: "@ShreyaYadav___"
 author_url: "https://twitter.com/ShreyaYadav___"
 source_url: "https://twitter.com/ShreyaYadav___/status/1993150717394325653"
-preview: "/images/portraits/pg-1993150717394325653.jpg"
+preview: "/images/portraits/pg-1993150717394325653.webp"
 ---
 
 A striking close-up reveals a character bursting with vibrant colors, juxtaposed against a minimalist white backdrop. This 8K illustration celebrates bold textures and striking contrasts, bringing the unique features and personality of the subject to life!
@@ -20,4 +20,4 @@ A highly detailed 8k digital illustration of a person, presented as a close-up, 
 
 ## Example Output
 
-![Radiant Portrait: A Fusion of Light and Detail](/images/portraits/pg-1993150717394325653.jpg)
+![Radiant Portrait: A Fusion of Light and Detail](/images/portraits/pg-1993150717394325653.webp)

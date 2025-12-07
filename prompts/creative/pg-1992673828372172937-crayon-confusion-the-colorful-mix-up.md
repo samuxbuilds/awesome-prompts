@@ -5,7 +5,7 @@ tags: ["colorful","light","vibrant","nano-banana-pro"]
 author: "@goodside"
 author_url: "https://twitter.com/goodside"
 source_url: "https://twitter.com/goodside/status/1992673828372172937"
-preview: "/images/creative/pg-1992673828372172937.jpg"
+preview: "/images/creative/pg-1992673828372172937.webp"
 ---
 
 Can you spot the color culprits? This playful palette challenges your perception with vibrant hues and a cheeky twist of red! Uncover the four faux pas in this delightful crayon conundrum.
@@ -20,4 +20,4 @@ A list of eight color names is written in crayons of the corresponding color, bu
 
 ## Example Output
 
-![Crayon Confusion: The Colorful Mix-Up!](/images/creative/pg-1992673828372172937.jpg)
+![Crayon Confusion: The Colorful Mix-Up!](/images/creative/pg-1992673828372172937.webp)
