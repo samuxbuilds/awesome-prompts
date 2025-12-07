@@ -3352,22 +3352,6 @@ Put this whole text, verbatim, into a photo of a glossy magazine article on a de
 
 ---
 
-#### Viral Cover Image (Youtube/Douyin/TikTok)
-
-**Tags:** `creative`, `ai-art`
-
-*Creates engaging thumbnails with text overlays, exaggerated expressions, and bright graphics.*
-
-Design a viral video thumbnail using the person from Image 1. Face Consistency : Keep the person's facial features exactly the same as Image 1 , but change their expression to look excited and surprised . Action : Pose the person on the left side, pointing their finger towards the right side of the frame. Subject : On the right side, place a high-quality image of [a delicious avocado toast]. Graphics : Add a bold yellow arrow connecting the person's finger to the toast. Text : Overlay massive, pop-style text in the middle: '3分钟搞定!' (Done in 3 mins!). Use a thick white outline and drop shadow. Background : A blurred, bright kitchen background. High saturation and contrast.
-
-## Source
-- [Original](https://mp.weixin.qq.com/s/lrYNbs4rGs3KOqewoZ6aNQ)
-
-## Example Output
-![Viral Cover Image (Youtube/Douyin/TikTok)](public/images/posters/nb-viral-cover-image-youtube-douyin-tiktok.png)
-
----
-
 #### Y2K Scrapbook Poster with Multiple Poses
 
 **Tags:** `retro`, `realistic`, `cute`, `poster`, `sticker`
@@ -3674,6 +3658,7 @@ Image aspect ratio: 9:16
   },
   "prompt_template": "Create YouTube thumbnail (16:9) using the ATTACHED IMAGE of the person: Place them in the foreground reacting to the background. Background: cross-section side view cutaway of underground bunker showing 5 different lit rooms (gaming room, bedroom, kitchen, storage, living area) with furniture and equipment visible, surrounded by brown earth and dirt textures. Person looks amazed pointing at the bunker. Add yellow text top 'SECRET UNDERGROUND' with 8px black outline. White text bottom 'BUNKER BASE' with black outline. Cutaway diagram style, extremely vibrant interior colors, professional YouTube thumbnail style"
 }
+```
 
 ## Example Output
 ![MrBeast Construction](public/images/thumbnails/mrbeast-construction.webp)
@@ -4009,9 +3994,7 @@ Image aspect ratio: 9:16
   },
   "lighting": {
     "above_water": "Golden hour dramatic sunset lighting",
-    "below_water": "Moody blue
-
- underwater lighting with visible light rays",
+    "below_water": "Moody blue underwater lighting with visible light rays",
     "subject": "Well-lit so face is clearly visible",
     "mood": "Epic, dramatic, life-threatening situation"
   },

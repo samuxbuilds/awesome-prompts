@@ -64,6 +64,7 @@ preview: "/images/thumbnails/mrbeast-construction.webp"
   },
   "prompt_template": "Create YouTube thumbnail (16:9) using the ATTACHED IMAGE of the person: Place them in the foreground reacting to the background. Background: cross-section side view cutaway of underground bunker showing 5 different lit rooms (gaming room, bedroom, kitchen, storage, living area) with furniture and equipment visible, surrounded by brown earth and dirt textures. Person looks amazed pointing at the bunker. Add yellow text top 'SECRET UNDERGROUND' with 8px black outline. White text bottom 'BUNKER BASE' with black outline. Cutaway diagram style, extremely vibrant interior colors, professional YouTube thumbnail style"
 }
+```
 
 ## Example Output
 ![MrBeast Construction](/images/thumbnails/mrbeast-construction.webp)

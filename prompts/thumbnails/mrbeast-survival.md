@@ -51,9 +51,7 @@ preview: "/images/thumbnails/mrbeast-survival.webp"
   },
   "lighting": {
     "above_water": "Golden hour dramatic sunset lighting",
-    "below_water": "Moody blue
-
- underwater lighting with visible light rays",
+    "below_water": "Moody blue underwater lighting with visible light rays",
     "subject": "Well-lit so face is clearly visible",
     "mood": "Epic, dramatic, life-threatening situation"
   },
