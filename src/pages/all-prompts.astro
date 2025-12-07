@@ -136,7 +136,6 @@ try {
       <a 
         href="/prompt/${prompt.category}/${prompt.slug}"
         class="masonry-card block bg-white dark:bg-gray-800 rounded-xl neu-border neu-shadow overflow-hidden transition-all neu-shadow-hover break-inside-avoid mb-4"
-        data-prompt="${prompt.slug}"
       >
         ${prompt.preview ? `
           <div class="w-full overflow-hidden">
@@ -145,6 +144,7 @@ try {
               alt="${prompt.title}" 
               class="w-full h-auto"
               loading="lazy"
+              data-prompt="${prompt.content || ''}"
             />
           </div>
         ` : ''}

@@ -23,6 +23,7 @@ interface PromptSearchIndex {
   tags: string[];
   author: string;
   preview?: string;
+  content: string;
 }
 
 interface PaginatedIndex {
@@ -161,6 +162,7 @@ async function buildIndex() {
       tags: p.tags,
       author: p.author,
       preview: p.preview,
+      content: p.content,
     }));
     
     // 2. Paginate all prompts

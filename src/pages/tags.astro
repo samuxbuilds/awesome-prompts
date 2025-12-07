@@ -106,6 +106,7 @@ const topTags = masterIndex.tags.slice(0, 100);
     tags: string[];
     author: string;
     preview?: string;
+    content?: string;
   }
 
   interface TagMeta {
@@ -197,6 +198,7 @@ const topTags = masterIndex.tags.slice(0, 100);
               alt="${prompt.title}" 
               class="w-full h-auto"
               loading="lazy"
+              data-prompt="${prompt.content || ''}"
             />
           </div>
         ` : ''}
