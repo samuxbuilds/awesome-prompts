@@ -1,0 +1,23 @@
+---
+title: "Art in Repetition: Capturing Creation's Echo"
+category: portraits
+tags: ["art","nano-banana-pro"]
+author: "@plasm0"
+author_url: "https://twitter.com/plasm0"
+source_url: "https://twitter.com/plasm0/status/1992065152695578814"
+preview: "/images/portraits/pg-1992065152695578814.jpg"
+---
+
+A whimsical snapshot from '98, revealing an artist's journey as they translate pixels to brush strokes. Can you spot the recursion in this intriguing visual narrative?
+
+## Prompt
+
+Amateur photograph from 1998 of a middle-aged artist copying an image by hand from a computer screen to an oil painting on stretched canvas, but the image is itself the photo of the artist painting the recursive image.
+
+## Source
+
+- [Original Post](https://twitter.com/plasm0/status/1992065152695578814)
+
+## Example Output
+
+![Art in Repetition: Capturing Creation's Echo](/images/portraits/pg-1992065152695578814.jpg)

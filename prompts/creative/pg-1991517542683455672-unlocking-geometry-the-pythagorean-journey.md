@@ -1,0 +1,23 @@
+---
+title: "Unlocking Geometry: The Pythagorean Journey"
+category: creative
+tags: ["nano-banana-pro"]
+author: "@rovvmut_"
+author_url: "https://twitter.com/rovvmut_"
+source_url: "https://twitter.com/rovvmut_/status/1991517542683455672"
+preview: "/images/creative/pg-1991517542683455672.jpg"
+---
+
+A chalkboard transforms into a canvas of logic and creativity! The Pythagorean theorem unfolds step by step, inviting curious minds to solve its mysteries.
+
+## Prompt
+
+Generate an image of a classroom blackboard with the Pythagoras theorem being solved step by step.
+
+## Source
+
+- [Original Post](https://twitter.com/rovvmut_/status/1991517542683455672)
+
+## Example Output
+
+![Unlocking Geometry: The Pythagorean Journey](/images/creative/pg-1991517542683455672.jpg)

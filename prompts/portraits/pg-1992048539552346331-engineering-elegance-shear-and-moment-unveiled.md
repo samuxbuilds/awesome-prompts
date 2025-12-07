@@ -1,0 +1,23 @@
+---
+title: "Engineering Elegance: Shear and Moment Unveiled"
+category: portraits
+tags: ["nano-banana-pro"]
+author: "@MJAMIV"
+author_url: "https://twitter.com/MJAMIV"
+source_url: "https://twitter.com/MJAMIV/status/1992048539552346331"
+preview: "/images/portraits/pg-1992048539552346331.jpg"
+---
+
+Behold the beauty of structural mechanics! This shear and moment diagram illustrates the forces at play in a simply supported beam under uniform load. A true engineering masterpiece!
+
+## Prompt
+
+a shear and moment diagram for a simply supported beam with a uniform load of 100 plf. the beam is 100 feet long
+
+## Source
+
+- [Original Post](https://twitter.com/MJAMIV/status/1992048539552346331)
+
+## Example Output
+
+![Engineering Elegance: Shear and Moment Unveiled](/images/portraits/pg-1992048539552346331.jpg)

@@ -1,0 +1,23 @@
+---
+title: "Winter Whispers: A Cozy Portrait Unveiled"
+category: portraits
+tags: ["portrait","art","nature","vibrant","nano-banana-pro"]
+author: "@kingofdairyque"
+author_url: "https://twitter.com/kingofdairyque"
+source_url: "https://twitter.com/kingofdairyque/status/1996527880256582111"
+preview: "/images/portraits/pg-1996527880256582111.jpg"
+---
+
+Snowy peaks cradle a vibrant spirit! This colored-pencil artwork captures a woman, her warmth radiating against the chilly backdrop of nature's embrace.
+
+## Prompt
+
+A hand-drawn colored-pencil portrait of a woman with long hair, rosy cheeks, and a knitted beanie. She wears a flannel jacket. Background features snowy mountains, pine trees, snowflakes, and a small cabin sketched in pencil. Soft blue sky, notebook paper texture throughout.
+
+## Source
+
+- [Original Post](https://twitter.com/kingofdairyque/status/1996527880256582111)
+
+## Example Output
+
+![Winter Whispers: A Cozy Portrait Unveiled](/images/portraits/pg-1996527880256582111.jpg)
