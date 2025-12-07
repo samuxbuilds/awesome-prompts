@@ -1,5 +1,5 @@
 import { readdir, readFile, writeFile } from 'fs/promises';
-import { join } from 'path';
+import { join, relative } from 'path';
 import matter from 'gray-matter';
 
 interface PromptData {
@@ -33,11 +33,11 @@ async function parsePrompt(filePath: string): Promise<PromptData | null> {
     const content = await readFile(filePath, 'utf-8');
     const { data, content: body } = matter(content);
     
-    const slug = filePath
-      .replace(/^prompts\//, '')
-      .replace(/\.md$/, '')
-      .split('/')
-      .pop() || '';
+    // Reliable way to get relative path from project root/prompts
+    // prompt path relative to project root, e.g. prompts/3d/foo.md
+    const promptsDir = join(process.cwd(), 'prompts');
+    const relativePath = relative(promptsDir, filePath);
+    const slug = relativePath.replace(/\.md$/, ''); // e.g. 3d/foo
     
     return {
       title: data.title || 'Untitled',
@@ -150,24 +150,30 @@ A curated collection of **${prompts.length}+ AI image generation prompts** for t
         readme += `**Tags:** ${tagsStr}\n\n`;
       }
       
-      // Fix all relative image paths in content to absolute URLs
-      let fixedContent = prompt.content
-        // Fix relative paths like /images/... to absolute
-        .replace(/!\[([^\]]*)\]\(\/([^)]+)\)/g, '![$1](https://awesomeprompts.xyz/$2)')
-        // Fix relative paths without leading slash
-        .replace(/!\[([^\]]*)\]\((?!http)([^)]+)\)/g, '![$1](https://awesomeprompts.xyz/$2)');
+      // Create a brief excerpt from the prompt content (first 200 chars, stop at sentence)
+      const rawExcerpt = prompt.content
+        .replace(/!\[([^\]]*)\]\([^)]+\)/g, '') // Remove images
+        .replace(/```[\s\S]*?```/g, '') // Remove code blocks
+        .replace(/#{1,6}\s+/g, '') // Remove headers
+        .replace(/\*\*/g, '') // Remove bold
+        .trim();
       
-      // Add the full prompt content
-      readme += fixedContent + '\n\n';
+      const maxLength = 200;
+      let excerpt = rawExcerpt.substring(0, maxLength);
       
-      // Add preview image if available and not already in content
-      const contentHasPreview = prompt.preview && fixedContent.includes(prompt.preview);
-      if (prompt.preview && !contentHasPreview) {
-        const previewUrl = prompt.preview.startsWith('http') 
-          ? prompt.preview 
-          : `https://awesomeprompts.xyz${prompt.preview}`;
-        readme += `<img src="${previewUrl}" alt="${prompt.title}" width="400">\n\n`;
+      // Try to end at a sentence
+      const lastSentence = excerpt.lastIndexOf('. ');
+      if (lastSentence > 100) {
+        excerpt = excerpt.substring(0, lastSentence + 1);
+      } else {
+        excerpt = excerpt + '...';
       }
+      
+      // Add brief excerpt
+      readme += `${excerpt}\n\n`;
+      
+      // Add link to full prompt
+      readme += `**[→ View full prompt](https://awesomeprompts.xyz/prompt/${prompt.slug})**\n\n`;
       
       readme += `---\n\n`;
     }
