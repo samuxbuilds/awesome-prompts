@@ -46,7 +46,7 @@ A couple's photo.
 - [Original Post](https://x.com/balconychy/status/1909418699150237917)
 
 ## Example Output
-![3D Chibi Chinese Wedding Scene](/images/3d/3d-chibi-chinese-wedding-scene.webp)
+![3D Chibi Chinese Wedding Scene](public/images/3d/3d-chibi-chinese-wedding-scene.webp)
 
 ---
 
@@ -63,7 +63,7 @@ A couple's photo.
 - [Original Post](https://x.com/balconychy/status/1909417750587486469)
 
 ## Example Output
-![3D Chibi Proposal Scene](/images/3d/3d-chibi-proposal-scene.webp)
+![3D Chibi Proposal Scene](public/images/3d/3d-chibi-proposal-scene.webp)
 
 ---
 
@@ -80,7 +80,7 @@ Replace the university name {Northwestern Polytechnical University} and characte
 - [Original Post](https://x.com/dotey/status/1911988003729203648)
 
 ## Example Output
-![3D Chibi-style University Anthropomorphic Mascot](/images/3d/3d-chibi-style-university-anthropomorphic-mascot.webp)
+![3D Chibi-style University Anthropomorphic Mascot](public/images/3d/3d-chibi-style-university-anthropomorphic-mascot.webp)
 
 ---
 
@@ -107,7 +107,7 @@ A couple's photo.
 - [Original Post](https://x.com/dotey/status/1909332895115714835)
 
 ## Example Output
-![3D Couple Jewelry Box Figurine](/images/3d/3d-couple-jewelry-box-figurine.webp)
+![3D Couple Jewelry Box Figurine](public/images/3d/3d-couple-jewelry-box-figurine.webp)
 
 ---
 
@@ -124,7 +124,7 @@ Please modify the scene description within the square brackets 【】 as appropr
 - [Original Post](https://x.com/dotey/status/1923264349050675329)
 
 ## Example Output
-![3D Papercraft Pop-up Book](/images/3d/3d-papercraft-pop-up-book.webp)
+![3D Papercraft Pop-up Book](public/images/3d/3d-papercraft-pop-up-book.webp)
 
 ---
 
@@ -141,7 +141,7 @@ A half-body or full-body single person photo.
 - [Original Post](https://x.com/dotey/status/1908238003169903060)
 
 ## Example Output
-![3D Polaroid Breakout Effect](/images/3d/3d-polaroid-breakout-effect.webp)
+![3D Polaroid Breakout Effect](public/images/3d/3d-polaroid-breakout-effect.webp)
 
 ---
 
@@ -160,7 +160,7 @@ A photo of a couple or another person.
 - [Original Post](https://x.com/balconychy/status/1909908568129655248)
 
 ## Example Output
-![3D Chibi Couple Snow Globe](/images/3d/3d-q-version-couple-snow-globe.webp)
+![3D Chibi Couple Snow Globe](public/images/3d/3d-q-version-couple-snow-globe.webp)
 
 ---
 
@@ -177,7 +177,7 @@ Need to upload a reference image of a physical object
 - [Original Post](https://x.com/azed_ai/status/1917948899098243407)
 
 ## Example Output
-![3D Translucent Glass Transformation](/images/3d/3d-translucent-glass-transformation.webp)
+![3D Translucent Glass Transformation](public/images/3d/3d-translucent-glass-transformation.webp)
 
 ---
 
@@ -194,7 +194,7 @@ The [Jackie Chan] in the prompt can be replaced with the name of any figurine ch
 - [Original Post](https://x.com/dotey/status/1920994118580183316)
 
 ## Example Output
-![Action Figure and Real Person in the Same Frame](/images/3d/action-figure-and-real-person-in-the-same-frame.webp)
+![Action Figure and Real Person in the Same Frame](public/images/3d/action-figure-and-real-person-in-the-same-frame.webp)
 
 ---
 
@@ -214,7 +214,7 @@ A selfie needs to be uploaded as the basis for generating the bobblehead.
 - [Original Post](https://x.com/thisdudelikesAI/status/1920433372243136730)
 
 ## Example Output
-![Bobblehead Generator from Selfie](/images/3d/bobblehead-generator-from-selfie.webp)
+![Bobblehead Generator from Selfie](public/images/3d/bobblehead-generator-from-selfie.webp)
 
 ---
 
@@ -243,7 +243,7 @@ A character image needs to be uploaded as the main reference for creating the st
 - [Original Post](https://x.com/leon_yuan2001/status/1923712069209293014)
 
 ## Example Output
-![Chibi Character Sticker Pack](/images/3d/chibi-character-sticker-pack.webp)
+![Chibi Character Sticker Pack](public/images/3d/chibi-character-sticker-pack.webp)
 
 ---
 
@@ -260,7 +260,7 @@ Please replace `[COUNTRY NAME]` in the prompt with a specific country name.
 - [Original Post](https://x.com/TheRelianceAI/status/1925223613055017251)
 
 ## Example Output
-![Country Diorama in a Toy Box](/images/3d/country-diorama-in-a-toy-box.webp)
+![Country Diorama in a Toy Box](public/images/3d/country-diorama-in-a-toy-box.webp)
 
 ---
 
@@ -277,7 +277,7 @@ Please upload a photo showing the person's full body posture, facial expression,
 - [Original Post](https://x.com/dotey/status/1920851135516082246)
 
 ## Example Output
-![Custom Anime Figure](/images/3d/custom-anime-figure.webp)
+![Custom Anime Figure](public/images/3d/custom-anime-figure.webp)
 
 ---
 
@@ -297,7 +297,7 @@ A photo of a person or object as the subject for the keychain design.
 - [Original Post](https://x.com/azed_ai/status/1916521742052503804)
 
 ## Example Output
-![Cute Chibi Keychain](/images/3d/cute-chibi-keychain.webp)
+![Cute Chibi Keychain](public/images/3d/cute-chibi-keychain.webp)
 
 ---
 
@@ -314,7 +314,7 @@ Requires uploading a person's image as the subject for transformation (The origi
 - [Original Post](https://x.com/ZHO_ZHO_ZHO/status/1911669883315818497)
 
 ## Example Output
-![Cute Chibi Matryoshka Dolls (Girl with a Pearl Earring)](/images/3d/cute-chibi-matryoshka-dolls-girl-with-a-pearl-earr.webp)
+![Cute Chibi Matryoshka Dolls (Girl with a Pearl Earring)](public/images/3d/cute-chibi-matryoshka-dolls-girl-with-a-pearl-earr.webp)
 
 ---
 
@@ -328,7 +328,7 @@ A hyper-realistic isometric 3D render of a miniature computer setup inside a tra
 - [Original Post](https://x.com/egeberkina/status/1911368319212408926)
 
 ## Example Output
-![Miniature computer setup diorama inside an ESC keycap](/images/3d/esc-keycap-miniature-diorama.webp)
+![Miniature computer setup diorama inside an ESC keycap](public/images/3d/esc-keycap-miniature-diorama.webp)
 
 ---
 
@@ -348,7 +348,7 @@ A clear half-body or full-body photo.
 - [Original Post](https://x.com/dotey/status/1909047283485671924)
 
 ## Example Output
-![Funko Pop Figure Creation](/images/3d/funko-pop-figure-creation.webp)
+![Funko Pop Figure Creation](public/images/3d/funko-pop-figure-creation.webp)
 
 ---
 
@@ -368,7 +368,7 @@ Replace `[image /emoji]` in the prompt with a specific image description or an e
 - [Original Post](https://x.com/azed_ai/status/1915770501705925106)
 
 ## Example Output
-![Gold Pendant Necklace](/images/3d/gold-pendant-necklace.webp)
+![Gold Pendant Necklace](public/images/3d/gold-pendant-necklace.webp)
 
 ---
 
@@ -387,7 +387,7 @@ Please follow medical advice and purchase as needed.
 - [Original Post](https://x.com/ZHO_ZHO_ZHO/status/1911724629460455896)
 
 ## Example Output
-![Happy Capsule](/images/3d/happy-capsule-creation.webp)
+![Happy Capsule](public/images/3d/happy-capsule-creation.webp)
 
 ---
 
@@ -406,7 +406,7 @@ You can ask AI to generate similar prompts for other cityscapes based on this ex
 - [Original Post](https://x.com/dotey/status/1917713810346872902)
 
 ## Example Output
-![Lego brick rendition of the Shanghai Bund cityscape](/images/3d/lego-cityscape-shanghai-bund.webp)
+![Lego brick rendition of the Shanghai Bund cityscape](public/images/3d/lego-cityscape-shanghai-bund.webp)
 
 ---
 
@@ -431,7 +431,7 @@ A half-body or full-body single person photo.
 - [Original Post](https://x.com/ZHO_ZHO_ZHO/status/1910644499354968091)
 
 ## Example Output
-![Lego Collectible Figure](/images/3d/lego-collectible-figure.webp)
+![Lego Collectible Figure](public/images/3d/lego-collectible-figure.webp)
 
 ---
 
@@ -448,7 +448,7 @@ You can ask the AI to generate similar prompts for other buildings by referencin
 - [Original Post](https://x.com/dotey/status/1913759515700285569)
 
 ## Example Output
-![Miniature 3D Building](/images/3d/miniature-3d-building.webp)
+![Miniature 3D Building](public/images/3d/miniature-3d-building.webp)
 
 ---
 
@@ -462,7 +462,7 @@ A highly detailed miniature [Cyberpunk] landscape viewed from above, using a til
 You can replace [Cyberpunk] in the prompt with other styles or scenes, such as "Futuristic City", "Steampunk", "Medieval Village", etc.
 
 ## Example Output
-![Highly detailed miniature Cyberpunk landscape viewed from above, with tilt-shift lens effect](/images/3d/miniature-cyberpunk-tilt-shift-landscape.webp)
+![Highly detailed miniature Cyberpunk landscape viewed from above, with tilt-shift lens effect](public/images/3d/miniature-cyberpunk-tilt-shift-landscape.webp)
 
 ---
 
@@ -479,7 +479,7 @@ The content in brackets can be replaced with Western scenes such as “Hercules 
 - [Original Post](https://x.com/dotey/status/1911609122547449886)
 
 ## Example Output
-![Miniature Three-dimensional Scene Presentation](/images/3d/miniature-three-dimensional-scene-presentation.webp)
+![Miniature Three-dimensional Scene Presentation](public/images/3d/miniature-three-dimensional-scene-presentation.webp)
 
 ---
 
@@ -529,7 +529,7 @@ Draw a Toilet
 - [Original Post](https://x.com/dotey/status/1907131027253772399)
 
 ## Example Output
-![Minimalist 3D Illustration](/images/3d/minimalist-3d-illustration-markdown-format.webp)
+![Minimalist 3D Illustration](public/images/3d/minimalist-3d-illustration-markdown-format.webp)
 
 ---
 
@@ -580,7 +580,7 @@ Generate a toilet with the following JSON profile:
 - [Original Post](https://x.com/0xdlk/status/1906843247432929642)
 
 ## Example Output
-![Minimalist 3D Illustration](/images/3d/minimalist-3d-illustration.webp)
+![Minimalist 3D Illustration](public/images/3d/minimalist-3d-illustration.webp)
 
 ---
 
@@ -593,7 +593,7 @@ Generate a toilet with the following JSON profile:
 3D chibi-style miniature concept store of {Brand Name}, creatively designed with an exterior inspired by the brand's most iconic product or packaging (such as a giant {brand's core product, e.g., chicken bucket/hamburger/donut/roast duck}). The store features two floors with large glass windows clearly showcasing the cozy and finely decorated interior: {brand's primary color}-themed decor, warm lighting, and busy staff dressed in outfits matching the brand. Adorable tiny figures stroll or sit along the street, surrounded by benches, street lamps, and potted plants, creating a charming urban scene. Rendered in a miniature cityscape style using Cinema 4D, with a blind-box toy aesthetic, rich in details and realism, and bathed in soft lighting that evokes a relaxing afternoon atmosphere. --ar 2:3
 
 ## Example Output
-![3D Chibi-Style Miniature Brand Store](/images/3d/nb-3d-chibi-style-miniature-brand-store.webp)
+![3D Chibi-Style Miniature Brand Store](public/images/3d/nb-3d-chibi-style-miniature-brand-store.webp)
 
 ---
 
@@ -608,7 +608,7 @@ Based on you know about me, generate a 3D isometric colored illustration of me w
 [Additional details: a bichon frise and 3 monitors]
 
 ## Example Output
-![3D Isometric Home Office Illustration](/images/3d/nb-3d-isometric-home-office-illustration.webp)
+![3D Isometric Home Office Illustration](public/images/3d/nb-3d-isometric-home-office-illustration.webp)
 
 ---
 
@@ -630,7 +630,7 @@ No forced perspective. Use straight-on orthographic-style rendering. Do not exag
 Use a square 1080×1080 composition.Use a clean, neutral background. Ensure no extra objects are present.
 
 ## Example Output
-![City's Tallest Buildings 3D Cartoon View](/images/3d/nb-city-s-tallest-buildings-3d-cartoon-view.webp)
+![City's Tallest Buildings 3D Cartoon View](public/images/3d/nb-city-s-tallest-buildings-3d-cartoon-view.webp)
 
 ---
 
@@ -670,7 +670,7 @@ Use soft, neutral global illumination and no shadows under the object.
 No extra props, no text, no labels unless explicitly requested.
 
 ## Example Output
-![Split View 3D Render - iPhone 17 Pro](/images/3d/nb-split-view-3d-render-iphone-17-pro.webp)
+![Split View 3D Render - iPhone 17 Pro](public/images/3d/nb-split-view-3d-render-iphone-17-pro.webp)
 
 ---
 
@@ -683,7 +683,7 @@ No extra props, no text, no labels unless explicitly requested.
 Create a high-detail 3D isometric diorama of the entire United States, where each state is represented as its own miniature platform. Inside each state, place a stylized, small-scale 3D model of that state's most iconic landmark. Use the same visual style as a cute, polished 3D city diorama: soft pastel colors, clean materials, smooth rounded forms, gentle shadows, and subtle reflections. Each landmark should look like a miniature model, charming, simplified, but clearly recognizable. Arrange the states in accurate geographical layout, with consistent lighting and perspective. Include state labels and landmark labels in a clean, modern font, floating above or near each model.
 
 ## Example Output
-![USA 3D Diorama with Landmarks](/images/3d/nb-usa-3d-diorama-with-landmarks.webp)
+![USA 3D Diorama with Landmarks](public/images/3d/nb-usa-3d-diorama-with-landmarks.webp)
 
 ---
 
@@ -705,7 +705,7 @@ A half-body or full-body photo.
 - [Original Post](https://x.com/dotey/status/1909047547563213145)
 
 ## Example Output
-![One Piece Themed Figure Creation](/images/3d/one-piece-themed-figure-creation.webp)
+![One Piece Themed Figure Creation](public/images/3d/one-piece-themed-figure-creation.webp)
 
 ---
 
@@ -722,7 +722,7 @@ Replace [brand product] in the prompt with a specific product description.
 - [Original Post](https://x.com/aziz4ai/status/1925301120252924356)
 
 ## Example Output
-![Pastel Power 3D ADS](/images/3d/pastel-power-3d-ads.webp)
+![Pastel Power 3D ADS](public/images/3d/pastel-power-3d-ads.webp)
 
 ---
 
@@ -742,7 +742,7 @@ You can use a photo of a person as a reference image. This example image uses ["
 - [Original Post](https://x.com/ZHO_ZHO_ZHO/status/1920355982703509588)
 
 ## Example Output
-![Perspective 3D Pop-Out Effect](/images/3d/perspective-3d-pop-out-effect.webp)
+![Perspective 3D Pop-Out Effect](public/images/3d/perspective-3d-pop-out-effect.webp)
 
 ---
 
@@ -759,7 +759,7 @@ A photo.
 - [Original Post](https://x.com/dotey/status/1908194518345678865)
 
 ## Example Output
-![Photo to 3D Q-version Style](/images/3d/photo-to-3d-q-version-style.webp)
+![Photo to 3D Q-version Style](public/images/3d/photo-to-3d-q-version-style.webp)
 
 ---
 
@@ -776,7 +776,7 @@ A photo of a person or other subject.
 - [Original Post](https://animeai.online/#demo-gallery)
 
 ## Example Output
-![Pixar 3D Style](/images/3d/pixar-3d-style.webp)
+![Pixar 3D Style](public/images/3d/pixar-3d-style.webp)
 
 ---
 
@@ -795,7 +795,7 @@ Replace the text within the square brackets {} in the prompt with a description 
 - [Original Post](https://x.com/dotey/status/1916530529324699858)
 
 ## Example Output
-![Story Scene in Crystal Ball](/images/3d/story-scene-in-crystal-ball.webp)
+![Story Scene in Crystal Ball](public/images/3d/story-scene-in-crystal-ball.webp)
 
 ---
 
@@ -811,7 +811,7 @@ The flash slightly overexposes her face and clothes, making her silhouette stand
 - [Original Post](https://x.com/ZHO_ZHO_ZHO/status/1913648013144137840)
 
 ## Example Output
-![Ultra-realistic 3D](/images/3d/ultra-realistic-3d-game.webp)
+![Ultra-realistic 3D](public/images/3d/ultra-realistic-3d-game.webp)
 
 ---
 
@@ -832,7 +832,7 @@ The reference image for voxel style icons is obtained from the original link 1; 
 - [Original Post](https://x.com/ZHO_ZHO_ZHO/status/1910671581962985788)
 
 ## Example Output
-![3D voxel-style icons](/images/3d/voxel-style-3d-icon-conversion.webp)
+![3D voxel-style icons](public/images/3d/voxel-style-3d-icon-conversion.webp)
 
 ---
 
@@ -848,7 +848,7 @@ The reference image for voxel style icons is obtained from the original link 1; 
 - [Original Post](https://x.com/dotey/status/1905020833451348283)
 
 ## Example Output
-![35mm Film Style Flying Island](/images/creative/35mm-film-style-flying-island.webp)
+![35mm Film Style Flying Island](public/images/creative/35mm-film-style-flying-island.webp)
 
 ---
 
@@ -869,7 +869,7 @@ The content within the brackets [] in the prompt can be replaced, such as the ta
 - [Original Post](https://x.com/dotey/status/1919522110395080838)
 
 ## Example Output
-![Children's Coloring Page Illustration (with Color Reference)](/images/creative/children-s-coloring-page-illustration-with-color-r.webp)
+![Children's Coloring Page Illustration (with Color Reference)](public/images/creative/children-s-coloring-page-illustration-with-color-r.webp)
 
 ---
 
@@ -886,7 +886,7 @@ The `[SUBJECT/OBJECT]` (shape formed by clouds) and `[LOCATION]` placeholders in
 - [Original Post](https://x.com/umesh_ai/status/1913628737872027805)
 
 ## Example Output
-![Cloud Art](/images/creative/cloud-art.webp)
+![Cloud Art](public/images/creative/cloud-art.webp)
 
 ---
 
@@ -909,7 +909,7 @@ For example:
 - [Original Post](https://x.com/azed_ai/status/1923016036120658122)
 
 ## Example Output
-![Creative Ad with Real Object and Hand-Drawn Doodle](/images/creative/creative-ad-with-real-object-and-hand-drawn-doodle.webp)
+![Creative Ad with Real Object and Hand-Drawn Doodle](public/images/creative/creative-ad-with-real-object-and-hand-drawn-doodle.webp)
 
 ---
 
@@ -926,7 +926,7 @@ Replace the `[LOGO]` placeholder in the prompt with a specific brand logo descri
 - [Original Post](https://x.com/umesh_ai/status/1916517976414495161)
 
 ## Example Output
-![Creative Logo Shaped Bookshelf](/images/creative/creative-logo-shaped-bookshelf.webp)
+![Creative Logo Shaped Bookshelf](public/images/creative/creative-logo-shaped-bookshelf.webp)
 
 ---
 
@@ -943,7 +943,7 @@ You can replace the {❄️} in the prompt words with your target value
 - [Original Post](https://x.com/ZHO_ZHO_ZHO/status/1914864217867608175)
 
 ## Example Output
-![Silk Universe-Creative Universe](/images/creative/creative-silk-universe.webp)
+![Silk Universe-Creative Universe](public/images/creative/creative-silk-universe.webp)
 
 ---
 
@@ -960,7 +960,7 @@ Upload a photo as a reference to generate its cute chibi knitted doll image.
 - [Original Post](https://x.com/ZHO_ZHO_ZHO/status/1921148024861938077)
 
 ## Example Output
-![Cute and Cozy Knitted Doll](/images/creative/cute-and-cozy-knitted-doll.webp)
+![Cute and Cozy Knitted Doll](public/images/creative/cute-and-cozy-knitted-doll.webp)
 
 ---
 
@@ -977,7 +977,7 @@ Replace [object/animal] in the prompt with a specific object, animal name, or em
 - [Original Post](https://x.com/azed_ai/status/1923739813414568075)
 
 ## Example Output
-![Cute Plant Planter](/images/creative/cute-plant-planter.webp)
+![Cute Plant Planter](public/images/creative/cute-plant-planter.webp)
 
 ---
 
@@ -1078,7 +1078,7 @@ All visuals should be balanced, modern, and appealing, reflecting a premium and 
 - [Original Post](https://x.com/ZHO_ZHO_ZHO/status/1909542765857587310)
 
 ## Example Output
-![Famous Painting Character Cereal Ad](/images/creative/famous-painting-character-cereal-ad.webp)
+![Famous Painting Character Cereal Ad](public/images/creative/famous-painting-character-cereal-ad.webp)
 
 ---
 
@@ -1106,7 +1106,7 @@ Right side: individual clothing items and accessories laid out separately, as if
 - [Original Post](https://x.com/ZHO_ZHO_ZHO/status/1909892294217781714)
 
 ## Example Output
-![Famous Painting Character OOTD](/images/creative/famous-painting-character-ootd.webp)
+![Famous Painting Character OOTD](public/images/creative/famous-painting-character-ootd.webp)
 
 ---
 
@@ -1120,7 +1120,7 @@ A cartoon-style character with a smiling computer monitor as its head, wearing g
 - [Original Post](https://x.com/dotey/status/1905103477879267823)
 
 ## Example Output
-![Fantasy Cartoon Illustration](/images/creative/fantasy-cartoon-illustration.webp)
+![Fantasy Cartoon Illustration](public/images/creative/fantasy-cartoon-illustration.webp)
 
 ---
 
@@ -1135,7 +1135,7 @@ Transform a simple flat vector icon of [🎃] into a soft, 3D fluffy object. The
 - [Original Post](https://x.com/dotey/status/1912276883196039520)
 
 ## Example Output
-![Fluffy Jack-o'-lantern](/images/creative/fluffy-jack-o-lantern.webp)
+![Fluffy Jack-o'-lantern](public/images/creative/fluffy-jack-o-lantern.webp)
 
 ---
 
@@ -1155,7 +1155,7 @@ A photo of a person or other subject.
 - [Original Post](https://animeai.online/#demo-gallery)
 
 ## Example Output
-![Mona Lisa redrawn in Ghibli style](/images/creative/ghibli-style.webp)
+![Mona Lisa redrawn in Ghibli style](public/images/creative/ghibli-style.webp)
 
 ---
 
@@ -1207,7 +1207,7 @@ An image needs to be uploaded as the base for retexturing.
 - [Original Post](https://x.com/egeberkina/status/1920448389960909085)
 
 ## Example Output
-![Glass Retexturing](/images/creative/glass-retexturing.webp)
+![Glass Retexturing](public/images/creative/glass-retexturing.webp)
 
 ---
 
@@ -1224,7 +1224,7 @@ Replace `[SUBJECT]` and `[PART]` in the prompt.
 - [Original Post](https://x.com/umesh_ai/status/1914644426334314545)
 
 ## Example Output
-![Glowing Lines Anatomy Diagram](/images/creative/glowing-lines-anatomy-diagram.webp)
+![Glowing Lines Anatomy Diagram](public/images/creative/glowing-lines-anatomy-diagram.webp)
 
 ---
 
@@ -1248,7 +1248,7 @@ The overall layout should maintain visual balance, with ample white space reserv
 - [Original Post](https://x.com/dotey/status/1907903480678985784)
 
 ## Example Output
-![Hand-drawn Infographic Card](/images/creative/hand-drawn-infographic-card-cognition.webp)
+![Hand-drawn Infographic Card](public/images/creative/hand-drawn-infographic-card-cognition.webp)
 
 ---
 
@@ -1269,7 +1269,7 @@ Keep updating daily, and results will come — because 99% of people can’t kee
 - [Original Post](https://x.com/dotey/status/1907870919852179850)
 
 ## Example Output
-![Hand-drawn Infographic Card](/images/creative/hand-drawn-infographic-card.webp)
+![Hand-drawn Infographic Card](public/images/creative/hand-drawn-infographic-card.webp)
 
 ---
 
@@ -1288,7 +1288,7 @@ Replace the word { beautify } with the word you want to integrate
 - [Original Post](https://x.com/dotey/status/1918529055340576812)
 
 ## Example Output
-![Integrating Word Meaning into Letters](/images/creative/integrating-word-meaning-into-letters.webp)
+![Integrating Word Meaning into Letters](public/images/creative/integrating-word-meaning-into-letters.webp)
 
 ---
 
@@ -1325,7 +1325,7 @@ A photo of a person is needed for reference.
 - [Original Post](https://x.com/hellokaton/status/1910900979194646959)
 
 ## Example Output
-![Two-panel Cute Japanese Manga](/images/creative/japanese-style-two-panel-manga-angry-girl-presiden.webp)
+![Two-panel Cute Japanese Manga](public/images/creative/japanese-style-two-panel-manga-angry-girl-presiden.webp)
 
 ---
 
@@ -1341,7 +1341,7 @@ A photo of a person is needed for reference.
 - [Original](https://x.com/dr_cintas/status/1991888364099035581?s=20)
 
 ## Example Output
-![Aging Through the Years](/images/creative/nb-aging-through-the-years.png)
+![Aging Through the Years](public/images/creative/nb-aging-through-the-years.png)
 
 ---
 
@@ -1381,7 +1381,7 @@ If acne or irritation looks very severe or infected, clearly but kindly suggest 
 Keep the tone supportive, simple and clear.
 
 ## Example Output
-![AI Skin Analysis and Skincare Routine](/images/creative/nb-ai-skin-analysis-and-skincare-routine.webp)
+![AI Skin Analysis and Skincare Routine](public/images/creative/nb-ai-skin-analysis-and-skincare-routine.webp)
 
 ---
 
@@ -1432,7 +1432,7 @@ Keep the tone supportive, simple and clear.
 }
 
 ## Example Output
-![Chalkboard Anime Art Documentation](/images/creative/nb-chalkboard-anime-art-documentation.webp)
+![Chalkboard Anime Art Documentation](public/images/creative/nb-chalkboard-anime-art-documentation.webp)
 
 ---
 
@@ -1528,7 +1528,7 @@ E) ONE Master Contact Sheet Image (All KFs in one grid)
 - [Original](https://x.com/underwoodxie96/status/1995109628825489647)
 
 ## Example Output
-![Cinematic Keyframe Generator](/images/creative/nb-cinematic-keyframe-generator.webp)
+![Cinematic Keyframe Generator](public/images/creative/nb-cinematic-keyframe-generator.webp)
 
 ---
 
@@ -1552,7 +1552,7 @@ Lighting: harsh direct flash on subject, ambient low light in the background
 Color grading: nostalgic digital-camera tones, high contrast flash, subtle display grain, authentic screen glow.
 
 ## Example Output
-![Compact Camera Screen Display](/images/creative/nb-compact-camera-screen-display.webp)
+![Compact Camera Screen Display](public/images/creative/nb-compact-camera-screen-display.webp)
 
 ---
 
@@ -1568,7 +1568,7 @@ Zoom out and expand this image to a 16:9 aspect ratio (computer wallpaper size).
 - [Original](https://mp.weixin.qq.com/s/lrYNbs4rGs3KOqewoZ6aNQ)
 
 ## Example Output
-![Composition Rescue (Smart Outpainting)](/images/creative/nb-composition-rescue-smart-outpainting.png)
+![Composition Rescue (Smart Outpainting)](public/images/creative/nb-composition-rescue-smart-outpainting.png)
 
 ---
 
@@ -1584,7 +1584,7 @@ Create an educational infographic explaining [Photosynthesis] . Visual Elements 
 - [Original](https://mp.weixin.qq.com/s/lrYNbs4rGs3KOqewoZ6aNQ)
 
 ## Example Output
-![Concept Visualization (Text to Infographic)](/images/creative/nb-concept-visualization-text-to-infographic.png)
+![Concept Visualization (Text to Infographic)](public/images/creative/nb-concept-visualization-text-to-infographic.png)
 
 ---
 
@@ -1600,7 +1600,7 @@ How engineers see the San Francisco Bridge
 - [Original](https://replicate.com/)
 
 ## Example Output
-![Conceptual Visualization](/images/creative/nb-conceptual-visualization.png)
+![Conceptual Visualization](public/images/creative/nb-conceptual-visualization.png)
 
 ---
 
@@ -1616,7 +1616,7 @@ How engineers see the San Francisco Bridge
 - [Original](https://replicate.com/)
 
 ## Example Output
-![Coordinate Visualization](/images/creative/nb-coordinate-visualization.png)
+![Coordinate Visualization](public/images/creative/nb-coordinate-visualization.png)
 
 ---
 
@@ -1632,7 +1632,7 @@ Translate the text in the speech bubbles/captions from [Japanese/English] to [Ch
 - [Original](https://mp.weixin.qq.com/s/lrYNbs4rGs3KOqewoZ6aNQ)
 
 ## Example Output
-![Digital Content Localization (Comics/Memes)](/images/creative/nb-digital-content-localization-comics-memes.png)
+![Digital Content Localization (Comics/Memes)](public/images/creative/nb-digital-content-localization-comics-memes.png)
 
 ---
 
@@ -1648,7 +1648,7 @@ Create a high angle CCTV surveillance shot using the uploaded image as the sourc
 - [Original](https://x.com/egeberkina/status/1994804061024010628)
 
 ## Example Output
-![Face Detection CCTV Simulation](/images/creative/nb-face-detection-cctv-simulation.webp)
+![Face Detection CCTV Simulation](public/images/creative/nb-face-detection-cctv-simulation.webp)
 
 ---
 
@@ -1668,7 +1668,7 @@ Iconography: On the left side (Revenue sources), include specific, minimalist fl
 Branding: Place the official [Insert Brand Name Here] logo clearly at the top center or near the central revenue bar.[Details]: High resolution, 4k, sharp typography (sans-serif), professional data visualization layout. The chart clearly distinguishes between Revenue, Gross Profit, Operating Expenses, and Net Profit.
 
 ## Example Output
-![Financial Sankey Diagram Visualization](/images/creative/nb-financial-sankey-diagram-visualization.webp)
+![Financial Sankey Diagram Visualization](public/images/creative/nb-financial-sankey-diagram-visualization.webp)
 
 ---
 
@@ -1684,7 +1684,7 @@ Convert this hand-drawn whiteboard sketch into a professional corporate flowchar
 - [Original](https://mp.weixin.qq.com/s/lrYNbs4rGs3KOqewoZ6aNQ)
 
 ## Example Output
-![Hand-drawn Flowchart to Corporate Charts](/images/creative/nb-hand-drawn-flowchart-to-corporate-charts.png)
+![Hand-drawn Flowchart to Corporate Charts](public/images/creative/nb-hand-drawn-flowchart-to-corporate-charts.png)
 
 ---
 
@@ -1704,7 +1704,7 @@ Based on the uploaded 2D floor plan, generate a professional interior design pre
 - [Original](https://mp.weixin.qq.com/s/lrYNbs4rGs3KOqewoZ6aNQ)
 
 ## Example Output
-![Hard Furnishing Preview (Floor Plan to Design)](/images/creative/nb-hard-furnishing-preview-floor-plan-to-design.png)
+![Hard Furnishing Preview (Floor Plan to Design)](public/images/creative/nb-hard-furnishing-preview-floor-plan-to-design.png)
 
 ---
 
@@ -1724,7 +1724,7 @@ THE ENVIRONMENT: A luxurious open-air rooftop terrace at sunset overlooking a mo
 - [Original](https://x.com/SebJefferies/status/1991531687147360728)
 
 ## Example Output
-![Hyper-Realistic Crowd Composition](/images/creative/nb-hyper-realistic-crowd-composition.png)
+![Hyper-Realistic Crowd Composition](public/images/creative/nb-hyper-realistic-crowd-composition.png)
 
 ---
 
@@ -1801,7 +1801,7 @@ III. Overall Art Style Requirements
 - [Original](https://x.com/dotey/status/1994908289813880915)
 
 ## Example Output
-![Kids' Crayon Travel Journal Illustrator](/images/creative/nb-kids-crayon-travel-journal-illustrator.webp)
+![Kids' Crayon Travel Journal Illustrator](public/images/creative/nb-kids-crayon-travel-journal-illustrator.webp)
 
 ---
 
@@ -1817,7 +1817,7 @@ rare.webp
 - [Original](https://replicate.com/)
 
 ## Example Output
-![Literal Interpretation](/images/creative/nb-literal-interpretation.webp)
+![Literal Interpretation](public/images/creative/nb-literal-interpretation.webp)
 
 ---
 
@@ -1833,7 +1833,7 @@ an office team photo, everyone making a silly face
 - [Original](https://replicate.com/)
 
 ## Example Output
-![Multi-Subject Compositing](/images/creative/nb-multi-subject-compositing.webp)
+![Multi-Subject Compositing](public/images/creative/nb-multi-subject-compositing.webp)
 
 ---
 
@@ -1849,7 +1849,7 @@ Turn this photo of my [cat/dog] into a funny hand-drawn WeChat sticker . Style :
 - [Original](https://mp.weixin.qq.com/s/lrYNbs4rGs3KOqewoZ6aNQ)
 
 ## Example Output
-![Pet Meme Creation](/images/creative/nb-pet-meme-creation.png)
+![Pet Meme Creation](public/images/creative/nb-pet-meme-creation.png)
 
 ---
 
@@ -1865,7 +1865,7 @@ Translate the Chinese dish names on the wall menu into English for foreign touri
 - [Original](https://mp.weixin.qq.com/s/lrYNbs4rGs3KOqewoZ6aNQ)
 
 ## Example Output
-![Physical Store/Travel Translation](/images/creative/nb-physical-store-travel-translation.png)
+![Physical Store/Travel Translation](public/images/creative/nb-physical-store-travel-translation.png)
 
 ---
 
@@ -1881,7 +1881,7 @@ recursive image of an orange cat sitting in an office chair holding up an iPad. 
 - [Original](https://x.com/venturetwins/status/1993174445515772086)
 
 ## Example Output
-![Recursive Visuals](/images/creative/nb-recursive-visuals.png)
+![Recursive Visuals](public/images/creative/nb-recursive-visuals.png)
 
 ---
 
@@ -1897,7 +1897,7 @@ Show me how this room would look with furniture in it
 - [Original](https://x.com/NanoBanana/status/1994483569625022487)
 
 ## Example Output
-![Room Furnishing Visualization](/images/creative/nb-room-furnishing-visualization.webp)
+![Room Furnishing Visualization](public/images/creative/nb-room-furnishing-visualization.webp)
 
 ---
 
@@ -1913,7 +1913,7 @@ Remove all the tourists/people in the background behind the main subject. Intell
 - [Original](https://mp.weixin.qq.com/s/lrYNbs4rGs3KOqewoZ6aNQ)
 
 ## Example Output
-![Smart Crowd Removal](/images/creative/nb-smart-crowd-removal.png)
+![Smart Crowd Removal](public/images/creative/nb-smart-crowd-removal.png)
 
 ---
 
@@ -1931,7 +1931,7 @@ First one to pull this off. First take. Even Waldo is there.
 - [Original](https://x.com/creacas/status/1991585587548348513?s=20)
 
 ## Example Output
-![Star Wars "Where's Waldo"](/images/creative/nb-star-wars-where-s-waldo.webp)
+![Star Wars "Where's Waldo"](public/images/creative/nb-star-wars-where-s-waldo.webp)
 
 ---
 
@@ -2008,7 +2008,7 @@ interior_style:
       paper: "notebook paper with faint ruled lines"
 
 ## Example Output
-![Torn Paper Art Effect](/images/creative/nb-torn-paper-art-effect.webp)
+![Torn Paper Art Effect](public/images/creative/nb-torn-paper-art-effect.webp)
 
 ---
 
@@ -2024,7 +2024,7 @@ Transform this rough wireframe sketch into a high-fidelity UI design mockups for
 - [Original](https://mp.weixin.qq.com/s/lrYNbs4rGs3KOqewoZ6aNQ)
 
 ## Example Output
-![UI Hand-drawn Sketch to High-Fidelity Prototype](/images/creative/nb-ui-hand-drawn-sketch-to-high-fidelity-prototype.png)
+![UI Hand-drawn Sketch to High-Fidelity Prototype](public/images/creative/nb-ui-hand-drawn-sketch-to-high-fidelity-prototype.png)
 
 ---
 
@@ -2037,7 +2037,7 @@ Transform this rough wireframe sketch into a high-fidelity UI design mockups for
 create a map of the US where every state is made out of its most famous food (the states should actually look like they are made of the food, not a picture of the food). Check carefully to make sure each state is right.
 
 ## Example Output
-![US Map Made of Famous Foods](/images/creative/nb-us-map-made-of-famous-foods.webp)
+![US Map Made of Famous Foods](public/images/creative/nb-us-map-made-of-famous-foods.webp)
 
 ---
 
@@ -2053,7 +2053,7 @@ Using Image 1 (the garment) and Image 2 (the model), create a hyper-realistic fu
 - [Original](https://mp.weixin.qq.com/s/lrYNbs4rGs3KOqewoZ6aNQ)
 
 ## Example Output
-![Virtual Model Try-On](/images/creative/nb-virtual-model-try-on.png)
+![Virtual Model Try-On](public/images/creative/nb-virtual-model-try-on.png)
 
 ---
 
@@ -2069,7 +2069,7 @@ Create a photo of vagabonds musashi praying drawn on a glass whiteboard in a sli
 - [Original](https://x.com/nicdunz/status/1991556910106177849)
 
 ## Example Output
-![Whiteboard Marker Art](/images/creative/nb-whiteboard-marker-art.png)
+![Whiteboard Marker Art](public/images/creative/nb-whiteboard-marker-art.png)
 
 ---
 
@@ -2092,7 +2092,7 @@ Needs a photo of an object, food, etc., as inspiration.
 - [Original Post](https://x.com/Anima_Labs/status/1915044265895379166)
 
 ## Example Output
-![Original Pokemon Creation](/images/creative/original-pokemon-creation.webp)
+![Original Pokemon Creation](public/images/creative/original-pokemon-creation.webp)
 
 ---
 
@@ -2109,7 +2109,7 @@ The original prompt generated the room based on ChatGPT's memory of the user. Th
 - [Original Post](https://x.com/ZHO_ZHO_ZHO/status/1910698005193515370)
 
 ## Example Output
-![Personalized Room Design](/images/creative/personalized-room-design.webp)
+![Personalized Room Design](public/images/creative/personalized-room-design.webp)
 
 ---
 
@@ -2131,7 +2131,7 @@ The original tweet mentioned key terms are "dimensional break effects" and "moti
 - [Original Post](https://x.com/hc_dsn/status/1912367201476309396)
 
 ## Example Output
-![Physical Destruction Effect Card (Lara Croft)](/images/creative/physical-destruction-effect-card-lara-croft.webp)
+![Physical Destruction Effect Card (Lara Croft)](public/images/creative/physical-destruction-effect-card-lara-croft.webp)
 
 ---
 
@@ -2148,7 +2148,7 @@ Replace [shape or logo] in the prompt with a specific shape or logo description,
 - [Original Post](https://x.com/Gdgtify/status/1925176250626159053)
 
 ## Example Output
-![Retro CRT Computer Boot Screen](/images/creative/retro-crt-computer-boot-screen.webp)
+![Retro CRT Computer Boot Screen](public/images/creative/retro-crt-computer-boot-screen.webp)
 
 ---
 
@@ -2164,7 +2164,7 @@ The composition is exaggerated and satirical, carrying a strong critique of poli
 - [Original Post](https://x.com/dotey/status/1910514811756065159)
 
 ## Example Output
-![Satirical Cartoon Generation](/images/creative/satirical-cartoon-generation.webp)
+![Satirical Cartoon Generation](public/images/creative/satirical-cartoon-generation.webp)
 
 ---
 
@@ -2187,7 +2187,7 @@ This image showcases an excellent combination of steampunk style and metallic te
 - [Original Post](https://github.com/f-is-h/f-is-h/blob/main/images/streampank-fish-4.webp)
 
 ## Example Output
-![Steampunk Mechanical Fish](/images/creative/steampunk-mechanical-fish.webp)
+![Steampunk Mechanical Fish](public/images/creative/steampunk-mechanical-fish.webp)
 
 ---
 
@@ -2204,7 +2204,7 @@ Replace [Subject 1] and [Subject 2] in the prompt with specific subject descript
 - [Original Post](https://x.com/umesh_ai/status/1917444534239191544)
 
 ## Example Output
-![Surreal Interaction Scene](/images/creative/surreal-interaction-scene.webp)
+![Surreal Interaction Scene](public/images/creative/surreal-interaction-scene.webp)
 
 ---
 
@@ -2218,7 +2218,7 @@ Tilt POV shot of a hand holding a surreal popsicle with a transparent blue exter
 - [Original Post](https://x.com/madpencil_/status/1920037538372128998)
 
 ## Example Output
-![Surreal Underwater Scene Popsicle](/images/creative/surreal-underwater-scene-popsicle.webp)
+![Surreal Underwater Scene Popsicle](public/images/creative/surreal-underwater-scene-popsicle.webp)
 
 ---
 
@@ -2239,7 +2239,7 @@ A couple's photo.
 - [Original Post](https://x.com/balconychy/status/1909916265067557299)
 
 ## Example Output
-!["Titanic" Pose Parody](/images/creative/titanic-pose-parody.webp)
+!["Titanic" Pose Parody](public/images/creative/titanic-pose-parody.webp)
 
 ---
 
@@ -2258,7 +2258,7 @@ The `[🍔]` emoji in the prompt can be replaced with other emojis or subjects.
 - [Original Post](https://x.com/egeberkina/status/1913654508330058064)
 
 ## Example Output
-![8-Bit Pixel Icon](/images/icons/8-bit-pixel-icon.webp)
+![8-Bit Pixel Icon](public/images/icons/8-bit-pixel-icon.webp)
 
 ---
 
@@ -2275,7 +2275,7 @@ Replace the {🐼} emoji in the prompt with other animal emojis.
 - [Original Post](https://x.com/ZHO_ZHO_ZHO/status/1918525296577327574)
 
 ## Example Output
-![Animal Silicone Wrist Rest](/images/icons/animal-silicone-wrist-rest.webp)
+![Animal Silicone Wrist Rest](public/images/icons/animal-silicone-wrist-rest.webp)
 
 ---
 
@@ -2289,7 +2289,7 @@ Naruto stickers
 - [Original Post](https://x.com/richardchang/status/1909086122959139312)
 
 ## Example Output
-![Anime Sticker Collection](/images/icons/anime-sticker-collection.webp)
+![Anime Sticker Collection](public/images/icons/anime-sticker-collection.webp)
 
 ---
 
@@ -2309,7 +2309,7 @@ A photo of a person needs to be uploaded as a reference for the badge design.
 - [Original Post](https://x.com/Alittlefatwhale/status/1922512847030124905)
 
 ## Example Output
-![Anime-style Badge](/images/icons/anime-style-badge.webp)
+![Anime-style Badge](public/images/icons/anime-style-badge.webp)
 
 ---
 
@@ -2326,7 +2326,7 @@ Replace brand name, slogan, keycap colors
 - [Original Post](https://x.com/egeberkina/status/1918291652210311278)
 
 ## Example Output
-![Branded Mechanical Keycaps](/images/icons/branded-mechanical-keycaps.webp)
+![Branded Mechanical Keycaps](public/images/icons/branded-mechanical-keycaps.webp)
 
 ---
 
@@ -2346,7 +2346,7 @@ A clear half-body or full-body single person photo.
 - [Original Post](https://x.com/dotey/status/1908910838636765204)
 
 ## Example Output
-![Character Stepping Through Portal](/images/icons/character-stepping-through-portal.webp)
+![Character Stepping Through Portal](public/images/icons/character-stepping-through-portal.webp)
 
 ---
 
@@ -2363,7 +2363,7 @@ Replace {👍} emoji with your emoji icon; Replace title and tagline.
 - [Original Post](https://x.com/egeberkina/status/1919398870867440124)
 
 ## Example Output
-![Chrome Emoji Pin](/images/icons/chrome-emoji-pin.webp)
+![Chrome Emoji Pin](public/images/icons/chrome-emoji-pin.webp)
 
 ---
 
@@ -2380,7 +2380,7 @@ The 【🍓】 emoji in the prompt can be replaced with other emojis.
 - [Original Post](https://x.com/ZHO_ZHO_ZHO/status/1914574278911000967)
 
 ## Example Output
-![Emoji Cream Popsicle](/images/icons/emoji-cream-popsicle.webp)
+![Emoji Cream Popsicle](public/images/icons/emoji-cream-popsicle.webp)
 
 ---
 
@@ -2397,7 +2397,7 @@ The [🥹] emoji in the prompt can be replaced with other emojis.
 - [Original Post](https://x.com/gizakdag/status/1912858535643197927)
 
 ## Example Output
-![Emoji Inflatable Cushion](/images/icons/emoji-inflatable-cushion.webp)
+![Emoji Inflatable Cushion](public/images/icons/emoji-inflatable-cushion.webp)
 
 ---
 
@@ -2414,7 +2414,7 @@ The 🦖 emoji in the prompt can be replaced with other emojis.
 - [Original Post](https://x.com/gizakdag/status/1913925062568144924)
 
 ## Example Output
-![Emoji Tufted Rug](/images/icons/emoji-tufted-rug.webp)
+![Emoji Tufted Rug](public/images/icons/emoji-tufted-rug.webp)
 
 ---
 
@@ -2438,7 +2438,7 @@ A clear profile photo.
 - [Original Post](https://x.com/ZHO_ZHO_ZHO/status/1908044836953108490)
 
 ## Example Output
-![Flat Sticker Design](/images/icons/flat-sticker-design.webp)
+![Flat Sticker Design](public/images/icons/flat-sticker-design.webp)
 
 ---
 
@@ -2455,7 +2455,7 @@ Needs a photo of a person or object as the subject for transformation.
 - [Original Post](https://x.com/gnrlyxyz/status/1914303110853583302)
 
 ## Example Output
-![Kawaii Enamel Pin](/images/icons/kawaii-enamel-pin.webp)
+![Kawaii Enamel Pin](public/images/icons/kawaii-enamel-pin.webp)
 
 ---
 
@@ -2468,7 +2468,7 @@ Needs a photo of a person or object as the subject for transformation.
 combine these emojis: 🍌 + 😎, on a white background as a google emoji design
 
 ## Example Output
-![Emoji Combination - Banana with Sunglasses](/images/icons/nb-emoji-combination-banana-with-sunglasses.webp)
+![Emoji Combination - Banana with Sunglasses](public/images/icons/nb-emoji-combination-banana-with-sunglasses.webp)
 
 ---
 
@@ -2485,7 +2485,7 @@ The "🔥" emoji in the prompt can be replaced with other emojis.
 - [Original Post](https://x.com/egeberkina/status/1912521263085482464)
 
 ## Example Output
-![Paper craft style fire emoji icon](/images/icons/paper-craft-style-emoji-icon.webp)
+![Paper craft style fire emoji icon](public/images/icons/paper-craft-style-emoji-icon.webp)
 
 ---
 
@@ -2503,7 +2503,7 @@ You can replace the city, country, landmark, and date placeholders. The example 
 - [Original Post](https://x.com/ZHO_ZHO_ZHO/status/1912188562944250035)
 
 ## Example Output
-![Passport Entry Stamp](/images/icons/passport-entry-stamp.webp)
+![Passport Entry Stamp](public/images/icons/passport-entry-stamp.webp)
 
 ---
 
@@ -2533,7 +2533,7 @@ A clear profile photo.
 - [Original Post](https://x.com/dotey/status/1909800530739679488)
 
 ## Example Output
-![Q-version Emoji Sticker Pack Creation](/images/icons/q-version-emoji-sticker-pack-creation.webp)
+![Q-version Emoji Sticker Pack Creation](public/images/icons/q-version-emoji-sticker-pack-creation.webp)
 
 ---
 
@@ -2555,7 +2555,7 @@ The overall atmosphere is abstract yet deeply human, like a fleeting glance or a
 - [Original Post](https://x.com/ZHO_ZHO_ZHO/status/1922150692145283299)
 
 ## Example Output
-![Black and White Portrait Art](/images/portraits/black-and-white-portrait-art.webp)
+![Black and White Portrait Art](public/images/portraits/black-and-white-portrait-art.webp)
 
 ---
 
@@ -2573,7 +2573,7 @@ For example, set [SUBJECT] to “a Sith Lord wielding a red lightsaber in one ha
 - [Original Post](https://x.com/umesh_ai/status/1921487841634156999)
 
 ## Example Output
-![Blurred Silhouette Behind Frosted Glass](/images/portraits/blurred-silhouette-behind-frosted-glass.webp)
+![Blurred Silhouette Behind Frosted Glass](public/images/portraits/blurred-silhouette-behind-frosted-glass.webp)
 
 ---
 
@@ -2587,7 +2587,7 @@ Double exposure, Midjourney style, merging, blending, overlay double exposure im
 - [Original Post](https://sora.com/g/gen_01jtc9btfzef080z31v8w9rtbw)
 
 ## Example Output
-![Double Exposure](/images/portraits/double-exposure.webp)
+![Double Exposure](public/images/portraits/double-exposure.webp)
 
 ---
 
@@ -2643,7 +2643,7 @@ This prompt aims to generate a photo that looks very casual, even slightly like 
 - [Original Post](https://x.com/jiamimaodashu/status/1912653073190879410)
 
 ## Example Output
-![Extremely Ordinary iPhone Selfie](/images/portraits/extremely-ordinary-iphone-selfie.webp)
+![Extremely Ordinary iPhone Selfie](public/images/portraits/extremely-ordinary-iphone-selfie.webp)
 
 ---
 
@@ -2664,7 +2664,7 @@ A family photo.
 - [Original Post](https://x.com/balconychy/status/1909426314643222595)
 
 ## Example Output
-![Q-version 3D Family Portrait](/images/portraits/family-wedding-photo-q-version.webp)
+![Q-version 3D Family Portrait](public/images/portraits/family-wedding-photo-q-version.webp)
 
 ---
 
@@ -2680,7 +2680,7 @@ Without changing her original face, create a portrait of a beautiful young woman
 - [Original](https://x.com/kingofdairyque/status/1991780760030961768?s=20)
 
 ## Example Output
-![1990s Camera Style Portrait](/images/portraits/nb-1990s-camera-style-portrait.webp)
+![1990s Camera Style Portrait](public/images/portraits/nb-1990s-camera-style-portrait.webp)
 
 ---
 
@@ -2751,7 +2751,7 @@ Create a 2000s Mirror Selfie of yourself using Gemini Nano Banana.
 - [Original](https://x.com/ZaraIrahh/status/1991681614368436468?s=20)
 
 ## Example Output
-![2000s Mirror Selfie](/images/portraits/nb-2000s-mirror-selfie.webp)
+![2000s Mirror Selfie](public/images/portraits/nb-2000s-mirror-selfie.webp)
 
 ---
 
@@ -2855,7 +2855,7 @@ Create a 2000s Mirror Selfie of yourself using Gemini Nano Banana.
 }
 
 ## Example Output
-![Bathroom Mirror Selfie](/images/portraits/nb-bathroom-mirror-selfie.webp)
+![Bathroom Mirror Selfie](public/images/portraits/nb-bathroom-mirror-selfie.webp)
 
 ---
 
@@ -2870,7 +2870,7 @@ Create a 2000s Mirror Selfie of yourself using Gemini Nano Banana.
 Keep the person exactly as shown in the reference image with 100% identical facial features, bone structure, skin tone, facial expression, pose, and appearance. 1:1 aspect ratio, 4K detail."
 
 ## Example Output
-![Character Consistency Selfie with Movie Character](/images/portraits/nb-character-consistency-selfie-with-movie-character.webp)
+![Character Consistency Selfie with Movie Character](public/images/portraits/nb-character-consistency-selfie-with-movie-character.webp)
 
 ---
 
@@ -2888,7 +2888,7 @@ Subject & Action: A close-up, distorted group photo featuring [Person From Uploa
 Lighting & Texture: Harsh, direct on-camera flash lighting that creates hard shadows behind the subjects. Authentic film grain, slight motion blur on the edges, and chromatic aberration. It looks like a candid, amateur snapshot as if captured during a chaotic behind-the-scenes moment, not a studio photo.
 
 ## Example Output
-![Fisheye Movie Character Selfie](/images/portraits/nb-fisheye-movie-character-selfie.webp)
+![Fisheye Movie Character Selfie](public/images/portraits/nb-fisheye-movie-character-selfie.webp)
 
 ---
 
@@ -2914,7 +2914,7 @@ High-contrast only in the lit portion of the face.
 Everything outside the spotlight should be nearly invisible.
 
 ## Example Output
-![Hyperrealistic Anime Portrait in Spotlight](/images/portraits/nb-hyperrealistic-anime-portrait-in-spotlight.webp)
+![Hyperrealistic Anime Portrait in Spotlight](public/images/portraits/nb-hyperrealistic-anime-portrait-in-spotlight.webp)
 
 ---
 
@@ -2927,7 +2927,7 @@ Everything outside the spotlight should be nearly invisible.
 A daily snapshot taken with a low-quality disposable camera. A clumsy photo taken by a Japanese high school student. (Aspect ratio 3:2 is recommended)
 
 ## Example Output
-![Japanese High School Student Snap Photo](/images/portraits/nb-japanese-high-school-student-snap-photo.webp)
+![Japanese High School Student Snap Photo](public/images/portraits/nb-japanese-high-school-student-snap-photo.webp)
 
 ---
 
@@ -2948,7 +2948,7 @@ Masterpiece, ultra-detailed, cinematic lighting, strong contrast, dramatic shado
 , professional photography.
 
 ## Example Output
-![Museum Art Exhibition Selfie](/images/portraits/nb-museum-art-exhibition-selfie.webp)
+![Museum Art Exhibition Selfie](public/images/portraits/nb-museum-art-exhibition-selfie.webp)
 
 ---
 
@@ -2993,7 +2993,7 @@ Masterpiece, ultra-detailed, cinematic lighting, strong contrast, dramatic shado
 }
 
 ## Example Output
-![Portrait with Puppy in Snow](/images/portraits/nb-portrait-with-puppy-in-snow.webp)
+![Portrait with Puppy in Snow](public/images/portraits/nb-portrait-with-puppy-in-snow.webp)
 
 ---
 
@@ -3009,7 +3009,7 @@ Masterpiece, ultra-detailed, cinematic lighting, strong contrast, dramatic shado
 - [Original](https://x.com/PavolRusnak/status/1994097306526994558)
 
 ## Example Output
-![Professional Headshot Creator](/images/portraits/nb-professional-headshot-creator.webp)
+![Professional Headshot Creator](public/images/portraits/nb-professional-headshot-creator.webp)
 
 ---
 
@@ -3025,7 +3025,7 @@ Identify the main product in the uploaded photo (automatically removing any hand
 - [Original](https://mp.weixin.qq.com/s/lrYNbs4rGs3KOqewoZ6aNQ)
 
 ## Example Output
-![Professional Product Photography](/images/portraits/nb-professional-product-photography.png)
+![Professional Product Photography](public/images/portraits/nb-professional-product-photography.png)
 
 ---
 
@@ -3043,7 +3043,7 @@ The background is a darkly lit room, probably under the podium. The main emphasi
 - [Original](https://x.com/NanoBanana_labs/status/1991947916479762788?s=20)
 
 ## Example Output
-![Victoria's Secret Style Photoshoot](/images/portraits/nb-victoria-s-secret-style-photoshoot.webp)
+![Victoria's Secret Style Photoshoot](public/images/portraits/nb-victoria-s-secret-style-photoshoot.webp)
 
 ---
 
@@ -3070,7 +3070,7 @@ Optional. Can be generated based on profession/role description or use an upload
 - [Original Post](https://x.com/berryxia_ai/status/1911334046724165905)
 
 ## Example Output
-![RPG-Style Character Card Creation](/images/portraits/rpg-style-character-card-creation.webp)
+![RPG-Style Character Card Creation](public/images/portraits/rpg-style-character-card-creation.webp)
 
 ---
 
@@ -3087,7 +3087,7 @@ Replace `[PROMPT]` with the specific subject, e.g., "dragon on a castle", "woman
 - [Original Post](https://x.com/umesh_ai/status/1915417277953962048)
 
 ## Example Output
-![Silhouette Art](/images/portraits/silhouette-art.webp)
+![Silhouette Art](public/images/portraits/silhouette-art.webp)
 
 ---
 
@@ -3104,7 +3104,7 @@ Replace [animal type] and [landmark] in the prompt with specific descriptions.
 - [Original Post](https://x.com/berryxia_ai/status/1920795648946782583)
 
 ## Example Output
-![Three Animals Selfie at Landmark](/images/portraits/three-animals-selfie-at-landmark.webp)
+![Three Animals Selfie at Landmark](public/images/portraits/three-animals-selfie-at-landmark.webp)
 
 ---
 
@@ -3132,7 +3132,7 @@ Replace the values of name, title, email, and link in the final JSON code. The p
 - [Original Post](https://x.com/dotey/status/1917412535130563006)
 
 ## Example Output
-![Code Style Business Card](/images/posters/code-style-business-card.webp)
+![Code Style Business Card](public/images/posters/code-style-business-card.webp)
 
 ---
 
@@ -3149,7 +3149,7 @@ Replace the city and country names in the prompt (e.g., replace "Barcelona Spain
 - [Original Post](https://x.com/michaelrabone/status/1913865394139316291)
 
 ## Example Output
-![Colorful Vector Art Poster](/images/posters/colorful-vector-art-poster.webp)
+![Colorful Vector Art Poster](public/images/posters/colorful-vector-art-poster.webp)
 
 ---
 
@@ -3194,7 +3194,7 @@ a hyper realistic twitter post by Albert Einstein right after finishing the theo
 - [Original Post](https://x.com/egeberkina/status/1914299716394778713)
 
 ## Example Output
-![Fake Tweet Screenshot (Einstein)](/images/posters/fake-tweet-screenshot-einstein.webp)
+![Fake Tweet Screenshot (Einstein)](public/images/posters/fake-tweet-screenshot-einstein.webp)
 
 ---
 
@@ -3208,7 +3208,7 @@ A beautiful woman wearing a pink qipao, adorned with delicate floral accessories
 - [Original Post](https://x.com/dotey/status/1912536019905233194)
 
 ## Example Output
-![Fashion Magazine Cover Style](/images/posters/fashion-magazine-cover-style.webp)
+![Fashion Magazine Cover Style](public/images/posters/fashion-magazine-cover-style.webp)
 
 ---
 
@@ -3251,7 +3251,7 @@ The prompt uses a JSON-like structure to describe card elements. Modify values i
 - [Original Post](https://x.com/hewarsaber/status/1912933875166171515)
 
 ## Example Output
-![Futuristic Logo Trading Card](/images/posters/futuristic-logo-trading-card.webp)
+![Futuristic Logo Trading Card](public/images/posters/futuristic-logo-trading-card.webp)
 
 ---
 
@@ -3268,7 +3268,7 @@ A Google Maps screenshot or other map image needs to be uploaded as the basis fo
 - [Original Post](https://x.com/umesh_ai/status/1919701229363466328)
 
 ## Example Output
-![Google Maps to Ancient Treasure Map](/images/posters/google-maps-to-ancient-treasure-map.webp)
+![Google Maps to Ancient Treasure Map](public/images/posters/google-maps-to-ancient-treasure-map.webp)
 
 ---
 
@@ -3296,7 +3296,7 @@ The [Classic 3D Coca-Cola Bottle] in the prompt can be replaced with description
 - [Original Post](https://x.com/ZHO_ZHO_ZHO/status/1921906728763105394)
 
 ## Example Output
-![Minimalist Futurist Poster](/images/posters/minimalist-futurist-poster.webp)
+![Minimalist Futurist Poster](public/images/posters/minimalist-futurist-poster.webp)
 
 ---
 
@@ -3315,7 +3315,7 @@ Design a professional promotional poster for a [Coffee Shop]. Composition : A ci
 - [Original](https://mp.weixin.qq.com/s/lrYNbs4rGs3KOqewoZ6aNQ)
 
 ## Example Output
-![Commercial Promotional Poster](/images/posters/nb-commercial-promotional-poster.png)
+![Commercial Promotional Poster](public/images/posters/nb-commercial-promotional-poster.png)
 
 ---
 
@@ -3332,7 +3332,7 @@ In front of the text there is a dynamic portrait of a person in green and banana
 Put the issue number and today's date in the corner along with a barcode and a price. The magazine is on a white shelf against a wall.
 
 ## Example Output
-![Magazine Cover Portrait](/images/posters/nb-magazine-cover-portrait.webp)
+![Magazine Cover Portrait](public/images/posters/nb-magazine-cover-portrait.webp)
 
 ---
 
@@ -3348,7 +3348,7 @@ Put this whole text, verbatim, into a photo of a glossy magazine article on a de
 - [Original](https://x.com/fofrAI/status/1991530971800182929)
 
 ## Example Output
-![Magazine Layout Generator](/images/posters/nb-magazine-layout-generator.png)
+![Magazine Layout Generator](public/images/posters/nb-magazine-layout-generator.png)
 
 ---
 
@@ -3364,7 +3364,7 @@ Design a viral video thumbnail using the person from Image 1. Face Consistency :
 - [Original](https://mp.weixin.qq.com/s/lrYNbs4rGs3KOqewoZ6aNQ)
 
 ## Example Output
-![Viral Cover Image (Youtube/Douyin/TikTok)](/images/posters/nb-viral-cover-image-youtube-douyin-tiktok.png)
+![Viral Cover Image (Youtube/Douyin/TikTok)](public/images/posters/nb-viral-cover-image-youtube-douyin-tiktok.png)
 
 ---
 
@@ -3411,7 +3411,7 @@ photography_rendering": {
 negative_prompt": "no realism that breaks Y2K aesthetic, no modern 2020s clothing, no messy composition, no blurry face, no distorted hands, no extra limbs, no face warping, no low resolution, no grain, no muted colors, no watermark, no AI artifacts"
 
 ## Example Output
-![Y2K Scrapbook Poster with Multiple Poses](/images/posters/nb-y2k-scrapbook-poster-with-multiple-poses.webp)
+![Y2K Scrapbook Poster with Multiple Poses](public/images/posters/nb-y2k-scrapbook-poster-with-multiple-poses.webp)
 
 ---
 
@@ -3428,7 +3428,7 @@ You can replace the movie title "{The Lord of the Rings}" in the prompt with oth
 - [Original Post](https://sora.com/g/gen_01jsfxrdpjfpebnyed8yaz42nf)
 
 ## Example Output
-![Nostalgic Anime Film Poster](/images/posters/nostalgic-anime-film-poster.webp)
+![Nostalgic Anime Film Poster](public/images/posters/nostalgic-anime-film-poster.webp)
 
 ---
 
@@ -3442,7 +3442,7 @@ Can you create a PS2 video game case of "Grand Theft Auto: Far Far Away" a GTA b
 - [Original Post](https://x.com/dotey/status/1904978767090524372)
 
 ## Example Output
-![PS2 Game Cover (GTA x Shrek)](/images/posters/ps2-game-cover-gta-x-shrek.webp)
+![PS2 Game Cover (GTA x Shrek)](public/images/posters/ps2-game-cover-gta-x-shrek.webp)
 
 ---
 
@@ -3456,7 +3456,7 @@ A retro-style promotional poster emphasizing bold Chinese text. The background f
 - [Original Post](https://x.com/dotey/status/1905251524248248650)
 
 ## Example Output
-![Retro Style Promotional Poster](/images/posters/retro-style-promotional-poster.webp)
+![Retro Style Promotional Poster](public/images/posters/retro-style-promotional-poster.webp)
 
 ---
 
@@ -3473,7 +3473,7 @@ maybe it’s time to deliver takeout instead.
 - [Original Post](https://x.com/ZHO_ZHO_ZHO/status/1905287637084274742)
 
 ## Example Output
-![Satirical Poster Generation](/images/posters/satirical-poster-generation.webp)
+![Satirical Poster Generation](public/images/posters/satirical-poster-generation.webp)
 
 ---
 
@@ -3490,7 +3490,7 @@ The city, weather, temperature, and building names can be replaced with the cont
 - [Original Post](https://x.com/dotey/status/1917988595228438771)
 
 ## Example Output
-![Signature City Weather Forecast](/images/posters/signature-city-weather-forecast.webp)
+![Signature City Weather Forecast](public/images/posters/signature-city-weather-forecast.webp)
 
 ---
 
@@ -3510,7 +3510,7 @@ Yes, needs an image to be uploaded as reference.
 - [Original Post](https://x.com/dotey/status/1917042797506662560)
 
 ## Example Output
-![Social Media Frame Integration](/images/posters/social-media-frame-integration.webp)
+![Social Media Frame Integration](public/images/posters/social-media-frame-integration.webp)
 
 ---
 
@@ -3543,7 +3543,7 @@ Image aspect ratio: 9:16
 - [Original Post](https://x.com/balconychy/status/1905507936526627078)
 
 ## Example Output
-![Xiaohongshu Cover Image](/images/posters/xiaohongshu-cover-image.webp)
+![Xiaohongshu Cover Image](public/images/posters/xiaohongshu-cover-image.webp)
 
 ---
 
@@ -3608,7 +3608,7 @@ Image aspect ratio: 9:16
 ```
 
 ## Example Output
-![MrBeast Comparison](/images/thumbnails/mrbeast-comparison.webp)
+![MrBeast Comparison](public/images/thumbnails/mrbeast-comparison.webp)
 
 ---
 
@@ -3676,7 +3676,7 @@ Image aspect ratio: 9:16
 }
 
 ## Example Output
-![MrBeast Construction](/images/thumbnails/mrbeast-construction.webp)
+![MrBeast Construction](public/images/thumbnails/mrbeast-construction.webp)
 
 ---
 
@@ -3749,7 +3749,7 @@ Image aspect ratio: 9:16
 ```
 
 ## Example Output
-![MrBeast Extreme Scale](/images/thumbnails/mrbeast-extreme-scale.webp)
+![MrBeast Extreme Scale](public/images/thumbnails/mrbeast-extreme-scale.webp)
 
 ---
 
@@ -3822,7 +3822,7 @@ Image aspect ratio: 9:16
 ```
 
 ## Example Output
-![MrBeast Face Off](/images/thumbnails/mrbeast-face-off.webp)
+![MrBeast Face Off](public/images/thumbnails/mrbeast-face-off.webp)
 
 ---
 
@@ -3956,7 +3956,7 @@ Image aspect ratio: 9:16
 ```
 
 ## Example Output
-![MrBeast Stack](/images/thumbnails/mrbeast-stack.webp)
+![MrBeast Stack](public/images/thumbnails/mrbeast-stack.webp)
 
 ---
 
@@ -4034,7 +4034,7 @@ Image aspect ratio: 9:16
 ```
 
 ## Example Output
-![MrBeast Survival](/images/thumbnails/mrbeast-survival.webp)
+![MrBeast Survival](public/images/thumbnails/mrbeast-survival.webp)
 
 ---
 
@@ -4099,7 +4099,7 @@ Image aspect ratio: 9:16
 ```
 
 ## Example Output
-![MrBeast Transformation](/images/thumbnails/mrbeast-transformation.webp)
+![MrBeast Transformation](public/images/thumbnails/mrbeast-transformation.webp)
 
 ---
 
@@ -4174,7 +4174,7 @@ Image aspect ratio: 9:16
 ```
 
 ## Example Output
-![MrBeast Trap](/images/thumbnails/mrbeast-trap.webp)
+![MrBeast Trap](public/images/thumbnails/mrbeast-trap.webp)
 
 ---
 
@@ -4253,7 +4253,7 @@ Image aspect ratio: 9:16
 ```
 
 ## Example Output
-![MrBeast Vehicle](/images/thumbnails/mrbeast-vehicle.webp)
+![MrBeast Vehicle](public/images/thumbnails/mrbeast-vehicle.webp)
 
 ---
 
