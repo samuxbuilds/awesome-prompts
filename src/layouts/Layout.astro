@@ -40,6 +40,9 @@ const imageUrl = image.startsWith('http') ? image : `${siteUrl}${image}`;
     <meta name="twitter:description" content={description} />
     <meta name="twitter:image" content={imageUrl} />
 
+    <!-- Additional head content from pages -->
+    <slot name="head" />
+
     <title>{title}</title>
   </head>
   <body>

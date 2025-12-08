@@ -51,12 +51,43 @@ const htmlContent = marked(prompt.content);
 const siteUrl = 'https://awesomeprompts.xyz';
 const promptUrl = `${siteUrl}/prompt/${prompt.category}/${prompt.slug}`;
 
+// Prepare OG image - use preview image if available
+const ogImage = prompt.preview ? prompt.preview : '/og-image.webp';
+
+// Prepare description for OG tags (first 160 chars of content)
+const ogDescription = prompt.content
+  .replace(/[#*`\[\]]/g, '') // Remove markdown syntax
+  .replace(/\n+/g, ' ')      // Replace newlines with spaces
+  .trim()
+  .slice(0, 160) + '...';
+
 const displayCategory = prompt.category.includes('/') 
   ? prompt.category.split('/').map((s: string) => s.charAt(0).toUpperCase() + s.slice(1)).join(' / ')
   : prompt.category.charAt(0).toUpperCase() + prompt.category.slice(1);
+
+// Video URL for motion prompts
+const videoUrl = prompt.previewVideo ? `${siteUrl}${prompt.previewVideo}` : null;
 ---
 
-<Layout title={`${prompt.title} - AwesomePrompts`}>
+<Layout 
+  title={`${prompt.title} - AwesomePrompts`}
+  description={ogDescription}
+  image={ogImage}
+  url={promptUrl}
+>
+  {/* Video OG tags for motion prompts */}
+  {videoUrl && (
+    <Fragment slot="head">
+      <meta property="og:video" content={videoUrl} />
+      <meta property="og:video:type" content="video/webm" />
+      <meta property="og:video:width" content="1280" />
+      <meta property="og:video:height" content="720" />
+      <meta name="twitter:card" content="player" />
+      <meta name="twitter:player" content={videoUrl} />
+      <meta name="twitter:player:width" content="1280" />
+      <meta name="twitter:player:height" content="720" />
+    </Fragment>
+  )}
   <!-- Pagefind metadata (hidden but indexed) -->
   <div data-pagefind-body class="hidden">
     <h1 data-pagefind-meta="title">{prompt.title}</h1>
