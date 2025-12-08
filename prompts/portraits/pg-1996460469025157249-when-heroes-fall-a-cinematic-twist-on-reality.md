@@ -5,7 +5,7 @@ tags: ["realistic","nano-banana-pro"]
 author: "@ShreyaYadav___"
 author_url: "https://twitter.com/ShreyaYadav___"
 source_url: "https://twitter.com/ShreyaYadav___/status/1996460469025157249"
-preview: "/images/portraits/pg-1996460469025157249.webp"
+preview: "/media/portraits/pg-1996460469025157249.webp"
 ---
 
 A poignant scene unfolds amidst chaos—Spiderman cradles a battle-worn warrior, each scar telling a story. The hyper-realistic details capture raw emotion and resilience.
@@ -39,4 +39,4 @@ A poignant scene unfolds amidst chaos—Spiderman cradles a battle-worn warrior,
 
 ## Example Output
 
-![When Heroes Fall: A Cinematic Twist on Reality](/images/portraits/pg-1996460469025157249.webp)
+![When Heroes Fall: A Cinematic Twist on Reality](/media/portraits/pg-1996460469025157249.webp)

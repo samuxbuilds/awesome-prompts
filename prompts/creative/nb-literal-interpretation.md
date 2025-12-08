@@ -3,7 +3,7 @@ title: "Literal Interpretation"
 category: creative
 tags: ["creative", "ai-art"]
 author: "@nanobanana-pro"
-preview: "/images/creative/nb-literal-interpretation.webp"
+preview: "/media/creative/nb-literal-interpretation.webp"
 ---
 
 *Interprets a filename as a visual subject.*
@@ -14,4 +14,4 @@ rare.webp
 - [Original](https://replicate.com/)
 
 ## Example Output
-![Literal Interpretation](/images/creative/nb-literal-interpretation.webp)
+![Literal Interpretation](/media/creative/nb-literal-interpretation.webp)

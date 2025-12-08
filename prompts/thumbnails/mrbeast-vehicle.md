@@ -3,7 +3,7 @@ title: "MrBeast Style - Vehicle/Speed"
 category: "thumbnails"
 tags: ["mrbeast", "youtube", "thumbnail", "vehicle", "action"]
 author: "@samux"
-preview: "/images/thumbnails/mrbeast-vehicle.webp"
+preview: "/media/thumbnails/mrbeast-vehicle.webp"
 ---
 
 ```json
@@ -77,5 +77,5 @@ preview: "/images/thumbnails/mrbeast-vehicle.webp"
 ```
 
 ## Example Output
-![MrBeast Vehicle](/images/thumbnails/mrbeast-vehicle.webp)
+![MrBeast Vehicle](/media/thumbnails/mrbeast-vehicle.webp)
 

@@ -5,7 +5,7 @@ tags: ["nano-banana-pro"]
 author: "@Kashiko_AIart"
 author_url: "https://twitter.com/Kashiko_AIart"
 source_url: "https://twitter.com/Kashiko_AIart/status/1991801500096446888"
-preview: "/images/portraits/pg-1991801500096446888.webp"
+preview: "/media/portraits/pg-1991801500096446888.webp"
 ---
 
 Why stick to convention? Explore how ditching 'manga' in prompts unveils richer visuals—compare two stunning styles that challenge the norm!
@@ -25,4 +25,4 @@ Why stick to convention? Explore how ditching 'manga' in prompts unveils richer 
 
 ## Example Output
 
-![Reimagining Manga: Break Free from Traditional Constraints!](/images/portraits/pg-1991801500096446888.webp)
+![Reimagining Manga: Break Free from Traditional Constraints!](/media/portraits/pg-1991801500096446888.webp)

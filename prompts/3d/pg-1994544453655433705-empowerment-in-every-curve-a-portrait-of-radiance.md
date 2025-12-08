@@ -5,7 +5,7 @@ tags: ["portrait","vibrant","nano-banana-pro"]
 author: "@IqraSaifiii"
 author_url: "https://twitter.com/IqraSaifiii"
 source_url: "https://twitter.com/IqraSaifiii/status/1994544453655433705"
-preview: "/images/3d/pg-1994544453655433705.webp"
+preview: "/media/3d/pg-1994544453655433705.webp"
 ---
 
 A confident young woman, framed by a brilliant sky, radiates positivity. Her playful peace sign and vibrant attire capture a moment of youthful energy and empowerment.
@@ -91,4 +91,4 @@ A confident young woman, framed by a brilliant sky, radiates positivity. Her pla
 
 ## Example Output
 
-![Empowerment in Every Curve: A Portrait of Radiance](/images/3d/pg-1994544453655433705.webp)
+![Empowerment in Every Curve: A Portrait of Radiance](/media/3d/pg-1994544453655433705.webp)

@@ -5,7 +5,7 @@ tags: ["nano-banana-pro"]
 author: "@saniaspeaks_"
 author_url: "https://twitter.com/saniaspeaks_"
 source_url: "https://twitter.com/saniaspeaks_/status/1995680081042440554"
-preview: "/images/3d/pg-1995680081042440554.webp"
+preview: "/media/3d/pg-1995680081042440554.webp"
 ---
 
 Elegance meets innovation! A young woman exudes confidence against a breathtaking coastal backdrop, showcasing the power of the Google Nano Banana Pro on the Gemini app.
@@ -46,4 +46,4 @@ Elegance meets innovation! A young woman exudes confidence against a breathtakin
 
 ## Example Output
 
-![Chic Coastal Vibes with the Google Nano Banana Pro](/images/3d/pg-1995680081042440554.webp)
+![Chic Coastal Vibes with the Google Nano Banana Pro](/media/3d/pg-1995680081042440554.webp)

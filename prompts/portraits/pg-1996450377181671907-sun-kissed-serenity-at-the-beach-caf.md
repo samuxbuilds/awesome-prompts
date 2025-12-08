@@ -5,7 +5,7 @@ tags: ["light","nano-banana-pro"]
 author: "@ShreyaYadav___"
 author_url: "https://twitter.com/ShreyaYadav___"
 source_url: "https://twitter.com/ShreyaYadav___/status/1996450377181671907"
-preview: "/images/portraits/pg-1996450377181671907.webp"
+preview: "/media/portraits/pg-1996450377181671907.webp"
 ---
 
 A playful smile lights up her face as she lounges at a sun-drenched café, embodying the essence of summer bliss. Soft waves frame her relaxed pose amidst a warm, inviting backdrop.
@@ -77,4 +77,4 @@ A playful smile lights up her face as she lounges at a sun-drenched café, embod
 
 ## Example Output
 
-![Sun-Kissed Serenity at the Beach Café](/images/portraits/pg-1996450377181671907.webp)
+![Sun-Kissed Serenity at the Beach Café](/media/portraits/pg-1996450377181671907.webp)

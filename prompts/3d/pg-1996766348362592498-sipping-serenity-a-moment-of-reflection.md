@@ -5,7 +5,7 @@ tags: ["light","nano-banana-pro"]
 author: "@real_novax"
 author_url: "https://twitter.com/real_novax"
 source_url: "https://twitter.com/real_novax/status/1996766348362592498"
-preview: "/images/3d/pg-1996766348362592498.webp"
+preview: "/media/3d/pg-1996766348362592498.webp"
 ---
 
 In a cozy haven, a young woman's gaze drifts softly, her thoughts as warm as the golden sunlight kissing her features. A coffee mug rests nearby, whispering stories of comfort.
@@ -20,4 +20,4 @@ In a cozy haven, a young woman's gaze drifts softly, her thoughts as warm as the
 
 ## Example Output
 
-![Sipping Serenity: A Moment of Reflection](/images/3d/pg-1996766348362592498.webp)
+![Sipping Serenity: A Moment of Reflection](/media/3d/pg-1996766348362592498.webp)

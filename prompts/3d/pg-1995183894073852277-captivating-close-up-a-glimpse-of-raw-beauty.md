@@ -5,7 +5,7 @@ tags: ["light","nano-banana-pro"]
 author: "@ShreyaYadav___"
 author_url: "https://twitter.com/ShreyaYadav___"
 source_url: "https://twitter.com/ShreyaYadav___/status/1995183894073852277"
-preview: "/images/3d/pg-1995183894073852277.webp"
+preview: "/media/3d/pg-1995183894073852277.webp"
 ---
 
 Behold the striking details of this extreme close-up! A young woman's moist skin glistens under soft lighting, while her mesmerizing green/hazel eyes reflect the world around her.
@@ -45,4 +45,4 @@ Behold the striking details of this extreme close-up! A young woman's moist skin
 
 ## Example Output
 
-![Captivating Close-Up: A Glimpse of Raw Beauty 🌟](/images/3d/pg-1995183894073852277.webp)
+![Captivating Close-Up: A Glimpse of Raw Beauty 🌟](/media/3d/pg-1995183894073852277.webp)

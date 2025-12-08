@@ -5,7 +5,7 @@ tags: ["light","nano-banana-pro"]
 author: "@IamEmily2050"
 author_url: "https://twitter.com/IamEmily2050"
 source_url: "https://twitter.com/IamEmily2050/status/1995720630436839730"
-preview: "/images/portraits/pg-1995720630436839730.webp"
+preview: "/media/portraits/pg-1995720630436839730.webp"
 ---
 
 In an ethereal garden terrace, a stunning muse captivates with her mesmerizing ruby gown, radiant skin, and sultry candlelight, embodying nocturnal romance.
@@ -26,4 +26,4 @@ In an ethereal garden terrace, a stunning muse captivates with her mesmerizing r
 
 ## Example Output
 
-![Twilight Allure: Ruby Elegance in Velvet Shadows](/images/portraits/pg-1995720630436839730.webp)
+![Twilight Allure: Ruby Elegance in Velvet Shadows](/media/portraits/pg-1995720630436839730.webp)

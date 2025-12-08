@@ -5,7 +5,7 @@ tags: ["light","digital","nano-banana-pro"]
 author: "@kingofdairyque"
 author_url: "https://twitter.com/kingofdairyque"
 source_url: "https://twitter.com/kingofdairyque/status/1993121789111935437"
-preview: "/images/portraits/pg-1993121789111935437.webp"
+preview: "/media/portraits/pg-1993121789111935437.webp"
 ---
 
 Caught in a candid flash! This close-up captures a young woman's essence in a nostalgic digital snapshot, blending sharp highlights with soft shadows in a retro kitchen scene.
@@ -31,4 +31,4 @@ Color grading: nostalgic digital-camera tones, high contrast flash, subtle displ
 
 ## Example Output
 
-![Flashback to Pixelated Moments: A Night in Focus](/images/portraits/pg-1993121789111935437.webp)
+![Flashback to Pixelated Moments: A Night in Focus](/media/portraits/pg-1993121789111935437.webp)

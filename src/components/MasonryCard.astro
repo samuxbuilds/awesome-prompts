@@ -7,10 +7,11 @@ interface Props {
   tags: string[];
   slug: string;
   preview?: string;
+  previewVideo?: string;
   excerpt?: string;
 }
 
-const { title, category, tags, slug, preview, excerpt } = Astro.props;
+const { title, category, tags, slug, preview, previewVideo, excerpt } = Astro.props;
 
 const categoryColors: Record<string, string> = {
   posters: 'bg-blue-100 text-blue-800 dark:bg-blue-900 dark:text-blue-200',
@@ -18,16 +19,33 @@ const categoryColors: Record<string, string> = {
   '3d': 'bg-orange-100 text-orange-800 dark:bg-orange-900 dark:text-orange-200',
   icons: 'bg-cyan-100 text-cyan-800 dark:bg-cyan-900 dark:text-cyan-200',
   portraits: 'bg-amber-100 text-amber-800 dark:bg-amber-900 dark:text-amber-200',
+  motion: 'bg-rose-100 text-rose-800 dark:bg-rose-900 dark:text-rose-200',
 };
 
 const colorClass = categoryColors[category] || 'bg-gray-100 text-gray-800 dark:bg-gray-700 dark:text-gray-200';
+const hasVideo = category === 'motion' && previewVideo;
 ---
 
 <a 
   href={`/prompt/${category}/${slug}`}
   class="masonry-card block bg-white dark:bg-gray-800 rounded-xl neu-border neu-shadow overflow-hidden transition-all neu-shadow-hover break-inside-avoid mb-4"
 >
-  {preview && (
+  {hasVideo ? (
+    <div class="w-full overflow-hidden aspect-video relative">
+      <video 
+        src={previewVideo}
+        class="w-full h-full object-cover"
+        autoplay
+        loop
+        muted
+        playsinline
+      ></video>
+      <div class="absolute top-2 right-2 bg-rose-500 text-white text-xs px-2 py-0.5 rounded-full font-medium flex items-center gap-1">
+        <svg class="w-3 h-3" fill="currentColor" viewBox="0 0 20 20"><polygon points="5,3 19,10 5,17"/></svg>
+        Motion
+      </div>
+    </div>
+  ) : preview && (
     <div class="w-full overflow-hidden">
       <img 
         src={preview} 
@@ -61,12 +79,14 @@ const colorClass = categoryColors[category] || 'bg-gray-100 text-gray-800 dark:b
 </a>
 
 <style>
-  .masonry-card:hover img {
+  .masonry-card:hover img,
+  .masonry-card:hover video {
     transform: scale(1.02);
     transition: transform 0.3s ease;
   }
   
-  .masonry-card img {
+  .masonry-card img,
+  .masonry-card video {
     transition: transform 0.3s ease;
   }
 </style>

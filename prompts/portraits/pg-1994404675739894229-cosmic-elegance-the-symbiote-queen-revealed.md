@@ -5,7 +5,7 @@ tags: ["light","nano-banana-pro"]
 author: "@Just_sharon7"
 author_url: "https://twitter.com/Just_sharon7"
 source_url: "https://twitter.com/Just_sharon7/status/1994404675739894229"
-preview: "/images/portraits/pg-1994404675739894229.webp"
+preview: "/media/portraits/pg-1994404675739894229.webp"
 ---
 
 A stunning portrayal of a cosplayer in a cosmic black and silver suit, her cotton-candy pink hair frames a fierce gaze that commands attention. The glossy textures and intricate spider-web details shine under soft studio lighting, creating a striking visual masterpiece.
@@ -54,4 +54,4 @@ A stunning portrayal of a cosplayer in a cosmic black and silver suit, her cotto
 
 ## Example Output
 
-![Cosmic Elegance: The Symbiote Queen Revealed](/images/portraits/pg-1994404675739894229.webp)
+![Cosmic Elegance: The Symbiote Queen Revealed](/media/portraits/pg-1994404675739894229.webp)

@@ -5,7 +5,7 @@ tags: ["art","nano-banana-pro"]
 author: "@seti_park"
 author_url: "https://twitter.com/seti_park"
 source_url: "https://twitter.com/seti_park/status/1992058919678849106"
-preview: "/images/creative/pg-1992058919678849106.webp"
+preview: "/media/creative/pg-1992058919678849106.webp"
 ---
 
 Can coordinates bring a skyline to life? The stunning night view of Yeouido's 63 Building, created with pinpoint accuracy, showcases the magic of location-based artistry!
@@ -20,4 +20,4 @@ Create an image of 37°31'11.24"N 126°56'25.11"E at night.
 
 ## Example Output
 
-![Unlocking Nighttime Wonders with Nano Banana Pro](/images/creative/pg-1992058919678849106.webp)
+![Unlocking Nighttime Wonders with Nano Banana Pro](/media/creative/pg-1992058919678849106.webp)

@@ -5,7 +5,7 @@ tags: ["portrait","art","nano-banana-pro"]
 author: "@ShreyaYadav___"
 author_url: "https://twitter.com/ShreyaYadav___"
 source_url: "https://twitter.com/ShreyaYadav___/status/1996155919894524124"
-preview: "/images/3d/pg-1996155919894524124.webp"
+preview: "/media/3d/pg-1996155919894524124.webp"
 ---
 
 A tender moment captured, where two souls unite in the warm glow of love. Their silhouettes illuminated, hearts poised for a sweet kiss amidst a dreamy backdrop.
@@ -24,4 +24,4 @@ A tender moment captured, where two souls unite in the warm glow of love. Their 
 
 ## Example Output
 
-![A Whisper of Love: Portrait of Anticipation](/images/3d/pg-1996155919894524124.webp)
+![A Whisper of Love: Portrait of Anticipation](/media/3d/pg-1996155919894524124.webp)

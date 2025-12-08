@@ -5,7 +5,7 @@ tags: ["vibrant","nano-banana-pro"]
 author: "@kingofdairyque"
 author_url: "https://twitter.com/kingofdairyque"
 source_url: "https://twitter.com/kingofdairyque/status/1994391705727254608"
-preview: "/images/3d/pg-1994391705727254608.webp"
+preview: "/media/3d/pg-1994391705727254608.webp"
 ---
 
 In a luxurious showroom glow, a confident figure relaxes on a vibrant red beanbag, perfectly framed by a striking supercar and stylish decor. An ambiance of chic sophistication!
@@ -61,4 +61,4 @@ In a luxurious showroom glow, a confident figure relaxes on a vibrant red beanba
 
 ## Example Output
 
-![Sleek Style Meets Supercar Elegance](/images/3d/pg-1994391705727254608.webp)
+![Sleek Style Meets Supercar Elegance](/media/3d/pg-1994391705727254608.webp)

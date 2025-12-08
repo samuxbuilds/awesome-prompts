@@ -5,7 +5,7 @@ tags: ["art","minimal","light","nano-banana-pro"]
 author: "@egeberkina"
 author_url: "https://twitter.com/egeberkina"
 source_url: "https://twitter.com/egeberkina/status/1994380091241922920"
-preview: "/images/portraits/pg-1994380091241922920.webp"
+preview: "/media/portraits/pg-1994380091241922920.webp"
 ---
 
 A hand casts a perfect shadow of Nano Banana Pro, elegantly merging light and form. This minimalist scene celebrates the beauty of skincare, revealed in soft sunlight.
@@ -20,4 +20,4 @@ A minimal sunlit wall. Sharp, elongated shadow of a human hand holding the exact
 
 ## Example Output
 
-![Sunlit Elegance: The Art of Minimalist Skincare](/images/portraits/pg-1994380091241922920.webp)
+![Sunlit Elegance: The Art of Minimalist Skincare](/media/portraits/pg-1994380091241922920.webp)

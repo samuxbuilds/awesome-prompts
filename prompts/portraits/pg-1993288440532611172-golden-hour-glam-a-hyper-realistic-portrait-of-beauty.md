@@ -5,7 +5,7 @@ tags: ["realistic","portrait","light","nano-banana-pro"]
 author: "@YaseenK7212"
 author_url: "https://twitter.com/YaseenK7212"
 source_url: "https://twitter.com/YaseenK7212/status/1993288440532611172"
-preview: "/images/portraits/pg-1993288440532611172.webp"
+preview: "/media/portraits/pg-1993288440532611172.webp"
 ---
 
 Bathe in the ethereal glow of golden hour as water droplets dance on skin. This stunning close-up captures the essence of beauty, highlighting every delicate detail.
@@ -59,4 +59,4 @@ Bathe in the ethereal glow of golden hour as water droplets dance on skin. This 
 
 ## Example Output
 
-![Golden Hour Glam: A Hyper-Realistic Portrait of Beauty](/images/portraits/pg-1993288440532611172.webp)
+![Golden Hour Glam: A Hyper-Realistic Portrait of Beauty](/media/portraits/pg-1993288440532611172.webp)

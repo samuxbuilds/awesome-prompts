@@ -5,7 +5,7 @@ tags: ["vibrant","nano-banana-pro"]
 author: "@fahabib91"
 author_url: "https://twitter.com/fahabib91"
 source_url: "https://twitter.com/fahabib91/status/1991666924862963877"
-preview: "/images/portraits/pg-1991666924862963877.webp"
+preview: "/media/portraits/pg-1991666924862963877.webp"
 ---
 
 Is it a bird? Is it a plane? No, it’s the story of innovation wrapped in vibrant visuals! This infographic details the fascinating journey of a tech visionary behind Google’s Gemini AI.
@@ -20,4 +20,4 @@ Make an infographic of this person’s life based on this article: [Wikipedia Pa
 
 ## Example Output
 
-![Unraveling the Life of a Tech Trailblazer: Google Gemini AI](/images/portraits/pg-1991666924862963877.webp)
+![Unraveling the Life of a Tech Trailblazer: Google Gemini AI](/media/portraits/pg-1991666924862963877.webp)

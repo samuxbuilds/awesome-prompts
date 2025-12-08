@@ -5,7 +5,7 @@ tags: ["portrait","nano-banana-pro"]
 author: "@ReemKhan_07"
 author_url: "https://twitter.com/ReemKhan_07"
 source_url: "https://twitter.com/ReemKhan_07/status/1995690209904918934"
-preview: "/images/portraits/pg-1995690209904918934.webp"
+preview: "/media/portraits/pg-1995690209904918934.webp"
 ---
 
 A striking portrayal of quiet power! The high-contrast black and white portrait captures a confident woman, her intense gaze piercing through sleek sunglasses, embodying a blend of mystery and poise.
@@ -66,4 +66,4 @@ A striking portrayal of quiet power! The high-contrast black and white portrait 
 
 ## Example Output
 
-![Unveiling Strength in Monochrome Elegance](/images/portraits/pg-1995690209904918934.webp)
+![Unveiling Strength in Monochrome Elegance](/media/portraits/pg-1995690209904918934.webp)

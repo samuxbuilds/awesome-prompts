@@ -5,7 +5,7 @@ tags: ["portrait","light","nano-banana-pro"]
 author: "@saniaspeaks_"
 author_url: "https://twitter.com/saniaspeaks_"
 source_url: "https://twitter.com/saniaspeaks_/status/1995453492933361979"
-preview: "/images/portraits/pg-1995453492933361979.webp"
+preview: "/media/portraits/pg-1995453492933361979.webp"
 ---
 
 Against a backdrop of sleek mirrors, this young girl exudes effortless style, her warm expression complementing the ambient glow of soft LED lights.
@@ -49,4 +49,4 @@ Against a backdrop of sleek mirrors, this young girl exudes effortless style, he
 
 ## Example Output
 
-![Cinematic Chic: A Portrait of Confidence](/images/portraits/pg-1995453492933361979.webp)
+![Cinematic Chic: A Portrait of Confidence](/media/portraits/pg-1995453492933361979.webp)

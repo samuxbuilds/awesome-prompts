@@ -5,7 +5,7 @@ tags: ["nature","urban","nano-banana-pro"]
 author: "@Drshadow56"
 author_url: "https://twitter.com/Drshadow56"
 source_url: "https://twitter.com/Drshadow56/status/1991471837390467321"
-preview: "/images/portraits/pg-1991471837390467321.webp"
+preview: "/media/portraits/pg-1991471837390467321.webp"
 ---
 
 With his head bowed in thought, the young man in a voluminous white jacket captures the essence of urban style and tranquility, embodying quiet sophistication amidst nature.
@@ -20,4 +20,4 @@ Ultra-realistic 8K photo of a young man with exact facial likeness from the refe
 
 ## Example Output
 
-![Chic Contemplation in an Urban Oasis](/images/portraits/pg-1991471837390467321.webp)
+![Chic Contemplation in an Urban Oasis](/media/portraits/pg-1991471837390467321.webp)

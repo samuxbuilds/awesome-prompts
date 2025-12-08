@@ -5,7 +5,7 @@ tags: ["selfie","light","nano-banana-pro"]
 author: "@ZaraIrahh"
 author_url: "https://twitter.com/ZaraIrahh"
 source_url: "https://twitter.com/ZaraIrahh/status/1997237942386053422"
-preview: "/images/3d/pg-1997237942386053422.webp"
+preview: "/media/3d/pg-1997237942386053422.webp"
 ---
 
 A stunning mirror selfie captures a warm smile and chic style, set against a luxurious dining room backdrop. Soft lighting highlights her cozy oversized hoodie and graceful elegance.
@@ -94,4 +94,4 @@ A stunning mirror selfie captures a warm smile and chic style, set against a lux
 
 ## Example Output
 
-![Cozy Glam: A Mirror Selfie in Elegance](/images/3d/pg-1997237942386053422.webp)
+![Cozy Glam: A Mirror Selfie in Elegance](/media/3d/pg-1997237942386053422.webp)

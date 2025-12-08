@@ -5,7 +5,7 @@ tags: ["fashion","light","nano-banana-pro"]
 author: "@Just_sharon7"
 author_url: "https://twitter.com/Just_sharon7"
 source_url: "https://twitter.com/Just_sharon7/status/1993264932738248940"
-preview: "/images/3d/pg-1993264932738248940.webp"
+preview: "/media/3d/pg-1993264932738248940.webp"
 ---
 
 In a lavish mansion, a stunning figure emerges, draped in glossy black latex. The intricate design accentuates every curve, with diamond accents that sparkle under warm chandelier lights, creating a mesmerizing high-fashion moment.
@@ -69,4 +69,4 @@ In a lavish mansion, a stunning figure emerges, draped in glossy black latex. Th
 
 ## Example Output
 
-![Unveiling Glamour: The Bold Fashion Statement](/images/3d/pg-1993264932738248940.webp)
+![Unveiling Glamour: The Bold Fashion Statement](/media/3d/pg-1993264932738248940.webp)

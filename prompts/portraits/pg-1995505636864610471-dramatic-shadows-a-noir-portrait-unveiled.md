@@ -5,7 +5,7 @@ tags: ["portrait","nature","light","nano-banana-pro"]
 author: "@john_my07"
 author_url: "https://twitter.com/john_my07"
 source_url: "https://twitter.com/john_my07/status/1995505636864610471"
-preview: "/images/portraits/pg-1995505636864610471.webp"
+preview: "/media/portraits/pg-1995505636864610471.webp"
 ---
 
 A striking play of light and shadow captures a rugged soul. Tousled hair and a fierce gaze tell stories of resilience against the blurred backdrop of nature. This portrait breathes raw power!
@@ -25,4 +25,4 @@ A striking play of light and shadow captures a rugged soul. Tousled hair and a f
 
 ## Example Output
 
-![Dramatic Shadows: A Noir Portrait Unveiled](/images/portraits/pg-1995505636864610471.webp)
+![Dramatic Shadows: A Noir Portrait Unveiled](/media/portraits/pg-1995505636864610471.webp)

@@ -5,7 +5,7 @@ tags: ["dark","nano-banana-pro"]
 author: "@oggii_0"
 author_url: "https://twitter.com/oggii_0"
 source_url: "https://twitter.com/oggii_0/status/1995144148832141327"
-preview: "/images/portraits/pg-1995144148832141327.webp"
+preview: "/media/portraits/pg-1995144148832141327.webp"
 ---
 
 Rain-soaked streets blur the line between reality and memory as Officer K and Joi share a poignant moment in their dark, metallic haven. Will their connection transcend this melancholic world?
@@ -54,4 +54,4 @@ Rain-soaked streets blur the line between reality and memory as Officer K and Jo
 
 ## Example Output
 
-![A Glimpse into a Futuristic Realm of Emotion](/images/portraits/pg-1995144148832141327.webp)
+![A Glimpse into a Futuristic Realm of Emotion](/media/portraits/pg-1995144148832141327.webp)

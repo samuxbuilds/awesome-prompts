@@ -5,7 +5,7 @@ tags: ["vibrant","nano-banana-pro"]
 author: "@ShreyaYadav___"
 author_url: "https://twitter.com/ShreyaYadav___"
 source_url: "https://twitter.com/ShreyaYadav___/status/1996250545884155933"
-preview: "/images/portraits/pg-1996250545884155933.webp"
+preview: "/media/portraits/pg-1996250545884155933.webp"
 ---
 
 Can you feel the crisp air? This vibrant grid showcases stylish young women radiating autumn charm in cozy layers, set against a breathtaking backdrop of golden leaves and tranquil lakes.
@@ -21,4 +21,4 @@ Signature: Shreya Yadav
 
 ## Example Output
 
-![Autumn Vogue: A Cozy Collage of Style and Serenity](/images/portraits/pg-1996250545884155933.webp)
+![Autumn Vogue: A Cozy Collage of Style and Serenity](/media/portraits/pg-1996250545884155933.webp)

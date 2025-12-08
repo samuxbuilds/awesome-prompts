@@ -5,7 +5,7 @@ tags: ["urban","dark","light","nano-banana-pro"]
 author: "@Xxaroon"
 author_url: "https://twitter.com/Xxaroon"
 source_url: "https://twitter.com/Xxaroon/status/1991533904554258539"
-preview: "/images/3d/pg-1991533904554258539.webp"
+preview: "/media/3d/pg-1991533904554258539.webp"
 ---
 
 In the stillness of night, a lone figure captures urban solitude. The harsh light frames his silhouette, revealing a story of resilience against the backdrop of darkness.
@@ -20,4 +20,4 @@ A cinematic, low-light photograph of a young man with dark, messy curly hair lea
 
 ## Example Output
 
-![City Dreams: A Nighttime Revelation](/images/3d/pg-1991533904554258539.webp)
+![City Dreams: A Nighttime Revelation](/media/3d/pg-1991533904554258539.webp)

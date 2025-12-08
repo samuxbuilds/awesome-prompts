@@ -3,7 +3,7 @@ title: "MrBeast Style - Comparison Split"
 category: "thumbnails"
 tags: ["mrbeast", "youtube", "thumbnail", "comparison", "split-screen"]
 author: "@samux"
-preview: "/images/thumbnails/mrbeast-comparison.webp"
+preview: "/media/thumbnails/mrbeast-comparison.webp"
 ---
 
 ```json
@@ -61,4 +61,4 @@ preview: "/images/thumbnails/mrbeast-comparison.webp"
 ```
 
 ## Example Output
-![MrBeast Comparison](/images/thumbnails/mrbeast-comparison.webp)
+![MrBeast Comparison](/media/thumbnails/mrbeast-comparison.webp)

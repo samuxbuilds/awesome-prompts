@@ -5,7 +5,7 @@ tags: ["nano-banana-pro"]
 author: "@real_novax"
 author_url: "https://twitter.com/real_novax"
 source_url: "https://twitter.com/real_novax/status/1996399057875718561"
-preview: "/images/portraits/pg-1996399057875718561.webp"
+preview: "/media/portraits/pg-1996399057875718561.webp"
 ---
 
 Golden hour whispers secrets as she savors sweet cake and salty fries. A captivating gaze shines through the cafe's warm glow, blending elegance and simplicity.
@@ -22,4 +22,4 @@ Golden hour whispers secrets as she savors sweet cake and salty fries. A captiva
 
 ## Example Output
 
-![Sunlit Moments: A Cafe Daydream](/images/portraits/pg-1996399057875718561.webp)
+![Sunlit Moments: A Cafe Daydream](/media/portraits/pg-1996399057875718561.webp)

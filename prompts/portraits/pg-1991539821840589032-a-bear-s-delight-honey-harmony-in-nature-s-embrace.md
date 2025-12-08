@@ -5,7 +5,7 @@ tags: ["nature","light","nano-banana-pro"]
 author: "@SaasJunctionHQ"
 author_url: "https://twitter.com/SaasJunctionHQ"
 source_url: "https://twitter.com/SaasJunctionHQ/status/1991539821840589032"
-preview: "/images/portraits/pg-1991539821840589032.webp"
+preview: "/media/portraits/pg-1991539821840589032.webp"
 ---
 
 Behold the whimsical charm of a bear savoring honey! Dressed in traditional Russian attire, it captures a moment of pure joy amid nature's beauty, all drenched in golden sunlight.
@@ -20,4 +20,4 @@ A large brown bear dressed in intricate traditional Russian folk clothing, sitti
 
 ## Example Output
 
-![A Bear's Delight: Honey Harmony in Nature's Embrace](/images/portraits/pg-1991539821840589032.webp)
+![A Bear's Delight: Honey Harmony in Nature's Embrace](/media/portraits/pg-1991539821840589032.webp)

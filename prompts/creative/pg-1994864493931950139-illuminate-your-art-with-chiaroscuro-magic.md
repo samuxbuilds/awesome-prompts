@@ -5,7 +5,7 @@ tags: ["art","light","nano-banana-pro"]
 author: "@icreatelife"
 author_url: "https://twitter.com/icreatelife"
 source_url: "https://twitter.com/icreatelife/status/1994864493931950139"
-preview: "/images/creative/pg-1994864493931950139.webp"
+preview: "/media/creative/pg-1994864493931950139.webp"
 ---
 
 Transform your visuals! Chiaroscuro brings stunning depth with its dynamic interplay of light and shadow, echoing the masterful works of Renaissance legends.
@@ -20,4 +20,4 @@ Chiaroscuro is an artistic technique using strong light-dark contrasts to create
 
 ## Example Output
 
-![Illuminate Your Art with Chiaroscuro Magic](/images/creative/pg-1994864493931950139.webp)
+![Illuminate Your Art with Chiaroscuro Magic](/media/creative/pg-1994864493931950139.webp)

@@ -5,7 +5,7 @@ tags: ["vintage","travel","light","nano-banana-pro"]
 author: "@Sophia_here12"
 author_url: "https://twitter.com/Sophia_here12"
 source_url: "https://twitter.com/Sophia_here12/status/1997222323053592685"
-preview: "/images/portraits/pg-1997222323053592685.webp"
+preview: "/media/portraits/pg-1997222323053592685.webp"
 ---
 
 Amidst the gentle glow of morning light, a young traveler sits poised on her red suitcase, embodying calm and confidence. With stories in her brown backpack, she reflects the beauty of solitude at a peaceful train station.
@@ -27,4 +27,4 @@ The scene captures the beauty of travel, solitude, and new beginnings.
 
 ## Example Output
 
-![Vintage Vibes: A Journey Awaits](/images/portraits/pg-1997222323053592685.webp)
+![Vintage Vibes: A Journey Awaits](/media/portraits/pg-1997222323053592685.webp)

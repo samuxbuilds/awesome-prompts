@@ -5,7 +5,7 @@ tags: ["nano-banana-pro"]
 author: "@NanoBanana"
 author_url: "https://twitter.com/NanoBanana"
 source_url: "https://twitter.com/NanoBanana/status/1997009961654870363"
-preview: "/images/portraits/pg-1997009961654870363.webp"
+preview: "/media/portraits/pg-1997009961654870363.webp"
 ---
 
 Can you find the elusive word 'banana' cleverly camouflaged within a playful troop of monkeys? Once you see it, it’s impossible to unsee!
@@ -20,4 +20,4 @@ Make a photo with a hidden word embedded into it, make the word hard to see unti
 
 ## Example Output
 
-![Spot the Hidden Banana Among the Monkeys!](/images/portraits/pg-1997009961654870363.webp)
+![Spot the Hidden Banana Among the Monkeys!](/media/portraits/pg-1997009961654870363.webp)

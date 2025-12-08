@@ -5,7 +5,7 @@ tags: ["nature","nano-banana-pro"]
 author: "@aleenaamiir"
 author_url: "https://twitter.com/aleenaamiir"
 source_url: "https://twitter.com/aleenaamiir/status/1995441233544757656"
-preview: "/images/3d/pg-1995441233544757656.webp"
+preview: "/media/3d/pg-1995441233544757656.webp"
 ---
 
 Calm yet striking, the woman stands amidst a symphony of waves and wild horses. Her flowing silhouette dances with the sunset, embodying a moment where nature’s beauty meets fierce elegance.
@@ -24,4 +24,4 @@ Use gentle film-grain, soft contrast, and warm highlights to make the whole scen
 
 ## Example Output
 
-![Mythic Serenity: A Beach Sunset Unleashed](/images/3d/pg-1995441233544757656.webp)
+![Mythic Serenity: A Beach Sunset Unleashed](/media/3d/pg-1995441233544757656.webp)

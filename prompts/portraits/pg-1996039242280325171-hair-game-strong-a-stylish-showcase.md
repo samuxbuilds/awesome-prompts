@@ -5,7 +5,7 @@ tags: ["modern","nano-banana-pro"]
 author: "@Sheldon056"
 author_url: "https://twitter.com/Sheldon056"
 source_url: "https://twitter.com/Sheldon056/status/1996039242280325171"
-preview: "/images/portraits/pg-1996039242280325171.webp"
+preview: "/media/portraits/pg-1996039242280325171.webp"
 ---
 
 Bold and confident, this young man flaunts nine striking hairstyles against a stunning sunset backdrop. Each look tells a story of individuality and modern flair.
@@ -63,4 +63,4 @@ Bold and confident, this young man flaunts nine striking hairstyles against a st
 
 ## Example Output
 
-![Hair Game Strong: A Stylish Showcase](/images/portraits/pg-1996039242280325171.webp)
+![Hair Game Strong: A Stylish Showcase](/media/portraits/pg-1996039242280325171.webp)

@@ -5,7 +5,7 @@ tags: ["art","modern","minimal","light","nano-banana-pro"]
 author: "@lexx_aura"
 author_url: "https://twitter.com/lexx_aura"
 source_url: "https://twitter.com/lexx_aura/status/1994835650739331364"
-preview: "/images/portraits/pg-1994835650739331364.webp"
+preview: "/media/portraits/pg-1994835650739331364.webp"
 ---
 
 A stylish woman elegantly perched on her bed, her smartphone obscuring her face. The warm, moody lighting enhances the chic atmosphere, creating a perfect blend of modern minimalism and intimate allure.
@@ -49,4 +49,4 @@ A stylish woman elegantly perched on her bed, her smartphone obscuring her face.
 
 ## Example Output
 
-![Cinematic Elegance: A Glimpse of Modern Intimacy](/images/portraits/pg-1994835650739331364.webp)
+![Cinematic Elegance: A Glimpse of Modern Intimacy](/media/portraits/pg-1994835650739331364.webp)

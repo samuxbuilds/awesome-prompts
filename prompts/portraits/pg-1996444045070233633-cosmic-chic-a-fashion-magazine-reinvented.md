@@ -5,7 +5,7 @@ tags: ["portrait","modern","fashion","vibrant","nano-banana-pro"]
 author: "@qisi_ai"
 author_url: "https://twitter.com/qisi_ai"
 source_url: "https://twitter.com/qisi_ai/status/1996444045070233633"
-preview: "/images/portraits/pg-1996444045070233633.webp"
+preview: "/media/portraits/pg-1996444045070233633.webp"
 ---
 
 Bold typography meets striking portraiture in this glossy magazine cover! The vibrant styling, combined with sleek design, showcases a fusion of classic elegance and modern flair.
@@ -24,4 +24,4 @@ Bold typography meets striking portraiture in this glossy magazine cover! The vi
 
 ## Example Output
 
-![Cosmic Chic: A Fashion Magazine Reinvented](/images/portraits/pg-1996444045070233633.webp)
+![Cosmic Chic: A Fashion Magazine Reinvented](/media/portraits/pg-1996444045070233633.webp)

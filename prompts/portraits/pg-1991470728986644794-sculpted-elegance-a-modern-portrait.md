@@ -5,7 +5,7 @@ tags: ["realistic","portrait","modern","nano-banana-pro"]
 author: "@SimplyAnnisa"
 author_url: "https://twitter.com/SimplyAnnisa"
 source_url: "https://twitter.com/SimplyAnnisa/status/1991470728986644794"
-preview: "/images/portraits/pg-1991470728986644794.webp"
+preview: "/media/portraits/pg-1991470728986644794.webp"
 ---
 
 Bold and striking, this hyper-realistic portrait captivates with its sharp contrasts and rich crimson backdrop, showcasing a model exuding calm dominance and a mysterious allure.
@@ -24,4 +24,4 @@ The model wears a thick wool or felt coat, with richly defined textures atop the
 
 ## Example Output
 
-![Sculpted Elegance: A Modern Portrait](/images/portraits/pg-1991470728986644794.webp)
+![Sculpted Elegance: A Modern Portrait](/media/portraits/pg-1991470728986644794.webp)

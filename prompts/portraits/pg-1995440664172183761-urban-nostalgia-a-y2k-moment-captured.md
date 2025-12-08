@@ -5,7 +5,7 @@ tags: ["urban","light","nano-banana-pro"]
 author: "@kingofdairyque"
 author_url: "https://twitter.com/kingofdairyque"
 source_url: "https://twitter.com/kingofdairyque/status/1995440664172183761"
-preview: "/images/portraits/pg-1995440664172183761.webp"
+preview: "/media/portraits/pg-1995440664172183761.webp"
 ---
 
 Caught in a flash of nostalgia, a young woman at a payphone channels 2000s vibes. The red timestamp adds urgency to her detached gaze, as blurred city lights swirl behind her, showcasing a moment that feels both distant and immediate.
@@ -20,4 +20,4 @@ Nighttime flash photo with Y2K aesthetic, red digital timestamp in corner. Young
 
 ## Example Output
 
-![Urban Nostalgia: A Y2K Moment Captured](/images/portraits/pg-1995440664172183761.webp)
+![Urban Nostalgia: A Y2K Moment Captured](/media/portraits/pg-1995440664172183761.webp)

@@ -5,7 +5,7 @@ tags: ["selfie","art","light","nano-banana-pro"]
 author: "@SimplyAnnisa"
 author_url: "https://twitter.com/SimplyAnnisa"
 source_url: "https://twitter.com/SimplyAnnisa/status/1996484114573340841"
-preview: "/images/3d/pg-1996484114573340841.webp"
+preview: "/media/3d/pg-1996484114573340841.webp"
 ---
 
 Capturing warmth, this young woman radiates charm in a cozy sweater embellished with playful heart appliques. Her carefree messy bun and soft lighting create a welcoming atmosphere, inviting you to embrace comfort and style.
@@ -20,4 +20,4 @@ A close-up, half-body mirror selfie of a young woman standing indoors. She is we
 
 ## Example Output
 
-![Heartfelt Style: Cozy Vibes in a Chic Selfie](/images/3d/pg-1996484114573340841.webp)
+![Heartfelt Style: Cozy Vibes in a Chic Selfie](/media/3d/pg-1996484114573340841.webp)

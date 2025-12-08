@@ -5,7 +5,7 @@ tags: ["nano-banana-pro"]
 author: "@multimodalart"
 author_url: "https://twitter.com/multimodalart"
 source_url: "https://twitter.com/multimodalart/status/1991605181830824106"
-preview: "/images/creative/pg-1991605181830824106.webp"
+preview: "/media/creative/pg-1991605181830824106.webp"
 ---
 
 Clever quips and quirky visuals collide in this xkcd-style comic! Get ready for a fresh take on everyday absurdities wrapped in playful wit.
@@ -20,4 +20,4 @@ create a novel xkcd style comic, with a clever new insight
 
 ## Example Output
 
-![Humor Meets Insight: An xkcd Comic Adventure](/images/creative/pg-1991605181830824106.webp)
+![Humor Meets Insight: An xkcd Comic Adventure](/media/creative/pg-1991605181830824106.webp)

@@ -3,7 +3,7 @@ title: "Torn Paper Art Effect"
 category: creative
 tags: ["realistic", "chrome", "character"]
 author: "@nanobanana-pro"
-preview: "/images/creative/nb-torn-paper-art-effect.webp"
+preview: "/media/creative/nb-torn-paper-art-effect.webp"
 ---
 
 *Add torn paper effect to specific areas of an image*
@@ -75,4 +75,4 @@ interior_style:
       paper: "notebook paper with faint ruled lines"
 
 ## Example Output
-![Torn Paper Art Effect](/images/creative/nb-torn-paper-art-effect.webp)
+![Torn Paper Art Effect](/media/creative/nb-torn-paper-art-effect.webp)

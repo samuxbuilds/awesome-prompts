@@ -5,7 +5,7 @@ tags: ["nano-banana-pro"]
 author: "@SimplyAnnisa"
 author_url: "https://twitter.com/SimplyAnnisa"
 source_url: "https://twitter.com/SimplyAnnisa/status/1995816395997938048"
-preview: "/images/3d/pg-1995816395997938048.webp"
+preview: "/media/3d/pg-1995816395997938048.webp"
 ---
 
 A burst of joy and style shines through this street scene! A fun-loving woman strikes a pose with her playful wink and peace sign, capturing the essence of carefree summer vibes. 🌞✨
@@ -20,4 +20,4 @@ outdoor street-style photo of a cheerful young woman on the sidewalk shows her w
 
 ## Example Output
 
-![Wink, Peace, and Style: A Day in the Sun](/images/3d/pg-1995816395997938048.webp)
+![Wink, Peace, and Style: A Day in the Sun](/media/3d/pg-1995816395997938048.webp)

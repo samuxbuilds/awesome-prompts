@@ -5,7 +5,7 @@ tags: ["3d","modern","fashion","vibrant","nano-banana-pro"]
 author: "@SimplyAnnisa"
 author_url: "https://twitter.com/SimplyAnnisa"
 source_url: "https://twitter.com/SimplyAnnisa/status/1994214859756683341"
-preview: "/images/3d/pg-1994214859756683341.webp"
+preview: "/media/3d/pg-1994214859756683341.webp"
 ---
 
 A confident young woman exudes modern flair, casually posing with a glossy 3D Angry Birds 'Pink' character against a vibrant backdrop. Fashion and fun collide!
@@ -71,4 +71,4 @@ A confident young woman exudes modern flair, casually posing with a glossy 3D An
 
 ## Example Output
 
-![Chic Meets Playful: The Pink Style Statement](/images/3d/pg-1994214859756683341.webp)
+![Chic Meets Playful: The Pink Style Statement](/media/3d/pg-1994214859756683341.webp)

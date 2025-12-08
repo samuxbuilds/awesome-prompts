@@ -5,7 +5,7 @@ tags: ["portrait","dark","nano-banana-pro"]
 author: "@xmliisu"
 author_url: "https://twitter.com/xmliisu"
 source_url: "https://twitter.com/xmliisu/status/1996051773677781129"
-preview: "/images/portraits/pg-1996051773677781129.webp"
+preview: "/media/portraits/pg-1996051773677781129.webp"
 ---
 
 A radiant woman leans back on a striking red Ferrari, exuding confidence. Her serene smile and relaxed stance, framed by dark hair and trendy attire, create an unforgettable image.
@@ -91,4 +91,4 @@ A radiant woman leans back on a striking red Ferrari, exuding confidence. Her se
 
 ## Example Output
 
-![Luxury Meets Confidence in a Stunning Portrait](/images/portraits/pg-1996051773677781129.webp)
+![Luxury Meets Confidence in a Stunning Portrait](/media/portraits/pg-1996051773677781129.webp)

@@ -5,7 +5,7 @@ tags: ["modern","nano-banana-pro"]
 author: "@saniaspeaks_"
 author_url: "https://twitter.com/saniaspeaks_"
 source_url: "https://twitter.com/saniaspeaks_/status/1996494518762553632"
-preview: "/images/portraits/pg-1996494518762553632.webp"
+preview: "/media/portraits/pg-1996494518762553632.webp"
 ---
 
 In a warm, moody space, a young woman captures her calm essence. Her stylish layers and sleek iPhone reflect both comfort and confidence—a snapshot of contemporary cool.
@@ -37,4 +37,4 @@ In a warm, moody space, a young woman captures her calm essence. Her stylish lay
 
 ## Example Output
 
-![Chic Reflections: A Modern Take on Self-Expression](/images/portraits/pg-1996494518762553632.webp)
+![Chic Reflections: A Modern Take on Self-Expression](/media/portraits/pg-1996494518762553632.webp)

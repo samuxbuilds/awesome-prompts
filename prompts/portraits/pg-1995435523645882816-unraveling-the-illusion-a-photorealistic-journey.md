@@ -5,7 +5,7 @@ tags: ["realistic","portrait","photorealistic","nano-banana-pro"]
 author: "@KusoPhoto"
 author_url: "https://twitter.com/KusoPhoto"
 source_url: "https://twitter.com/KusoPhoto/status/1995435523645882816"
-preview: "/images/portraits/pg-1995435523645882816.webp"
+preview: "/media/portraits/pg-1995435523645882816.webp"
 ---
 
 How does a simple garment transform into a visual riddle? This striking portrait challenges perceptions, where paper meets skin in a seamless illusion. A must-see!
@@ -23,4 +23,4 @@ Aesthetic: Ultra photorealistic, hyperdetailed, natural soft studio lighting, hi
 
 ## Example Output
 
-![Unraveling the Illusion: A Photorealistic Journey](/images/portraits/pg-1995435523645882816.webp)
+![Unraveling the Illusion: A Photorealistic Journey](/media/portraits/pg-1995435523645882816.webp)

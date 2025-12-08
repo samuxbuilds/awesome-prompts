@@ -5,7 +5,7 @@ tags: ["vintage","nano-banana-pro"]
 author: "@ShreyaYadav___"
 author_url: "https://twitter.com/ShreyaYadav___"
 source_url: "https://twitter.com/ShreyaYadav___/status/1992987520968339581"
-preview: "/images/portraits/pg-1992987520968339581.webp"
+preview: "/media/portraits/pg-1992987520968339581.webp"
 ---
 
 Stately in her Edwardian-inspired ensemble, she captures a moment of introspection against a weathered stone backdrop, embodying vintage elegance.
@@ -44,4 +44,4 @@ Stately in her Edwardian-inspired ensemble, she captures a moment of introspecti
 
 ## Example Output
 
-![A Timeless Muse Amidst Ancient Walls](/images/portraits/pg-1992987520968339581.webp)
+![A Timeless Muse Amidst Ancient Walls](/media/portraits/pg-1992987520968339581.webp)

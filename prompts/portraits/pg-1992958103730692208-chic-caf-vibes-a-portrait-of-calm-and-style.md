@@ -5,7 +5,7 @@ tags: ["portrait","modern","nano-banana-pro"]
 author: "@SimplyAnnisa"
 author_url: "https://twitter.com/SimplyAnnisa"
 source_url: "https://twitter.com/SimplyAnnisa/status/1992958103730692208"
-preview: "/images/portraits/pg-1992958103730692208.webp"
+preview: "/media/portraits/pg-1992958103730692208.webp"
 ---
 
 Sun-kissed and stylish, she embodies café culture with a cozy smile. Wrapped in modern layers, this portrait captures the essence of warmth and casual elegance.
@@ -20,4 +20,4 @@ Generate a 8k Instagram-style portrait of an Indian woman sitting in a trendy ca
 
 ## Example Output
 
-![Chic Café Vibes: A Portrait of Calm and Style](/images/portraits/pg-1992958103730692208.webp)
+![Chic Café Vibes: A Portrait of Calm and Style](/media/portraits/pg-1992958103730692208.webp)

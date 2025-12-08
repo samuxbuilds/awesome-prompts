@@ -5,7 +5,7 @@ tags: ["selfie","light","nano-banana-pro"]
 author: "@gaucheai"
 author_url: "https://twitter.com/gaucheai"
 source_url: "https://twitter.com/gaucheai/status/1996518068235751487"
-preview: "/images/3d/pg-1996518068235751487.webp"
+preview: "/media/3d/pg-1996518068235751487.webp"
 ---
 
 Caught between floors, this playful selfie radiates warmth and soft allure. The cozy atmosphere invites a moment of connection, while that cheeky 'nano banana' twist keeps things light!
@@ -163,4 +163,4 @@ Caught between floors, this playful selfie radiates warmth and soft allure. The 
 
 ## Example Output
 
-![Nanobanana Vibes: A Selfie in the Moment](/images/3d/pg-1996518068235751487.webp)
+![Nanobanana Vibes: A Selfie in the Moment](/media/3d/pg-1996518068235751487.webp)

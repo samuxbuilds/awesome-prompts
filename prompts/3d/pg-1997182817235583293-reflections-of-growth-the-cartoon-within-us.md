@@ -5,7 +5,7 @@ tags: ["cartoon","art","nano-banana-pro"]
 author: "@xmiiru_"
 author_url: "https://twitter.com/xmiiru_"
 source_url: "https://twitter.com/xmiiru_/status/1997182817235583293"
-preview: "/images/3d/pg-1997182817235583293.webp"
+preview: "/media/3d/pg-1997182817235583293.webp"
 ---
 
 A stunning street scene captures a woman touching a shop window, where her cartoon doppelgänger sparks curiosity. What would your animated self reveal?
@@ -46,4 +46,4 @@ A stunning street scene captures a woman touching a shop window, where her carto
 
 ## Example Output
 
-![Reflections of Growth: The Cartoon Within Us](/images/3d/pg-1997182817235583293.webp)
+![Reflections of Growth: The Cartoon Within Us](/media/3d/pg-1997182817235583293.webp)

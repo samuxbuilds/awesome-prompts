@@ -1,6 +1,6 @@
 # AwesomePrompts
 
-A curated collection of **945+ AI image generation prompts** for thumbnails, 3D art, illustrations, and more. Open-source and community-driven.
+A curated collection of **946+ AI prompts** for image generation, motion videos, 3D art, illustrations, and more. Open-source and community-driven.
 
 **🌐 Live at: [awesomeprompts.xyz](https://awesomeprompts.xyz)**
 
@@ -10,6 +10,7 @@ A curated collection of **945+ AI image generation prompts** for thumbnails, 3D 
 - **Search & Filter**: Find prompts by title, content, or tags
 - **Copy to Clipboard**: One-click copy for any prompt
 - **Dark Mode**: Easy on the eyes, day or night
+- **Motion Videos**: New category for animated/video prompts with live previews
 - **Static Site**: Fast, SEO-friendly, and deployable anywhere
 - **Open Source**: Contribute your own prompts!
 
@@ -18,11 +19,12 @@ A curated collection of **945+ AI image generation prompts** for thumbnails, 3D 
 | Category | Count | Description |
 |----------|-------|-------------|
 | 🎲 **3d** | 241 | 3D renders, figures, miniatures, and dioramas |
-| 📝 **Creative** | 113 | Various prompts |
+| 📝 **Creative** | 113 | Various creative prompts |
 | ✨ **Icons** | 17 | Emojis, stickers, badges, and icon designs |
-| 📝 **Portraits** | 530 | Various prompts |
-| 📝 **Posters** | 34 | Various prompts |
-| 📸 **Thumbnails** | 10 | YouTube thumbnails, posters, and covers |
+| 🎬 **Motion** | 1 | Animated videos and motion graphics specs |
+| 📷 **Portraits** | 530 | Portrait and character prompts |
+| 🖼️ **Posters** | 34 | Posters, covers, and layouts |
+| 📸 **Thumbnails** | 10 | YouTube thumbnails and covers |
 
 ---
 

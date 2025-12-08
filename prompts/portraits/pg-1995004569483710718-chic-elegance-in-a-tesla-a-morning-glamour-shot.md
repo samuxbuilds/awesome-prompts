@@ -5,7 +5,7 @@ tags: ["light","nano-banana-pro"]
 author: "@kingofdairyque"
 author_url: "https://twitter.com/kingofdairyque"
 source_url: "https://twitter.com/kingofdairyque/status/1995004569483710718"
-preview: "/images/portraits/pg-1995004569483710718.webp"
+preview: "/media/portraits/pg-1995004569483710718.webp"
 ---
 
 Sunlight dances on her flawless skin, enhancing a chic aura in the driver’s seat. With tousled curls and a confident gaze, she embodies effortless glam on a moody morning.
@@ -36,4 +36,4 @@ Sensual an sultry pose. Staring intently at the camera,
 
 ## Example Output
 
-![Chic Elegance in a Tesla: A Morning Glamour Shot](/images/portraits/pg-1995004569483710718.webp)
+![Chic Elegance in a Tesla: A Morning Glamour Shot](/media/portraits/pg-1995004569483710718.webp)

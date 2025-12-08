@@ -3,7 +3,7 @@ title: "Fisheye Movie Character Selfie"
 category: portraits
 tags: ["vintage", "realistic", "film", "character"]
 author: "@nanobanana-pro"
-preview: "/images/portraits/nb-fisheye-movie-character-selfie.webp"
+preview: "/media/portraits/nb-fisheye-movie-character-selfie.webp"
 ---
 
 *A 360-degree selfie with movie characters*
@@ -16,4 +16,4 @@ Subject & Action: A close-up, distorted group photo featuring [Person From Uploa
 Lighting & Texture: Harsh, direct on-camera flash lighting that creates hard shadows behind the subjects. Authentic film grain, slight motion blur on the edges, and chromatic aberration. It looks like a candid, amateur snapshot as if captured during a chaotic behind-the-scenes moment, not a studio photo.
 
 ## Example Output
-![Fisheye Movie Character Selfie](/images/portraits/nb-fisheye-movie-character-selfie.webp)
+![Fisheye Movie Character Selfie](/media/portraits/nb-fisheye-movie-character-selfie.webp)

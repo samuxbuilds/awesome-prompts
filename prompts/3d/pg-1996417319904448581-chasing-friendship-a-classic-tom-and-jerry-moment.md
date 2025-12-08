@@ -5,7 +5,7 @@ tags: ["nano-banana-pro"]
 author: "@_wej01"
 author_url: "https://twitter.com/_wej01"
 source_url: "https://twitter.com/_wej01/status/1996417319904448581"
-preview: "/images/3d/pg-1996417319904448581.webp"
+preview: "/media/3d/pg-1996417319904448581.webp"
 ---
 
 Amidst the chaos of a sunlit living room, Tom leaps in a hilarious pursuit of Jerry, embodying the timeless dance of friendship over rivalry. Nostalgia shines through!
@@ -20,4 +20,4 @@ A high-quality 3D CGI animated movie still of Tom and Jerry in a chaotic chase s
 
 ## Example Output
 
-![Chasing Friendship: A Classic Tom and Jerry Moment](/images/3d/pg-1996417319904448581.webp)
+![Chasing Friendship: A Classic Tom and Jerry Moment](/media/3d/pg-1996417319904448581.webp)

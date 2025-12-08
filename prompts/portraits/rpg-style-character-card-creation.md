@@ -3,7 +3,7 @@ title: "RPG-Style Character Card Creation"
 category: portraits
 tags: ["3d", "cartoon", "character"]
 author: "@berryxia_ai"
-preview: "/images/portraits/rpg-style-character-card-creation.webp"
+preview: "/media/portraits/rpg-style-character-card-creation.webp"
 ---
 
 Create a digital character card in RPG collectible style.
@@ -25,4 +25,4 @@ Optional. Can be generated based on profession/role description or use an upload
 - [Original Post](https://x.com/berryxia_ai/status/1911334046724165905)
 
 ## Example Output
-![RPG-Style Character Card Creation](/images/portraits/rpg-style-character-card-creation.webp)
+![RPG-Style Character Card Creation](/media/portraits/rpg-style-character-card-creation.webp)

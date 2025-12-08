@@ -5,7 +5,7 @@ tags: ["nano-banana-pro"]
 author: "@tkvtk"
 author_url: "https://twitter.com/tkvtk"
 source_url: "https://twitter.com/tkvtk/status/1995462524704362683"
-preview: "/images/portraits/pg-1995462524704362683.webp"
+preview: "/media/portraits/pg-1995462524704362683.webp"
 ---
 
 Say goodbye to tedious searches! This 3x3 cinematic grid reveals stunning shots, complete with sleek Japanese labels, transforming your visual storytelling.
@@ -51,4 +51,4 @@ All frames feature photorealistic textures, consistent cinematic color grading, 
 
 ## Example Output
 
-![Craft the Perfect Scene with Nano Banana's 3x3 Grid Magic](/images/portraits/pg-1995462524704362683.webp)
+![Craft the Perfect Scene with Nano Banana's 3x3 Grid Magic](/media/portraits/pg-1995462524704362683.webp)

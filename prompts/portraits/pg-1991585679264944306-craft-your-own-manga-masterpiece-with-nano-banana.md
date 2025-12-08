@@ -5,7 +5,7 @@ tags: ["nano-banana-pro"]
 author: "@_MehdiSharifi_"
 author_url: "https://twitter.com/_MehdiSharifi_"
 source_url: "https://twitter.com/_MehdiSharifi_/status/1991585679264944306"
-preview: "/images/portraits/pg-1991585679264944306.webp"
+preview: "/media/portraits/pg-1991585679264944306.webp"
 ---
 
 Transform your storytelling dreams into reality! This dynamic double-page spread brims with action, emotion, and authentic manga flair, ready to captivate readers.
@@ -20,4 +20,4 @@ style panels arranged in a dynamic layout, resembling a professionally printed J
 
 ## Example Output
 
-![Craft Your Own Manga Masterpiece with Nano Banana!](/images/portraits/pg-1991585679264944306.webp)
+![Craft Your Own Manga Masterpiece with Nano Banana!](/media/portraits/pg-1991585679264944306.webp)

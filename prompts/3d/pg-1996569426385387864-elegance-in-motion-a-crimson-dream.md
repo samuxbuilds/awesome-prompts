@@ -5,7 +5,7 @@ tags: ["portrait","nano-banana-pro"]
 author: "@AIByAbbay"
 author_url: "https://twitter.com/AIByAbbay"
 source_url: "https://twitter.com/AIByAbbay/status/1996569426385387864"
-preview: "/images/3d/pg-1996569426385387864.webp"
+preview: "/media/3d/pg-1996569426385387864.webp"
 ---
 
 A striking portrait captures the grace of a figure in a crimson lace top, evoking elegance against a charcoal backdrop. The interplay of warm hues and textures breathes life into each detail.
@@ -20,4 +20,4 @@ Ultra-photorealistic 8K vertical 3:4 cinematic editorial portrait, mobile-camera
 
 ## Example Output
 
-![Elegance in Motion: A Crimson Dream](/images/3d/pg-1996569426385387864.webp)
+![Elegance in Motion: A Crimson Dream](/media/3d/pg-1996569426385387864.webp)

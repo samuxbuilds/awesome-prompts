@@ -13,6 +13,7 @@ interface PromptData {
   content: string;
   path: string;
   preview?: string;
+  previewVideo?: string;
 }
 
 interface PromptSearchIndex {
@@ -23,6 +24,7 @@ interface PromptSearchIndex {
   tags: string[];
   author: string;
   preview?: string;
+  previewVideo?: string;
   content: string;
 }
 
@@ -114,6 +116,7 @@ async function parseMarkdownFile(filePath: string): Promise<PromptData> {
     content: markdownContent.trim(),
     path: relative(PROMPTS_DIR, filePath),
     preview: frontmatter.preview,
+    previewVideo: frontmatter.previewVideo,
   };
 }
 
@@ -162,6 +165,7 @@ async function buildIndex() {
       tags: p.tags,
       author: p.author,
       preview: p.preview,
+      previewVideo: p.previewVideo,
       content: p.content,
     }));
     

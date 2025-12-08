@@ -5,7 +5,7 @@ tags: ["illustration","art","nano-banana-pro"]
 author: "@dotey"
 author_url: "https://twitter.com/dotey"
 source_url: "https://twitter.com/dotey/status/1991786129046044735"
-preview: "/images/creative/pg-1991786129046044735.webp"
+preview: "/media/creative/pg-1991786129046044735.webp"
 ---
 
 Visualize resilience! This hand-drawn infographic bursts with inspiring wisdom. With earthy tones and captivating calligraphy, it emphasizes the journey of steady effort in building IP. Creative illustrations invite reflection, making the message impactful and relatable.
@@ -26,4 +26,4 @@ Visualize resilience! This hand-drawn infographic bursts with inspiring wisdom. 
 
 ## Example Output
 
-![Crafting Commitment: The Art of Persistence in IP Creation](/images/creative/pg-1991786129046044735.webp)
+![Crafting Commitment: The Art of Persistence in IP Creation](/media/creative/pg-1991786129046044735.webp)

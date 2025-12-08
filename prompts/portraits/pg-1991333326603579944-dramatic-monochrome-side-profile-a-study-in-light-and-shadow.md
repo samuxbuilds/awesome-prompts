@@ -5,7 +5,7 @@ tags: ["portrait","minimal","light","nano-banana-pro"]
 author: "@SimplyAnnisa"
 author_url: "https://twitter.com/SimplyAnnisa"
 source_url: "https://twitter.com/SimplyAnnisa/status/1991333326603579944"
-preview: "/images/portraits/pg-1991333326603579944.webp"
+preview: "/media/portraits/pg-1991333326603579944.webp"
 ---
 
 A striking high-contrast portrait reveals the contours of identity, where the sharp rim light elegantly traces the subject's profile against an abyssal black. This minimalist creation invites contemplation through its austere beauty.
@@ -46,4 +46,4 @@ A striking high-contrast portrait reveals the contours of identity, where the sh
 
 ## Example Output
 
-![Dramatic Monochrome Side-Profile: A Study in Light and Shadow](/images/portraits/pg-1991333326603579944.webp)
+![Dramatic Monochrome Side-Profile: A Study in Light and Shadow](/media/portraits/pg-1991333326603579944.webp)

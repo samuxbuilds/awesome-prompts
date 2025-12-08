@@ -3,7 +3,7 @@ title: "MrBeast Style - Stack/Quantity"
 category: "thumbnails"
 tags: ["mrbeast", "youtube", "thumbnail", "stack", "money"]
 author: "@samux"
-preview: "/images/thumbnails/mrbeast-stack.webp"
+preview: "/media/thumbnails/mrbeast-stack.webp"
 ---
 
 ```json
@@ -71,5 +71,5 @@ preview: "/images/thumbnails/mrbeast-stack.webp"
 ```
 
 ## Example Output
-![MrBeast Stack](/images/thumbnails/mrbeast-stack.webp)
+![MrBeast Stack](/media/thumbnails/mrbeast-stack.webp)
 

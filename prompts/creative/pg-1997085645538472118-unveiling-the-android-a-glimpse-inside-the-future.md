@@ -5,7 +5,7 @@ tags: ["art","vibrant","nano-banana-pro"]
 author: "@NanoBanana"
 author_url: "https://twitter.com/NanoBanana"
 source_url: "https://twitter.com/NanoBanana/status/1997085645538472118"
-preview: "/images/creative/pg-1997085645538472118.webp"
+preview: "/media/creative/pg-1997085645538472118.webp"
 ---
 
 Is it a robot or a work of art? This striking render showcases the Android’s inner workings, blending science and imagination with vibrant thermal hues illuminating its core.
@@ -20,4 +20,4 @@ The Google Android robot, presented in a high-contrast scientific studio render 
 
 ## Example Output
 
-![Unveiling the Android: A Glimpse Inside the Future](/images/creative/pg-1997085645538472118.webp)
+![Unveiling the Android: A Glimpse Inside the Future](/media/creative/pg-1997085645538472118.webp)

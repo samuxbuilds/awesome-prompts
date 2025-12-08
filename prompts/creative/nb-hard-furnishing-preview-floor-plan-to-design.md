@@ -3,7 +3,7 @@ title: "Hard Furnishing Preview (Floor Plan to Design)"
 category: creative
 tags: ["3d", "minimalist", "realistic", "photorealistic", "professional"]
 author: "@nanobanana-pro"
-preview: "/images/creative/nb-hard-furnishing-preview-floor-plan-to-design.webp"
+preview: "/media/creative/nb-hard-furnishing-preview-floor-plan-to-design.webp"
 ---
 
 *Generates a complete design presentation board including perspective views and 3D floor plans from a simple 2D map.*
@@ -18,4 +18,4 @@ Based on the uploaded 2D floor plan, generate a professional interior design pre
 - [Original](https://mp.weixin.qq.com/s/lrYNbs4rGs3KOqewoZ6aNQ)
 
 ## Example Output
-![Hard Furnishing Preview (Floor Plan to Design)](/images/creative/nb-hard-furnishing-preview-floor-plan-to-design.webp)
+![Hard Furnishing Preview (Floor Plan to Design)](/media/creative/nb-hard-furnishing-preview-floor-plan-to-design.webp)

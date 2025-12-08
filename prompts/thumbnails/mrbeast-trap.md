@@ -3,7 +3,7 @@ title: "MrBeast Style - Trap/Danger"
 category: "thumbnails"
 tags: ["mrbeast", "youtube", "thumbnail", "danger", "trap"]
 author: "@samux"
-preview: "/images/thumbnails/mrbeast-trap.webp"
+preview: "/media/thumbnails/mrbeast-trap.webp"
 ---
 
 ```json
@@ -73,5 +73,5 @@ preview: "/images/thumbnails/mrbeast-trap.webp"
 ```
 
 ## Example Output
-![MrBeast Trap](/images/thumbnails/mrbeast-trap.webp)
+![MrBeast Trap](/media/thumbnails/mrbeast-trap.webp)
 

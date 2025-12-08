@@ -5,7 +5,7 @@ tags: ["art","nano-banana-pro"]
 author: "@BeanieBlossom"
 author_url: "https://twitter.com/BeanieBlossom"
 source_url: "https://twitter.com/BeanieBlossom/status/1995478061123526920"
-preview: "/images/creative/pg-1995478061123526920.webp"
+preview: "/media/creative/pg-1995478061123526920.webp"
 ---
 
 Can you spot the intricate patterns on its wings? This stunning butterfly, adorned in golden hues against a soft beige backdrop, radiates artistry reminiscent of stained glass. Perfect for any artistic collection!
@@ -20,4 +20,4 @@ a beautiful butterfly with golden wings, detailed and colorful, with ornate patt
 
 ## Example Output
 
-![Gleaming Elegance: A Butterfly's Golden Dance](/images/creative/pg-1995478061123526920.webp)
+![Gleaming Elegance: A Butterfly's Golden Dance](/media/creative/pg-1995478061123526920.webp)

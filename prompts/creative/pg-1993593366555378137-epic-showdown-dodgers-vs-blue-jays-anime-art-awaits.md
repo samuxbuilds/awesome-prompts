@@ -5,7 +5,7 @@ tags: ["anime","art","vibrant","nano-banana-pro"]
 author: "@bananalab_app"
 author_url: "https://twitter.com/bananalab_app"
 source_url: "https://twitter.com/bananalab_app/status/1993593366555378137"
-preview: "/images/creative/pg-1993593366555378137.webp"
+preview: "/media/creative/pg-1993593366555378137.webp"
 ---
 
 Can you feel the excitement? This vibrant anime poster captures the thrilling essence of the 2025 World Series, showcasing iconic players in dazzling detail. Who will reign supreme?
@@ -20,4 +20,4 @@ Draw an anime poster for the 2025 World Series: The Dodgers vs. Blue Jays, featu
 
 ## Example Output
 
-![Epic Showdown: Dodgers vs. Blue Jays Anime Art Awaits!](/images/creative/pg-1993593366555378137.webp)
+![Epic Showdown: Dodgers vs. Blue Jays Anime Art Awaits!](/media/creative/pg-1993593366555378137.webp)

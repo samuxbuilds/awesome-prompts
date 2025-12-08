@@ -3,7 +3,7 @@ title: "Digital Content Localization (Comics/Memes)"
 category: creative
 tags: ["creative", "ai-art"]
 author: "@nanobanana-pro"
-preview: "/images/creative/nb-digital-content-localization-comics-memes.webp"
+preview: "/media/creative/nb-digital-content-localization-comics-memes.webp"
 ---
 
 *Translates comics or memes by scrubbing text bubbles and replacing content with matching fonts.*
@@ -14,4 +14,4 @@ Translate the text in the speech bubbles/captions from [Japanese/English] to [Ch
 - [Original](https://mp.weixin.qq.com/s/lrYNbs4rGs3KOqewoZ6aNQ)
 
 ## Example Output
-![Digital Content Localization (Comics/Memes)](/images/creative/nb-digital-content-localization-comics-memes.webp)
+![Digital Content Localization (Comics/Memes)](/media/creative/nb-digital-content-localization-comics-memes.webp)

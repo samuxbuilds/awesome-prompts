@@ -5,7 +5,7 @@ tags: ["nature","light","nano-banana-pro"]
 author: "@ShreyaYadav___"
 author_url: "https://twitter.com/ShreyaYadav___"
 source_url: "https://twitter.com/ShreyaYadav___/status/1991533743367156082"
-preview: "/images/portraits/pg-1991533743367156082.webp"
+preview: "/media/portraits/pg-1991533743367156082.webp"
 ---
 
 Sunlight filters through a lush green meadow, capturing a woman's quiet contemplation. Emotions intertwine with nature, creating a serene yet powerful visual story.
@@ -27,4 +27,4 @@ Signature: Shreya Yadav
 
 ## Example Output
 
-![Nature’s Whisper: A Cinematic Reflection](/images/portraits/pg-1991533743367156082.webp)
+![Nature’s Whisper: A Cinematic Reflection](/media/portraits/pg-1991533743367156082.webp)

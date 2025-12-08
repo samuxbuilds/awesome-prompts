@@ -5,7 +5,7 @@ tags: ["portrait","light","nano-banana-pro"]
 author: "@ZaraIrahh"
 author_url: "https://twitter.com/ZaraIrahh"
 source_url: "https://twitter.com/ZaraIrahh/status/1994369832494706898"
-preview: "/images/3d/pg-1994369832494706898.webp"
+preview: "/media/3d/pg-1994369832494706898.webp"
 ---
 
 Basking in natural light, a serene figure stands gracefully by the window, reflecting quiet confidence. A picturesque canal and classic architecture in the backdrop enhance this tranquil moment.
@@ -69,4 +69,4 @@ Basking in natural light, a serene figure stands gracefully by the window, refle
 
 ## Example Output
 
-![Soft Elegance by the Window: A Portrait of Serenity](/images/3d/pg-1994369832494706898.webp)
+![Soft Elegance by the Window: A Portrait of Serenity](/media/3d/pg-1994369832494706898.webp)

@@ -3,7 +3,7 @@ title: "Aging Through the Years"
 category: creative
 tags: ["creative", "ai-art"]
 author: "@nanobanana-pro"
-preview: "/images/creative/nb-aging-through-the-years.webp"
+preview: "/media/creative/nb-aging-through-the-years.webp"
 ---
 
 *Demonstrates temporal consistency and aging effects on a single subject.*
@@ -14,4 +14,4 @@ preview: "/images/creative/nb-aging-through-the-years.webp"
 - [Original](https://x.com/dr_cintas/status/1991888364099035581?s=20)
 
 ## Example Output
-![Aging Through the Years](/images/creative/nb-aging-through-the-years.webp)
+![Aging Through the Years](/media/creative/nb-aging-through-the-years.webp)

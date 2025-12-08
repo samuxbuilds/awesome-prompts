@@ -5,7 +5,7 @@ tags: ["nano-banana-pro"]
 author: "@ShreyaYadav___"
 author_url: "https://twitter.com/ShreyaYadav___"
 source_url: "https://twitter.com/ShreyaYadav___/status/1996955607656812714"
-preview: "/images/3d/pg-1996955607656812714.webp"
+preview: "/media/3d/pg-1996955607656812714.webp"
 ---
 
 Bold lines and exaggerated features tell a powerful story in this hand-drawn caricature. The intense expression of our middle-aged figure captures a moment that's both serious and compelling.
@@ -59,4 +59,4 @@ Bold lines and exaggerated features tell a powerful story in this hand-drawn car
 
 ## Example Output
 
-![The Serious Side of Satire: A Caricature Unveiled](/images/3d/pg-1996955607656812714.webp)
+![The Serious Side of Satire: A Caricature Unveiled](/media/3d/pg-1996955607656812714.webp)

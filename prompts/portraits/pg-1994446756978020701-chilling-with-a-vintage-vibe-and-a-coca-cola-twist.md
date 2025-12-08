@@ -5,7 +5,7 @@ tags: ["vintage","colorful","nano-banana-pro"]
 author: "@lexx_aura"
 author_url: "https://twitter.com/lexx_aura"
 source_url: "https://twitter.com/lexx_aura/status/1994446756978020701"
-preview: "/images/portraits/pg-1994446756978020701.webp"
+preview: "/media/portraits/pg-1994446756978020701.webp"
 ---
 
 Caught in a moment of contemplation, this young woman embraces retro charm in a cozy kitchen. Surrounded by colorful drinks and playful decor, she holds up her Coca-Cola with a hint of nostalgia. A perfect blend of style and refreshment!
@@ -65,4 +65,4 @@ Caught in a moment of contemplation, this young woman embraces retro charm in a 
 
 ## Example Output
 
-![Chilling with a Vintage Vibe and a Coca-Cola Twist](/images/portraits/pg-1994446756978020701.webp)
+![Chilling with a Vintage Vibe and a Coca-Cola Twist](/media/portraits/pg-1994446756978020701.webp)

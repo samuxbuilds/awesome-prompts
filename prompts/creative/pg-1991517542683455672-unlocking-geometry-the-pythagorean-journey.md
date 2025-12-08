@@ -5,7 +5,7 @@ tags: ["nano-banana-pro"]
 author: "@rovvmut_"
 author_url: "https://twitter.com/rovvmut_"
 source_url: "https://twitter.com/rovvmut_/status/1991517542683455672"
-preview: "/images/creative/pg-1991517542683455672.webp"
+preview: "/media/creative/pg-1991517542683455672.webp"
 ---
 
 A chalkboard transforms into a canvas of logic and creativity! The Pythagorean theorem unfolds step by step, inviting curious minds to solve its mysteries.
@@ -20,4 +20,4 @@ Generate an image of a classroom blackboard with the Pythagoras theorem being so
 
 ## Example Output
 
-![Unlocking Geometry: The Pythagorean Journey](/images/creative/pg-1991517542683455672.webp)
+![Unlocking Geometry: The Pythagorean Journey](/media/creative/pg-1991517542683455672.webp)

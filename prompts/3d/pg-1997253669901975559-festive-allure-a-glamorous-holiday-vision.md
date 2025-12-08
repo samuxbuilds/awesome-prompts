@@ -5,7 +5,7 @@ tags: ["nano-banana-pro"]
 author: "@lexx_aura"
 author_url: "https://twitter.com/lexx_aura"
 source_url: "https://twitter.com/lexx_aura/status/1997253669901975559"
-preview: "/images/3d/pg-1997253669901975559.webp"
+preview: "/media/3d/pg-1997253669901975559.webp"
 ---
 
 A stunning young woman radiates confidence in a festive, all-white ensemble, set against rich red velvet curtains. Her playful pose and alluring smile capture the essence of holiday glamour!
@@ -58,4 +58,4 @@ A stunning young woman radiates confidence in a festive, all-white ensemble, set
 
 ## Example Output
 
-![Festive Allure: A Glamorous Holiday Vision](/images/3d/pg-1997253669901975559.webp)
+![Festive Allure: A Glamorous Holiday Vision](/media/3d/pg-1997253669901975559.webp)

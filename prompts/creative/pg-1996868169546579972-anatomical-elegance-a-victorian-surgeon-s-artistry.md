@@ -5,7 +5,7 @@ tags: ["art","nano-banana-pro"]
 author: "@BeanieBlossom"
 author_url: "https://twitter.com/BeanieBlossom"
 source_url: "https://twitter.com/BeanieBlossom/status/1996868169546579972"
-preview: "/images/creative/pg-1996868169546579972.webp"
+preview: "/media/creative/pg-1996868169546579972.webp"
 ---
 
 A captivating tableau reveals a surgeon's kit, where antiquity meets artistry. Bone saws, glass syringes, and delicate herbs lie in a rich embrace of velvet, echoing a bygone era's meticulous craft.
@@ -20,4 +20,4 @@ A Victorian surgeon's medical kit laid open on aged leather, featuring antique b
 
 ## Example Output
 
-![Anatomical Elegance: A Victorian Surgeon’s Artistry](/images/creative/pg-1996868169546579972.webp)
+![Anatomical Elegance: A Victorian Surgeon’s Artistry](/media/creative/pg-1996868169546579972.webp)

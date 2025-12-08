@@ -5,7 +5,7 @@ tags: ["nano-banana-pro"]
 author: "@YaseenK7212"
 author_url: "https://twitter.com/YaseenK7212"
 source_url: "https://twitter.com/YaseenK7212/status/1995820734233370767"
-preview: "/images/3d/pg-1995820734233370767.webp"
+preview: "/media/3d/pg-1995820734233370767.webp"
 ---
 
 Under the glow of street lamps, a confident young woman winks at the camera, iced coffee in hand. Her Douyin-inspired makeup and sleek style shine brightly against the night backdrop.
@@ -99,4 +99,4 @@ Under the glow of street lamps, a confident young woman winks at the camera, ice
 
 ## Example Output
 
-![Night Vibes with a Twist: The Gemini Nano Banana 3.0 Look](/images/3d/pg-1995820734233370767.webp)
+![Night Vibes with a Twist: The Gemini Nano Banana 3.0 Look](/media/3d/pg-1995820734233370767.webp)

@@ -5,7 +5,7 @@ tags: ["portrait","vibrant","nano-banana-pro"]
 author: "@ZaraIrahh"
 author_url: "https://twitter.com/ZaraIrahh"
 source_url: "https://twitter.com/ZaraIrahh/status/1991835833028989331"
-preview: "/images/portraits/pg-1991835833028989331.webp"
+preview: "/media/portraits/pg-1991835833028989331.webp"
 ---
 
 A striking portrait under a vibrant blue sky captures a young woman in a textured crochet cardigan, her orange kitty perched playfully on her shoulder, radiating warmth and summer vibes.
@@ -77,4 +77,4 @@ A striking portrait under a vibrant blue sky captures a young woman in a texture
 
 ## Example Output
 
-![Chic Encounters with an Orange Muse](/images/portraits/pg-1991835833028989331.webp)
+![Chic Encounters with an Orange Muse](/media/portraits/pg-1991835833028989331.webp)

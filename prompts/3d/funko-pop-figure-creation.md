@@ -3,7 +3,7 @@ title: "Funko Pop Figure Creation"
 category: 3d
 tags: ["chibi", "realistic"]
 author: "@dotey"
-preview: "/images/3d/funko-pop-figure-creation.webp"
+preview: "/media/3d/funko-pop-figure-creation.webp"
 ---
 
 Transform the person in the photo into the style of a Funko Pop figure box, presented in isometric view.
@@ -18,4 +18,4 @@ A clear half-body or full-body photo.
 - [Original Post](https://x.com/dotey/status/1909047283485671924)
 
 ## Example Output
-![Funko Pop Figure Creation](/images/3d/funko-pop-figure-creation.webp)
+![Funko Pop Figure Creation](/media/3d/funko-pop-figure-creation.webp)

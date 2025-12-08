@@ -5,7 +5,7 @@ tags: ["nano-banana-pro"]
 author: "@Samann_ai"
 author_url: "https://twitter.com/Samann_ai"
 source_url: "https://twitter.com/Samann_ai/status/1995519480974156069"
-preview: "/images/3d/pg-1995519480974156069.webp"
+preview: "/media/3d/pg-1995519480974156069.webp"
 ---
 
 A playful twist on yoga unfolds in this cozy kitchen! With her mother watching in awe, this young woman defies gravity, showcasing flexibility and joy amidst everyday life.
@@ -45,4 +45,4 @@ A playful twist on yoga unfolds in this cozy kitchen! With her mother watching i
 
 ## Example Output
 
-![Balancing Life and Laughter: Yoga at the Kitchen Table](/images/3d/pg-1995519480974156069.webp)
+![Balancing Life and Laughter: Yoga at the Kitchen Table](/media/3d/pg-1995519480974156069.webp)

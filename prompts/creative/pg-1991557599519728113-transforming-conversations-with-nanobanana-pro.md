@@ -5,7 +5,7 @@ tags: ["nano-banana-pro"]
 author: "@tegnike"
 author_url: "https://twitter.com/tegnike"
 source_url: "https://twitter.com/tegnike/status/1991557599519728113"
-preview: "/images/creative/pg-1991557599519728113.webp"
+preview: "/media/creative/pg-1991557599519728113.webp"
 ---
 
 Can you believe the magic of NanoBanana Pro? With seamless character swaps and impressive accuracy, this tool takes creativity to new heights! Check it out!
@@ -20,4 +20,4 @@ Can you believe the magic of NanoBanana Pro? With seamless character swaps and i
 
 ## Example Output
 
-![Transforming Conversations with NanoBanana Pro!](/images/creative/pg-1991557599519728113.webp)
+![Transforming Conversations with NanoBanana Pro!](/media/creative/pg-1991557599519728113.webp)

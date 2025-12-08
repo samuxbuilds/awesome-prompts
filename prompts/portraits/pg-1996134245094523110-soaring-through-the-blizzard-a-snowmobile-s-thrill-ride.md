@@ -5,7 +5,7 @@ tags: ["art","nano-banana-pro"]
 author: "@_imfaizan18"
 author_url: "https://twitter.com/_imfaizan18"
 source_url: "https://twitter.com/_imfaizan18/status/1996134245094523110"
-preview: "/images/portraits/pg-1996134245094523110.webp"
+preview: "/media/portraits/pg-1996134245094523110.webp"
 ---
 
 A heart-stopping leap! The snowmobile defies gravity as it soars off an icy edge, with the rider's focus sharp amid a flurry of white snow. Pure adrenaline captured in motion!
@@ -20,4 +20,4 @@ A snowmobile launching off a jagged ice ridge in mid-air, rider leaning forward 
 
 ## Example Output
 
-![Soaring Through the Blizzard: A Snowmobile's Thrill Ride](/images/portraits/pg-1996134245094523110.webp)
+![Soaring Through the Blizzard: A Snowmobile's Thrill Ride](/media/portraits/pg-1996134245094523110.webp)

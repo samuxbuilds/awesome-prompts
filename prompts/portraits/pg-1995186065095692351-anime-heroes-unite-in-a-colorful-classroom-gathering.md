@@ -5,7 +5,7 @@ tags: ["anime","colorful","vibrant","nano-banana-pro"]
 author: "@CharaspowerAI"
 author_url: "https://twitter.com/CharaspowerAI"
 source_url: "https://twitter.com/CharaspowerAI/status/1995186065095692351"
-preview: "/images/portraits/pg-1995186065095692351.webp"
+preview: "/media/portraits/pg-1995186065095692351.webp"
 ---
 
 What a vibrant assembly! Goku, Naruto, and friends stand proudly in this lively class photo. Their energy radiates, capturing the spirit of friendship and adventure!
@@ -29,4 +29,4 @@ What a vibrant assembly! Goku, Naruto, and friends stand proudly in this lively 
 
 ## Example Output
 
-![Anime Heroes Unite in a Colorful Classroom Gathering!](/images/portraits/pg-1995186065095692351.webp)
+![Anime Heroes Unite in a Colorful Classroom Gathering!](/media/portraits/pg-1995186065095692351.webp)

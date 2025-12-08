@@ -5,7 +5,7 @@ tags: ["portrait","vibrant","nano-banana-pro"]
 author: "@SimplyAnnisa"
 author_url: "https://twitter.com/SimplyAnnisa"
 source_url: "https://twitter.com/SimplyAnnisa/status/1994767240844161198"
-preview: "/images/portraits/pg-1994767240844161198.webp"
+preview: "/media/portraits/pg-1994767240844161198.webp"
 ---
 
 Captured in a flash of brilliance, this portrait showcases a teenage girl with enchanting features, vibrant makeup, and a playful Sanrio touch, embodying Y2K nostalgia.
@@ -20,4 +20,4 @@ Create a portrait of a teenage girl with long, soft, wavy dark brown hair, with 
 
 ## Example Output
 
-![Radiant Youth: A Retro Vibe Portrait](/images/portraits/pg-1994767240844161198.webp)
+![Radiant Youth: A Retro Vibe Portrait](/media/portraits/pg-1994767240844161198.webp)

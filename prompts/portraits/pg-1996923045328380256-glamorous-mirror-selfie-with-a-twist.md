@@ -5,7 +5,7 @@ tags: ["selfie","art","nano-banana-pro"]
 author: "@lexx_aura"
 author_url: "https://twitter.com/lexx_aura"
 source_url: "https://twitter.com/lexx_aura/status/1996923045328380256"
-preview: "/images/portraits/pg-1996923045328380256.webp"
+preview: "/media/portraits/pg-1996923045328380256.webp"
 ---
 
 An elegant night comes alive as two friends capture a playful moment, their whimsical box heads mirrored in sparkling reflections—who says parties can’t be fun?
@@ -112,4 +112,4 @@ An elegant night comes alive as two friends capture a playful moment, their whim
 
 ## Example Output
 
-![Glamorous Mirror Selfie with a Twist](/images/portraits/pg-1996923045328380256.webp)
+![Glamorous Mirror Selfie with a Twist](/media/portraits/pg-1996923045328380256.webp)

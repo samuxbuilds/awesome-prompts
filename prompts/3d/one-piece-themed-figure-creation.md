@@ -3,7 +3,7 @@ title: "One Piece Themed Figure Creation"
 category: 3d
 tags: ["anime", "realistic", "character"]
 author: "@dotey"
-preview: "/images/3d/one-piece-themed-figure-creation.webp"
+preview: "/media/3d/one-piece-themed-figure-creation.webp"
 ---
 
 Transform the person in the photo into a One Piece-themed anime-style action figure, presented inside a collectible figure box designed in the visual style of the One Piece universe. The box is shown in an isometric view.
@@ -20,4 +20,4 @@ A half-body or full-body photo.
 - [Original Post](https://x.com/dotey/status/1909047547563213145)
 
 ## Example Output
-![One Piece Themed Figure Creation](/images/3d/one-piece-themed-figure-creation.webp)
+![One Piece Themed Figure Creation](/media/3d/one-piece-themed-figure-creation.webp)

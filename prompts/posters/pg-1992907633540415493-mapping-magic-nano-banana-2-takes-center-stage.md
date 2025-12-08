@@ -5,7 +5,7 @@ tags: ["nano-banana-pro"]
 author: "@gokayfem"
 author_url: "https://twitter.com/gokayfem"
 source_url: "https://twitter.com/gokayfem/status/1992907633540415493"
-preview: "/images/posters/pg-1992907633540415493.webp"
+preview: "/media/posters/pg-1992907633540415493.webp"
 ---
 
 Bold and clean, the diagram template is now enhanced with Nano Banana 2. Thin, elegant borders unite functionality and aesthetics, showcasing your designs beautifully!
@@ -20,4 +20,4 @@ Please place the product image onto the diagram template. Remove all existing te
 
 ## Example Output
 
-![Mapping Magic: Nano Banana 2 Takes Center Stage](/images/posters/pg-1992907633540415493.webp)
+![Mapping Magic: Nano Banana 2 Takes Center Stage](/media/posters/pg-1992907633540415493.webp)

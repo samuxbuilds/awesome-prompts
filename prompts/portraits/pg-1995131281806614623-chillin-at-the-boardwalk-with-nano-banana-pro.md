@@ -5,7 +5,7 @@ tags: ["vibrant","nano-banana-pro"]
 author: "@saniaspeaks_"
 author_url: "https://twitter.com/saniaspeaks_"
 source_url: "https://twitter.com/saniaspeaks_/status/1995131281806614623"
-preview: "/images/portraits/pg-1995131281806614623.webp"
+preview: "/media/portraits/pg-1995131281806614623.webp"
 ---
 
 Under the sun's golden gaze, a confident woman in a vibrant green sweater brings life to the bustling boardwalk. The fisheye lens captures her cool vibe against a backdrop of summer joy!
@@ -49,4 +49,4 @@ Under the sun's golden gaze, a confident woman in a vibrant green sweater brings
 
 ## Example Output
 
-![Chillin' at the Boardwalk with Nano Banana Pro](/images/portraits/pg-1995131281806614623.webp)
+![Chillin' at the Boardwalk with Nano Banana Pro](/media/portraits/pg-1995131281806614623.webp)

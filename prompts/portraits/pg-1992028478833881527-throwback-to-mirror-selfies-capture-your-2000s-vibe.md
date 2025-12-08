@@ -5,7 +5,7 @@ tags: ["selfie","vibrant","nano-banana-pro"]
 author: "@ZaraIrahh"
 author_url: "https://twitter.com/ZaraIrahh"
 source_url: "https://twitter.com/ZaraIrahh/status/1992028478833881527"
-preview: "/images/portraits/pg-1992028478833881527.webp"
+preview: "/media/portraits/pg-1992028478833881527.webp"
 ---
 
 Can you feel the nostalgia? This enchanting shot perfectly captures early 2000s style with vibrant decor and playful confidence. Get ready to channel your inner pop icon!
@@ -80,4 +80,4 @@ Can you feel the nostalgia? This enchanting shot perfectly captures early 2000s 
 
 ## Example Output
 
-![Throwback to Mirror Selfies: Capture Your 2000s Vibe!](/images/portraits/pg-1992028478833881527.webp)
+![Throwback to Mirror Selfies: Capture Your 2000s Vibe!](/media/portraits/pg-1992028478833881527.webp)

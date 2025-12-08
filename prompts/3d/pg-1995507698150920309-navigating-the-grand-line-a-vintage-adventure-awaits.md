@@ -5,7 +5,7 @@ tags: ["vintage","light","nano-banana-pro"]
 author: "@_MehdiSharifi_"
 author_url: "https://twitter.com/_MehdiSharifi_"
 source_url: "https://twitter.com/_MehdiSharifi_/status/1995507698150920309"
-preview: "/images/3d/pg-1995507698150920309.webp"
+preview: "/media/3d/pg-1995507698150920309.webp"
 ---
 
 A treasure trove sprawled across an old captain's desk, where Nami's journey comes alive through rich textures and warm candlelight. Discover the beauty of adventure!
@@ -70,4 +70,4 @@ A treasure trove sprawled across an old captain's desk, where Nami's journey com
 
 ## Example Output
 
-![Navigating the Grand Line: A Vintage Adventure Awaits](/images/3d/pg-1995507698150920309.webp)
+![Navigating the Grand Line: A Vintage Adventure Awaits](/media/3d/pg-1995507698150920309.webp)

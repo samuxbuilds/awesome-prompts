@@ -5,7 +5,7 @@ tags: ["nano-banana-pro"]
 author: "@ShreyaYadav___"
 author_url: "https://twitter.com/ShreyaYadav___"
 source_url: "https://twitter.com/ShreyaYadav___/status/1991338284518371647"
-preview: "/images/3d/pg-1991338284518371647.webp"
+preview: "/media/3d/pg-1991338284518371647.webp"
 ---
 
 Snowflakes dance outside while she snuggles a giant Doraemon. Wrapped in a cream knit sweater, her rosy cheeks reflect the warmth of hot chocolate and cherished memories.
@@ -25,4 +25,4 @@ Snowflakes dance outside while she snuggles a giant Doraemon. Wrapped in a cream
 
 ## Example Output
 
-![Cozy Moments: Winter's Embrace with a Plush Companion](/images/3d/pg-1991338284518371647.webp)
+![Cozy Moments: Winter's Embrace with a Plush Companion](/media/3d/pg-1991338284518371647.webp)

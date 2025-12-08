@@ -5,7 +5,7 @@ tags: ["urban","light","neon","vibrant","nano-banana-pro"]
 author: "@rovvmut_"
 author_url: "https://twitter.com/rovvmut_"
 source_url: "https://twitter.com/rovvmut_/status/1992052672606921113"
-preview: "/images/portraits/pg-1992052672606921113.webp"
+preview: "/media/portraits/pg-1992052672606921113.webp"
 ---
 
 Beneath the glowing neon lights, a woman gazes dreamily into the mystery of the night. Raindrops dance in the air, reflecting a vibrant urban tapestry.
@@ -69,4 +69,4 @@ Beneath the glowing neon lights, a woman gazes dreamily into the mystery of the 
 
 ## Example Output
 
-![Neon Dreams: A Night in the City](/images/portraits/pg-1992052672606921113.webp)
+![Neon Dreams: A Night in the City](/media/portraits/pg-1992052672606921113.webp)

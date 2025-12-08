@@ -5,7 +5,7 @@ tags: ["portrait","art","vintage","fashion","nano-banana-pro"]
 author: "@ShreyaYadav___"
 author_url: "https://twitter.com/ShreyaYadav___"
 source_url: "https://twitter.com/ShreyaYadav___/status/1994430035554603247"
-preview: "/images/portraits/pg-1994430035554603247.webp"
+preview: "/media/portraits/pg-1994430035554603247.webp"
 ---
 
 Soft gazes meet gritty aesthetics in this iconic portrait. A newspaper backdrop and vintage fashion transport you straight to the heart of 1990s street culture.
@@ -21,4 +21,4 @@ Use image [0] as face reference. Half-body. Subject leaning against newspaper-co
 
 ## Example Output
 
-![A Nostalgic Glimpse of 90s Hong Kong Vibes](/images/portraits/pg-1994430035554603247.webp)
+![A Nostalgic Glimpse of 90s Hong Kong Vibes](/media/portraits/pg-1994430035554603247.webp)

@@ -3,7 +3,7 @@ title: "Victoria's Secret Style Photoshoot"
 category: portraits
 tags: ["glamour", "ai-art"]
 author: "@nanobanana-pro"
-preview: "/images/portraits/nb-victoria-s-secret-style-photoshoot.webp"
+preview: "/media/portraits/nb-victoria-s-secret-style-photoshoot.webp"
 ---
 
 *Great for creating high-glamour, backstage-style fashion photography with intricate details.*
@@ -16,4 +16,4 @@ The background is a darkly lit room, probably under the podium. The main emphasi
 - [Original](https://x.com/NanoBanana_labs/status/1991947916479762788?s=20)
 
 ## Example Output
-![Victoria's Secret Style Photoshoot](/images/portraits/nb-victoria-s-secret-style-photoshoot.webp)
+![Victoria's Secret Style Photoshoot](/media/portraits/nb-victoria-s-secret-style-photoshoot.webp)

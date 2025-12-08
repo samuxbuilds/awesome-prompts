@@ -5,7 +5,7 @@ tags: ["portrait","vintage","vibrant","nano-banana-pro"]
 author: "@craftian_keskin"
 author_url: "https://twitter.com/craftian_keskin"
 source_url: "https://twitter.com/craftian_keskin/status/1997054120323104938"
-preview: "/images/3d/pg-1997054120323104938.webp"
+preview: "/media/3d/pg-1997054120323104938.webp"
 ---
 
 Four frames of fierce beauty showcase a blend of confidence and allure, capturing playful moments in a chic, vintage vibe. Each glance tells a story!
@@ -91,4 +91,4 @@ Four frames of fierce beauty showcase a blend of confidence and allure, capturin
 
 ## Example Output
 
-![Sassy Silhouettes: A Vibrant Portraits Collage](/images/3d/pg-1997054120323104938.webp)
+![Sassy Silhouettes: A Vibrant Portraits Collage](/media/3d/pg-1997054120323104938.webp)

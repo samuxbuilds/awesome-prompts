@@ -5,7 +5,7 @@ tags: ["portrait","minimal","light","nano-banana-pro"]
 author: "@egeberkina"
 author_url: "https://twitter.com/egeberkina"
 source_url: "https://twitter.com/egeberkina/status/1996925069189079063"
-preview: "/images/portraits/pg-1996925069189079063.webp"
+preview: "/media/portraits/pg-1996925069189079063.webp"
 ---
 
 Soft lighting embraces a serene moment. In a cozy white outfit and large headphones, she radiates tranquility, inviting you to appreciate the beauty in simply being.
@@ -99,4 +99,4 @@ Soft lighting embraces a serene moment. In a cozy white outfit and large headpho
 
 ## Example Output
 
-![Chillin' in Minimalism: A Portrait of Pure Vibes](/images/portraits/pg-1996925069189079063.webp)
+![Chillin' in Minimalism: A Portrait of Pure Vibes](/media/portraits/pg-1996925069189079063.webp)

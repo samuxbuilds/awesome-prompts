@@ -5,7 +5,7 @@ tags: ["vintage","nano-banana-pro"]
 author: "@kingofdairyque"
 author_url: "https://twitter.com/kingofdairyque"
 source_url: "https://twitter.com/kingofdairyque/status/1992946348522631169"
-preview: "/images/portraits/pg-1992946348522631169.webp"
+preview: "/media/portraits/pg-1992946348522631169.webp"
 ---
 
 Caught in a moment of nostalgia, her polished ensemble and wistful gaze tell a story of longing as steam envelops the vintage train platform.
@@ -20,4 +20,4 @@ Narrative, cinematic photofray ,woman in a deep burgundy polka dot dree with cre
 
 ## Example Output
 
-![A Timeless Farewell from the Train Window](/images/portraits/pg-1992946348522631169.webp)
+![A Timeless Farewell from the Train Window](/media/portraits/pg-1992946348522631169.webp)

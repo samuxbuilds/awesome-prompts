@@ -5,7 +5,7 @@ tags: ["portrait","nature","light","nano-banana-pro"]
 author: "@kingofdairyque"
 author_url: "https://twitter.com/kingofdairyque"
 source_url: "https://twitter.com/kingofdairyque/status/1991735212615823387"
-preview: "/images/portraits/pg-1991735212615823387.webp"
+preview: "/media/portraits/pg-1991735212615823387.webp"
 ---
 
 Bathed in nostalgic sunlight, this portrait captures the magic of golden hour. The soft hues and tree shadows weave a dreamy tapestry, enveloping the subject in warmth.
@@ -20,4 +20,4 @@ Golden hour portrait with tree shadows cast on wall. Subject in white blouse, wa
 
 ## Example Output
 
-![Golden Hour Elegance: A Portrait in Nature's Embrace](/images/portraits/pg-1991735212615823387.webp)
+![Golden Hour Elegance: A Portrait in Nature's Embrace](/media/portraits/pg-1991735212615823387.webp)

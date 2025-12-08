@@ -5,7 +5,7 @@ tags: ["neon","vibrant","nano-banana-pro"]
 author: "@rovvmut_"
 author_url: "https://twitter.com/rovvmut_"
 source_url: "https://twitter.com/rovvmut_/status/1995087450788573215"
-preview: "/images/3d/pg-1995087450788573215.webp"
+preview: "/media/3d/pg-1995087450788573215.webp"
 ---
 
 Captured in a cinematic moment, a lone figure clad in vibrant layers sits on a rain-drenched bench, surrounded by the pulse of a neon cityscape. Puddle reflections and mist create a mesmerizing atmosphere.
@@ -69,4 +69,4 @@ Captured in a cinematic moment, a lone figure clad in vibrant layers sits on a r
 
 ## Example Output
 
-![Neon Dreams on a Rainy Dusk](/images/3d/pg-1995087450788573215.webp)
+![Neon Dreams on a Rainy Dusk](/media/3d/pg-1995087450788573215.webp)

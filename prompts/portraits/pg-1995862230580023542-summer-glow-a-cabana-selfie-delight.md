@@ -5,7 +5,7 @@ tags: ["selfie","light","vibrant","nano-banana-pro"]
 author: "@_MehdiSharifi_"
 author_url: "https://twitter.com/_MehdiSharifi_"
 source_url: "https://twitter.com/_MehdiSharifi_/status/1995862230580023542"
-preview: "/images/portraits/pg-1995862230580023542.webp"
+preview: "/media/portraits/pg-1995862230580023542.webp"
 ---
 
 Sun-kissed and carefree! This stunning mirror selfie captures a young woman's vibrant beach vibe, framed by ocean waves and tropical plants. Pure vacation bliss!
@@ -71,4 +71,4 @@ Sun-kissed and carefree! This stunning mirror selfie captures a young woman's vi
 
 ## Example Output
 
-![Summer Glow: A Cabana Selfie Delight](/images/portraits/pg-1995862230580023542.webp)
+![Summer Glow: A Cabana Selfie Delight](/media/portraits/pg-1995862230580023542.webp)

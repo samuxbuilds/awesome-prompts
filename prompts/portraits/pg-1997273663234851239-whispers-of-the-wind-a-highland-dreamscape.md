@@ -5,7 +5,7 @@ tags: ["nature","light","nano-banana-pro"]
 author: "@aleenaamiir"
 author_url: "https://twitter.com/aleenaamiir"
 source_url: "https://twitter.com/aleenaamiir/status/1997273663234851239"
-preview: "/images/portraits/pg-1997273663234851239.webp"
+preview: "/media/portraits/pg-1997273663234851239.webp"
 ---
 
 Caught in a moment of tranquil beauty, a woman in a flowing gown blends with the wildflowers and soft light. Her serene gaze invites thoughts of nature's enchanting secrets.
@@ -31,4 +31,4 @@ Caught in a moment of tranquil beauty, a woman in a flowing gown blends with the
 
 ## Example Output
 
-![Whispers of the Wind: A Highland Dreamscape](/images/portraits/pg-1997273663234851239.webp)
+![Whispers of the Wind: A Highland Dreamscape](/media/portraits/pg-1997273663234851239.webp)

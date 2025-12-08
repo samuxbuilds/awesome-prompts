@@ -5,7 +5,7 @@ tags: ["light","nano-banana-pro"]
 author: "@YaseenK7212"
 author_url: "https://twitter.com/YaseenK7212"
 source_url: "https://twitter.com/YaseenK7212/status/1995691515465621876"
-preview: "/images/3d/pg-1995691515465621876.webp"
+preview: "/media/3d/pg-1995691515465621876.webp"
 ---
 
 A stunning young woman exudes confidence in a luxurious SUV, her backless halter top accentuating her curves. The soft glow of city nightlife dances through the windows, creating a captivating bokeh effect.
@@ -94,4 +94,4 @@ A stunning young woman exudes confidence in a luxurious SUV, her backless halter
 
 ## Example Output
 
-![City Lights & Curves: A Night of Glamour](/images/3d/pg-1995691515465621876.webp)
+![City Lights & Curves: A Night of Glamour](/media/3d/pg-1995691515465621876.webp)

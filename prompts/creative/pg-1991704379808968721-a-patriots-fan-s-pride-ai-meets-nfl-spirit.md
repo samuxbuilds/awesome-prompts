@@ -5,7 +5,7 @@ tags: ["vibrant","nano-banana-pro"]
 author: "@misuri_edelman"
 author_url: "https://twitter.com/misuri_edelman"
 source_url: "https://twitter.com/misuri_edelman/status/1991704379808968721"
-preview: "/images/creative/pg-1991704379808968721.webp"
+preview: "/media/creative/pg-1991704379808968721.webp"
 ---
 
 Captured in a vibrant moment, this AI-generated image showcases a dedicated Japanese Patriots fan, blending cultural passion with sports enthusiasm. Can you spot the AI magic?
@@ -20,4 +20,4 @@ Captured in a vibrant moment, this AI-generated image showcases a dedicated Japa
 
 ## Example Output
 
-![A Patriots Fan's Pride: AI Meets NFL Spirit!](/images/creative/pg-1991704379808968721.webp)
+![A Patriots Fan's Pride: AI Meets NFL Spirit!](/media/creative/pg-1991704379808968721.webp)

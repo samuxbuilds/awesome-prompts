@@ -5,7 +5,7 @@ tags: ["portrait","vintage","light","nano-banana-pro"]
 author: "@john_my07"
 author_url: "https://twitter.com/john_my07"
 source_url: "https://twitter.com/john_my07/status/1991522283354300702"
-preview: "/images/portraits/pg-1991522283354300702.webp"
+preview: "/media/portraits/pg-1991522283354300702.webp"
 ---
 
 Captured in warm tones, this 90s-style portrait radiates nostalgia. The cozy room, adorned with vintage clippings, highlights his elegant pose under the classic camera flash.
@@ -22,4 +22,4 @@ The background features a white wall with a few magazine clippings and posters o
 
 ## Example Output
 
-![Retro Vibes: A 90s Portrait Revival](/images/portraits/pg-1991522283354300702.webp)
+![Retro Vibes: A 90s Portrait Revival](/media/portraits/pg-1991522283354300702.webp)

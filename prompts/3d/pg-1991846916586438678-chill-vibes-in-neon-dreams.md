@@ -5,7 +5,7 @@ tags: ["neon","nano-banana-pro"]
 author: "@xmliisu"
 author_url: "https://twitter.com/xmliisu"
 source_url: "https://twitter.com/xmliisu/status/1991846916586438678"
-preview: "/images/3d/pg-1991846916586438678.webp"
+preview: "/media/3d/pg-1991846916586438678.webp"
 ---
 
 A vivid snapshot of rebellion and relaxation; a figure reclines in the trunk of a yellow sports car, cigarette in hand, embodying a carefree night under the stars.
@@ -51,4 +51,4 @@ A vivid snapshot of rebellion and relaxation; a figure reclines in the trunk of 
 
 ## Example Output
 
-![Chill Vibes in Neon Dreams](/images/3d/pg-1991846916586438678.webp)
+![Chill Vibes in Neon Dreams](/media/3d/pg-1991846916586438678.webp)

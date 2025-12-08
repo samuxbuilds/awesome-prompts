@@ -5,7 +5,7 @@ tags: ["portrait","light","nano-banana-pro"]
 author: "@ShreyaYadav___"
 author_url: "https://twitter.com/ShreyaYadav___"
 source_url: "https://twitter.com/ShreyaYadav___/status/1991448689857163301"
-preview: "/images/portraits/pg-1991448689857163301.webp"
+preview: "/media/portraits/pg-1991448689857163301.webp"
 ---
 
 A striking young woman leans gracefully against a rustic doorframe, her pearl-accented hair catching soft light. In this moment, magic weaves through elegance and reflection.
@@ -45,4 +45,4 @@ A striking young woman leans gracefully against a rustic doorframe, her pearl-ac
 
 ## Example Output
 
-![Where Light Meets Elegance: A Portrait of Thoughtful Beauty](/images/portraits/pg-1991448689857163301.webp)
+![Where Light Meets Elegance: A Portrait of Thoughtful Beauty](/media/portraits/pg-1991448689857163301.webp)

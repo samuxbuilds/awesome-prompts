@@ -5,7 +5,7 @@ tags: ["art","nano-banana-pro"]
 author: "@rovvmut_"
 author_url: "https://twitter.com/rovvmut_"
 source_url: "https://twitter.com/rovvmut_/status/1993149955683631251"
-preview: "/images/portraits/pg-1993149955683631251.webp"
+preview: "/media/portraits/pg-1993149955683631251.webp"
 ---
 
 In a serene winter landscape, a young woman in a brown hoodie playfully puckers at the camera, her loyal white puppy with striking blue eyes gazing calmly beside her. Snow blankets the ground, while bare trees stand sentinel in the background, creating a perfect backdrop for this heartwarming moment.
@@ -95,4 +95,4 @@ In a serene winter landscape, a young woman in a brown hoodie playfully puckers 
 
 ## Example Output
 
-![Winter Whimsy: A Young Woman and Her Adorable Companion](/images/portraits/pg-1993149955683631251.webp)
+![Winter Whimsy: A Young Woman and Her Adorable Companion](/media/portraits/pg-1993149955683631251.webp)

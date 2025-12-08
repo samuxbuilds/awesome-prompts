@@ -5,7 +5,7 @@ tags: ["portrait","vintage","nano-banana-pro"]
 author: "@weiinberg"
 author_url: "https://twitter.com/weiinberg"
 source_url: "https://twitter.com/weiinberg/status/1995766317044171121"
-preview: "/images/3d/pg-1995766317044171121.webp"
+preview: "/media/3d/pg-1995766317044171121.webp"
 ---
 
 An enigmatic figure stands confidently on cobbled streets, clutching a brass pocket watch. The backdrop, a tapestry of vintage clocks, breathes nostalgia into this stunning cinematic portrait.
@@ -117,4 +117,4 @@ An enigmatic figure stands confidently on cobbled streets, clutching a brass poc
 
 ## Example Output
 
-![Timeless Elegance: Vintage Portrait in Cinematic Style](/images/3d/pg-1995766317044171121.webp)
+![Timeless Elegance: Vintage Portrait in Cinematic Style](/media/3d/pg-1995766317044171121.webp)

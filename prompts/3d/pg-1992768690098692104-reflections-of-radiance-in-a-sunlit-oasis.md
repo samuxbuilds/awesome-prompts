@@ -5,7 +5,7 @@ tags: ["portrait","light","nano-banana-pro"]
 author: "@SimplyAnnisa"
 author_url: "https://twitter.com/SimplyAnnisa"
 source_url: "https://twitter.com/SimplyAnnisa/status/1992768690098692104"
-preview: "/images/3d/pg-1992768690098692104.webp"
+preview: "/media/3d/pg-1992768690098692104.webp"
 ---
 
 Bathed in natural light, this stunning portrait captures a woman with enchanting green-gray eyes and flowing golden hair, exuding effortless beauty amidst lush greenery.
@@ -25,4 +25,4 @@ Create a hyper-realistic waist-up portrait using the attached photo.  Don't chan
 
 ## Example Output
 
-![Reflections of Radiance in a Sunlit Oasis](/images/3d/pg-1992768690098692104.webp)
+![Reflections of Radiance in a Sunlit Oasis](/media/3d/pg-1992768690098692104.webp)

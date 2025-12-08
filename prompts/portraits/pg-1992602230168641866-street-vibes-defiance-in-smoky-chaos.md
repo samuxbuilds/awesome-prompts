@@ -5,7 +5,7 @@ tags: ["nano-banana-pro"]
 author: "@Drshadow56"
 author_url: "https://twitter.com/Drshadow56"
 source_url: "https://twitter.com/Drshadow56/status/1992602230168641866"
-preview: "/images/portraits/pg-1992602230168641866.webp"
+preview: "/media/portraits/pg-1992602230168641866.webp"
 ---
 
 Who needs a crown when you can wield a bat? This confident look blends punk flair with an edgy backdrop of fire and smoke, redefining street style.
@@ -20,4 +20,4 @@ completing the look with a chunky silver chain around his neck, dark round frame
 
 ## Example Output
 
-![Street Vibes: Defiance in Smoky Chaos](/images/portraits/pg-1992602230168641866.webp)
+![Street Vibes: Defiance in Smoky Chaos](/media/portraits/pg-1992602230168641866.webp)

@@ -5,7 +5,7 @@ tags: ["fashion","light","nano-banana-pro"]
 author: "@miilesus"
 author_url: "https://twitter.com/miilesus"
 source_url: "https://twitter.com/miilesus/status/1994433496186585544"
-preview: "/images/3d/pg-1994433496186585544.webp"
+preview: "/media/3d/pg-1994433496186585544.webp"
 ---
 
 A stunning young woman poses effortlessly with a glossy Winnie-the-Pooh, radiating a playful vibe in warm hues. Fashion meets nostalgia in this delightful shoot!
@@ -72,4 +72,4 @@ A stunning young woman poses effortlessly with a glossy Winnie-the-Pooh, radiati
 
 ## Example Output
 
-![Charming Colors and Characters Unite in Style!](/images/3d/pg-1994433496186585544.webp)
+![Charming Colors and Characters Unite in Style!](/media/3d/pg-1994433496186585544.webp)

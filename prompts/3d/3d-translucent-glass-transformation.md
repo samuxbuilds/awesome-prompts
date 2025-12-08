@@ -3,7 +3,7 @@ title: "3D Translucent Glass Transformation"
 category: 3d
 tags: ["3d", "glass"]
 author: "@azed_ai"
-preview: "/images/3d/3d-translucent-glass-transformation.webp"
+preview: "/media/3d/3d-translucent-glass-transformation.webp"
 ---
 
 A soft, 3D translucent glass of the attached image with a frosty matte finish and detailed texture, original colors, centered on a light gray background, floats gently in space, soft shadows, natural lighting
@@ -15,4 +15,4 @@ Need to upload a reference image of a physical object
 - [Original Post](https://x.com/azed_ai/status/1917948899098243407)
 
 ## Example Output
-![3D Translucent Glass Transformation](/images/3d/3d-translucent-glass-transformation.webp)
+![3D Translucent Glass Transformation](/media/3d/3d-translucent-glass-transformation.webp)

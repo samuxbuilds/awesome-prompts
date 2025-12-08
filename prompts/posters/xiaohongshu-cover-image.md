@@ -3,7 +3,7 @@ title: "Xiaohongshu Cover Image"
 category: posters
 tags: ["illustration", "icon", "character"]
 author: "@balconychy"
-preview: "/images/posters/xiaohongshu-cover-image.webp"
+preview: "/media/posters/xiaohongshu-cover-image.webp"
 ---
 
 Draw an image: Create a cover for a Xiaohongshu (RED) post.
@@ -31,4 +31,4 @@ Image aspect ratio: 9:16
 - [Original Post](https://x.com/balconychy/status/1905507936526627078)
 
 ## Example Output
-![Xiaohongshu Cover Image](/images/posters/xiaohongshu-cover-image.webp)
+![Xiaohongshu Cover Image](/media/posters/xiaohongshu-cover-image.webp)

@@ -3,7 +3,7 @@ title: "Physical Destruction Effect Card (Lara Croft)"
 category: creative
 tags: ["realistic", "illustration", "icon"]
 author: "@op7418"
-preview: "/images/creative/physical-destruction-effect-card-lara-croft.webp"
+preview: "/media/creative/physical-destruction-effect-card-lara-croft.webp"
 ---
 
 An ultra-photorealistic, cinematic-style illustration depicting Lara Croft dynamically bursting through the frame of an “Archaeological Adventure” trading card. She is caught mid-jump or swinging on a rope, wearing her iconic adventurer outfit and possibly firing dual pistols. The muzzle flashes help shatter the card’s ancient stone-carved border, creating a visible dimensional rupture with energy cracks and spatial distortions, scattering dust and debris outward.
@@ -20,4 +20,4 @@ The original tweet mentioned key terms are "dimensional break effects" and "moti
 - [Original Post](https://x.com/hc_dsn/status/1912367201476309396)
 
 ## Example Output
-![Physical Destruction Effect Card (Lara Croft)](/images/creative/physical-destruction-effect-card-lara-croft.webp)
+![Physical Destruction Effect Card (Lara Croft)](/media/creative/physical-destruction-effect-card-lara-croft.webp)

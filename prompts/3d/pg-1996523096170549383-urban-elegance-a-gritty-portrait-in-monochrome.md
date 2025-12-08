@@ -5,7 +5,7 @@ tags: ["portrait","urban","nano-banana-pro"]
 author: "@rovvmut_"
 author_url: "https://twitter.com/rovvmut_"
 source_url: "https://twitter.com/rovvmut_/status/1996523096170549383"
-preview: "/images/3d/pg-1996523096170549383.webp"
+preview: "/media/3d/pg-1996523096170549383.webp"
 ---
 
 A striking black and white portrait reveals a woman with short gray hair, exuding calm confidence. Set against an industrial backdrop, her thoughtful gaze hints at untold stories.
@@ -76,4 +76,4 @@ A striking black and white portrait reveals a woman with short gray hair, exudin
 
 ## Example Output
 
-![Urban Elegance: A Gritty Portrait in Monochrome](/images/3d/pg-1996523096170549383.webp)
+![Urban Elegance: A Gritty Portrait in Monochrome](/media/3d/pg-1996523096170549383.webp)

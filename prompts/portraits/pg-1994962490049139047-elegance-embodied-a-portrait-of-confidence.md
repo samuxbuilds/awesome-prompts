@@ -5,7 +5,7 @@ tags: ["portrait","light","pastel","vibrant","nano-banana-pro"]
 author: "@SimplyAnnisa"
 author_url: "https://twitter.com/SimplyAnnisa"
 source_url: "https://twitter.com/SimplyAnnisa/status/1994962490049139047"
-preview: "/images/portraits/pg-1994962490049139047.webp"
+preview: "/media/portraits/pg-1994962490049139047.webp"
 ---
 
 In a chic office bathed in soft daylight, a confident woman lounges on her table. Her pastel attire harmonizes with a vibrant, expressive portrait behind her, blending elegance with a bold flair.
@@ -20,4 +20,4 @@ Use the uploaded photo as the face reference for both the large painted portrait
 
 ## Example Output
 
-![Elegance Embodied: A Portrait of Confidence](/images/portraits/pg-1994962490049139047.webp)
+![Elegance Embodied: A Portrait of Confidence](/media/portraits/pg-1994962490049139047.webp)

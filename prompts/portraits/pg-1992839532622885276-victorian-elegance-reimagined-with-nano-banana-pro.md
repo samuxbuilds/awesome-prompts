@@ -5,7 +5,7 @@ tags: ["portrait","nano-banana-pro"]
 author: "@chatgptpaglu"
 author_url: "https://twitter.com/chatgptpaglu"
 source_url: "https://twitter.com/chatgptpaglu/status/1992839532622885276"
-preview: "/images/portraits/pg-1992839532622885276.webp"
+preview: "/media/portraits/pg-1992839532622885276.webp"
 ---
 
 A vision of grace, this portrait captures a woman adorned in a stunning teal Victorian gown, her soft gaze drifting into the lush, dreamlike background.
@@ -77,4 +77,4 @@ A vision of grace, this portrait captures a woman adorned in a stunning teal Vic
 
 ## Example Output
 
-![Victorian Elegance Reimagined with Nano Banana Pro](/images/portraits/pg-1992839532622885276.webp)
+![Victorian Elegance Reimagined with Nano Banana Pro](/media/portraits/pg-1992839532622885276.webp)

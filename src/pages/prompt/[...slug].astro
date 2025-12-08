@@ -35,6 +35,7 @@ interface Prompt {
   content: string;
   path: string;
   preview?: string;
+  previewVideo?: string;
 }
 
 interface Props {
@@ -61,8 +62,12 @@ const displayCategory = prompt.category.includes('/')
     <h1 data-pagefind-meta="title">{prompt.title}</h1>
     <p data-pagefind-filter="category" data-pagefind-meta="category">{prompt.category}</p>
     <p data-pagefind-meta="author">{prompt.author}</p>
+    <p data-pagefind-meta="tags">{prompt.tags.join(', ')}</p>
     {prompt.preview && (
       <img data-pagefind-meta="image" src={prompt.preview} alt="" />
+    )}
+    {prompt.previewVideo && (
+      <span data-pagefind-meta="video">{prompt.previewVideo}</span>
     )}
     {prompt.tags.map(tag => (
       <span data-pagefind-filter="tag">{tag}</span>
@@ -147,6 +152,27 @@ const displayCategory = prompt.category.includes('/')
           <ShareButtons title={prompt.title} url={promptUrl} />
         </div>
       </header>
+
+      <!-- Video Preview for Motion prompts -->
+      {prompt.previewVideo && prompt.category === 'motion' && (
+        <div class="mb-8 rounded-xl overflow-hidden neu-border neu-shadow">
+          <div class="relative aspect-video bg-gray-900">
+            <video 
+              src={prompt.previewVideo}
+              class="w-full h-full object-contain"
+              controls
+              autoplay
+              loop
+              muted
+              playsinline
+            ></video>
+            <div class="absolute top-3 right-3 bg-rose-500 text-white text-sm px-3 py-1 rounded-full font-medium flex items-center gap-1.5">
+              <svg class="w-4 h-4" fill="currentColor" viewBox="0 0 20 20"><polygon points="5,3 19,10 5,17"/></svg>
+              Motion Preview
+            </div>
+          </div>
+        </div>
+      )}
 
       <!-- Content Card - Modern styling -->
       <div class="bg-white dark:bg-gray-900 rounded-xl border border-gray-200 dark:border-gray-800 shadow-sm overflow-hidden mb-8">

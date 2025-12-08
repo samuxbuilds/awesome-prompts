@@ -5,7 +5,7 @@ tags: ["urban","nano-banana-pro"]
 author: "@egeberkina"
 author_url: "https://twitter.com/egeberkina"
 source_url: "https://twitter.com/egeberkina/status/1996500227323314613"
-preview: "/images/portraits/pg-1996500227323314613.webp"
+preview: "/media/portraits/pg-1996500227323314613.webp"
 ---
 
 Amid the soft urban glow, a stylish individual strides confidently, proclaiming 'gm gm' with a handwritten sign. The city buzzes around her, creating an inspiring scene.
@@ -104,4 +104,4 @@ Amid the soft urban glow, a stylish individual strides confidently, proclaiming 
 
 ## Example Output
 
-![Urban Charm: A Confident Morning Greeting 🌆](/images/portraits/pg-1996500227323314613.webp)
+![Urban Charm: A Confident Morning Greeting 🌆](/media/portraits/pg-1996500227323314613.webp)

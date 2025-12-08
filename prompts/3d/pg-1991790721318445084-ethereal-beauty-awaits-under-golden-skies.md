@@ -5,7 +5,7 @@ tags: ["nano-banana-pro"]
 author: "@haniya_445"
 author_url: "https://twitter.com/haniya_445"
 source_url: "https://twitter.com/haniya_445/status/1991790721318445084"
-preview: "/images/3d/pg-1991790721318445084.webp"
+preview: "/media/3d/pg-1991790721318445084.webp"
 ---
 
 Captured in a moment of serene grace, this enchanting figure embodies tranquility. Her flowing teal gown dances with the wind, echoing the golden hour's soft embrace.
@@ -20,4 +20,4 @@ Captured in a moment of serene grace, this enchanting figure embodies tranquilit
 
 ## Example Output
 
-![Ethereal Beauty Awaits Under Golden Skies](/images/3d/pg-1991790721318445084.webp)
+![Ethereal Beauty Awaits Under Golden Skies](/media/3d/pg-1991790721318445084.webp)

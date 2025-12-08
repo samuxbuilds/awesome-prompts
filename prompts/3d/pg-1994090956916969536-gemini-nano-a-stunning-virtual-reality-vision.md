@@ -5,7 +5,7 @@ tags: ["light","nano-banana-pro"]
 author: "@lexx_aura"
 author_url: "https://twitter.com/lexx_aura"
 source_url: "https://twitter.com/lexx_aura/status/1994090956916969536"
-preview: "/images/3d/pg-1994090956916969536.webp"
+preview: "/media/3d/pg-1994090956916969536.webp"
 ---
 
 Behold the striking beauty of Gemini Nano in a luxurious caramel ensemble! The model's alluring gaze and radiant skin create an unforgettable visual, accentuated by professional lighting and a pristine backdrop.
@@ -75,4 +75,4 @@ Behold the striking beauty of Gemini Nano in a luxurious caramel ensemble! The m
 
 ## Example Output
 
-![Gemini Nano: A Stunning Virtual Reality Vision](/images/3d/pg-1994090956916969536.webp)
+![Gemini Nano: A Stunning Virtual Reality Vision](/media/3d/pg-1994090956916969536.webp)

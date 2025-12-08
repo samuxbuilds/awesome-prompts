@@ -5,7 +5,7 @@ tags: ["colorful","nano-banana-pro"]
 author: "@planxyou"
 author_url: "https://twitter.com/planxyou"
 source_url: "https://twitter.com/planxyou/status/1992975148140396782"
-preview: "/images/creative/pg-1992975148140396782.webp"
+preview: "/media/creative/pg-1992975148140396782.webp"
 ---
 
 A burst of colorful charm awaits! This half-body character design captures playful emotions, adorned with iconic headgear and written in lively Chinese, perfect for your chats.
@@ -20,4 +20,4 @@ A burst of colorful charm awaits! This half-body character design captures playf
 
 ## Example Output
 
-![Whimsical LINE-Style Expressions in Vivid Detail](/images/creative/pg-1992975148140396782.webp)
+![Whimsical LINE-Style Expressions in Vivid Detail](/media/creative/pg-1992975148140396782.webp)

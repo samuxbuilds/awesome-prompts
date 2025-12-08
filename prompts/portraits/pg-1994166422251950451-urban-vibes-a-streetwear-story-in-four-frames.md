@@ -5,7 +5,7 @@ tags: ["urban","nano-banana-pro"]
 author: "@_MehdiSharifi_"
 author_url: "https://twitter.com/_MehdiSharifi_"
 source_url: "https://twitter.com/_MehdiSharifi_/status/1994166422251950451"
-preview: "/images/portraits/pg-1994166422251950451.webp"
+preview: "/media/portraits/pg-1994166422251950451.webp"
 ---
 
 Capturing the essence of city life, this 4-panel collage showcases a bold young woman in trendy streetwear, exuding confidence and style against an urban backdrop.
@@ -72,4 +72,4 @@ Capturing the essence of city life, this 4-panel collage showcases a bold young 
 
 ## Example Output
 
-![Urban Vibes: A Streetwear Story in Four Frames](/images/portraits/pg-1994166422251950451.webp)
+![Urban Vibes: A Streetwear Story in Four Frames](/media/portraits/pg-1994166422251950451.webp)

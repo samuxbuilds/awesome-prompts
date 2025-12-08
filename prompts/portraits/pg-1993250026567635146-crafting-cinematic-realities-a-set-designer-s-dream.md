@@ -5,7 +5,7 @@ tags: ["light","neon","nano-banana-pro"]
 author: "@IamEmily2050"
 author_url: "https://twitter.com/IamEmily2050"
 source_url: "https://twitter.com/IamEmily2050/status/1993250026567635146"
-preview: "/images/portraits/pg-1993250026567635146.webp"
+preview: "/media/portraits/pg-1993250026567635146.webp"
 ---
 
 Can a single image encapsulate a world of stories? This stunning render captures the essence of a detective's solitude, drenched in rain and neon light, each detail whispering mysteries untold.
@@ -41,4 +41,4 @@ Act as a professional set designer and director of photography. Given a short na
 
 ## Example Output
 
-![Crafting Cinematic Realities: A Set Designer's Dream](/images/portraits/pg-1993250026567635146.webp)
+![Crafting Cinematic Realities: A Set Designer's Dream](/media/portraits/pg-1993250026567635146.webp)

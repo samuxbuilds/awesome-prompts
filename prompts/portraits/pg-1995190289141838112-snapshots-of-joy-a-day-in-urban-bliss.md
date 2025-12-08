@@ -5,7 +5,7 @@ tags: ["urban","vibrant","nano-banana-pro"]
 author: "@IqraSaifiii"
 author_url: "https://twitter.com/IqraSaifiii"
 source_url: "https://twitter.com/IqraSaifiii/status/1995190289141838112"
-preview: "/images/portraits/pg-1995190289141838112.webp"
+preview: "/media/portraits/pg-1995190289141838112.webp"
 ---
 
 Four vibrant moments capture a young woman's laughter and thoughtfulness against a lively city backdrop, showcasing the essence of spontaneous joy.
@@ -53,4 +53,4 @@ Four vibrant moments capture a young woman's laughter and thoughtfulness against
 
 ## Example Output
 
-![Snapshots of Joy: A Day in Urban Bliss](/images/portraits/pg-1995190289141838112.webp)
+![Snapshots of Joy: A Day in Urban Bliss](/media/portraits/pg-1995190289141838112.webp)

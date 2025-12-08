@@ -5,7 +5,7 @@ tags: ["portrait","modern","light","nano-banana-pro"]
 author: "@kingofdairyque"
 author_url: "https://twitter.com/kingofdairyque"
 source_url: "https://twitter.com/kingofdairyque/status/1995719926993310177"
-preview: "/images/3d/pg-1995719926993310177.webp"
+preview: "/media/3d/pg-1995719926993310177.webp"
 ---
 
 Striking elegance meets bold attitude! This stunning figure embodies style with her tied blouse and flattering faux-leather trousers, captivating the lens with a fierce gaze.
@@ -26,4 +26,4 @@ Shot on a full-frame camera with an 85mm or 100mm prime lens, aperture f/2.8–f
 
 ## Example Output
 
-![Chic Confidence: A Modern Portrait in Dramatic Light](/images/3d/pg-1995719926993310177.webp)
+![Chic Confidence: A Modern Portrait in Dramatic Light](/media/3d/pg-1995719926993310177.webp)

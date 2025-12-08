@@ -5,7 +5,7 @@ tags: ["portrait","modern","light","nano-banana-pro"]
 author: "@mehvishs25"
 author_url: "https://twitter.com/mehvishs25"
 source_url: "https://twitter.com/mehvishs25/status/1994239249554788596"
-preview: "/images/portraits/pg-1994239249554788596.webp"
+preview: "/media/portraits/pg-1994239249554788596.webp"
 ---
 
 A striking young woman exudes self-assurance in her stylish yellow hoodie and chic rimless shades. The soft background highlights her voluminous hair and the understated elegance of her wristwatch.
@@ -27,4 +27,4 @@ The hoodie features a small "Shivay" logo on the front. The background is soft, 
 
 ## Example Output
 
-![Confidence in Cinematic Style: A Modern Portrait](/images/portraits/pg-1994239249554788596.webp)
+![Confidence in Cinematic Style: A Modern Portrait](/media/portraits/pg-1994239249554788596.webp)

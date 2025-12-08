@@ -5,7 +5,7 @@ tags: ["vibrant","nano-banana-pro"]
 author: "@CodeByPoonam"
 author_url: "https://twitter.com/CodeByPoonam"
 source_url: "https://twitter.com/CodeByPoonam/status/1991524634207088677"
-preview: "/images/posters/pg-1991524634207088677.webp"
+preview: "/media/posters/pg-1991524634207088677.webp"
 ---
 
 Who knew making matcha could be this easy? This vibrant infographic captures the essence of crafting your perfect cup, blending tradition with simplicity in seconds!
@@ -20,4 +20,4 @@ Create an infographic that shows how to make Matcha.
 
 ## Example Output
 
-![Crafting the Perfect Matcha: An Infographic Guide](/images/posters/pg-1991524634207088677.webp)
+![Crafting the Perfect Matcha: An Infographic Guide](/media/posters/pg-1991524634207088677.webp)

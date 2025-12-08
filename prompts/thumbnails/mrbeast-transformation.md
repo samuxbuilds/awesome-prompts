@@ -3,7 +3,7 @@ title: "MrBeast Style - Transformation"
 category: "thumbnails"
 tags: ["mrbeast", "youtube", "thumbnail", "transformation", "before-after"]
 author: "@samux"
-preview: "/images/thumbnails/mrbeast-transformation.webp"
+preview: "/media/thumbnails/mrbeast-transformation.webp"
 ---
 
 ```json
@@ -63,5 +63,5 @@ preview: "/images/thumbnails/mrbeast-transformation.webp"
 ```
 
 ## Example Output
-![MrBeast Transformation](/images/thumbnails/mrbeast-transformation.webp)
+![MrBeast Transformation](/media/thumbnails/mrbeast-transformation.webp)
 

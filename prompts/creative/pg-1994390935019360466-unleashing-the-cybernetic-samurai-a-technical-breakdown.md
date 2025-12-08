@@ -5,7 +5,7 @@ tags: ["dark","nano-banana-pro"]
 author: "@LudovicCreator"
 author_url: "https://twitter.com/LudovicCreator"
 source_url: "https://twitter.com/LudovicCreator/status/1994390935019360466"
-preview: "/images/creative/pg-1994390935019360466.webp"
+preview: "/media/creative/pg-1994390935019360466.webp"
 ---
 
 Marvel at the intricacy of the Cybernetic Samurai! Each labeled component, from the energy core katana to the neural processor, radiates a striking blend of graphite and crimson on a dark blueprint. Subtle glows and shadows enhance this futuristic masterpiece.
@@ -20,4 +20,4 @@ Create a detailed technical illustration of a Cybernetic Samurai, exploded into 
 
 ## Example Output
 
-![Unleashing the Cybernetic Samurai: A Technical Breakdown](/images/creative/pg-1994390935019360466.webp)
+![Unleashing the Cybernetic Samurai: A Technical Breakdown](/media/creative/pg-1994390935019360466.webp)

@@ -5,7 +5,7 @@ tags: ["vintage","modern","light","neon","vibrant","nano-banana-pro"]
 author: "@kingofdairyque"
 author_url: "https://twitter.com/kingofdairyque"
 source_url: "https://twitter.com/kingofdairyque/status/1993904258559693157"
-preview: "/images/3d/pg-1993904258559693157.webp"
+preview: "/media/3d/pg-1993904258559693157.webp"
 ---
 
 Captured in a moment of relaxed rebellion, this edgy scene unveils a dreamy figure lounging in a vibrant yellow car trunk, smoke curling through the night. Vintage vibes meet modern flair!
@@ -51,4 +51,4 @@ Captured in a moment of relaxed rebellion, this edgy scene unveils a dreamy figu
 
 ## Example Output
 
-![Chillin' Under Neon Lights: A Night in a Yellow Dream](/images/3d/pg-1993904258559693157.webp)
+![Chillin' Under Neon Lights: A Night in a Yellow Dream](/media/3d/pg-1993904258559693157.webp)

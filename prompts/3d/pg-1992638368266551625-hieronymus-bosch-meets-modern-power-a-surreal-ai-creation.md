@@ -5,7 +5,7 @@ tags: ["art","modern","fantasy","nano-banana-pro"]
 author: "@emrefiratyildiz"
 author_url: "https://twitter.com/emrefiratyildiz"
 source_url: "https://twitter.com/emrefiratyildiz/status/1992638368266551625"
-preview: "/images/3d/pg-1992638368266551625.webp"
+preview: "/media/3d/pg-1992638368266551625.webp"
 ---
 
 Can art capture the bizarre blend of power and fantasy? This striking image channels Bosch, showcasing a reptilian figure clutching the world, provoking thought on our leaders' influence.
@@ -21,4 +21,4 @@ That’s literally all I typed. And it produced something insanely strange. I ma
 
 ## Example Output
 
-![Hieronymus Bosch Meets Modern Power: A Surreal AI Creation](/images/3d/pg-1992638368266551625.webp)
+![Hieronymus Bosch Meets Modern Power: A Surreal AI Creation](/media/3d/pg-1992638368266551625.webp)

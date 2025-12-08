@@ -5,7 +5,7 @@ tags: ["cartoon","art","nature","vibrant","nano-banana-pro"]
 author: "@dotey"
 author_url: "https://twitter.com/dotey"
 source_url: "https://twitter.com/dotey/status/1991958132419919975"
-preview: "/images/portraits/pg-1991958132419919975.webp"
+preview: "/media/portraits/pg-1991958132419919975.webp"
 ---
 
 A captivating street mural blends beauty and nature, featuring a serene cartoon woman crowned with roses. The vibrant flowers intertwine with her flowing hair, set against a radiant blue sky and a bustling street. Pure artistic magic!
@@ -24,4 +24,4 @@ A captivating street mural blends beauty and nature, featuring a serene cartoon 
 
 ## Example Output
 
-![Blooming Whimsy: A Dreamy Rose Girl Mural](/images/portraits/pg-1991958132419919975.webp)
+![Blooming Whimsy: A Dreamy Rose Girl Mural](/media/portraits/pg-1991958132419919975.webp)

@@ -5,7 +5,7 @@ tags: ["fashion","vibrant","nano-banana-pro"]
 author: "@saniaspeaks_"
 author_url: "https://twitter.com/saniaspeaks_"
 source_url: "https://twitter.com/saniaspeaks_/status/1993885596985774186"
-preview: "/images/portraits/pg-1993885596985774186.webp"
+preview: "/media/portraits/pg-1993885596985774186.webp"
 ---
 
 Can you spot the evolution of style? This stunning grid captures a model dressed in iconic looks from the 1880s to the 2020s, showcasing fashion's vibrant history!
@@ -33,4 +33,4 @@ Can you spot the evolution of style? This stunning grid captures a model dressed
 
 ## Example Output
 
-![A Timeless Fashion Journey: 16 Eras in One Frame](/images/portraits/pg-1993885596985774186.webp)
+![A Timeless Fashion Journey: 16 Eras in One Frame](/media/portraits/pg-1993885596985774186.webp)

@@ -5,7 +5,7 @@ tags: ["portrait","urban","light","nano-banana-pro"]
 author: "@MindfulReturn"
 author_url: "https://twitter.com/MindfulReturn"
 source_url: "https://twitter.com/MindfulReturn/status/1996738867391852622"
-preview: "/images/portraits/pg-1996738867391852622.webp"
+preview: "/media/portraits/pg-1996738867391852622.webp"
 ---
 
 Soft hues and gentle lighting embrace a relaxed pose, revealing the beauty of simplicity. This urban-inspired portrait radiates warmth, inviting you to connect with its refined yet casual charm.
@@ -22,4 +22,4 @@ Soft hues and gentle lighting embrace a relaxed pose, revealing the beauty of si
 
 ## Example Output
 
-![A Breath of Urban Elegance: Capture Your Essence](/images/portraits/pg-1996738867391852622.webp)
+![A Breath of Urban Elegance: Capture Your Essence](/media/portraits/pg-1996738867391852622.webp)

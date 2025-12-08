@@ -5,7 +5,7 @@ tags: ["portrait","vintage","nano-banana-pro"]
 author: "@_imfaizan18"
 author_url: "https://twitter.com/_imfaizan18"
 source_url: "https://twitter.com/_imfaizan18/status/1995717860082249937"
-preview: "/images/3d/pg-1995717860082249937.webp"
+preview: "/media/3d/pg-1995717860082249937.webp"
 ---
 
 A striking blend of hyper-realism and gothic manga brings this calm portrait to life, framed by vintage library shadows and adorned with inked elegance.
@@ -94,4 +94,4 @@ A striking blend of hyper-realism and gothic manga brings this calm portrait to 
 
 ## Example Output
 
-![Gothic Elegance: A Portrait of Intellectual Beauty](/images/3d/pg-1995717860082249937.webp)
+![Gothic Elegance: A Portrait of Intellectual Beauty](/media/3d/pg-1995717860082249937.webp)

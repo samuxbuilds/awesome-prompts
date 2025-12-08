@@ -3,7 +3,7 @@ title: "Chibi Character Sticker Pack"
 category: 3d
 tags: ["chibi", "cartoon", "cute", "ghibli", "sticker"]
 author: "@leon_yuan2001"
-preview: "/images/3d/chibi-character-sticker-pack.webp"
+preview: "/media/3d/chibi-character-sticker-pack.webp"
 ---
 
 Please create a set of 9 Chibi stickers featuring [the character in the reference image], arranged in a 3x3 grid.
@@ -27,4 +27,4 @@ A character image needs to be uploaded as the main reference for creating the st
 - [Original Post](https://x.com/leon_yuan2001/status/1923712069209293014)
 
 ## Example Output
-![Chibi Character Sticker Pack](/images/3d/chibi-character-sticker-pack.webp)
+![Chibi Character Sticker Pack](/media/3d/chibi-character-sticker-pack.webp)

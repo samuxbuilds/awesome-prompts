@@ -3,7 +3,7 @@ title: "MrBeast Style - Survival Challenge"
 category: "thumbnails"
 tags: ["mrbeast", "youtube", "thumbnail", "survival", "challenge"]
 author: "@samux"
-preview: "/images/thumbnails/mrbeast-survival.webp"
+preview: "/media/thumbnails/mrbeast-survival.webp"
 ---
 
 ```json
@@ -74,4 +74,4 @@ preview: "/images/thumbnails/mrbeast-survival.webp"
 ```
 
 ## Example Output
-![MrBeast Survival](/images/thumbnails/mrbeast-survival.webp)
+![MrBeast Survival](/media/thumbnails/mrbeast-survival.webp)

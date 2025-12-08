@@ -3,7 +3,7 @@ title: "MrBeast Style - Construction/Cutaway"
 category: "thumbnails"
 tags: ["mrbeast", "youtube", "thumbnail", "cutaway", "underground"]
 author: "@samux"
-preview: "/images/thumbnails/mrbeast-construction.webp"
+preview: "/media/thumbnails/mrbeast-construction.webp"
 ---
 
 ```json
@@ -67,5 +67,5 @@ preview: "/images/thumbnails/mrbeast-construction.webp"
 ```
 
 ## Example Output
-![MrBeast Construction](/images/thumbnails/mrbeast-construction.webp)
+![MrBeast Construction](/media/thumbnails/mrbeast-construction.webp)
 

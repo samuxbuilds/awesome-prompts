@@ -3,7 +3,7 @@ title: "MrBeast Style - Face-Off"
 category: "thumbnails"
 tags: ["mrbeast", "youtube", "thumbnail", "competition", "versus"]
 author: "@samux"
-preview: "/images/thumbnails/mrbeast-face-off.webp"
+preview: "/media/thumbnails/mrbeast-face-off.webp"
 ---
 
 ```json
@@ -71,5 +71,5 @@ preview: "/images/thumbnails/mrbeast-face-off.webp"
 ```
 
 ## Example Output
-![MrBeast Face Off](/images/thumbnails/mrbeast-face-off.webp)
+![MrBeast Face Off](/media/thumbnails/mrbeast-face-off.webp)
 

@@ -5,7 +5,7 @@ tags: ["3d","miniature","modern","vibrant","nano-banana-pro"]
 author: "@aleenaamiir"
 author_url: "https://twitter.com/aleenaamiir"
 source_url: "https://twitter.com/aleenaamiir/status/1995334958974476770"
-preview: "/images/3d/pg-1995334958974476770.webp"
+preview: "/media/3d/pg-1995334958974476770.webp"
 ---
 
 Can a city’s vibe be captured in miniature? This stunning diorama boldly showcases a location's weather with intricate details, vibrant designs, and a sleek modern aesthetic.
@@ -20,4 +20,4 @@ Create a clean 45° isometric miniature diorama scene of [LOCATION], designed li
 
 ## Example Output
 
-![Miniature Metropolis: Real-Time Weather in 3D Brilliance](/images/3d/pg-1995334958974476770.webp)
+![Miniature Metropolis: Real-Time Weather in 3D Brilliance](/media/3d/pg-1995334958974476770.webp)

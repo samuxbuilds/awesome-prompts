@@ -5,7 +5,7 @@ tags: ["light","nano-banana-pro"]
 author: "@minchoi"
 author_url: "https://twitter.com/minchoi"
 source_url: "https://twitter.com/minchoi/status/1993897951983489134"
-preview: "/images/portraits/pg-1993897951983489134.webp"
+preview: "/media/portraits/pg-1993897951983489134.webp"
 ---
 
 A circle of friends glows in the firelight, sharing stories and laughter against the backdrop of the whispering waves. This beach bonfire ignites not just flames, but memories.
@@ -22,4 +22,4 @@ A low-light digital picture captures a group of friends laughing around a bonfir
 
 ## Example Output
 
-![Laughter and Flames: A Night by the Ocean](/images/portraits/pg-1993897951983489134.webp)
+![Laughter and Flames: A Night by the Ocean](/media/portraits/pg-1993897951983489134.webp)

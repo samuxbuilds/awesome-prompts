@@ -5,7 +5,7 @@ tags: ["portrait","urban","nano-banana-pro"]
 author: "@Taaruk_"
 author_url: "https://twitter.com/Taaruk_"
 source_url: "https://twitter.com/Taaruk_/status/1996916781475418441"
-preview: "/images/3d/pg-1996916781475418441.webp"
+preview: "/media/3d/pg-1996916781475418441.webp"
 ---
 
 Amidst the chaos of the city, one figure stands frozen in introspection. This cinematic portrait captures the profound stories hidden within the bustling streets.
@@ -73,4 +73,4 @@ Amidst the chaos of the city, one figure stands frozen in introspection. This ci
 
 ## Example Output
 
-![Silence Speaks: A Still Moment in the Urban Hustle](/images/3d/pg-1996916781475418441.webp)
+![Silence Speaks: A Still Moment in the Urban Hustle](/media/3d/pg-1996916781475418441.webp)

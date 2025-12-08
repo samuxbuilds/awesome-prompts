@@ -5,7 +5,7 @@ tags: ["nano-banana-pro"]
 author: "@rovvmut_"
 author_url: "https://twitter.com/rovvmut_"
 source_url: "https://twitter.com/rovvmut_/status/1996186327491162275"
-preview: "/images/portraits/pg-1996186327491162275.webp"
+preview: "/media/portraits/pg-1996186327491162275.webp"
 ---
 
 A serene Wednesday in March at a Marais café. A young woman stirs her cappuccino, lost in thought, while life buzzes around her, wrapped in the magic of crisp spring air.
@@ -20,4 +20,4 @@ Generate a photorealistic image of a cafe terrace in the Marais district of Pari
 
 ## Example Output
 
-![Café Vibes: Parisian Mornings Captured](/images/portraits/pg-1996186327491162275.webp)
+![Café Vibes: Parisian Mornings Captured](/media/portraits/pg-1996186327491162275.webp)

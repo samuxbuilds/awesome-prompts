@@ -3,7 +3,7 @@ title: "Physical Store/Travel Translation"
 category: creative
 tags: ["character", "ai-art"]
 author: "@nanobanana-pro"
-preview: "/images/creative/nb-physical-store-travel-translation.webp"
+preview: "/media/creative/nb-physical-store-travel-translation.webp"
 ---
 
 *Translates menus or signs while preserving the original surface texture (wall, paper, grease).*
@@ -14,4 +14,4 @@ Translate the Chinese dish names on the wall menu into English for foreign touri
 - [Original](https://mp.weixin.qq.com/s/lrYNbs4rGs3KOqewoZ6aNQ)
 
 ## Example Output
-![Physical Store/Travel Translation](/images/creative/nb-physical-store-travel-translation.webp)
+![Physical Store/Travel Translation](/media/creative/nb-physical-store-travel-translation.webp)

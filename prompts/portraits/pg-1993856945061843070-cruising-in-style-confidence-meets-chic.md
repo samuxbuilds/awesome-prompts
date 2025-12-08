@@ -5,7 +5,7 @@ tags: ["dark","nano-banana-pro"]
 author: "@SimplyAnnisa"
 author_url: "https://twitter.com/SimplyAnnisa"
 source_url: "https://twitter.com/SimplyAnnisa/status/1993856945061843070"
-preview: "/images/portraits/pg-1993856945061843070.webp"
+preview: "/media/portraits/pg-1993856945061843070.webp"
 ---
 
 Bold and striking, this confident beauty radiates charm atop a sleek dark yellow convertible. Her stylish ensemble and self-assured expression capture the essence of carefree elegance in a sunlit outdoor backdrop.
@@ -46,4 +46,4 @@ Bold and striking, this confident beauty radiates charm atop a sleek dark yellow
 
 ## Example Output
 
-![Cruising in Style: Confidence Meets Chic](/images/portraits/pg-1993856945061843070.webp)
+![Cruising in Style: Confidence Meets Chic](/media/portraits/pg-1993856945061843070.webp)

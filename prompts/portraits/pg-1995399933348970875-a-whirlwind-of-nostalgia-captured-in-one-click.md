@@ -5,7 +5,7 @@ tags: ["selfie","fantasy","vibrant","nano-banana-pro"]
 author: "@Harboris_27"
 author_url: "https://twitter.com/Harboris_27"
 source_url: "https://twitter.com/Harboris_27/status/1995399933348970875"
-preview: "/images/portraits/pg-1995399933348970875.webp"
+preview: "/media/portraits/pg-1995399933348970875.webp"
 ---
 
 What if your childhood characters came to life? This vibrant selfie blends reality and fantasy, showcasing a joyful moment amidst a bustling cast of beloved animated icons!
@@ -20,4 +20,4 @@ Uploaded Image with short curly hair, stubble, and a bright smile is taking a se
 
 ## Example Output
 
-![A Whirlwind of Nostalgia Captured in One Click](/images/portraits/pg-1995399933348970875.webp)
+![A Whirlwind of Nostalgia Captured in One Click](/media/portraits/pg-1995399933348970875.webp)

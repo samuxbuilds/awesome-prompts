@@ -5,7 +5,7 @@ tags: ["portrait","vibrant","nano-banana-pro"]
 author: "@ZaraIrahh"
 author_url: "https://twitter.com/ZaraIrahh"
 source_url: "https://twitter.com/ZaraIrahh/status/1996090542871150699"
-preview: "/images/3d/pg-1996090542871150699.webp"
+preview: "/media/3d/pg-1996090542871150699.webp"
 ---
 
 Surrounded by a vibrant bouquet of bougainvillea, this enchanting portrait captures a soft smile and a playful spirit, radiating springtime charm.
@@ -78,4 +78,4 @@ Surrounded by a vibrant bouquet of bougainvillea, this enchanting portrait captu
 
 ## Example Output
 
-![Blooming Beauty: A Portrait of Playfulness](/images/3d/pg-1996090542871150699.webp)
+![Blooming Beauty: A Portrait of Playfulness](/media/3d/pg-1996090542871150699.webp)

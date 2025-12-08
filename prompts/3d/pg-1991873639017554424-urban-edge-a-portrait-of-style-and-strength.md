@@ -5,7 +5,7 @@ tags: ["portrait","urban","nano-banana-pro"]
 author: "@Rania_22100"
 author_url: "https://twitter.com/Rania_22100"
 source_url: "https://twitter.com/Rania_22100/status/1991873639017554424"
-preview: "/images/3d/pg-1991873639017554424.webp"
+preview: "/media/3d/pg-1991873639017554424.webp"
 ---
 
 A charismatic figure exudes confidence against a shadowy metal backdrop. With premium shades and a sleek bomber jacket, he embodies the fusion of grit and glamour in this striking visual narrative.
@@ -20,4 +20,4 @@ Use my image in Hyper-ultra realistic 8K cinematic portrait, face unchanged from
 
 ## Example Output
 
-![Urban Edge: A Portrait of Style and Strength](/images/3d/pg-1991873639017554424.webp)
+![Urban Edge: A Portrait of Style and Strength](/media/3d/pg-1991873639017554424.webp)

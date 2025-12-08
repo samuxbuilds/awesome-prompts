@@ -5,7 +5,7 @@ tags: ["nano-banana-pro"]
 author: "@MJAMIV"
 author_url: "https://twitter.com/MJAMIV"
 source_url: "https://twitter.com/MJAMIV/status/1992048539552346331"
-preview: "/images/portraits/pg-1992048539552346331.webp"
+preview: "/media/portraits/pg-1992048539552346331.webp"
 ---
 
 Behold the beauty of structural mechanics! This shear and moment diagram illustrates the forces at play in a simply supported beam under uniform load. A true engineering masterpiece!
@@ -20,4 +20,4 @@ a shear and moment diagram for a simply supported beam with a uniform load of 10
 
 ## Example Output
 
-![Engineering Elegance: Shear and Moment Unveiled](/images/portraits/pg-1992048539552346331.webp)
+![Engineering Elegance: Shear and Moment Unveiled](/media/portraits/pg-1992048539552346331.webp)

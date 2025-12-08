@@ -5,7 +5,7 @@ tags: ["light","nano-banana-pro"]
 author: "@IamEmily2050"
 author_url: "https://twitter.com/IamEmily2050"
 source_url: "https://twitter.com/IamEmily2050/status/1994877948185514413"
-preview: "/images/portraits/pg-1994877948185514413.webp"
+preview: "/media/portraits/pg-1994877948185514413.webp"
 ---
 
 A striking silhouette against city lights, she exudes mystery and allure. The luxurious penthouse and dramatic shadows weave a narrative of sophistication.
@@ -102,4 +102,4 @@ A striking silhouette against city lights, she exudes mystery and allure. The lu
 
 ## Example Output
 
-![Unveiling Noir Elegance in a Rain-Kissed Cityscape](/images/portraits/pg-1994877948185514413.webp)
+![Unveiling Noir Elegance in a Rain-Kissed Cityscape](/media/portraits/pg-1994877948185514413.webp)

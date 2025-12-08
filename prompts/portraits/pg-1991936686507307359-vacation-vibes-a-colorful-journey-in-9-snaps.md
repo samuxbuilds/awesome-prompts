@@ -5,7 +5,7 @@ tags: ["selfie","colorful","nano-banana-pro"]
 author: "@ImagineArt_X"
 author_url: "https://twitter.com/ImagineArt_X"
 source_url: "https://twitter.com/ImagineArt_X/status/1991936686507307359"
-preview: "/images/portraits/pg-1991936686507307359.webp"
+preview: "/media/portraits/pg-1991936686507307359.webp"
 ---
 
 From mirror selfies to sunset skies, this grid captures the essence of a dream vacation. Each image tells a story of laughter, friendship, and unforgettable moments!
@@ -20,4 +20,4 @@ scenery shot, a public bus shot, a pet moment, a sunset, and a candid smile.
 
 ## Example Output
 
-![Vacation Vibes: A Colorful Journey in 9 Snaps! 🌈📸](/images/portraits/pg-1991936686507307359.webp)
+![Vacation Vibes: A Colorful Journey in 9 Snaps! 🌈📸](/media/portraits/pg-1991936686507307359.webp)

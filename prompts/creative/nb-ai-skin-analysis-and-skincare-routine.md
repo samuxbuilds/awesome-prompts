@@ -3,7 +3,7 @@ title: "AI Skin Analysis and Skincare Routine"
 category: creative
 tags: ["professional", "ai-art"]
 author: "@nanobanana-pro"
-preview: "/images/creative/nb-ai-skin-analysis-and-skincare-routine.webp"
+preview: "/media/creative/nb-ai-skin-analysis-and-skincare-routine.webp"
 ---
 
 *Analyze skin and provide routine recommendations*
@@ -38,4 +38,4 @@ If acne or irritation looks very severe or infected, clearly but kindly suggest 
 Keep the tone supportive, simple and clear.
 
 ## Example Output
-![AI Skin Analysis and Skincare Routine](/images/creative/nb-ai-skin-analysis-and-skincare-routine.webp)
+![AI Skin Analysis and Skincare Routine](/media/creative/nb-ai-skin-analysis-and-skincare-routine.webp)

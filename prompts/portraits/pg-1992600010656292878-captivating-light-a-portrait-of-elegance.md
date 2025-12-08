@@ -5,7 +5,7 @@ tags: ["portrait","light","nano-banana-pro"]
 author: "@SimplyAnnisa"
 author_url: "https://twitter.com/SimplyAnnisa"
 source_url: "https://twitter.com/SimplyAnnisa/status/1992600010656292878"
-preview: "/images/portraits/pg-1992600010656292878.webp"
+preview: "/media/portraits/pg-1992600010656292878.webp"
 ---
 
 A stunning portrayal of beauty, where the interplay of wind and light reveals a woman's striking features. Her luminous eyes and perfectly sculpted cheekbones draw you in, cloaked in shadow yet radiant.
@@ -20,4 +20,4 @@ Create an 8k photorealistic image using the attached photo. A close-up portrait 
 
 ## Example Output
 
-![Captivating Light: A Portrait of Elegance](/images/portraits/pg-1992600010656292878.webp)
+![Captivating Light: A Portrait of Elegance](/media/portraits/pg-1992600010656292878.webp)

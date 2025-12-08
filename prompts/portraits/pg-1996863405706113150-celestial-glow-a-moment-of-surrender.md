@@ -5,7 +5,7 @@ tags: ["minimal","light","nano-banana-pro"]
 author: "@AIwithkhan"
 author_url: "https://twitter.com/AIwithkhan"
 source_url: "https://twitter.com/AIwithkhan/status/1996863405706113150"
-preview: "/images/portraits/pg-1996863405706113150.webp"
+preview: "/media/portraits/pg-1996863405706113150.webp"
 ---
 
 In a minimalist sanctuary, golden rays embrace a woman's serene form, capturing a fleeting dance with light. Her elegance and the shadows intertwine, creating a timeless tableau of beauty.
@@ -20,4 +20,4 @@ A dramatic, ethereal portrait of a woman standing in a dark minimalist room, her
 
 ## Example Output
 
-![Celestial Glow: A Moment of Surrender](/images/portraits/pg-1996863405706113150.webp)
+![Celestial Glow: A Moment of Surrender](/media/portraits/pg-1996863405706113150.webp)

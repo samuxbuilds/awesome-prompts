@@ -5,7 +5,7 @@ tags: ["vintage","light","nano-banana-pro"]
 author: "@Harboris_27"
 author_url: "https://twitter.com/Harboris_27"
 source_url: "https://twitter.com/Harboris_27/status/1997136725143916720"
-preview: "/images/3d/pg-1997136725143916720.webp"
+preview: "/media/3d/pg-1997136725143916720.webp"
 ---
 
 In a moody haven, a solitary figure embodies elegance amidst shadows. With vintage charm and soft lighting, this scene whispers stories of quiet power and stylish reflection.
@@ -20,4 +20,4 @@ A dramatic overhead cinematic shot of a stylish individual seated alone on a vin
 
 ## Example Output
 
-![Cinematic Solitude: A Stylish Retreat](/images/3d/pg-1997136725143916720.webp)
+![Cinematic Solitude: A Stylish Retreat](/media/3d/pg-1997136725143916720.webp)

@@ -5,7 +5,7 @@ tags: ["digital-nomad", "coworking", "tropical", "lifestyle", "text-overlay"]
 author: "@levelsio"
 author_url: "https://x.com/levelsio"
 source_url: "https://x.com/levelsio/status/1997570538705911887"
-preview: "/images/portraits/digital-nomad-coworking.webp"
+preview: "/media/portraits/digital-nomad-coworking.webp"
 ---
 
 *Create a candid digital nomad workspace portrait with text overlay*
@@ -26,4 +26,4 @@ Small letters below: "(from a just graduated uni student)"
 
 ## Example Output
 
-![Digital Nomad Coworking](/images/portraits/digital-nomad-coworking.webp)
+![Digital Nomad Coworking](/media/portraits/digital-nomad-coworking.webp)

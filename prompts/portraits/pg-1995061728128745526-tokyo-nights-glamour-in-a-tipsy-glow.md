@@ -5,7 +5,7 @@ tags: ["neon","nano-banana-pro"]
 author: "@joonmts"
 author_url: "https://twitter.com/joonmts"
 source_url: "https://twitter.com/joonmts/status/1995061728128745526"
-preview: "/images/portraits/pg-1995061728128745526.webp"
+preview: "/media/portraits/pg-1995061728128745526.webp"
 ---
 
 Caught in the neon haze of Tokyo's nightlife, she embodies relaxed elegance—slouched, tipsy, and beautifully messy. A moment where glamour meets city vibes!
@@ -168,4 +168,4 @@ Caught in the neon haze of Tokyo's nightlife, she embodies relaxed elegance—sl
 
 ## Example Output
 
-![Tokyo Nights: Glamour in a Tipsy Glow](/images/portraits/pg-1995061728128745526.webp)
+![Tokyo Nights: Glamour in a Tipsy Glow](/media/portraits/pg-1995061728128745526.webp)

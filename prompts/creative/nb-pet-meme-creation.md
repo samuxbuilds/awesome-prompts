@@ -3,7 +3,7 @@ title: "Pet Meme Creation"
 category: creative
 tags: ["minimalist", "cute", "sticker", "animal"]
 author: "@nanobanana-pro"
-preview: "/images/creative/nb-pet-meme-creation.webp"
+preview: "/media/creative/nb-pet-meme-creation.webp"
 ---
 
 *Turns pet photos into minimalist, hand-drawn funny stickers.*
@@ -14,4 +14,4 @@ Turn this photo of my [cat/dog] into a funny hand-drawn WeChat sticker . Style :
 - [Original](https://mp.weixin.qq.com/s/lrYNbs4rGs3KOqewoZ6aNQ)
 
 ## Example Output
-![Pet Meme Creation](/images/creative/nb-pet-meme-creation.webp)
+![Pet Meme Creation](/media/creative/nb-pet-meme-creation.webp)

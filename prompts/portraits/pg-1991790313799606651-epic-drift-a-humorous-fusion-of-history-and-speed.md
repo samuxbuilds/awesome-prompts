@@ -5,7 +5,7 @@ tags: ["vintage","nano-banana-pro"]
 author: "@dotey"
 author_url: "https://twitter.com/dotey"
 source_url: "https://twitter.com/dotey/status/1991790313799606651"
-preview: "/images/portraits/pg-1991790313799606651.webp"
+preview: "/media/portraits/pg-1991790313799606651.webp"
 ---
 
 Who knew ancient warriors had such a flair for the fast lane? A dazzling sunset sets the stage as Liu Bei deftly maneuvers a red BMW, while his companions add comedic flair to this dynamic chase against Lü Bu on a vintage Harley!
@@ -33,4 +33,4 @@ Who knew ancient warriors had such a flair for the fast lane? A dazzling sunset 
 
 ## Example Output
 
-![Epic Drift: A Humorous Fusion of History and Speed](/images/portraits/pg-1991790313799606651.webp)
+![Epic Drift: A Humorous Fusion of History and Speed](/media/portraits/pg-1991790313799606651.webp)

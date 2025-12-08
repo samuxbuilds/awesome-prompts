@@ -5,7 +5,7 @@ tags: ["light","nano-banana-pro"]
 author: "@ShreyaYadav___"
 author_url: "https://twitter.com/ShreyaYadav___"
 source_url: "https://twitter.com/ShreyaYadav___/status/1992828036505280858"
-preview: "/images/portraits/pg-1992828036505280858.webp"
+preview: "/media/portraits/pg-1992828036505280858.webp"
 ---
 
 Effortless grace radiates as she leans against the garden's iron railing, draped in maroon velvet. The soft daylight casts a dreamy glow, highlighting her romantic expression amid lush greenery.
@@ -58,4 +58,4 @@ Effortless grace radiates as she leans against the garden's iron railing, draped
 
 ## Example Output
 
-![A Velvet Affair: Elegance in Bloom](/images/portraits/pg-1992828036505280858.webp)
+![A Velvet Affair: Elegance in Bloom](/media/portraits/pg-1992828036505280858.webp)

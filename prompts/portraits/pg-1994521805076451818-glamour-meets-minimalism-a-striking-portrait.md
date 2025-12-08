@@ -5,7 +5,7 @@ tags: ["portrait","minimal","nano-banana-pro"]
 author: "@IqraSaifiii"
 author_url: "https://twitter.com/IqraSaifiii"
 source_url: "https://twitter.com/IqraSaifiii/status/1994521805076451818"
-preview: "/images/portraits/pg-1994521805076451818.webp"
+preview: "/media/portraits/pg-1994521805076451818.webp"
 ---
 
 Elegance radiates as she captures the moment in a sleek black slip dress. The warm glow of her luxurious surroundings enhances her beauty, creating a breathtaking visual story.
@@ -31,4 +31,4 @@ Elegance radiates as she captures the moment in a sleek black slip dress. The wa
 
 ## Example Output
 
-![Glamour Meets Minimalism: A Striking Portrait](/images/portraits/pg-1994521805076451818.webp)
+![Glamour Meets Minimalism: A Striking Portrait](/media/portraits/pg-1994521805076451818.webp)

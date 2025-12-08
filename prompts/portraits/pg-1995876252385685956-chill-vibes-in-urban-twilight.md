@@ -5,7 +5,7 @@ tags: ["urban","light","nano-banana-pro"]
 author: "@Zar_xplorer"
 author_url: "https://twitter.com/Zar_xplorer"
 source_url: "https://twitter.com/Zar_xplorer/status/1995876252385685956"
-preview: "/images/portraits/pg-1995876252385685956.webp"
+preview: "/media/portraits/pg-1995876252385685956.webp"
 ---
 
 A moment of tranquility captured: a young man exudes calm with a gentle smile, nestled in an industrial backdrop where day meets night. Can you feel the evening breeze?
@@ -25,4 +25,4 @@ A moment of tranquility captured: a young man exudes calm with a gentle smile, n
 
 ## Example Output
 
-![Chill Vibes in Urban Twilight](/images/portraits/pg-1995876252385685956.webp)
+![Chill Vibes in Urban Twilight](/media/portraits/pg-1995876252385685956.webp)

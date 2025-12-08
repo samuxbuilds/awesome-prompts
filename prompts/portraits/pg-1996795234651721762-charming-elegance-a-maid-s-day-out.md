@@ -5,7 +5,7 @@ tags: ["art","light","vibrant","nano-banana-pro"]
 author: "@MANISH1027512"
 author_url: "https://twitter.com/MANISH1027512"
 source_url: "https://twitter.com/MANISH1027512/status/1996795234651721762"
-preview: "/images/portraits/pg-1996795234651721762.webp"
+preview: "/media/portraits/pg-1996795234651721762.webp"
 ---
 
 Beneath a canopy of festival flags, a young beauty captures hearts in her stylish maid ensemble. With light-brown waves and playful makeup, she embodies grace and charm against a vibrant outdoor café backdrop.
@@ -32,4 +32,4 @@ Atmosphere: lively, warm, romantic, playful festival vibe.
 
 ## Example Output
 
-![Charming Elegance: A Maid's Day Out](/images/portraits/pg-1996795234651721762.webp)
+![Charming Elegance: A Maid's Day Out](/media/portraits/pg-1996795234651721762.webp)

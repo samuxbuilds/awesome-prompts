@@ -3,7 +3,7 @@ title: "Cinematic Keyframe Generator"
 category: creative
 tags: ["realistic", "film", "character", "animal", "cinematic"]
 author: "@nanobanana-pro"
-preview: "/images/creative/nb-cinematic-keyframe-generator.webp"
+preview: "/media/creative/nb-cinematic-keyframe-generator.webp"
 ---
 
 *Generates cinematic keyframes and storyboards from a reference image*
@@ -94,4 +94,4 @@ E) ONE Master Contact Sheet Image (All KFs in one grid)
 - [Original](https://x.com/underwoodxie96/status/1995109628825489647)
 
 ## Example Output
-![Cinematic Keyframe Generator](/images/creative/nb-cinematic-keyframe-generator.webp)
+![Cinematic Keyframe Generator](/media/creative/nb-cinematic-keyframe-generator.webp)

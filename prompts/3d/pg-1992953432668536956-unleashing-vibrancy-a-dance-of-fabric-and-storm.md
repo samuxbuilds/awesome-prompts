@@ -5,7 +5,7 @@ tags: ["nano-banana-pro"]
 author: "@ShreyaYadav___"
 author_url: "https://twitter.com/ShreyaYadav___"
 source_url: "https://twitter.com/ShreyaYadav___/status/1992953432668536956"
-preview: "/images/3d/pg-1992953432668536956.webp"
+preview: "/media/3d/pg-1992953432668536956.webp"
 ---
 
 A striking scene unfolds as a young woman navigates a swirling tempest of tangerine fabric. The dramatic sky amplifies the surreal energy, while elegance meets chaos in this captivating visual tale.
@@ -30,4 +30,4 @@ High-Resolution Full-Frame Digital SLR or Mirrorless Camera ( Canon R). A medium
 
 ## Example Output
 
-![Unleashing Vibrancy: A Dance of Fabric and Storm](/images/3d/pg-1992953432668536956.webp)
+![Unleashing Vibrancy: A Dance of Fabric and Storm](/media/3d/pg-1992953432668536956.webp)

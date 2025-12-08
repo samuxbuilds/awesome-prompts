@@ -5,7 +5,7 @@ tags: ["anime","nano-banana-pro"]
 author: "@NoOneIsHere2603"
 author_url: "https://twitter.com/NoOneIsHere2603"
 source_url: "https://twitter.com/NoOneIsHere2603/status/1995850755132326311"
-preview: "/images/3d/pg-1995850755132326311.webp"
+preview: "/media/3d/pg-1995850755132326311.webp"
 ---
 
 Under a shimmering aurora, a lone figure finds solace on a snowy peak. The full moon and stars blanket the night, whispering tranquility as 'おやすみ' floats beneath a crescent moon.
@@ -21,4 +21,4 @@ Good Night.
 
 ## Example Output
 
-![Moonlit Dreams: A Serene Anime Escape](/images/3d/pg-1995850755132326311.webp)
+![Moonlit Dreams: A Serene Anime Escape](/media/3d/pg-1995850755132326311.webp)

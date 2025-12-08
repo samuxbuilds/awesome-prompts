@@ -5,7 +5,7 @@ tags: ["portrait","light","nano-banana-pro"]
 author: "@xmiiru_"
 author_url: "https://twitter.com/xmiiru_"
 source_url: "https://twitter.com/xmiiru_/status/1992838971030647050"
-preview: "/images/3d/pg-1992838971030647050.webp"
+preview: "/media/3d/pg-1992838971030647050.webp"
 ---
 
 A serene portrait captures the essence of morning bliss, where soft sunlight dances on gentle features, inviting warmth and comfort. Feel the sweet tranquility of this intimate moment.
@@ -60,4 +60,4 @@ A serene portrait captures the essence of morning bliss, where soft sunlight dan
 
 ## Example Output
 
-![Monday Mood: A Cozy Dreamscape in Soft Sunlight](/images/3d/pg-1992838971030647050.webp)
+![Monday Mood: A Cozy Dreamscape in Soft Sunlight](/media/3d/pg-1992838971030647050.webp)

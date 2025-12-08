@@ -5,7 +5,7 @@ tags: ["nano-banana-pro"]
 author: "@dejavucoder"
 author_url: "https://twitter.com/dejavucoder"
 source_url: "https://twitter.com/dejavucoder/status/1995163677608304966"
-preview: "/images/3d/pg-1995163677608304966.webp"
+preview: "/media/3d/pg-1995163677608304966.webp"
 ---
 
 A graceful figure in a flowing kimono, against the majestic backdrop of Mount Fuji, captures the essence of tranquility.
@@ -59,4 +59,4 @@ A graceful figure in a flowing kimono, against the majestic backdrop of Mount Fu
 
 ## Example Output
 
-![Serenity at Fuji: A Moment of Pure Bliss](/images/3d/pg-1995163677608304966.webp)
+![Serenity at Fuji: A Moment of Pure Bliss](/media/3d/pg-1995163677608304966.webp)

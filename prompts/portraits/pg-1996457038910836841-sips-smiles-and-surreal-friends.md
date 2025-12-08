@@ -5,7 +5,7 @@ tags: ["cartoon","art","vibrant","nano-banana-pro"]
 author: "@ShreyaYadav___"
 author_url: "https://twitter.com/ShreyaYadav___"
 source_url: "https://twitter.com/ShreyaYadav___/status/1996457038910836841"
-preview: "/images/portraits/pg-1996457038910836841.webp"
+preview: "/media/portraits/pg-1996457038910836841.webp"
 ---
 
 A cozy coffee scene bursts with warmth! Meet a young woman and her vibrant buddy Oggie, both radiating joy. The playful blend of reality and cartoon magic sparks creativity!
@@ -45,4 +45,4 @@ A cozy coffee scene bursts with warmth! Meet a young woman and her vibrant buddy
 
 ## Example Output
 
-![Sips, Smiles, and Surreal Friends](/images/portraits/pg-1996457038910836841.webp)
+![Sips, Smiles, and Surreal Friends](/media/portraits/pg-1996457038910836841.webp)

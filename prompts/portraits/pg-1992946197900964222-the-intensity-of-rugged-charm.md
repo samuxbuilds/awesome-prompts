@@ -5,7 +5,7 @@ tags: ["realistic","light","nano-banana-pro"]
 author: "@lexx_aura"
 author_url: "https://twitter.com/lexx_aura"
 source_url: "https://twitter.com/lexx_aura/status/1992946197900964222"
-preview: "/images/portraits/pg-1992946197900964222.webp"
+preview: "/media/portraits/pg-1992946197900964222.webp"
 ---
 
 A piercing gaze meets the lens in this hyper-realistic close-up. With dramatic shadows and warm highlights, every pore tells a story of rugged adventure.
@@ -72,4 +72,4 @@ A piercing gaze meets the lens in this hyper-realistic close-up. With dramatic s
 
 ## Example Output
 
-![The Intensity of Rugged Charm](/images/portraits/pg-1992946197900964222.webp)
+![The Intensity of Rugged Charm](/media/portraits/pg-1992946197900964222.webp)

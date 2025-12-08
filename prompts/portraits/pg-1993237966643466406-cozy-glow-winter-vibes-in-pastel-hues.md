@@ -5,7 +5,7 @@ tags: ["portrait","light","pastel","nano-banana-pro"]
 author: "@SimplyAnnisa"
 author_url: "https://twitter.com/SimplyAnnisa"
 source_url: "https://twitter.com/SimplyAnnisa/status/1993237966643466406"
-preview: "/images/portraits/pg-1993237966643466406.webp"
+preview: "/media/portraits/pg-1993237966643466406.webp"
 ---
 
 Breathe in the warmth of winter! A dreamy portrait captures a young woman in a soft, oversized hoodie, exuding comfort against a backdrop of blurred snowy trees kissed by sunlight.
@@ -20,4 +20,4 @@ Cute and aesthetic winter portrait featuring a woman in an oversized pastel hood
 
 ## Example Output
 
-![Cozy Glow: Winter Vibes in Pastel Hues](/images/portraits/pg-1993237966643466406.webp)
+![Cozy Glow: Winter Vibes in Pastel Hues](/media/portraits/pg-1993237966643466406.webp)

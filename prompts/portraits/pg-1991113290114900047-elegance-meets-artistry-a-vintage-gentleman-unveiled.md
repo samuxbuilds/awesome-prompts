@@ -5,7 +5,7 @@ tags: ["illustration","art","vintage","nano-banana-pro"]
 author: "@ShreyaYadav___"
 author_url: "https://twitter.com/ShreyaYadav___"
 source_url: "https://twitter.com/ShreyaYadav___/status/1991113290114900047"
-preview: "/images/portraits/pg-1991113290114900047.webp"
+preview: "/media/portraits/pg-1991113290114900047.webp"
 ---
 
 Gaze upon this stunning vintage pencil illustration, where timeless attire meets intricate geometric elegance. A classic gentleman rests on a beautifully textured paper, enveloped by enchanting Arabesque patterns that elevate his poised demeanor.
@@ -20,4 +20,4 @@ Gaze upon this stunning vintage pencil illustration, where timeless attire meets
 
 ## Example Output
 
-![Elegance Meets Artistry: A Vintage Gentleman Unveiled](/images/portraits/pg-1991113290114900047.webp)
+![Elegance Meets Artistry: A Vintage Gentleman Unveiled](/media/portraits/pg-1991113290114900047.webp)

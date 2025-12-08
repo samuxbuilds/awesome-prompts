@@ -5,7 +5,7 @@ tags: ["art","modern","fashion","nano-banana-pro"]
 author: "@ShreyaYadav___"
 author_url: "https://twitter.com/ShreyaYadav___"
 source_url: "https://twitter.com/ShreyaYadav___/status/1997266221998428639"
-preview: "/images/portraits/pg-1997266221998428639.webp"
+preview: "/media/portraits/pg-1997266221998428639.webp"
 ---
 
 A striking collage comes alive with a singular face, showcasing modern elegance in every detail. From fashion-forward glasses to casual chic, this artwork reshapes identity in stunning 64K clarity!
@@ -53,4 +53,4 @@ A striking collage comes alive with a singular face, showcasing modern elegance 
 
 ## Example Output
 
-![Contemporary Canvas: A Stylish Fusion of Identity](/images/portraits/pg-1997266221998428639.webp)
+![Contemporary Canvas: A Stylish Fusion of Identity](/media/portraits/pg-1997266221998428639.webp)

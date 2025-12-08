@@ -5,7 +5,7 @@ tags: ["portrait","dark","light","nano-banana-pro"]
 author: "@SimplyAnnisa"
 author_url: "https://twitter.com/SimplyAnnisa"
 source_url: "https://twitter.com/SimplyAnnisa/status/1995131975351562274"
-preview: "/images/3d/pg-1995131975351562274.webp"
+preview: "/media/3d/pg-1995131975351562274.webp"
 ---
 
 A striking portrait emerges from darkness, featuring a shy figure cloaked in black, captivating with piercing eyes and a tender gesture. The sharp spotlight draws you into her mysterious allure.
@@ -34,4 +34,4 @@ Everything outside the spotlight should be nearly invisible.
 
 ## Example Output
 
-![Enigmatic Elegance in Shadows](/images/3d/pg-1995131975351562274.webp)
+![Enigmatic Elegance in Shadows](/media/3d/pg-1995131975351562274.webp)

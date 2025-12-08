@@ -5,7 +5,7 @@ tags: ["portrait","light","nano-banana-pro"]
 author: "@AIByAbbay"
 author_url: "https://twitter.com/AIByAbbay"
 source_url: "https://twitter.com/AIByAbbay/status/1996781322505744895"
-preview: "/images/portraits/pg-1996781322505744895.webp"
+preview: "/media/portraits/pg-1996781322505744895.webp"
 ---
 
 Can you feel the tension in the air? This stunning portrait captures a woman with long black hair, her captivating light eyes sparkling under a dramatic diagonal beam of light, emphasizing her features in a beautifully moody atmosphere.
@@ -20,4 +20,4 @@ Create an 8K photoreal portrait of a woman (face characteristics 100% same as up
 
 ## Example Output
 
-![Radiant Shadows: A Noir Portrait of Elegance](/images/portraits/pg-1996781322505744895.webp)
+![Radiant Shadows: A Noir Portrait of Elegance](/media/portraits/pg-1996781322505744895.webp)

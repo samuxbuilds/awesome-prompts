@@ -5,7 +5,7 @@ tags: ["portrait","light","nano-banana-pro"]
 author: "@saniaspeaks_"
 author_url: "https://twitter.com/saniaspeaks_"
 source_url: "https://twitter.com/saniaspeaks_/status/1993923107040481328"
-preview: "/images/portraits/pg-1993923107040481328.webp"
+preview: "/media/portraits/pg-1993923107040481328.webp"
 ---
 
 Captured in the serene embrace of twilight, a girl exudes quiet confidence. Her thoughtful gaze and stylish attire shimmer under the soft blue light, creating a dreamy atmosphere filled with enchanting bokeh.
@@ -52,4 +52,4 @@ Captured in the serene embrace of twilight, a girl exudes quiet confidence. Her 
 
 ## Example Output
 
-![Blue Hour Elegance: A Cinematic Portrait](/images/portraits/pg-1993923107040481328.webp)
+![Blue Hour Elegance: A Cinematic Portrait](/media/portraits/pg-1993923107040481328.webp)

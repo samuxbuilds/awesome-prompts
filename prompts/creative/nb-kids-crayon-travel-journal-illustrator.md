@@ -3,7 +3,7 @@ title: "Kids' Crayon Travel Journal Illustrator"
 category: creative
 tags: ["cute", "illustration", "sticker", "icon", "character"]
 author: "@nanobanana-pro"
-preview: "/images/creative/nb-kids-crayon-travel-journal-illustrator.webp"
+preview: "/media/creative/nb-kids-crayon-travel-journal-illustrator.webp"
 ---
 
 *Generate a childlike travel journal illustration for a city*
@@ -75,4 +75,4 @@ III. Overall Art Style Requirements
 - [Original](https://x.com/dotey/status/1994908289813880915)
 
 ## Example Output
-![Kids' Crayon Travel Journal Illustrator](/images/creative/nb-kids-crayon-travel-journal-illustrator.webp)
+![Kids' Crayon Travel Journal Illustrator](/media/creative/nb-kids-crayon-travel-journal-illustrator.webp)

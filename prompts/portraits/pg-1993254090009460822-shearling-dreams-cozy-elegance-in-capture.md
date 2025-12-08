@@ -5,7 +5,7 @@ tags: ["light","nano-banana-pro"]
 author: "@kingofdairyque"
 author_url: "https://twitter.com/kingofdairyque"
 source_url: "https://twitter.com/kingofdairyque/status/1993254090009460822"
-preview: "/images/portraits/pg-1993254090009460822.webp"
+preview: "/media/portraits/pg-1993254090009460822.webp"
 ---
 
 A serene moment unfolds as the model lounges in soft textures, chicly styled in cream shearling and denim. The gentle interplay of light highlights every fluffy detail, inviting you to feel the warmth.
@@ -20,4 +20,4 @@ Editorial fashion photo, medium portrait, seated model wearing a cream shearling
 
 ## Example Output
 
-![Shearling Dreams: Cozy Elegance in Capture](/images/portraits/pg-1993254090009460822.webp)
+![Shearling Dreams: Cozy Elegance in Capture](/media/portraits/pg-1993254090009460822.webp)

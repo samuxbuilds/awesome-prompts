@@ -5,7 +5,7 @@ tags: ["portrait","light","nano-banana-pro"]
 author: "@saniaspeaks_"
 author_url: "https://twitter.com/saniaspeaks_"
 source_url: "https://twitter.com/saniaspeaks_/status/1996575077132017665"
-preview: "/images/portraits/pg-1996575077132017665.webp"
+preview: "/media/portraits/pg-1996575077132017665.webp"
 ---
 
 Highlighting a striking fusion of light and shadow, this portrait captures a model’s thoughtful essence, cloaked in chic black and enveloped in ethereal hues.
@@ -27,4 +27,4 @@ Highlighting a striking fusion of light and shadow, this portrait captures a mod
 
 ## Example Output
 
-![Golden Glow Meets Cool Green: A Portrait of Contemplation](/images/portraits/pg-1996575077132017665.webp)
+![Golden Glow Meets Cool Green: A Portrait of Contemplation](/media/portraits/pg-1996575077132017665.webp)

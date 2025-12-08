@@ -5,7 +5,7 @@ tags: ["selfie","nano-banana-pro"]
 author: "@chatgptpaglu"
 author_url: "https://twitter.com/chatgptpaglu"
 source_url: "https://twitter.com/chatgptpaglu/status/1996427496904908959"
-preview: "/images/portraits/pg-1996427496904908959.webp"
+preview: "/media/portraits/pg-1996427496904908959.webp"
 ---
 
 Caught in a moment of playful innocence, this young woman flaunts a striking contrast between her angelic gaze and daring outfit.
@@ -104,4 +104,4 @@ Caught in a moment of playful innocence, this young woman flaunts a striking con
 
 ## Example Output
 
-![Banana Chic: The Sweetest Bathroom Selfie](/images/portraits/pg-1996427496904908959.webp)
+![Banana Chic: The Sweetest Bathroom Selfie](/media/portraits/pg-1996427496904908959.webp)

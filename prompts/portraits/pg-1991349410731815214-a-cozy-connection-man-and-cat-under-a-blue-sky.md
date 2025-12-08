@@ -5,7 +5,7 @@ tags: ["portrait","art","nano-banana-pro"]
 author: "@Sheldon056"
 author_url: "https://twitter.com/Sheldon056"
 source_url: "https://twitter.com/Sheldon056/status/1991349410731815214"
-preview: "/images/portraits/pg-1991349410731815214.webp"
+preview: "/media/portraits/pg-1991349410731815214.webp"
 ---
 
 Sunlit smiles and enchanting emerald eyes create a heartwarming bond. This intimate portrait captures a young man and his curious gray cat, radiating warmth and friendship.
@@ -20,4 +20,4 @@ Sunlit smiles and enchanting emerald eyes create a heartwarming bond. This intim
 
 ## Example Output
 
-![A Cozy Connection: Man and Cat Under a Blue Sky](/images/portraits/pg-1991349410731815214.webp)
+![A Cozy Connection: Man and Cat Under a Blue Sky](/media/portraits/pg-1991349410731815214.webp)

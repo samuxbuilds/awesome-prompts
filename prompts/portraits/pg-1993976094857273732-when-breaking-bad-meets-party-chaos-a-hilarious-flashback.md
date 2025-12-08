@@ -5,7 +5,7 @@ tags: ["art","nano-banana-pro"]
 author: "@Arminn_Ai"
 author_url: "https://twitter.com/Arminn_Ai"
 source_url: "https://twitter.com/Arminn_Ai/status/1993976094857273732"
-preview: "/images/portraits/pg-1993976094857273732.webp"
+preview: "/media/portraits/pg-1993976094857273732.webp"
 ---
 
 A glimpse of post-party pandemonium where Walter’s seriousness collides with chaotic hilarity! Who knew the Heisenberg crew could throw a bash this wild?
@@ -36,4 +36,4 @@ Shot on disposable camera film, harsh flash, slightly off-center framing, realis
 
 ## Example Output
 
-![When Breaking Bad Meets Party Chaos: A Hilarious Flashback](/images/portraits/pg-1993976094857273732.webp)
+![When Breaking Bad Meets Party Chaos: A Hilarious Flashback](/media/portraits/pg-1993976094857273732.webp)

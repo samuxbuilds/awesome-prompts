@@ -5,7 +5,7 @@ tags: ["light","nano-banana-pro"]
 author: "@ZaraIrahh"
 author_url: "https://twitter.com/ZaraIrahh"
 source_url: "https://twitter.com/ZaraIrahh/status/1994342814646153476"
-preview: "/images/portraits/pg-1994342814646153476.webp"
+preview: "/media/portraits/pg-1994342814646153476.webp"
 ---
 
 Soft sunlight dances through sheer curtains, illuminating a serene face. The relaxed pose and gentle expression create an intimate vibe, inviting you into this tranquil moment.
@@ -67,4 +67,4 @@ Soft sunlight dances through sheer curtains, illuminating a serene face. The rel
 
 ## Example Output
 
-![Chasing Light: A Cozy Moment with Gemini Nano Banana 3.0](/images/portraits/pg-1994342814646153476.webp)
+![Chasing Light: A Cozy Moment with Gemini Nano Banana 3.0](/media/portraits/pg-1994342814646153476.webp)

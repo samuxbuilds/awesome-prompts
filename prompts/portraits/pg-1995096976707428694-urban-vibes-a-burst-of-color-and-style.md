@@ -5,7 +5,7 @@ tags: ["urban","nano-banana-pro"]
 author: "@Harboris_27"
 author_url: "https://twitter.com/Harboris_27"
 source_url: "https://twitter.com/Harboris_27/status/1995096976707428694"
-preview: "/images/portraits/pg-1995096976707428694.webp"
+preview: "/media/portraits/pg-1995096976707428694.webp"
 ---
 
 Street style reaches new heights! This striking outfit, with its oversized gradient hoodie, high-waisted cargo pants, and classic sneakers, radiates urban energy and creativity.
@@ -20,4 +20,4 @@ A stylish urban fashion photograph showcasing a modern outfit with an oversized 
 
 ## Example Output
 
-![Urban Vibes: A Burst of Color and Style](/images/portraits/pg-1995096976707428694.webp)
+![Urban Vibes: A Burst of Color and Style](/media/portraits/pg-1995096976707428694.webp)

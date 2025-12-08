@@ -5,7 +5,7 @@ tags: ["vibrant","nano-banana-pro"]
 author: "@SaasJunctionHQ"
 author_url: "https://twitter.com/SaasJunctionHQ"
 source_url: "https://twitter.com/SaasJunctionHQ/status/1991568652882309461"
-preview: "/images/3d/pg-1991568652882309461.webp"
+preview: "/media/3d/pg-1991568652882309461.webp"
 ---
 
 Bold logos and playful icons dance across a creamy canvas, revealing the top 20 beverage titans. A vibrant infographic that celebrates industry growth with style!
@@ -26,4 +26,4 @@ The overall style should be corporate but playful, 2D vector art, high contrast,
 
 ## Example Output
 
-![Sipping on Success: The Beverage Giants Unveiled](/images/3d/pg-1991568652882309461.webp)
+![Sipping on Success: The Beverage Giants Unveiled](/media/3d/pg-1991568652882309461.webp)

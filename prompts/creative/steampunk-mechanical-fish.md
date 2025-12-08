@@ -3,7 +3,7 @@ title: "Steampunk Mechanical Fish"
 category: creative
 tags: ["glass", "steampunk"]
 author: "@f-is-h"
-preview: "/images/creative/steampunk-mechanical-fish.webp"
+preview: "/media/creative/steampunk-mechanical-fish.webp"
 ---
 
 A steampunk-style mechanical fish with a brass body and clearly visible gear mechanisms when in motion.
@@ -18,7 +18,7 @@ The entire fish looks very cool. This is a high-definition image with extremely 
 This image showcases an excellent combination of steampunk style and metallic textures, presenting intricate mechanical details and a retro-futuristic aesthetic.
 
 ## Source
-- [Original Post](https://github.com/f-is-h/f-is-h/blob/main/images/streampank-fish-4.webp)
+- [Original Post](https://github.com/f-is-h/f-is-h/blob/main/media/streampank-fish-4.webp)
 
 ## Example Output
-![Steampunk Mechanical Fish](/images/creative/steampunk-mechanical-fish.webp)
+![Steampunk Mechanical Fish](/media/creative/steampunk-mechanical-fish.webp)

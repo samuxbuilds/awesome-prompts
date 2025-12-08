@@ -5,7 +5,7 @@ tags: ["light","nano-banana-pro"]
 author: "@lexx_aura"
 author_url: "https://twitter.com/lexx_aura"
 source_url: "https://twitter.com/lexx_aura/status/1995087662882213894"
-preview: "/images/3d/pg-1995087662882213894.webp"
+preview: "/media/3d/pg-1995087662882213894.webp"
 ---
 
 A striking figure captivates the lens in a form-fitting sequined dress, exuding confidence. The play of dramatic lighting accentuates her sultry features, crafting an intimate allure.
@@ -51,4 +51,4 @@ Quality_Tags=Lifelike lighting, 8k realism, ultra-detailed
 
 ## Example Output
 
-![Glamour Unveiled: The Allure of Sequins](/images/3d/pg-1995087662882213894.webp)
+![Glamour Unveiled: The Allure of Sequins](/media/3d/pg-1995087662882213894.webp)

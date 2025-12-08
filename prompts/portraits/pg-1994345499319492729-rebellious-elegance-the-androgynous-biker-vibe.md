@@ -5,7 +5,7 @@ tags: ["portrait","urban","nano-banana-pro"]
 author: "@xmliisu"
 author_url: "https://twitter.com/xmliisu"
 source_url: "https://twitter.com/xmliisu/status/1994345499319492729"
-preview: "/images/portraits/pg-1994345499319492729.webp"
+preview: "/media/portraits/pg-1994345499319492729.webp"
 ---
 
 A striking portrait of a curvy androgynous biker, exuding confidence on her black cruiser. The urban backdrop and somber tones elevate this edgy street style story.
@@ -65,4 +65,4 @@ A striking portrait of a curvy androgynous biker, exuding confidence on her blac
 
 ## Example Output
 
-![Rebellious Elegance: The Androgynous Biker Vibe](/images/portraits/pg-1994345499319492729.webp)
+![Rebellious Elegance: The Androgynous Biker Vibe](/media/portraits/pg-1994345499319492729.webp)

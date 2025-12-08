@@ -3,7 +3,7 @@ title: "3D Chibi Chinese Wedding Scene"
 category: 3d
 tags: ["3d", "chibi", "cartoon", "realistic", "wedding"]
 author: "@balconychy"
-preview: "/images/3d/3d-chibi-chinese-wedding-scene.webp"
+preview: "/media/3d/3d-chibi-chinese-wedding-scene.webp"
 ---
 
 Transform the two people in the photo into chibi-style 3D cartoon characters, dressed in traditional Chinese wedding attire. The overall theme is a festive red Chinese-style wedding. The background features a decorative “囍” (double happiness) paper-cut pattern in a classic folk style. 
@@ -22,4 +22,4 @@ A couple's photo.
 - [Original Post](https://x.com/balconychy/status/1909418699150237917)
 
 ## Example Output
-![3D Chibi Chinese Wedding Scene](/images/3d/3d-chibi-chinese-wedding-scene.webp)
+![3D Chibi Chinese Wedding Scene](/media/3d/3d-chibi-chinese-wedding-scene.webp)

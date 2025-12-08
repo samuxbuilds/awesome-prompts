@@ -5,7 +5,7 @@ tags: ["sci-fi","nano-banana-pro"]
 author: "@fofrAI"
 author_url: "https://twitter.com/fofrAI"
 source_url: "https://twitter.com/fofrAI/status/1991552915853742223"
-preview: "/images/portraits/pg-1991552915853742223.webp"
+preview: "/media/portraits/pg-1991552915853742223.webp"
 ---
 
 What tales of wonder are waiting between those pages? This curated collection sparks curiosity and adventure, perfect for every sci-fi enthusiast!
@@ -20,4 +20,4 @@ A photo of the sci-fi books I should read
 
 ## Example Output
 
-![Unlock the Future: Must-Read Sci-Fi Treasures](/images/portraits/pg-1991552915853742223.webp)
+![Unlock the Future: Must-Read Sci-Fi Treasures](/media/portraits/pg-1991552915853742223.webp)

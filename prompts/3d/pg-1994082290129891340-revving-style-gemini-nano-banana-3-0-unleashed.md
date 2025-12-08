@@ -5,7 +5,7 @@ tags: ["nano-banana-pro"]
 author: "@YaseenK7212"
 author_url: "https://twitter.com/YaseenK7212"
 source_url: "https://twitter.com/YaseenK7212/status/1994082290129891340"
-preview: "/images/3d/pg-1994082290129891340.webp"
+preview: "/media/3d/pg-1994082290129891340.webp"
 ---
 
 A sleek figure lounges on a red beanbag, exuding confidence amid luxury. The vivid supercar gleams, while shadows dance around polished leather and striking decor.
@@ -61,4 +61,4 @@ A sleek figure lounges on a red beanbag, exuding confidence amid luxury. The viv
 
 ## Example Output
 
-![Revving Style: Gemini Nano Banana 3.0 Unleashed](/images/3d/pg-1994082290129891340.webp)
+![Revving Style: Gemini Nano Banana 3.0 Unleashed](/media/3d/pg-1994082290129891340.webp)

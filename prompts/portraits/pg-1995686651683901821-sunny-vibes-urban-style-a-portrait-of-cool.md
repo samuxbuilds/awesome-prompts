@@ -5,7 +5,7 @@ tags: ["portrait","urban","fashion","vibrant","nano-banana-pro"]
 author: "@oggii_0"
 author_url: "https://twitter.com/oggii_0"
 source_url: "https://twitter.com/oggii_0/status/1995686651683901821"
-preview: "/images/portraits/pg-1995686651683901821.webp"
+preview: "/media/portraits/pg-1995686651683901821.webp"
 ---
 
 Elegance meets casual in a sunlit suburban scene. This stylish man, draped in olive-grey, holds his black duffel bag, perfectly framed by vibrant orange trees and a sleek SUV. Fashion and lifestyle converge under a stunning sky!
@@ -20,4 +20,4 @@ Ultra-realistic 8K lifestyle portrait of the same man from the uploaded image. H
 
 ## Example Output
 
-![Sunny Vibes & Urban Style: A Portrait of Cool](/images/portraits/pg-1995686651683901821.webp)
+![Sunny Vibes & Urban Style: A Portrait of Cool](/media/portraits/pg-1995686651683901821.webp)

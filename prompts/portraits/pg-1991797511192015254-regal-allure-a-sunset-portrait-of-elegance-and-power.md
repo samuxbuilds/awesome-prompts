@@ -5,7 +5,7 @@ tags: ["portrait","nano-banana-pro"]
 author: "@maham_2210"
 author_url: "https://twitter.com/maham_2210"
 source_url: "https://twitter.com/maham_2210/status/1991797511192015254"
-preview: "/images/portraits/pg-1991797511192015254.webp"
+preview: "/media/portraits/pg-1991797511192015254.webp"
 ---
 
 A stunning tableau unfolds as the noble woman connects with her Arabian steed, bathed in the golden hues of sunset. The intricate details of her gown and the horse's gleaming coat create a breathtaking harmony.
@@ -26,4 +26,4 @@ A photorealistic, highly detailed, cinematic portrait of an **ethereal young wom
 
 ## Example Output
 
-![Regal Allure: A Sunset Portrait of Elegance and Power](/images/portraits/pg-1991797511192015254.webp)
+![Regal Allure: A Sunset Portrait of Elegance and Power](/media/portraits/pg-1991797511192015254.webp)

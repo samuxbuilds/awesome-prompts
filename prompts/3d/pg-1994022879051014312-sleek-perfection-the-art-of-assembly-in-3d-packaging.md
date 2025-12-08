@@ -5,7 +5,7 @@ tags: ["3d","art","minimal","nano-banana-pro"]
 author: "@_MehdiSharifi_"
 author_url: "https://twitter.com/_MehdiSharifi_"
 source_url: "https://twitter.com/_MehdiSharifi_/status/1994022879051014312"
-preview: "/images/3d/pg-1994022879051014312.webp"
+preview: "/media/3d/pg-1994022879051014312.webp"
 ---
 
 Behold a stunningly crafted packaging box that showcases immaculate design. Its pristine matte texture and sharp edges stand proudly, reflecting high-end elegance in a minimalistic studio.
@@ -112,4 +112,4 @@ Behold a stunningly crafted packaging box that showcases immaculate design. Its 
 
 ## Example Output
 
-![Sleek Perfection: The Art of Assembly in 3D Packaging](/images/3d/pg-1994022879051014312.webp)
+![Sleek Perfection: The Art of Assembly in 3D Packaging](/media/3d/pg-1994022879051014312.webp)

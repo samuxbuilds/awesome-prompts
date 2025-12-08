@@ -5,7 +5,7 @@ tags: ["portrait","vibrant","nano-banana-pro"]
 author: "@ecommartinez"
 author_url: "https://twitter.com/ecommartinez"
 source_url: "https://twitter.com/ecommartinez/status/1993005355639751022"
-preview: "/images/3d/pg-1993005355639751022.webp"
+preview: "/media/3d/pg-1993005355639751022.webp"
 ---
 
 Transform your face into a vibrant doodle masterpiece! This creative prompt captures your essence with playful colors and lively annotations, celebrating individuality.
@@ -35,4 +35,4 @@ Transform your face into a vibrant doodle masterpiece! This creative prompt capt
 
 ## Example Output
 
-![Crafting Your Unique Doodle Portrait](/images/3d/pg-1993005355639751022.webp)
+![Crafting Your Unique Doodle Portrait](/media/3d/pg-1993005355639751022.webp)

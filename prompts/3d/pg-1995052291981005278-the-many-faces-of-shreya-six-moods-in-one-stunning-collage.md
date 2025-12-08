@@ -5,7 +5,7 @@ tags: ["cute","vibrant","nano-banana-pro"]
 author: "@ShreyaYadav___"
 author_url: "https://twitter.com/ShreyaYadav___"
 source_url: "https://twitter.com/ShreyaYadav___/status/1995052291981005278"
-preview: "/images/3d/pg-1995052291981005278.webp"
+preview: "/media/3d/pg-1995052291981005278.webp"
 ---
 
 Explore the vibrant spectrum of emotions with this captivating six-panel collage featuring Shreya! Each expression, from cute to confident, bursts with personality against bold backgrounds.
@@ -61,4 +61,4 @@ Explore the vibrant spectrum of emotions with this captivating six-panel collage
 
 ## Example Output
 
-![The Many Faces of Shreya: Six Moods in One Stunning Collage](/images/3d/pg-1995052291981005278.webp)
+![The Many Faces of Shreya: Six Moods in One Stunning Collage](/media/3d/pg-1995052291981005278.webp)

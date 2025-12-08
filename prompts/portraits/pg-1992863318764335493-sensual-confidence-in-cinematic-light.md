@@ -5,7 +5,7 @@ tags: ["light","nano-banana-pro"]
 author: "@kingofdairyque"
 author_url: "https://twitter.com/kingofdairyque"
 source_url: "https://twitter.com/kingofdairyque/status/1992863318764335493"
-preview: "/images/portraits/pg-1992863318764335493.webp"
+preview: "/media/portraits/pg-1992863318764335493.webp"
 ---
 
 A striking gaze pierces through the shadows, where confidence meets elegance. The soft red highlights dance across her skin, revealing a story behind every detail.
@@ -20,4 +20,4 @@ A young woman with dark wavy hair sits in a black hoodie partially open over a w
 
 ## Example Output
 
-![Sensual Confidence in Cinematic Light](/images/portraits/pg-1992863318764335493.webp)
+![Sensual Confidence in Cinematic Light](/media/portraits/pg-1992863318764335493.webp)

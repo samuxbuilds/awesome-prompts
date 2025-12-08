@@ -5,7 +5,7 @@ tags: ["selfie","modern","nano-banana-pro"]
 author: "@_MehdiSharifi_"
 author_url: "https://twitter.com/_MehdiSharifi_"
 source_url: "https://twitter.com/_MehdiSharifi_/status/1995104370686357772"
-preview: "/images/portraits/pg-1995104370686357772.webp"
+preview: "/media/portraits/pg-1995104370686357772.webp"
 ---
 
 In a shimmering Disney dream, this chic beauty captures the essence of winter magic with her dazzling mirror selfie, radiating confidence and style!
@@ -98,4 +98,4 @@ In a shimmering Disney dream, this chic beauty captures the essence of winter ma
 
 ## Example Output
 
-![Chill Vibes: A Modern Ice Princess in Disney Wonderland](/images/portraits/pg-1995104370686357772.webp)
+![Chill Vibes: A Modern Ice Princess in Disney Wonderland](/media/portraits/pg-1995104370686357772.webp)

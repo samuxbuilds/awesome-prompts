@@ -5,7 +5,7 @@ tags: ["vintage","nano-banana-pro"]
 author: "@SimplyAnnisa"
 author_url: "https://twitter.com/SimplyAnnisa"
 source_url: "https://twitter.com/SimplyAnnisa/status/1994997797628907764"
-preview: "/images/3d/pg-1994997797628907764.webp"
+preview: "/media/3d/pg-1994997797628907764.webp"
 ---
 
 Can you feel the 80s vibes? This striking photo encapsulates vintage charm and casual elegance, with soft film effects that whisper stories from November 1988.
@@ -20,4 +20,4 @@ Create this photo into a photorealistic image with a strong nostalgic and melanc
 
 ## Example Output
 
-![Retro Glam: A Nostalgic 80s Captured Moment](/images/3d/pg-1994997797628907764.webp)
+![Retro Glam: A Nostalgic 80s Captured Moment](/media/3d/pg-1994997797628907764.webp)

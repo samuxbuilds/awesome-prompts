@@ -5,7 +5,7 @@ tags: ["portrait","fashion","nano-banana-pro"]
 author: "@IqraSaifiii"
 author_url: "https://twitter.com/IqraSaifiii"
 source_url: "https://twitter.com/IqraSaifiii/status/1995974228802502995"
-preview: "/images/portraits/pg-1995974228802502995.webp"
+preview: "/media/portraits/pg-1995974228802502995.webp"
 ---
 
 Bold elegance shines in this high-fashion portrait! A stunning metallic ensemble drapes effortlessly over a youthful silhouette, exuding an edgy allure.
@@ -26,4 +26,4 @@ Bold elegance shines in this high-fashion portrait! A stunning metallic ensemble
 
 ## Example Output
 
-![Futuristic Glam: A Metallic Dreamscape](/images/portraits/pg-1995974228802502995.webp)
+![Futuristic Glam: A Metallic Dreamscape](/media/portraits/pg-1995974228802502995.webp)

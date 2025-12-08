@@ -5,7 +5,7 @@ tags: ["nano-banana-pro"]
 author: "@saniaspeaks_"
 author_url: "https://twitter.com/saniaspeaks_"
 source_url: "https://twitter.com/saniaspeaks_/status/1997298656429367700"
-preview: "/images/portraits/pg-1997298656429367700.webp"
+preview: "/media/portraits/pg-1997298656429367700.webp"
 ---
 
 Amidst the warm embrace of a golden hour, she splashes joyfully, each droplet reflecting the beauty of the sunset sky and her carefree spirit.
@@ -45,4 +45,4 @@ Amidst the warm embrace of a golden hour, she splashes joyfully, each droplet re
 
 ## Example Output
 
-![Sunset Whispers: A Playful Moment by the Water](/images/portraits/pg-1997298656429367700.webp)
+![Sunset Whispers: A Playful Moment by the Water](/media/portraits/pg-1997298656429367700.webp)

@@ -5,7 +5,7 @@ tags: ["selfie","nano-banana-pro"]
 author: "@awesome_visuals"
 author_url: "https://twitter.com/awesome_visuals"
 source_url: "https://twitter.com/awesome_visuals/status/1995071645002747918"
-preview: "/images/portraits/pg-1995071645002747918.webp"
+preview: "/media/portraits/pg-1995071645002747918.webp"
 ---
 
 Captured in a sparkle-filled Zootopia wonderland, this playful selfie features a radiant young woman in a strapless white dress, sporting a fluffy Nick Wilde hat and a cheeky wink alongside her plush pal, Judy Hopps!
@@ -30,4 +30,4 @@ Captured in a sparkle-filled Zootopia wonderland, this playful selfie features a
 
 ## Example Output
 
-![Whimsical Disney Dreams: A Selfie with Style!](/images/portraits/pg-1995071645002747918.webp)
+![Whimsical Disney Dreams: A Selfie with Style!](/media/portraits/pg-1995071645002747918.webp)

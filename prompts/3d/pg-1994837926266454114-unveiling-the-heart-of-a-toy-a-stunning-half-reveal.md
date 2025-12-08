@@ -5,7 +5,7 @@ tags: ["art","nano-banana-pro"]
 author: "@ozan_sihay"
 author_url: "https://twitter.com/ozan_sihay"
 source_url: "https://twitter.com/ozan_sihay/status/1994837926266454114"
-preview: "/images/3d/pg-1994837926266454114.webp"
+preview: "/media/3d/pg-1994837926266454114.webp"
 ---
 
 Is it art or engineering? This captivating macro shot unveils a toy figure split in two, revealing both its glossy exterior and intricate inner workings.
@@ -24,4 +24,4 @@ Is it art or engineering? This captivating macro shot unveils a toy figure split
 
 ## Example Output
 
-![Unveiling the Heart of a Toy: A Stunning Half-Reveal](/images/3d/pg-1994837926266454114.webp)
+![Unveiling the Heart of a Toy: A Stunning Half-Reveal](/media/3d/pg-1994837926266454114.webp)

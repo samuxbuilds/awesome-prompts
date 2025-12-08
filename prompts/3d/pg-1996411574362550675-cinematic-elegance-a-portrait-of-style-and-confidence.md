@@ -5,7 +5,7 @@ tags: ["realistic","portrait","light","nano-banana-pro"]
 author: "@Taaruk_"
 author_url: "https://twitter.com/Taaruk_"
 source_url: "https://twitter.com/Taaruk_/status/1996411574362550675"
-preview: "/images/3d/pg-1996411574362550675.webp"
+preview: "/media/3d/pg-1996411574362550675.webp"
 ---
 
 A strikingly handsome figure stands poised against a softly blurred backdrop, exuding sophistication in a light gray suit. His calm demeanor and elegant attire make a bold statement in this ultra-realistic portrait.
@@ -79,4 +79,4 @@ A strikingly handsome figure stands poised against a softly blurred backdrop, ex
 
 ## Example Output
 
-![Cinematic Elegance: A Portrait of Style and Confidence](/images/3d/pg-1996411574362550675.webp)
+![Cinematic Elegance: A Portrait of Style and Confidence](/media/3d/pg-1996411574362550675.webp)

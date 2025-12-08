@@ -5,7 +5,7 @@ tags: ["nano-banana-pro"]
 author: "@xmiiru_"
 author_url: "https://twitter.com/xmiiru_"
 source_url: "https://twitter.com/xmiiru_/status/1997153977540993356"
-preview: "/images/portraits/pg-1997153977540993356.webp"
+preview: "/media/portraits/pg-1997153977540993356.webp"
 ---
 
 Captured in a moment of quiet reflection, this young woman embodies the nostalgia of the night. What memories dance in the shadows of these ancient stone steps?
@@ -61,4 +61,4 @@ Captured in a moment of quiet reflection, this young woman embodies the nostalgi
 
 ## Example Output
 
-![Echoes of the Past: A Night on Ancient Steps](/images/portraits/pg-1997153977540993356.webp)
+![Echoes of the Past: A Night on Ancient Steps](/media/portraits/pg-1997153977540993356.webp)

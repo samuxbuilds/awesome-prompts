@@ -5,7 +5,7 @@ tags: ["portrait","art","modern","fashion","light","nano-banana-pro"]
 author: "@mehvishs25"
 author_url: "https://twitter.com/mehvishs25"
 source_url: "https://twitter.com/mehvishs25/status/1994774952222859651"
-preview: "/images/3d/pg-1994774952222859651.webp"
+preview: "/media/3d/pg-1994774952222859651.webp"
 ---
 
 In a dimly lit art cafe, a modern muse cradles a bouquet of white blooms, embodying grace. Her Korean fashion exudes sophistication, while soft yellow light dances across her butterfly-cut hair, creating an enchanting atmosphere.
@@ -20,4 +20,4 @@ Create a portrait From a 100% reference image, it is a close-up of a movie. A mo
 
 ## Example Output
 
-![Whispers of Elegance: A Portrait in Soft Hues](/images/3d/pg-1994774952222859651.webp)
+![Whispers of Elegance: A Portrait in Soft Hues](/media/3d/pg-1994774952222859651.webp)

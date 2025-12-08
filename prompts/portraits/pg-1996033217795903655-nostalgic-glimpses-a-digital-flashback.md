@@ -5,7 +5,7 @@ tags: ["dark","digital","nano-banana-pro"]
 author: "@kingofdairyque"
 author_url: "https://twitter.com/kingofdairyque"
 source_url: "https://twitter.com/kingofdairyque/status/1996033217795903655"
-preview: "/images/portraits/pg-1996033217795903655.webp"
+preview: "/media/portraits/pg-1996033217795903655.webp"
 ---
 
 Captured in a moment of genuine emotion, the young woman's face beams with a captivating glow, her dark hair framing a softly lit smile amidst a cluttered kitchen backdrop.
@@ -31,4 +31,4 @@ Color grading: nostalgic digital-camera tones, high contrast flash, subtle displ
 
 ## Example Output
 
-![Nostalgic Glimpses: A Digital Flashback](/images/portraits/pg-1996033217795903655.webp)
+![Nostalgic Glimpses: A Digital Flashback](/media/portraits/pg-1996033217795903655.webp)

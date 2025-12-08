@@ -5,7 +5,7 @@ tags: ["modern","minimal","light","nano-banana-pro"]
 author: "@Taaruk_"
 author_url: "https://twitter.com/Taaruk_"
 source_url: "https://twitter.com/Taaruk_/status/1993980595244761517"
-preview: "/images/portraits/pg-1993980595244761517.webp"
+preview: "/media/portraits/pg-1993980595244761517.webp"
 ---
 
 A stylish man leans confidently on an elegant desk, surrounded by sleek tech and minimalistic greenery. The cinematic lighting amplifies the luxurious vibe, showcasing modern sophistication at its finest.
@@ -49,4 +49,4 @@ A stylish man leans confidently on an elegant desk, surrounded by sleek tech and
 
 ## Example Output
 
-![Elegance in Focus: The Nano Banana Pro Unleashed](/images/portraits/pg-1993980595244761517.webp)
+![Elegance in Focus: The Nano Banana Pro Unleashed](/media/portraits/pg-1993980595244761517.webp)

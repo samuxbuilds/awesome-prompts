@@ -5,7 +5,7 @@ tags: ["vintage","nano-banana-pro"]
 author: "@icreatelife"
 author_url: "https://twitter.com/icreatelife"
 source_url: "https://twitter.com/icreatelife/status/1992873252390068678"
-preview: "/images/3d/pg-1992873252390068678.webp"
+preview: "/media/3d/pg-1992873252390068678.webp"
 ---
 
 A cozy 90s living room springs to life with glowing screens and plush vibes! Who wouldn't want to escape into this vintage gaming paradise, joystick in hand?
@@ -20,4 +20,4 @@ A photorealistic ESC keycap scene shows a miniature cozy living room from 90s.. 
 
 ## Example Output
 
-![Unlocking Nostalgia: The Ultimate 90s Gaming Escape Key](/images/3d/pg-1992873252390068678.webp)
+![Unlocking Nostalgia: The Ultimate 90s Gaming Escape Key](/media/3d/pg-1992873252390068678.webp)

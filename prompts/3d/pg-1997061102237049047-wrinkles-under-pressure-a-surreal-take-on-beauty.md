@@ -5,7 +5,7 @@ tags: ["realistic","nano-banana-pro"]
 author: "@egeberkina"
 author_url: "https://twitter.com/egeberkina"
 source_url: "https://twitter.com/egeberkina/status/1997061102237049047"
-preview: "/images/3d/pg-1997061102237049047.webp"
+preview: "/media/3d/pg-1997061102237049047.webp"
 ---
 
 Can a toy iron truly smooth the complexities of aging? This striking macro shot captures a cheekbone's battle with time, blending humor and critique in a vivid, hyper-realistic portrayal.
@@ -57,4 +57,4 @@ Can a toy iron truly smooth the complexities of aging? This striking macro shot 
 
 ## Example Output
 
-![Wrinkles Under Pressure: A Surreal Take on Beauty](/images/3d/pg-1997061102237049047.webp)
+![Wrinkles Under Pressure: A Surreal Take on Beauty](/media/3d/pg-1997061102237049047.webp)

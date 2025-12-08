@@ -5,7 +5,7 @@ tags: ["nano-banana-pro"]
 author: "@Arminn_Ai"
 author_url: "https://twitter.com/Arminn_Ai"
 source_url: "https://twitter.com/Arminn_Ai/status/1991559284971204814"
-preview: "/images/portraits/pg-1991559284971204814.webp"
+preview: "/media/portraits/pg-1991559284971204814.webp"
 ---
 
 Bold, fierce, and unapologetically unique! This alternative style icon commands attention with her striking tattoos and confident pose, embodying the spirit of the Nano Banana Pro. 🍌
@@ -28,4 +28,4 @@ Mood & Imperfections: Realistic, powerful, alternative, stylish. Visible fine sk
 
 ## Example Output
 
-![Unleashing the Power of the Nano Banana Pro](/images/portraits/pg-1991559284971204814.webp)
+![Unleashing the Power of the Nano Banana Pro](/media/portraits/pg-1991559284971204814.webp)

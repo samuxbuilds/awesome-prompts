@@ -5,7 +5,7 @@ tags: ["portrait","minimal","nano-banana-pro"]
 author: "@ShreyaYadav___"
 author_url: "https://twitter.com/ShreyaYadav___"
 source_url: "https://twitter.com/ShreyaYadav___/status/1993213021024395351"
-preview: "/images/portraits/pg-1993213021024395351.webp"
+preview: "/media/portraits/pg-1993213021024395351.webp"
 ---
 
 A portrait that defines effortless charm—his piercing blue eyes and sun-kissed skin convey sophistication, while the minimalist style speaks volumes.
@@ -20,4 +20,4 @@ Hyper-realistic portrait of a strikingly handsome young man in his mid-20s, flaw
 
 ## Example Output
 
-![Simplicity Meets Striking Elegance](/images/portraits/pg-1993213021024395351.webp)
+![Simplicity Meets Striking Elegance](/media/portraits/pg-1993213021024395351.webp)

@@ -5,7 +5,7 @@ tags: ["modern","nano-banana-pro"]
 author: "@maxescu"
 author_url: "https://twitter.com/maxescu"
 source_url: "https://twitter.com/maxescu/status/1994465125999260028"
-preview: "/images/posters/pg-1994465125999260028.webp"
+preview: "/media/posters/pg-1994465125999260028.webp"
 ---
 
 Can you believe it? Lyndon B. Johnson swears in with an iPad in hand, merging tradition and technology in a moment that redefines presidential history!
@@ -20,4 +20,4 @@ Lyndon B. Johnson taking the oath, read from an iPad
 
 ## Example Output
 
-![A Modern Twist on History: LBJ Takes Oath with an iPad](/images/posters/pg-1994465125999260028.webp)
+![A Modern Twist on History: LBJ Takes Oath with an iPad](/media/posters/pg-1994465125999260028.webp)

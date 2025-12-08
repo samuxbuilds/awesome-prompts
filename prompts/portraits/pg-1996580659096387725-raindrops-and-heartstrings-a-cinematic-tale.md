@@ -5,7 +5,7 @@ tags: ["art","nano-banana-pro"]
 author: "@oggii_0"
 author_url: "https://twitter.com/oggii_0"
 source_url: "https://twitter.com/oggii_0/status/1996580659096387725"
-preview: "/images/portraits/pg-1996580659096387725.webp"
+preview: "/media/portraits/pg-1996580659096387725.webp"
 ---
 
 A heart-wrenching visual journey unfolds as a young woman, drenched in sorrow, lingers beneath stone arches.
@@ -20,4 +20,4 @@ Create a 9-panel cinematic storyboard set in a rainy, melancholic atmosphere. Sh
 
 ## Example Output
 
-![Raindrops and Heartstrings: A Cinematic Tale](/images/portraits/pg-1996580659096387725.webp)
+![Raindrops and Heartstrings: A Cinematic Tale](/media/portraits/pg-1996580659096387725.webp)

@@ -5,7 +5,7 @@ tags: ["3d","light","vibrant","nano-banana-pro"]
 author: "@NanoBanana"
 author_url: "https://twitter.com/NanoBanana"
 source_url: "https://twitter.com/NanoBanana/status/1996554636166049928"
-preview: "/images/3d/pg-1996554636166049928.webp"
+preview: "/media/3d/pg-1996554636166049928.webp"
 ---
 
 Bold colors dance around a charming 3D caricature, playfully exaggerating every expression. Smooth textures and soft lighting breathe life into this vibrant character!
@@ -20,4 +20,4 @@ A highly stylized 3D caricature of the person in the uploaded image, with expres
 
 ## Example Output
 
-![Whimsical Wonders: 3D Caricature Unleashed](/images/3d/pg-1996554636166049928.webp)
+![Whimsical Wonders: 3D Caricature Unleashed](/media/3d/pg-1996554636166049928.webp)

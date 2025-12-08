@@ -5,7 +5,7 @@ tags: ["cartoon","portrait","art","fantasy","light","vibrant","nano-banana-pro"]
 author: "@ZaraIrahh"
 author_url: "https://twitter.com/ZaraIrahh"
 source_url: "https://twitter.com/ZaraIrahh/status/1995304550610407807"
-preview: "/images/3d/pg-1995304550610407807.webp"
+preview: "/media/3d/pg-1995304550610407807.webp"
 ---
 
 A captivating chest-up portrait split between reality and vibrant cartoon fantasy! Soft lighting enhances the duality of expressions, merging dreamy elements with playful kawaii flair.
@@ -121,4 +121,4 @@ A captivating chest-up portrait split between reality and vibrant cartoon fantas
 
 ## Example Output
 
-![Two Worlds Collide: Gemini Nano Banana Pro](/images/3d/pg-1995304550610407807.webp)
+![Two Worlds Collide: Gemini Nano Banana Pro](/media/3d/pg-1995304550610407807.webp)

@@ -3,7 +3,7 @@ title: "Creative Ad with Real Object and Hand-Drawn Doodle"
 category: creative
 tags: ["minimalist", "logo"]
 author: "@azed_ai"
-preview: "/images/creative/creative-ad-with-real-object-and-hand-drawn-doodle.webp"
+preview: "/media/creative/creative-ad-with-real-object-and-hand-drawn-doodle.webp"
 ---
 
 A minimalist and creative advertisement set on a clean white background.
@@ -21,4 +21,4 @@ For example:
 - [Original Post](https://x.com/azed_ai/status/1923016036120658122)
 
 ## Example Output
-![Creative Ad with Real Object and Hand-Drawn Doodle](/images/creative/creative-ad-with-real-object-and-hand-drawn-doodle.webp)
+![Creative Ad with Real Object and Hand-Drawn Doodle](/media/creative/creative-ad-with-real-object-and-hand-drawn-doodle.webp)

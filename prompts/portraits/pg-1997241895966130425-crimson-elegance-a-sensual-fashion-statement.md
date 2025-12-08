@@ -5,7 +5,7 @@ tags: ["art","fashion","light","nano-banana-pro"]
 author: "@Just_sharon7"
 author_url: "https://twitter.com/Just_sharon7"
 source_url: "https://twitter.com/Just_sharon7/status/1997241895966130425"
-preview: "/images/portraits/pg-1997241895966130425.webp"
+preview: "/media/portraits/pg-1997241895966130425.webp"
 ---
 
 Bathe in the allure of a striking red gown, artfully contrasted against rich velvet. Flawless styling, bold accessories, and dramatic lighting ignite the essence of high fashion.
@@ -34,4 +34,4 @@ Bathe in the allure of a striking red gown, artfully contrasted against rich vel
 
 ## Example Output
 
-![Crimson Elegance: A Sensual Fashion Statement](/images/portraits/pg-1997241895966130425.webp)
+![Crimson Elegance: A Sensual Fashion Statement](/media/portraits/pg-1997241895966130425.webp)

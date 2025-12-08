@@ -5,7 +5,7 @@ tags: ["portrait","light","nano-banana-pro"]
 author: "@kingofdairyque"
 author_url: "https://twitter.com/kingofdairyque"
 source_url: "https://twitter.com/kingofdairyque/status/1995092464193933467"
-preview: "/images/3d/pg-1995092464193933467.webp"
+preview: "/media/3d/pg-1995092464193933467.webp"
 ---
 
 A striking figure emerges from a deep crimson backdrop, exuding intensity. Her sharp features and confident gaze captivate as dramatic lighting sculpts her silhouette, blending power with grace.
@@ -20,4 +20,4 @@ Create an Ultra-realistic 8k portrait, standing against a deep red background. S
 
 ## Example Output
 
-![Bold Elegance: A Portrait in Red](/images/3d/pg-1995092464193933467.webp)
+![Bold Elegance: A Portrait in Red](/media/3d/pg-1995092464193933467.webp)

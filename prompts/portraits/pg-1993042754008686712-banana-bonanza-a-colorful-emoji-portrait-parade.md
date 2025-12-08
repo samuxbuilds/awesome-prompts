@@ -5,7 +5,7 @@ tags: ["portrait","colorful","nano-banana-pro"]
 author: "@dotey"
 author_url: "https://twitter.com/dotey"
 source_url: "https://twitter.com/dotey/status/1993042754008686712"
-preview: "/images/portraits/pg-1993042754008686712.webp"
+preview: "/media/portraits/pg-1993042754008686712.webp"
 ---
 
 Bursting with laughter and color, this 4x6 layout showcases playful Q-version emojis! Each character shines with unique accessories, complimented by quirky chat phrases in a lively handwritten font.
@@ -25,4 +25,4 @@ Final image should be in 4K resolution, 16:9 aspect ratio.
 
 ## Example Output
 
-![Banana Bonanza: A Colorful Emoji Portrait Parade!](/images/portraits/pg-1993042754008686712.webp)
+![Banana Bonanza: A Colorful Emoji Portrait Parade!](/media/portraits/pg-1993042754008686712.webp)

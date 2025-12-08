@@ -5,7 +5,7 @@ tags: ["selfie", "miami", "beach", "convertible", "summer", "lifestyle", "portra
 author: "God of Prompt"
 author_url: "https://x.com/godofprompt"
 source_url: "https://x.com/godofprompt/status/1997444523858043138"
-preview: "/images/portraits/miami-convertible-selfie.webp"
+preview: "/media/portraits/miami-convertible-selfie.webp"
 ---
 
 *Capture the ultimate carefree American summer vibe with this detailed convertible selfie prompt.*
@@ -41,4 +41,4 @@ She is wearing a white cropped athletic tank top with a small colorful universit
 
 ## Example Output
 
-![Miami Convertible Selfie](/images/portraits/miami-convertible-selfie.webp)
+![Miami Convertible Selfie](/media/portraits/miami-convertible-selfie.webp)

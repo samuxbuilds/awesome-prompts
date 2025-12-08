@@ -5,7 +5,7 @@ tags: ["portrait","vintage","nano-banana-pro"]
 author: "@Arminn_Ai"
 author_url: "https://twitter.com/Arminn_Ai"
 source_url: "https://twitter.com/Arminn_Ai/status/1995209201522495851"
-preview: "/images/3d/pg-1995209201522495851.webp"
+preview: "/media/3d/pg-1995209201522495851.webp"
 ---
 
 Chilling on a vintage couch, this gamer girl embodies 90s nostalgia. With her plush Pikachu and collectibles, she invites you to relive the golden age of gaming!
@@ -91,4 +91,4 @@ Chilling on a vintage couch, this gamer girl embodies 90s nostalgia. With her pl
 
 ## Example Output
 
-![Retro Gamer Vibes: A Nostalgic Portrait in a Gamer's Paradise](/images/3d/pg-1995209201522495851.webp)
+![Retro Gamer Vibes: A Nostalgic Portrait in a Gamer's Paradise](/media/3d/pg-1995209201522495851.webp)

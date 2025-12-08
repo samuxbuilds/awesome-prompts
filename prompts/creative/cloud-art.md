@@ -3,7 +3,7 @@ title: "Cloud Art"
 category: creative
 tags: ["creative", "ai-art"]
 author: "@umesh_ai"
-preview: "/images/creative/cloud-art.webp"
+preview: "/media/creative/cloud-art.webp"
 ---
 
 Generate image: A photograph captures a daytime scene with a [SUBJECT/OBJECT] formed by scattered clouds in the sky, positioned above a [LOCATION]
@@ -15,4 +15,4 @@ The `[SUBJECT/OBJECT]` (shape formed by clouds) and `[LOCATION]` placeholders in
 - [Original Post](https://x.com/umesh_ai/status/1913628737872027805)
 
 ## Example Output
-![Cloud Art](/images/creative/cloud-art.webp)
+![Cloud Art](/media/creative/cloud-art.webp)

@@ -5,7 +5,7 @@ tags: ["nano-banana-pro"]
 author: "@YaseenK7212"
 author_url: "https://twitter.com/YaseenK7212"
 source_url: "https://twitter.com/YaseenK7212/status/1992590973885432046"
-preview: "/images/portraits/pg-1992590973885432046.webp"
+preview: "/media/portraits/pg-1992590973885432046.webp"
 ---
 
 In a cool blue glow, a young woman rests her chin on her hand, lost in thought. Surrounded by scattered notebooks and stationery, she ponders the possibilities of the Gemini Nano Banana 3.0.
@@ -62,4 +62,4 @@ In a cool blue glow, a young woman rests her chin on her hand, lost in thought. 
 
 ## Example Output
 
-![A Night of Thoughts: Reflections on the Gemini Nano Banana 3.0](/images/portraits/pg-1992590973885432046.webp)
+![A Night of Thoughts: Reflections on the Gemini Nano Banana 3.0](/media/portraits/pg-1992590973885432046.webp)

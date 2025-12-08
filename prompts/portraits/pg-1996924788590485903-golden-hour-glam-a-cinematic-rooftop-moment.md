@@ -5,7 +5,7 @@ tags: ["urban","light","nano-banana-pro"]
 author: "@_imfaizan18"
 author_url: "https://twitter.com/_imfaizan18"
 source_url: "https://twitter.com/_imfaizan18/status/1996924788590485903"
-preview: "/images/portraits/pg-1996924788590485903.webp"
+preview: "/media/portraits/pg-1996924788590485903.webp"
 ---
 
 Under a cinematic glow, a calm gaze meets the urban skyline. The soft wind dances through a light jacket, capturing the essence of city life at dusk.
@@ -102,4 +102,4 @@ Under a cinematic glow, a calm gaze meets the urban skyline. The soft wind dance
 
 ## Example Output
 
-![Golden Hour Glam: A Cinematic Rooftop Moment](/images/portraits/pg-1996924788590485903.webp)
+![Golden Hour Glam: A Cinematic Rooftop Moment](/media/portraits/pg-1996924788590485903.webp)

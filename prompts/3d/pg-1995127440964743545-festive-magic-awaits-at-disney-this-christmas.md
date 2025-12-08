@@ -5,7 +5,7 @@ tags: ["light","nano-banana-pro"]
 author: "@miilesus"
 author_url: "https://twitter.com/miilesus"
 source_url: "https://twitter.com/miilesus/status/1995127440964743545"
-preview: "/images/3d/pg-1995127440964743545.webp"
+preview: "/media/3d/pg-1995127440964743545.webp"
 ---
 
 Picture a joyful night at Disney, where a young woman shines in festive attire, surrounded by twinkling lights and holiday cheer. Her playful pose and cheerful Minnie Mouse doll capture the spirit of the season, making every moment magical!
@@ -20,4 +20,4 @@ Using my reference image. DO NOT CHANGE THE FACE. keep all facial features exact
 
 ## Example Output
 
-![Festive Magic Awaits at Disney This Christmas!](/images/3d/pg-1995127440964743545.webp)
+![Festive Magic Awaits at Disney This Christmas!](/media/3d/pg-1995127440964743545.webp)

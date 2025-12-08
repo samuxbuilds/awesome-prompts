@@ -5,7 +5,7 @@ tags: ["light","vibrant","nano-banana-pro"]
 author: "@lexx_aura"
 author_url: "https://twitter.com/lexx_aura"
 source_url: "https://twitter.com/lexx_aura/status/1991206055725134201"
-preview: "/images/3d/pg-1991206055725134201.webp"
+preview: "/media/3d/pg-1991206055725134201.webp"
 ---
 
 Against a backdrop of swirling shadows, a figure in a red hoodie gazes skyward as a chaotic flock of black birds erupts into vibrant flames of red and orange. What a striking moment!
@@ -54,4 +54,4 @@ Against a backdrop of swirling shadows, a figure in a red hoodie gazes skyward a
 
 ## Example Output
 
-![A Fiery Flight of Imagination](/images/3d/pg-1991206055725134201.webp)
+![A Fiery Flight of Imagination](/media/3d/pg-1991206055725134201.webp)

@@ -5,7 +5,7 @@ tags: ["nano-banana-pro"]
 author: "@ShreyaYadav___"
 author_url: "https://twitter.com/ShreyaYadav___"
 source_url: "https://twitter.com/ShreyaYadav___/status/1992985241905184920"
-preview: "/images/portraits/pg-1992985241905184920.webp"
+preview: "/media/portraits/pg-1992985241905184920.webp"
 ---
 
 Boldly striding through the gym lobby, this woman's style radiates confidence. Her sleek hair and meticulously crafted look capture a moment of fierce elegance, leaving a lasting impression.
@@ -20,4 +20,4 @@ Create a hyper-realistic portrait of the  woman from the uploaded image, she is
 
 ## Example Output
 
-![Fierce Elegance in Motion: Gym Lobby Glam](/images/portraits/pg-1992985241905184920.webp)
+![Fierce Elegance in Motion: Gym Lobby Glam](/media/portraits/pg-1992985241905184920.webp)

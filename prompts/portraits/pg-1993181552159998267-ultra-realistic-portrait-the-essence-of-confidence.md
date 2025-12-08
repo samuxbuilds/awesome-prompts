@@ -5,7 +5,7 @@ tags: ["realistic","portrait","modern","light","nano-banana-pro"]
 author: "@Taaruk_"
 author_url: "https://twitter.com/Taaruk_"
 source_url: "https://twitter.com/Taaruk_/status/1993181552159998267"
-preview: "/images/portraits/pg-1993181552159998267.webp"
+preview: "/media/portraits/pg-1993181552159998267.webp"
 ---
 
 A striking full-body portrait captures calm confidence, featuring a modern indoor setting with neutral tones. The subject leans against a light-grey wall, elegantly styled in a professional outfit.
@@ -68,4 +68,4 @@ A striking full-body portrait captures calm confidence, featuring a modern indoo
 
 ## Example Output
 
-![Ultra-Realistic Portrait: The Essence of Confidence](/images/portraits/pg-1993181552159998267.webp)
+![Ultra-Realistic Portrait: The Essence of Confidence](/media/portraits/pg-1993181552159998267.webp)

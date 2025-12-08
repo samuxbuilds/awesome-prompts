@@ -5,7 +5,7 @@ tags: ["miniature","cute","nano-banana-pro"]
 author: "@egeberkina"
 author_url: "https://twitter.com/egeberkina"
 source_url: "https://twitter.com/egeberkina/status/1993046180717101451"
-preview: "/images/3d/pg-1993046180717101451.webp"
+preview: "/media/3d/pg-1993046180717101451.webp"
 ---
 
 Tiny figures bring this cone to life with skiing thrills and playful antics! From daring jumps to a cute husky on a sled, this snowy scene packs endless winter excitement!
@@ -20,4 +20,4 @@ Add ultra-tiny realistic skiing, snowboarding, and winter-sports action figures 
 
 ## Example Output
 
-![Epic Fun on a Miniature Snowy Adventure!](/images/3d/pg-1993046180717101451.webp)
+![Epic Fun on a Miniature Snowy Adventure!](/media/3d/pg-1993046180717101451.webp)

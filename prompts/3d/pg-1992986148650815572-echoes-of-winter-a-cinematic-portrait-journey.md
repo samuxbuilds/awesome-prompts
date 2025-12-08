@@ -5,7 +5,7 @@ tags: ["portrait","nano-banana-pro"]
 author: "@lexx_aura"
 author_url: "https://twitter.com/lexx_aura"
 source_url: "https://twitter.com/lexx_aura/status/1992986148650815572"
-preview: "/images/3d/pg-1992986148650815572.webp"
+preview: "/media/3d/pg-1992986148650815572.webp"
 ---
 
 Chilled winds and smoky whispers surround this striking triptych, capturing a lone figure in a black jacket amidst a serene, snowy village. Each panel reveals layers of emotion under a deep blue sky.
@@ -52,4 +52,4 @@ Chilled winds and smoky whispers surround this striking triptych, capturing a lo
 
 ## Example Output
 
-![Echoes of Winter: A Cinematic Portrait Journey](/images/3d/pg-1992986148650815572.webp)
+![Echoes of Winter: A Cinematic Portrait Journey](/media/3d/pg-1992986148650815572.webp)

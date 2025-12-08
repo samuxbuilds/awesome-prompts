@@ -5,7 +5,7 @@ tags: ["dark","vibrant","nano-banana-pro"]
 author: "@Just_sharon7"
 author_url: "https://twitter.com/Just_sharon7"
 source_url: "https://twitter.com/Just_sharon7/status/1994375017971564779"
-preview: "/images/portraits/pg-1994375017971564779.webp"
+preview: "/media/portraits/pg-1994375017971564779.webp"
 ---
 
 Amidst a backdrop of dark elegance, a group of bold trendsetters share playful defiance over drinks. The table gleams with vibrant citrus slices, capturing the spirit of the holiday!
@@ -101,4 +101,4 @@ Amidst a backdrop of dark elegance, a group of bold trendsetters share playful d
 
 ## Example Output
 
-![Chic Rebellion: A Black Friday Feast with Style](/images/portraits/pg-1994375017971564779.webp)
+![Chic Rebellion: A Black Friday Feast with Style](/media/portraits/pg-1994375017971564779.webp)

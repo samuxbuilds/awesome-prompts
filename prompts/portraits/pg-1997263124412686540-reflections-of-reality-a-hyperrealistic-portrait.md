@@ -5,7 +5,7 @@ tags: ["realistic","portrait","nano-banana-pro"]
 author: "@ShreyaYadav___"
 author_url: "https://twitter.com/ShreyaYadav___"
 source_url: "https://twitter.com/ShreyaYadav___/status/1997263124412686540"
-preview: "/images/portraits/pg-1997263124412686540.webp"
+preview: "/media/portraits/pg-1997263124412686540.webp"
 ---
 
 A striking moment captured—a subject's reflection dances on an iPad, revealing not just a face, but a cozy scene of everyday life. From the pilling sweater to the soft hues of the background, every detail tells a story.
@@ -39,4 +39,4 @@ A striking moment captured—a subject's reflection dances on an iPad, revealing
 
 ## Example Output
 
-![Reflections of Reality: A Hyperrealistic Portrait](/images/portraits/pg-1997263124412686540.webp)
+![Reflections of Reality: A Hyperrealistic Portrait](/media/portraits/pg-1997263124412686540.webp)

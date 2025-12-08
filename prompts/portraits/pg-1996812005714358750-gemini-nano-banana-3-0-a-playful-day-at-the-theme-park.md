@@ -5,7 +5,7 @@ tags: ["nano-banana-pro"]
 author: "@rowanali09"
 author_url: "https://twitter.com/rowanali09"
 source_url: "https://twitter.com/rowanali09/status/1996812005714358750"
-preview: "/images/portraits/pg-1996812005714358750.webp"
+preview: "/media/portraits/pg-1996812005714358750.webp"
 ---
 
 Under the warm golden glow of the afternoon sun, a young woman strikes a playful pose in a whimsical theme park, surrounded by dreamy castle architecture and lush greenery.
@@ -122,4 +122,4 @@ Under the warm golden glow of the afternoon sun, a young woman strikes a playful
 
 ## Example Output
 
-![Gemini Nano Banana 3.0: A Playful Day at the Theme Park](/images/portraits/pg-1996812005714358750.webp)
+![Gemini Nano Banana 3.0: A Playful Day at the Theme Park](/media/portraits/pg-1996812005714358750.webp)

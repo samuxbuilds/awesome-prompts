@@ -3,7 +3,7 @@ title: "Chalkboard Anime Art Documentation"
 category: creative
 tags: ["anime", "realistic", "photorealistic", "illustration", "pastel"]
 author: "@nanobanana-pro"
-preview: "/images/creative/nb-chalkboard-anime-art-documentation.webp"
+preview: "/media/creative/nb-chalkboard-anime-art-documentation.webp"
 ---
 
 *Photorealistic documentation of a chalkboard anime drawing*
@@ -49,4 +49,4 @@ preview: "/images/creative/nb-chalkboard-anime-art-documentation.webp"
 }
 
 ## Example Output
-![Chalkboard Anime Art Documentation](/images/creative/nb-chalkboard-anime-art-documentation.webp)
+![Chalkboard Anime Art Documentation](/media/creative/nb-chalkboard-anime-art-documentation.webp)

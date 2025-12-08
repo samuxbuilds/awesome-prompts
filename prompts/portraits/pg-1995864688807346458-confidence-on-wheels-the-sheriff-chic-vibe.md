@@ -5,7 +5,7 @@ tags: ["vintage","nano-banana-pro"]
 author: "@IqraSaifiii"
 author_url: "https://twitter.com/IqraSaifiii"
 source_url: "https://twitter.com/IqraSaifiii/status/1995864688807346458"
-preview: "/images/portraits/pg-1995864688807346458.webp"
+preview: "/media/portraits/pg-1995864688807346458.webp"
 ---
 
 Where playful meets powerful! This confident woman commands attention in her sheriff's gear, leaning boldly over a vintage car under the soft gray sky.
@@ -24,4 +24,4 @@ The setting is a desolate, yet picturesque, dry and hilly landscape, with a wind
 
 ## Example Output
 
-![Confidence on Wheels: The Sheriff Chic Vibe](/images/portraits/pg-1995864688807346458.webp)
+![Confidence on Wheels: The Sheriff Chic Vibe](/media/portraits/pg-1995864688807346458.webp)

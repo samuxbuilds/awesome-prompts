@@ -5,7 +5,7 @@ tags: ["portrait","miniature","nano-banana-pro"]
 author: "@ShreyaYadav___"
 author_url: "https://twitter.com/ShreyaYadav___"
 source_url: "https://twitter.com/ShreyaYadav___/status/1996775143478383101"
-preview: "/images/3d/pg-1996775143478383101.webp"
+preview: "/media/3d/pg-1996775143478383101.webp"
 ---
 
 Who knew creativity could come in such small packages? This stunning portrait blurs reality, featuring a main subject deep in thought, surrounded by lively miniature clones, each one adding a spark of imagination to the scene!
@@ -67,4 +67,4 @@ Who knew creativity could come in such small packages? This stunning portrait bl
 
 ## Example Output
 
-![Unleashing Creativity: A Portrait of Miniature Clones](/images/3d/pg-1996775143478383101.webp)
+![Unleashing Creativity: A Portrait of Miniature Clones](/media/3d/pg-1996775143478383101.webp)

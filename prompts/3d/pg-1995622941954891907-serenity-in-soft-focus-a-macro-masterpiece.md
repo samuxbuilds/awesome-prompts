@@ -5,7 +5,7 @@ tags: ["art","pastel","nano-banana-pro"]
 author: "@miilesus"
 author_url: "https://twitter.com/miilesus"
 source_url: "https://twitter.com/miilesus/status/1995622941954891907"
-preview: "/images/3d/pg-1995622941954891907.webp"
+preview: "/media/3d/pg-1995622941954891907.webp"
 ---
 
 An extreme close-up reveals delicate beauty—a serene expression, soft wavy hair, and shimmering eyes framed by a gently blurred hand, all bathed in pastel hues. Pure artistry!
@@ -108,4 +108,4 @@ An extreme close-up reveals delicate beauty—a serene expression, soft wavy hai
 
 ## Example Output
 
-![Serenity in Soft Focus: A Macro Masterpiece](/images/3d/pg-1995622941954891907.webp)
+![Serenity in Soft Focus: A Macro Masterpiece](/media/3d/pg-1995622941954891907.webp)

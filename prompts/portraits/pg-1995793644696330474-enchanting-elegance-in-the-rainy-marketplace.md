@@ -5,7 +5,7 @@ tags: ["nano-banana-pro"]
 author: "@rowanali09"
 author_url: "https://twitter.com/rowanali09"
 source_url: "https://twitter.com/rowanali09/status/1995793644696330474"
-preview: "/images/portraits/pg-1995793644696330474.webp"
+preview: "/media/portraits/pg-1995793644696330474.webp"
 ---
 
 Bold and striking, she glides through the drizzling night—an embodiment of strength and grace. Her soaked robe clings alluringly, illuminating the ancient marketplace with enchanting lantern glow.
@@ -20,4 +20,4 @@ A fierce, stunningly beautiful woman with sharp features and intense eyes, walki
 
 ## Example Output
 
-![Enchanting Elegance in the Rainy Marketplace](/images/portraits/pg-1995793644696330474.webp)
+![Enchanting Elegance in the Rainy Marketplace](/media/portraits/pg-1995793644696330474.webp)

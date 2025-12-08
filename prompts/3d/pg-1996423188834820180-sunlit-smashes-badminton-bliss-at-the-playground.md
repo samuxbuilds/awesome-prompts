@@ -5,7 +5,7 @@ tags: ["vibrant","nano-banana-pro"]
 author: "@ReemKhan_07"
 author_url: "https://twitter.com/ReemKhan_07"
 source_url: "https://twitter.com/ReemKhan_07/status/1996423188834820180"
-preview: "/images/3d/pg-1996423188834820180.webp"
+preview: "/media/3d/pg-1996423188834820180.webp"
 ---
 
 With a focused smile, she swings high, sending the shuttlecock soaring under the bright sun. The vibrant playground buzzes with life, perfect for an energetic match!
@@ -46,4 +46,4 @@ With a focused smile, she swings high, sending the shuttlecock soaring under the
 
 ## Example Output
 
-![Sunlit Smashes: Badminton Bliss at the Playground](/images/3d/pg-1996423188834820180.webp)
+![Sunlit Smashes: Badminton Bliss at the Playground](/media/3d/pg-1996423188834820180.webp)

@@ -5,7 +5,7 @@ tags: ["nano-banana-pro"]
 author: "@johnnprofits"
 author_url: "https://twitter.com/johnnprofits"
 source_url: "https://twitter.com/johnnprofits/status/1996722937727201301"
-preview: "/images/portraits/pg-1996722937727201301.webp"
+preview: "/media/portraits/pg-1996722937727201301.webp"
 ---
 
 Caught in a sunny moment, a charming blonde winks while savoring a cheese cracker. Inside her stylish car, the world blurs past, blending fun with flair!
@@ -46,4 +46,4 @@ Caught in a sunny moment, a charming blonde winks while savoring a cheese cracke
 
 ## Example Output
 
-![Cheesy Smiles on the Go!](/images/portraits/pg-1996722937727201301.webp)
+![Cheesy Smiles on the Go!](/media/portraits/pg-1996722937727201301.webp)

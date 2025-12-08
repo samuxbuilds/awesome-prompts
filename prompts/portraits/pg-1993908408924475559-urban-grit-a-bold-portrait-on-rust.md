@@ -5,7 +5,7 @@ tags: ["portrait","urban","nano-banana-pro"]
 author: "@SimplyAnnisa"
 author_url: "https://twitter.com/SimplyAnnisa"
 source_url: "https://twitter.com/SimplyAnnisa/status/1993908408924475559"
-preview: "/images/portraits/pg-1993908408924475559.webp"
+preview: "/media/portraits/pg-1993908408924475559.webp"
 ---
 
 Sitting atop a weathered car, her gaze pierces through the lens, echoing stories untold. Clad in monochrome, she embodies the raw essence of street style with an intensity that captivates.
@@ -40,4 +40,4 @@ Sitting atop a weathered car, her gaze pierces through the lens, echoing stories
 
 ## Example Output
 
-![Urban Grit: A Bold Portrait on Rust](/images/portraits/pg-1993908408924475559.webp)
+![Urban Grit: A Bold Portrait on Rust](/media/portraits/pg-1993908408924475559.webp)

@@ -5,7 +5,7 @@ tags: ["nano-banana-pro"]
 author: "@AIwithkhan"
 author_url: "https://twitter.com/AIwithkhan"
 source_url: "https://twitter.com/AIwithkhan/status/1995173693665001744"
-preview: "/images/portraits/pg-1995173693665001744.webp"
+preview: "/media/portraits/pg-1995173693665001744.webp"
 ---
 
 Under the warm glow of a lamp, she embraces tranquility. A book in hand and a playful bubble pop, this intimate scene captures the essence of a perfect evening at home.
@@ -20,4 +20,4 @@ A cozy indoor portrait of a young woman sitting on a sofa, wearing a loose, off-
 
 ## Example Output
 
-![Cozy Moments: A Captivating Evening Retreat](/images/portraits/pg-1995173693665001744.webp)
+![Cozy Moments: A Captivating Evening Retreat](/media/portraits/pg-1995173693665001744.webp)

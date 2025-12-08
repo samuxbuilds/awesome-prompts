@@ -5,7 +5,7 @@ tags: ["nano-banana-pro"]
 author: "@haniya_445"
 author_url: "https://twitter.com/haniya_445"
 source_url: "https://twitter.com/haniya_445/status/1991712850344358255"
-preview: "/images/portraits/pg-1991712850344358255.webp"
+preview: "/media/portraits/pg-1991712850344358255.webp"
 ---
 
 A serene moment captured in teal, where flowing fabric dances in the breeze. The woman's tranquil gaze meets the golden sky, embodying grace and ethereal beauty.
@@ -20,4 +20,4 @@ A highly detailed portrait of a beautiful woman in a dramatic, flowing teal and 
 
 ## Example Output
 
-![Whispers of Wind: A Teal Dream Unveiled](/images/portraits/pg-1991712850344358255.webp)
+![Whispers of Wind: A Teal Dream Unveiled](/media/portraits/pg-1991712850344358255.webp)

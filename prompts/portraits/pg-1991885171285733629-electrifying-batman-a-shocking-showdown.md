@@ -5,7 +5,7 @@ tags: ["nano-banana-pro"]
 author: "@fahabib91"
 author_url: "https://twitter.com/fahabib91"
 source_url: "https://twitter.com/fahabib91/status/1991885171285733629"
-preview: "/images/portraits/pg-1991885171285733629.webp"
+preview: "/media/portraits/pg-1991885171285733629.webp"
 ---
 
 Caught in the thunderous grip of chaos, a determined Batman grapples with raw, crackling energy. The scene pulses with intensity, drawing you deep into this fierce moment of battle.
@@ -20,4 +20,4 @@ A close-up, medium shot captures a man dressed as Batman, appearing to be in the
 
 ## Example Output
 
-![Electrifying Batman: A Shocking Showdown!](/images/portraits/pg-1991885171285733629.webp)
+![Electrifying Batman: A Shocking Showdown!](/media/portraits/pg-1991885171285733629.webp)

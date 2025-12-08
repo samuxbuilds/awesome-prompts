@@ -5,7 +5,7 @@ tags: ["vintage","vibrant","nano-banana-pro"]
 author: "@oggii_0"
 author_url: "https://twitter.com/oggii_0"
 source_url: "https://twitter.com/oggii_0/status/1994040270468599989"
-preview: "/images/portraits/pg-1994040270468599989.webp"
+preview: "/media/portraits/pg-1994040270468599989.webp"
 ---
 
 Can you feel the nostalgia? A young man sprawls on a pristine white floor, surrounded by vibrant vinyls and vintage tech, echoing the carefree spirit of the 90s.
@@ -20,4 +20,4 @@ A top-down perspective of a young man lying on a clean white floor, styled in a 
 
 ## Example Output
 
-![Retro Vibes: A 90s Dreamscape Unveiled](/images/portraits/pg-1994040270468599989.webp)
+![Retro Vibes: A 90s Dreamscape Unveiled](/media/portraits/pg-1994040270468599989.webp)

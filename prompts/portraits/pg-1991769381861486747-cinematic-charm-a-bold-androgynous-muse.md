@@ -5,7 +5,7 @@ tags: ["nano-banana-pro"]
 author: "@ShreyaYadav___"
 author_url: "https://twitter.com/ShreyaYadav___"
 source_url: "https://twitter.com/ShreyaYadav___/status/1991769381861486747"
-preview: "/images/portraits/pg-1991769381861486747.webp"
+preview: "/media/portraits/pg-1991769381861486747.webp"
 ---
 
 Bold red lips and tousled hair illuminate a moody stairway scene. This striking collage captivates with its warm shadows and expressive poses, creating an edgy yet elegant visual narrative.
@@ -79,4 +79,4 @@ Bold red lips and tousled hair illuminate a moody stairway scene. This striking 
 
 ## Example Output
 
-![Cinematic Charm: A Bold Androgynous Muse](/images/portraits/pg-1991769381861486747.webp)
+![Cinematic Charm: A Bold Androgynous Muse](/media/portraits/pg-1991769381861486747.webp)

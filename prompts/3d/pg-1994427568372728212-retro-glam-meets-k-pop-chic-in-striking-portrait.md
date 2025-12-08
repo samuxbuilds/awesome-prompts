@@ -5,7 +5,7 @@ tags: ["portrait","vintage","nano-banana-pro"]
 author: "@IqraSaifiii"
 author_url: "https://twitter.com/IqraSaifiii"
 source_url: "https://twitter.com/IqraSaifiii/status/1994427568372728212"
-preview: "/images/3d/pg-1994427568372728212.webp"
+preview: "/media/3d/pg-1994427568372728212.webp"
 ---
 
 A vintage-inspired vision! This stunning K-pop model in a plaid bustier and leatherette skirt exudes confidence against a nostalgic backdrop, radiating timeless allure.
@@ -35,4 +35,4 @@ A vintage-inspired vision! This stunning K-pop model in a plaid bustier and leat
 
 ## Example Output
 
-![Retro Glam Meets K-Pop Chic in Striking Portrait](/images/3d/pg-1994427568372728212.webp)
+![Retro Glam Meets K-Pop Chic in Striking Portrait](/media/3d/pg-1994427568372728212.webp)

@@ -5,7 +5,7 @@ tags: ["portrait","vintage","nano-banana-pro"]
 author: "@ShreyaYadav___"
 author_url: "https://twitter.com/ShreyaYadav___"
 source_url: "https://twitter.com/ShreyaYadav___/status/1993898539571884456"
-preview: "/images/3d/pg-1993898539571884456.webp"
+preview: "/media/3d/pg-1993898539571884456.webp"
 ---
 
 A playful blend of nostalgia and whimsy! This fan portrait captures a young woman glowing with joy, surrounded by her beloved Zootopia plushies, framed in a vintage film magic.
@@ -45,4 +45,4 @@ A playful blend of nostalgia and whimsy! This fan portrait captures a young woma
 
 ## Example Output
 
-![Cinematic Charm: A Zootopia Dreamscape](/images/3d/pg-1993898539571884456.webp)
+![Cinematic Charm: A Zootopia Dreamscape](/media/3d/pg-1993898539571884456.webp)

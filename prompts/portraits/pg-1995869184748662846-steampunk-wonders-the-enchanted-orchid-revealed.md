@@ -5,7 +5,7 @@ tags: ["nature","light","nano-banana-pro"]
 author: "@DrSadek_"
 author_url: "https://twitter.com/DrSadek_"
 source_url: "https://twitter.com/DrSadek_/status/1995869184748662846"
-preview: "/images/portraits/pg-1995869184748662846.webp"
+preview: "/media/portraits/pg-1995869184748662846.webp"
 ---
 
 Behold a mesmerizing fusion of nature and ingenuity! A bioluminescent orchid floats within a brass bell jar, casting electric blue light on a Victorian botanist's desk, where curiosities abound.
@@ -39,4 +39,4 @@ Behold a mesmerizing fusion of nature and ingenuity! A bioluminescent orchid flo
 
 ## Example Output
 
-![Steampunk Wonders: The Enchanted Orchid Revealed](/images/portraits/pg-1995869184748662846.webp)
+![Steampunk Wonders: The Enchanted Orchid Revealed](/media/portraits/pg-1995869184748662846.webp)

@@ -5,7 +5,7 @@ tags: ["nature","vibrant","nano-banana-pro"]
 author: "@ZaraIrahh"
 author_url: "https://twitter.com/ZaraIrahh"
 source_url: "https://twitter.com/ZaraIrahh/status/1994032795363233809"
-preview: "/images/portraits/pg-1994032795363233809.webp"
+preview: "/media/portraits/pg-1994032795363233809.webp"
 ---
 
 Captured in golden hour magic, a playful smile and sweet strawberries create a cozy moment in this vibrant outdoor scene. Nature’s beauty blooms alongside laughter!
@@ -72,4 +72,4 @@ Captured in golden hour magic, a playful smile and sweet strawberries create a c
 
 ## Example Output
 
-![Sunny Picnic Vibes with a Berry Twist](/images/portraits/pg-1994032795363233809.webp)
+![Sunny Picnic Vibes with a Berry Twist](/media/portraits/pg-1994032795363233809.webp)

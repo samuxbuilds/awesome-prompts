@@ -5,7 +5,7 @@ tags: ["vintage","nano-banana-pro"]
 author: "@Ashlley_grace_"
 author_url: "https://twitter.com/Ashlley_grace_"
 source_url: "https://twitter.com/Ashlley_grace_/status/1993840792071479299"
-preview: "/images/portraits/pg-1993840792071479299.webp"
+preview: "/media/portraits/pg-1993840792071479299.webp"
 ---
 
 A moment of bliss captured: a young woman, adorned with a floral hair clip, radiates joy as she relaxes by a shimmering pool, embodying vintage elegance amidst tropical tranquility.
@@ -20,4 +20,4 @@ A moment of bliss captured: a young woman, adorned with a floral hair clip, radi
 
 ## Example Output
 
-![Sun-Kissed Serenity by the Poolside](/images/portraits/pg-1993840792071479299.webp)
+![Sun-Kissed Serenity by the Poolside](/media/portraits/pg-1993840792071479299.webp)

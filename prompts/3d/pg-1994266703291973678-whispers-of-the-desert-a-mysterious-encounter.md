@@ -5,7 +5,7 @@ tags: ["dark","nano-banana-pro"]
 author: "@AIwithkhan"
 author_url: "https://twitter.com/AIwithkhan"
 source_url: "https://twitter.com/AIwithkhan/status/1994266703291973678"
-preview: "/images/3d/pg-1994266703291973678.webp"
+preview: "/media/3d/pg-1994266703291973678.webp"
 ---
 
 A solitary figure in dark robes stands defiantly against the golden dunes, her piercing gaze challenging the sunset's warmth. Shadows dance as the wind carries secrets across an ancient landscape.
@@ -20,4 +20,4 @@ A mysterious woman stands alone in a vast golden desert at sunset, dressed in fl
 
 ## Example Output
 
-![Whispers of the Desert: A Mysterious Encounter](/images/3d/pg-1994266703291973678.webp)
+![Whispers of the Desert: A Mysterious Encounter](/media/3d/pg-1994266703291973678.webp)

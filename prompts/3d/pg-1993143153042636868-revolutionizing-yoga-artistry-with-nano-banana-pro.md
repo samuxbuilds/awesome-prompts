@@ -5,7 +5,7 @@ tags: ["art","nano-banana-pro"]
 author: "@IamEmily2050"
 author_url: "https://twitter.com/IamEmily2050"
 source_url: "https://twitter.com/IamEmily2050/status/1993143153042636868"
-preview: "/images/3d/pg-1993143153042636868.webp"
+preview: "/media/3d/pg-1993143153042636868.webp"
 ---
 
 A serene yoga scene unfolds, showcasing a meditative pose with exquisite detail. From the fluidity of the body to the delicate macrame backdrop, every element whispers tranquility.
@@ -114,4 +114,4 @@ A serene yoga scene unfolds, showcasing a meditative pose with exquisite detail.
 
 ## Example Output
 
-![Revolutionizing Yoga Artistry with Nano Banana Pro](/images/3d/pg-1993143153042636868.webp)
+![Revolutionizing Yoga Artistry with Nano Banana Pro](/media/3d/pg-1993143153042636868.webp)

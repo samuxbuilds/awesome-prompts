@@ -5,7 +5,7 @@ tags: ["portrait","light","nano-banana-pro"]
 author: "@_imfaizan18"
 author_url: "https://twitter.com/_imfaizan18"
 source_url: "https://twitter.com/_imfaizan18/status/1996220956201881878"
-preview: "/images/portraits/pg-1996220956201881878.webp"
+preview: "/media/portraits/pg-1996220956201881878.webp"
 ---
 
 A captivating gaze meets the lens, revealing raw emotion in monochrome. The contrast of light and shadow dances across her features, highlighting both strength and serenity.
@@ -20,4 +20,4 @@ Black and white studio portrait of the young woman in the uploaded image, lookin
 
 ## Example Output
 
-![Timeless Elegance: A Portrait in Shadows](/images/portraits/pg-1996220956201881878.webp)
+![Timeless Elegance: A Portrait in Shadows](/media/portraits/pg-1996220956201881878.webp)

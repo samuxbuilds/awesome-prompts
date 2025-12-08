@@ -3,7 +3,7 @@ title: "MrBeast Style - Extreme Scale"
 category: "thumbnails"
 tags: ["mrbeast", "youtube", "thumbnail", "scale", "massive"]
 author: "@samux"
-preview: "/images/thumbnails/mrbeast-extreme-scale.webp"
+preview: "/media/thumbnails/mrbeast-extreme-scale.webp"
 ---
 
 ```json
@@ -71,5 +71,5 @@ preview: "/images/thumbnails/mrbeast-extreme-scale.webp"
 ```
 
 ## Example Output
-![MrBeast Extreme Scale](/images/thumbnails/mrbeast-extreme-scale.webp)
+![MrBeast Extreme Scale](/media/thumbnails/mrbeast-extreme-scale.webp)
 

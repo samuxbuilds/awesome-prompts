@@ -5,7 +5,7 @@ tags: ["art","neon","pastel","vibrant","nano-banana-pro"]
 author: "@awesome_visuals"
 author_url: "https://twitter.com/awesome_visuals"
 source_url: "https://twitter.com/awesome_visuals/status/1993609750051766767"
-preview: "/images/portraits/pg-1993609750051766767.webp"
+preview: "/media/portraits/pg-1993609750051766767.webp"
 ---
 
 A whimsical blend of pastel and neon, this vibrant scene captures a playful young woman amidst a storm of sweets-monster pop-art. Her cheeky wink and confident pose shine against a backdrop of deliciously chaotic characters!
@@ -72,4 +72,4 @@ A whimsical blend of pastel and neon, this vibrant scene captures a playful youn
 
 ## Example Output
 
-![Sweet Chaos: A Playful Pop-Art Adventure](/images/portraits/pg-1993609750051766767.webp)
+![Sweet Chaos: A Playful Pop-Art Adventure](/media/portraits/pg-1993609750051766767.webp)

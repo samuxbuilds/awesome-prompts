@@ -5,7 +5,7 @@ tags: ["vibrant","nano-banana-pro"]
 author: "@Just_sharon7"
 author_url: "https://twitter.com/Just_sharon7"
 source_url: "https://twitter.com/Just_sharon7/status/1993990513238966675"
-preview: "/images/portraits/pg-1993990513238966675.webp"
+preview: "/media/portraits/pg-1993990513238966675.webp"
 ---
 
 A confident young woman stands elegantly in a chic black dress, casting an enchanting glance back. The vibrant kitchen backdrop hints at a fusion of style and flavor.
@@ -58,4 +58,4 @@ A confident young woman stands elegantly in a chic black dress, casting an encha
 
 ## Example Output
 
-![Sleek Sophistication Meets Culinary Creativity](/images/portraits/pg-1993990513238966675.webp)
+![Sleek Sophistication Meets Culinary Creativity](/media/portraits/pg-1993990513238966675.webp)

@@ -3,7 +3,7 @@ title: "Magazine Layout Generator"
 category: posters
 tags: ["creative", "ai-art"]
 author: "@nanobanana-pro"
-preview: "/images/posters/nb-magazine-layout-generator.webp"
+preview: "/media/posters/nb-magazine-layout-generator.webp"
 ---
 
 *Perfect for visualizing articles in print format with complex typography.*
@@ -14,4 +14,4 @@ Put this whole text, verbatim, into a photo of a glossy magazine article on a de
 - [Original](https://x.com/fofrAI/status/1991530971800182929)
 
 ## Example Output
-![Magazine Layout Generator](/images/posters/nb-magazine-layout-generator.webp)
+![Magazine Layout Generator](/media/posters/nb-magazine-layout-generator.webp)

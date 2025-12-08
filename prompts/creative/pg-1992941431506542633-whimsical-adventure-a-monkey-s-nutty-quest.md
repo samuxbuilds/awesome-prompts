@@ -5,7 +5,7 @@ tags: ["light","vibrant","nano-banana-pro"]
 author: "@BeanieBlossom"
 author_url: "https://twitter.com/BeanieBlossom"
 source_url: "https://twitter.com/BeanieBlossom/status/1992941431506542633"
-preview: "/images/creative/pg-1992941431506542633.webp"
+preview: "/media/creative/pg-1992941431506542633.webp"
 ---
 
 A delightful scene unfolds as a playful monkey, wrapped in a cozy scarf, rolls a colossal acorn down a vibrant forest trail, surrounded by a swirl of autumn leaves. Pure joy!
@@ -20,4 +20,4 @@ A tiny monkey wearing a knitted scarf rolls a giant acorn down a forest path, le
 
 ## Example Output
 
-![Whimsical Adventure: A Monkey's Nutty Quest](/images/creative/pg-1992941431506542633.webp)
+![Whimsical Adventure: A Monkey's Nutty Quest](/media/creative/pg-1992941431506542633.webp)

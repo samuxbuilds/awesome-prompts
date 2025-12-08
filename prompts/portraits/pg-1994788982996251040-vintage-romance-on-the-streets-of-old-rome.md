@@ -5,7 +5,7 @@ tags: ["vintage","nano-banana-pro"]
 author: "@AIwithkhan"
 author_url: "https://twitter.com/AIwithkhan"
 source_url: "https://twitter.com/AIwithkhan/status/1994788982996251040"
-preview: "/images/portraits/pg-1994788982996251040.webp"
+preview: "/media/portraits/pg-1994788982996251040.webp"
 ---
 
 A stylish girl in long boots stands confidently beside a mysterious man, enveloped in warm, cinematic hues. Their mesmerizing chemistry unfolds in a nostalgic Roman alley, where smoke swirls like secrets in the dusk.
@@ -65,4 +65,4 @@ A stylish girl in long boots stands confidently beside a mysterious man, envelop
 
 ## Example Output
 
-![Vintage Romance on the Streets of Old Rome](/images/portraits/pg-1994788982996251040.webp)
+![Vintage Romance on the Streets of Old Rome](/media/portraits/pg-1994788982996251040.webp)

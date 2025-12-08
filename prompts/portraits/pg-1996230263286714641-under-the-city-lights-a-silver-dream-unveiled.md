@@ -5,7 +5,7 @@ tags: ["urban","light","nano-banana-pro"]
 author: "@chatgptpaglu"
 author_url: "https://twitter.com/chatgptpaglu"
 source_url: "https://twitter.com/chatgptpaglu/status/1996230263286714641"
-preview: "/images/portraits/pg-1996230263286714641.webp"
+preview: "/media/portraits/pg-1996230263286714641.webp"
 ---
 
 Glimmering under soft streetlights, a sleek silver hypercar stands proud. A stylish woman in a black sequin dress rests elegantly, embodying luxury amidst a glamorous urban backdrop.
@@ -65,4 +65,4 @@ Glimmering under soft streetlights, a sleek silver hypercar stands proud. A styl
 
 ## Example Output
 
-![Under the City Lights: A Silver Dream Unveiled](/images/portraits/pg-1996230263286714641.webp)
+![Under the City Lights: A Silver Dream Unveiled](/media/portraits/pg-1996230263286714641.webp)

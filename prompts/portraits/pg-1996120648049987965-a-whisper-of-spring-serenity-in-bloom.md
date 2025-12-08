@@ -5,7 +5,7 @@ tags: ["nature","light","nano-banana-pro"]
 author: "@Sophia_here12"
 author_url: "https://twitter.com/Sophia_here12"
 source_url: "https://twitter.com/Sophia_here12/status/1996120648049987965"
-preview: "/images/portraits/pg-1996120648049987965.webp"
+preview: "/media/portraits/pg-1996120648049987965.webp"
 ---
 
 Amidst a sea of yellow, she strolls with grace. The soft petals and warm sunlight weave a tapestry of tranquility, inviting a moment's pause in nature's embrace.
@@ -27,4 +27,4 @@ This scene feels like a gentle escape into the heart of spring.
 
 ## Example Output
 
-![A Whisper of Spring: Serenity in Bloom](/images/portraits/pg-1996120648049987965.webp)
+![A Whisper of Spring: Serenity in Bloom](/media/portraits/pg-1996120648049987965.webp)

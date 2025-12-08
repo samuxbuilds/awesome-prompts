@@ -5,7 +5,7 @@ tags: ["art","vibrant","nano-banana-pro"]
 author: "@art_muse"
 author_url: "https://twitter.com/art_muse"
 source_url: "https://twitter.com/art_muse/status/1995849675543380473"
-preview: "/images/portraits/pg-1995849675543380473.webp"
+preview: "/media/portraits/pg-1995849675543380473.webp"
 ---
 
 A captivating profile emerges, adorned with a stunning red headscarf and surrounded by vibrant poppies. The intricate details echo an art nouveau charm, blending luxury and drama in a mesmerizing visual feast.
@@ -20,4 +20,4 @@ Beautiful woman in profile, elegant and serene expression, elaborate red headsca
 
 ## Example Output
 
-![A Regal Dream: Elegance in Crimson and Gold](/images/portraits/pg-1995849675543380473.webp)
+![A Regal Dream: Elegance in Crimson and Gold](/media/portraits/pg-1995849675543380473.webp)

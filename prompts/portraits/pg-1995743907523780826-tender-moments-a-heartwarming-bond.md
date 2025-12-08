@@ -5,7 +5,7 @@ tags: ["art","light","nano-banana-pro"]
 author: "@ZaraIrahh"
 author_url: "https://twitter.com/ZaraIrahh"
 source_url: "https://twitter.com/ZaraIrahh/status/1995743907523780826"
-preview: "/images/portraits/pg-1995743907523780826.webp"
+preview: "/media/portraits/pg-1995743907523780826.webp"
 ---
 
 A gentle embrace captures pure affection; sunlight stripes dance on soft fur and skin, creating an intimate scene of tranquility and love.
@@ -74,4 +74,4 @@ A gentle embrace captures pure affection; sunlight stripes dance on soft fur and
 
 ## Example Output
 
-![Tender Moments: A Heartwarming Bond](/images/portraits/pg-1995743907523780826.webp)
+![Tender Moments: A Heartwarming Bond](/media/portraits/pg-1995743907523780826.webp)

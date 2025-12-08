@@ -5,7 +5,7 @@ tags: ["fantasy","fashion","light","nano-banana-pro"]
 author: "@saniaspeaks_"
 author_url: "https://twitter.com/saniaspeaks_"
 source_url: "https://twitter.com/saniaspeaks_/status/1996030943476547820"
-preview: "/images/3d/pg-1996030943476547820.webp"
+preview: "/media/3d/pg-1996030943476547820.webp"
 ---
 
 A serene winter wonderland embraces this graceful figure in an exquisite gown. Soft lights and lush decorations create a magical backdrop, blending luxury with seasonal charm.
@@ -68,4 +68,4 @@ A serene winter wonderland embraces this graceful figure in an exquisite gown. S
 
 ## Example Output
 
-![Elegance Meets Winter: A Fashion Fantasy Unveiled](/images/3d/pg-1996030943476547820.webp)
+![Elegance Meets Winter: A Fashion Fantasy Unveiled](/media/3d/pg-1996030943476547820.webp)

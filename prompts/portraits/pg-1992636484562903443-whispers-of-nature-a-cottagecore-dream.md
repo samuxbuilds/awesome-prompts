@@ -5,7 +5,7 @@ tags: ["vintage","nature","light","vibrant","nano-banana-pro"]
 author: "@YaseenK7212"
 author_url: "https://twitter.com/YaseenK7212"
 source_url: "https://twitter.com/YaseenK7212/status/1992636484562903443"
-preview: "/images/portraits/pg-1992636484562903443.webp"
+preview: "/media/portraits/pg-1992636484562903443.webp"
 ---
 
 In a serene moment, a woman in a delicate vintage dress and a man peacefully sleeps, surrounded by butterflies and vibrant wildflowers, all kissed by dappled sunlight.
@@ -74,4 +74,4 @@ In a serene moment, a woman in a delicate vintage dress and a man peacefully sle
 
 ## Example Output
 
-![Whispers of Nature: A Cottagecore Dream](/images/portraits/pg-1992636484562903443.webp)
+![Whispers of Nature: A Cottagecore Dream](/media/portraits/pg-1992636484562903443.webp)

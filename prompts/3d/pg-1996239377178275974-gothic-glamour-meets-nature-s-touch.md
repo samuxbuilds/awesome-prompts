@@ -5,7 +5,7 @@ tags: ["nature","nano-banana-pro"]
 author: "@ShreyaYadav___"
 author_url: "https://twitter.com/ShreyaYadav___"
 source_url: "https://twitter.com/ShreyaYadav___/status/1996239377178275974"
-preview: "/images/3d/pg-1996239377178275974.webp"
+preview: "/media/3d/pg-1996239377178275974.webp"
 ---
 
 Elegance and intrigue collide as a stunning figure graces a weathered brick wall. The interplay of lace and ivy creates a captivating scene steeped in romantic charm.
@@ -48,4 +48,4 @@ Elegance and intrigue collide as a stunning figure graces a weathered brick wall
 
 ## Example Output
 
-![Gothic Glamour Meets Nature's Touch](/images/3d/pg-1996239377178275974.webp)
+![Gothic Glamour Meets Nature's Touch](/media/3d/pg-1996239377178275974.webp)

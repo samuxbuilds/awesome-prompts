@@ -5,7 +5,7 @@ tags: ["art","nature","dark","nano-banana-pro"]
 author: "@MrDasOnX"
 author_url: "https://twitter.com/MrDasOnX"
 source_url: "https://twitter.com/MrDasOnX/status/1995155798222311891"
-preview: "/images/creative/pg-1995155798222311891.webp"
+preview: "/media/creative/pg-1995155798222311891.webp"
 ---
 
 An owl emerges from the shadows, its amber eyes piercing the darkness. The striking contrast of deep blacks and fiery orange brings a surreal quality to this high-detail artwork, inviting viewers to explore the mysterious depths of nature.
@@ -20,4 +20,4 @@ Hyper-detailed, ultra-realistic illustration of an owl emerging from dense jungl
 
 ## Example Output
 
-![The Enigmatic Owl of the Jungle](/images/creative/pg-1995155798222311891.webp)
+![The Enigmatic Owl of the Jungle](/media/creative/pg-1995155798222311891.webp)

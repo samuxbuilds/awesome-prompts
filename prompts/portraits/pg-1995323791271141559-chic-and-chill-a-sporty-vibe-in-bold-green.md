@@ -5,7 +5,7 @@ tags: ["colorful","vibrant","nano-banana-pro"]
 author: "@mehvishs25"
 author_url: "https://twitter.com/mehvishs25"
 source_url: "https://twitter.com/mehvishs25/status/1995323791271141559"
-preview: "/images/portraits/pg-1995323791271141559.webp"
+preview: "/media/portraits/pg-1995323791271141559.webp"
 ---
 
 A radiant young woman lounges effortlessly on a vibrant green backdrop, combining sporty chic with a playful twist. Her button-up shirt and pleated pants harmonize with her colorful headscarf, creating a stylish yet relaxed atmosphere.
@@ -21,4 +21,4 @@ sneakers with green accents. She has white Nike crew socks with a black swoosh l
 
 ## Example Output
 
-![Chic and Chill: A Sporty Vibe in Bold Green](/images/portraits/pg-1995323791271141559.webp)
+![Chic and Chill: A Sporty Vibe in Bold Green](/media/portraits/pg-1995323791271141559.webp)

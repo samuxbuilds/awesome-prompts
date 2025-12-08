@@ -5,7 +5,7 @@ tags: ["portrait","modern","light","nano-banana-pro"]
 author: "@rovvmut_"
 author_url: "https://twitter.com/rovvmut_"
 source_url: "https://twitter.com/rovvmut_/status/1995146612885410093"
-preview: "/images/3d/pg-1995146612885410093.webp"
+preview: "/media/3d/pg-1995146612885410093.webp"
 ---
 
 A striking portrait of modern confidence! With light gray waves framing her sharp features, this captivating figure stands boldly against a bright blue sky.
@@ -69,4 +69,4 @@ A striking portrait of modern confidence! With light gray waves framing her shar
 
 ## Example Output
 
-![Edgy Elegance: The Nano Banana Muse](/images/3d/pg-1995146612885410093.webp)
+![Edgy Elegance: The Nano Banana Muse](/media/3d/pg-1995146612885410093.webp)

@@ -5,7 +5,7 @@ tags: ["nano-banana-pro"]
 author: "@flavioAd"
 author_url: "https://twitter.com/flavioAd"
 source_url: "https://twitter.com/flavioAd/status/1991514076829176146"
-preview: "/images/portraits/pg-1991514076829176146.webp"
+preview: "/media/portraits/pg-1991514076829176146.webp"
 ---
 
 Behold the transformation! The new Nano Banana shines alongside its predecessor, capturing the essence of innovation with striking detail and vivid clarity.
@@ -20,4 +20,4 @@ Black and white portrait of an elderly bearded man, full face, deep set eyes, fi
 
 ## Example Output
 
-![Nano Banana Pro Takes a Quantum Leap!](/images/portraits/pg-1991514076829176146.webp)
+![Nano Banana Pro Takes a Quantum Leap!](/media/portraits/pg-1991514076829176146.webp)

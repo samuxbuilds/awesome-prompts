@@ -3,7 +3,7 @@ title: "Commercial Promotional Poster"
 category: posters
 tags: ["poster", "sticker", "professional", "cinematic"]
 author: "@nanobanana-pro"
-preview: "/images/posters/nb-commercial-promotional-poster.webp"
+preview: "/media/posters/nb-commercial-promotional-poster.webp"
 ---
 
 *Designs professional sales posters with integrated text and high-quality product photography.*
@@ -17,4 +17,4 @@ Design a professional promotional poster for a [Coffee Shop]. Composition : A ci
 - [Original](https://mp.weixin.qq.com/s/lrYNbs4rGs3KOqewoZ6aNQ)
 
 ## Example Output
-![Commercial Promotional Poster](/images/posters/nb-commercial-promotional-poster.webp)
+![Commercial Promotional Poster](/media/posters/nb-commercial-promotional-poster.webp)

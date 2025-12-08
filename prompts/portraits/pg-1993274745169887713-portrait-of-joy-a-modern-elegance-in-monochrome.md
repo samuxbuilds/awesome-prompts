@@ -5,7 +5,7 @@ tags: ["portrait","art","modern","light","nano-banana-pro"]
 author: "@mehvishs25"
 author_url: "https://twitter.com/mehvishs25"
 source_url: "https://twitter.com/mehvishs25/status/1993274745169887713"
-preview: "/images/portraits/pg-1993274745169887713.webp"
+preview: "/media/portraits/pg-1993274745169887713.webp"
 ---
 
 Laughing softly, she embodies grace as her braided hair catches the light, framed by an artistic black and white backdrop. This image captures a joyful moment, blending contemporary style with timeless elegance.
@@ -20,4 +20,4 @@ Edit this photo without changing the face turning it into an artistic portrait T
 
 ## Example Output
 
-![Portrait of Joy: A Modern Elegance in Monochrome](/images/portraits/pg-1993274745169887713.webp)
+![Portrait of Joy: A Modern Elegance in Monochrome](/media/portraits/pg-1993274745169887713.webp)

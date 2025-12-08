@@ -5,7 +5,7 @@ tags: ["portrait","nano-banana-pro"]
 author: "@brad_zhang2024"
 author_url: "https://twitter.com/brad_zhang2024"
 source_url: "https://twitter.com/brad_zhang2024/status/1997242522708377885"
-preview: "/images/portraits/pg-1997242522708377885.webp"
+preview: "/media/portraits/pg-1997242522708377885.webp"
 ---
 
 Amidst a backdrop of soft beige, an East Asian beauty captivates in a white cheongsam, her gentle gaze framed by delicate flowers. Pure elegance redefined!
@@ -151,4 +151,4 @@ Amidst a backdrop of soft beige, an East Asian beauty captivates in a white cheo
 
 ## Example Output
 
-![Elegance in Bloom: A Portrait of Serenity](/images/portraits/pg-1997242522708377885.webp)
+![Elegance in Bloom: A Portrait of Serenity](/media/portraits/pg-1997242522708377885.webp)

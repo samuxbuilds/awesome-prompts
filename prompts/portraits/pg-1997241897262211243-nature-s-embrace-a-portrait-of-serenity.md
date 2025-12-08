@@ -5,7 +5,7 @@ tags: ["portrait","nature","light","nano-banana-pro"]
 author: "@TugserOkur"
 author_url: "https://twitter.com/TugserOkur"
 source_url: "https://twitter.com/TugserOkur/status/1997241897262211243"
-preview: "/images/portraits/pg-1997241897262211243.webp"
+preview: "/media/portraits/pg-1997241897262211243.webp"
 ---
 
 A soul captured amidst the whispers of the forest, where soft textures of a knit sweater blend seamlessly with nature's embrace. The warm light highlights a gentle smile, inviting introspection.
@@ -109,4 +109,4 @@ A soul captured amidst the whispers of the forest, where soft textures of a knit
 
 ## Example Output
 
-![Nature's Embrace: A Portrait of Serenity](/images/portraits/pg-1997241897262211243.webp)
+![Nature's Embrace: A Portrait of Serenity](/media/portraits/pg-1997241897262211243.webp)

@@ -3,7 +3,7 @@ title: "Compact Camera Screen Display"
 category: creative
 tags: ["logo", "nostalgic"]
 author: "@nanobanana-pro"
-preview: "/images/creative/nb-compact-camera-screen-display.webp"
+preview: "/media/creative/nb-compact-camera-screen-display.webp"
 ---
 
 *A photo displayed on a compact digital camera screen*
@@ -22,4 +22,4 @@ Lighting: harsh direct flash on subject, ambient low light in the background
 Color grading: nostalgic digital-camera tones, high contrast flash, subtle display grain, authentic screen glow.
 
 ## Example Output
-![Compact Camera Screen Display](/images/creative/nb-compact-camera-screen-display.webp)
+![Compact Camera Screen Display](/media/creative/nb-compact-camera-screen-display.webp)

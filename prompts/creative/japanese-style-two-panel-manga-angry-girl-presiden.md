@@ -3,7 +3,7 @@ title: "Japanese-style Two-Panel Manga (Angry Girl President)"
 category: creative
 tags: ["anime", "cartoon", "vintage", "cute", "manga"]
 author: "@hellokaton"
-preview: "/images/creative/japanese-style-two-panel-manga-angry-girl-presiden.webp"
+preview: "/media/creative/japanese-style-two-panel-manga-angry-girl-presiden.webp"
 ---
 
 Create a two-panel vertical manga in a cute Japanese anime style, theme: “The Daily Work Life of a Girl President.”
@@ -35,4 +35,4 @@ A photo of a person is needed for reference.
 - [Original Post](https://x.com/hellokaton/status/1910900979194646959)
 
 ## Example Output
-![Two-panel Cute Japanese Manga](/images/creative/japanese-style-two-panel-manga-angry-girl-presiden.webp)
+![Two-panel Cute Japanese Manga](/media/creative/japanese-style-two-panel-manga-angry-girl-presiden.webp)

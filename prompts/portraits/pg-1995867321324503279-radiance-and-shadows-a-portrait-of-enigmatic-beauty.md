@@ -5,7 +5,7 @@ tags: ["portrait","light","nano-banana-pro"]
 author: "@ShreyaYadav___"
 author_url: "https://twitter.com/ShreyaYadav___"
 source_url: "https://twitter.com/ShreyaYadav___/status/1995867321324503279"
-preview: "/images/portraits/pg-1995867321324503279.webp"
+preview: "/media/portraits/pg-1995867321324503279.webp"
 ---
 
 Sunlight dances on her features as she gazes into the distance, a perfect blend of light and shadow capturing her ethereal beauty. This striking portrait reveals the allure of contrast and elegance.
@@ -22,4 +22,4 @@ Signature: Shreya Yadav
 
 ## Example Output
 
-![Radiance and Shadows: A Portrait of Enigmatic Beauty](/images/portraits/pg-1995867321324503279.webp)
+![Radiance and Shadows: A Portrait of Enigmatic Beauty](/media/portraits/pg-1995867321324503279.webp)

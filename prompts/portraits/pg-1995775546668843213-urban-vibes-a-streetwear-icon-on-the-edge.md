@@ -5,7 +5,7 @@ tags: ["art","urban","fashion","vibrant","nano-banana-pro"]
 author: "@Harboris_27"
 author_url: "https://twitter.com/Harboris_27"
 source_url: "https://twitter.com/Harboris_27/status/1995775546668843213"
-preview: "/images/portraits/pg-1995775546668843213.webp"
+preview: "/media/portraits/pg-1995775546668843213.webp"
 ---
 
 Bold colors collide in this urban scene, where street art meets style. A young trendsetter lounges on a graffiti wall, showcasing an effortless blend of fashion and attitude against a vibrant backdrop.
@@ -20,4 +20,4 @@ A Stylish Young Man (Use The Uploaded Picture As Reference For The Face) is Sitt
 
 ## Example Output
 
-![Urban Vibes: A Streetwear Icon on the Edge](/images/portraits/pg-1995775546668843213.webp)
+![Urban Vibes: A Streetwear Icon on the Edge](/media/portraits/pg-1995775546668843213.webp)

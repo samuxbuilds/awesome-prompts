@@ -5,7 +5,7 @@ tags: ["portrait","vintage","light","nano-banana-pro"]
 author: "@xmiiru_"
 author_url: "https://twitter.com/xmiiru_"
 source_url: "https://twitter.com/xmiiru_/status/1995344587750072496"
-preview: "/images/3d/pg-1995344587750072496.webp"
+preview: "/media/3d/pg-1995344587750072496.webp"
 ---
 
 A striking portrait of confidence! Mira, in a vintage pinstripe suit, leans against a gritty wall, flaunting a slightly smug smirk. Her poised demeanor defies norms and captivates the lens.
@@ -104,4 +104,4 @@ A striking portrait of confidence! Mira, in a vintage pinstripe suit, leans agai
 
 ## Example Output
 
-![Breaking Boundaries: The Bold Mugshot of Mira](/images/3d/pg-1995344587750072496.webp)
+![Breaking Boundaries: The Bold Mugshot of Mira](/media/3d/pg-1995344587750072496.webp)

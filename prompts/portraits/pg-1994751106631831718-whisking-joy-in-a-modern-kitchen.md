@@ -5,7 +5,7 @@ tags: ["modern","nano-banana-pro"]
 author: "@saniaspeaks_"
 author_url: "https://twitter.com/saniaspeaks_"
 source_url: "https://twitter.com/saniaspeaks_/status/1994751106631831718"
-preview: "/images/portraits/pg-1994751106631831718.webp"
+preview: "/media/portraits/pg-1994751106631831718.webp"
 ---
 
 In a cozy kitchen with glossy white cabinets, a cheerful woman stirs joy into her cooking, radiating warmth with her bright smile and stylish attire.
@@ -77,4 +77,4 @@ In a cozy kitchen with glossy white cabinets, a cheerful woman stirs joy into he
 
 ## Example Output
 
-![Whisking Joy in a Modern Kitchen](/images/portraits/pg-1994751106631831718.webp)
+![Whisking Joy in a Modern Kitchen](/media/portraits/pg-1994751106631831718.webp)

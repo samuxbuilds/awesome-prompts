@@ -5,7 +5,7 @@ tags: ["nature","nano-banana-pro"]
 author: "@azed_ai"
 author_url: "https://twitter.com/azed_ai"
 source_url: "https://twitter.com/azed_ai/status/1994767576963207277"
-preview: "/images/portraits/pg-1994767576963207277.webp"
+preview: "/media/portraits/pg-1994767576963207277.webp"
 ---
 
 A lone survivor treads softly through nature's reclamation. With weary eyes and a rugged spirit, he navigates the beauty in decay amid crumbling walls and wild grass.
@@ -88,4 +88,4 @@ A lone survivor treads softly through nature's reclamation. With weary eyes and 
 
 ## Example Output
 
-![Silent Echoes of a Forgotten City](/images/portraits/pg-1994767576963207277.webp)
+![Silent Echoes of a Forgotten City](/media/portraits/pg-1994767576963207277.webp)

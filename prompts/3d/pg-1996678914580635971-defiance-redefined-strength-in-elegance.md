@@ -5,7 +5,7 @@ tags: ["modern","nano-banana-pro"]
 author: "@egeberkina"
 author_url: "https://twitter.com/egeberkina"
 source_url: "https://twitter.com/egeberkina/status/1996678914580635971"
-preview: "/images/3d/pg-1996678914580635971.webp"
+preview: "/media/3d/pg-1996678914580635971.webp"
 ---
 
 In a stark white studio, a striking figure emerges. This fierce woman, poised with a modern pistol, embodies the essence of power, elegance, and unyielding determination.
@@ -31,4 +31,4 @@ In a stark white studio, a striking figure emerges. This fierce woman, poised wi
 
 ## Example Output
 
-![Defiance Redefined: Strength in Elegance](/images/3d/pg-1996678914580635971.webp)
+![Defiance Redefined: Strength in Elegance](/media/3d/pg-1996678914580635971.webp)

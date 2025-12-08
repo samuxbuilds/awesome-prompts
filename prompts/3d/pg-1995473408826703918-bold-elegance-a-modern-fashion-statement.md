@@ -5,7 +5,7 @@ tags: ["art","modern","fashion","minimal","nano-banana-pro"]
 author: "@mehvishs25"
 author_url: "https://twitter.com/mehvishs25"
 source_url: "https://twitter.com/mehvishs25/status/1995473408826703918"
-preview: "/images/3d/pg-1995473408826703918.webp"
+preview: "/media/3d/pg-1995473408826703918.webp"
 ---
 
 In a striking clash of color, a chic figure exudes confidence in crisp, tailored elegance. This minimalist masterpiece captures luxury in its purest form with the bold 'ZARA' at its heart.
@@ -20,4 +20,4 @@ In a striking clash of color, a chic figure exudes confidence in crisp, tailored
 
 ## Example Output
 
-![Bold Elegance: A Modern Fashion Statement](/images/3d/pg-1995473408826703918.webp)
+![Bold Elegance: A Modern Fashion Statement](/media/3d/pg-1995473408826703918.webp)

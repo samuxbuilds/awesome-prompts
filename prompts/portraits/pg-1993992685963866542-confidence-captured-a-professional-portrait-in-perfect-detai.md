@@ -5,7 +5,7 @@ tags: ["portrait","light","nano-banana-pro"]
 author: "@kingofdairyque"
 author_url: "https://twitter.com/kingofdairyque"
 source_url: "https://twitter.com/kingofdairyque/status/1993992685963866542"
-preview: "/images/portraits/pg-1993992685963866542.webp"
+preview: "/media/portraits/pg-1993992685963866542.webp"
 ---
 
 Unveiling a striking portrait that radiates professionalism! The subtle textures of the charcoal blazer, the warm lighting, and an inviting expression create an unforgettable presence.
@@ -20,4 +20,4 @@ A professional, high-resolution profile photo, maintaining the exact facial stru
 
 ## Example Output
 
-![Confidence Captured: A Professional Portrait in Perfect Detail](/images/portraits/pg-1993992685963866542.webp)
+![Confidence Captured: A Professional Portrait in Perfect Detail](/media/portraits/pg-1993992685963866542.webp)

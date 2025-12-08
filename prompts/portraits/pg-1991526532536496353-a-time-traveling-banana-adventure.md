@@ -5,7 +5,7 @@ tags: ["travel","nano-banana-pro"]
 author: "@minchoi"
 author_url: "https://twitter.com/minchoi"
 source_url: "https://twitter.com/minchoi/status/1991526532536496353"
-preview: "/images/portraits/pg-1991526532536496353.webp"
+preview: "/media/portraits/pg-1991526532536496353.webp"
 ---
 
 From youthful smiles to wise chuckles, this whimsical holiday photo captures a journey through the decades—complete with a 2020 mask twist!
@@ -20,4 +20,4 @@ Generate the holiday photo of this person through the ages up to 80 years old
 
 ## Example Output
 
-![A Time-Traveling Banana Adventure](/images/portraits/pg-1991526532536496353.webp)
+![A Time-Traveling Banana Adventure](/media/portraits/pg-1991526532536496353.webp)

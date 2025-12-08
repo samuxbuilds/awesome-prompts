@@ -5,7 +5,7 @@ tags: ["modern","minimal","nano-banana-pro"]
 author: "@Xxaroon"
 author_url: "https://twitter.com/Xxaroon"
 source_url: "https://twitter.com/Xxaroon/status/1991435397726105959"
-preview: "/images/portraits/pg-1991435397726105959.webp"
+preview: "/media/portraits/pg-1991435397726105959.webp"
 ---
 
 Casual yet striking, this low-angle shot elevates modern streetwear. Oversized sneakers dominate the frame, while a calm smile embodies effortless style against a pristine backdrop.
@@ -20,4 +20,4 @@ Casual yet striking, this low-angle shot elevates modern streetwear. Oversized s
 
 ## Example Output
 
-![Streetwear Elegance: A Minimalist Vision](/images/portraits/pg-1991435397726105959.webp)
+![Streetwear Elegance: A Minimalist Vision](/media/portraits/pg-1991435397726105959.webp)

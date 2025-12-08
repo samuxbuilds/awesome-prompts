@@ -5,7 +5,7 @@ tags: ["light","nano-banana-pro"]
 author: "@SimplyAnnisa"
 author_url: "https://twitter.com/SimplyAnnisa"
 source_url: "https://twitter.com/SimplyAnnisa/status/1991828184627920938"
-preview: "/images/portraits/pg-1991828184627920938.webp"
+preview: "/media/portraits/pg-1991828184627920938.webp"
 ---
 
 Captured in soft shadows and stark light, a young woman reflects in solitude. Her denim-clad silhouette, paired with the nostalgic glow of a yellow tube light, creates a poignant contrast that whispers stories of the night.
@@ -20,4 +20,4 @@ Captured in soft shadows and stark light, a young woman reflects in solitude. He
 
 ## Example Output
 
-![A Moment in Time: Night Thoughts at the Bus Stop](/images/portraits/pg-1991828184627920938.webp)
+![A Moment in Time: Night Thoughts at the Bus Stop](/media/portraits/pg-1991828184627920938.webp)

@@ -5,7 +5,7 @@ tags: ["selfie","nano-banana-pro"]
 author: "@xmiiru_"
 author_url: "https://twitter.com/xmiiru_"
 source_url: "https://twitter.com/xmiiru_/status/1995711137057251447"
-preview: "/images/portraits/pg-1995711137057251447.webp"
+preview: "/media/portraits/pg-1995711137057251447.webp"
 ---
 
 Caught in a moment of daydreaming bliss, this young girl’s serene expression shines. The soft glow and rich textures evoke a cozy, whimsical atmosphere.
@@ -24,4 +24,4 @@ Caught in a moment of daydreaming bliss, this young girl’s serene expression s
 
 ## Example Output
 
-![Dreamy Selfie in 16K Radiance ✨🌸](/images/portraits/pg-1995711137057251447.webp)
+![Dreamy Selfie in 16K Radiance ✨🌸](/media/portraits/pg-1995711137057251447.webp)

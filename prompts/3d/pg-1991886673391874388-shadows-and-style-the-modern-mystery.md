@@ -5,7 +5,7 @@ tags: ["art","modern","light","neon","nano-banana-pro"]
 author: "@Drshadow56"
 author_url: "https://twitter.com/Drshadow56"
 source_url: "https://twitter.com/Drshadow56/status/1991886673391874388"
-preview: "/images/3d/pg-1991886673391874388.webp"
+preview: "/media/3d/pg-1991886673391874388.webp"
 ---
 
 In the heart of the city, a figure cloaked in black stands confidently in an elevator, coffee in hand. Neon lights cast a dance of shadows, hinting at untold stories.
@@ -20,4 +20,4 @@ Edit the photo to be standing casually in a modern style elevator with reflectiv
 
 ## Example Output
 
-![Shadows and Style: The Modern Mystery](/images/3d/pg-1991886673391874388.webp)
+![Shadows and Style: The Modern Mystery](/media/3d/pg-1991886673391874388.webp)

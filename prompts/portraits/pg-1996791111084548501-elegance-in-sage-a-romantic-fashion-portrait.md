@@ -5,7 +5,7 @@ tags: ["portrait","fashion","nano-banana-pro"]
 author: "@ShreyaYadav___"
 author_url: "https://twitter.com/ShreyaYadav___"
 source_url: "https://twitter.com/ShreyaYadav___/status/1996791111084548501"
-preview: "/images/portraits/pg-1996791111084548501.webp"
+preview: "/media/portraits/pg-1996791111084548501.webp"
 ---
 
 Amidst soft hues, a couple embodies romance—her ruffled gown cascades like a dream, while he stands poised, complementing her every grace. Love in style!
@@ -32,4 +32,4 @@ Amidst soft hues, a couple embodies romance—her ruffled gown cascades like a d
 
 ## Example Output
 
-![Elegance in Sage: A Romantic Fashion Portrait](/images/portraits/pg-1996791111084548501.webp)
+![Elegance in Sage: A Romantic Fashion Portrait](/media/portraits/pg-1996791111084548501.webp)

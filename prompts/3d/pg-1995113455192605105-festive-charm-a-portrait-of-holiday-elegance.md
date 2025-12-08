@@ -5,7 +5,7 @@ tags: ["portrait","vibrant","nano-banana-pro"]
 author: "@kingofdairyque"
 author_url: "https://twitter.com/kingofdairyque"
 source_url: "https://twitter.com/kingofdairyque/status/1995113455192605105"
-preview: "/images/3d/pg-1995113455192605105.webp"
+preview: "/media/3d/pg-1995113455192605105.webp"
 ---
 
 A slender young woman radiates joy in a vibrant green knit crop top, playfully adorned with a reindeer toy. Set against a whimsical Christmas candy shop, her festive spirit shines bright with dazzling decorations and sweet treats all around!
@@ -20,4 +20,4 @@ Create a realistic portrait image of a young woman (face 100% identical to the o
 
 ## Example Output
 
-![Festive Charm: A Portrait of Holiday Elegance](/images/3d/pg-1995113455192605105.webp)
+![Festive Charm: A Portrait of Holiday Elegance](/media/3d/pg-1995113455192605105.webp)

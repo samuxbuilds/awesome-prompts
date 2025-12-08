@@ -5,7 +5,7 @@ tags: ["digital","nano-banana-pro"]
 author: "@CharaspowerAI"
 author_url: "https://twitter.com/CharaspowerAI"
 source_url: "https://twitter.com/CharaspowerAI/status/1994808576670380292"
-preview: "/images/portraits/pg-1994808576670380292.webp"
+preview: "/media/portraits/pg-1994808576670380292.webp"
 ---
 
 Can a banana-inspired warrior conquer the digital arena? Check out this dynamic moveset featuring electrifying attacks like 'Neural Burst' and 'Pixel Uppercut.'
@@ -20,4 +20,4 @@ infographic for a fighting game showing the complete moveset of an AI-powered fi
 
 ## Example Output
 
-![Unleash the AI Fighter: Moves That Pack a Punch!](/images/portraits/pg-1994808576670380292.webp)
+![Unleash the AI Fighter: Moves That Pack a Punch!](/media/portraits/pg-1994808576670380292.webp)

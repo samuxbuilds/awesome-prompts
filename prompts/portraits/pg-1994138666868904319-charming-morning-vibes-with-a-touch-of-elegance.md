@@ -5,7 +5,7 @@ tags: ["nano-banana-pro"]
 author: "@awesome_visuals"
 author_url: "https://twitter.com/awesome_visuals"
 source_url: "https://twitter.com/awesome_visuals/status/1994138666868904319"
-preview: "/images/portraits/pg-1994138666868904319.webp"
+preview: "/media/portraits/pg-1994138666868904319.webp"
 ---
 
 A sunlit moment captured—this young woman radiates warmth in a mint-green satin ensemble, playfully engaging with her rose-gold iPhone. Cozy and chic!
@@ -38,4 +38,4 @@ A sunlit moment captured—this young woman radiates warmth in a mint-green sati
 
 ## Example Output
 
-![Charming Morning Vibes with a Touch of Elegance](/images/portraits/pg-1994138666868904319.webp)
+![Charming Morning Vibes with a Touch of Elegance](/media/portraits/pg-1994138666868904319.webp)

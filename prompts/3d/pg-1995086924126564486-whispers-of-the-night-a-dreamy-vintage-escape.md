@@ -5,7 +5,7 @@ tags: ["vintage","light","nano-banana-pro"]
 author: "@xmliisu"
 author_url: "https://twitter.com/xmliisu"
 source_url: "https://twitter.com/xmliisu/status/1995086924126564486"
-preview: "/images/3d/pg-1995086924126564486.webp"
+preview: "/media/3d/pg-1995086924126564486.webp"
 ---
 
 Caught in a whirlwind of memories, a figure drifts through the night, hair wild with the wind's embrace. Vintage vibes and city lights merge, creating a captivating blur of life.
@@ -53,4 +53,4 @@ Caught in a whirlwind of memories, a figure drifts through the night, hair wild 
 
 ## Example Output
 
-![Whispers of the Night: A Dreamy Vintage Escape](/images/3d/pg-1995086924126564486.webp)
+![Whispers of the Night: A Dreamy Vintage Escape](/media/3d/pg-1995086924126564486.webp)

@@ -5,7 +5,7 @@ tags: ["portrait","art","nature","light","nano-banana-pro"]
 author: "@YaseenK7212"
 author_url: "https://twitter.com/YaseenK7212"
 source_url: "https://twitter.com/YaseenK7212/status/1991551320646447220"
-preview: "/images/portraits/pg-1991551320646447220.webp"
+preview: "/media/portraits/pg-1991551320646447220.webp"
 ---
 
 A striking portrait of a young man in earthy tones, harmonizing with a majestic Maine Coon atop his knitted hood. The light casts an enchanting glow, revealing the beauty of companionship and style.
@@ -20,4 +20,4 @@ Ultra-detailed, hyper-realistic, cinematic, aspect ratio 9:16. Low-angle camera 
 
 ## Example Output
 
-![Whimsical Warmth: A Cozy Encounter with Nature](/images/portraits/pg-1991551320646447220.webp)
+![Whimsical Warmth: A Cozy Encounter with Nature](/media/portraits/pg-1991551320646447220.webp)

@@ -5,7 +5,7 @@ tags: ["anime","realistic","art","urban","fashion","light","pastel","vibrant"]
 author: "@SimplyAnnisa"
 author_url: "https://twitter.com/SimplyAnnisa"
 source_url: "https://twitter.com/SimplyAnnisa/status/1991726685201608963"
-preview: "/images/3d/pg-1991726685201608963.webp"
+preview: "/media/3d/pg-1991726685201608963.webp"
 ---
 
 Under the vibrant glow of diagonal sunlight, a fashion-forward figure strikes a pose beside a stunning anime mural. The interplay of light and shadow enhances her chic pastel ensemble, showcasing a blend of art and life in a hyperrealistic urban scene.
@@ -20,4 +20,4 @@ A hyperrealistic cinematic wide street shot. The subject stands right beside a c
 
 ## Example Output
 
-![Chic Meets Street: A Burst of Color and Style](/images/3d/pg-1991726685201608963.webp)
+![Chic Meets Street: A Burst of Color and Style](/media/3d/pg-1991726685201608963.webp)

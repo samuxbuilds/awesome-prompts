@@ -5,7 +5,7 @@ tags: ["portrait","nano-banana-pro"]
 author: "@Nona_xai"
 author_url: "https://twitter.com/Nona_xai"
 source_url: "https://twitter.com/Nona_xai/status/1996532029379289277"
-preview: "/images/3d/pg-1996532029379289277.webp"
+preview: "/media/3d/pg-1996532029379289277.webp"
 ---
 
 Unleash your creativity with stunning 8K portraits! The Gemini Nano Banana 3.0 brings your vision to life, showcasing dramatic contrasts and intimate details.
@@ -123,4 +123,4 @@ Unleash your creativity with stunning 8K portraits! The Gemini Nano Banana 3.0 b
 
 ## Example Output
 
-![Capture Perfection with Gemini Nano Banana 3.0! 📸](/images/3d/pg-1996532029379289277.webp)
+![Capture Perfection with Gemini Nano Banana 3.0! 📸](/media/3d/pg-1996532029379289277.webp)

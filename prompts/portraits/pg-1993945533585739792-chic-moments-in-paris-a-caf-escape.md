@@ -5,7 +5,7 @@ tags: ["light","nano-banana-pro"]
 author: "@kingofdairyque"
 author_url: "https://twitter.com/kingofdairyque"
 source_url: "https://twitter.com/kingofdairyque/status/1993945533585739792"
-preview: "/images/portraits/pg-1993945533585739792.webp"
+preview: "/media/portraits/pg-1993945533585739792.webp"
 ---
 
 What a picturesque afternoon! With the Eiffel Tower standing tall, she enjoys a delightful spread, each bite infused with the essence of Parisian charm.
@@ -20,4 +20,4 @@ A young woman sitting at an outdoor café table in a Paris setting, with the Eif
 
 ## Example Output
 
-![Chic Moments in Paris: A Café Escape](/images/portraits/pg-1993945533585739792.webp)
+![Chic Moments in Paris: A Café Escape](/media/portraits/pg-1993945533585739792.webp)

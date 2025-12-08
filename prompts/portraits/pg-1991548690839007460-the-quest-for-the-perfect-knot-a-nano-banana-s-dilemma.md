@@ -5,7 +5,7 @@ tags: ["art","fashion","nano-banana-pro"]
 author: "@AniBaddepudi"
 author_url: "https://twitter.com/AniBaddepudi"
 source_url: "https://twitter.com/AniBaddepudi/status/1991548690839007460"
-preview: "/images/portraits/pg-1991548690839007460.webp"
+preview: "/media/portraits/pg-1991548690839007460.webp"
 ---
 
 How can a tiny banana master the art of elegance? This quirky scene blends humor with style, showcasing the struggle of a nano banana trying to tie a tie. Who knew fashion could be so fruity?
@@ -20,4 +20,4 @@ nano banana, how do you tie a tie?
 
 ## Example Output
 
-![The Quest for the Perfect Knot: A Nano Banana's Dilemma](/images/portraits/pg-1991548690839007460.webp)
+![The Quest for the Perfect Knot: A Nano Banana's Dilemma](/media/portraits/pg-1991548690839007460.webp)

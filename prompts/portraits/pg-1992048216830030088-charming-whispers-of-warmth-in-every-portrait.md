@@ -5,7 +5,7 @@ tags: ["portrait","nano-banana-pro"]
 author: "@haniya_445"
 author_url: "https://twitter.com/haniya_445"
 source_url: "https://twitter.com/haniya_445/status/1992048216830030088"
-preview: "/images/portraits/pg-1992048216830030088.webp"
+preview: "/media/portraits/pg-1992048216830030088.webp"
 ---
 
 Radiating gentle vibes, this collage captures the essence of cozy moments. Each portrait reveals a serene charm, inviting you into her world of soft smiles and warm connections.
@@ -25,4 +25,4 @@ All four images maintain consistent soft, warm lighting and a cozy, inviting atm
 
 ## Example Output
 
-![Charming Whispers of Warmth in Every Portrait](/images/portraits/pg-1992048216830030088.webp)
+![Charming Whispers of Warmth in Every Portrait](/media/portraits/pg-1992048216830030088.webp)

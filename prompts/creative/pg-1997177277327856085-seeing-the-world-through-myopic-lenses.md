@@ -5,7 +5,7 @@ tags: ["vibrant","nano-banana-pro"]
 author: "@umesh_ai"
 author_url: "https://twitter.com/umesh_ai"
 source_url: "https://twitter.com/umesh_ai/status/1997177277327856085"
-preview: "/images/creative/pg-1997177277327856085.webp"
+preview: "/media/creative/pg-1997177277327856085.webp"
 ---
 
 Ever wondered how myopia twists your perspective? This ultra-close-up captures the essence of glasses framing a vibrant view, blurring the line between clarity and distortion.
@@ -20,4 +20,4 @@ ultra hugging close-up view of with edges of glasses with the lenses almost touc
 
 ## Example Output
 
-![Seeing the World Through Myopic Lenses](/images/creative/pg-1997177277327856085.webp)
+![Seeing the World Through Myopic Lenses](/media/creative/pg-1997177277327856085.webp)

@@ -5,7 +5,7 @@ tags: ["portrait","modern","light","nano-banana-pro"]
 author: "@YaseenK7212"
 author_url: "https://twitter.com/YaseenK7212"
 source_url: "https://twitter.com/YaseenK7212/status/1994360675217408267"
-preview: "/images/3d/pg-1994360675217408267.webp"
+preview: "/media/3d/pg-1994360675217408267.webp"
 ---
 
 In a dimly lit room, a captivating woman with radiant skin and doll-like makeup strikes a dreamy pose. The harsh flash highlights her delicate features and stylish gray dress, creating a stunning contrast that captivates.
@@ -84,4 +84,4 @@ In a dimly lit room, a captivating woman with radiant skin and doll-like makeup 
 
 ## Example Output
 
-![Cinematic Charm: A Modern Film Noir Portrait](/images/3d/pg-1994360675217408267.webp)
+![Cinematic Charm: A Modern Film Noir Portrait](/media/3d/pg-1994360675217408267.webp)

@@ -5,7 +5,7 @@ tags: ["modern","dark","light","nano-banana-pro"]
 author: "@Just_sharon7"
 author_url: "https://twitter.com/Just_sharon7"
 source_url: "https://twitter.com/Just_sharon7/status/1993140376010735685"
-preview: "/images/portraits/pg-1993140376010735685.webp"
+preview: "/media/portraits/pg-1993140376010735685.webp"
 ---
 
 A cascade of soft lighting dances on a young woman's playful smile, as she effortlessly leans against modern dark-wood stairs. Dressed in chic black and light blue, her confident presence captures a moment of casual elegance.
@@ -78,4 +78,4 @@ A cascade of soft lighting dances on a young woman's playful smile, as she effor
 
 ## Example Output
 
-![Elegance Meets Playfulness on Stylish Stairs](/images/portraits/pg-1993140376010735685.webp)
+![Elegance Meets Playfulness on Stylish Stairs](/media/portraits/pg-1993140376010735685.webp)

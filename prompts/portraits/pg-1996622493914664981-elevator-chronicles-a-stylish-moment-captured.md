@@ -5,7 +5,7 @@ tags: ["light","nano-banana-pro"]
 author: "@YaseenK7212"
 author_url: "https://twitter.com/YaseenK7212"
 source_url: "https://twitter.com/YaseenK7212/status/1996622493914664981"
-preview: "/images/portraits/pg-1996622493914664981.webp"
+preview: "/media/portraits/pg-1996622493914664981.webp"
 ---
 
 In a cozy elevator bathed in golden light, a playful moment unfolds. With a chic ensemble and a knowing gaze, this scene captures the essence of effortless style.
@@ -55,4 +55,4 @@ In a cozy elevator bathed in golden light, a playful moment unfolds. With a chic
 
 ## Example Output
 
-![Elevator Chronicles: A Stylish Moment Captured](/images/portraits/pg-1996622493914664981.webp)
+![Elevator Chronicles: A Stylish Moment Captured](/media/portraits/pg-1996622493914664981.webp)

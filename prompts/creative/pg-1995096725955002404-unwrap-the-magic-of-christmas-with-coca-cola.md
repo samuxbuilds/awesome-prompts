@@ -5,7 +5,7 @@ tags: ["light","nano-banana-pro"]
 author: "@CharaspowerAI"
 author_url: "https://twitter.com/CharaspowerAI"
 source_url: "https://twitter.com/CharaspowerAI/status/1995096725955002404"
-preview: "/images/creative/pg-1995096725955002404.webp"
+preview: "/media/creative/pg-1995096725955002404.webp"
 ---
 
 A Coca-Cola bottle sparkles amidst twinkling lights and soft snow. This festive scene exudes warmth and nostalgia, capturing the essence of holiday cheer.
@@ -62,4 +62,4 @@ A Coca-Cola bottle sparkles amidst twinkling lights and soft snow. This festive 
 
 ## Example Output
 
-![Unwrap the Magic of Christmas with Coca-Cola](/images/creative/pg-1995096725955002404.webp)
+![Unwrap the Magic of Christmas with Coca-Cola](/media/creative/pg-1995096725955002404.webp)

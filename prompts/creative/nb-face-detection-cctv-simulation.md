@@ -3,7 +3,7 @@ title: "Face Detection CCTV Simulation"
 category: creative
 tags: ["creative", "ai-art"]
 author: "@nanobanana-pro"
-preview: "/images/creative/nb-face-detection-cctv-simulation.webp"
+preview: "/media/creative/nb-face-detection-cctv-simulation.webp"
 ---
 
 *Create a high angle CCTV surveillance shot with face detection*
@@ -14,4 +14,4 @@ Create a high angle CCTV surveillance shot using the uploaded image as the sourc
 - [Original](https://x.com/egeberkina/status/1994804061024010628)
 
 ## Example Output
-![Face Detection CCTV Simulation](/images/creative/nb-face-detection-cctv-simulation.webp)
+![Face Detection CCTV Simulation](/media/creative/nb-face-detection-cctv-simulation.webp)

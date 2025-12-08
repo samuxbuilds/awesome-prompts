@@ -5,7 +5,7 @@ tags: ["portrait","urban","light","digital","nano-banana-pro"]
 author: "@IamEmily2050"
 author_url: "https://twitter.com/IamEmily2050"
 source_url: "https://twitter.com/IamEmily2050/status/1995065474749730989"
-preview: "/images/portraits/pg-1995065474749730989.webp"
+preview: "/media/portraits/pg-1995065474749730989.webp"
 ---
 
 A captivating close-up reveals an enchanting young woman bathed in flash light, her porcelain skin radiating against the urban night. The soft-focus enhances her doll-like features, making her gaze truly mesmerizing.
@@ -59,4 +59,4 @@ A captivating close-up reveals an enchanting young woman bathed in flash light, 
 
 ## Example Output
 
-![Ethereal Glow: Nighttime Portrait of a Digital Muse](/images/portraits/pg-1995065474749730989.webp)
+![Ethereal Glow: Nighttime Portrait of a Digital Muse](/media/portraits/pg-1995065474749730989.webp)

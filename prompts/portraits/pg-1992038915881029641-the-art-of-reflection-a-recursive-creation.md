@@ -5,7 +5,7 @@ tags: ["art","nano-banana-pro"]
 author: "@goodside"
 author_url: "https://twitter.com/goodside"
 source_url: "https://twitter.com/goodside/status/1992038915881029641"
-preview: "/images/portraits/pg-1992038915881029641.webp"
+preview: "/media/portraits/pg-1992038915881029641.webp"
 ---
 
 A mesmerizing snapshot from 1998 captures an artist lost in the layers of creation, painting an image from a screen, which in turn depicts their own act of artistry. The cyclical journey of inspiration unfolds on canvas!
@@ -20,4 +20,4 @@ Amateur photograph from 1998 of a middle-aged artist copying an image by hand fr
 
 ## Example Output
 
-![The Art of Reflection: A Recursive Creation](/images/portraits/pg-1992038915881029641.webp)
+![The Art of Reflection: A Recursive Creation](/media/portraits/pg-1992038915881029641.webp)

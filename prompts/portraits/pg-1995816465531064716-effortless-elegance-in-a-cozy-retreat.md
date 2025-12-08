@@ -5,7 +5,7 @@ tags: ["modern","minimal","light","nano-banana-pro"]
 author: "@saniaspeaks_"
 author_url: "https://twitter.com/saniaspeaks_"
 source_url: "https://twitter.com/saniaspeaks_/status/1995816465531064716"
-preview: "/images/portraits/pg-1995816465531064716.webp"
+preview: "/media/portraits/pg-1995816465531064716.webp"
 ---
 
 A radiant young woman lounges effortlessly in her minimalist space, exuding confidence in chic black satin. Her warm smile and soft lighting create an inviting ambiance, perfect for modern living.
@@ -50,4 +50,4 @@ A radiant young woman lounges effortlessly in her minimalist space, exuding conf
 
 ## Example Output
 
-![Effortless Elegance in a Cozy Retreat](/images/portraits/pg-1995816465531064716.webp)
+![Effortless Elegance in a Cozy Retreat](/media/portraits/pg-1995816465531064716.webp)

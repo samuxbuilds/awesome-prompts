@@ -5,7 +5,7 @@ tags: ["portrait","light","vibrant","nano-banana-pro"]
 author: "@Rania_22100"
 author_url: "https://twitter.com/Rania_22100"
 source_url: "https://twitter.com/Rania_22100/status/1992013096655917171"
-preview: "/images/portraits/pg-1992013096655917171.webp"
+preview: "/media/portraits/pg-1992013096655917171.webp"
 ---
 
 A vision of fairytale charm unfolds! This enchanting portrait captures a Snow-White inspired beauty amid a vibrant floral paradise, radiating warmth with her inviting smile and a shiny red apple in hand. The magical garden blooms with life, while soft sunlight adds a golden shimmer, creating a scene straight out of a storybook.
@@ -24,4 +24,4 @@ Soft diffused sunlight filters through the background, adding a dreamy golden gl
 
 ## Example Output
 
-![Whimsical Elegance: A Snow-White Dreamscape](/images/portraits/pg-1992013096655917171.webp)
+![Whimsical Elegance: A Snow-White Dreamscape](/media/portraits/pg-1992013096655917171.webp)

@@ -5,7 +5,7 @@ tags: ["portrait","art","light","nano-banana-pro"]
 author: "@kingofdairyque"
 author_url: "https://twitter.com/kingofdairyque"
 source_url: "https://twitter.com/kingofdairyque/status/1992904265921429945"
-preview: "/images/portraits/pg-1992904265921429945.webp"
+preview: "/media/portraits/pg-1992904265921429945.webp"
 ---
 
 In a hushed moment, a single cheek gleams under ghostly window light. Messy hair and a worn cardigan blend with the artistic chaos behind, creating a haunting cinematic essence.
@@ -20,4 +20,4 @@ Same face preserved, shot in near-dark with only a dim window glow hitting one c
 
 ## Example Output
 
-![Shadows and Silhouettes: A Gritty Portrait in Dim Light](/images/portraits/pg-1992904265921429945.webp)
+![Shadows and Silhouettes: A Gritty Portrait in Dim Light](/media/portraits/pg-1992904265921429945.webp)

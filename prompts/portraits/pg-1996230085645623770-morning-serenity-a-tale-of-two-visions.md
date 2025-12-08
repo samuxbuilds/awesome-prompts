@@ -5,7 +5,7 @@ tags: ["nano-banana-pro"]
 author: "@john_my07"
 author_url: "https://twitter.com/john_my07"
 source_url: "https://twitter.com/john_my07/status/1996230085645623770"
-preview: "/images/portraits/pg-1996230085645623770.webp"
+preview: "/media/portraits/pg-1996230085645623770.webp"
 ---
 
 A tranquil London morning unfolds as a young woman savors her tea, lost in thought. The city buzzes softly around her, inviting a moment of peaceful reflection.
@@ -20,4 +20,4 @@ Create a photorealistic image of a young woman sitting at a relaxed outdoor rest
 
 ## Example Output
 
-![Morning Serenity: A Tale of Two Visions](/images/portraits/pg-1996230085645623770.webp)
+![Morning Serenity: A Tale of Two Visions](/media/portraits/pg-1996230085645623770.webp)

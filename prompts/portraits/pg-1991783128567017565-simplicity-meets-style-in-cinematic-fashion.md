@@ -5,7 +5,7 @@ tags: ["portrait","modern","fashion","light","nano-banana-pro"]
 author: "@Drshadow56"
 author_url: "https://twitter.com/Drshadow56"
 source_url: "https://twitter.com/Drshadow56/status/1991783128567017565"
-preview: "/images/portraits/pg-1991783128567017565.webp"
+preview: "/media/portraits/pg-1991783128567017565.webp"
 ---
 
 Is there anything more striking than a rust shirt paired with effortless elegance? This modern portrait captures the essence of contemporary fashion, highlighted by cinematic lighting and sleek accessories. A true visual feast!
@@ -21,4 +21,4 @@ create a stylish, modern portrait of a young man with voluminous dark hair, wear
 
 ## Example Output
 
-![Simplicity Meets Style in Cinematic Fashion](/images/portraits/pg-1991783128567017565.webp)
+![Simplicity Meets Style in Cinematic Fashion](/media/portraits/pg-1991783128567017565.webp)

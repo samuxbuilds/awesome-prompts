@@ -5,7 +5,7 @@ tags: ["dark","light","nano-banana-pro"]
 author: "@rovvmut_"
 author_url: "https://twitter.com/rovvmut_"
 source_url: "https://twitter.com/rovvmut_/status/1994234346493108690"
-preview: "/images/3d/pg-1994234346493108690.webp"
+preview: "/media/3d/pg-1994234346493108690.webp"
 ---
 
 Amidst rolling hills and dark skies, a lone figure in a flowing cloak wanders. The soft sunlight breaks through, highlighting the rugged beauty of this cinematic scene.
@@ -61,4 +61,4 @@ Amidst rolling hills and dark skies, a lone figure in a flowing cloak wanders. T
 
 ## Example Output
 
-![A Solitary Journey Through Golden Hills](/images/3d/pg-1994234346493108690.webp)
+![A Solitary Journey Through Golden Hills](/media/3d/pg-1994234346493108690.webp)

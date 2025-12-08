@@ -3,7 +3,7 @@ title: "Anime-style Badge"
 category: icons
 tags: ["anime", "ai-art"]
 author: "@Alittlefatwhale"
-preview: "/images/icons/anime-style-badge.webp"
+preview: "/media/icons/anime-style-badge.webp"
 ---
 
 Based on the person in the attachment, generate a photo of an anime-style badge. Requirements:
@@ -18,4 +18,4 @@ A photo of a person needs to be uploaded as a reference for the badge design.
 - [Original Post](https://x.com/Alittlefatwhale/status/1922512847030124905)
 
 ## Example Output
-![Anime-style Badge](/images/icons/anime-style-badge.webp)
+![Anime-style Badge](/media/icons/anime-style-badge.webp)

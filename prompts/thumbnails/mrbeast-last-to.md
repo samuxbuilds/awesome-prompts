@@ -3,7 +3,7 @@ title: "MrBeast Style - Last To"
 category: "thumbnails"
 tags: ["mrbeast", "youtube", "thumbnail", "challenge", "endurance"]
 author: "@samux"
-preview: "/images/thumbnails/mrbeast-last-to.webp"
+preview: "/media/thumbnails/mrbeast-last-to.webp"
 ---
 
 ```json

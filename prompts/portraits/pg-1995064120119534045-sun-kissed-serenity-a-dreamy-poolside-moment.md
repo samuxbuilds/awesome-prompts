@@ -5,7 +5,7 @@ tags: ["nano-banana-pro"]
 author: "@ReemKhan_07"
 author_url: "https://twitter.com/ReemKhan_07"
 source_url: "https://twitter.com/ReemKhan_07/status/1995064120119534045"
-preview: "/images/portraits/pg-1995064120119534045.webp"
+preview: "/media/portraits/pg-1995064120119534045.webp"
 ---
 
 Bright blues and gentle florals collide in this idyllic poolside scene. With a charming smile and soft waves, she captures the essence of summer bliss against a backdrop of shimmering water.
@@ -20,4 +20,4 @@ A high-quality photorealistic portrait of a young woman sitting on the edge of a
 
 ## Example Output
 
-![Sun-Kissed Serenity: A Dreamy Poolside Moment](/images/portraits/pg-1995064120119534045.webp)
+![Sun-Kissed Serenity: A Dreamy Poolside Moment](/media/portraits/pg-1995064120119534045.webp)

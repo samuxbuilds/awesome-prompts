@@ -3,7 +3,7 @@ title: "Composition Rescue (Smart Outpainting)"
 category: creative
 tags: ["creative", "ai-art"]
 author: "@nanobanana-pro"
-preview: "/images/creative/nb-composition-rescue-smart-outpainting.webp"
+preview: "/media/creative/nb-composition-rescue-smart-outpainting.webp"
 ---
 
 *Expands image ratios (e.g., to 16:9) by intelligently generating matching scenery.*
@@ -14,4 +14,4 @@ Zoom out and expand this image to a 16:9 aspect ratio (computer wallpaper size).
 - [Original](https://mp.weixin.qq.com/s/lrYNbs4rGs3KOqewoZ6aNQ)
 
 ## Example Output
-![Composition Rescue (Smart Outpainting)](/images/creative/nb-composition-rescue-smart-outpainting.webp)
+![Composition Rescue (Smart Outpainting)](/media/creative/nb-composition-rescue-smart-outpainting.webp)

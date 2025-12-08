@@ -5,7 +5,7 @@ tags: ["nano-banana-pro"]
 author: "@IamEmily2050"
 author_url: "https://twitter.com/IamEmily2050"
 source_url: "https://twitter.com/IamEmily2050/status/1995847664584589534"
-preview: "/images/portraits/pg-1995847664584589534.webp"
+preview: "/media/portraits/pg-1995847664584589534.webp"
 ---
 
 Can everyday spaces become your runway? This stunning fitness model performs a vertical split, blending glamour with the authenticity of a cozy home. Who's inspired to try their own twist?
@@ -65,4 +65,4 @@ Can everyday spaces become your runway? This stunning fitness model performs a v
 
 ## Example Output
 
-![Transform Your Living Room with a Show-Stopping Split!](/images/portraits/pg-1995847664584589534.webp)
+![Transform Your Living Room with a Show-Stopping Split!](/media/portraits/pg-1995847664584589534.webp)

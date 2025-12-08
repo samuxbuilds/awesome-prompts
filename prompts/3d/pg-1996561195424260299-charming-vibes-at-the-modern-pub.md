@@ -5,7 +5,7 @@ tags: ["modern","vibrant","nano-banana-pro"]
 author: "@lexx_aura"
 author_url: "https://twitter.com/lexx_aura"
 source_url: "https://twitter.com/lexx_aura/status/1996561195424260299"
-preview: "/images/3d/pg-1996561195424260299.webp"
+preview: "/media/3d/pg-1996561195424260299.webp"
 ---
 
 A stylish blend of casual elegance! The playful flick of hair and cheerful expression against a vibrant pub backdrop create a perfect snapshot of youthful allure.
@@ -72,4 +72,4 @@ A stylish blend of casual elegance! The playful flick of hair and cheerful expre
 
 ## Example Output
 
-![Charming Vibes at the Modern Pub](/images/3d/pg-1996561195424260299.webp)
+![Charming Vibes at the Modern Pub](/media/3d/pg-1996561195424260299.webp)

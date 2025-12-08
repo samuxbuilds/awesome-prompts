@@ -5,7 +5,7 @@ tags: ["art","urban","dark","neon","vibrant","nano-banana-pro"]
 author: "@xmiiru_"
 author_url: "https://twitter.com/xmiiru_"
 source_url: "https://twitter.com/xmiiru_/status/1994036974961705057"
-preview: "/images/3d/pg-1994036974961705057.webp"
+preview: "/media/3d/pg-1994036974961705057.webp"
 ---
 
 Bold and vibrant, this gritty fisheye capture showcases a stunning Gyaru model radiating confidence amid Tokyo's urban darkness. A heart-shaped gesture elevates her playful allure!
@@ -60,4 +60,4 @@ Bold and vibrant, this gritty fisheye capture showcases a stunning Gyaru model r
 
 ## Example Output
 
-![Urban Glamour: Gyaru Style in Neon Tokyo](/images/3d/pg-1994036974961705057.webp)
+![Urban Glamour: Gyaru Style in Neon Tokyo](/media/3d/pg-1994036974961705057.webp)

@@ -5,7 +5,7 @@ tags: ["light","nano-banana-pro"]
 author: "@YaseenK7212"
 author_url: "https://twitter.com/YaseenK7212"
 source_url: "https://twitter.com/YaseenK7212/status/1992837816733069467"
-preview: "/images/portraits/pg-1992837816733069467.webp"
+preview: "/media/portraits/pg-1992837816733069467.webp"
 ---
 
 A young person with long, flowing hair tilts back, lost in bliss. Sunlight glints off their smile, capturing the whimsical essence of Gemini Nano Banana 3.0 in a moment of pure joy.
@@ -49,4 +49,4 @@ A young person with long, flowing hair tilts back, lost in bliss. Sunlight glint
 
 ## Example Output
 
-![Ethereal Joy: The Magic of Gemini Nano Banana 3.0](/images/portraits/pg-1992837816733069467.webp)
+![Ethereal Joy: The Magic of Gemini Nano Banana 3.0](/media/portraits/pg-1992837816733069467.webp)

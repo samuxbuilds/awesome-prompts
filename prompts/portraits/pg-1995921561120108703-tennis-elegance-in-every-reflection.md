@@ -5,7 +5,7 @@ tags: ["vibrant","nano-banana-pro"]
 author: "@_MehdiSharifi_"
 author_url: "https://twitter.com/_MehdiSharifi_"
 source_url: "https://twitter.com/_MehdiSharifi_/status/1995921561120108703"
-preview: "/images/portraits/pg-1995921561120108703.webp"
+preview: "/media/portraits/pg-1995921561120108703.webp"
 ---
 
 A chic young woman captures her sporty style in a luxurious locker room, radiating sophistication. Her preppy ensemble, flawless smile, and vibrant surroundings paint a picture of class and athleticism.
@@ -69,4 +69,4 @@ A chic young woman captures her sporty style in a luxurious locker room, radiati
 
 ## Example Output
 
-![Tennis Elegance in Every Reflection](/images/portraits/pg-1995921561120108703.webp)
+![Tennis Elegance in Every Reflection](/media/portraits/pg-1995921561120108703.webp)

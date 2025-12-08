@@ -5,7 +5,7 @@ tags: ["nano-banana-pro"]
 author: "@lexx_aura"
 author_url: "https://twitter.com/lexx_aura"
 source_url: "https://twitter.com/lexx_aura/status/1992864343709663397"
-preview: "/images/portraits/pg-1992864343709663397.webp"
+preview: "/media/portraits/pg-1992864343709663397.webp"
 ---
 
 Beneath the raindrops, a curious soul in red stands at a lonely bus stop, joined by a colossal Totoro. A moment of wonder in a serene, moonlit forest awaits.
@@ -73,4 +73,4 @@ Beneath the raindrops, a curious soul in red stands at a lonely bus stop, joined
 
 ## Example Output
 
-![Rainy Night Whimsy: Totoro at the Bus Stop](/images/portraits/pg-1992864343709663397.webp)
+![Rainy Night Whimsy: Totoro at the Bus Stop](/media/portraits/pg-1992864343709663397.webp)

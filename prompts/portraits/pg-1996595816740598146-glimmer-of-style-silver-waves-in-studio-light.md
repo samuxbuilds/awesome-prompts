@@ -5,7 +5,7 @@ tags: ["portrait","light","nano-banana-pro"]
 author: "@john_my07"
 author_url: "https://twitter.com/john_my07"
 source_url: "https://twitter.com/john_my07/status/1996595816740598146"
-preview: "/images/portraits/pg-1996595816740598146.webp"
+preview: "/media/portraits/pg-1996595816740598146.webp"
 ---
 
 Bold and chic, this portrait showcases striking silver waves against a dramatic black backdrop. The confident vibe radiates through every detail, from the sleek leather jacket to the subtle highlights on her cheekbones.
@@ -43,4 +43,4 @@ Bold and chic, this portrait showcases striking silver waves against a dramatic 
 
 ## Example Output
 
-![Glimmer of Style: Silver Waves in Studio Light](/images/portraits/pg-1996595816740598146.webp)
+![Glimmer of Style: Silver Waves in Studio Light](/media/portraits/pg-1996595816740598146.webp)

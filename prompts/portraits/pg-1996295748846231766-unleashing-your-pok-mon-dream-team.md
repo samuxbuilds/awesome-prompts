@@ -5,7 +5,7 @@ tags: ["nano-banana-pro"]
 author: "@ai_for_success"
 author_url: "https://twitter.com/ai_for_success"
 source_url: "https://twitter.com/ai_for_success/status/1996295748846231766"
-preview: "/images/portraits/pg-1996295748846231766.webp"
+preview: "/media/portraits/pg-1996295748846231766.webp"
 ---
 
 Transform your likeness into a dynamic Pokémon Trainer! Create an epic card featuring you and your favorite Pokémon, bursting with elemental energy and stunning details.
@@ -31,4 +31,4 @@ Aspect Ratio: 3:4
 
 ## Example Output
 
-![Unleashing Your Pokémon Dream Team!](/images/portraits/pg-1996295748846231766.webp)
+![Unleashing Your Pokémon Dream Team!](/media/portraits/pg-1996295748846231766.webp)

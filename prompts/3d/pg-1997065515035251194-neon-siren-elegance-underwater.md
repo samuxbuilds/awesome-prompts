@@ -5,7 +5,7 @@ tags: ["fashion","neon","nano-banana-pro"]
 author: "@IamEmily2050"
 author_url: "https://twitter.com/IamEmily2050"
 source_url: "https://twitter.com/IamEmily2050/status/1997065515035251194"
-preview: "/images/3d/pg-1997065515035251194.webp"
+preview: "/media/3d/pg-1997065515035251194.webp"
 ---
 
 A mesmerizing blend of glamour and aquatic allure, this young woman captivates in a neon aquarium. Her sultry pose, accentuated by fashion and ethereal reflections, tells a story of beauty intertwined with the depths of the ocean.
@@ -94,4 +94,4 @@ A mesmerizing blend of glamour and aquatic allure, this young woman captivates i
 
 ## Example Output
 
-![Neon Siren: Elegance Underwater](/images/3d/pg-1997065515035251194.webp)
+![Neon Siren: Elegance Underwater](/media/3d/pg-1997065515035251194.webp)

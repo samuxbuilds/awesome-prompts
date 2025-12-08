@@ -5,7 +5,7 @@ tags: ["light","vibrant","nano-banana-pro"]
 author: "@awesome_visuals"
 author_url: "https://twitter.com/awesome_visuals"
 source_url: "https://twitter.com/awesome_visuals/status/1995501571728183455"
-preview: "/images/3d/pg-1995501571728183455.webp"
+preview: "/media/3d/pg-1995501571728183455.webp"
 ---
 
 A cozy flat-lay reveals a delightful One Piece collection, featuring Luffy's grin, plush treasures, and vibrant manga. Perfect for any otaku's dream haul!
@@ -37,4 +37,4 @@ A cozy flat-lay reveals a delightful One Piece collection, featuring Luffy's gri
 
 ## Example Output
 
-![Treasure Trove of One Piece Goodies Awaits!](/images/3d/pg-1995501571728183455.webp)
+![Treasure Trove of One Piece Goodies Awaits!](/media/3d/pg-1995501571728183455.webp)

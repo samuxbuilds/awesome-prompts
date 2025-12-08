@@ -5,7 +5,7 @@ tags: ["portrait","urban","fashion","nano-banana-pro"]
 author: "@ShreyaYadav___"
 author_url: "https://twitter.com/ShreyaYadav___"
 source_url: "https://twitter.com/ShreyaYadav___/status/1991468062764380244"
-preview: "/images/3d/pg-1991468062764380244.webp"
+preview: "/media/3d/pg-1991468062764380244.webp"
 ---
 
 Caught in a whirlwind of newspapers, this high-fashion portrait captures the essence of urban chaos. Intense motion blurs amplify the drama while the subject remains strikingly sharp, embodying style amidst the storm!
@@ -48,4 +48,4 @@ Caught in a whirlwind of newspapers, this high-fashion portrait captures the ess
 
 ## Example Output
 
-![Chaos Meets Chic: A Stormy Fashion Statement](/images/3d/pg-1991468062764380244.webp)
+![Chaos Meets Chic: A Stormy Fashion Statement](/media/3d/pg-1991468062764380244.webp)

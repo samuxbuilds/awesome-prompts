@@ -5,7 +5,7 @@ tags: ["anime","realistic","portrait","light","photorealistic","nano-banana-pro"
 author: "@ShreyaYadav___"
 author_url: "https://twitter.com/ShreyaYadav___"
 source_url: "https://twitter.com/ShreyaYadav___/status/1995179913805168966"
-preview: "/images/3d/pg-1995179913805168966.webp"
+preview: "/media/3d/pg-1995179913805168966.webp"
 ---
 
 Be captivated by the striking contrast of light and shadow, as this portrait reveals a mysterious gaze and intricate details crafted with photorealistic finesse.
@@ -39,4 +39,4 @@ Be captivated by the striking contrast of light and shadow, as this portrait rev
 
 ## Example Output
 
-![A Dazzling Shadow: Hyperrealistic Anime Portrait Unveiled](/images/3d/pg-1995179913805168966.webp)
+![A Dazzling Shadow: Hyperrealistic Anime Portrait Unveiled](/media/3d/pg-1995179913805168966.webp)

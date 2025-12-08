@@ -5,7 +5,7 @@ tags: ["vibrant","nano-banana-pro"]
 author: "@old_pgmrs_will"
 author_url: "https://twitter.com/old_pgmrs_will"
 source_url: "https://twitter.com/old_pgmrs_will/status/1991707605086138408"
-preview: "/images/creative/pg-1991707605086138408.webp"
+preview: "/media/creative/pg-1991707605086138408.webp"
 ---
 
 Can you imagine wandering the vibrant streets of Edo-era Japan? This intricate capture transports you to a bustling castle town, rich in history and culture!
@@ -20,4 +20,4 @@ Can you imagine wandering the vibrant streets of Edo-era Japan? This intricate c
 
 ## Example Output
 
-![Step Back in Time: Edo Castle Town in Stunning Detail](/images/creative/pg-1991707605086138408.webp)
+![Step Back in Time: Edo Castle Town in Stunning Detail](/media/creative/pg-1991707605086138408.webp)

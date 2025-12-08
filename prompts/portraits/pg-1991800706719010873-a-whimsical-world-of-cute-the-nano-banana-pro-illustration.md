@@ -5,7 +5,7 @@ tags: ["illustration","cute","light","nano-banana-pro"]
 author: "@mikage"
 author_url: "https://twitter.com/mikage"
 source_url: "https://twitter.com/mikage/status/1991800706719010873"
-preview: "/images/portraits/pg-1991800706719010873.webp"
+preview: "/media/portraits/pg-1991800706719010873.webp"
 ---
 
 Can you feel the charm? This adorable cat-eared girl, with her pink locks and frilly outfit, springs to life in a delightful new illustration that’s simply enchanting!
@@ -20,4 +20,4 @@ Can you feel the charm? This adorable cat-eared girl, with her pink locks and fr
 
 ## Example Output
 
-![A Whimsical World of Cute: The Nano Banana Pro Illustration](/images/portraits/pg-1991800706719010873.webp)
+![A Whimsical World of Cute: The Nano Banana Pro Illustration](/media/portraits/pg-1991800706719010873.webp)

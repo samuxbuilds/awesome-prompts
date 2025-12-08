@@ -5,7 +5,7 @@ tags: ["art","nano-banana-pro"]
 author: "@0xbisc"
 author_url: "https://twitter.com/0xbisc"
 source_url: "https://twitter.com/0xbisc/status/1992589073039671607"
-preview: "/images/creative/pg-1992589073039671607.webp"
+preview: "/media/creative/pg-1992589073039671607.webp"
 ---
 
 From garage startup to world-changer, Steve Jobs' saga unfolds like a thrilling epic—explore his career reimagined as a fantastical map of Middle-earth!
@@ -26,4 +26,4 @@ Stay hungry, stay foolish.
 
 ## Example Output
 
-![Mapping Steve Jobs' Epic Journey in a Middle-earth Adventure](/images/creative/pg-1992589073039671607.webp)
+![Mapping Steve Jobs' Epic Journey in a Middle-earth Adventure](/media/creative/pg-1992589073039671607.webp)

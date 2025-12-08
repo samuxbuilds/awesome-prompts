@@ -5,7 +5,7 @@ tags: ["vibrant","nano-banana-pro"]
 author: "@egeberkina"
 author_url: "https://twitter.com/egeberkina"
 source_url: "https://twitter.com/egeberkina/status/1993792341132406823"
-preview: "/images/3d/pg-1993792341132406823.webp"
+preview: "/media/3d/pg-1993792341132406823.webp"
 ---
 
 A vibrant tableau unfolds—a fit figure lies on a crisp orange-striped towel, sunlit bronze skin glistening under a harsh midday sun, radiating pure beach bliss.
@@ -83,4 +83,4 @@ A vibrant tableau unfolds—a fit figure lies on a crisp orange-striped towel, s
 
 ## Example Output
 
-![Sun-Soaked Serenity on the Shoreline](/images/3d/pg-1993792341132406823.webp)
+![Sun-Soaked Serenity on the Shoreline](/media/3d/pg-1993792341132406823.webp)

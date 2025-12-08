@@ -5,7 +5,7 @@ tags: ["portrait","art","vintage","modern","vibrant","nano-banana-pro"]
 author: "@SimplyAnnisa"
 author_url: "https://twitter.com/SimplyAnnisa"
 source_url: "https://twitter.com/SimplyAnnisa/status/1994406854609580397"
-preview: "/images/portraits/pg-1994406854609580397.webp"
+preview: "/media/portraits/pg-1994406854609580397.webp"
 ---
 
 Bold and beautiful, her gaze pierces through the shadows. The rich textures of her crocheted top dance with the vibrant backdrop of Japanese art, where tradition meets contemporary allure.
@@ -24,4 +24,4 @@ The background appears to be a wall decorated with a colorful Japanese-style pai
 
 ## Example Output
 
-![Vintage Vibes & Modern Aesthetics: A Portrait of Elegance](/images/portraits/pg-1994406854609580397.webp)
+![Vintage Vibes & Modern Aesthetics: A Portrait of Elegance](/media/portraits/pg-1994406854609580397.webp)

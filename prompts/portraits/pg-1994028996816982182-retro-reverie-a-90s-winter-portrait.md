@@ -5,7 +5,7 @@ tags: ["portrait","vintage","nano-banana-pro"]
 author: "@kingofdairyque"
 author_url: "https://twitter.com/kingofdairyque"
 source_url: "https://twitter.com/kingofdairyque/status/1994028996816982182"
-preview: "/images/portraits/pg-1994028996816982182.webp"
+preview: "/media/portraits/pg-1994028996816982182.webp"
 ---
 
 A young woman leans against a tree, capturing a moment of nostalgic bliss. With her oversized flannel and flowing hair, she embodies a serene yet dynamic vibe, framed by warm orange and cool blue hues that dance across the vintage grain.
@@ -21,4 +21,4 @@ Cinematic high grain 90s portrait Dutch angle tilted shot, 23-year-old woman lea
 
 ## Example Output
 
-![Retro Reverie: A 90s Winter Portrait](/images/portraits/pg-1994028996816982182.webp)
+![Retro Reverie: A 90s Winter Portrait](/media/portraits/pg-1994028996816982182.webp)

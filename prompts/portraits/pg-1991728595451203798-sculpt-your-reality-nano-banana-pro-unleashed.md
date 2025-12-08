@@ -5,7 +5,7 @@ tags: ["nano-banana-pro"]
 author: "@umesh_ai"
 author_url: "https://twitter.com/umesh_ai"
 source_url: "https://twitter.com/umesh_ai/status/1991728595451203798"
-preview: "/images/portraits/pg-1991728595451203798.webp"
+preview: "/media/portraits/pg-1991728595451203798.webp"
 ---
 
 Transform your images into breathtaking marble sculptures! The Nano Banana Pro captures every exquisite detail, showcasing elegance and depth that mesmerizes the eye.
@@ -20,4 +20,4 @@ subject in image made of shining marble. The sculpture should display smooth and
 
 ## Example Output
 
-![Sculpt Your Reality: Nano Banana Pro Unleashed!](/images/portraits/pg-1991728595451203798.webp)
+![Sculpt Your Reality: Nano Banana Pro Unleashed!](/media/portraits/pg-1991728595451203798.webp)

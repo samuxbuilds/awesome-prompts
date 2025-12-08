@@ -5,7 +5,7 @@ tags: ["portrait","nano-banana-pro"]
 author: "@AIwithkhan"
 author_url: "https://twitter.com/AIwithkhan"
 source_url: "https://twitter.com/AIwithkhan/status/1996440524853838224"
-preview: "/images/portraits/pg-1996440524853838224.webp"
+preview: "/media/portraits/pg-1996440524853838224.webp"
 ---
 
 What secrets lie behind tightly wrapped cloth? This haunting image captures a woman in an abandoned industrial maze, her blindfolded gaze shrouded in tension.
@@ -20,4 +20,4 @@ A dark, atmospheric portrait of a woman standing in an abandoned industrial stru
 
 ## Example Output
 
-![Veiled in Shadows: A Portrait of Mystery](/images/portraits/pg-1996440524853838224.webp)
+![Veiled in Shadows: A Portrait of Mystery](/media/portraits/pg-1996440524853838224.webp)

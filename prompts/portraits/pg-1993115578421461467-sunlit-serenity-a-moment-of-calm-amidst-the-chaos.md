@@ -5,7 +5,7 @@ tags: ["light","pastel","nano-banana-pro"]
 author: "@Ashlley_grace_"
 author_url: "https://twitter.com/Ashlley_grace_"
 source_url: "https://twitter.com/Ashlley_grace_/status/1993115578421461467"
-preview: "/images/portraits/pg-1993115578421461467.webp"
+preview: "/media/portraits/pg-1993115578421461467.webp"
 ---
 
 In a cozy cafe, sunlight dances on her soft features as she savors a rare pause. The pastel yellow sweater radiates warmth, inviting you to share in this tranquil escape.
@@ -22,4 +22,4 @@ A high-resolution photorealistic portrait of a young woman sitting at a wooden t
 
 ## Example Output
 
-![Sunlit Serenity: A Moment of Calm Amidst the Chaos](/images/portraits/pg-1993115578421461467.webp)
+![Sunlit Serenity: A Moment of Calm Amidst the Chaos](/media/portraits/pg-1993115578421461467.webp)

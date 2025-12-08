@@ -5,7 +5,7 @@ tags: ["art","nano-banana-pro"]
 author: "@CharaspowerAI"
 author_url: "https://twitter.com/CharaspowerAI"
 source_url: "https://twitter.com/CharaspowerAI/status/1992635023904887249"
-preview: "/images/3d/pg-1992635023904887249.webp"
+preview: "/media/3d/pg-1992635023904887249.webp"
 ---
 
 Snap! A chaotic moment captured in grainy glory; MJ’s dazzling moves and Prince’s playful spill define the nostalgic frenzy of a dimly lit 90s bash.
@@ -30,4 +30,4 @@ Candid analog snapshot, not posed or staged
 
 ## Example Output
 
-![Caught in the Flash: A 90s Party Unfiltered](/images/3d/pg-1992635023904887249.webp)
+![Caught in the Flash: A 90s Party Unfiltered](/media/3d/pg-1992635023904887249.webp)

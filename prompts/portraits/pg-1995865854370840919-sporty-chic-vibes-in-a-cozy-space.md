@@ -5,7 +5,7 @@ tags: ["dark","nano-banana-pro"]
 author: "@ReemKhan_07"
 author_url: "https://twitter.com/ReemKhan_07"
 source_url: "https://twitter.com/ReemKhan_07/status/1995865854370840919"
-preview: "/images/portraits/pg-1995865854370840919.webp"
+preview: "/media/portraits/pg-1995865854370840919.webp"
 ---
 
 Check out this stunning look! A black sports bra paired with a dark brown leather jacket and baggy sky blue cargo jeans creates a perfect blend of casual and edgy in a serene indoor setting.
@@ -32,4 +32,4 @@ Check out this stunning look! A black sports bra paired with a dark brown leathe
 
 ## Example Output
 
-![Sporty Chic Vibes in a Cozy Space](/images/portraits/pg-1995865854370840919.webp)
+![Sporty Chic Vibes in a Cozy Space](/media/portraits/pg-1995865854370840919.webp)

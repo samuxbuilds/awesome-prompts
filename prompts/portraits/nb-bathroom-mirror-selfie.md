@@ -3,7 +3,7 @@ title: "Bathroom Mirror Selfie"
 category: portraits
 tags: ["realistic", "logo", "animal", "professional"]
 author: "@nanobanana-pro"
-preview: "/images/portraits/nb-bathroom-mirror-selfie.webp"
+preview: "/media/portraits/nb-bathroom-mirror-selfie.webp"
 ---
 
 *Create a candid mirror selfie with specific styling and composition*
@@ -102,4 +102,4 @@ preview: "/images/portraits/nb-bathroom-mirror-selfie.webp"
 }
 
 ## Example Output
-![Bathroom Mirror Selfie](/images/portraits/nb-bathroom-mirror-selfie.webp)
+![Bathroom Mirror Selfie](/media/portraits/nb-bathroom-mirror-selfie.webp)

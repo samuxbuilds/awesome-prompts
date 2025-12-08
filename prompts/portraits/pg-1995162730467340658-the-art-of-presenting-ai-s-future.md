@@ -5,7 +5,7 @@ tags: ["art","vibrant","nano-banana-pro"]
 author: "@umesh_ai"
 author_url: "https://twitter.com/umesh_ai"
 source_url: "https://twitter.com/umesh_ai/status/1995162730467340658"
-preview: "/images/portraits/pg-1995162730467340658.webp"
+preview: "/media/portraits/pg-1995162730467340658.webp"
 ---
 
 A sleek conference room buzzes with energy as ideas flow from a vivid blue board. Handwritten insights spark a vibrant discussion on AI’s role in healthcare.
@@ -24,4 +24,4 @@ Topic on the board: THE FUTURE OF AI IN HEALTHCARE, divided into three hand-draw
 
 ## Example Output
 
-![The Art of Presenting AI's Future](/images/portraits/pg-1995162730467340658.webp)
+![The Art of Presenting AI's Future](/media/portraits/pg-1995162730467340658.webp)

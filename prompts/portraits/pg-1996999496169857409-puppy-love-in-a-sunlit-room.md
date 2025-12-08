@@ -5,7 +5,7 @@ tags: ["light","nano-banana-pro"]
 author: "@johnnprofits"
 author_url: "https://twitter.com/johnnprofits"
 source_url: "https://twitter.com/johnnprofits/status/1996999496169857409"
-preview: "/images/portraits/pg-1996999496169857409.webp"
+preview: "/media/portraits/pg-1996999496169857409.webp"
 ---
 
 Captured in a warm embrace, a joyful woman cradles her fluffy golden doodle in a sunlit bedroom. The soft hues and gentle lighting create a cozy, affectionate moment.
@@ -20,4 +20,4 @@ A vertical selfie photograph of a young woman with tan skin and dark hair in a m
 
 ## Example Output
 
-![Puppy Love in a Sunlit Room](/images/portraits/pg-1996999496169857409.webp)
+![Puppy Love in a Sunlit Room](/media/portraits/pg-1996999496169857409.webp)

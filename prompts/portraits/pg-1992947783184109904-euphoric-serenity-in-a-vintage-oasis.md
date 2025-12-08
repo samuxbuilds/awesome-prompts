@@ -5,7 +5,7 @@ tags: ["vintage","dark","light","nano-banana-pro"]
 author: "@xmliisu"
 author_url: "https://twitter.com/xmliisu"
 source_url: "https://twitter.com/xmliisu/status/1992947783184109904"
-preview: "/images/portraits/pg-1992947783184109904.webp"
+preview: "/media/portraits/pg-1992947783184109904.webp"
 ---
 
 An antique porcelain bathtub cradles a vision of beauty, where dewy skin and dark petals create an enchanting scene bathed in soft golden light.
@@ -74,4 +74,4 @@ An antique porcelain bathtub cradles a vision of beauty, where dewy skin and dar
 
 ## Example Output
 
-![Euphoric Serenity in a Vintage Oasis](/images/portraits/pg-1992947783184109904.webp)
+![Euphoric Serenity in a Vintage Oasis](/media/portraits/pg-1992947783184109904.webp)
