@@ -2,7 +2,7 @@
 title: "City Dreams and Serene Moments 🌃✨"
 category: portraits
 tags: ["light","nano-banana-pro"]
-author: "@ShreyaYadav___"
+author: "[@ShreyaYadav___](https://x.com/ShreyaYadav___)"
 author_url: "https://twitter.com/ShreyaYadav___"
 source_url: "https://twitter.com/ShreyaYadav___/status/1995112963334930450"
 preview: "/media/portraits/pg-1995112963334930450.webp"

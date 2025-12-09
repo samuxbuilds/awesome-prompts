@@ -2,7 +2,7 @@
 title: "Urban Night Vibes: A Portrait of Boldness"
 category: portraits
 tags: ["portrait","vintage","urban","light","nano-banana-pro"]
-author: "@xmiiru_"
+author: "[@xmiiru_](https://x.com/xmiiru_)"
 author_url: "https://twitter.com/xmiiru_"
 source_url: "https://twitter.com/xmiiru_/status/1994433939885207600"
 preview: "/media/portraits/pg-1994433939885207600.webp"

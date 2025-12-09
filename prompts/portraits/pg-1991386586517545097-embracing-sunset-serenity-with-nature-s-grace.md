@@ -2,7 +2,7 @@
 title: "Embracing Sunset Serenity with Nature's Grace"
 category: portraits
 tags: ["nature","light","nano-banana-pro"]
-author: "@ShreyaYadav___"
+author: "[@ShreyaYadav___](https://x.com/ShreyaYadav___)"
 author_url: "https://twitter.com/ShreyaYadav___"
 source_url: "https://twitter.com/ShreyaYadav___/status/1991386586517545097"
 preview: "/media/portraits/pg-1991386586517545097.webp"

@@ -2,7 +2,7 @@
 title: "Cuteness in a Cozy Wonderland 💖"
 category: 3d
 tags: ["selfie","cute","light","vibrant","nano-banana-pro"]
-author: "@ReemKhan_07"
+author: "[@ReemKhan_07](https://x.com/ReemKhan_07)"
 author_url: "https://twitter.com/ReemKhan_07"
 source_url: "https://twitter.com/ReemKhan_07/status/1996494595757416834"
 preview: "/media/3d/pg-1996494595757416834.webp"

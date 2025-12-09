@@ -2,7 +2,7 @@
 title: "Bold Elegance in Monochrome: A Portrait of Strength"
 category: portraits
 tags: ["portrait","nano-banana-pro"]
-author: "@rovvmut_"
+author: "[@rovvmut_](https://x.com/rovvmut_)"
 author_url: "https://twitter.com/rovvmut_"
 source_url: "https://twitter.com/rovvmut_/status/1995735410928980000"
 preview: "/media/portraits/pg-1995735410928980000.webp"

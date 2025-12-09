@@ -2,7 +2,7 @@
 title: "Crafting Commitment: The Art of Persistence in IP Creation"
 category: creative
 tags: ["illustration","art","nano-banana-pro"]
-author: "@dotey"
+author: "[@dotey](https://x.com/dotey)"
 author_url: "https://twitter.com/dotey"
 source_url: "https://twitter.com/dotey/status/1991786129046044735"
 preview: "/media/creative/pg-1991786129046044735.webp"

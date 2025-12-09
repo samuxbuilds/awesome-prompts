@@ -2,7 +2,7 @@
 title: "Elegance Meets Confidence in Ultra-Realism"
 category: portraits
 tags: ["portrait","minimal","nano-banana-pro"]
-author: "@lexx_aura"
+author: "[@lexx_aura](https://x.com/lexx_aura)"
 author_url: "https://twitter.com/lexx_aura"
 source_url: "https://twitter.com/lexx_aura/status/1994397944209142213"
 preview: "/media/portraits/pg-1994397944209142213.webp"

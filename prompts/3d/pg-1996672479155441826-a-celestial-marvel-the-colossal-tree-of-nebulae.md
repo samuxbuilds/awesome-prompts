@@ -2,7 +2,7 @@
 title: "A Celestial Marvel: The Colossal Tree of Nebulae"
 category: 3d
 tags: ["light","nano-banana-pro"]
-author: "@hedo_ist"
+author: "[@hedo_ist](https://x.com/hedo_ist)"
 author_url: "https://twitter.com/hedo_ist"
 source_url: "https://twitter.com/hedo_ist/status/1996672479155441826"
 preview: "/media/3d/pg-1996672479155441826.webp"

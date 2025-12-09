@@ -2,7 +2,7 @@
 title: "Japanese High School Student Snap Photo"
 category: portraits
 tags: ["creative", "ai-art"]
-author: "@nanobanana-pro"
+author: "[@nanobanana-pro](https://x.com/nanobanana-pro)"
 preview: "/media/portraits/nb-japanese-high-school-student-snap-photo.webp"
 ---
 

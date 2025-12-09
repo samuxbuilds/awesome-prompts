@@ -2,7 +2,7 @@
 title: "Revolutionizing Science: Instant Artistry with NanoBanana Pro"
 category: creative
 tags: ["illustration","art","nano-banana-pro"]
-author: "@DeryaTR_"
+author: "[@DeryaTR_](https://x.com/DeryaTR_)"
 author_url: "https://twitter.com/DeryaTR_"
 source_url: "https://twitter.com/DeryaTR_/status/1991602903258394911"
 preview: "/media/creative/pg-1991602903258394911.webp"

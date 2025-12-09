@@ -2,7 +2,7 @@
 title: "Chalkboard Anime Art Documentation"
 category: creative
 tags: ["anime", "realistic", "photorealistic", "illustration", "pastel"]
-author: "@nanobanana-pro"
+author: "[@nanobanana-pro](https://x.com/nanobanana-pro)"
 preview: "/media/creative/nb-chalkboard-anime-art-documentation.webp"
 ---
 

@@ -2,7 +2,7 @@
 title: "Chic Café Vibes: A Portrait of Calm and Style"
 category: portraits
 tags: ["portrait","modern","nano-banana-pro"]
-author: "@SimplyAnnisa"
+author: "[@SimplyAnnisa](https://x.com/SimplyAnnisa)"
 author_url: "https://twitter.com/SimplyAnnisa"
 source_url: "https://twitter.com/SimplyAnnisa/status/1992958103730692208"
 preview: "/media/portraits/pg-1992958103730692208.webp"

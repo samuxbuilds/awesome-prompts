@@ -2,7 +2,7 @@
 title: "Soft Elegance by the Window: A Portrait of Serenity"
 category: 3d
 tags: ["portrait","light","nano-banana-pro"]
-author: "@ZaraIrahh"
+author: "[@ZaraIrahh](https://x.com/ZaraIrahh)"
 author_url: "https://twitter.com/ZaraIrahh"
 source_url: "https://twitter.com/ZaraIrahh/status/1994369832494706898"
 preview: "/media/3d/pg-1994369832494706898.webp"

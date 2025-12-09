@@ -2,7 +2,7 @@
 title: "Futuristic Vibes: Your Profile in a Cyber Glow"
 category: portraits
 tags: ["art","dark","light","neon","vibrant","digital","nano-banana-pro"]
-author: "@dotey"
+author: "[@dotey](https://x.com/dotey)"
 author_url: "https://twitter.com/dotey"
 source_url: "https://twitter.com/dotey/status/1995633652139442373"
 preview: "/media/portraits/pg-1995633652139442373.webp"

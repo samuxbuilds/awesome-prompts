@@ -2,7 +2,7 @@
 title: "3D Chibi Chinese Wedding Scene"
 category: 3d
 tags: ["3d", "chibi", "cartoon", "realistic", "wedding"]
-author: "@balconychy"
+author: "[@balconychy](https://x.com/balconychy)"
 preview: "/media/3d/3d-chibi-chinese-wedding-scene.webp"
 ---
 

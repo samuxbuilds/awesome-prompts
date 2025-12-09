@@ -2,7 +2,7 @@
 title: "Misty Wanderings in the Pine Forest"
 category: 3d
 tags: ["nature","nano-banana-pro"]
-author: "@oggii_0"
+author: "[@oggii_0](https://x.com/oggii_0)"
 author_url: "https://twitter.com/oggii_0"
 source_url: "https://twitter.com/oggii_0/status/1991720649350606995"
 preview: "/media/3d/pg-1991720649350606995.webp"

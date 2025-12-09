@@ -2,7 +2,7 @@
 title: "Reflections of Confidence: A Stylish AI Creation"
 category: portraits
 tags: ["selfie","light","nano-banana-pro"]
-author: "@johnnprofits"
+author: "[@johnnprofits](https://x.com/johnnprofits)"
 author_url: "https://twitter.com/johnnprofits"
 source_url: "https://twitter.com/johnnprofits/status/1996622274636706130"
 preview: "/media/portraits/pg-1996622274636706130.webp"

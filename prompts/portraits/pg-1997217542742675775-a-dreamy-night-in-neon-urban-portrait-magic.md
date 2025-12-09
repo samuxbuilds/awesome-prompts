@@ -2,7 +2,7 @@
 title: "A Dreamy Night in Neon: Urban Portrait Magic"
 category: portraits
 tags: ["portrait","urban","light","neon","vibrant","nano-banana-pro"]
-author: "@Sheldon056"
+author: "[@Sheldon056](https://x.com/Sheldon056)"
 author_url: "https://twitter.com/Sheldon056"
 source_url: "https://twitter.com/Sheldon056/status/1997217542742675775"
 preview: "/media/portraits/pg-1997217542742675775.webp"

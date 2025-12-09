@@ -2,7 +2,7 @@
 title: "Sips, Smiles, and Surreal Friends"
 category: portraits
 tags: ["cartoon","art","vibrant","nano-banana-pro"]
-author: "@ShreyaYadav___"
+author: "[@ShreyaYadav___](https://x.com/ShreyaYadav___)"
 author_url: "https://twitter.com/ShreyaYadav___"
 source_url: "https://twitter.com/ShreyaYadav___/status/1996457038910836841"
 preview: "/media/portraits/pg-1996457038910836841.webp"

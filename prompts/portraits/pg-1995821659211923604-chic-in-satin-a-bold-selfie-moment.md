@@ -2,7 +2,7 @@
 title: "Chic in Satin: A Bold Selfie Moment"
 category: portraits
 tags: ["portrait","selfie","vibrant","nano-banana-pro"]
-author: "@Just_sharon7"
+author: "[@Just_sharon7](https://x.com/Just_sharon7)"
 author_url: "https://twitter.com/Just_sharon7"
 source_url: "https://twitter.com/Just_sharon7/status/1995821659211923604"
 preview: "/media/portraits/pg-1995821659211923604.webp"

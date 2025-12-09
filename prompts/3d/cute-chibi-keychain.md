@@ -2,7 +2,7 @@
 title: "Cute Chibi Keychain"
 category: 3d
 tags: ["chibi", "cute"]
-author: "@azed_ai"
+author: "[@azed_ai](https://x.com/azed_ai)"
 preview: "/media/3d/cute-chibi-keychain.webp"
 ---
 

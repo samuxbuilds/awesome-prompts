@@ -2,7 +2,7 @@
 title: "A Timeless Farewell from the Train Window"
 category: portraits
 tags: ["vintage","nano-banana-pro"]
-author: "@kingofdairyque"
+author: "[@kingofdairyque](https://x.com/kingofdairyque)"
 author_url: "https://twitter.com/kingofdairyque"
 source_url: "https://twitter.com/kingofdairyque/status/1992946348522631169"
 preview: "/media/portraits/pg-1992946348522631169.webp"

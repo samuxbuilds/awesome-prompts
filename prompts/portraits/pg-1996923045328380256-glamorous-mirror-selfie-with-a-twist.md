@@ -2,7 +2,7 @@
 title: "Glamorous Mirror Selfie with a Twist"
 category: portraits
 tags: ["selfie","art","nano-banana-pro"]
-author: "@lexx_aura"
+author: "[@lexx_aura](https://x.com/lexx_aura)"
 author_url: "https://twitter.com/lexx_aura"
 source_url: "https://twitter.com/lexx_aura/status/1996923045328380256"
 preview: "/media/portraits/pg-1996923045328380256.webp"

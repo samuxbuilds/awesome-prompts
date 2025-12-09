@@ -2,7 +2,7 @@
 title: "Your Daily Dose of Digital Delight"
 category: portraits
 tags: ["light","digital","nano-banana-pro"]
-author: "@craftian_keskin"
+author: "[@craftian_keskin](https://x.com/craftian_keskin)"
 author_url: "https://twitter.com/craftian_keskin"
 source_url: "https://twitter.com/craftian_keskin/status/1997029136725065981"
 preview: "/media/portraits/pg-1997029136725065981.webp"

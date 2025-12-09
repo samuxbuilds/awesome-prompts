@@ -2,7 +2,7 @@
 title: "Chilling with a Vintage Vibe and a Coca-Cola Twist"
 category: portraits
 tags: ["vintage","colorful","nano-banana-pro"]
-author: "@lexx_aura"
+author: "[@lexx_aura](https://x.com/lexx_aura)"
 author_url: "https://twitter.com/lexx_aura"
 source_url: "https://twitter.com/lexx_aura/status/1994446756978020701"
 preview: "/media/portraits/pg-1994446756978020701.webp"

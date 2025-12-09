@@ -2,7 +2,7 @@
 title: "RPG-Style Character Card Creation"
 category: portraits
 tags: ["3d", "cartoon", "character"]
-author: "@berryxia_ai"
+author: "[@berryxia_ai](https://x.com/berryxia_ai)"
 preview: "/media/portraits/rpg-style-character-card-creation.webp"
 ---
 

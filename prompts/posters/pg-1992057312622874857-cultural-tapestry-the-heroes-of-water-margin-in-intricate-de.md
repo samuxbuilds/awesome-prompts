@@ -2,7 +2,7 @@
 title: "Cultural Tapestry: The Heroes of Water Margin in Intricate Detail"
 category: posters
 tags: ["nano-banana-pro"]
-author: "@MingleeJ"
+author: "[@MingleeJ](https://x.com/MingleeJ)"
 author_url: "https://twitter.com/MingleeJ"
 source_url: "https://twitter.com/MingleeJ/status/1992057312622874857"
 preview: "/media/posters/pg-1992057312622874857.webp"

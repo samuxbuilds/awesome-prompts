@@ -2,7 +2,7 @@
 title: "A Bear's Delight: Honey Harmony in Nature's Embrace"
 category: portraits
 tags: ["nature","light","nano-banana-pro"]
-author: "@SaasJunctionHQ"
+author: "[@SaasJunctionHQ](https://x.com/SaasJunctionHQ)"
 author_url: "https://twitter.com/SaasJunctionHQ"
 source_url: "https://twitter.com/SaasJunctionHQ/status/1991539821840589032"
 preview: "/media/portraits/pg-1991539821840589032.webp"

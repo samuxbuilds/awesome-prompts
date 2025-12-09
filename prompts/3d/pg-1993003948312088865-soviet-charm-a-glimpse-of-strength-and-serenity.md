@@ -2,7 +2,7 @@
 title: "Soviet Charm: A Glimpse of Strength and Serenity"
 category: 3d
 tags: ["dark","light","nano-banana-pro"]
-author: "@Arminn_Ai"
+author: "[@Arminn_Ai](https://x.com/Arminn_Ai)"
 author_url: "https://twitter.com/Arminn_Ai"
 source_url: "https://twitter.com/Arminn_Ai/status/1993003948312088865"
 preview: "/media/3d/pg-1993003948312088865.webp"

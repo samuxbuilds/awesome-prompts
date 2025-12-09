@@ -2,7 +2,7 @@
 title: "Whimsical Warmth: A Cozy Encounter with Nature"
 category: portraits
 tags: ["portrait","art","nature","light","nano-banana-pro"]
-author: "@YaseenK7212"
+author: "[@YaseenK7212](https://x.com/YaseenK7212)"
 author_url: "https://twitter.com/YaseenK7212"
 source_url: "https://twitter.com/YaseenK7212/status/1991551320646447220"
 preview: "/media/portraits/pg-1991551320646447220.webp"

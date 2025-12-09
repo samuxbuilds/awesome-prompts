@@ -2,7 +2,7 @@
 title: "Slaying the Mirror Game: A TikTok Dream in the Making"
 category: portraits
 tags: ["nano-banana-pro"]
-author: "@joonmts"
+author: "[@joonmts](https://x.com/joonmts)"
 author_url: "https://twitter.com/joonmts"
 source_url: "https://twitter.com/joonmts/status/1995993588094599415"
 preview: "/media/portraits/pg-1995993588094599415.webp"

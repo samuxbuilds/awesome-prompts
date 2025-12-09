@@ -2,7 +2,7 @@
 title: "Steampunk Wonders: The Enchanted Orchid Revealed"
 category: portraits
 tags: ["nature","light","nano-banana-pro"]
-author: "@DrSadek_"
+author: "[@DrSadek_](https://x.com/DrSadek_)"
 author_url: "https://twitter.com/DrSadek_"
 source_url: "https://twitter.com/DrSadek_/status/1995869184748662846"
 preview: "/media/portraits/pg-1995869184748662846.webp"

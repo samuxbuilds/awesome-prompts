@@ -2,7 +2,7 @@
 title: "Gym Goddess Unleashed: Power and Passion in Motion"
 category: portraits
 tags: ["nano-banana-pro"]
-author: "@ReemKhan_07"
+author: "[@ReemKhan_07](https://x.com/ReemKhan_07)"
 author_url: "https://twitter.com/ReemKhan_07"
 source_url: "https://twitter.com/ReemKhan_07/status/1996064736774160580"
 preview: "/media/portraits/pg-1996064736774160580.webp"

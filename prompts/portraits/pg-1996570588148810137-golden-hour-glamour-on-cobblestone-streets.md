@@ -2,7 +2,7 @@
 title: "Golden Hour Glamour on Cobblestone Streets"
 category: portraits
 tags: ["vintage","light","nano-banana-pro"]
-author: "@AIwithkhan"
+author: "[@AIwithkhan](https://x.com/AIwithkhan)"
 author_url: "https://twitter.com/AIwithkhan"
 source_url: "https://twitter.com/AIwithkhan/status/1996570588148810137"
 preview: "/media/portraits/pg-1996570588148810137.webp"

@@ -2,7 +2,7 @@
 title: "Neon Dreams: The Cyberpunk Visionary"
 category: portraits
 tags: ["modern","neon","vibrant","nano-banana-pro"]
-author: "@rovvmut_"
+author: "[@rovvmut_](https://x.com/rovvmut_)"
 author_url: "https://twitter.com/rovvmut_"
 source_url: "https://twitter.com/rovvmut_/status/1996931602744566134"
 preview: "/media/portraits/pg-1996931602744566134.webp"

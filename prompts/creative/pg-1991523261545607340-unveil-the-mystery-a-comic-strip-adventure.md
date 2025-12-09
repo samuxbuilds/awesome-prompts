@@ -2,7 +2,7 @@
 title: "Unveil the Mystery: A Comic Strip Adventure"
 category: creative
 tags: ["illustration","vibrant","nano-banana-pro"]
-author: "@LinusEkenstam"
+author: "[@LinusEkenstam](https://x.com/LinusEkenstam)"
 author_url: "https://twitter.com/LinusEkenstam"
 source_url: "https://twitter.com/LinusEkenstam/status/1991523261545607340"
 preview: "/media/creative/pg-1991523261545607340.webp"

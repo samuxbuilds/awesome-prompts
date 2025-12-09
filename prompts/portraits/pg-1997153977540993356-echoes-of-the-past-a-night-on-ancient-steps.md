@@ -2,7 +2,7 @@
 title: "Echoes of the Past: A Night on Ancient Steps"
 category: portraits
 tags: ["nano-banana-pro"]
-author: "@xmiiru_"
+author: "[@xmiiru_](https://x.com/xmiiru_)"
 author_url: "https://twitter.com/xmiiru_"
 source_url: "https://twitter.com/xmiiru_/status/1997153977540993356"
 preview: "/media/portraits/pg-1997153977540993356.webp"

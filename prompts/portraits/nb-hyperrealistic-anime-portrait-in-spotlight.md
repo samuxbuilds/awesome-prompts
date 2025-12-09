@@ -2,7 +2,7 @@
 title: "Hyperrealistic Anime Portrait in Spotlight"
 category: portraits
 tags: ["anime", "realistic", "portrait", "character"]
-author: "@nanobanana-pro"
+author: "[@nanobanana-pro](https://x.com/nanobanana-pro)"
 preview: "/media/portraits/nb-hyperrealistic-anime-portrait-in-spotlight.webp"
 ---
 

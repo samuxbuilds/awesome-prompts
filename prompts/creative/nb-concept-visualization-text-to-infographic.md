@@ -2,7 +2,7 @@
 title: "Concept Visualization (Text to Infographic)"
 category: creative
 tags: ["illustration", "ai-art"]
-author: "@nanobanana-pro"
+author: "[@nanobanana-pro](https://x.com/nanobanana-pro)"
 preview: "/media/creative/nb-concept-visualization-text-to-infographic.webp"
 ---
 

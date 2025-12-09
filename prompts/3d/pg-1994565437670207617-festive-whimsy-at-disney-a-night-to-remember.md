@@ -2,7 +2,7 @@
 title: "Festive Whimsy at Disney: A Night to Remember"
 category: 3d
 tags: ["light","nano-banana-pro"]
-author: "@SimplyAnnisa"
+author: "[@SimplyAnnisa](https://x.com/SimplyAnnisa)"
 author_url: "https://twitter.com/SimplyAnnisa"
 source_url: "https://twitter.com/SimplyAnnisa/status/1994565437670207617"
 preview: "/media/3d/pg-1994565437670207617.webp"

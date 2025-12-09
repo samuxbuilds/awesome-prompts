@@ -2,7 +2,7 @@
 title: "Sneezes & Smiles: A Pixar-Perfect Selfie Moment"
 category: 3d
 tags: ["selfie","vibrant","nano-banana-pro"]
-author: "@ShreyaYadav___"
+author: "[@ShreyaYadav___](https://x.com/ShreyaYadav___)"
 author_url: "https://twitter.com/ShreyaYadav___"
 source_url: "https://twitter.com/ShreyaYadav___/status/1996645791092629998"
 preview: "/media/3d/pg-1996645791092629998.webp"

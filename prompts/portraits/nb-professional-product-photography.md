@@ -2,7 +2,7 @@
 title: "Professional Product Photography"
 category: portraits
 tags: ["professional", "ai-art"]
-author: "@nanobanana-pro"
+author: "[@nanobanana-pro](https://x.com/nanobanana-pro)"
 preview: "/media/portraits/nb-professional-product-photography.webp"
 ---
 

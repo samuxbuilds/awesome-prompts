@@ -2,7 +2,7 @@
 title: "Exploring Neural Networks: Biesty's Artistic Touch"
 category: creative
 tags: ["art","nano-banana-pro"]
-author: "@jon_barron"
+author: "[@jon_barron](https://x.com/jon_barron)"
 author_url: "https://twitter.com/jon_barron"
 source_url: "https://twitter.com/jon_barron/status/1991554563233779822"
 preview: "/media/creative/pg-1991554563233779822.webp"

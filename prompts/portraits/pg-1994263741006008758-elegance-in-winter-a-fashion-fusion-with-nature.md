@@ -2,7 +2,7 @@
 title: "Elegance in Winter: A Fashion Fusion with Nature"
 category: portraits
 tags: ["nature","fashion","nano-banana-pro"]
-author: "@kingofdairyque"
+author: "[@kingofdairyque](https://x.com/kingofdairyque)"
 author_url: "https://twitter.com/kingofdairyque"
 source_url: "https://twitter.com/kingofdairyque/status/1994263741006008758"
 preview: "/media/portraits/pg-1994263741006008758.webp"

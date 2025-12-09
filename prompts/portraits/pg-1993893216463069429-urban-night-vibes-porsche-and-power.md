@@ -2,7 +2,7 @@
 title: "Urban Night Vibes: Porsche and Power"
 category: portraits
 tags: ["urban","light","neon","nano-banana-pro"]
-author: "@YaseenK7212"
+author: "[@YaseenK7212](https://x.com/YaseenK7212)"
 author_url: "https://twitter.com/YaseenK7212"
 source_url: "https://twitter.com/YaseenK7212/status/1993893216463069429"
 preview: "/media/portraits/pg-1993893216463069429.webp"

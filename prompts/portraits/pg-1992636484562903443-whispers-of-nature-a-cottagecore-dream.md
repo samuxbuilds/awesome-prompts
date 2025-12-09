@@ -2,7 +2,7 @@
 title: "Whispers of Nature: A Cottagecore Dream"
 category: portraits
 tags: ["vintage","nature","light","vibrant","nano-banana-pro"]
-author: "@YaseenK7212"
+author: "[@YaseenK7212](https://x.com/YaseenK7212)"
 author_url: "https://twitter.com/YaseenK7212"
 source_url: "https://twitter.com/YaseenK7212/status/1992636484562903443"
 preview: "/media/portraits/pg-1992636484562903443.webp"

@@ -2,7 +2,7 @@
 title: "The Art of Illusion: AI-Generated Weekend Highlights"
 category: portraits
 tags: ["selfie","art","light","nano-banana-pro"]
-author: "@imaxichuhai"
+author: "[@imaxichuhai](https://x.com/imaxichuhai)"
 author_url: "https://twitter.com/imaxichuhai"
 source_url: "https://twitter.com/imaxichuhai/status/1991717062020866428"
 preview: "/media/portraits/pg-1991717062020866428.webp"

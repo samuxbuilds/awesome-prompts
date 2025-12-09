@@ -2,7 +2,7 @@
 title: "3D Chibi Proposal Scene"
 category: 3d
 tags: ["3d", "chibi", "cartoon", "realistic", "cute"]
-author: "@balconychy"
+author: "[@balconychy](https://x.com/balconychy)"
 preview: "/media/3d/3d-chibi-proposal-scene.webp"
 ---
 

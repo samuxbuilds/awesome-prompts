@@ -2,7 +2,7 @@
 title: "Charming Vibes at the Modern Pub"
 category: 3d
 tags: ["modern","vibrant","nano-banana-pro"]
-author: "@lexx_aura"
+author: "[@lexx_aura](https://x.com/lexx_aura)"
 author_url: "https://twitter.com/lexx_aura"
 source_url: "https://twitter.com/lexx_aura/status/1996561195424260299"
 preview: "/media/3d/pg-1996561195424260299.webp"

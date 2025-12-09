@@ -2,7 +2,7 @@
 title: "Unlocking Ray Kurzweil's Six Epochs with Nano Banana Pro!"
 category: creative
 tags: ["light","nano-banana-pro"]
-author: "@Tsubame33785667"
+author: "[@Tsubame33785667](https://x.com/Tsubame33785667)"
 author_url: "https://twitter.com/Tsubame33785667"
 source_url: "https://twitter.com/Tsubame33785667/status/1991669329491120165"
 preview: "/media/creative/pg-1991669329491120165.webp"

@@ -2,7 +2,7 @@
 title: "Self-Love Shines in Golden Light 🌟"
 category: portraits
 tags: ["light","nano-banana-pro"]
-author: "@xmiiru_"
+author: "[@xmiiru_](https://x.com/xmiiru_)"
 author_url: "https://twitter.com/xmiiru_"
 source_url: "https://twitter.com/xmiiru_/status/1996884824393449709"
 preview: "/media/portraits/pg-1996884824393449709.webp"

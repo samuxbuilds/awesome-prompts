@@ -2,7 +2,7 @@
 title: "Sipping Serenity: A Street Café Dream"
 category: portraits
 tags: ["vibrant","nano-banana-pro"]
-author: "@kingofdairyque"
+author: "[@kingofdairyque](https://x.com/kingofdairyque)"
 author_url: "https://twitter.com/kingofdairyque"
 source_url: "https://twitter.com/kingofdairyque/status/1993175500915982855"
 preview: "/media/portraits/pg-1993175500915982855.webp"

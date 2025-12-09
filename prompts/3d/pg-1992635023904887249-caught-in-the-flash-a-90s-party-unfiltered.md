@@ -2,7 +2,7 @@
 title: "Caught in the Flash: A 90s Party Unfiltered"
 category: 3d
 tags: ["art","nano-banana-pro"]
-author: "@CharaspowerAI"
+author: "[@CharaspowerAI](https://x.com/CharaspowerAI)"
 author_url: "https://twitter.com/CharaspowerAI"
 source_url: "https://twitter.com/CharaspowerAI/status/1992635023904887249"
 preview: "/media/3d/pg-1992635023904887249.webp"

@@ -2,7 +2,7 @@
 title: "Charming Elegance: A Maid's Day Out"
 category: portraits
 tags: ["art","light","vibrant","nano-banana-pro"]
-author: "@MANISH1027512"
+author: "[@MANISH1027512](https://x.com/MANISH1027512)"
 author_url: "https://twitter.com/MANISH1027512"
 source_url: "https://twitter.com/MANISH1027512/status/1996795234651721762"
 preview: "/media/portraits/pg-1996795234651721762.webp"

@@ -2,7 +2,7 @@
 title: "Social Media Frame Integration"
 category: posters
 tags: ["3d", "chibi", "icon", "character"]
-author: "@dotey"
+author: "[@dotey](https://x.com/dotey)"
 preview: "/media/posters/social-media-frame-integration.webp"
 ---
 

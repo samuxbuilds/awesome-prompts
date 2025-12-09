@@ -2,7 +2,7 @@
 title: "A CEO Among Giants: Lincoln's Leadership Unveiled"
 category: creative
 tags: ["art","nano-banana-pro"]
-author: "@maxescu"
+author: "[@maxescu](https://x.com/maxescu)"
 author_url: "https://twitter.com/maxescu"
 source_url: "https://twitter.com/maxescu/status/1994465156047290824"
 preview: "/media/creative/pg-1994465156047290824.webp"

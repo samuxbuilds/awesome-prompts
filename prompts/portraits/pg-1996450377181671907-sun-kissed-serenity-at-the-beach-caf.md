@@ -2,7 +2,7 @@
 title: "Sun-Kissed Serenity at the Beach Café"
 category: portraits
 tags: ["light","nano-banana-pro"]
-author: "@ShreyaYadav___"
+author: "[@ShreyaYadav___](https://x.com/ShreyaYadav___)"
 author_url: "https://twitter.com/ShreyaYadav___"
 source_url: "https://twitter.com/ShreyaYadav___/status/1996450377181671907"
 preview: "/media/portraits/pg-1996450377181671907.webp"

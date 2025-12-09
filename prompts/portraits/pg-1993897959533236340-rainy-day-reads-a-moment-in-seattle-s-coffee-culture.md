@@ -2,7 +2,7 @@
 title: "Rainy Day Reads: A Moment in Seattle's Coffee Culture"
 category: portraits
 tags: ["nano-banana-pro"]
-author: "@minchoi"
+author: "[@minchoi](https://x.com/minchoi)"
 author_url: "https://twitter.com/minchoi"
 source_url: "https://twitter.com/minchoi/status/1993897959533236340"
 preview: "/media/portraits/pg-1993897959533236340.webp"

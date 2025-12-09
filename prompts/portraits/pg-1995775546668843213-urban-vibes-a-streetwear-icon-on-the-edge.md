@@ -2,7 +2,7 @@
 title: "Urban Vibes: A Streetwear Icon on the Edge"
 category: portraits
 tags: ["art","urban","fashion","vibrant","nano-banana-pro"]
-author: "@Harboris_27"
+author: "[@Harboris_27](https://x.com/Harboris_27)"
 author_url: "https://twitter.com/Harboris_27"
 source_url: "https://twitter.com/Harboris_27/status/1995775546668843213"
 preview: "/media/portraits/pg-1995775546668843213.webp"

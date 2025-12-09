@@ -2,7 +2,7 @@
 title: "Blueprints of Royalty: The Laxmi Vilas Palace Unveiled"
 category: creative
 tags: ["nano-banana-pro"]
-author: "@jdhruv14"
+author: "[@jdhruv14](https://x.com/jdhruv14)"
 author_url: "https://twitter.com/jdhruv14"
 source_url: "https://twitter.com/jdhruv14/status/1991718455150801098"
 preview: "/media/creative/pg-1991718455150801098.webp"

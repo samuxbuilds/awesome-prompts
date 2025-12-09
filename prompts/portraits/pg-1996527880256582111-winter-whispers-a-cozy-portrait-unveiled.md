@@ -2,7 +2,7 @@
 title: "Winter Whispers: A Cozy Portrait Unveiled"
 category: portraits
 tags: ["portrait","art","nature","vibrant","nano-banana-pro"]
-author: "@kingofdairyque"
+author: "[@kingofdairyque](https://x.com/kingofdairyque)"
 author_url: "https://twitter.com/kingofdairyque"
 source_url: "https://twitter.com/kingofdairyque/status/1996527880256582111"
 preview: "/media/portraits/pg-1996527880256582111.webp"

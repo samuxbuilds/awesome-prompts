@@ -2,7 +2,7 @@
 title: "A Moment in Time: Night Thoughts at the Bus Stop"
 category: portraits
 tags: ["light","nano-banana-pro"]
-author: "@SimplyAnnisa"
+author: "[@SimplyAnnisa](https://x.com/SimplyAnnisa)"
 author_url: "https://twitter.com/SimplyAnnisa"
 source_url: "https://twitter.com/SimplyAnnisa/status/1991828184627920938"
 preview: "/media/portraits/pg-1991828184627920938.webp"

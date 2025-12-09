@@ -2,7 +2,7 @@
 title: "Neon Shadows: A Cyberpunk Duel in the Rain"
 category: 3d
 tags: ["urban","light","neon","nano-banana-pro"]
-author: "@AIwithkhan"
+author: "[@AIwithkhan](https://x.com/AIwithkhan)"
 author_url: "https://twitter.com/AIwithkhan"
 source_url: "https://twitter.com/AIwithkhan/status/1995319486438953152"
 preview: "/media/3d/pg-1995319486438953152.webp"

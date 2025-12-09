@@ -2,7 +2,7 @@
 title: "Elevator Elegance: A Vision in Glamour"
 category: portraits
 tags: ["nano-banana-pro"]
-author: "@xmiiru_"
+author: "[@xmiiru_](https://x.com/xmiiru_)"
 author_url: "https://twitter.com/xmiiru_"
 source_url: "https://twitter.com/xmiiru_/status/1995127035081932940"
 preview: "/media/portraits/pg-1995127035081932940.webp"

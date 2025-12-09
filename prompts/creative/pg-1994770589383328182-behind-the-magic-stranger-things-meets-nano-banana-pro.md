@@ -2,7 +2,7 @@
 title: "Behind the Magic: Stranger Things Meets Nano Banana Pro"
 category: creative
 tags: ["light","nano-banana-pro"]
-author: "@Ror_Fly"
+author: "[@Ror_Fly](https://x.com/Ror_Fly)"
 author_url: "https://twitter.com/Ror_Fly"
 source_url: "https://twitter.com/Ror_Fly/status/1994770589383328182"
 preview: "/media/creative/pg-1994770589383328182.webp"

@@ -2,7 +2,7 @@
 title: "Moonlit Dreams: A Serene Anime Escape"
 category: 3d
 tags: ["anime","nano-banana-pro"]
-author: "@NoOneIsHere2603"
+author: "[@NoOneIsHere2603](https://x.com/NoOneIsHere2603)"
 author_url: "https://twitter.com/NoOneIsHere2603"
 source_url: "https://twitter.com/NoOneIsHere2603/status/1995850755132326311"
 preview: "/media/3d/pg-1995850755132326311.webp"

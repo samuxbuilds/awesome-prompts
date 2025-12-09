@@ -2,7 +2,7 @@
 title: "Silence Speaks: A Still Moment in the Urban Hustle"
 category: 3d
 tags: ["portrait","urban","nano-banana-pro"]
-author: "@Taaruk_"
+author: "[@Taaruk_](https://x.com/Taaruk_)"
 author_url: "https://twitter.com/Taaruk_"
 source_url: "https://twitter.com/Taaruk_/status/1996916781475418441"
 preview: "/media/3d/pg-1996916781475418441.webp"

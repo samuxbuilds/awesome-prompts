@@ -2,7 +2,7 @@
 title: "Character Consistency Selfie with Movie Character"
 category: portraits
 tags: ["character", "ai-art"]
-author: "@nanobanana-pro"
+author: "[@nanobanana-pro](https://x.com/nanobanana-pro)"
 preview: "/media/portraits/nb-character-consistency-selfie-with-movie-character.webp"
 ---
 

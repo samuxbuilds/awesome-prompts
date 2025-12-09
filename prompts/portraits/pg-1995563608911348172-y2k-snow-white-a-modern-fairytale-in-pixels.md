@@ -2,7 +2,7 @@
 title: "Y2K Snow White: A Modern Fairytale in Pixels"
 category: portraits
 tags: ["vintage","modern","nano-banana-pro"]
-author: "@IqraSaifiii"
+author: "[@IqraSaifiii](https://x.com/IqraSaifiii)"
 author_url: "https://twitter.com/IqraSaifiii"
 source_url: "https://twitter.com/IqraSaifiii/status/1995563608911348172"
 preview: "/media/portraits/pg-1995563608911348172.webp"

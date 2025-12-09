@@ -2,7 +2,7 @@
 title: "Victoria's Secret Style Photoshoot"
 category: portraits
 tags: ["glamour", "ai-art"]
-author: "@nanobanana-pro"
+author: "[@nanobanana-pro](https://x.com/nanobanana-pro)"
 preview: "/media/portraits/nb-victoria-s-secret-style-photoshoot.webp"
 ---
 

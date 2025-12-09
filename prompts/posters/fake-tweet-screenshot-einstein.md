@@ -2,7 +2,7 @@
 title: "Fake Tweet Screenshot (Einstein)"
 category: posters
 tags: ["realistic", "ai-art"]
-author: "@egeberkina"
+author: "[@egeberkina](https://x.com/egeberkina)"
 preview: "/media/posters/fake-tweet-screenshot-einstein.webp"
 ---
 

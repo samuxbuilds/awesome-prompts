@@ -2,7 +2,7 @@
 title: "The Intensity of Rugged Charm"
 category: portraits
 tags: ["realistic","light","nano-banana-pro"]
-author: "@lexx_aura"
+author: "[@lexx_aura](https://x.com/lexx_aura)"
 author_url: "https://twitter.com/lexx_aura"
 source_url: "https://twitter.com/lexx_aura/status/1992946197900964222"
 preview: "/media/portraits/pg-1992946197900964222.webp"

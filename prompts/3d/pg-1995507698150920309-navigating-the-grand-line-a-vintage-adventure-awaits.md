@@ -2,7 +2,7 @@
 title: "Navigating the Grand Line: A Vintage Adventure Awaits"
 category: 3d
 tags: ["vintage","light","nano-banana-pro"]
-author: "@_MehdiSharifi_"
+author: "[@_MehdiSharifi_](https://x.com/_MehdiSharifi_)"
 author_url: "https://twitter.com/_MehdiSharifi_"
 source_url: "https://twitter.com/_MehdiSharifi_/status/1995507698150920309"
 preview: "/media/3d/pg-1995507698150920309.webp"

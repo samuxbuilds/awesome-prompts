@@ -2,7 +2,7 @@
 title: "TIME: A Melting Moment in Minimalism"
 category: creative
 tags: ["minimal","nano-banana-pro"]
-author: "@LudovicCreator"
+author: "[@LudovicCreator](https://x.com/LudovicCreator)"
 author_url: "https://twitter.com/LudovicCreator"
 source_url: "https://twitter.com/LudovicCreator/status/1996565176921796789"
 preview: "/media/creative/pg-1996565176921796789.webp"

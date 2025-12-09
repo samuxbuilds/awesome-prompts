@@ -2,7 +2,7 @@
 title: "Bathed in Golden Hour: A Serene Outdoor Elegance"
 category: 3d
 tags: ["portrait","nature","light","nano-banana-pro"]
-author: "@ZaraIrahh"
+author: "[@ZaraIrahh](https://x.com/ZaraIrahh)"
 author_url: "https://twitter.com/ZaraIrahh"
 source_url: "https://twitter.com/ZaraIrahh/status/1994424368051757454"
 preview: "/media/3d/pg-1994424368051757454.webp"

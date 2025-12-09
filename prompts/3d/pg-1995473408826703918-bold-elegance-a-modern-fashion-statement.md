@@ -2,7 +2,7 @@
 title: "Bold Elegance: A Modern Fashion Statement"
 category: 3d
 tags: ["art","modern","fashion","minimal","nano-banana-pro"]
-author: "@mehvishs25"
+author: "[@mehvishs25](https://x.com/mehvishs25)"
 author_url: "https://twitter.com/mehvishs25"
 source_url: "https://twitter.com/mehvishs25/status/1995473408826703918"
 preview: "/media/3d/pg-1995473408826703918.webp"

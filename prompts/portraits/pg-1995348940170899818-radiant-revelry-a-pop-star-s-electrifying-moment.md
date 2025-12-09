@@ -2,7 +2,7 @@
 title: "Radiant Revelry: A Pop Star's Electrifying Moment"
 category: portraits
 tags: ["art","light","nano-banana-pro"]
-author: "@minchoi"
+author: "[@minchoi](https://x.com/minchoi)"
 author_url: "https://twitter.com/minchoi"
 source_url: "https://twitter.com/minchoi/status/1995348940170899818"
 preview: "/media/portraits/pg-1995348940170899818.webp"

@@ -2,7 +2,7 @@
 title: "Animal Silicone Wrist Rest"
 category: icons
 tags: ["chibi", "cartoon", "cute", "emoji", "icon"]
-author: "@ZHO_ZHO_ZHO"
+author: "[@ZHO_ZHO_ZHO](https://x.com/ZHO_ZHO_ZHO)"
 preview: "/media/icons/animal-silicone-wrist-rest.webp"
 ---
 

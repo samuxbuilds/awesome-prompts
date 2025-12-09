@@ -2,7 +2,7 @@
 title: "Fierce Elegance in Motion: Gym Lobby Glam"
 category: portraits
 tags: ["nano-banana-pro"]
-author: "@ShreyaYadav___"
+author: "[@ShreyaYadav___](https://x.com/ShreyaYadav___)"
 author_url: "https://twitter.com/ShreyaYadav___"
 source_url: "https://twitter.com/ShreyaYadav___/status/1992985241905184920"
 preview: "/media/portraits/pg-1992985241905184920.webp"

@@ -2,7 +2,7 @@
 title: "Reflections of Elegance: A Portrait in Monochrome"
 category: portraits
 tags: ["portrait","light","nano-banana-pro"]
-author: "@saniaspeaks_"
+author: "[@saniaspeaks_](https://x.com/saniaspeaks_)"
 author_url: "https://twitter.com/saniaspeaks_"
 source_url: "https://twitter.com/saniaspeaks_/status/1996206971947544984"
 preview: "/media/portraits/pg-1996206971947544984.webp"

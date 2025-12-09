@@ -2,7 +2,7 @@
 title: "The Art of Reflection: A Recursive Creation"
 category: portraits
 tags: ["art","nano-banana-pro"]
-author: "@goodside"
+author: "[@goodside](https://x.com/goodside)"
 author_url: "https://twitter.com/goodside"
 source_url: "https://twitter.com/goodside/status/1992038915881029641"
 preview: "/media/portraits/pg-1992038915881029641.webp"

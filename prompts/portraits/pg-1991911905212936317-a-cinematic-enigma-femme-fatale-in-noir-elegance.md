@@ -2,7 +2,7 @@
 title: "A Cinematic Enigma: Femme Fatale in Noir Elegance"
 category: portraits
 tags: ["nano-banana-pro"]
-author: "@lexx_aura"
+author: "[@lexx_aura](https://x.com/lexx_aura)"
 author_url: "https://twitter.com/lexx_aura"
 source_url: "https://twitter.com/lexx_aura/status/1991911905212936317"
 preview: "/media/portraits/pg-1991911905212936317.webp"

@@ -2,7 +2,7 @@
 title: "Elegance in Motion: A Crimson Dream"
 category: 3d
 tags: ["portrait","nano-banana-pro"]
-author: "@AIByAbbay"
+author: "[@AIByAbbay](https://x.com/AIByAbbay)"
 author_url: "https://twitter.com/AIByAbbay"
 source_url: "https://twitter.com/AIByAbbay/status/1996569426385387864"
 preview: "/media/3d/pg-1996569426385387864.webp"

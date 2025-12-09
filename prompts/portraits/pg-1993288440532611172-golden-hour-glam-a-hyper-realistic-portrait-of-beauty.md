@@ -2,7 +2,7 @@
 title: "Golden Hour Glam: A Hyper-Realistic Portrait of Beauty"
 category: portraits
 tags: ["realistic","portrait","light","nano-banana-pro"]
-author: "@YaseenK7212"
+author: "[@YaseenK7212](https://x.com/YaseenK7212)"
 author_url: "https://twitter.com/YaseenK7212"
 source_url: "https://twitter.com/YaseenK7212/status/1993288440532611172"
 preview: "/media/portraits/pg-1993288440532611172.webp"

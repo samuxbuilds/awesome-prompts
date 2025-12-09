@@ -2,7 +2,7 @@
 title: "Monochrome Elegance: The Power of a Gaze"
 category: portraits
 tags: ["minimal","light","nano-banana-pro"]
-author: "@aleenaamiir"
+author: "[@aleenaamiir](https://x.com/aleenaamiir)"
 author_url: "https://twitter.com/aleenaamiir"
 source_url: "https://twitter.com/aleenaamiir/status/1991765428985876879"
 preview: "/media/portraits/pg-1991765428985876879.webp"

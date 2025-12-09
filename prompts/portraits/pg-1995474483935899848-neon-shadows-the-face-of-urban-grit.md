@@ -2,7 +2,7 @@
 title: "Neon Shadows: The Face of Urban Grit"
 category: portraits
 tags: ["urban","light","neon","vibrant","nano-banana-pro"]
-author: "@AIwithkhan"
+author: "[@AIwithkhan](https://x.com/AIwithkhan)"
 author_url: "https://twitter.com/AIwithkhan"
 source_url: "https://twitter.com/AIwithkhan/status/1995474483935899848"
 preview: "/media/portraits/pg-1995474483935899848.webp"

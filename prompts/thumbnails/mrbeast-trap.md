@@ -2,7 +2,7 @@
 title: "MrBeast Style - Trap/Danger"
 category: "thumbnails"
 tags: ["mrbeast", "youtube", "thumbnail", "danger", "trap"]
-author: "@samux"
+author: "[@samux](https://x.com/samux)"
 preview: "/media/thumbnails/mrbeast-trap.webp"
 ---
 

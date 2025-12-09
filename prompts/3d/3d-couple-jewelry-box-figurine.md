@@ -2,7 +2,7 @@
 title: "3D Couple Jewelry Box Figurine"
 category: 3d
 tags: ["3d", "chibi", "figurine", "pastel", "couple"]
-author: "@dotey"
+author: "[@dotey](https://x.com/dotey)"
 preview: "/media/3d/3d-couple-jewelry-box-figurine.webp"
 ---
 

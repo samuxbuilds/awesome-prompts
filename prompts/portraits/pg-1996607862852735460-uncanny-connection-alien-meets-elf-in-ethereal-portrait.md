@@ -2,7 +2,7 @@
 title: "Uncanny Connection: Alien Meets Elf in Ethereal Portrait"
 category: portraits
 tags: ["portrait","nano-banana-pro"]
-author: "@monicamoonx"
+author: "[@monicamoonx](https://x.com/monicamoonx)"
 author_url: "https://twitter.com/monicamoonx"
 source_url: "https://twitter.com/monicamoonx/status/1996607862852735460"
 preview: "/media/portraits/pg-1996607862852735460.webp"

@@ -2,7 +2,7 @@
 title: "Revolutionizing Creativity: Nano Banana Pro Unleashed!"
 category: portraits
 tags: ["fantasy","nano-banana-pro"]
-author: "@minchoi"
+author: "[@minchoi](https://x.com/minchoi)"
 author_url: "https://twitter.com/minchoi"
 source_url: "https://twitter.com/minchoi/status/1991544444051755056"
 preview: "/media/portraits/pg-1991544444051755056.webp"

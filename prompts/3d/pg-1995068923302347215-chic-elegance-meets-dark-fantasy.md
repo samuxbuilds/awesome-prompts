@@ -2,7 +2,7 @@
 title: "Chic Elegance Meets Dark Fantasy"
 category: 3d
 tags: ["fantasy","dark","light","nano-banana-pro"]
-author: "@Just_sharon7"
+author: "[@Just_sharon7](https://x.com/Just_sharon7)"
 author_url: "https://twitter.com/Just_sharon7"
 source_url: "https://twitter.com/Just_sharon7/status/1995068923302347215"
 preview: "/media/3d/pg-1995068923302347215.webp"

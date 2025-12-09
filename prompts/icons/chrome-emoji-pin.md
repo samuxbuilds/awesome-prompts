@@ -2,7 +2,7 @@
 title: "Chrome Emoji Pin"
 category: icons
 tags: ["3d", "emoji", "icon", "chrome", "futuristic"]
-author: "@egeberkina"
+author: "[@egeberkina](https://x.com/egeberkina)"
 preview: "/media/icons/chrome-emoji-pin.webp"
 ---
 

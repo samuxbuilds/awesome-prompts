@@ -2,7 +2,7 @@
 title: "Night Drive Vibes: Porsche Meets City Lights"
 category: 3d
 tags: ["urban","light","vibrant","nano-banana-pro"]
-author: "@SimplyAnnisa"
+author: "[@SimplyAnnisa](https://x.com/SimplyAnnisa)"
 author_url: "https://twitter.com/SimplyAnnisa"
 source_url: "https://twitter.com/SimplyAnnisa/status/1994007071952388603"
 preview: "/media/3d/pg-1994007071952388603.webp"

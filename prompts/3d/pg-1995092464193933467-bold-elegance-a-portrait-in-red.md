@@ -2,7 +2,7 @@
 title: "Bold Elegance: A Portrait in Red"
 category: 3d
 tags: ["portrait","light","nano-banana-pro"]
-author: "@kingofdairyque"
+author: "[@kingofdairyque](https://x.com/kingofdairyque)"
 author_url: "https://twitter.com/kingofdairyque"
 source_url: "https://twitter.com/kingofdairyque/status/1995092464193933467"
 preview: "/media/3d/pg-1995092464193933467.webp"

@@ -2,7 +2,7 @@
 title: "MrBeast Style - Transformation"
 category: "thumbnails"
 tags: ["mrbeast", "youtube", "thumbnail", "transformation", "before-after"]
-author: "@samux"
+author: "[@samux](https://x.com/samux)"
 preview: "/media/thumbnails/mrbeast-transformation.webp"
 ---
 

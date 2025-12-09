@@ -2,7 +2,7 @@
 title: "Cinematic Solitude: A Stylish Retreat"
 category: 3d
 tags: ["vintage","light","nano-banana-pro"]
-author: "@Harboris_27"
+author: "[@Harboris_27](https://x.com/Harboris_27)"
 author_url: "https://twitter.com/Harboris_27"
 source_url: "https://twitter.com/Harboris_27/status/1997136725143916720"
 preview: "/media/3d/pg-1997136725143916720.webp"

@@ -2,7 +2,7 @@
 title: "Crafting Complexity: The Art of the Nano Banana Pro"
 category: 3d
 tags: ["3d","art","nano-banana-pro"]
-author: "@HBCoop_"
+author: "[@HBCoop_](https://x.com/HBCoop_)"
 author_url: "https://twitter.com/HBCoop_"
 source_url: "https://twitter.com/HBCoop_/status/1994822441793671485"
 preview: "/media/3d/pg-1994822441793671485.webp"

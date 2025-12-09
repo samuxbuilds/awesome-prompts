@@ -2,7 +2,7 @@
 title: "From Comic to Reality: A Stunning Transformation"
 category: portraits
 tags: ["realistic","nano-banana-pro"]
-author: "@dotey"
+author: "[@dotey](https://x.com/dotey)"
 author_url: "https://twitter.com/dotey"
 source_url: "https://twitter.com/dotey/status/1996281855503372510"
 preview: "/media/portraits/pg-1996281855503372510.webp"

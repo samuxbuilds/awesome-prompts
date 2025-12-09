@@ -2,7 +2,7 @@
 title: "Chic Confidence: A Modern Portrait in Dramatic Light"
 category: 3d
 tags: ["portrait","modern","light","nano-banana-pro"]
-author: "@kingofdairyque"
+author: "[@kingofdairyque](https://x.com/kingofdairyque)"
 author_url: "https://twitter.com/kingofdairyque"
 source_url: "https://twitter.com/kingofdairyque/status/1995719926993310177"
 preview: "/media/3d/pg-1995719926993310177.webp"

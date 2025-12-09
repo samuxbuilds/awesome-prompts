@@ -2,7 +2,7 @@
 title: "Chasing Friendship: A Classic Tom and Jerry Moment"
 category: 3d
 tags: ["nano-banana-pro"]
-author: "@_wej01"
+author: "[@_wej01](https://x.com/_wej01)"
 author_url: "https://twitter.com/_wej01"
 source_url: "https://twitter.com/_wej01/status/1996417319904448581"
 preview: "/media/3d/pg-1996417319904448581.webp"

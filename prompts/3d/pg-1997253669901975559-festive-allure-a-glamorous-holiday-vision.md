@@ -2,7 +2,7 @@
 title: "Festive Allure: A Glamorous Holiday Vision"
 category: 3d
 tags: ["nano-banana-pro"]
-author: "@lexx_aura"
+author: "[@lexx_aura](https://x.com/lexx_aura)"
 author_url: "https://twitter.com/lexx_aura"
 source_url: "https://twitter.com/lexx_aura/status/1997253669901975559"
 preview: "/media/3d/pg-1997253669901975559.webp"

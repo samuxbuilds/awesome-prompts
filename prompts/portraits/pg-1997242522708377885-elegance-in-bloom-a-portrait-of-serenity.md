@@ -2,7 +2,7 @@
 title: "Elegance in Bloom: A Portrait of Serenity"
 category: portraits
 tags: ["portrait","nano-banana-pro"]
-author: "@brad_zhang2024"
+author: "[@brad_zhang2024](https://x.com/brad_zhang2024)"
 author_url: "https://twitter.com/brad_zhang2024"
 source_url: "https://twitter.com/brad_zhang2024/status/1997242522708377885"
 preview: "/media/portraits/pg-1997242522708377885.webp"

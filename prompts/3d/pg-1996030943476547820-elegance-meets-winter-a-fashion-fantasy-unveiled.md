@@ -2,7 +2,7 @@
 title: "Elegance Meets Winter: A Fashion Fantasy Unveiled"
 category: 3d
 tags: ["fantasy","fashion","light","nano-banana-pro"]
-author: "@saniaspeaks_"
+author: "[@saniaspeaks_](https://x.com/saniaspeaks_)"
 author_url: "https://twitter.com/saniaspeaks_"
 source_url: "https://twitter.com/saniaspeaks_/status/1996030943476547820"
 preview: "/media/3d/pg-1996030943476547820.webp"

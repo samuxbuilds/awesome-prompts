@@ -2,7 +2,7 @@
 title: "Split View 3D Render - iPhone 17 Pro"
 category: 3d
 tags: ["3d", "minimalist", "realistic"]
-author: "@nanobanana-pro"
+author: "[@nanobanana-pro](https://x.com/nanobanana-pro)"
 preview: "/media/3d/nb-split-view-3d-render-iphone-17-pro.webp"
 ---
 

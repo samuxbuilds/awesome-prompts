@@ -2,7 +2,7 @@
 title: "Kids' Crayon Travel Journal Illustrator"
 category: creative
 tags: ["cute", "illustration", "sticker", "icon", "character"]
-author: "@nanobanana-pro"
+author: "[@nanobanana-pro](https://x.com/nanobanana-pro)"
 preview: "/media/creative/nb-kids-crayon-travel-journal-illustrator.webp"
 ---
 

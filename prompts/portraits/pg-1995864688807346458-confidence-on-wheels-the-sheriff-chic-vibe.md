@@ -2,7 +2,7 @@
 title: "Confidence on Wheels: The Sheriff Chic Vibe"
 category: portraits
 tags: ["vintage","nano-banana-pro"]
-author: "@IqraSaifiii"
+author: "[@IqraSaifiii](https://x.com/IqraSaifiii)"
 author_url: "https://twitter.com/IqraSaifiii"
 source_url: "https://twitter.com/IqraSaifiii/status/1995864688807346458"
 preview: "/media/portraits/pg-1995864688807346458.webp"

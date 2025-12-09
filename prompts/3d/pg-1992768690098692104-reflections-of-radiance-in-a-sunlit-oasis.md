@@ -2,7 +2,7 @@
 title: "Reflections of Radiance in a Sunlit Oasis"
 category: 3d
 tags: ["portrait","light","nano-banana-pro"]
-author: "@SimplyAnnisa"
+author: "[@SimplyAnnisa](https://x.com/SimplyAnnisa)"
 author_url: "https://twitter.com/SimplyAnnisa"
 source_url: "https://twitter.com/SimplyAnnisa/status/1992768690098692104"
 preview: "/media/3d/pg-1992768690098692104.webp"

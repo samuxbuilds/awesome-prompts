@@ -2,7 +2,7 @@
 title: "Unveiling Landmarks: A Journey Through Time and Architecture"
 category: creative
 tags: ["art","vibrant","nano-banana-pro"]
-author: "@Ankit_patel211"
+author: "[@Ankit_patel211](https://x.com/Ankit_patel211)"
 author_url: "https://twitter.com/Ankit_patel211"
 source_url: "https://twitter.com/Ankit_patel211/status/1991790238822215947"
 preview: "/media/creative/pg-1991790238822215947.webp"

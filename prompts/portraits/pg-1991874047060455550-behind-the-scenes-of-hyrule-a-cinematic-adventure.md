@@ -2,7 +2,7 @@
 title: "Behind the Scenes of Hyrule: A Cinematic Adventure"
 category: portraits
 tags: ["art","nano-banana-pro"]
-author: "@YkBuild"
+author: "[@YkBuild](https://x.com/YkBuild)"
 author_url: "https://twitter.com/YkBuild"
 source_url: "https://twitter.com/YkBuild/status/1991874047060455550"
 preview: "/media/portraits/pg-1991874047060455550.webp"

@@ -2,7 +2,7 @@
 title: "Winter Whimsy: A Girl and Her Puppy in the Snow"
 category: portraits
 tags: ["art","nano-banana-pro"]
-author: "@chatgptpaglu"
+author: "[@chatgptpaglu](https://x.com/chatgptpaglu)"
 author_url: "https://twitter.com/chatgptpaglu"
 source_url: "https://twitter.com/chatgptpaglu/status/1994018748114563568"
 preview: "/media/portraits/pg-1994018748114563568.webp"

@@ -2,7 +2,7 @@
 title: "Banana Secrets: Messages Written in Yellow"
 category: portraits
 tags: ["nature","nano-banana-pro"]
-author: "@LinusEkenstam"
+author: "[@LinusEkenstam](https://x.com/LinusEkenstam)"
 author_url: "https://twitter.com/LinusEkenstam"
 source_url: "https://twitter.com/LinusEkenstam/status/1991523244529336390"
 preview: "/media/portraits/pg-1991523244529336390.webp"

@@ -2,7 +2,7 @@
 title: "A Fiery Sorceress in a Landscape of Chaos"
 category: 3d
 tags: ["nano-banana-pro"]
-author: "@fahabib91"
+author: "[@fahabib91](https://x.com/fahabib91)"
 author_url: "https://twitter.com/fahabib91"
 source_url: "https://twitter.com/fahabib91/status/1991886481171136514"
 preview: "/media/3d/pg-1991886481171136514.webp"

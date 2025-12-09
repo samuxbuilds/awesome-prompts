@@ -2,7 +2,7 @@
 title: "Neon Dreams: A Night in the City"
 category: portraits
 tags: ["urban","light","neon","vibrant","nano-banana-pro"]
-author: "@rovvmut_"
+author: "[@rovvmut_](https://x.com/rovvmut_)"
 author_url: "https://twitter.com/rovvmut_"
 source_url: "https://twitter.com/rovvmut_/status/1992052672606921113"
 preview: "/media/portraits/pg-1992052672606921113.webp"

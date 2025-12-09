@@ -2,7 +2,7 @@
 title: "Retro Vibes in a Modern World: Capturing the Moment"
 category: portraits
 tags: ["vintage","modern","urban","light","nano-banana-pro"]
-author: "@weiinberg"
+author: "[@weiinberg](https://x.com/weiinberg)"
 author_url: "https://twitter.com/weiinberg"
 source_url: "https://twitter.com/weiinberg/status/1996431568429277353"
 preview: "/media/portraits/pg-1996431568429277353.webp"

@@ -2,7 +2,7 @@
 title: "Glimmering Elegance: A Portrait of Dreamy Beauty"
 category: 3d
 tags: ["portrait","light","nano-banana-pro"]
-author: "@rowanali09"
+author: "[@rowanali09](https://x.com/rowanali09)"
 author_url: "https://twitter.com/rowanali09"
 source_url: "https://twitter.com/rowanali09/status/1997136882749334005"
 preview: "/media/3d/pg-1997136882749334005.webp"

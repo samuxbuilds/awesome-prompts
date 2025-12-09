@@ -2,7 +2,7 @@
 title: "A Blast from the Past: The Most Useless Trinket of '86!"
 category: creative
 tags: ["art","vintage","nano-banana-pro"]
-author: "@allnoteson"
+author: "[@allnoteson](https://x.com/allnoteson)"
 author_url: "https://twitter.com/allnoteson"
 source_url: "https://twitter.com/allnoteson/status/1991559112635850956"
 preview: "/media/creative/pg-1991559112635850956.webp"

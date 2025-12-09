@@ -2,7 +2,7 @@
 title: "US Map Made of Famous Foods"
 category: creative
 tags: ["creative", "ai-art"]
-author: "@nanobanana-pro"
+author: "[@nanobanana-pro](https://x.com/nanobanana-pro)"
 preview: "/media/creative/nb-us-map-made-of-famous-foods.webp"
 ---
 

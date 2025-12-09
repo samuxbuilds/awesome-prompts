@@ -2,7 +2,7 @@
 title: "Hard Furnishing Preview (Floor Plan to Design)"
 category: creative
 tags: ["3d", "minimalist", "realistic", "photorealistic", "professional"]
-author: "@nanobanana-pro"
+author: "[@nanobanana-pro](https://x.com/nanobanana-pro)"
 preview: "/media/creative/nb-hard-furnishing-preview-floor-plan-to-design.webp"
 ---
 

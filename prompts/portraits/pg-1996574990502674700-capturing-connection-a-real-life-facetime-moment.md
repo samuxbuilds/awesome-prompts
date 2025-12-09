@@ -2,7 +2,7 @@
 title: "Capturing Connection: A Real-Life FaceTime Moment"
 category: portraits
 tags: ["light","nano-banana-pro"]
-author: "@_imfaizan18"
+author: "[@_imfaizan18](https://x.com/_imfaizan18)"
 author_url: "https://twitter.com/_imfaizan18"
 source_url: "https://twitter.com/_imfaizan18/status/1996574990502674700"
 preview: "/media/portraits/pg-1996574990502674700.webp"

@@ -2,7 +2,7 @@
 title: "Chasing Sunbeams: A Serene Selfie Moment"
 category: portraits
 tags: ["selfie","light","nano-banana-pro"]
-author: "@lexx_aura"
+author: "[@lexx_aura](https://x.com/lexx_aura)"
 author_url: "https://twitter.com/lexx_aura"
 source_url: "https://twitter.com/lexx_aura/status/1995485429265575954"
 preview: "/media/portraits/pg-1995485429265575954.webp"

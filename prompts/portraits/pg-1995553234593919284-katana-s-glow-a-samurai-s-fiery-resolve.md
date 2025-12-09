@@ -2,7 +2,7 @@
 title: "Katana's Glow: A Samurai's Fiery Resolve"
 category: portraits
 tags: ["nano-banana-pro"]
-author: "@ShreyaYadav___"
+author: "[@ShreyaYadav___](https://x.com/ShreyaYadav___)"
 author_url: "https://twitter.com/ShreyaYadav___"
 source_url: "https://twitter.com/ShreyaYadav___/status/1995553234593919284"
 preview: "/media/portraits/pg-1995553234593919284.webp"

@@ -2,7 +2,7 @@
 title: "Chic Reflections: A Modern Take on Self-Expression"
 category: portraits
 tags: ["modern","nano-banana-pro"]
-author: "@saniaspeaks_"
+author: "[@saniaspeaks_](https://x.com/saniaspeaks_)"
 author_url: "https://twitter.com/saniaspeaks_"
 source_url: "https://twitter.com/saniaspeaks_/status/1996494518762553632"
 preview: "/media/portraits/pg-1996494518762553632.webp"

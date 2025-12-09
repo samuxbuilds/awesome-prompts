@@ -2,7 +2,7 @@
 title: "Flashback to Pixelated Moments: A Night in Focus"
 category: portraits
 tags: ["light","digital","nano-banana-pro"]
-author: "@kingofdairyque"
+author: "[@kingofdairyque](https://x.com/kingofdairyque)"
 author_url: "https://twitter.com/kingofdairyque"
 source_url: "https://twitter.com/kingofdairyque/status/1993121789111935437"
 preview: "/media/portraits/pg-1993121789111935437.webp"

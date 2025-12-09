@@ -2,7 +2,7 @@
 title: "The Enigmatic Owl of the Jungle"
 category: creative
 tags: ["art","nature","dark","nano-banana-pro"]
-author: "@MrDasOnX"
+author: "[@MrDasOnX](https://x.com/MrDasOnX)"
 author_url: "https://twitter.com/MrDasOnX"
 source_url: "https://twitter.com/MrDasOnX/status/1995155798222311891"
 preview: "/media/creative/pg-1995155798222311891.webp"

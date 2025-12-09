@@ -2,7 +2,7 @@
 title: "Pet Shop Paradise: Learn English with Every Paw"
 category: 3d
 tags: ["light","vibrant","nano-banana-pro"]
-author: "@crystalsssup"
+author: "[@crystalsssup](https://x.com/crystalsssup)"
 author_url: "https://twitter.com/crystalsssup"
 source_url: "https://twitter.com/crystalsssup/status/1993225494410805623"
 preview: "/media/3d/pg-1993225494410805623.webp"

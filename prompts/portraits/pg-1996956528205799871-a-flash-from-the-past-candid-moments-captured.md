@@ -2,7 +2,7 @@
 title: "A Flash from the Past: Candid Moments Captured"
 category: portraits
 tags: ["digital","nano-banana-pro"]
-author: "@SimplyAnnisa"
+author: "[@SimplyAnnisa](https://x.com/SimplyAnnisa)"
 author_url: "https://twitter.com/SimplyAnnisa"
 source_url: "https://twitter.com/SimplyAnnisa/status/1996956528205799871"
 preview: "/media/portraits/pg-1996956528205799871.webp"

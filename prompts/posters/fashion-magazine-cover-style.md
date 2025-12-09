@@ -2,7 +2,7 @@
 title: "Fashion Magazine Cover Style"
 category: posters
 tags: ["minimalist", "ai-art"]
-author: "@dotey"
+author: "[@dotey](https://x.com/dotey)"
 preview: "/media/posters/fashion-magazine-cover-style.webp"
 ---
 

@@ -2,7 +2,7 @@
 title: "A Captivating Multiverse of Self"
 category: 3d
 tags: ["portrait","miniature","nano-banana-pro"]
-author: "@ShreyaYadav___"
+author: "[@ShreyaYadav___](https://x.com/ShreyaYadav___)"
 author_url: "https://twitter.com/ShreyaYadav___"
 source_url: "https://twitter.com/ShreyaYadav___/status/1994087836191170895"
 preview: "/media/3d/pg-1994087836191170895.webp"

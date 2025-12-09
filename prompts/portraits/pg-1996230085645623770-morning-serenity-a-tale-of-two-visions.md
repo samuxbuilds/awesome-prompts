@@ -2,7 +2,7 @@
 title: "Morning Serenity: A Tale of Two Visions"
 category: portraits
 tags: ["nano-banana-pro"]
-author: "@john_my07"
+author: "[@john_my07](https://x.com/john_my07)"
 author_url: "https://twitter.com/john_my07"
 source_url: "https://twitter.com/john_my07/status/1996230085645623770"
 preview: "/media/portraits/pg-1996230085645623770.webp"

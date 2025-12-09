@@ -2,7 +2,7 @@
 title: "Colorful Vector Art Poster"
 category: posters
 tags: ["poster", "ai-art"]
-author: "@michaelrabone"
+author: "[@michaelrabone](https://x.com/michaelrabone)"
 preview: "/media/posters/colorful-vector-art-poster.webp"
 ---
 

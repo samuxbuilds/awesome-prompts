@@ -2,7 +2,7 @@
 title: "Whispers of the Forest: A Serene Portrait"
 category: portraits
 tags: ["portrait","nature","light","nano-banana-pro"]
-author: "@miilesus"
+author: "[@miilesus](https://x.com/miilesus)"
 author_url: "https://twitter.com/miilesus"
 source_url: "https://twitter.com/miilesus/status/1997039870401814612"
 preview: "/media/portraits/pg-1997039870401814612.webp"

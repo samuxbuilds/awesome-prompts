@@ -2,7 +2,7 @@
 title: "Cosmic Swagger: The HaHaa Gundam Blueprint Unveiled!"
 category: creative
 tags: ["vibrant","nano-banana-pro"]
-author: "@CaptainHaHaa"
+author: "[@CaptainHaHaa](https://x.com/CaptainHaHaa)"
 author_url: "https://twitter.com/CaptainHaHaa"
 source_url: "https://twitter.com/CaptainHaHaa/status/1991724239767106012"
 preview: "/media/creative/pg-1991724239767106012.webp"

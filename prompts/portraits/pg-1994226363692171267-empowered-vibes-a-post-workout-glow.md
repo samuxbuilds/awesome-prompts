@@ -2,7 +2,7 @@
 title: "Empowered Vibes: A Post-Workout Glow"
 category: portraits
 tags: ["vibrant","nano-banana-pro"]
-author: "@godofprompt"
+author: "[@godofprompt](https://x.com/godofprompt)"
 author_url: "https://twitter.com/godofprompt"
 source_url: "https://twitter.com/godofprompt/status/1994226363692171267"
 preview: "/media/portraits/pg-1994226363692171267.webp"

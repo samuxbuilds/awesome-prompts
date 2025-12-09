@@ -2,7 +2,7 @@
 title: "Neon Dreams: Pink Coupe in Tokyo's Glimmering Night"
 category: 3d
 tags: ["urban","light","neon","vibrant","nano-banana-pro"]
-author: "@YaseenK7212"
+author: "[@YaseenK7212](https://x.com/YaseenK7212)"
 author_url: "https://twitter.com/YaseenK7212"
 source_url: "https://twitter.com/YaseenK7212/status/1996992897821073914"
 preview: "/media/3d/pg-1996992897821073914.webp"

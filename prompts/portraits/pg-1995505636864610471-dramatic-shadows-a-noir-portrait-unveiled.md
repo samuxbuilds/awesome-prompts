@@ -2,7 +2,7 @@
 title: "Dramatic Shadows: A Noir Portrait Unveiled"
 category: portraits
 tags: ["portrait","nature","light","nano-banana-pro"]
-author: "@john_my07"
+author: "[@john_my07](https://x.com/john_my07)"
 author_url: "https://twitter.com/john_my07"
 source_url: "https://twitter.com/john_my07/status/1995505636864610471"
 preview: "/media/portraits/pg-1995505636864610471.webp"

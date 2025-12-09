@@ -2,7 +2,7 @@
 title: "Story Scene in Crystal Ball"
 category: 3d
 tags: ["3d", "chibi", "surreal", "fantasy", "character"]
-author: "@dotey"
+author: "[@dotey](https://x.com/dotey)"
 preview: "/media/3d/story-scene-in-crystal-ball.webp"
 ---
 

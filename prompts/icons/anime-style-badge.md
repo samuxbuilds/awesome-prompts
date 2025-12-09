@@ -2,7 +2,7 @@
 title: "Anime-style Badge"
 category: icons
 tags: ["anime", "ai-art"]
-author: "@Alittlefatwhale"
+author: "[@Alittlefatwhale](https://x.com/Alittlefatwhale)"
 preview: "/media/icons/anime-style-badge.webp"
 ---
 

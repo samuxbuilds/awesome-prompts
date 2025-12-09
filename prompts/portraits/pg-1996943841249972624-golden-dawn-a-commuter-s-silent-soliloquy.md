@@ -2,7 +2,7 @@
 title: "Golden Dawn: A Commuter's Silent Soliloquy"
 category: portraits
 tags: ["vintage","fashion","light","nano-banana-pro"]
-author: "@kingofdairyque"
+author: "[@kingofdairyque](https://x.com/kingofdairyque)"
 author_url: "https://twitter.com/kingofdairyque"
 source_url: "https://twitter.com/kingofdairyque/status/1996943841249972624"
 preview: "/media/portraits/pg-1996943841249972624.webp"

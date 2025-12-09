@@ -2,7 +2,7 @@
 title: "Transforming Text: Multilingual Visuals Reimagined"
 category: creative
 tags: ["vibrant","nano-banana-pro"]
-author: "@CodeByPoonam"
+author: "[@CodeByPoonam](https://x.com/CodeByPoonam)"
 author_url: "https://twitter.com/CodeByPoonam"
 source_url: "https://twitter.com/CodeByPoonam/status/1991524603261526420"
 preview: "/media/creative/pg-1991524603261526420.webp"

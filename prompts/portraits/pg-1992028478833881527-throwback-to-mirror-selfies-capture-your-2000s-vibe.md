@@ -2,7 +2,7 @@
 title: "Throwback to Mirror Selfies: Capture Your 2000s Vibe!"
 category: portraits
 tags: ["selfie","vibrant","nano-banana-pro"]
-author: "@ZaraIrahh"
+author: "[@ZaraIrahh](https://x.com/ZaraIrahh)"
 author_url: "https://twitter.com/ZaraIrahh"
 source_url: "https://twitter.com/ZaraIrahh/status/1992028478833881527"
 preview: "/media/portraits/pg-1992028478833881527.webp"

@@ -2,7 +2,7 @@
 title: "Google Maps to Ancient Treasure Map"
 category: posters
 tags: ["creative", "ai-art"]
-author: "@umesh_ai"
+author: "[@umesh_ai](https://x.com/umesh_ai)"
 preview: "/media/posters/google-maps-to-ancient-treasure-map.webp"
 ---
 

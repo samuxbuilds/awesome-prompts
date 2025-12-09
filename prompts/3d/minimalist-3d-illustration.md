@@ -2,7 +2,7 @@
 title: "Minimalist 3D Illustration"
 category: 3d
 tags: ["3d", "minimalist", "illustration"]
-author: "@0xdlk"
+author: "[@0xdlk](https://x.com/0xdlk)"
 preview: "/media/3d/minimalist-3d-illustration.webp"
 ---
 

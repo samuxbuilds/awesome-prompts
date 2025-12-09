@@ -2,7 +2,7 @@
 title: "Unlock the Future: Must-Read Sci-Fi Treasures"
 category: portraits
 tags: ["sci-fi","nano-banana-pro"]
-author: "@fofrAI"
+author: "[@fofrAI](https://x.com/fofrAI)"
 author_url: "https://twitter.com/fofrAI"
 source_url: "https://twitter.com/fofrAI/status/1991552915853742223"
 preview: "/media/portraits/pg-1991552915853742223.webp"

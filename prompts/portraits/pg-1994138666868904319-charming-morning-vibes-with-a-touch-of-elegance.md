@@ -2,7 +2,7 @@
 title: "Charming Morning Vibes with a Touch of Elegance"
 category: portraits
 tags: ["nano-banana-pro"]
-author: "@awesome_visuals"
+author: "[@awesome_visuals](https://x.com/awesome_visuals)"
 author_url: "https://twitter.com/awesome_visuals"
 source_url: "https://twitter.com/awesome_visuals/status/1994138666868904319"
 preview: "/media/portraits/pg-1994138666868904319.webp"

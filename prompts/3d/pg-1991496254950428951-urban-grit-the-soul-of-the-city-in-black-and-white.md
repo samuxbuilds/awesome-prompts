@@ -2,7 +2,7 @@
 title: "Urban Grit: The Soul of the City in Black and White"
 category: 3d
 tags: ["urban","dark","nano-banana-pro"]
-author: "@lexx_aura"
+author: "[@lexx_aura](https://x.com/lexx_aura)"
 author_url: "https://twitter.com/lexx_aura"
 source_url: "https://twitter.com/lexx_aura/status/1991496254950428951"
 preview: "/media/3d/pg-1991496254950428951.webp"

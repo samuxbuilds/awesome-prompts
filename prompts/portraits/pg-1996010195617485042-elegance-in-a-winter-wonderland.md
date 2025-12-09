@@ -2,7 +2,7 @@
 title: "Elegance in a Winter Wonderland"
 category: portraits
 tags: ["nano-banana-pro"]
-author: "@Sophia_here12"
+author: "[@Sophia_here12](https://x.com/Sophia_here12)"
 author_url: "https://twitter.com/Sophia_here12"
 source_url: "https://twitter.com/Sophia_here12/status/1996010195617485042"
 preview: "/media/portraits/pg-1996010195617485042.webp"

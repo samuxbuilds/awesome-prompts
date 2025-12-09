@@ -2,7 +2,7 @@
 title: "Nature's Embrace: A Portrait of Serenity"
 category: portraits
 tags: ["portrait","nature","light","nano-banana-pro"]
-author: "@TugserOkur"
+author: "[@TugserOkur](https://x.com/TugserOkur)"
 author_url: "https://twitter.com/TugserOkur"
 source_url: "https://twitter.com/TugserOkur/status/1997241897262211243"
 preview: "/media/portraits/pg-1997241897262211243.webp"

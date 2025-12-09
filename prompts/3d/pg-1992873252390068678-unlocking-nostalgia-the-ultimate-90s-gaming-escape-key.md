@@ -2,7 +2,7 @@
 title: "Unlocking Nostalgia: The Ultimate 90s Gaming Escape Key"
 category: 3d
 tags: ["vintage","nano-banana-pro"]
-author: "@icreatelife"
+author: "[@icreatelife](https://x.com/icreatelife)"
 author_url: "https://twitter.com/icreatelife"
 source_url: "https://twitter.com/icreatelife/status/1992873252390068678"
 preview: "/media/3d/pg-1992873252390068678.webp"

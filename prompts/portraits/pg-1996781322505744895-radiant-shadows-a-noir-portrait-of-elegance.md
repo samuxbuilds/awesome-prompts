@@ -2,7 +2,7 @@
 title: "Radiant Shadows: A Noir Portrait of Elegance"
 category: portraits
 tags: ["portrait","light","nano-banana-pro"]
-author: "@AIByAbbay"
+author: "[@AIByAbbay](https://x.com/AIByAbbay)"
 author_url: "https://twitter.com/AIByAbbay"
 source_url: "https://twitter.com/AIByAbbay/status/1996781322505744895"
 preview: "/media/portraits/pg-1996781322505744895.webp"

@@ -2,7 +2,7 @@
 title: "Regal Beauty in the Desert Sun"
 category: 3d
 tags: ["portrait","nano-banana-pro"]
-author: "@Just_sharon7"
+author: "[@Just_sharon7](https://x.com/Just_sharon7)"
 author_url: "https://twitter.com/Just_sharon7"
 source_url: "https://twitter.com/Just_sharon7/status/1996585605921386904"
 preview: "/media/3d/pg-1996585605921386904.webp"

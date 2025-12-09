@@ -2,7 +2,7 @@
 title: "Cinematic Chic: A Portrait of Confidence"
 category: portraits
 tags: ["portrait","light","nano-banana-pro"]
-author: "@saniaspeaks_"
+author: "[@saniaspeaks_](https://x.com/saniaspeaks_)"
 author_url: "https://twitter.com/saniaspeaks_"
 source_url: "https://twitter.com/saniaspeaks_/status/1995453492933361979"
 preview: "/media/portraits/pg-1995453492933361979.webp"

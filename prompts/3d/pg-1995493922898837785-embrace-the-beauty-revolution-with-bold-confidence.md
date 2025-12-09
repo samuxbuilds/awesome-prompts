@@ -2,7 +2,7 @@
 title: "Embrace the Beauty Revolution with Bold Confidence!"
 category: 3d
 tags: ["vibrant","nano-banana-pro"]
-author: "@ViralOps_"
+author: "[@ViralOps_](https://x.com/ViralOps_)"
 author_url: "https://twitter.com/ViralOps_"
 source_url: "https://twitter.com/ViralOps_/status/1995493922898837785"
 preview: "/media/3d/pg-1995493922898837785.webp"

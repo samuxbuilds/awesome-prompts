@@ -2,7 +2,7 @@
 title: "Chill Vibes: The Cozy Selfie Moment"
 category: portraits
 tags: ["selfie","light","nano-banana-pro"]
-author: "@xmliisu"
+author: "[@xmliisu](https://x.com/xmliisu)"
 author_url: "https://twitter.com/xmliisu"
 source_url: "https://twitter.com/xmliisu/status/1997303396961861772"
 preview: "/media/portraits/pg-1997303396961861772.webp"

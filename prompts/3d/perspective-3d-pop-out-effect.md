@@ -2,7 +2,7 @@
 title: "Perspective 3D Pop-Out Effect"
 category: 3d
 tags: ["3d", "realistic", "surreal", "cute", "glass"]
-author: "@ZHO_ZHO_ZHO"
+author: "[@ZHO_ZHO_ZHO](https://x.com/ZHO_ZHO_ZHO)"
 preview: "/media/3d/perspective-3d-pop-out-effect.webp"
 ---
 

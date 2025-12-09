@@ -2,7 +2,7 @@
 title: "Gold Pendant Necklace"
 category: 3d
 tags: ["realistic", "emoji"]
-author: "@azed_ai"
+author: "[@azed_ai](https://x.com/azed_ai)"
 preview: "/media/3d/gold-pendant-necklace.webp"
 ---
 

@@ -2,7 +2,7 @@
 title: "Sunlit Elegance: The Art of Minimalist Skincare"
 category: portraits
 tags: ["art","minimal","light","nano-banana-pro"]
-author: "@egeberkina"
+author: "[@egeberkina](https://x.com/egeberkina)"
 author_url: "https://twitter.com/egeberkina"
 source_url: "https://twitter.com/egeberkina/status/1994380091241922920"
 preview: "/media/portraits/pg-1994380091241922920.webp"

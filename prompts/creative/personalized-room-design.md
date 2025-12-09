@@ -2,7 +2,7 @@
 title: "Personalized Room Design"
 category: creative
 tags: ["3d", "cute"]
-author: "@ZHO_ZHO_ZHO"
+author: "[@ZHO_ZHO_ZHO](https://x.com/ZHO_ZHO_ZHO)"
 preview: "/media/creative/personalized-room-design.webp"
 ---
 

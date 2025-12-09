@@ -2,7 +2,7 @@
 title: "The Smile Showdown: Nano Banana Pro vs. Grok"
 category: 3d
 tags: ["selfie","light","vibrant","nano-banana-pro"]
-author: "@ViralOps_"
+author: "[@ViralOps_](https://x.com/ViralOps_)"
 author_url: "https://twitter.com/ViralOps_"
 source_url: "https://twitter.com/ViralOps_/status/1994029057328205998"
 preview: "/media/3d/pg-1994029057328205998.webp"

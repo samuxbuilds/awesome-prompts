@@ -2,7 +2,7 @@
 title: "Tropical Elegance: A Beachside Portrait"
 category: portraits
 tags: ["portrait","vibrant","nano-banana-pro"]
-author: "@chatgptpaglu"
+author: "[@chatgptpaglu](https://x.com/chatgptpaglu)"
 author_url: "https://twitter.com/chatgptpaglu"
 source_url: "https://twitter.com/chatgptpaglu/status/1995098855604367580"
 preview: "/media/portraits/pg-1995098855604367580.webp"

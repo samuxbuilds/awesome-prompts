@@ -2,7 +2,7 @@
 title: "Unleashing the Nano Banana Pro: A Visual Adventure"
 category: creative
 tags: ["nature","vibrant","nano-banana-pro"]
-author: "@gizakdag"
+author: "[@gizakdag](https://x.com/gizakdag)"
 author_url: "https://twitter.com/gizakdag"
 source_url: "https://twitter.com/gizakdag/status/1993777913548984394"
 preview: "/media/creative/pg-1993777913548984394.webp"

@@ -2,7 +2,7 @@
 title: "Nighttime Glam in a Luxe SUV: The Gemini Vibe"
 category: 3d
 tags: ["nano-banana-pro"]
-author: "@xmliisu"
+author: "[@xmliisu](https://x.com/xmliisu)"
 author_url: "https://twitter.com/xmliisu"
 source_url: "https://twitter.com/xmliisu/status/1993306227300790420"
 preview: "/media/3d/pg-1993306227300790420.webp"

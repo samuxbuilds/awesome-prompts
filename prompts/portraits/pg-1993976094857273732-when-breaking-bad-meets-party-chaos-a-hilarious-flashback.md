@@ -2,7 +2,7 @@
 title: "When Breaking Bad Meets Party Chaos: A Hilarious Flashback"
 category: portraits
 tags: ["art","nano-banana-pro"]
-author: "@Arminn_Ai"
+author: "[@Arminn_Ai](https://x.com/Arminn_Ai)"
 author_url: "https://twitter.com/Arminn_Ai"
 source_url: "https://twitter.com/Arminn_Ai/status/1993976094857273732"
 preview: "/media/portraits/pg-1993976094857273732.webp"

@@ -2,7 +2,7 @@
 title: "Sipping Style: The Nano Banana Vibe"
 category: 3d
 tags: ["urban","dark","nano-banana-pro"]
-author: "@lexx_aura"
+author: "[@lexx_aura](https://x.com/lexx_aura)"
 author_url: "https://twitter.com/lexx_aura"
 source_url: "https://twitter.com/lexx_aura/status/1996444479583326443"
 preview: "/media/3d/pg-1996444479583326443.webp"

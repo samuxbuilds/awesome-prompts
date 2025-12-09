@@ -2,7 +2,7 @@
 title: "Elegance Meets Comfort in a Cinematic Portrait"
 category: 3d
 tags: ["portrait","modern","light","nano-banana-pro"]
-author: "@ShreyaYadav___"
+author: "[@ShreyaYadav___](https://x.com/ShreyaYadav___)"
 author_url: "https://twitter.com/ShreyaYadav___"
 source_url: "https://twitter.com/ShreyaYadav___/status/1995155098054557794"
 preview: "/media/3d/pg-1995155098054557794.webp"

@@ -2,7 +2,7 @@
 title: "Family Wedding Photo (Q-version)"
 category: portraits
 tags: ["3d", "chibi", "realistic", "wedding", "character"]
-author: "@balconychy"
+author: "[@balconychy](https://x.com/balconychy)"
 preview: "/media/portraits/family-wedding-photo-q-version.webp"
 ---
 

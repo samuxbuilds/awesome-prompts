@@ -2,7 +2,7 @@
 title: "Anime Sticker Collection"
 category: icons
 tags: ["anime", "sticker"]
-author: "@richardchang"
+author: "[@richardchang](https://x.com/richardchang)"
 preview: "/media/icons/anime-sticker-collection.webp"
 ---
 

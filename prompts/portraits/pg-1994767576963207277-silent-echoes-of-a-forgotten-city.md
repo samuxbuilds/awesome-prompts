@@ -2,7 +2,7 @@
 title: "Silent Echoes of a Forgotten City"
 category: portraits
 tags: ["nature","nano-banana-pro"]
-author: "@azed_ai"
+author: "[@azed_ai](https://x.com/azed_ai)"
 author_url: "https://twitter.com/azed_ai"
 source_url: "https://twitter.com/azed_ai/status/1994767576963207277"
 preview: "/media/portraits/pg-1994767576963207277.webp"

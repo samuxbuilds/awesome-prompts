@@ -2,7 +2,7 @@
 title: "Chillin' at the Boardwalk with Nano Banana Pro"
 category: portraits
 tags: ["vibrant","nano-banana-pro"]
-author: "@saniaspeaks_"
+author: "[@saniaspeaks_](https://x.com/saniaspeaks_)"
 author_url: "https://twitter.com/saniaspeaks_"
 source_url: "https://twitter.com/saniaspeaks_/status/1995131281806614623"
 preview: "/media/portraits/pg-1995131281806614623.webp"

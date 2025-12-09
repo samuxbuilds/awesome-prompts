@@ -2,7 +2,7 @@
 title: "Unlocking Creativity: Craft Your Own Line Stickers!"
 category: creative
 tags: ["vibrant","nano-banana-pro"]
-author: "@shironeko_icy"
+author: "[@shironeko_icy](https://x.com/shironeko_icy)"
 author_url: "https://twitter.com/shironeko_icy"
 source_url: "https://twitter.com/shironeko_icy/status/1992062020913639499"
 preview: "/media/creative/pg-1992062020913639499.webp"

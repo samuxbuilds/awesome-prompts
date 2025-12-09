@@ -2,7 +2,7 @@
 title: "Central Line Updates: A Miniature Marvel"
 category: 3d
 tags: ["3d","miniature","vibrant","nano-banana-pro"]
-author: "@NanoBanana"
+author: "[@NanoBanana](https://x.com/NanoBanana)"
 author_url: "https://twitter.com/NanoBanana"
 source_url: "https://twitter.com/NanoBanana/status/1995870054366232961"
 preview: "/media/3d/pg-1995870054366232961.webp"

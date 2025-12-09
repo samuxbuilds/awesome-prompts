@@ -2,7 +2,7 @@
 title: "Night Vibes: Porsche GT3 RS Meets Urban Glam"
 category: portraits
 tags: ["urban","light","vibrant","nano-banana-pro"]
-author: "@ecommartinez"
+author: "[@ecommartinez](https://x.com/ecommartinez)"
 author_url: "https://twitter.com/ecommartinez"
 source_url: "https://twitter.com/ecommartinez/status/1994081201993511162"
 preview: "/media/portraits/pg-1994081201993511162.webp"

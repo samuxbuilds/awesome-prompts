@@ -2,7 +2,7 @@
 title: "Sticker Set Magic: Ultra-Realistic Faces with a Fun Twist!"
 category: portraits
 tags: ["realistic","art","nano-banana-pro"]
-author: "@ShreyaYadav___"
+author: "[@ShreyaYadav___](https://x.com/ShreyaYadav___)"
 author_url: "https://twitter.com/ShreyaYadav___"
 source_url: "https://twitter.com/ShreyaYadav___/status/1997161319271969269"
 preview: "/media/portraits/pg-1997161319271969269.webp"

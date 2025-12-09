@@ -2,7 +2,7 @@
 title: "Chic Meets Playful: The Pink Style Statement"
 category: 3d
 tags: ["3d","modern","fashion","vibrant","nano-banana-pro"]
-author: "@SimplyAnnisa"
+author: "[@SimplyAnnisa](https://x.com/SimplyAnnisa)"
 author_url: "https://twitter.com/SimplyAnnisa"
 source_url: "https://twitter.com/SimplyAnnisa/status/1994214859756683341"
 preview: "/media/3d/pg-1994214859756683341.webp"

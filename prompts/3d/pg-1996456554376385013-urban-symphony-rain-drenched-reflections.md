@@ -2,7 +2,7 @@
 title: "Urban Symphony: Rain-Drenched Reflections"
 category: 3d
 tags: ["urban","light","neon","vibrant","nano-banana-pro"]
-author: "@AshifalikhanF"
+author: "[@AshifalikhanF](https://x.com/AshifalikhanF)"
 author_url: "https://twitter.com/AshifalikhanF"
 source_url: "https://twitter.com/AshifalikhanF/status/1996456554376385013"
 preview: "/media/3d/pg-1996456554376385013.webp"

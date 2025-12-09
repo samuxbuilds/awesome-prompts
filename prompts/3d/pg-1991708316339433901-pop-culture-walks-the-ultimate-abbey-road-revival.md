@@ -2,7 +2,7 @@
 title: "Pop Culture Walks: The Ultimate Abbey Road Revival"
 category: 3d
 tags: ["vibrant","nano-banana-pro"]
-author: "@MrDasOnX"
+author: "[@MrDasOnX](https://x.com/MrDasOnX)"
 author_url: "https://twitter.com/MrDasOnX"
 source_url: "https://twitter.com/MrDasOnX/status/1991708316339433901"
 preview: "/media/3d/pg-1991708316339433901.webp"

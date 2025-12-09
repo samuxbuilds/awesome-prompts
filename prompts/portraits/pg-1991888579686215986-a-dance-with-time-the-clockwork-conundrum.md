@@ -2,7 +2,7 @@
 title: "A Dance with Time: The Clockwork Conundrum"
 category: portraits
 tags: ["nano-banana-pro"]
-author: "@fahabib91"
+author: "[@fahabib91](https://x.com/fahabib91)"
 author_url: "https://twitter.com/fahabib91"
 source_url: "https://twitter.com/fahabib91/status/1991888579686215986"
 preview: "/media/portraits/pg-1991888579686215986.webp"

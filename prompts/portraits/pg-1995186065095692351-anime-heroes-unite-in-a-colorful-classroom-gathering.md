@@ -2,7 +2,7 @@
 title: "Anime Heroes Unite in a Colorful Classroom Gathering!"
 category: portraits
 tags: ["anime","colorful","vibrant","nano-banana-pro"]
-author: "@CharaspowerAI"
+author: "[@CharaspowerAI](https://x.com/CharaspowerAI)"
 author_url: "https://twitter.com/CharaspowerAI"
 source_url: "https://twitter.com/CharaspowerAI/status/1995186065095692351"
 preview: "/media/portraits/pg-1995186065095692351.webp"

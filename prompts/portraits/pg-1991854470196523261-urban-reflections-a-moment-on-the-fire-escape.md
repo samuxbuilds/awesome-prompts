@@ -2,7 +2,7 @@
 title: "Urban Reflections: A Moment on the Fire Escape"
 category: portraits
 tags: ["urban","light","nano-banana-pro"]
-author: "@YaseenK7212"
+author: "[@YaseenK7212](https://x.com/YaseenK7212)"
 author_url: "https://twitter.com/YaseenK7212"
 source_url: "https://twitter.com/YaseenK7212/status/1991854470196523261"
 preview: "/media/portraits/pg-1991854470196523261.webp"

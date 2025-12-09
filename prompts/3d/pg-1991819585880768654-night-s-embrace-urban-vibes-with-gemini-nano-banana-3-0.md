@@ -2,7 +2,7 @@
 title: "Night's Embrace: Urban Vibes with Gemini Nano Banana 3.0"
 category: 3d
 tags: ["urban","neon","nano-banana-pro"]
-author: "@lexx_aura"
+author: "[@lexx_aura](https://x.com/lexx_aura)"
 author_url: "https://twitter.com/lexx_aura"
 source_url: "https://twitter.com/lexx_aura/status/1991819585880768654"
 preview: "/media/3d/pg-1991819585880768654.webp"

@@ -2,7 +2,7 @@
 title: "Mapping Magic: Nano Banana 2 Takes Center Stage"
 category: posters
 tags: ["nano-banana-pro"]
-author: "@gokayfem"
+author: "[@gokayfem](https://x.com/gokayfem)"
 author_url: "https://twitter.com/gokayfem"
 source_url: "https://twitter.com/gokayfem/status/1992907633540415493"
 preview: "/media/posters/pg-1992907633540415493.webp"

@@ -2,7 +2,7 @@
 title: "Nostalgic Vibes: A Nano Banana Moment 🍌"
 category: portraits
 tags: ["selfie","art","light","nano-banana-pro"]
-author: "@kaanakz"
+author: "[@kaanakz](https://x.com/kaanakz)"
 author_url: "https://twitter.com/kaanakz"
 source_url: "https://twitter.com/kaanakz/status/1996837849916649847"
 preview: "/media/portraits/pg-1996837849916649847.webp"

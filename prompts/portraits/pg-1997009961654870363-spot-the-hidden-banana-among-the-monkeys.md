@@ -2,7 +2,7 @@
 title: "Spot the Hidden Banana Among the Monkeys!"
 category: portraits
 tags: ["nano-banana-pro"]
-author: "@NanoBanana"
+author: "[@NanoBanana](https://x.com/NanoBanana)"
 author_url: "https://twitter.com/NanoBanana"
 source_url: "https://twitter.com/NanoBanana/status/1997009961654870363"
 preview: "/media/portraits/pg-1997009961654870363.webp"

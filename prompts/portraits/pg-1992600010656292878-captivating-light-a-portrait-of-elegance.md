@@ -2,7 +2,7 @@
 title: "Captivating Light: A Portrait of Elegance"
 category: portraits
 tags: ["portrait","light","nano-banana-pro"]
-author: "@SimplyAnnisa"
+author: "[@SimplyAnnisa](https://x.com/SimplyAnnisa)"
 author_url: "https://twitter.com/SimplyAnnisa"
 source_url: "https://twitter.com/SimplyAnnisa/status/1992600010656292878"
 preview: "/media/portraits/pg-1992600010656292878.webp"

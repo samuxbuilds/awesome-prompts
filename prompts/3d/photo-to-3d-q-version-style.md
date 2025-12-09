@@ -2,7 +2,7 @@
 title: "Photo to 3D Q-version Style"
 category: 3d
 tags: ["3d", "chibi", "character"]
-author: "@dotey"
+author: "[@dotey](https://x.com/dotey)"
 preview: "/media/3d/photo-to-3d-q-version-style.webp"
 ---
 

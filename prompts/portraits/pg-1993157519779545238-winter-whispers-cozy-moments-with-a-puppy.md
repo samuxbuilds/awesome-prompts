@@ -2,7 +2,7 @@
 title: "Winter Whispers: Cozy Moments with a Puppy"
 category: portraits
 tags: ["light","nano-banana-pro"]
-author: "@_imfaizan18"
+author: "[@_imfaizan18](https://x.com/_imfaizan18)"
 author_url: "https://twitter.com/_imfaizan18"
 source_url: "https://twitter.com/_imfaizan18/status/1993157519779545238"
 preview: "/media/portraits/pg-1993157519779545238.webp"

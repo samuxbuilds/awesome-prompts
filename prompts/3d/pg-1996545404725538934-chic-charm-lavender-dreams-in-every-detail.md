@@ -2,7 +2,7 @@
 title: "Chic Charm: Lavender Dreams in Every Detail"
 category: 3d
 tags: ["nano-banana-pro"]
-author: "@ShreyaYadav___"
+author: "[@ShreyaYadav___](https://x.com/ShreyaYadav___)"
 author_url: "https://twitter.com/ShreyaYadav___"
 source_url: "https://twitter.com/ShreyaYadav___/status/1996545404725538934"
 preview: "/media/3d/pg-1996545404725538934.webp"

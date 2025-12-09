@@ -2,7 +2,7 @@
 title: "Sweet Chaos: A Playful Pop-Art Adventure"
 category: portraits
 tags: ["art","neon","pastel","vibrant","nano-banana-pro"]
-author: "@awesome_visuals"
+author: "[@awesome_visuals](https://x.com/awesome_visuals)"
 author_url: "https://twitter.com/awesome_visuals"
 source_url: "https://twitter.com/awesome_visuals/status/1993609750051766767"
 preview: "/media/portraits/pg-1993609750051766767.webp"

@@ -2,7 +2,7 @@
 title: "Elegance Defined: A Portrait in Satin and Serenity"
 category: portraits
 tags: ["portrait","nano-banana-pro"]
-author: "@AIByAbbay"
+author: "[@AIByAbbay](https://x.com/AIByAbbay)"
 author_url: "https://twitter.com/AIByAbbay"
 source_url: "https://twitter.com/AIByAbbay/status/1997176174456541563"
 preview: "/media/portraits/pg-1997176174456541563.webp"

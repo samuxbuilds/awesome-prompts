@@ -2,7 +2,7 @@
 title: "Pastel Power 3D ADS"
 category: 3d
 tags: ["3d", "cartoon", "minimalist", "logo", "pastel"]
-author: "@aziz4ai"
+author: "[@aziz4ai](https://x.com/aziz4ai)"
 preview: "/media/3d/pastel-power-3d-ads.webp"
 ---
 

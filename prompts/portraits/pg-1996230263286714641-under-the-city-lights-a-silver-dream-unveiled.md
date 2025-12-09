@@ -2,7 +2,7 @@
 title: "Under the City Lights: A Silver Dream Unveiled"
 category: portraits
 tags: ["urban","light","nano-banana-pro"]
-author: "@chatgptpaglu"
+author: "[@chatgptpaglu](https://x.com/chatgptpaglu)"
 author_url: "https://twitter.com/chatgptpaglu"
 source_url: "https://twitter.com/chatgptpaglu/status/1996230263286714641"
 preview: "/media/portraits/pg-1996230263286714641.webp"

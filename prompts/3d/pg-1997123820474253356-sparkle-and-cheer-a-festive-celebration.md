@@ -2,7 +2,7 @@
 title: "Sparkle and Cheer: A Festive Celebration"
 category: 3d
 tags: ["colorful","vibrant","nano-banana-pro"]
-author: "@xmiiru_"
+author: "[@xmiiru_](https://x.com/xmiiru_)"
 author_url: "https://twitter.com/xmiiru_"
 source_url: "https://twitter.com/xmiiru_/status/1997123820474253356"
 preview: "/media/3d/pg-1997123820474253356.webp"

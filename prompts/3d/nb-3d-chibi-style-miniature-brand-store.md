@@ -2,7 +2,7 @@
 title: "3D Chibi-Style Miniature Brand Store"
 category: 3d
 tags: ["3d", "chibi", "icon", "glass"]
-author: "@nanobanana-pro"
+author: "[@nanobanana-pro](https://x.com/nanobanana-pro)"
 preview: "/media/3d/nb-3d-chibi-style-miniature-brand-store.webp"
 ---
 

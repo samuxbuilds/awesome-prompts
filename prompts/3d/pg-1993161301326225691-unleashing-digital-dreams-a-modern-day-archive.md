@@ -2,7 +2,7 @@
 title: "Unleashing Digital Dreams: A Modern Day Archive"
 category: 3d
 tags: ["modern","vibrant","digital","nano-banana-pro"]
-author: "@ShreyaYadav___"
+author: "[@ShreyaYadav___](https://x.com/ShreyaYadav___)"
 author_url: "https://twitter.com/ShreyaYadav___"
 source_url: "https://twitter.com/ShreyaYadav___/status/1993161301326225691"
 preview: "/media/3d/pg-1993161301326225691.webp"

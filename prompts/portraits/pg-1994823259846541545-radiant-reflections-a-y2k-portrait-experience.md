@@ -2,7 +2,7 @@
 title: "Radiant Reflections: A Y2K Portrait Experience"
 category: portraits
 tags: ["portrait","dark","nano-banana-pro"]
-author: "@miilesus"
+author: "[@miilesus](https://x.com/miilesus)"
 author_url: "https://twitter.com/miilesus"
 source_url: "https://twitter.com/miilesus/status/1994823259846541545"
 preview: "/media/portraits/pg-1994823259846541545.webp"

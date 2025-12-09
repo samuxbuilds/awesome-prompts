@@ -2,7 +2,7 @@
 title: "A Glimpse into a Futuristic Realm of Emotion"
 category: portraits
 tags: ["dark","nano-banana-pro"]
-author: "@oggii_0"
+author: "[@oggii_0](https://x.com/oggii_0)"
 author_url: "https://twitter.com/oggii_0"
 source_url: "https://twitter.com/oggii_0/status/1995144148832141327"
 preview: "/media/portraits/pg-1995144148832141327.webp"

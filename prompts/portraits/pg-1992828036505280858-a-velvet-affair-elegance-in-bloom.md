@@ -2,7 +2,7 @@
 title: "A Velvet Affair: Elegance in Bloom"
 category: portraits
 tags: ["light","nano-banana-pro"]
-author: "@ShreyaYadav___"
+author: "[@ShreyaYadav___](https://x.com/ShreyaYadav___)"
 author_url: "https://twitter.com/ShreyaYadav___"
 source_url: "https://twitter.com/ShreyaYadav___/status/1992828036505280858"
 preview: "/media/portraits/pg-1992828036505280858.webp"

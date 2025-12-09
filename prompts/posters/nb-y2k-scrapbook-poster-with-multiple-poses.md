@@ -2,7 +2,7 @@
 title: "Y2K Scrapbook Poster with Multiple Poses"
 category: posters
 tags: ["retro", "realistic", "cute", "poster", "sticker"]
-author: "@nanobanana-pro"
+author: "[@nanobanana-pro](https://x.com/nanobanana-pro)"
 preview: "/media/posters/nb-y2k-scrapbook-poster-with-multiple-poses.webp"
 ---
 

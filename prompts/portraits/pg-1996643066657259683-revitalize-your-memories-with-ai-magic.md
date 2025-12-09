@@ -2,7 +2,7 @@
 title: "Revitalize Your Memories with AI Magic"
 category: portraits
 tags: ["realistic","vibrant","nano-banana-pro"]
-author: "@ShreyaYadav___"
+author: "[@ShreyaYadav___](https://x.com/ShreyaYadav___)"
 author_url: "https://twitter.com/ShreyaYadav___"
 source_url: "https://twitter.com/ShreyaYadav___/status/1996643066657259683"
 preview: "/media/portraits/pg-1996643066657259683.webp"

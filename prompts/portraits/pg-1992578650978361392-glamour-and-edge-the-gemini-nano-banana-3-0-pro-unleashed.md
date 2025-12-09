@@ -2,7 +2,7 @@
 title: "Glamour and Edge: The Gemini Nano Banana 3.0 Pro Unleashed"
 category: portraits
 tags: ["art","fashion","nano-banana-pro"]
-author: "@xmliisu"
+author: "[@xmliisu](https://x.com/xmliisu)"
 author_url: "https://twitter.com/xmliisu"
 source_url: "https://twitter.com/xmliisu/status/1992578650978361392"
 preview: "/media/portraits/pg-1992578650978361392.webp"

@@ -2,7 +2,7 @@
 title: "Shadows and Style: The Noir Elegance of Nano Banana Pro 3.0"
 category: portraits
 tags: ["light","nano-banana-pro"]
-author: "@lexx_aura"
+author: "[@lexx_aura](https://x.com/lexx_aura)"
 author_url: "https://twitter.com/lexx_aura"
 source_url: "https://twitter.com/lexx_aura/status/1991870830167429185"
 preview: "/media/portraits/pg-1991870830167429185.webp"

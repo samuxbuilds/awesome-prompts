@@ -2,7 +2,7 @@
 title: "Creative Ad with Real Object and Hand-Drawn Doodle"
 category: creative
 tags: ["minimalist", "logo"]
-author: "@azed_ai"
+author: "[@azed_ai](https://x.com/azed_ai)"
 preview: "/media/creative/creative-ad-with-real-object-and-hand-drawn-doodle.webp"
 ---
 

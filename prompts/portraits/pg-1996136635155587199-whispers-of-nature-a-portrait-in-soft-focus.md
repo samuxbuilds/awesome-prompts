@@ -2,7 +2,7 @@
 title: "Whispers of Nature: A Portrait in Soft Focus"
 category: portraits
 tags: ["portrait","nature","light","nano-banana-pro"]
-author: "@woshi_ai"
+author: "[@woshi_ai](https://x.com/woshi_ai)"
 author_url: "https://twitter.com/woshi_ai"
 source_url: "https://twitter.com/woshi_ai/status/1996136635155587199"
 preview: "/media/portraits/pg-1996136635155587199.webp"

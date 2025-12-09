@@ -2,7 +2,7 @@
 title: "Bold Beauty: A Dramatic Portrait in Black"
 category: portraits
 tags: ["portrait","nano-banana-pro"]
-author: "@ShreyaYadav___"
+author: "[@ShreyaYadav___](https://x.com/ShreyaYadav___)"
 author_url: "https://twitter.com/ShreyaYadav___"
 source_url: "https://twitter.com/ShreyaYadav___/status/1994776689667444907"
 preview: "/media/portraits/pg-1994776689667444907.webp"

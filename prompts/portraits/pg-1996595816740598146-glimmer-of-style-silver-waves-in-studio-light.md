@@ -2,7 +2,7 @@
 title: "Glimmer of Style: Silver Waves in Studio Light"
 category: portraits
 tags: ["portrait","light","nano-banana-pro"]
-author: "@john_my07"
+author: "[@john_my07](https://x.com/john_my07)"
 author_url: "https://twitter.com/john_my07"
 source_url: "https://twitter.com/john_my07/status/1996595816740598146"
 preview: "/media/portraits/pg-1996595816740598146.webp"

@@ -2,7 +2,7 @@
 title: "3D Isometric Home Office Illustration"
 category: 3d
 tags: ["3d", "illustration"]
-author: "@nanobanana-pro"
+author: "[@nanobanana-pro](https://x.com/nanobanana-pro)"
 preview: "/media/3d/nb-3d-isometric-home-office-illustration.webp"
 ---
 

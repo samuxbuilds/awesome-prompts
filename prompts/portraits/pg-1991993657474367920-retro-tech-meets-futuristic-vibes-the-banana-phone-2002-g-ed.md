@@ -2,7 +2,7 @@
 title: "Retro Tech Meets Futuristic Vibes: The Banana Phone 2002 G-Edition"
 category: portraits
 tags: ["selfie","nano-banana-pro"]
-author: "@GraphicsRonin"
+author: "[@GraphicsRonin](https://x.com/GraphicsRonin)"
 author_url: "https://twitter.com/GraphicsRonin"
 source_url: "https://twitter.com/GraphicsRonin/status/1991993657474367920"
 preview: "/media/portraits/pg-1991993657474367920.webp"

@@ -2,7 +2,7 @@
 title: "Night Market Vibes: A Culinary Delight Awaits!"
 category: 3d
 tags: ["light","vibrant","nano-banana-pro"]
-author: "@saniaspeaks_"
+author: "[@saniaspeaks_](https://x.com/saniaspeaks_)"
 author_url: "https://twitter.com/saniaspeaks_"
 source_url: "https://twitter.com/saniaspeaks_/status/1994223148468981893"
 preview: "/media/3d/pg-1994223148468981893.webp"

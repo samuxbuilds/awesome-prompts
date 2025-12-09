@@ -2,7 +2,7 @@
 title: "MrBeast Style - Stack/Quantity"
 category: "thumbnails"
 tags: ["mrbeast", "youtube", "thumbnail", "stack", "money"]
-author: "@samux"
+author: "[@samux](https://x.com/samux)"
 preview: "/media/thumbnails/mrbeast-stack.webp"
 ---
 

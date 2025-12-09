@@ -2,7 +2,7 @@
 title: "Serenity at Fuji: A Moment of Pure Bliss"
 category: 3d
 tags: ["nano-banana-pro"]
-author: "@dejavucoder"
+author: "[@dejavucoder](https://x.com/dejavucoder)"
 author_url: "https://twitter.com/dejavucoder"
 source_url: "https://twitter.com/dejavucoder/status/1995163677608304966"
 preview: "/media/3d/pg-1995163677608304966.webp"

@@ -2,7 +2,7 @@
 title: "3D Translucent Glass Transformation"
 category: 3d
 tags: ["3d", "glass"]
-author: "@azed_ai"
+author: "[@azed_ai](https://x.com/azed_ai)"
 preview: "/media/3d/3d-translucent-glass-transformation.webp"
 ---
 

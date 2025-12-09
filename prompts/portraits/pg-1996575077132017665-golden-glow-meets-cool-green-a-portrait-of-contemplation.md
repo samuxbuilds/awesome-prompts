@@ -2,7 +2,7 @@
 title: "Golden Glow Meets Cool Green: A Portrait of Contemplation"
 category: portraits
 tags: ["portrait","light","nano-banana-pro"]
-author: "@saniaspeaks_"
+author: "[@saniaspeaks_](https://x.com/saniaspeaks_)"
 author_url: "https://twitter.com/saniaspeaks_"
 source_url: "https://twitter.com/saniaspeaks_/status/1996575077132017665"
 preview: "/media/portraits/pg-1996575077132017665.webp"

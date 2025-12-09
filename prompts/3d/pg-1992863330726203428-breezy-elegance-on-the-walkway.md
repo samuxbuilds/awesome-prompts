@@ -2,7 +2,7 @@
 title: "Breezy Elegance on the Walkway"
 category: 3d
 tags: ["fashion","light","nano-banana-pro"]
-author: "@xmiiru_"
+author: "[@xmiiru_](https://x.com/xmiiru_)"
 author_url: "https://twitter.com/xmiiru_"
 source_url: "https://twitter.com/xmiiru_/status/1992863330726203428"
 preview: "/media/3d/pg-1992863330726203428.webp"

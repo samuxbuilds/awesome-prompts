@@ -2,7 +2,7 @@
 title: "Fisheye Movie Character Selfie"
 category: portraits
 tags: ["vintage", "realistic", "film", "character"]
-author: "@nanobanana-pro"
+author: "[@nanobanana-pro](https://x.com/nanobanana-pro)"
 preview: "/media/portraits/nb-fisheye-movie-character-selfie.webp"
 ---
 

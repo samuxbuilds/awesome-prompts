@@ -2,7 +2,7 @@
 title: "Banana Vibes: Chill Selife in Dreamy Comfort"
 category: portraits
 tags: ["selfie","nano-banana-pro"]
-author: "@ZaraIrahh"
+author: "[@ZaraIrahh](https://x.com/ZaraIrahh)"
 author_url: "https://twitter.com/ZaraIrahh"
 source_url: "https://twitter.com/ZaraIrahh/status/1993910890681520198"
 preview: "/media/portraits/pg-1993910890681520198.webp"

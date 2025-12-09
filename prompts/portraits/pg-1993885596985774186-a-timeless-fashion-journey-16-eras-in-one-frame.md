@@ -2,7 +2,7 @@
 title: "A Timeless Fashion Journey: 16 Eras in One Frame"
 category: portraits
 tags: ["fashion","vibrant","nano-banana-pro"]
-author: "@saniaspeaks_"
+author: "[@saniaspeaks_](https://x.com/saniaspeaks_)"
 author_url: "https://twitter.com/saniaspeaks_"
 source_url: "https://twitter.com/saniaspeaks_/status/1993885596985774186"
 preview: "/media/portraits/pg-1993885596985774186.webp"

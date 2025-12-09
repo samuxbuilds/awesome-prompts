@@ -2,7 +2,7 @@
 title: "Cute Plant Planter"
 category: creative
 tags: ["minimalist", "cute", "animal"]
-author: "@azed_ai"
+author: "[@azed_ai](https://x.com/azed_ai)"
 preview: "/media/creative/cute-plant-planter.webp"
 ---
 

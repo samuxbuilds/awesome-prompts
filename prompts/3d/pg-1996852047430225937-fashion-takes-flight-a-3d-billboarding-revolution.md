@@ -2,7 +2,7 @@
 title: "Fashion Takes Flight: A 3D Billboarding Revolution"
 category: 3d
 tags: ["3d","urban","fashion","light","nano-banana-pro"]
-author: "@fahabib91"
+author: "[@fahabib91](https://x.com/fahabib91)"
 author_url: "https://twitter.com/fahabib91"
 source_url: "https://twitter.com/fahabib91/status/1996852047430225937"
 preview: "/media/3d/pg-1996852047430225937.webp"

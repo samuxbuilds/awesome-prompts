@@ -2,7 +2,7 @@
 title: "Glimmers of Reflection: A Moment by the Sea"
 category: portraits
 tags: ["nano-banana-pro"]
-author: "@YaseenK7212"
+author: "[@YaseenK7212](https://x.com/YaseenK7212)"
 author_url: "https://twitter.com/YaseenK7212"
 source_url: "https://twitter.com/YaseenK7212/status/1991493635137831348"
 preview: "/media/portraits/pg-1991493635137831348.webp"

@@ -2,7 +2,7 @@
 title: "Cozy Moments: Winter's Embrace with a Plush Companion"
 category: 3d
 tags: ["nano-banana-pro"]
-author: "@ShreyaYadav___"
+author: "[@ShreyaYadav___](https://x.com/ShreyaYadav___)"
 author_url: "https://twitter.com/ShreyaYadav___"
 source_url: "https://twitter.com/ShreyaYadav___/status/1991338284518371647"
 preview: "/media/3d/pg-1991338284518371647.webp"

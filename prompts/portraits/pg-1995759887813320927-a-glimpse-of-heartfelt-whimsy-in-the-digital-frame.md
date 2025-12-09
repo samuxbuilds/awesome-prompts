@@ -2,7 +2,7 @@
 title: "A Glimpse of Heartfelt Whimsy in the Digital Frame"
 category: portraits
 tags: ["art","cute","digital","nano-banana-pro"]
-author: "@xmiiru_"
+author: "[@xmiiru_](https://x.com/xmiiru_)"
 author_url: "https://twitter.com/xmiiru_"
 source_url: "https://twitter.com/xmiiru_/status/1995759887813320927"
 preview: "/media/portraits/pg-1995759887813320927.webp"

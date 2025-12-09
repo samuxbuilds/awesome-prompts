@@ -2,7 +2,7 @@
 title: "Neon Dreams in Tokyo's Rain-Slicked Streets"
 category: 3d
 tags: ["urban","light","neon","vibrant","nano-banana-pro"]
-author: "@minchoi"
+author: "[@minchoi](https://x.com/minchoi)"
 author_url: "https://twitter.com/minchoi"
 source_url: "https://twitter.com/minchoi/status/1993897966789349842"
 preview: "/media/3d/pg-1993897966789349842.webp"

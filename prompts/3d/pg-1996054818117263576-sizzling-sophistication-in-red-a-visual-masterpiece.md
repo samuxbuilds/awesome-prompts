@@ -2,7 +2,7 @@
 title: "Sizzling Sophistication in Red: A Visual Masterpiece"
 category: 3d
 tags: ["portrait","fashion","vibrant","nano-banana-pro"]
-author: "@YaseenK7212"
+author: "[@YaseenK7212](https://x.com/YaseenK7212)"
 author_url: "https://twitter.com/YaseenK7212"
 source_url: "https://twitter.com/YaseenK7212/status/1996054818117263576"
 preview: "/media/3d/pg-1996054818117263576.webp"

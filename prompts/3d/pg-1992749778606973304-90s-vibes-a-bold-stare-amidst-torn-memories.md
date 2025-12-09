@@ -2,7 +2,7 @@
 title: "90s Vibes: A Bold Stare Amidst Torn Memories"
 category: 3d
 tags: ["nano-banana-pro"]
-author: "@kingofdairyque"
+author: "[@kingofdairyque](https://x.com/kingofdairyque)"
 author_url: "https://twitter.com/kingofdairyque"
 source_url: "https://twitter.com/kingofdairyque/status/1992749778606973304"
 preview: "/media/3d/pg-1992749778606973304.webp"

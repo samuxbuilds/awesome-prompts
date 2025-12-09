@@ -2,7 +2,7 @@
 title: "Candid Nights: Embracing the City Vibe"
 category: 3d
 tags: ["portrait","urban","vibrant","nano-banana-pro"]
-author: "@xmliisu"
+author: "[@xmliisu](https://x.com/xmliisu)"
 author_url: "https://twitter.com/xmliisu"
 source_url: "https://twitter.com/xmliisu/status/1992985230303527355"
 preview: "/media/3d/pg-1992985230303527355.webp"

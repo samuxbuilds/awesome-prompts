@@ -2,7 +2,7 @@
 title: "Reimagining Japan's Economic Boom: A Pixelated Marketplace"
 category: creative
 tags: ["vibrant","nano-banana-pro"]
-author: "@old_pgmrs_will"
+author: "[@old_pgmrs_will](https://x.com/old_pgmrs_will)"
 author_url: "https://twitter.com/old_pgmrs_will"
 source_url: "https://twitter.com/old_pgmrs_will/status/1991689358181822948"
 preview: "/media/creative/pg-1991689358181822948.webp"

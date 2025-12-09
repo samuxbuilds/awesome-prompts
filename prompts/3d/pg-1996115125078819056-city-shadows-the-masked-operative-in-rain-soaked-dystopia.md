@@ -2,7 +2,7 @@
 title: "City Shadows: The Masked Operative in Rain-soaked Dystopia"
 category: 3d
 tags: ["art","urban","light","nano-banana-pro"]
-author: "@AIwithkhan"
+author: "[@AIwithkhan](https://x.com/AIwithkhan)"
 author_url: "https://twitter.com/AIwithkhan"
 source_url: "https://twitter.com/AIwithkhan/status/1996115125078819056"
 preview: "/media/3d/pg-1996115125078819056.webp"

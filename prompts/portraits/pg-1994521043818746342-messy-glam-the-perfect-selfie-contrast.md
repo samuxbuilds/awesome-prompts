@@ -2,7 +2,7 @@
 title: "Messy Glam: The Perfect Selfie Contrast"
 category: portraits
 tags: ["selfie","nano-banana-pro"]
-author: "@IamEmily2050"
+author: "[@IamEmily2050](https://x.com/IamEmily2050)"
 author_url: "https://twitter.com/IamEmily2050"
 source_url: "https://twitter.com/IamEmily2050/status/1994521043818746342"
 preview: "/media/portraits/pg-1994521043818746342.webp"

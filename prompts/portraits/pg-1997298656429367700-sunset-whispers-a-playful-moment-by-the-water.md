@@ -2,7 +2,7 @@
 title: "Sunset Whispers: A Playful Moment by the Water"
 category: portraits
 tags: ["nano-banana-pro"]
-author: "@saniaspeaks_"
+author: "[@saniaspeaks_](https://x.com/saniaspeaks_)"
 author_url: "https://twitter.com/saniaspeaks_"
 source_url: "https://twitter.com/saniaspeaks_/status/1997298656429367700"
 preview: "/media/portraits/pg-1997298656429367700.webp"

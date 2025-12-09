@@ -2,7 +2,7 @@
 title: "Luxury Meets Confidence in a Stunning Portrait"
 category: portraits
 tags: ["portrait","dark","nano-banana-pro"]
-author: "@xmliisu"
+author: "[@xmliisu](https://x.com/xmliisu)"
 author_url: "https://twitter.com/xmliisu"
 source_url: "https://twitter.com/xmliisu/status/1996051773677781129"
 preview: "/media/portraits/pg-1996051773677781129.webp"

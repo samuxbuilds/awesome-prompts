@@ -2,7 +2,7 @@
 title: "Morning Bliss: A Cozy Coffee Moment"
 category: portraits
 tags: ["light","nano-banana-pro"]
-author: "@Sophia_here12"
+author: "[@Sophia_here12](https://x.com/Sophia_here12)"
 author_url: "https://twitter.com/Sophia_here12"
 source_url: "https://twitter.com/Sophia_here12/status/1997133794986340673"
 preview: "/media/portraits/pg-1997133794986340673.webp"

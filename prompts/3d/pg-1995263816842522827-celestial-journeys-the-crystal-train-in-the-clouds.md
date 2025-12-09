@@ -2,7 +2,7 @@
 title: "Celestial Journeys: The Crystal Train in the Clouds"
 category: 3d
 tags: ["light","nano-banana-pro"]
-author: "@_MehdiSharifi_"
+author: "[@_MehdiSharifi_](https://x.com/_MehdiSharifi_)"
 author_url: "https://twitter.com/_MehdiSharifi_"
 source_url: "https://twitter.com/_MehdiSharifi_/status/1995263816842522827"
 preview: "/media/3d/pg-1995263816842522827.webp"

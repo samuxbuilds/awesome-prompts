@@ -2,7 +2,7 @@
 title: "Chic Vibes: Street Style Meets Salon Serenity"
 category: portraits
 tags: ["art","nano-banana-pro"]
-author: "@saniaspeaks_"
+author: "[@saniaspeaks_](https://x.com/saniaspeaks_)"
 author_url: "https://twitter.com/saniaspeaks_"
 source_url: "https://twitter.com/saniaspeaks_/status/1992062238430253207"
 preview: ""

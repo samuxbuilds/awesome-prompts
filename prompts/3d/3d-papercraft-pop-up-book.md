@@ -2,7 +2,7 @@
 title: "3D Papercraft Pop-up Book"
 category: 3d
 tags: ["3d", "realistic"]
-author: "@dotey"
+author: "[@dotey](https://x.com/dotey)"
 preview: "/media/3d/3d-papercraft-pop-up-book.webp"
 ---
 

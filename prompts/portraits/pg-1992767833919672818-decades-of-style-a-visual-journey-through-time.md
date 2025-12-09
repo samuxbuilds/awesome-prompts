@@ -2,7 +2,7 @@
 title: "Decades of Style: A Visual Journey Through Time"
 category: portraits
 tags: ["art","fashion","vibrant","nano-banana-pro"]
-author: "@ai_for_success"
+author: "[@ai_for_success](https://x.com/ai_for_success)"
 author_url: "https://twitter.com/ai_for_success"
 source_url: "https://twitter.com/ai_for_success/status/1992767833919672818"
 preview: "/media/portraits/pg-1992767833919672818.webp"

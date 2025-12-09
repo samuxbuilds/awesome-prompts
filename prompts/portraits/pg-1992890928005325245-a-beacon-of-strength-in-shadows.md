@@ -2,7 +2,7 @@
 title: "A Beacon of Strength in Shadows"
 category: portraits
 tags: ["art","minimal","light","nano-banana-pro"]
-author: "@AIwithkhan"
+author: "[@AIwithkhan](https://x.com/AIwithkhan)"
 author_url: "https://twitter.com/AIwithkhan"
 source_url: "https://twitter.com/AIwithkhan/status/1992890928005325245"
 preview: "/media/portraits/pg-1992890928005325245.webp"

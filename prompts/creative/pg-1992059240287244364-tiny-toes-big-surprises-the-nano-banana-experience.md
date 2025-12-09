@@ -2,7 +2,7 @@
 title: "Tiny Toes, Big Surprises: The Nano Banana Experience!"
 category: creative
 tags: ["light","nano-banana-pro"]
-author: "@CHAO2U_AI"
+author: "[@CHAO2U_AI](https://x.com/CHAO2U_AI)"
 author_url: "https://twitter.com/CHAO2U_AI"
 source_url: "https://twitter.com/CHAO2U_AI/status/1992059240287244364"
 preview: "/media/creative/pg-1992059240287244364.webp"

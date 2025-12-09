@@ -2,7 +2,7 @@
 title: "Surreal Interaction Scene"
 category: creative
 tags: ["realistic", "surreal"]
-author: "@umesh_ai"
+author: "[@umesh_ai](https://x.com/umesh_ai)"
 preview: "/media/creative/surreal-interaction-scene.webp"
 ---
 

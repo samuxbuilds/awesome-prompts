@@ -2,7 +2,7 @@
 title: "Candid Moments: Love in the Glow of a MacBook"
 category: 3d
 tags: ["light","nano-banana-pro"]
-author: "@YaseenK7212"
+author: "[@YaseenK7212](https://x.com/YaseenK7212)"
 author_url: "https://twitter.com/YaseenK7212"
 source_url: "https://twitter.com/YaseenK7212/status/1996186805398364512"
 preview: "/media/3d/pg-1996186805398364512.webp"

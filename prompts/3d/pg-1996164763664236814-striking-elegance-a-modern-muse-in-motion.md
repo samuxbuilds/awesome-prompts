@@ -2,7 +2,7 @@
 title: "Striking Elegance: A Modern Muse in Motion"
 category: 3d
 tags: ["modern","urban","dark","light","nano-banana-pro"]
-author: "@SimplyAnnisa"
+author: "[@SimplyAnnisa](https://x.com/SimplyAnnisa)"
 author_url: "https://twitter.com/SimplyAnnisa"
 source_url: "https://twitter.com/SimplyAnnisa/status/1996164763664236814"
 preview: "/media/3d/pg-1996164763664236814.webp"

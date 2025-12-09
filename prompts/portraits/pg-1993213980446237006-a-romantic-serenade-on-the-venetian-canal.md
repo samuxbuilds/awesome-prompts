@@ -2,7 +2,7 @@
 title: "A Romantic Serenade on the Venetian Canal"
 category: portraits
 tags: ["light","nano-banana-pro"]
-author: "@YaseenK7212"
+author: "[@YaseenK7212](https://x.com/YaseenK7212)"
 author_url: "https://twitter.com/YaseenK7212"
 source_url: "https://twitter.com/YaseenK7212/status/1993213980446237006"
 preview: "/media/portraits/pg-1993213980446237006.webp"

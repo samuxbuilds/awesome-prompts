@@ -2,7 +2,7 @@
 title: "Neon Nights in Times Square: The Nano Banan Vibe"
 category: 3d
 tags: ["modern","urban","neon","vibrant","nano-banana-pro"]
-author: "@Sheldon056"
+author: "[@Sheldon056](https://x.com/Sheldon056)"
 author_url: "https://twitter.com/Sheldon056"
 source_url: "https://twitter.com/Sheldon056/status/1995309737932726300"
 preview: "/media/3d/pg-1995309737932726300.webp"

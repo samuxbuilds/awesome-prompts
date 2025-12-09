@@ -2,7 +2,7 @@
 title: "A Fiery Flight of Imagination"
 category: 3d
 tags: ["light","vibrant","nano-banana-pro"]
-author: "@lexx_aura"
+author: "[@lexx_aura](https://x.com/lexx_aura)"
 author_url: "https://twitter.com/lexx_aura"
 source_url: "https://twitter.com/lexx_aura/status/1991206055725134201"
 preview: "/media/3d/pg-1991206055725134201.webp"

@@ -2,7 +2,7 @@
 title: "Flat Design App Icons - Finance Theme"
 category: "illustrations"
 tags: ["icons", "flat-design", "finance", "ui"]
-author: "@example_contributor"
+author: "[@example_contributor](https://x.com/example_contributor)"
 preview: "https://images.unsplash.com/photo-1611162616305-c69b3fa7fbe0?w=800&q=80"
 ---
 

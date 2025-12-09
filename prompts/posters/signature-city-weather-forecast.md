@@ -2,7 +2,7 @@
 title: "Signature City Weather Forecast"
 category: posters
 tags: ["3d", "realistic", "icon"]
-author: "@dotey"
+author: "[@dotey](https://x.com/dotey)"
 preview: "/media/posters/signature-city-weather-forecast.webp"
 ---
 

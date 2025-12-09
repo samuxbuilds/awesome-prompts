@@ -2,7 +2,7 @@
 title: "Cinematic Keyframe Generator"
 category: creative
 tags: ["realistic", "film", "character", "animal", "cinematic"]
-author: "@nanobanana-pro"
+author: "[@nanobanana-pro](https://x.com/nanobanana-pro)"
 preview: "/media/creative/nb-cinematic-keyframe-generator.webp"
 ---
 

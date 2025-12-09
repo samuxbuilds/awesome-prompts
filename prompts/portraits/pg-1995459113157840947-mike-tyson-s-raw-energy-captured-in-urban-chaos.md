@@ -2,7 +2,7 @@
 title: "Mike Tyson's Raw Energy Captured in Urban Chaos"
 category: portraits
 tags: ["realistic","urban","nano-banana-pro"]
-author: "@CharaspowerAI"
+author: "[@CharaspowerAI](https://x.com/CharaspowerAI)"
 author_url: "https://twitter.com/CharaspowerAI"
 source_url: "https://twitter.com/CharaspowerAI/status/1995459113157840947"
 preview: "/media/portraits/pg-1995459113157840947.webp"

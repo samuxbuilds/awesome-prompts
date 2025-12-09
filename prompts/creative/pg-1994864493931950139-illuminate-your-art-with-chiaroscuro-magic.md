@@ -2,7 +2,7 @@
 title: "Illuminate Your Art with Chiaroscuro Magic"
 category: creative
 tags: ["art","light","nano-banana-pro"]
-author: "@icreatelife"
+author: "[@icreatelife](https://x.com/icreatelife)"
 author_url: "https://twitter.com/icreatelife"
 source_url: "https://twitter.com/icreatelife/status/1994864493931950139"
 preview: "/media/creative/pg-1994864493931950139.webp"

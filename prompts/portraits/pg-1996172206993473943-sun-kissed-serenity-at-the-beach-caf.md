@@ -2,7 +2,7 @@
 title: "Sun-Kissed Serenity at the Beach Café"
 category: portraits
 tags: ["light","vibrant","nano-banana-pro"]
-author: "@ZaraIrahh"
+author: "[@ZaraIrahh](https://x.com/ZaraIrahh)"
 author_url: "https://twitter.com/ZaraIrahh"
 source_url: "https://twitter.com/ZaraIrahh/status/1996172206993473943"
 preview: "/media/portraits/pg-1996172206993473943.webp"

@@ -2,7 +2,7 @@
 title: "Lego Collectible Figure"
 category: 3d
 tags: ["minimalist", "surreal", "lego", "glass", "animal"]
-author: "@ZHO_ZHO_ZHO"
+author: "[@ZHO_ZHO_ZHO](https://x.com/ZHO_ZHO_ZHO)"
 preview: "/media/3d/lego-collectible-figure.webp"
 ---
 

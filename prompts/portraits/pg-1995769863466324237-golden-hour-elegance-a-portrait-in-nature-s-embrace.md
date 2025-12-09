@@ -2,7 +2,7 @@
 title: "Golden Hour Elegance: A Portrait in Nature's Embrace"
 category: portraits
 tags: ["portrait","nature","light","nano-banana-pro"]
-author: "@ShreyaYadav___"
+author: "[@ShreyaYadav___](https://x.com/ShreyaYadav___)"
 author_url: "https://twitter.com/ShreyaYadav___"
 source_url: "https://twitter.com/ShreyaYadav___/status/1995769863466324237"
 preview: "/media/portraits/pg-1995769863466324237.webp"

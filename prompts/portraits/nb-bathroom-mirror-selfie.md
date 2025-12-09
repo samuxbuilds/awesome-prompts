@@ -2,7 +2,7 @@
 title: "Bathroom Mirror Selfie"
 category: portraits
 tags: ["realistic", "logo", "animal", "professional"]
-author: "@nanobanana-pro"
+author: "[@nanobanana-pro](https://x.com/nanobanana-pro)"
 preview: "/media/portraits/nb-bathroom-mirror-selfie.webp"
 ---
 

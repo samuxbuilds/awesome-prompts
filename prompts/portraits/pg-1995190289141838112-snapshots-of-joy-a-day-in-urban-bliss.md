@@ -2,7 +2,7 @@
 title: "Snapshots of Joy: A Day in Urban Bliss"
 category: portraits
 tags: ["urban","vibrant","nano-banana-pro"]
-author: "@IqraSaifiii"
+author: "[@IqraSaifiii](https://x.com/IqraSaifiii)"
 author_url: "https://twitter.com/IqraSaifiii"
 source_url: "https://twitter.com/IqraSaifiii/status/1995190289141838112"
 preview: "/media/portraits/pg-1995190289141838112.webp"

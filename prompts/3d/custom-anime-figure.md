@@ -2,7 +2,7 @@
 title: "Custom Anime Figure"
 category: 3d
 tags: ["anime", "realistic", "character"]
-author: "@dotey"
+author: "[@dotey](https://x.com/dotey)"
 preview: "/media/3d/custom-anime-figure.webp"
 ---
 

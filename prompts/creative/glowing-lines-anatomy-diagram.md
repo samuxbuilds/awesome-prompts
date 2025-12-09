@@ -2,7 +2,7 @@
 title: "Glowing Lines Anatomy Diagram"
 category: creative
 tags: ["illustration", "ai-art"]
-author: "@umesh_ai"
+author: "[@umesh_ai](https://x.com/umesh_ai)"
 preview: "/media/creative/glowing-lines-anatomy-diagram.webp"
 ---
 

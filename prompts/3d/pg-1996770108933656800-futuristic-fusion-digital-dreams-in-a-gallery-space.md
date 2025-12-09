@@ -2,7 +2,7 @@
 title: "Futuristic Fusion: Digital Dreams in a Gallery Space"
 category: 3d
 tags: ["art","minimal","vibrant","digital","nano-banana-pro"]
-author: "@AIwithkhan"
+author: "[@AIwithkhan](https://x.com/AIwithkhan)"
 author_url: "https://twitter.com/AIwithkhan"
 source_url: "https://twitter.com/AIwithkhan/status/1996770108933656800"
 preview: "/media/3d/pg-1996770108933656800.webp"

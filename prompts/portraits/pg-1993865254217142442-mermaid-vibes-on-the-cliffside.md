@@ -2,7 +2,7 @@
 title: "Mermaid Vibes on the Cliffside"
 category: portraits
 tags: ["nature","vibrant","nano-banana-pro"]
-author: "@Just_sharon7"
+author: "[@Just_sharon7](https://x.com/Just_sharon7)"
 author_url: "https://twitter.com/Just_sharon7"
 source_url: "https://twitter.com/Just_sharon7/status/1993865254217142442"
 preview: "/media/portraits/pg-1993865254217142442.webp"

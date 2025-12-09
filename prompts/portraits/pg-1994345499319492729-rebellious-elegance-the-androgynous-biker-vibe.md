@@ -2,7 +2,7 @@
 title: "Rebellious Elegance: The Androgynous Biker Vibe"
 category: portraits
 tags: ["portrait","urban","nano-banana-pro"]
-author: "@xmliisu"
+author: "[@xmliisu](https://x.com/xmliisu)"
 author_url: "https://twitter.com/xmliisu"
 source_url: "https://twitter.com/xmliisu/status/1994345499319492729"
 preview: "/media/portraits/pg-1994345499319492729.webp"

@@ -2,7 +2,7 @@
 title: "Elevated Moments: A Hiker's Perspective in the Rockies"
 category: portraits
 tags: ["nano-banana-pro"]
-author: "@minchoi"
+author: "[@minchoi](https://x.com/minchoi)"
 author_url: "https://twitter.com/minchoi"
 source_url: "https://twitter.com/minchoi/status/1993897962234155210"
 preview: "/media/portraits/pg-1993897962234155210.webp"

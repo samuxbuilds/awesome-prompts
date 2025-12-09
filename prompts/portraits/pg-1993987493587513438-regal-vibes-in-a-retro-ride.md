@@ -2,7 +2,7 @@
 title: "Regal Vibes in a Retro Ride"
 category: portraits
 tags: ["vintage","nano-banana-pro"]
-author: "@lexx_aura"
+author: "[@lexx_aura](https://x.com/lexx_aura)"
 author_url: "https://twitter.com/lexx_aura"
 source_url: "https://twitter.com/lexx_aura/status/1993987493587513438"
 preview: "/media/portraits/pg-1993987493587513438.webp"

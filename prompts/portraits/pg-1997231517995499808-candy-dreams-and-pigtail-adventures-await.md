@@ -2,7 +2,7 @@
 title: "Candy Dreams and Pigtail Adventures Await!"
 category: portraits
 tags: ["portrait","vibrant","nano-banana-pro"]
-author: "@xmiiru_"
+author: "[@xmiiru_](https://x.com/xmiiru_)"
 author_url: "https://twitter.com/xmiiru_"
 source_url: "https://twitter.com/xmiiru_/status/1997231517995499808"
 preview: "/media/portraits/pg-1997231517995499808.webp"

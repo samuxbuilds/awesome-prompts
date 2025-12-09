@@ -2,7 +2,7 @@
 title: "A Whimsical Portrait: Nostalgia on Lined Paper"
 category: portraits
 tags: ["portrait","vibrant","nano-banana-pro"]
-author: "@saniaspeaks_"
+author: "[@saniaspeaks_](https://x.com/saniaspeaks_)"
 author_url: "https://twitter.com/saniaspeaks_"
 source_url: "https://twitter.com/saniaspeaks_/status/1992609722487476284"
 preview: ""

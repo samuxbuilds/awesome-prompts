@@ -2,7 +2,7 @@
 title: "A Whimsical World of Cute: The Nano Banana Pro Illustration"
 category: portraits
 tags: ["illustration","cute","light","nano-banana-pro"]
-author: "@mikage"
+author: "[@mikage](https://x.com/mikage)"
 author_url: "https://twitter.com/mikage"
 source_url: "https://twitter.com/mikage/status/1991800706719010873"
 preview: "/media/portraits/pg-1991800706719010873.webp"

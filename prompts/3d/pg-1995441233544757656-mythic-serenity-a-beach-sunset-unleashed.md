@@ -2,7 +2,7 @@
 title: "Mythic Serenity: A Beach Sunset Unleashed"
 category: 3d
 tags: ["nature","nano-banana-pro"]
-author: "@aleenaamiir"
+author: "[@aleenaamiir](https://x.com/aleenaamiir)"
 author_url: "https://twitter.com/aleenaamiir"
 source_url: "https://twitter.com/aleenaamiir/status/1995441233544757656"
 preview: "/media/3d/pg-1995441233544757656.webp"

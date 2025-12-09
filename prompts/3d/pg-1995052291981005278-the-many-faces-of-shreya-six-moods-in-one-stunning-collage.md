@@ -2,7 +2,7 @@
 title: "The Many Faces of Shreya: Six Moods in One Stunning Collage"
 category: 3d
 tags: ["cute","vibrant","nano-banana-pro"]
-author: "@ShreyaYadav___"
+author: "[@ShreyaYadav___](https://x.com/ShreyaYadav___)"
 author_url: "https://twitter.com/ShreyaYadav___"
 source_url: "https://twitter.com/ShreyaYadav___/status/1995052291981005278"
 preview: "/media/3d/pg-1995052291981005278.webp"

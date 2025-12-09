@@ -2,7 +2,7 @@
 title: "Glamour Meets Minimalism: A Striking Portrait"
 category: portraits
 tags: ["portrait","minimal","nano-banana-pro"]
-author: "@IqraSaifiii"
+author: "[@IqraSaifiii](https://x.com/IqraSaifiii)"
 author_url: "https://twitter.com/IqraSaifiii"
 source_url: "https://twitter.com/IqraSaifiii/status/1994521805076451818"
 preview: "/media/portraits/pg-1994521805076451818.webp"

@@ -2,7 +2,7 @@
 title: "Golden Hour Elegance: A Portrait of Tranquility"
 category: 3d
 tags: ["portrait","light","nano-banana-pro"]
-author: "@rovvmut_"
+author: "[@rovvmut_](https://x.com/rovvmut_)"
 author_url: "https://twitter.com/rovvmut_"
 source_url: "https://twitter.com/rovvmut_/status/1994296050140708985"
 preview: "/media/3d/pg-1994296050140708985.webp"

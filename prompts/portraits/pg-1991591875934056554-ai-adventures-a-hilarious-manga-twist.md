@@ -2,7 +2,7 @@
 title: "AI Adventures: A Hilarious Manga Twist!"
 category: portraits
 tags: ["nano-banana-pro"]
-author: "@YiTayML"
+author: "[@YiTayML](https://x.com/YiTayML)"
 author_url: "https://twitter.com/YiTayML"
 source_url: "https://twitter.com/YiTayML/status/1991591875934056554"
 preview: "/media/portraits/pg-1991591875934056554.webp"

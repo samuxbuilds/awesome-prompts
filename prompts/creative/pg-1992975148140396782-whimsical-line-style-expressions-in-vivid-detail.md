@@ -2,7 +2,7 @@
 title: "Whimsical LINE-Style Expressions in Vivid Detail"
 category: creative
 tags: ["colorful","nano-banana-pro"]
-author: "@planxyou"
+author: "[@planxyou](https://x.com/planxyou)"
 author_url: "https://twitter.com/planxyou"
 source_url: "https://twitter.com/planxyou/status/1992975148140396782"
 preview: "/media/creative/pg-1992975148140396782.webp"

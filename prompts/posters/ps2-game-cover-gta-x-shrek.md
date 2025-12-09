@@ -2,7 +2,7 @@
 title: "PS2 Game Cover (GTA x Shrek)"
 category: posters
 tags: ["creative", "ai-art"]
-author: "@dotey"
+author: "[@dotey](https://x.com/dotey)"
 preview: "/media/posters/ps2-game-cover-gta-x-shrek.webp"
 ---
 

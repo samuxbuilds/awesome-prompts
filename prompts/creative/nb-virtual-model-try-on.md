@@ -2,7 +2,7 @@
 title: "Virtual Model Try-On"
 category: creative
 tags: ["realistic", "logo", "professional", "fashion"]
-author: "@nanobanana-pro"
+author: "[@nanobanana-pro](https://x.com/nanobanana-pro)"
 preview: "/media/creative/nb-virtual-model-try-on.webp"
 ---
 

@@ -2,7 +2,7 @@
 title: "A Solitary Journey Through Golden Hills"
 category: 3d
 tags: ["dark","light","nano-banana-pro"]
-author: "@rovvmut_"
+author: "[@rovvmut_](https://x.com/rovvmut_)"
 author_url: "https://twitter.com/rovvmut_"
 source_url: "https://twitter.com/rovvmut_/status/1994234346493108690"
 preview: "/media/3d/pg-1994234346493108690.webp"

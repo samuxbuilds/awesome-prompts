@@ -2,7 +2,7 @@
 title: "A Feline Fantasy: When Fairies Meet Cats"
 category: creative
 tags: ["art","fantasy","nano-banana-pro"]
-author: "@starwalker0202"
+author: "[@starwalker0202](https://x.com/starwalker0202)"
 author_url: "https://twitter.com/starwalker0202"
 source_url: "https://twitter.com/starwalker0202/status/1991789421671449071"
 preview: "/media/creative/pg-1991789421671449071.webp"

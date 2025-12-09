@@ -2,7 +2,7 @@
 title: "Dreamy Selfie in 16K Radiance ✨🌸"
 category: portraits
 tags: ["selfie","nano-banana-pro"]
-author: "@xmiiru_"
+author: "[@xmiiru_](https://x.com/xmiiru_)"
 author_url: "https://twitter.com/xmiiru_"
 source_url: "https://twitter.com/xmiiru_/status/1995711137057251447"
 preview: "/media/portraits/pg-1995711137057251447.webp"

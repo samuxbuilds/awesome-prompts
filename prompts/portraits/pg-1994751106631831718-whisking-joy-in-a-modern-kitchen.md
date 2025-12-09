@@ -2,7 +2,7 @@
 title: "Whisking Joy in a Modern Kitchen"
 category: portraits
 tags: ["modern","nano-banana-pro"]
-author: "@saniaspeaks_"
+author: "[@saniaspeaks_](https://x.com/saniaspeaks_)"
 author_url: "https://twitter.com/saniaspeaks_"
 source_url: "https://twitter.com/saniaspeaks_/status/1994751106631831718"
 preview: "/media/portraits/pg-1994751106631831718.webp"

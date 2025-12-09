@@ -2,7 +2,7 @@
 title: "Framing Perfection: A Portrait of Modern Elegance"
 category: portraits
 tags: ["portrait","modern","fashion","nano-banana-pro"]
-author: "@ShreyaYadav___"
+author: "[@ShreyaYadav___](https://x.com/ShreyaYadav___)"
 author_url: "https://twitter.com/ShreyaYadav___"
 source_url: "https://twitter.com/ShreyaYadav___/status/1992639877075370321"
 preview: "/media/portraits/pg-1992639877075370321.webp"

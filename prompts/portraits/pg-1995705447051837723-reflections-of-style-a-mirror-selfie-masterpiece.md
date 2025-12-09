@@ -2,7 +2,7 @@
 title: "Reflections of Style: A Mirror Selfie Masterpiece"
 category: portraits
 tags: ["selfie","nano-banana-pro"]
-author: "@ShreyaYadav___"
+author: "[@ShreyaYadav___](https://x.com/ShreyaYadav___)"
 author_url: "https://twitter.com/ShreyaYadav___"
 source_url: "https://twitter.com/ShreyaYadav___/status/1995705447051837723"
 preview: "/media/portraits/pg-1995705447051837723.webp"

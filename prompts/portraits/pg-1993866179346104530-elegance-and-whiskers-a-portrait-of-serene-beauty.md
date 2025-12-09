@@ -2,7 +2,7 @@
 title: "Elegance and Whiskers: A Portrait of Serene Beauty"
 category: portraits
 tags: ["portrait","art","vintage","nano-banana-pro"]
-author: "@chatgptpaglu"
+author: "[@chatgptpaglu](https://x.com/chatgptpaglu)"
 author_url: "https://twitter.com/chatgptpaglu"
 source_url: "https://twitter.com/chatgptpaglu/status/1993866179346104530"
 preview: "/media/portraits/pg-1993866179346104530.webp"

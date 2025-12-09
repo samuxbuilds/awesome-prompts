@@ -2,7 +2,7 @@
 title: "Elevator Chronicles: A Stylish Moment Captured"
 category: portraits
 tags: ["light","nano-banana-pro"]
-author: "@YaseenK7212"
+author: "[@YaseenK7212](https://x.com/YaseenK7212)"
 author_url: "https://twitter.com/YaseenK7212"
 source_url: "https://twitter.com/YaseenK7212/status/1996622493914664981"
 preview: "/media/portraits/pg-1996622493914664981.webp"

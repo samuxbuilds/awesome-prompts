@@ -2,7 +2,7 @@
 title: "Pet Meme Creation"
 category: creative
 tags: ["minimalist", "cute", "sticker", "animal"]
-author: "@nanobanana-pro"
+author: "[@nanobanana-pro](https://x.com/nanobanana-pro)"
 preview: "/media/creative/nb-pet-meme-creation.webp"
 ---
 

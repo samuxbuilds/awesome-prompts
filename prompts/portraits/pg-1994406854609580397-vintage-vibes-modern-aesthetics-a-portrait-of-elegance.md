@@ -2,7 +2,7 @@
 title: "Vintage Vibes & Modern Aesthetics: A Portrait of Elegance"
 category: portraits
 tags: ["portrait","art","vintage","modern","vibrant","nano-banana-pro"]
-author: "@SimplyAnnisa"
+author: "[@SimplyAnnisa](https://x.com/SimplyAnnisa)"
 author_url: "https://twitter.com/SimplyAnnisa"
 source_url: "https://twitter.com/SimplyAnnisa/status/1994406854609580397"
 preview: "/media/portraits/pg-1994406854609580397.webp"

@@ -2,7 +2,7 @@
 title: "Lego Cityscape (Shanghai Bund)"
 category: 3d
 tags: ["icon", "lego"]
-author: "@dotey"
+author: "[@dotey](https://x.com/dotey)"
 preview: "/media/3d/lego-cityscape-shanghai-bund.webp"
 ---
 

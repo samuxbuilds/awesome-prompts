@@ -2,7 +2,7 @@
 title: "Chic Moments in Paris: A Café Escape"
 category: portraits
 tags: ["light","nano-banana-pro"]
-author: "@kingofdairyque"
+author: "[@kingofdairyque](https://x.com/kingofdairyque)"
 author_url: "https://twitter.com/kingofdairyque"
 source_url: "https://twitter.com/kingofdairyque/status/1993945533585739792"
 preview: "/media/portraits/pg-1993945533585739792.webp"

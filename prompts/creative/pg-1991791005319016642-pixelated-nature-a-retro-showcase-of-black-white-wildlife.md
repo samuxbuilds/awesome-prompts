@@ -2,7 +2,7 @@
 title: "Pixelated Nature: A Retro Showcase of Black & White Wildlife"
 category: creative
 tags: ["art","nature","nano-banana-pro"]
-author: "@Lessnoise365"
+author: "[@Lessnoise365](https://x.com/Lessnoise365)"
 author_url: "https://twitter.com/Lessnoise365"
 source_url: "https://twitter.com/Lessnoise365/status/1991791005319016642"
 preview: "/media/creative/pg-1991791005319016642.webp"

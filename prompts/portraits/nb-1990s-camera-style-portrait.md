@@ -2,7 +2,7 @@
 title: "1990s Camera Style Portrait"
 category: portraits
 tags: ["portrait", "poster", "sticker", "nostalgic"]
-author: "@nanobanana-pro"
+author: "[@nanobanana-pro](https://x.com/nanobanana-pro)"
 preview: "/media/portraits/nb-1990s-camera-style-portrait.webp"
 ---
 

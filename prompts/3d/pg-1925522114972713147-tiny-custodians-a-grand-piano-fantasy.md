@@ -2,7 +2,7 @@
 title: "Tiny Custodians: A Grand Piano Fantasy"
 category: 3d
 tags: ["realistic","miniature","fantasy","light","nano-banana-pro"]
-author: "@BeanieBlossom"
+author: "[@BeanieBlossom](https://x.com/BeanieBlossom)"
 author_url: "https://twitter.com/BeanieBlossom"
 source_url: "https://twitter.com/BeanieBlossom/status/1925522114972713147"
 preview: "/media/3d/pg-1925522114972713147.webp"

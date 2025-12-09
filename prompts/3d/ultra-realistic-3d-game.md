@@ -2,7 +2,7 @@
 title: "Ultra-realistic 3D Game"
 category: 3d
 tags: ["3d", "realistic", "poster", "icon", "character"]
-author: "@ZHO_ZHO_ZHO"
+author: "[@ZHO_ZHO_ZHO](https://x.com/ZHO_ZHO_ZHO)"
 preview: "/media/3d/ultra-realistic-3d-game.webp"
 ---
 

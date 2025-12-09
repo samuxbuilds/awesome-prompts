@@ -2,7 +2,7 @@
 title: "Hieronymus Bosch Meets Modern Power: A Surreal AI Creation"
 category: 3d
 tags: ["art","modern","fantasy","nano-banana-pro"]
-author: "@emrefiratyildiz"
+author: "[@emrefiratyildiz](https://x.com/emrefiratyildiz)"
 author_url: "https://twitter.com/emrefiratyildiz"
 source_url: "https://twitter.com/emrefiratyildiz/status/1992638368266551625"
 preview: "/media/3d/pg-1992638368266551625.webp"

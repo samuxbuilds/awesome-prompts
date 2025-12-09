@@ -2,7 +2,7 @@
 title: "Glamour Unveiled: A Night in the Lounge"
 category: portraits
 tags: ["nano-banana-pro"]
-author: "@IqraSaifiii"
+author: "[@IqraSaifiii](https://x.com/IqraSaifiii)"
 author_url: "https://twitter.com/IqraSaifiii"
 source_url: "https://twitter.com/IqraSaifiii/status/1994838825059885469"
 preview: "/media/portraits/pg-1994838825059885469.webp"

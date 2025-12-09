@@ -2,7 +2,7 @@
 title: "Elegance in Simplicity: A Natural Portrait"
 category: 3d
 tags: ["portrait","minimal","nano-banana-pro"]
-author: "@kingofdairyque"
+author: "[@kingofdairyque](https://x.com/kingofdairyque)"
 author_url: "https://twitter.com/kingofdairyque"
 source_url: "https://twitter.com/kingofdairyque/status/1995829751639146611"
 preview: "/media/3d/pg-1995829751639146611.webp"

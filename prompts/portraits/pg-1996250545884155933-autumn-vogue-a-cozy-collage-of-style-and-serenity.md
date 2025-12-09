@@ -2,7 +2,7 @@
 title: "Autumn Vogue: A Cozy Collage of Style and Serenity"
 category: portraits
 tags: ["vibrant","nano-banana-pro"]
-author: "@ShreyaYadav___"
+author: "[@ShreyaYadav___](https://x.com/ShreyaYadav___)"
 author_url: "https://twitter.com/ShreyaYadav___"
 source_url: "https://twitter.com/ShreyaYadav___/status/1996250545884155933"
 preview: "/media/portraits/pg-1996250545884155933.webp"

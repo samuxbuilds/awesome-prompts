@@ -2,7 +2,7 @@
 title: "Find the Fun: Meme Madness Meets Nano Banana Pro!"
 category: creative
 tags: ["vibrant","nano-banana-pro"]
-author: "@higgsfield_ai"
+author: "[@higgsfield_ai](https://x.com/higgsfield_ai)"
 author_url: "https://twitter.com/higgsfield_ai"
 source_url: "https://twitter.com/higgsfield_ai/status/1991662539827241223"
 preview: "/media/creative/pg-1991662539827241223.webp"

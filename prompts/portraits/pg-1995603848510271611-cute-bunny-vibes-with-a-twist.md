@@ -2,7 +2,7 @@
 title: "Cute Bunny Vibes with a Twist!"
 category: portraits
 tags: ["cute","nano-banana-pro"]
-author: "@IqraSaifiii"
+author: "[@IqraSaifiii](https://x.com/IqraSaifiii)"
 author_url: "https://twitter.com/IqraSaifiii"
 source_url: "https://twitter.com/IqraSaifiii/status/1995603848510271611"
 preview: "/media/portraits/pg-1995603848510271611.webp"

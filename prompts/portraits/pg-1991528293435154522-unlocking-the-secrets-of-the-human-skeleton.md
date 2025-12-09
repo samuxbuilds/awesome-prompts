@@ -2,7 +2,7 @@
 title: "Unlocking the Secrets of the Human Skeleton!"
 category: portraits
 tags: ["nano-banana-pro"]
-author: "@HBCoop_"
+author: "[@HBCoop_](https://x.com/HBCoop_)"
 author_url: "https://twitter.com/HBCoop_"
 source_url: "https://twitter.com/HBCoop_/status/1991528293435154522"
 preview: "/media/portraits/pg-1991528293435154522.webp"

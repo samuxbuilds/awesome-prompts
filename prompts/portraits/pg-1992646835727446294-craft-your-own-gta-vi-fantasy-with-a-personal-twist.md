@@ -2,7 +2,7 @@
 title: "Craft Your Own GTA VI Fantasy with a Personal Twist!"
 category: portraits
 tags: ["fantasy","neon","nano-banana-pro"]
-author: "@CharaspowerAI"
+author: "[@CharaspowerAI](https://x.com/CharaspowerAI)"
 author_url: "https://twitter.com/CharaspowerAI"
 source_url: "https://twitter.com/CharaspowerAI/status/1992646835727446294"
 preview: "/media/portraits/pg-1992646835727446294.webp"

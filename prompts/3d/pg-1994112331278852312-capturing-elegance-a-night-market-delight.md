@@ -2,7 +2,7 @@
 title: "Capturing Elegance: A Night Market Delight"
 category: 3d
 tags: ["light","vibrant","nano-banana-pro"]
-author: "@IamEmily2050"
+author: "[@IamEmily2050](https://x.com/IamEmily2050)"
 author_url: "https://twitter.com/IamEmily2050"
 source_url: "https://twitter.com/IamEmily2050/status/1994112331278852312"
 preview: "/media/3d/pg-1994112331278852312.webp"

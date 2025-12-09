@@ -2,7 +2,7 @@
 title: "When Fantasy Meets Reality: The GTA 6 World Unleashed"
 category: portraits
 tags: ["fantasy","nano-banana-pro"]
-author: "@_philschmid"
+author: "[@_philschmid](https://x.com/_philschmid)"
 author_url: "https://twitter.com/_philschmid"
 source_url: "https://twitter.com/_philschmid/status/1991555159001108595"
 preview: "/media/portraits/pg-1991555159001108595.webp"

@@ -2,7 +2,7 @@
 title: "Striking Confidence Amidst Chaos"
 category: portraits
 tags: ["portrait","dark","nano-banana-pro"]
-author: "@rovvmut_"
+author: "[@rovvmut_](https://x.com/rovvmut_)"
 author_url: "https://twitter.com/rovvmut_"
 source_url: "https://twitter.com/rovvmut_/status/1991508261494047125"
 preview: "/media/portraits/pg-1991508261494047125.webp"

@@ -2,7 +2,7 @@
 title: "Bold Style Meets Vibrant Backdrops"
 category: portraits
 tags: ["modern","fashion","vibrant","nano-banana-pro"]
-author: "@Taaruk_"
+author: "[@Taaruk_](https://x.com/Taaruk_)"
 author_url: "https://twitter.com/Taaruk_"
 source_url: "https://twitter.com/Taaruk_/status/1995375820819354033"
 preview: "/media/portraits/pg-1995375820819354033.webp"

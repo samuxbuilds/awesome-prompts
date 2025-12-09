@@ -2,7 +2,7 @@
 title: "Autumn Vibes: A Playful Rooftop Escape"
 category: portraits
 tags: ["portrait","nano-banana-pro"]
-author: "@awesome_visuals"
+author: "[@awesome_visuals](https://x.com/awesome_visuals)"
 author_url: "https://twitter.com/awesome_visuals"
 source_url: "https://twitter.com/awesome_visuals/status/1994406959433367552"
 preview: "/media/portraits/pg-1994406959433367552.webp"

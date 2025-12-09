@@ -67,6 +67,21 @@ const displayCategory = prompt.category.includes('/')
 
 // Video URL for motion prompts
 const videoUrl = prompt.previewVideo ? `${siteUrl}${prompt.previewVideo}` : null;
+
+// Parse author field - extract link if in markdown format
+function parseAuthor(author: string): { text: string; url: string | null } {
+  const linkMatch = author.match(/\[([^\]]+)\]\(([^)]+)\)/);
+  if (linkMatch) {
+    return { text: linkMatch[1], url: linkMatch[2] };
+  }
+  // If no link format, create default X link from @username
+  if (author.startsWith('@')) {
+    return { text: author, url: `https://x.com/${author.slice(1)}` };
+  }
+  return { text: author, url: null };
+}
+
+const authorInfo = parseAuthor(prompt.author);
 ---
 
 <Layout 
@@ -149,7 +164,18 @@ const videoUrl = prompt.previewVideo ? `${siteUrl}${prompt.previewVideo}` : null
             {displayCategory}
           </a>
           <span class="text-gray-500 dark:text-gray-400 text-sm">
-            by <span class="font-medium text-gray-700 dark:text-gray-300">{prompt.author}</span>
+            by {authorInfo.url ? (
+              <a 
+                href={authorInfo.url}
+                target="_blank"
+                rel="noopener noreferrer"
+                class="font-medium text-gray-700 dark:text-gray-300 hover:text-purple-600 dark:hover:text-purple-400 transition-colors"
+              >
+                {authorInfo.text}
+              </a>
+            ) : (
+              <span class="font-medium text-gray-700 dark:text-gray-300">{authorInfo.text}</span>
+            )}
           </span>
         </div>
         

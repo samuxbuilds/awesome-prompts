@@ -2,7 +2,7 @@
 title: "Charming Whispers of Warmth in Every Portrait"
 category: portraits
 tags: ["portrait","nano-banana-pro"]
-author: "@haniya_445"
+author: "[@haniya_445](https://x.com/haniya_445)"
 author_url: "https://twitter.com/haniya_445"
 source_url: "https://twitter.com/haniya_445/status/1992048216830030088"
 preview: "/media/portraits/pg-1992048216830030088.webp"

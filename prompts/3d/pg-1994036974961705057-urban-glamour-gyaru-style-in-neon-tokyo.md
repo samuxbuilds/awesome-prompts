@@ -2,7 +2,7 @@
 title: "Urban Glamour: Gyaru Style in Neon Tokyo"
 category: 3d
 tags: ["art","urban","dark","neon","vibrant","nano-banana-pro"]
-author: "@xmiiru_"
+author: "[@xmiiru_](https://x.com/xmiiru_)"
 author_url: "https://twitter.com/xmiiru_"
 source_url: "https://twitter.com/xmiiru_/status/1994036974961705057"
 preview: "/media/3d/pg-1994036974961705057.webp"

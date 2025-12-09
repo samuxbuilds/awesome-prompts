@@ -2,7 +2,7 @@
 title: "MrBeast Style - Survival Challenge"
 category: "thumbnails"
 tags: ["mrbeast", "youtube", "thumbnail", "survival", "challenge"]
-author: "@samux"
+author: "[@samux](https://x.com/samux)"
 preview: "/media/thumbnails/mrbeast-survival.webp"
 ---
 

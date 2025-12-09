@@ -2,7 +2,7 @@
 title: "Festive Glam: A Luxe Winter Wonderland Unveiled"
 category: portraits
 tags: ["pastel","nano-banana-pro"]
-author: "@xmliisu"
+author: "[@xmliisu](https://x.com/xmliisu)"
 author_url: "https://twitter.com/xmliisu"
 source_url: "https://twitter.com/xmliisu/status/1992861873813811258"
 preview: "/media/portraits/pg-1992861873813811258.webp"

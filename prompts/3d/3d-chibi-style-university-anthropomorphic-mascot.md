@@ -2,7 +2,7 @@
 title: "3D Chibi-style University Anthropomorphic Mascot"
 category: 3d
 tags: ["3d", "chibi", "anime", "character"]
-author: "@dotey"
+author: "[@dotey](https://x.com/dotey)"
 preview: "/media/3d/3d-chibi-style-university-anthropomorphic-mascot.webp"
 ---
 

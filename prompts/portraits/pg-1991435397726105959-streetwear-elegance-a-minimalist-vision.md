@@ -2,7 +2,7 @@
 title: "Streetwear Elegance: A Minimalist Vision"
 category: portraits
 tags: ["modern","minimal","nano-banana-pro"]
-author: "@Xxaroon"
+author: "[@Xxaroon](https://x.com/Xxaroon)"
 author_url: "https://twitter.com/Xxaroon"
 source_url: "https://twitter.com/Xxaroon/status/1991435397726105959"
 preview: "/media/portraits/pg-1991435397726105959.webp"

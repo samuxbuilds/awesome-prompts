@@ -2,7 +2,7 @@
 title: "Revolutionize Your Wardrobe with Nano Banana Pro!"
 category: portraits
 tags: ["fashion","nano-banana-pro"]
-author: "@iX00AI"
+author: "[@iX00AI](https://x.com/iX00AI)"
 author_url: "https://twitter.com/iX00AI"
 source_url: "https://twitter.com/iX00AI/status/1992065499702693921"
 preview: "/media/portraits/pg-1992065499702693921.webp"

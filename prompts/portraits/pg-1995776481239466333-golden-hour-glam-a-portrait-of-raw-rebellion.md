@@ -2,7 +2,7 @@
 title: "Golden Hour Glam: A Portrait of Raw Rebellion"
 category: portraits
 tags: ["portrait","light","nano-banana-pro"]
-author: "@AIwithkhan"
+author: "[@AIwithkhan](https://x.com/AIwithkhan)"
 author_url: "https://twitter.com/AIwithkhan"
 source_url: "https://twitter.com/AIwithkhan/status/1995776481239466333"
 preview: "/media/portraits/pg-1995776481239466333.webp"

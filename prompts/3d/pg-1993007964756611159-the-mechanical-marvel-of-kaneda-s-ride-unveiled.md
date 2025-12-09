@@ -2,7 +2,7 @@
 title: "The Mechanical Marvel of Kaneda’s Ride Unveiled!"
 category: 3d
 tags: ["nano-banana-pro"]
-author: "@CharaspowerAI"
+author: "[@CharaspowerAI](https://x.com/CharaspowerAI)"
 author_url: "https://twitter.com/CharaspowerAI"
 source_url: "https://twitter.com/CharaspowerAI/status/1993007964756611159"
 preview: "/media/3d/pg-1993007964756611159.webp"

@@ -2,7 +2,7 @@
 title: "Funko Pop Figure Creation"
 category: 3d
 tags: ["chibi", "realistic"]
-author: "@dotey"
+author: "[@dotey](https://x.com/dotey)"
 preview: "/media/3d/funko-pop-figure-creation.webp"
 ---
 

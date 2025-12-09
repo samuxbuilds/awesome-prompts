@@ -2,7 +2,7 @@
 title: "Capture Perfection with Gemini Nano Banana 3.0! 📸"
 category: 3d
 tags: ["portrait","nano-banana-pro"]
-author: "@Nona_xai"
+author: "[@Nona_xai](https://x.com/Nona_xai)"
 author_url: "https://twitter.com/Nona_xai"
 source_url: "https://twitter.com/Nona_xai/status/1996532029379289277"
 preview: "/media/3d/pg-1996532029379289277.webp"

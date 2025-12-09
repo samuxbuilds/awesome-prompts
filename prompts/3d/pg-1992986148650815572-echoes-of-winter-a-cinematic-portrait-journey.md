@@ -2,7 +2,7 @@
 title: "Echoes of Winter: A Cinematic Portrait Journey"
 category: 3d
 tags: ["portrait","nano-banana-pro"]
-author: "@lexx_aura"
+author: "[@lexx_aura](https://x.com/lexx_aura)"
 author_url: "https://twitter.com/lexx_aura"
 source_url: "https://twitter.com/lexx_aura/status/1992986148650815572"
 preview: "/media/3d/pg-1992986148650815572.webp"

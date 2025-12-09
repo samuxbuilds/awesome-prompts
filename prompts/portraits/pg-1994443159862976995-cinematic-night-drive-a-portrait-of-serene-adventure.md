@@ -2,7 +2,7 @@
 title: "Cinematic Night Drive: A Portrait of Serene Adventure"
 category: portraits
 tags: ["portrait","nano-banana-pro"]
-author: "@miilesus"
+author: "[@miilesus](https://x.com/miilesus)"
 author_url: "https://twitter.com/miilesus"
 source_url: "https://twitter.com/miilesus/status/1994443159862976995"
 preview: "/media/portraits/pg-1994443159862976995.webp"

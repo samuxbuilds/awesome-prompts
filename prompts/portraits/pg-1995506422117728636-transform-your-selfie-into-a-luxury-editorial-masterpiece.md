@@ -2,7 +2,7 @@
 title: "Transform Your Selfie into a Luxury Editorial Masterpiece!"
 category: portraits
 tags: ["selfie","pastel","nano-banana-pro"]
-author: "@AIByAbbay"
+author: "[@AIByAbbay](https://x.com/AIByAbbay)"
 author_url: "https://twitter.com/AIByAbbay"
 source_url: "https://twitter.com/AIByAbbay/status/1995506422117728636"
 preview: "/media/portraits/pg-1995506422117728636.webp"

@@ -2,7 +2,7 @@
 title: "Casual Chic: The Ultimate Mirror Selfie Vibe"
 category: portraits
 tags: ["selfie","modern","minimal","light","nano-banana-pro"]
-author: "@lexx_aura"
+author: "[@lexx_aura](https://x.com/lexx_aura)"
 author_url: "https://twitter.com/lexx_aura"
 source_url: "https://twitter.com/lexx_aura/status/1995747839381832159"
 preview: "/media/portraits/pg-1995747839381832159.webp"

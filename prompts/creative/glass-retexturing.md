@@ -2,7 +2,7 @@
 title: "Glass Retexturing"
 category: creative
 tags: ["3d", "realistic", "glass"]
-author: "@egeberkina"
+author: "[@egeberkina](https://x.com/egeberkina)"
 preview: "/media/creative/glass-retexturing.webp"
 ---
 

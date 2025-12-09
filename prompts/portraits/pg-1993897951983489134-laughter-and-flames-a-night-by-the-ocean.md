@@ -2,7 +2,7 @@
 title: "Laughter and Flames: A Night by the Ocean"
 category: portraits
 tags: ["light","nano-banana-pro"]
-author: "@minchoi"
+author: "[@minchoi](https://x.com/minchoi)"
 author_url: "https://twitter.com/minchoi"
 source_url: "https://twitter.com/minchoi/status/1993897951983489134"
 preview: "/media/portraits/pg-1993897951983489134.webp"

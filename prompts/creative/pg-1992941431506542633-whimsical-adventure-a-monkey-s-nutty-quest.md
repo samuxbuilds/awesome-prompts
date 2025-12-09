@@ -2,7 +2,7 @@
 title: "Whimsical Adventure: A Monkey's Nutty Quest"
 category: creative
 tags: ["light","vibrant","nano-banana-pro"]
-author: "@BeanieBlossom"
+author: "[@BeanieBlossom](https://x.com/BeanieBlossom)"
 author_url: "https://twitter.com/BeanieBlossom"
 source_url: "https://twitter.com/BeanieBlossom/status/1992941431506542633"
 preview: "/media/creative/pg-1992941431506542633.webp"

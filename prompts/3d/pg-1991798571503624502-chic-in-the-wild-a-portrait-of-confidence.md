@@ -2,7 +2,7 @@
 title: "Chic in the Wild: A Portrait of Confidence"
 category: 3d
 tags: ["portrait","nature","fashion","light","vibrant","nano-banana-pro"]
-author: "@saniaspeaks_"
+author: "[@saniaspeaks_](https://x.com/saniaspeaks_)"
 author_url: "https://twitter.com/saniaspeaks_"
 source_url: "https://twitter.com/saniaspeaks_/status/1991798571503624502"
 preview: ""

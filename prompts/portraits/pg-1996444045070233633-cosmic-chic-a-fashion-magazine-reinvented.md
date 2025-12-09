@@ -2,7 +2,7 @@
 title: "Cosmic Chic: A Fashion Magazine Reinvented"
 category: portraits
 tags: ["portrait","modern","fashion","vibrant","nano-banana-pro"]
-author: "@qisi_ai"
+author: "[@qisi_ai](https://x.com/qisi_ai)"
 author_url: "https://twitter.com/qisi_ai"
 source_url: "https://twitter.com/qisi_ai/status/1996444045070233633"
 preview: "/media/portraits/pg-1996444045070233633.webp"

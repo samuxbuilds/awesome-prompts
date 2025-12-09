@@ -2,7 +2,7 @@
 title: "Chic Vibes in Neon Nights"
 category: 3d
 tags: ["light","neon","vibrant","nano-banana-pro"]
-author: "@Just_sharon7"
+author: "[@Just_sharon7](https://x.com/Just_sharon7)"
 author_url: "https://twitter.com/Just_sharon7"
 source_url: "https://twitter.com/Just_sharon7/status/1994337846040342654"
 preview: "/media/3d/pg-1994337846040342654.webp"

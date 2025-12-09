@@ -2,7 +2,7 @@
 title: "Steampunk Mechanical Fish"
 category: creative
 tags: ["glass", "steampunk"]
-author: "@f-is-h"
+author: "[@f-is-h](https://x.com/f-is-h)"
 preview: "/media/creative/steampunk-mechanical-fish.webp"
 ---
 

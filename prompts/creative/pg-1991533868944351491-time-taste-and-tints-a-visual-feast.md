@@ -2,7 +2,7 @@
 title: "Time, Taste, and Tints: A Visual Feast"
 category: creative
 tags: ["art","light","nano-banana-pro"]
-author: "@FedericoLKG"
+author: "[@FedericoLKG](https://x.com/FedericoLKG)"
 author_url: "https://twitter.com/FedericoLKG"
 source_url: "https://twitter.com/FedericoLKG/status/1991533868944351491"
 preview: "/media/creative/pg-1991533868944351491.webp"

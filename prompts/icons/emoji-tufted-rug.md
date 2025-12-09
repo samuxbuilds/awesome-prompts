@@ -2,7 +2,7 @@
 title: "Emoji Tufted Rug"
 category: icons
 tags: ["cartoon", "emoji"]
-author: "@gizakdag"
+author: "[@gizakdag](https://x.com/gizakdag)"
 preview: "/media/icons/emoji-tufted-rug.webp"
 ---
 

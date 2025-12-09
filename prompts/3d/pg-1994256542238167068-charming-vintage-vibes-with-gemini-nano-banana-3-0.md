@@ -2,7 +2,7 @@
 title: "Charming Vintage Vibes with Gemini Nano Banana 3.0"
 category: 3d
 tags: ["vintage","modern","nano-banana-pro"]
-author: "@ZaraIrahh"
+author: "[@ZaraIrahh](https://x.com/ZaraIrahh)"
 author_url: "https://twitter.com/ZaraIrahh"
 source_url: "https://twitter.com/ZaraIrahh/status/1994256542238167068"
 preview: "/media/3d/pg-1994256542238167068.webp"

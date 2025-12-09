@@ -2,7 +2,7 @@
 title: "MrBeast Style - Comparison Split"
 category: "thumbnails"
 tags: ["mrbeast", "youtube", "thumbnail", "comparison", "split-screen"]
-author: "@samux"
+author: "[@samux](https://x.com/samux)"
 preview: "/media/thumbnails/mrbeast-comparison.webp"
 ---
 

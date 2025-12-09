@@ -2,7 +2,7 @@
 title: "Sun-Kissed Serenity: A Stylish Summer Portrait"
 category: portraits
 tags: ["portrait","light","nano-banana-pro"]
-author: "@YaseenK7212"
+author: "[@YaseenK7212](https://x.com/YaseenK7212)"
 author_url: "https://twitter.com/YaseenK7212"
 source_url: "https://twitter.com/YaseenK7212/status/1994252212571181224"
 preview: "/media/portraits/pg-1994252212571181224.webp"

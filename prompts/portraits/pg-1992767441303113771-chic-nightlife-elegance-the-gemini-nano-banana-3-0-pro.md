@@ -2,7 +2,7 @@
 title: "Chic Nightlife Elegance: The Gemini Nano Banana 3.0 Pro"
 category: portraits
 tags: ["fashion","nano-banana-pro"]
-author: "@chatgptpaglu"
+author: "[@chatgptpaglu](https://x.com/chatgptpaglu)"
 author_url: "https://twitter.com/chatgptpaglu"
 source_url: "https://twitter.com/chatgptpaglu/status/1992767441303113771"
 preview: "/media/portraits/pg-1992767441303113771.webp"

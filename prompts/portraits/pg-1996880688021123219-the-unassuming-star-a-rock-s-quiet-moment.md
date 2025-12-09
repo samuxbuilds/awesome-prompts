@@ -2,7 +2,7 @@
 title: "The Unassuming Star: A Rock's Quiet Moment"
 category: portraits
 tags: ["nano-banana-pro"]
-author: "@ProperPrompter"
+author: "[@ProperPrompter](https://x.com/ProperPrompter)"
 author_url: "https://twitter.com/ProperPrompter"
 source_url: "https://twitter.com/ProperPrompter/status/1996880688021123219"
 preview: "/media/portraits/pg-1996880688021123219.webp"

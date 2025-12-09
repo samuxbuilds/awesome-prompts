@@ -2,7 +2,7 @@
 title: "Gemini Nano Banana 3.0: A Playful Day at the Theme Park"
 category: portraits
 tags: ["nano-banana-pro"]
-author: "@rowanali09"
+author: "[@rowanali09](https://x.com/rowanali09)"
 author_url: "https://twitter.com/rowanali09"
 source_url: "https://twitter.com/rowanali09/status/1996812005714358750"
 preview: "/media/portraits/pg-1996812005714358750.webp"

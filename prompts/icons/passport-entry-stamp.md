@@ -2,7 +2,7 @@
 title: "Passport Entry Stamp"
 category: icons
 tags: ["realistic", "ai-art"]
-author: "@M_w14_"
+author: "[@M_w14_](https://x.com/M_w14_)"
 preview: "/media/icons/passport-entry-stamp.webp"
 ---
 

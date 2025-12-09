@@ -2,7 +2,7 @@
 title: "Marilyn Monroe: The Modern Icon in Times Square"
 category: icons
 tags: ["modern","nano-banana-pro"]
-author: "@maxescu"
+author: "[@maxescu](https://x.com/maxescu)"
 author_url: "https://twitter.com/maxescu"
 source_url: "https://twitter.com/maxescu/status/1994465117187022969"
 preview: "/media/icons/pg-1994465117187022969.webp"

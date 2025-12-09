@@ -2,7 +2,7 @@
 title: "Elevate Your Style: The Minimalist Muse"
 category: portraits
 tags: ["minimal","nano-banana-pro"]
-author: "@Harboris_27"
+author: "[@Harboris_27](https://x.com/Harboris_27)"
 author_url: "https://twitter.com/Harboris_27"
 source_url: "https://twitter.com/Harboris_27/status/1996483778764812462"
 preview: "/media/portraits/pg-1996483778764812462.webp"

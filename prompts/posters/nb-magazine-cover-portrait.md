@@ -2,7 +2,7 @@
 title: "Magazine Cover Portrait"
 category: posters
 tags: ["portrait", "fashion"]
-author: "@nanobanana-pro"
+author: "[@nanobanana-pro](https://x.com/nanobanana-pro)"
 preview: "/media/posters/nb-magazine-cover-portrait.webp"
 ---
 

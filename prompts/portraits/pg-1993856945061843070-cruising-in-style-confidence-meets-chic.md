@@ -2,7 +2,7 @@
 title: "Cruising in Style: Confidence Meets Chic"
 category: portraits
 tags: ["dark","nano-banana-pro"]
-author: "@SimplyAnnisa"
+author: "[@SimplyAnnisa](https://x.com/SimplyAnnisa)"
 author_url: "https://twitter.com/SimplyAnnisa"
 source_url: "https://twitter.com/SimplyAnnisa/status/1993856945061843070"
 preview: "/media/portraits/pg-1993856945061843070.webp"

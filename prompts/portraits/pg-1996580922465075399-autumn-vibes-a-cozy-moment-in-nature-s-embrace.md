@@ -2,7 +2,7 @@
 title: "Autumn Vibes: A Cozy Moment in Nature's Embrace"
 category: portraits
 tags: ["nature","vibrant","nano-banana-pro"]
-author: "@rowanali09"
+author: "[@rowanali09](https://x.com/rowanali09)"
 author_url: "https://twitter.com/rowanali09"
 source_url: "https://twitter.com/rowanali09/status/1996580922465075399"
 preview: "/media/portraits/pg-1996580922465075399.webp"

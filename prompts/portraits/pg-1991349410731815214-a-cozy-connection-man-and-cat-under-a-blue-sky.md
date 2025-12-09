@@ -2,7 +2,7 @@
 title: "A Cozy Connection: Man and Cat Under a Blue Sky"
 category: portraits
 tags: ["portrait","art","nano-banana-pro"]
-author: "@Sheldon056"
+author: "[@Sheldon056](https://x.com/Sheldon056)"
 author_url: "https://twitter.com/Sheldon056"
 source_url: "https://twitter.com/Sheldon056/status/1991349410731815214"
 preview: "/media/portraits/pg-1991349410731815214.webp"

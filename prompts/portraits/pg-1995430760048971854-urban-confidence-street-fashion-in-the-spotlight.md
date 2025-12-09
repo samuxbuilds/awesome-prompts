@@ -2,7 +2,7 @@
 title: "Urban Confidence: Street Fashion in the Spotlight"
 category: portraits
 tags: ["urban","fashion","light","vibrant","nano-banana-pro"]
-author: "@Taaruk_"
+author: "[@Taaruk_](https://x.com/Taaruk_)"
 author_url: "https://twitter.com/Taaruk_"
 source_url: "https://twitter.com/Taaruk_/status/1995430760048971854"
 preview: "/media/portraits/pg-1995430760048971854.webp"

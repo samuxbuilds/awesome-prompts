@@ -2,7 +2,7 @@
 title: "Blooming Whimsy: A Dreamy Rose Girl Mural"
 category: portraits
 tags: ["cartoon","art","nature","vibrant","nano-banana-pro"]
-author: "@dotey"
+author: "[@dotey](https://x.com/dotey)"
 author_url: "https://twitter.com/dotey"
 source_url: "https://twitter.com/dotey/status/1991958132419919975"
 preview: "/media/portraits/pg-1991958132419919975.webp"

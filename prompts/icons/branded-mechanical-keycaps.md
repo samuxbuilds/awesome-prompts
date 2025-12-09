@@ -2,7 +2,7 @@
 title: "Branded Mechanical Keycaps"
 category: icons
 tags: ["3d", "realistic", "logo"]
-author: "@egeberkina"
+author: "[@egeberkina](https://x.com/egeberkina)"
 preview: "/media/icons/branded-mechanical-keycaps.webp"
 ---
 

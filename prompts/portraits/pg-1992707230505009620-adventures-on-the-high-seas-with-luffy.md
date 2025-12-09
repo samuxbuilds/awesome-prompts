@@ -2,7 +2,7 @@
 title: "Adventures on the High Seas with Luffy!"
 category: portraits
 tags: ["nano-banana-pro"]
-author: "@CharaspowerAI"
+author: "[@CharaspowerAI](https://x.com/CharaspowerAI)"
 author_url: "https://twitter.com/CharaspowerAI"
 source_url: "https://twitter.com/CharaspowerAI/status/1992707230505009620"
 preview: "/media/portraits/pg-1992707230505009620.webp"

@@ -2,7 +2,7 @@
 title: "Celestial Glow: A Moment of Surrender"
 category: portraits
 tags: ["minimal","light","nano-banana-pro"]
-author: "@AIwithkhan"
+author: "[@AIwithkhan](https://x.com/AIwithkhan)"
 author_url: "https://twitter.com/AIwithkhan"
 source_url: "https://twitter.com/AIwithkhan/status/1996863405706113150"
 preview: "/media/portraits/pg-1996863405706113150.webp"

@@ -2,7 +2,7 @@
 title: "Physical Destruction Effect Card (Lara Croft)"
 category: creative
 tags: ["realistic", "illustration", "icon"]
-author: "@op7418"
+author: "[@op7418](https://x.com/op7418)"
 preview: "/media/creative/physical-destruction-effect-card-lara-croft.webp"
 ---
 

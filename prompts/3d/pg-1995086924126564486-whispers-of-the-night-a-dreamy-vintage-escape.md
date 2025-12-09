@@ -2,7 +2,7 @@
 title: "Whispers of the Night: A Dreamy Vintage Escape"
 category: 3d
 tags: ["vintage","light","nano-banana-pro"]
-author: "@xmliisu"
+author: "[@xmliisu](https://x.com/xmliisu)"
 author_url: "https://twitter.com/xmliisu"
 source_url: "https://twitter.com/xmliisu/status/1995086924126564486"
 preview: "/media/3d/pg-1995086924126564486.webp"

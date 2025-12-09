@@ -2,7 +2,7 @@
 title: "Crafting Your Unique Doodle Portrait"
 category: 3d
 tags: ["portrait","vibrant","nano-banana-pro"]
-author: "@ecommartinez"
+author: "[@ecommartinez](https://x.com/ecommartinez)"
 author_url: "https://twitter.com/ecommartinez"
 source_url: "https://twitter.com/ecommartinez/status/1993005355639751022"
 preview: "/media/3d/pg-1993005355639751022.webp"

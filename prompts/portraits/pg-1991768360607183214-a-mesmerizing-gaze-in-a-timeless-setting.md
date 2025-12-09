@@ -2,7 +2,7 @@
 title: "A Mesmerizing Gaze in a Timeless Setting"
 category: portraits
 tags: ["portrait","art","light","nano-banana-pro"]
-author: "@AIwithkhan"
+author: "[@AIwithkhan](https://x.com/AIwithkhan)"
 author_url: "https://twitter.com/AIwithkhan"
 source_url: "https://twitter.com/AIwithkhan/status/1991768360607183214"
 preview: "/media/portraits/pg-1991768360607183214.webp"

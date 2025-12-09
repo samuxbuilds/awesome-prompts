@@ -2,7 +2,7 @@
 title: "Glamour Meets Play: A Surreal Billiard Fantasy"
 category: portraits
 tags: ["fantasy","pastel","nano-banana-pro"]
-author: "@_MehdiSharifi_"
+author: "[@_MehdiSharifi_](https://x.com/_MehdiSharifi_)"
 author_url: "https://twitter.com/_MehdiSharifi_"
 source_url: "https://twitter.com/_MehdiSharifi_/status/1995613211287031935"
 preview: "/media/portraits/pg-1995613211287031935.webp"

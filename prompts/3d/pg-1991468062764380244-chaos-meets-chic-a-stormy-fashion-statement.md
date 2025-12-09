@@ -2,7 +2,7 @@
 title: "Chaos Meets Chic: A Stormy Fashion Statement"
 category: 3d
 tags: ["portrait","urban","fashion","nano-banana-pro"]
-author: "@ShreyaYadav___"
+author: "[@ShreyaYadav___](https://x.com/ShreyaYadav___)"
 author_url: "https://twitter.com/ShreyaYadav___"
 source_url: "https://twitter.com/ShreyaYadav___/status/1991468062764380244"
 preview: "/media/3d/pg-1991468062764380244.webp"

@@ -2,7 +2,7 @@
 title: "Chic Coastal Vibes with the Google Nano Banana Pro"
 category: 3d
 tags: ["nano-banana-pro"]
-author: "@saniaspeaks_"
+author: "[@saniaspeaks_](https://x.com/saniaspeaks_)"
 author_url: "https://twitter.com/saniaspeaks_"
 source_url: "https://twitter.com/saniaspeaks_/status/1995680081042440554"
 preview: "/media/3d/pg-1995680081042440554.webp"

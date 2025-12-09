@@ -2,7 +2,7 @@
 title: "Chiaroscuro Elegance: The Gemini Nano Banana 3.0 Portrait"
 category: 3d
 tags: ["portrait","light","nano-banana-pro"]
-author: "@YaseenK7212"
+author: "[@YaseenK7212](https://x.com/YaseenK7212)"
 author_url: "https://twitter.com/YaseenK7212"
 source_url: "https://twitter.com/YaseenK7212/status/1996489036337213933"
 preview: "/media/3d/pg-1996489036337213933.webp"

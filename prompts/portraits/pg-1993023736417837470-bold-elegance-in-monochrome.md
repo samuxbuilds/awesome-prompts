@@ -2,7 +2,7 @@
 title: "Bold Elegance in Monochrome"
 category: portraits
 tags: ["portrait","light","nano-banana-pro"]
-author: "@saniaspeaks_"
+author: "[@saniaspeaks_](https://x.com/saniaspeaks_)"
 author_url: "https://twitter.com/saniaspeaks_"
 source_url: "https://twitter.com/saniaspeaks_/status/1993023736417837470"
 preview: ""

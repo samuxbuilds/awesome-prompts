@@ -2,7 +2,7 @@
 title: "Xiaohongshu Cover Image"
 category: posters
 tags: ["illustration", "icon", "character"]
-author: "@balconychy"
+author: "[@balconychy](https://x.com/balconychy)"
 preview: "/media/posters/xiaohongshu-cover-image.webp"
 ---
 

@@ -2,7 +2,7 @@
 title: "Craft the Perfect Scene with Nano Banana's 3x3 Grid Magic"
 category: portraits
 tags: ["nano-banana-pro"]
-author: "@tkvtk"
+author: "[@tkvtk](https://x.com/tkvtk)"
 author_url: "https://twitter.com/tkvtk"
 source_url: "https://twitter.com/tkvtk/status/1995462524704362683"
 preview: "/media/portraits/pg-1995462524704362683.webp"

@@ -2,7 +2,7 @@
 title: "Café Vibes: Parisian Mornings Captured"
 category: portraits
 tags: ["nano-banana-pro"]
-author: "@rovvmut_"
+author: "[@rovvmut_](https://x.com/rovvmut_)"
 author_url: "https://twitter.com/rovvmut_"
 source_url: "https://twitter.com/rovvmut_/status/1996186327491162275"
 preview: "/media/portraits/pg-1996186327491162275.webp"

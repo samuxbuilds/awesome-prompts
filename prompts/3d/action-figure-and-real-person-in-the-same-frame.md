@@ -2,7 +2,7 @@
 title: "Action Figure and Real Person in the Same Frame"
 category: 3d
 tags: ["anime", "ai-art"]
-author: "@dotey"
+author: "[@dotey](https://x.com/dotey)"
 preview: "/media/3d/action-figure-and-real-person-in-the-same-frame.webp"
 ---
 

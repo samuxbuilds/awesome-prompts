@@ -2,7 +2,7 @@
 title: "When Reality Meets 90s Cartoon Magic"
 category: 3d
 tags: ["cartoon","art","nano-banana-pro"]
-author: "@ShreyaYadav___"
+author: "[@ShreyaYadav___](https://x.com/ShreyaYadav___)"
 author_url: "https://twitter.com/ShreyaYadav___"
 source_url: "https://twitter.com/ShreyaYadav___/status/1994060915478811002"
 preview: "/media/3d/pg-1994060915478811002.webp"

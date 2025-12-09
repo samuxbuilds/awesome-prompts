@@ -2,7 +2,7 @@
 title: "Seeing the World Through Myopic Lenses"
 category: creative
 tags: ["vibrant","nano-banana-pro"]
-author: "@umesh_ai"
+author: "[@umesh_ai](https://x.com/umesh_ai)"
 author_url: "https://twitter.com/umesh_ai"
 source_url: "https://twitter.com/umesh_ai/status/1997177277327856085"
 preview: "/media/creative/pg-1997177277327856085.webp"

@@ -2,7 +2,7 @@
 title: "Classroom Confidence: A Modern Scholar's Portrait"
 category: portraits
 tags: ["portrait","modern","vibrant","nano-banana-pro"]
-author: "@saniaspeaks_"
+author: "[@saniaspeaks_](https://x.com/saniaspeaks_)"
 author_url: "https://twitter.com/saniaspeaks_"
 source_url: "https://twitter.com/saniaspeaks_/status/1996416718873444749"
 preview: "/media/portraits/pg-1996416718873444749.webp"

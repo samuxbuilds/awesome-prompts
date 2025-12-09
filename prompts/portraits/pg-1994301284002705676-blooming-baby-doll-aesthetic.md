@@ -2,7 +2,7 @@
 title: "Blooming Baby Doll Aesthetic 🌸"
 category: portraits
 tags: ["neon","nano-banana-pro"]
-author: "@xmiiru_"
+author: "[@xmiiru_](https://x.com/xmiiru_)"
 author_url: "https://twitter.com/xmiiru_"
 source_url: "https://twitter.com/xmiiru_/status/1994301284002705676"
 preview: "/media/portraits/pg-1994301284002705676.webp"

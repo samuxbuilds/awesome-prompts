@@ -2,7 +2,7 @@
 title: "Seductive Shadows: A Portrait of Confidence"
 category: portraits
 tags: ["portrait","dark","light","nano-banana-pro"]
-author: "@kingofdairyque"
+author: "[@kingofdairyque](https://x.com/kingofdairyque)"
 author_url: "https://twitter.com/kingofdairyque"
 source_url: "https://twitter.com/kingofdairyque/status/1992863320421097923"
 preview: "/media/portraits/pg-1992863320421097923.webp"

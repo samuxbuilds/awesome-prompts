@@ -2,7 +2,7 @@
 title: "Aging Through the Years"
 category: creative
 tags: ["creative", "ai-art"]
-author: "@nanobanana-pro"
+author: "[@nanobanana-pro](https://x.com/nanobanana-pro)"
 preview: "/media/creative/nb-aging-through-the-years.webp"
 ---
 

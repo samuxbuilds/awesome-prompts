@@ -2,7 +2,7 @@
 title: "Unleashing Vibrancy: A Dance of Fabric and Storm"
 category: 3d
 tags: ["nano-banana-pro"]
-author: "@ShreyaYadav___"
+author: "[@ShreyaYadav___](https://x.com/ShreyaYadav___)"
 author_url: "https://twitter.com/ShreyaYadav___"
 source_url: "https://twitter.com/ShreyaYadav___/status/1992953432668536956"
 preview: "/media/3d/pg-1992953432668536956.webp"

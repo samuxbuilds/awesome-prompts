@@ -2,7 +2,7 @@
 title: "Retro Glam: A Nostalgic 80s Captured Moment"
 category: 3d
 tags: ["vintage","nano-banana-pro"]
-author: "@SimplyAnnisa"
+author: "[@SimplyAnnisa](https://x.com/SimplyAnnisa)"
 author_url: "https://twitter.com/SimplyAnnisa"
 source_url: "https://twitter.com/SimplyAnnisa/status/1994997797628907764"
 preview: "/media/3d/pg-1994997797628907764.webp"

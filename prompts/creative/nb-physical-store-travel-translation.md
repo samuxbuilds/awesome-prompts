@@ -2,7 +2,7 @@
 title: "Physical Store/Travel Translation"
 category: creative
 tags: ["character", "ai-art"]
-author: "@nanobanana-pro"
+author: "[@nanobanana-pro](https://x.com/nanobanana-pro)"
 preview: "/media/creative/nb-physical-store-travel-translation.webp"
 ---
 

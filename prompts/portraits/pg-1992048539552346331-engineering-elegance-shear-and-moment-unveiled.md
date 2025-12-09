@@ -2,7 +2,7 @@
 title: "Engineering Elegance: Shear and Moment Unveiled"
 category: portraits
 tags: ["nano-banana-pro"]
-author: "@MJAMIV"
+author: "[@MJAMIV](https://x.com/MJAMIV)"
 author_url: "https://twitter.com/MJAMIV"
 source_url: "https://twitter.com/MJAMIV/status/1992048539552346331"
 preview: "/media/portraits/pg-1992048539552346331.webp"

@@ -2,7 +2,7 @@
 title: "Urban Vibes: A Streetwear Story in Four Frames"
 category: portraits
 tags: ["urban","nano-banana-pro"]
-author: "@_MehdiSharifi_"
+author: "[@_MehdiSharifi_](https://x.com/_MehdiSharifi_)"
 author_url: "https://twitter.com/_MehdiSharifi_"
 source_url: "https://twitter.com/_MehdiSharifi_/status/1994166422251950451"
 preview: "/media/portraits/pg-1994166422251950451.webp"

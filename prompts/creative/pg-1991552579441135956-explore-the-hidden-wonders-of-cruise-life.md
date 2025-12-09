@@ -2,7 +2,7 @@
 title: "Explore the Hidden Wonders of Cruise Life!"
 category: creative
 tags: ["travel","vibrant","nano-banana-pro"]
-author: "@gokayfem"
+author: "[@gokayfem](https://x.com/gokayfem)"
 author_url: "https://twitter.com/gokayfem"
 source_url: "https://twitter.com/gokayfem/status/1991552579441135956"
 preview: "/media/creative/pg-1991552579441135956.webp"

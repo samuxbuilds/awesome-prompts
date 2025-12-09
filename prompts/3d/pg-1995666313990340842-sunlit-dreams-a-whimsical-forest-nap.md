@@ -2,7 +2,7 @@
 title: "Sunlit Dreams: A Whimsical Forest Nap"
 category: 3d
 tags: ["light","nano-banana-pro"]
-author: "@ShreyaYadav___"
+author: "[@ShreyaYadav___](https://x.com/ShreyaYadav___)"
 author_url: "https://twitter.com/ShreyaYadav___"
 source_url: "https://twitter.com/ShreyaYadav___/status/1995666313990340842"
 preview: "/media/3d/pg-1995666313990340842.webp"

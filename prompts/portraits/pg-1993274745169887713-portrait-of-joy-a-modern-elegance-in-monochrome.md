@@ -2,7 +2,7 @@
 title: "Portrait of Joy: A Modern Elegance in Monochrome"
 category: portraits
 tags: ["portrait","art","modern","light","nano-banana-pro"]
-author: "@mehvishs25"
+author: "[@mehvishs25](https://x.com/mehvishs25)"
 author_url: "https://twitter.com/mehvishs25"
 source_url: "https://twitter.com/mehvishs25/status/1993274745169887713"
 preview: "/media/portraits/pg-1993274745169887713.webp"

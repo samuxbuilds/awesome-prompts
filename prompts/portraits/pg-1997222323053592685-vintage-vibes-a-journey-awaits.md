@@ -2,7 +2,7 @@
 title: "Vintage Vibes: A Journey Awaits"
 category: portraits
 tags: ["vintage","travel","light","nano-banana-pro"]
-author: "@Sophia_here12"
+author: "[@Sophia_here12](https://x.com/Sophia_here12)"
 author_url: "https://twitter.com/Sophia_here12"
 source_url: "https://twitter.com/Sophia_here12/status/1997222323053592685"
 preview: "/media/portraits/pg-1997222323053592685.webp"

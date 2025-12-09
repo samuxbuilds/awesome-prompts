@@ -2,7 +2,7 @@
 title: "Retro Gamer Vibes: A Nostalgic Portrait in a Gamer's Paradise"
 category: 3d
 tags: ["portrait","vintage","nano-banana-pro"]
-author: "@Arminn_Ai"
+author: "[@Arminn_Ai](https://x.com/Arminn_Ai)"
 author_url: "https://twitter.com/Arminn_Ai"
 source_url: "https://twitter.com/Arminn_Ai/status/1995209201522495851"
 preview: "/media/3d/pg-1995209201522495851.webp"

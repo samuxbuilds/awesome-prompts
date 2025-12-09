@@ -2,7 +2,7 @@
 title: "A Cinematic Triptych of Moody Elegance"
 category: portraits
 tags: ["oil","nano-banana-pro"]
-author: "@ShreyaYadav___"
+author: "[@ShreyaYadav___](https://x.com/ShreyaYadav___)"
 author_url: "https://twitter.com/ShreyaYadav___"
 source_url: "https://twitter.com/ShreyaYadav___/status/1993887007874142296"
 preview: "/media/portraits/pg-1993887007874142296.webp"

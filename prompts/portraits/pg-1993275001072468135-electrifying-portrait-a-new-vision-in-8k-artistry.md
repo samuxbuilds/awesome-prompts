@@ -2,7 +2,7 @@
 title: "Electrifying Portrait: A New Vision in 8K Artistry"
 category: portraits
 tags: ["portrait","art","neon","vibrant","nano-banana-pro"]
-author: "@ShreyaYadav___"
+author: "[@ShreyaYadav___](https://x.com/ShreyaYadav___)"
 author_url: "https://twitter.com/ShreyaYadav___"
 source_url: "https://twitter.com/ShreyaYadav___/status/1993275001072468135"
 preview: "/media/portraits/pg-1993275001072468135.webp"

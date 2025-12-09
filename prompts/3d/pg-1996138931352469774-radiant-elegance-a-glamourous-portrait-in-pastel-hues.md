@@ -2,7 +2,7 @@
 title: "Radiant Elegance: A Glamourous Portrait in Pastel Hues"
 category: 3d
 tags: ["portrait","pastel","nano-banana-pro"]
-author: "@woshi_ai"
+author: "[@woshi_ai](https://x.com/woshi_ai)"
 author_url: "https://twitter.com/woshi_ai"
 source_url: "https://twitter.com/woshi_ai/status/1996138931352469774"
 preview: "/media/3d/pg-1996138931352469774.webp"

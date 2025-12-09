@@ -2,7 +2,7 @@
 title: "Veiled in Shadows: A Portrait of Mystery"
 category: portraits
 tags: ["portrait","nano-banana-pro"]
-author: "@AIwithkhan"
+author: "[@AIwithkhan](https://x.com/AIwithkhan)"
 author_url: "https://twitter.com/AIwithkhan"
 source_url: "https://twitter.com/AIwithkhan/status/1996440524853838224"
 preview: "/media/portraits/pg-1996440524853838224.webp"

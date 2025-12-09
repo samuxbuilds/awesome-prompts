@@ -2,7 +2,7 @@
 title: "Candid Charm: A Flashback Through the Lens"
 category: portraits
 tags: ["light","nano-banana-pro"]
-author: "@ShreyaYadav___"
+author: "[@ShreyaYadav___](https://x.com/ShreyaYadav___)"
 author_url: "https://twitter.com/ShreyaYadav___"
 source_url: "https://twitter.com/ShreyaYadav___/status/1996773318914199846"
 preview: "/media/portraits/pg-1996773318914199846.webp"

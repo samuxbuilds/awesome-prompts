@@ -2,7 +2,7 @@
 title: "Diner Delights: A Whimsical Fast-Food Fantasy"
 category: portraits
 tags: ["fantasy","food","light","neon","nano-banana-pro"]
-author: "@ecommartinez"
+author: "[@ecommartinez](https://x.com/ecommartinez)"
 author_url: "https://twitter.com/ecommartinez"
 source_url: "https://twitter.com/ecommartinez/status/1994126063656644727"
 preview: "/media/portraits/pg-1994126063656644727.webp"

@@ -2,7 +2,7 @@
 title: "Revolutionizing AI: The Nano Banana Pro Unleashes Image Power!"
 category: posters
 tags: ["nano-banana-pro"]
-author: "@raizamrtn"
+author: "[@raizamrtn](https://x.com/raizamrtn)"
 author_url: "https://twitter.com/raizamrtn"
 source_url: "https://twitter.com/raizamrtn/status/1991541943969673542"
 preview: "/media/posters/pg-1991541943969673542.webp"

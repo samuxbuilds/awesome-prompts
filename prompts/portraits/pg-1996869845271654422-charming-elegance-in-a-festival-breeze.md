@@ -2,7 +2,7 @@
 title: "Charming Elegance in a Festival Breeze"
 category: portraits
 tags: ["nano-banana-pro"]
-author: "@Ankit_patel211"
+author: "[@Ankit_patel211](https://x.com/Ankit_patel211)"
 author_url: "https://twitter.com/Ankit_patel211"
 source_url: "https://twitter.com/Ankit_patel211/status/1996869845271654422"
 preview: "/media/portraits/pg-1996869845271654422.webp"

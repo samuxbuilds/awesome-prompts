@@ -2,7 +2,7 @@
 title: "Elegance in Silence: A Modern Gallery Encounter"
 category: 3d
 tags: ["art","modern","minimal","vibrant","nano-banana-pro"]
-author: "@oggii_0"
+author: "[@oggii_0](https://x.com/oggii_0)"
 author_url: "https://twitter.com/oggii_0"
 source_url: "https://twitter.com/oggii_0/status/1991431970325188678"
 preview: "/media/3d/pg-1991431970325188678.webp"

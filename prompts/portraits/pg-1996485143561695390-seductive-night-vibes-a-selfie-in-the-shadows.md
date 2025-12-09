@@ -2,7 +2,7 @@
 title: "Seductive Night Vibes: A Selfie in the Shadows"
 category: portraits
 tags: ["portrait","selfie","fashion","light","nano-banana-pro"]
-author: "@xmliisu"
+author: "[@xmliisu](https://x.com/xmliisu)"
 author_url: "https://twitter.com/xmliisu"
 source_url: "https://twitter.com/xmliisu/status/1996485143561695390"
 preview: "/media/portraits/pg-1996485143561695390.webp"

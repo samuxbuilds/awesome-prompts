@@ -2,7 +2,7 @@
 title: "Three Animals Selfie at Landmark"
 category: portraits
 tags: ["cartoon", "realistic", "icon", "animal"]
-author: "@berryxia_ai"
+author: "[@berryxia_ai](https://x.com/berryxia_ai)"
 preview: "/media/portraits/three-animals-selfie-at-landmark.webp"
 ---
 

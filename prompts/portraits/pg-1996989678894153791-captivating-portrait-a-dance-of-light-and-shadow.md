@@ -2,7 +2,7 @@
 title: "Captivating Portrait: A Dance of Light and Shadow"
 category: portraits
 tags: ["portrait","art","light","nano-banana-pro"]
-author: "@qisi_ai"
+author: "[@qisi_ai](https://x.com/qisi_ai)"
 author_url: "https://twitter.com/qisi_ai"
 source_url: "https://twitter.com/qisi_ai/status/1996989678894153791"
 preview: "/media/portraits/pg-1996989678894153791.webp"

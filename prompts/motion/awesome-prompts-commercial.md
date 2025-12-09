@@ -2,7 +2,7 @@
 title: "Awesome Prompts Motion Video"
 category: motion
 tags: ["neobrutalist", "gsap", "video", "launch", "3d-text", "motion-video"]
-author: "@samuxbuilds"
+author: "[@samuxbuilds](https://x.com/samuxbuilds)"
 previewVideo: "/media/motion/awesome-prompts.webm"
 ---
 

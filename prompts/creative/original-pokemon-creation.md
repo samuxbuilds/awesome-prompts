@@ -2,7 +2,7 @@
 title: "Original Pokemon Creation"
 category: creative
 tags: ["retro", "cute", "illustration", "fantasy", "character"]
-author: "@Anima_Labs"
+author: "[@Anima_Labs](https://x.com/Anima_Labs)"
 preview: "/media/creative/original-pokemon-creation.webp"
 ---
 

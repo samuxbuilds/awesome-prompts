@@ -2,7 +2,7 @@
 title: "Financial Sankey Diagram Visualization"
 category: creative
 tags: ["minimalist", "icon", "logo", "neon", "professional"]
-author: "@nanobanana-pro"
+author: "[@nanobanana-pro](https://x.com/nanobanana-pro)"
 preview: "/media/creative/nb-financial-sankey-diagram-visualization.webp"
 ---
 

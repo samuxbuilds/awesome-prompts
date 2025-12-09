@@ -2,7 +2,7 @@
 title: "Neon Siren: Elegance Underwater"
 category: 3d
 tags: ["fashion","neon","nano-banana-pro"]
-author: "@IamEmily2050"
+author: "[@IamEmily2050](https://x.com/IamEmily2050)"
 author_url: "https://twitter.com/IamEmily2050"
 source_url: "https://twitter.com/IamEmily2050/status/1997065515035251194"
 preview: "/media/3d/pg-1997065515035251194.webp"

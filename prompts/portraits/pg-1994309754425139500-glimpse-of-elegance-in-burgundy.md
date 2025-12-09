@@ -2,7 +2,7 @@
 title: "Glimpse of Elegance in Burgundy"
 category: portraits
 tags: ["portrait","fashion","dark","nano-banana-pro"]
-author: "@Just_sharon7"
+author: "[@Just_sharon7](https://x.com/Just_sharon7)"
 author_url: "https://twitter.com/Just_sharon7"
 source_url: "https://twitter.com/Just_sharon7/status/1994309754425139500"
 preview: "/media/portraits/pg-1994309754425139500.webp"

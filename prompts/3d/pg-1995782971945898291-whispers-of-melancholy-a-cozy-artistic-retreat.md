@@ -2,7 +2,7 @@
 title: "Whispers of Melancholy: A Cozy Artistic Retreat"
 category: 3d
 tags: ["art","light","vibrant","nano-banana-pro"]
-author: "@NameIsSudee"
+author: "[@NameIsSudee](https://x.com/NameIsSudee)"
 author_url: "https://twitter.com/NameIsSudee"
 source_url: "https://twitter.com/NameIsSudee/status/1995782971945898291"
 preview: "/media/3d/pg-1995782971945898291.webp"

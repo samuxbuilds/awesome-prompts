@@ -2,7 +2,7 @@
 title: "Black and White Portrait Art"
 category: portraits
 tags: ["portrait", "logo"]
-author: "@ZHO_ZHO_ZHO"
+author: "[@ZHO_ZHO_ZHO](https://x.com/ZHO_ZHO_ZHO)"
 preview: "/media/portraits/black-and-white-portrait-art.webp"
 ---
 

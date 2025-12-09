@@ -2,7 +2,7 @@
 title: "Ethereal Elegance: The Gemini 3.0 Nano Banana"
 category: portraits
 tags: ["portrait","minimal","nano-banana-pro"]
-author: "@xmliisu"
+author: "[@xmliisu](https://x.com/xmliisu)"
 author_url: "https://twitter.com/xmliisu"
 source_url: "https://twitter.com/xmliisu/status/1991791415223853218"
 preview: "/media/portraits/pg-1991791415223853218.webp"

@@ -2,7 +2,7 @@
 title: "Chillin' Under Neon Lights: A Night in a Yellow Dream"
 category: 3d
 tags: ["vintage","modern","light","neon","vibrant","nano-banana-pro"]
-author: "@kingofdairyque"
+author: "[@kingofdairyque](https://x.com/kingofdairyque)"
 author_url: "https://twitter.com/kingofdairyque"
 source_url: "https://twitter.com/kingofdairyque/status/1993904258559693157"
 preview: "/media/3d/pg-1993904258559693157.webp"

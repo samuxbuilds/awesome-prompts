@@ -2,7 +2,7 @@
 title: "Ancient Wonders Reimagined: The Pyramids and Sphinx in Their Glory"
 category: portraits
 tags: ["art","nano-banana-pro"]
-author: "@fofrAI"
+author: "[@fofrAI](https://x.com/fofrAI)"
 author_url: "https://twitter.com/fofrAI"
 source_url: "https://twitter.com/fofrAI/status/1991610168141058243"
 preview: "/media/portraits/pg-1991610168141058243.webp"

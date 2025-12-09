@@ -2,7 +2,7 @@
 title: "Fantasy Cartoon Illustration"
 category: creative
 tags: ["cartoon", "illustration", "fantasy", "character"]
-author: "@dotey"
+author: "[@dotey](https://x.com/dotey)"
 preview: "/media/creative/fantasy-cartoon-illustration.webp"
 ---
 

@@ -2,7 +2,7 @@
 title: "Winter Magic: Laughs and Cocoa at Chicago's Christmas Market"
 category: portraits
 tags: ["light","nano-banana-pro"]
-author: "@minchoi"
+author: "[@minchoi](https://x.com/minchoi)"
 author_url: "https://twitter.com/minchoi"
 source_url: "https://twitter.com/minchoi/status/1993897957238739384"
 preview: "/media/portraits/pg-1993897957238739384.webp"

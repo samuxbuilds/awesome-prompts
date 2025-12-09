@@ -2,7 +2,7 @@
 title: "A Whisper of Spring: Serenity in Bloom"
 category: portraits
 tags: ["nature","light","nano-banana-pro"]
-author: "@Sophia_here12"
+author: "[@Sophia_here12](https://x.com/Sophia_here12)"
 author_url: "https://twitter.com/Sophia_here12"
 source_url: "https://twitter.com/Sophia_here12/status/1996120648049987965"
 preview: "/media/portraits/pg-1996120648049987965.webp"

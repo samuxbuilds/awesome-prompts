@@ -2,7 +2,7 @@
 title: "Extremely Ordinary iPhone Selfie"
 category: portraits
 tags: ["creative", "ai-art"]
-author: "@jiamimaodashu"
+author: "[@jiamimaodashu](https://x.com/jiamimaodashu)"
 preview: "/media/portraits/extremely-ordinary-iphone-selfie.webp"
 ---
 

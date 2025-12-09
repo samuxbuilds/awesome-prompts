@@ -2,7 +2,7 @@
 title: "Heartfelt Style: Cozy Vibes in a Chic Selfie"
 category: 3d
 tags: ["selfie","art","light","nano-banana-pro"]
-author: "@SimplyAnnisa"
+author: "[@SimplyAnnisa](https://x.com/SimplyAnnisa)"
 author_url: "https://twitter.com/SimplyAnnisa"
 source_url: "https://twitter.com/SimplyAnnisa/status/1996484114573340841"
 preview: "/media/3d/pg-1996484114573340841.webp"

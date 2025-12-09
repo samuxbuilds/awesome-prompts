@@ -2,7 +2,7 @@
 title: "Unveiling Confidence in Couture: Gemini Nano Banana Pro"
 category: 3d
 tags: ["art","fashion","nano-banana-pro"]
-author: "@ZaraIrahh"
+author: "[@ZaraIrahh](https://x.com/ZaraIrahh)"
 author_url: "https://twitter.com/ZaraIrahh"
 source_url: "https://twitter.com/ZaraIrahh/status/1993972774667473328"
 preview: "/media/3d/pg-1993972774667473328.webp"

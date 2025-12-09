@@ -2,7 +2,7 @@
 title: "Street Vibes: Defiance in Smoky Chaos"
 category: portraits
 tags: ["nano-banana-pro"]
-author: "@Drshadow56"
+author: "[@Drshadow56](https://x.com/Drshadow56)"
 author_url: "https://twitter.com/Drshadow56"
 source_url: "https://twitter.com/Drshadow56/status/1992602230168641866"
 preview: "/media/portraits/pg-1992602230168641866.webp"

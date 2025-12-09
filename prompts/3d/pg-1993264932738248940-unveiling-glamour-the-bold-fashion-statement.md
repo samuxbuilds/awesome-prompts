@@ -2,7 +2,7 @@
 title: "Unveiling Glamour: The Bold Fashion Statement"
 category: 3d
 tags: ["fashion","light","nano-banana-pro"]
-author: "@Just_sharon7"
+author: "[@Just_sharon7](https://x.com/Just_sharon7)"
 author_url: "https://twitter.com/Just_sharon7"
 source_url: "https://twitter.com/Just_sharon7/status/1993264932738248940"
 preview: "/media/3d/pg-1993264932738248940.webp"

@@ -2,7 +2,7 @@
 title: "Transform Your Menu with Tasty Visuals!"
 category: portraits
 tags: ["food","nano-banana-pro"]
-author: "@icreatelife"
+author: "[@icreatelife](https://x.com/icreatelife)"
 author_url: "https://twitter.com/icreatelife"
 source_url: "https://twitter.com/icreatelife/status/1992610069180198936"
 preview: "/media/portraits/pg-1992610069180198936.webp"

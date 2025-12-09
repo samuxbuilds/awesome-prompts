@@ -2,7 +2,7 @@
 title: "Illuminated Elegance: A Modern Noir Portrait"
 category: portraits
 tags: ["portrait","modern","minimal","dark","light","nano-banana-pro"]
-author: "@ShreyaYadav___"
+author: "[@ShreyaYadav___](https://x.com/ShreyaYadav___)"
 author_url: "https://twitter.com/ShreyaYadav___"
 source_url: "https://twitter.com/ShreyaYadav___/status/1991571952318964212"
 preview: "/media/portraits/pg-1991571952318964212.webp"

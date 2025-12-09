@@ -2,7 +2,7 @@
 title: "Unleashing the Power of the Nano Banana Pro"
 category: portraits
 tags: ["nano-banana-pro"]
-author: "@Arminn_Ai"
+author: "[@Arminn_Ai](https://x.com/Arminn_Ai)"
 author_url: "https://twitter.com/Arminn_Ai"
 source_url: "https://twitter.com/Arminn_Ai/status/1991559284971204814"
 preview: "/media/portraits/pg-1991559284971204814.webp"

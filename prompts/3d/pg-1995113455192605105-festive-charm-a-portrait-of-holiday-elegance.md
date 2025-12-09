@@ -2,7 +2,7 @@
 title: "Festive Charm: A Portrait of Holiday Elegance"
 category: 3d
 tags: ["portrait","vibrant","nano-banana-pro"]
-author: "@kingofdairyque"
+author: "[@kingofdairyque](https://x.com/kingofdairyque)"
 author_url: "https://twitter.com/kingofdairyque"
 source_url: "https://twitter.com/kingofdairyque/status/1995113455192605105"
 preview: "/media/3d/pg-1995113455192605105.webp"

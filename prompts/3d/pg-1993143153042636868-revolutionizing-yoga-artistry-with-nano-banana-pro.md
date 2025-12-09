@@ -2,7 +2,7 @@
 title: "Revolutionizing Yoga Artistry with Nano Banana Pro"
 category: 3d
 tags: ["art","nano-banana-pro"]
-author: "@IamEmily2050"
+author: "[@IamEmily2050](https://x.com/IamEmily2050)"
 author_url: "https://twitter.com/IamEmily2050"
 source_url: "https://twitter.com/IamEmily2050/status/1993143153042636868"
 preview: "/media/3d/pg-1993143153042636868.webp"

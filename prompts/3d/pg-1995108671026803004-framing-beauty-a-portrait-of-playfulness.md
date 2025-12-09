@@ -2,7 +2,7 @@
 title: "Framing Beauty: A Portrait of Playfulness"
 category: 3d
 tags: ["portrait","nano-banana-pro"]
-author: "@Just_sharon7"
+author: "[@Just_sharon7](https://x.com/Just_sharon7)"
 author_url: "https://twitter.com/Just_sharon7"
 source_url: "https://twitter.com/Just_sharon7/status/1995108671026803004"
 preview: "/media/3d/pg-1995108671026803004.webp"

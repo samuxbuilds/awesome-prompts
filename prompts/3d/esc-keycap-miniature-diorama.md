@@ -2,7 +2,7 @@
 title: "ESC Keycap Miniature Diorama"
 category: 3d
 tags: ["3d", "realistic", "diorama", "glass"]
-author: "@egeberkina"
+author: "[@egeberkina](https://x.com/egeberkina)"
 preview: "/media/3d/esc-keycap-miniature-diorama.webp"
 ---
 

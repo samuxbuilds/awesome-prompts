@@ -2,7 +2,7 @@
 title: "Crayon Confusion: The Colorful Mix-Up!"
 category: creative
 tags: ["colorful","light","vibrant","nano-banana-pro"]
-author: "@goodside"
+author: "[@goodside](https://x.com/goodside)"
 author_url: "https://twitter.com/goodside"
 source_url: "https://twitter.com/goodside/status/1992673828372172937"
 preview: "/media/creative/pg-1992673828372172937.webp"

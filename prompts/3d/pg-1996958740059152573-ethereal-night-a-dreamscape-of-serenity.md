@@ -2,7 +2,7 @@
 title: "Ethereal Night: A Dreamscape of Serenity"
 category: 3d
 tags: ["light","nano-banana-pro"]
-author: "@Sophia_here12"
+author: "[@Sophia_here12](https://x.com/Sophia_here12)"
 author_url: "https://twitter.com/Sophia_here12"
 source_url: "https://twitter.com/Sophia_here12/status/1996958740059152573"
 preview: "/media/3d/pg-1996958740059152573.webp"

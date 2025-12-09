@@ -2,7 +2,7 @@
 title: "UI Hand-drawn Sketch to High-Fidelity Prototype"
 category: creative
 tags: ["realistic", "ai-art"]
-author: "@nanobanana-pro"
+author: "[@nanobanana-pro](https://x.com/nanobanana-pro)"
 preview: "/media/creative/nb-ui-hand-drawn-sketch-to-high-fidelity-prototype.webp"
 ---
 

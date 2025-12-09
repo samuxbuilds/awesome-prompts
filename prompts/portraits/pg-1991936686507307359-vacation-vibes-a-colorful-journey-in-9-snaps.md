@@ -2,7 +2,7 @@
 title: "Vacation Vibes: A Colorful Journey in 9 Snaps! 🌈📸"
 category: portraits
 tags: ["selfie","colorful","nano-banana-pro"]
-author: "@ImagineArt_X"
+author: "[@ImagineArt_X](https://x.com/ImagineArt_X)"
 author_url: "https://twitter.com/ImagineArt_X"
 source_url: "https://twitter.com/ImagineArt_X/status/1991936686507307359"
 preview: "/media/portraits/pg-1991936686507307359.webp"

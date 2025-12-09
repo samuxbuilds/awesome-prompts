@@ -2,7 +2,7 @@
 title: "Cinematic Style Meets Urban Vibe: The Nano Banana Portrait"
 category: 3d
 tags: ["portrait","modern","urban","fashion","light","nano-banana-pro"]
-author: "@Drshadow56"
+author: "[@Drshadow56](https://x.com/Drshadow56)"
 author_url: "https://twitter.com/Drshadow56"
 source_url: "https://twitter.com/Drshadow56/status/1991425359603229019"
 preview: "/media/3d/pg-1991425359603229019.webp"

@@ -2,7 +2,7 @@
 title: "Voxel Style 3D Icon Conversion"
 category: 3d
 tags: ["3d", "icon"]
-author: "@BrettFromDJ"
+author: "[@BrettFromDJ](https://x.com/BrettFromDJ)"
 preview: "/media/3d/voxel-style-3d-icon-conversion.webp"
 ---
 

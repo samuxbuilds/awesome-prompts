@@ -2,7 +2,7 @@
 title: "Neon Dreams Under Rainy Skies"
 category: portraits
 tags: ["light","neon","vibrant","nano-banana-pro"]
-author: "@john_my07"
+author: "[@john_my07](https://x.com/john_my07)"
 author_url: "https://twitter.com/john_my07"
 source_url: "https://twitter.com/john_my07/status/1996153241307119822"
 preview: "/media/portraits/pg-1996153241307119822.webp"

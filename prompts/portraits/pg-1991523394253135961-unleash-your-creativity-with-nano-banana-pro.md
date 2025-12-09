@@ -2,7 +2,7 @@
 title: "Unleash Your Creativity with Nano Banana Pro!"
 category: portraits
 tags: ["nano-banana-pro"]
-author: "@icreatelife"
+author: "[@icreatelife](https://x.com/icreatelife)"
 author_url: "https://twitter.com/icreatelife"
 source_url: "https://twitter.com/icreatelife/status/1991523394253135961"
 preview: "/media/portraits/pg-1991523394253135961.webp"

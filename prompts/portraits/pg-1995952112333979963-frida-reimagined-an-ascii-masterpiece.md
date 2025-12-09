@@ -2,7 +2,7 @@
 title: "Frida Reimagined: An ASCII Masterpiece"
 category: portraits
 tags: ["portrait","vibrant","nano-banana-pro"]
-author: "@egeberkina"
+author: "[@egeberkina](https://x.com/egeberkina)"
 author_url: "https://twitter.com/egeberkina"
 source_url: "https://twitter.com/egeberkina/status/1995952112333979963"
 preview: "/media/portraits/pg-1995952112333979963.webp"

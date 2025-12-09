@@ -2,7 +2,7 @@
 title: "Blooming Beauty: A Portrait of Playfulness"
 category: 3d
 tags: ["portrait","vibrant","nano-banana-pro"]
-author: "@ZaraIrahh"
+author: "[@ZaraIrahh](https://x.com/ZaraIrahh)"
 author_url: "https://twitter.com/ZaraIrahh"
 source_url: "https://twitter.com/ZaraIrahh/status/1996090542871150699"
 preview: "/media/3d/pg-1996090542871150699.webp"

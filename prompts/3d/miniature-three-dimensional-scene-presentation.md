@@ -2,7 +2,7 @@
 title: "Miniature Three-dimensional Scene Presentation"
 category: 3d
 tags: ["chibi", "ai-art"]
-author: "@dotey"
+author: "[@dotey](https://x.com/dotey)"
 preview: "/media/3d/miniature-three-dimensional-scene-presentation.webp"
 ---
 

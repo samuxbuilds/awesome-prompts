@@ -2,7 +2,7 @@
 title: "Winter Whimsy: A Young Woman and Her Adorable Companion"
 category: portraits
 tags: ["art","nano-banana-pro"]
-author: "@rovvmut_"
+author: "[@rovvmut_](https://x.com/rovvmut_)"
 author_url: "https://twitter.com/rovvmut_"
 source_url: "https://twitter.com/rovvmut_/status/1993149955683631251"
 preview: "/media/portraits/pg-1993149955683631251.webp"

@@ -2,7 +2,7 @@
 title: "Playful Perspectives: A Skateboarder's Top-Down Smile"
 category: portraits
 tags: ["vibrant","nano-banana-pro"]
-author: "@ViralOps_"
+author: "[@ViralOps_](https://x.com/ViralOps_)"
 author_url: "https://twitter.com/ViralOps_"
 source_url: "https://twitter.com/ViralOps_/status/1994454718127755497"
 preview: "/media/portraits/pg-1994454718127755497.webp"

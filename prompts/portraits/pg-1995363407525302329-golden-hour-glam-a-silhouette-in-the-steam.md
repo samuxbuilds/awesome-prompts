@@ -2,7 +2,7 @@
 title: "Golden Hour Glam: A Silhouette in the Steam"
 category: portraits
 tags: ["light","nano-banana-pro"]
-author: "@_imfaizan18"
+author: "[@_imfaizan18](https://x.com/_imfaizan18)"
 author_url: "https://twitter.com/_imfaizan18"
 source_url: "https://twitter.com/_imfaizan18/status/1995363407525302329"
 preview: "/media/portraits/pg-1995363407525302329.webp"

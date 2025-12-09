@@ -2,7 +2,7 @@
 title: "Miniature 3D Building"
 category: 3d
 tags: ["3d", "chibi", "realistic", "cute", "figurine"]
-author: "@dotey"
+author: "[@dotey](https://x.com/dotey)"
 preview: "/media/3d/miniature-3d-building.webp"
 ---
 

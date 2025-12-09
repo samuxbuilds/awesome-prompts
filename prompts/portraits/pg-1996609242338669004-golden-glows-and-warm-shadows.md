@@ -2,7 +2,7 @@
 title: "Golden Glows and Warm Shadows"
 category: portraits
 tags: ["light","sketch","nano-banana-pro"]
-author: "@saniaspeaks_"
+author: "[@saniaspeaks_](https://x.com/saniaspeaks_)"
 author_url: "https://twitter.com/saniaspeaks_"
 source_url: "https://twitter.com/saniaspeaks_/status/1996609242338669004"
 preview: "/media/portraits/pg-1996609242338669004.webp"

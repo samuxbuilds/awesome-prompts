@@ -2,7 +2,7 @@
 title: "Unveiling the Inner Symphony of Wireless Sound"
 category: portraits
 tags: ["nano-banana-pro"]
-author: "@egeberkina"
+author: "[@egeberkina](https://x.com/egeberkina)"
 author_url: "https://twitter.com/egeberkina"
 source_url: "https://twitter.com/egeberkina/status/1996627409978671541"
 preview: "/media/portraits/pg-1996627409978671541.webp"

@@ -2,7 +2,7 @@
 title: "Charming Colors and Characters Unite in Style!"
 category: 3d
 tags: ["fashion","light","nano-banana-pro"]
-author: "@miilesus"
+author: "[@miilesus](https://x.com/miilesus)"
 author_url: "https://twitter.com/miilesus"
 source_url: "https://twitter.com/miilesus/status/1994433496186585544"
 preview: "/media/3d/pg-1994433496186585544.webp"

@@ -2,7 +2,7 @@
 title: "Epic Fun on a Miniature Snowy Adventure!"
 category: 3d
 tags: ["miniature","cute","nano-banana-pro"]
-author: "@egeberkina"
+author: "[@egeberkina](https://x.com/egeberkina)"
 author_url: "https://twitter.com/egeberkina"
 source_url: "https://twitter.com/egeberkina/status/1993046180717101451"
 preview: "/media/3d/pg-1993046180717101451.webp"

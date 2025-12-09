@@ -2,7 +2,7 @@
 title: "Snowflakes Whisper: A Cinematic Portrait of Serenity"
 category: 3d
 tags: ["portrait","dark","nano-banana-pro"]
-author: "@oggii_0"
+author: "[@oggii_0](https://x.com/oggii_0)"
 author_url: "https://twitter.com/oggii_0"
 source_url: "https://twitter.com/oggii_0/status/1995507728438145070"
 preview: "/media/3d/pg-1995507728438145070.webp"

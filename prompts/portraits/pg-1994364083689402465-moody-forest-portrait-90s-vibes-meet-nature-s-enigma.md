@@ -2,7 +2,7 @@
 title: "Moody Forest Portrait: 90s Vibes Meet Nature's Enigma"
 category: portraits
 tags: ["portrait","nature","nano-banana-pro"]
-author: "@kingofdairyque"
+author: "[@kingofdairyque](https://x.com/kingofdairyque)"
 author_url: "https://twitter.com/kingofdairyque"
 source_url: "https://twitter.com/kingofdairyque/status/1994364083689402465"
 preview: "/media/portraits/pg-1994364083689402465.webp"

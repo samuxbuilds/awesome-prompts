@@ -2,7 +2,7 @@
 title: "Chic Mornings: A Cozy Selfie Moment"
 category: portraits
 tags: ["selfie","nature","light","nano-banana-pro"]
-author: "@xmiiru_"
+author: "[@xmiiru_](https://x.com/xmiiru_)"
 author_url: "https://twitter.com/xmiiru_"
 source_url: "https://twitter.com/xmiiru_/status/1996840216892449138"
 preview: "/media/portraits/pg-1996840216892449138.webp"

@@ -2,7 +2,7 @@
 title: "Chibi Character Sticker Pack"
 category: 3d
 tags: ["chibi", "cartoon", "cute", "ghibli", "sticker"]
-author: "@leon_yuan2001"
+author: "[@leon_yuan2001](https://x.com/leon_yuan2001)"
 preview: "/media/3d/chibi-character-sticker-pack.webp"
 ---
 

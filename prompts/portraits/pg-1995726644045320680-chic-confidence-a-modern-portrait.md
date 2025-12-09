@@ -2,7 +2,7 @@
 title: "Chic Confidence: A Modern Portrait"
 category: portraits
 tags: ["portrait","modern","minimal","nano-banana-pro"]
-author: "@Harboris_27"
+author: "[@Harboris_27](https://x.com/Harboris_27)"
 author_url: "https://twitter.com/Harboris_27"
 source_url: "https://twitter.com/Harboris_27/status/1995726644045320680"
 preview: "/media/portraits/pg-1995726644045320680.webp"

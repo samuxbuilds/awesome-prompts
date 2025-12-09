@@ -2,7 +2,7 @@
 title: "Rush Hour Rhapsody: A Student's Subway Story"
 category: posters
 tags: ["urban","vibrant","nano-banana-pro"]
-author: "@minchoi"
+author: "[@minchoi](https://x.com/minchoi)"
 author_url: "https://twitter.com/minchoi"
 source_url: "https://twitter.com/minchoi/status/1993897964461248817"
 preview: "/media/posters/pg-1993897964461248817.webp"

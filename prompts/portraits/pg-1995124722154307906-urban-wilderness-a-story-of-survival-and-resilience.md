@@ -2,7 +2,7 @@
 title: "Urban Wilderness: A Story of Survival and Resilience"
 category: portraits
 tags: ["nature","urban","nano-banana-pro"]
-author: "@john_my07"
+author: "[@john_my07](https://x.com/john_my07)"
 author_url: "https://twitter.com/john_my07"
 source_url: "https://twitter.com/john_my07/status/1995124722154307906"
 preview: "/media/portraits/pg-1995124722154307906.webp"

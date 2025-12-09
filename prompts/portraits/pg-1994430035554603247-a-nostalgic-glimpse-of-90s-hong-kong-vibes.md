@@ -2,7 +2,7 @@
 title: "A Nostalgic Glimpse of 90s Hong Kong Vibes"
 category: portraits
 tags: ["portrait","art","vintage","fashion","nano-banana-pro"]
-author: "@ShreyaYadav___"
+author: "[@ShreyaYadav___](https://x.com/ShreyaYadav___)"
 author_url: "https://twitter.com/ShreyaYadav___"
 source_url: "https://twitter.com/ShreyaYadav___/status/1994430035554603247"
 preview: "/media/portraits/pg-1994430035554603247.webp"

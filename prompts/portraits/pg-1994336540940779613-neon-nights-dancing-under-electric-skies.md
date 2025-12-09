@@ -2,7 +2,7 @@
 title: "Neon Nights: Dancing Under Electric Skies"
 category: portraits
 tags: ["neon","nano-banana-pro"]
-author: "@ShreyaYadav___"
+author: "[@ShreyaYadav___](https://x.com/ShreyaYadav___)"
 author_url: "https://twitter.com/ShreyaYadav___"
 source_url: "https://twitter.com/ShreyaYadav___/status/1994336540940779613"
 preview: "/media/portraits/pg-1994336540940779613.webp"

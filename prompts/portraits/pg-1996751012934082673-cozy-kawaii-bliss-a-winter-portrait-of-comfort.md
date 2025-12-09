@@ -2,7 +2,7 @@
 title: "Cozy Kawaii Bliss: A Winter Portrait of Comfort"
 category: portraits
 tags: ["portrait","cute","pastel","nano-banana-pro"]
-author: "@GlitterPixely"
+author: "[@GlitterPixely](https://x.com/GlitterPixely)"
 author_url: "https://twitter.com/GlitterPixely"
 source_url: "https://twitter.com/GlitterPixely/status/1996751012934082673"
 preview: "/media/portraits/pg-1996751012934082673.webp"

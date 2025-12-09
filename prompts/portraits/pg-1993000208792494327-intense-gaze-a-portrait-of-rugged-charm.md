@@ -2,7 +2,7 @@
 title: "Intense Gaze: A Portrait of Rugged Charm"
 category: portraits
 tags: ["portrait","nano-banana-pro"]
-author: "@ShreyaYadav___"
+author: "[@ShreyaYadav___](https://x.com/ShreyaYadav___)"
 author_url: "https://twitter.com/ShreyaYadav___"
 source_url: "https://twitter.com/ShreyaYadav___/status/1993000208792494327"
 preview: "/media/portraits/pg-1993000208792494327.webp"

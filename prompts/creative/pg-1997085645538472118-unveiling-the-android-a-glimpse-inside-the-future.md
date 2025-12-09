@@ -2,7 +2,7 @@
 title: "Unveiling the Android: A Glimpse Inside the Future"
 category: creative
 tags: ["art","vibrant","nano-banana-pro"]
-author: "@NanoBanana"
+author: "[@NanoBanana](https://x.com/NanoBanana)"
 author_url: "https://twitter.com/NanoBanana"
 source_url: "https://twitter.com/NanoBanana/status/1997085645538472118"
 preview: "/media/creative/pg-1997085645538472118.webp"

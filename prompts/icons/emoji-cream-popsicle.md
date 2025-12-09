@@ -2,7 +2,7 @@
 title: "Emoji Cream Popsicle"
 category: icons
 tags: ["3d", "chibi", "cute", "emoji"]
-author: "@ZHO_ZHO_ZHO"
+author: "[@ZHO_ZHO_ZHO](https://x.com/ZHO_ZHO_ZHO)"
 preview: "/media/icons/emoji-cream-popsicle.webp"
 ---
 

@@ -2,7 +2,7 @@
 title: "MrBeast Style - Construction/Cutaway"
 category: "thumbnails"
 tags: ["mrbeast", "youtube", "thumbnail", "cutaway", "underground"]
-author: "@samux"
+author: "[@samux](https://x.com/samux)"
 preview: "/media/thumbnails/mrbeast-construction.webp"
 ---
 

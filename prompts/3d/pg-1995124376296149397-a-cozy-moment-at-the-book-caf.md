@@ -2,7 +2,7 @@
 title: "A Cozy Moment at the Book Café"
 category: 3d
 tags: ["nano-banana-pro"]
-author: "@MrDasOnX"
+author: "[@MrDasOnX](https://x.com/MrDasOnX)"
 author_url: "https://twitter.com/MrDasOnX"
 source_url: "https://twitter.com/MrDasOnX/status/1995124376296149397"
 preview: "/media/3d/pg-1995124376296149397.webp"

@@ -2,7 +2,7 @@
 title: "Craft Your Own Manga Masterpiece with Nano Banana!"
 category: portraits
 tags: ["nano-banana-pro"]
-author: "@_MehdiSharifi_"
+author: "[@_MehdiSharifi_](https://x.com/_MehdiSharifi_)"
 author_url: "https://twitter.com/_MehdiSharifi_"
 source_url: "https://twitter.com/_MehdiSharifi_/status/1991585679264944306"
 preview: "/media/portraits/pg-1991585679264944306.webp"

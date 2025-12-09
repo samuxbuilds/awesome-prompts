@@ -2,7 +2,7 @@
 title: "Futuristic Fashion: VOGUE NEON 2099 Unveiled"
 category: portraits
 tags: ["art","fashion","neon","nano-banana-pro"]
-author: "@LudovicCreator"
+author: "[@LudovicCreator](https://x.com/LudovicCreator)"
 author_url: "https://twitter.com/LudovicCreator"
 source_url: "https://twitter.com/LudovicCreator/status/1994817399367852495"
 preview: "/media/portraits/pg-1994817399367852495.webp"

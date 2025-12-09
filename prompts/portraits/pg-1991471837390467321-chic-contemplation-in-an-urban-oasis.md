@@ -2,7 +2,7 @@
 title: "Chic Contemplation in an Urban Oasis"
 category: portraits
 tags: ["nature","urban","nano-banana-pro"]
-author: "@Drshadow56"
+author: "[@Drshadow56](https://x.com/Drshadow56)"
 author_url: "https://twitter.com/Drshadow56"
 source_url: "https://twitter.com/Drshadow56/status/1991471837390467321"
 preview: "/media/portraits/pg-1991471837390467321.webp"

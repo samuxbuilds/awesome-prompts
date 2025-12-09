@@ -2,7 +2,7 @@
 title: "A Symphony of Color on a Sunlit Garden Table"
 category: creative
 tags: ["nature","light","vibrant","nano-banana-pro"]
-author: "@BeanieBlossom"
+author: "[@BeanieBlossom](https://x.com/BeanieBlossom)"
 author_url: "https://twitter.com/BeanieBlossom"
 source_url: "https://twitter.com/BeanieBlossom/status/1996566221643510042"
 preview: "/media/creative/pg-1996566221643510042.webp"

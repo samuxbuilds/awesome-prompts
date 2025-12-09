@@ -2,7 +2,7 @@
 title: "When Heroes Fall: A Cinematic Twist on Reality"
 category: portraits
 tags: ["realistic","nano-banana-pro"]
-author: "@ShreyaYadav___"
+author: "[@ShreyaYadav___](https://x.com/ShreyaYadav___)"
 author_url: "https://twitter.com/ShreyaYadav___"
 source_url: "https://twitter.com/ShreyaYadav___/status/1996460469025157249"
 preview: "/media/portraits/pg-1996460469025157249.webp"

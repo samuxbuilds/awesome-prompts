@@ -2,7 +2,7 @@
 title: "A Kick Beyond Time: Renaissance Meets Modern Soccer"
 category: portraits
 tags: ["modern","vibrant","nano-banana-pro"]
-author: "@ChillaiKalan__"
+author: "[@ChillaiKalan__](https://x.com/ChillaiKalan__)"
 author_url: "https://twitter.com/ChillaiKalan__"
 source_url: "https://twitter.com/ChillaiKalan__/status/1992875420396757499"
 preview: "/media/portraits/pg-1992875420396757499.webp"

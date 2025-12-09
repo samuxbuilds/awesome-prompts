@@ -2,7 +2,7 @@
 title: "8-Bit Pixel Icon"
 category: icons
 tags: ["pixel", "retro", "minimalist", "icon", "logo"]
-author: "@egeberkina"
+author: "[@egeberkina](https://x.com/egeberkina)"
 preview: "/media/icons/8-bit-pixel-icon.webp"
 ---
 

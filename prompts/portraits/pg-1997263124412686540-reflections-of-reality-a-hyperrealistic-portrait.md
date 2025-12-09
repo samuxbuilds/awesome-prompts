@@ -2,7 +2,7 @@
 title: "Reflections of Reality: A Hyperrealistic Portrait"
 category: portraits
 tags: ["realistic","portrait","nano-banana-pro"]
-author: "@ShreyaYadav___"
+author: "[@ShreyaYadav___](https://x.com/ShreyaYadav___)"
 author_url: "https://twitter.com/ShreyaYadav___"
 source_url: "https://twitter.com/ShreyaYadav___/status/1997263124412686540"
 preview: "/media/portraits/pg-1997263124412686540.webp"

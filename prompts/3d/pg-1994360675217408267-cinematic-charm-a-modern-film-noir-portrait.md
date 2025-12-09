@@ -2,7 +2,7 @@
 title: "Cinematic Charm: A Modern Film Noir Portrait"
 category: 3d
 tags: ["portrait","modern","light","nano-banana-pro"]
-author: "@YaseenK7212"
+author: "[@YaseenK7212](https://x.com/YaseenK7212)"
 author_url: "https://twitter.com/YaseenK7212"
 source_url: "https://twitter.com/YaseenK7212/status/1994360675217408267"
 preview: "/media/3d/pg-1994360675217408267.webp"

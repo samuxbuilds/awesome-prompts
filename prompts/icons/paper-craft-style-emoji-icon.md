@@ -2,7 +2,7 @@
 title: "Paper Craft Style Emoji Icon"
 category: icons
 tags: ["emoji", "icon"]
-author: "@egeberkina"
+author: "[@egeberkina](https://x.com/egeberkina)"
 preview: "/media/icons/paper-craft-style-emoji-icon.webp"
 ---
 

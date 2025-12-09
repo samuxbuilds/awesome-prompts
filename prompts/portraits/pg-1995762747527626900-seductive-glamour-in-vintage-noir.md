@@ -2,7 +2,7 @@
 title: "Seductive Glamour in Vintage Noir"
 category: portraits
 tags: ["vintage","nano-banana-pro"]
-author: "@xmliisu"
+author: "[@xmliisu](https://x.com/xmliisu)"
 author_url: "https://twitter.com/xmliisu"
 source_url: "https://twitter.com/xmliisu/status/1995762747527626900"
 preview: "/media/portraits/pg-1995762747527626900.webp"

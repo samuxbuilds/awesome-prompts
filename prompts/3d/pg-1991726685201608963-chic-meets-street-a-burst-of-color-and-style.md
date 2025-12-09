@@ -2,7 +2,7 @@
 title: "Chic Meets Street: A Burst of Color and Style"
 category: 3d
 tags: ["anime","realistic","art","urban","fashion","light","pastel","vibrant"]
-author: "@SimplyAnnisa"
+author: "[@SimplyAnnisa](https://x.com/SimplyAnnisa)"
 author_url: "https://twitter.com/SimplyAnnisa"
 source_url: "https://twitter.com/SimplyAnnisa/status/1991726685201608963"
 preview: "/media/3d/pg-1991726685201608963.webp"

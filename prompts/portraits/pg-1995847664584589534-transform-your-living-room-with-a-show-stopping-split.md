@@ -2,7 +2,7 @@
 title: "Transform Your Living Room with a Show-Stopping Split!"
 category: portraits
 tags: ["nano-banana-pro"]
-author: "@IamEmily2050"
+author: "[@IamEmily2050](https://x.com/IamEmily2050)"
 author_url: "https://twitter.com/IamEmily2050"
 source_url: "https://twitter.com/IamEmily2050/status/1995847664584589534"
 preview: "/media/portraits/pg-1995847664584589534.webp"

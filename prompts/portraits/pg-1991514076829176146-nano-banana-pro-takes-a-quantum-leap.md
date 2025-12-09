@@ -2,7 +2,7 @@
 title: "Nano Banana Pro Takes a Quantum Leap!"
 category: portraits
 tags: ["nano-banana-pro"]
-author: "@flavioAd"
+author: "[@flavioAd](https://x.com/flavioAd)"
 author_url: "https://twitter.com/flavioAd"
 source_url: "https://twitter.com/flavioAd/status/1991514076829176146"
 preview: "/media/portraits/pg-1991514076829176146.webp"

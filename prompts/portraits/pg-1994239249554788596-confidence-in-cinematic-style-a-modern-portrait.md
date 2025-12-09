@@ -2,7 +2,7 @@
 title: "Confidence in Cinematic Style: A Modern Portrait"
 category: portraits
 tags: ["portrait","modern","light","nano-banana-pro"]
-author: "@mehvishs25"
+author: "[@mehvishs25](https://x.com/mehvishs25)"
 author_url: "https://twitter.com/mehvishs25"
 source_url: "https://twitter.com/mehvishs25/status/1994239249554788596"
 preview: "/media/portraits/pg-1994239249554788596.webp"

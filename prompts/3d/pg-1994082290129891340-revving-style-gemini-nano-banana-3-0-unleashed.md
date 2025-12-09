@@ -2,7 +2,7 @@
 title: "Revving Style: Gemini Nano Banana 3.0 Unleashed"
 category: 3d
 tags: ["nano-banana-pro"]
-author: "@YaseenK7212"
+author: "[@YaseenK7212](https://x.com/YaseenK7212)"
 author_url: "https://twitter.com/YaseenK7212"
 source_url: "https://twitter.com/YaseenK7212/status/1994082290129891340"
 preview: "/media/3d/pg-1994082290129891340.webp"

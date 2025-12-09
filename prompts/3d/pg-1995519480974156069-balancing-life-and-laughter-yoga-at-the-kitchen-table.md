@@ -2,7 +2,7 @@
 title: "Balancing Life and Laughter: Yoga at the Kitchen Table"
 category: 3d
 tags: ["nano-banana-pro"]
-author: "@Samann_ai"
+author: "[@Samann_ai](https://x.com/Samann_ai)"
 author_url: "https://twitter.com/Samann_ai"
 source_url: "https://twitter.com/Samann_ai/status/1995519480974156069"
 preview: "/media/3d/pg-1995519480974156069.webp"

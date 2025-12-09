@@ -2,7 +2,7 @@
 title: "Monday Mood: A Cozy Dreamscape in Soft Sunlight"
 category: 3d
 tags: ["portrait","light","nano-banana-pro"]
-author: "@xmiiru_"
+author: "[@xmiiru_](https://x.com/xmiiru_)"
 author_url: "https://twitter.com/xmiiru_"
 source_url: "https://twitter.com/xmiiru_/status/1992838971030647050"
 preview: "/media/3d/pg-1992838971030647050.webp"

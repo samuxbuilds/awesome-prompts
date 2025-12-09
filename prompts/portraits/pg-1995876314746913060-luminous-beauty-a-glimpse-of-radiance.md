@@ -2,7 +2,7 @@
 title: "Luminous Beauty: A Glimpse of Radiance"
 category: portraits
 tags: ["fantasy","nano-banana-pro"]
-author: "@kingofdairyque"
+author: "[@kingofdairyque](https://x.com/kingofdairyque)"
 author_url: "https://twitter.com/kingofdairyque"
 source_url: "https://twitter.com/kingofdairyque/status/1995876314746913060"
 preview: "/media/portraits/pg-1995876314746913060.webp"

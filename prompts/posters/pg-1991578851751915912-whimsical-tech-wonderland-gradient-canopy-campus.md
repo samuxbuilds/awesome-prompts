@@ -2,7 +2,7 @@
 title: "Whimsical Tech Wonderland: Gradient Canopy Campus"
 category: posters
 tags: ["colorful","vibrant","nano-banana-pro"]
-author: "@jon_barron"
+author: "[@jon_barron](https://x.com/jon_barron)"
 author_url: "https://twitter.com/jon_barron"
 source_url: "https://twitter.com/jon_barron/status/1991578851751915912"
 preview: ""

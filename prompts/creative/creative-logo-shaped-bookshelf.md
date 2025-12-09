@@ -2,7 +2,7 @@
 title: "Creative Logo Shaped Bookshelf"
 category: creative
 tags: ["minimalist", "logo", "futuristic"]
-author: "@umesh_ai"
+author: "[@umesh_ai](https://x.com/umesh_ai)"
 preview: "/media/creative/creative-logo-shaped-bookshelf.webp"
 ---
 

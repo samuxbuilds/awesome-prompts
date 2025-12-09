@@ -2,7 +2,7 @@
 title: "Contemporary Canvas: A Stylish Fusion of Identity"
 category: portraits
 tags: ["art","modern","fashion","nano-banana-pro"]
-author: "@ShreyaYadav___"
+author: "[@ShreyaYadav___](https://x.com/ShreyaYadav___)"
 author_url: "https://twitter.com/ShreyaYadav___"
 source_url: "https://twitter.com/ShreyaYadav___/status/1997266221998428639"
 preview: "/media/portraits/pg-1997266221998428639.webp"

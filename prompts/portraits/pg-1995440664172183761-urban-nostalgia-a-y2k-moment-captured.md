@@ -2,7 +2,7 @@
 title: "Urban Nostalgia: A Y2K Moment Captured"
 category: portraits
 tags: ["urban","light","nano-banana-pro"]
-author: "@kingofdairyque"
+author: "[@kingofdairyque](https://x.com/kingofdairyque)"
 author_url: "https://twitter.com/kingofdairyque"
 source_url: "https://twitter.com/kingofdairyque/status/1995440664172183761"
 preview: "/media/portraits/pg-1995440664172183761.webp"

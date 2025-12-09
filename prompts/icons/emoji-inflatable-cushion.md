@@ -2,7 +2,7 @@
 title: "Emoji Inflatable Cushion"
 category: icons
 tags: ["3d", "emoji"]
-author: "@gizakdag"
+author: "[@gizakdag](https://x.com/gizakdag)"
 preview: "/media/icons/emoji-inflatable-cushion.webp"
 ---
 

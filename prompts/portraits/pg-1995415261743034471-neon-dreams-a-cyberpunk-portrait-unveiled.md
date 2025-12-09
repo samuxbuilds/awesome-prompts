@@ -2,7 +2,7 @@
 title: "Neon Dreams: A Cyberpunk Portrait Unveiled"
 category: portraits
 tags: ["realistic","portrait","urban","dark","neon","nano-banana-pro"]
-author: "@_imfaizan18"
+author: "[@_imfaizan18](https://x.com/_imfaizan18)"
 author_url: "https://twitter.com/_imfaizan18"
 source_url: "https://twitter.com/_imfaizan18/status/1995415261743034471"
 preview: "/media/portraits/pg-1995415261743034471.webp"

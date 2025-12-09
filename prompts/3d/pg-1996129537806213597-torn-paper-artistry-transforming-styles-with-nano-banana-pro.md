@@ -2,7 +2,7 @@
 title: "Torn Paper Artistry: Transforming Styles with Nano Banana Pro"
 category: 3d
 tags: ["art","watercolor","nano-banana-pro"]
-author: "@munou_ac"
+author: "[@munou_ac](https://x.com/munou_ac)"
 author_url: "https://twitter.com/munou_ac"
 source_url: "https://twitter.com/munou_ac/status/1996129537806213597"
 preview: "/media/3d/pg-1996129537806213597.webp"

@@ -2,7 +2,7 @@
 title: "Famous Painting Character OOTD"
 category: creative
 tags: ["3d", "chibi", "cute", "glass", "character"]
-author: "@ZHO_ZHO_ZHO"
+author: "[@ZHO_ZHO_ZHO](https://x.com/ZHO_ZHO_ZHO)"
 preview: "/media/creative/famous-painting-character-ootd.webp"
 ---
 

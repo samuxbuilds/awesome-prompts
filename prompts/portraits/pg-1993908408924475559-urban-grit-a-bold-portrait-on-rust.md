@@ -2,7 +2,7 @@
 title: "Urban Grit: A Bold Portrait on Rust"
 category: portraits
 tags: ["portrait","urban","nano-banana-pro"]
-author: "@SimplyAnnisa"
+author: "[@SimplyAnnisa](https://x.com/SimplyAnnisa)"
 author_url: "https://twitter.com/SimplyAnnisa"
 source_url: "https://twitter.com/SimplyAnnisa/status/1993908408924475559"
 preview: "/media/portraits/pg-1993908408924475559.webp"

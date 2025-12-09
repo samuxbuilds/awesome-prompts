@@ -2,7 +2,7 @@
 title: "Unveiling Churchill: The Man Behind the UK Corp."
 category: portraits
 tags: ["nano-banana-pro"]
-author: "@maxescu"
+author: "[@maxescu](https://x.com/maxescu)"
 author_url: "https://twitter.com/maxescu"
 source_url: "https://twitter.com/maxescu/status/1994465143778861149"
 preview: "/media/portraits/pg-1994465143778861149.webp"

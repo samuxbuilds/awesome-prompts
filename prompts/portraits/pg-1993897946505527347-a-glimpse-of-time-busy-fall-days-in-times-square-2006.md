@@ -2,7 +2,7 @@
 title: "A Glimpse of Time: Busy Fall Days in Times Square 2006"
 category: portraits
 tags: ["vibrant","nano-banana-pro"]
-author: "@minchoi"
+author: "[@minchoi](https://x.com/minchoi)"
 author_url: "https://twitter.com/minchoi"
 source_url: "https://twitter.com/minchoi/status/1993897946505527347"
 preview: "/media/portraits/pg-1993897946505527347.webp"

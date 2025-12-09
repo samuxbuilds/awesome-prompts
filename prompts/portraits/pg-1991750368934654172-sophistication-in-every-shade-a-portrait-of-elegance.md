@@ -2,7 +2,7 @@
 title: "Sophistication in Every Shade: A Portrait of Elegance"
 category: portraits
 tags: ["portrait","nano-banana-pro"]
-author: "@saniaspeaks_"
+author: "[@saniaspeaks_](https://x.com/saniaspeaks_)"
 author_url: "https://twitter.com/saniaspeaks_"
 source_url: "https://twitter.com/saniaspeaks_/status/1991750368934654172"
 preview: ""

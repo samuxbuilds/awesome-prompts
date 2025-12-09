@@ -2,7 +2,7 @@
 title: "Anime Supremacy: A Modern Twist on The Last Supper"
 category: portraits
 tags: ["anime","modern","vibrant","nano-banana-pro"]
-author: "@CharaspowerAI"
+author: "[@CharaspowerAI](https://x.com/CharaspowerAI)"
 author_url: "https://twitter.com/CharaspowerAI"
 source_url: "https://twitter.com/CharaspowerAI/status/1993065781362672074"
 preview: "/media/portraits/pg-1993065781362672074.webp"

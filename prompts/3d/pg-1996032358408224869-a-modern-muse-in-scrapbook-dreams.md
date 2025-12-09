@@ -2,7 +2,7 @@
 title: "A Modern Muse in Scrapbook Dreams"
 category: 3d
 tags: ["modern","vibrant","nano-banana-pro"]
-author: "@ZaraIrahh"
+author: "[@ZaraIrahh](https://x.com/ZaraIrahh)"
 author_url: "https://twitter.com/ZaraIrahh"
 source_url: "https://twitter.com/ZaraIrahh/status/1996032358408224869"
 preview: "/media/3d/pg-1996032358408224869.webp"

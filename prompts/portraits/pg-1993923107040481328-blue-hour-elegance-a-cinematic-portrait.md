@@ -2,7 +2,7 @@
 title: "Blue Hour Elegance: A Cinematic Portrait"
 category: portraits
 tags: ["portrait","light","nano-banana-pro"]
-author: "@saniaspeaks_"
+author: "[@saniaspeaks_](https://x.com/saniaspeaks_)"
 author_url: "https://twitter.com/saniaspeaks_"
 source_url: "https://twitter.com/saniaspeaks_/status/1993923107040481328"
 preview: "/media/portraits/pg-1993923107040481328.webp"

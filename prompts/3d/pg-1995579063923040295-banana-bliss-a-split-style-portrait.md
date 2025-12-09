@@ -2,7 +2,7 @@
 title: "Banana Bliss: A Split-Style Portrait 🍌✨"
 category: 3d
 tags: ["cartoon","portrait","art","vibrant","nano-banana-pro"]
-author: "@teachaixr"
+author: "[@teachaixr](https://x.com/teachaixr)"
 author_url: "https://twitter.com/teachaixr"
 source_url: "https://twitter.com/teachaixr/status/1995579063923040295"
 preview: "/media/3d/pg-1995579063923040295.webp"

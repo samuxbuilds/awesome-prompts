@@ -2,7 +2,7 @@
 title: "The Enigmatic Gaze of Gemini Nano Banana 3.0"
 category: 3d
 tags: ["dark","light","nano-banana-pro"]
-author: "@YaseenK7212"
+author: "[@YaseenK7212](https://x.com/YaseenK7212)"
 author_url: "https://twitter.com/YaseenK7212"
 source_url: "https://twitter.com/YaseenK7212/status/1995488723387978228"
 preview: "/media/3d/pg-1995488723387978228.webp"

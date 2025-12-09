@@ -2,7 +2,7 @@
 title: "Sleek Style Meets Supercar Elegance"
 category: 3d
 tags: ["vibrant","nano-banana-pro"]
-author: "@kingofdairyque"
+author: "[@kingofdairyque](https://x.com/kingofdairyque)"
 author_url: "https://twitter.com/kingofdairyque"
 source_url: "https://twitter.com/kingofdairyque/status/1994391705727254608"
 preview: "/media/3d/pg-1994391705727254608.webp"

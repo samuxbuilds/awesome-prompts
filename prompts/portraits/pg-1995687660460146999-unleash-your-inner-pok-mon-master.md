@@ -2,7 +2,7 @@
 title: "Unleash Your Inner Pokémon Master!"
 category: portraits
 tags: ["portrait","art","vibrant","nano-banana-pro"]
-author: "@rovvmut_"
+author: "[@rovvmut_](https://x.com/rovvmut_)"
 author_url: "https://twitter.com/rovvmut_"
 source_url: "https://twitter.com/rovvmut_/status/1995687660460146999"
 preview: "/media/portraits/pg-1995687660460146999.webp"

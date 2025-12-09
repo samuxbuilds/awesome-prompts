@@ -2,7 +2,7 @@
 title: "Chic Winter Escapade: A Cozy Mountain Moment"
 category: portraits
 tags: ["nano-banana-pro"]
-author: "@mehvishs25"
+author: "[@mehvishs25](https://x.com/mehvishs25)"
 author_url: "https://twitter.com/mehvishs25"
 source_url: "https://twitter.com/mehvishs25/status/1994378059059757318"
 preview: "/media/portraits/pg-1994378059059757318.webp"

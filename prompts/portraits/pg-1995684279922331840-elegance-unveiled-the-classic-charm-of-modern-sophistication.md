@@ -2,7 +2,7 @@
 title: "Elegance Unveiled: The Classic Charm of Modern Sophistication"
 category: portraits
 tags: ["modern","nano-banana-pro"]
-author: "@mehvishs25"
+author: "[@mehvishs25](https://x.com/mehvishs25)"
 author_url: "https://twitter.com/mehvishs25"
 source_url: "https://twitter.com/mehvishs25/status/1995684279922331840"
 preview: "/media/portraits/pg-1995684279922331840.webp"

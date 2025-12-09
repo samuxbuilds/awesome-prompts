@@ -2,7 +2,7 @@
 title: "Charming Collage: A Whimsical Fashion Portrait"
 category: portraits
 tags: ["portrait","fashion","colorful","vibrant","nano-banana-pro"]
-author: "@dotey"
+author: "[@dotey](https://x.com/dotey)"
 author_url: "https://twitter.com/dotey"
 source_url: "https://twitter.com/dotey/status/1997191891553534399"
 preview: "/media/portraits/pg-1997191891553534399.webp"

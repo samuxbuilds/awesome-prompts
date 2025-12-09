@@ -2,7 +2,7 @@
 title: "Sipping on Success: The Beverage Giants Unveiled"
 category: 3d
 tags: ["vibrant","nano-banana-pro"]
-author: "@SaasJunctionHQ"
+author: "[@SaasJunctionHQ](https://x.com/SaasJunctionHQ)"
 author_url: "https://twitter.com/SaasJunctionHQ"
 source_url: "https://twitter.com/SaasJunctionHQ/status/1991568652882309461"
 preview: "/media/3d/pg-1991568652882309461.webp"

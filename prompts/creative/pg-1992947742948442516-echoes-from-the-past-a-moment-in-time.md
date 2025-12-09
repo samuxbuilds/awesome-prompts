@@ -2,7 +2,7 @@
 title: "Echoes from the Past: A Moment in Time"
 category: creative
 tags: ["vibrant","nano-banana-pro"]
-author: "@TechieBySA"
+author: "[@TechieBySA](https://x.com/TechieBySA)"
 author_url: "https://twitter.com/TechieBySA"
 source_url: "https://twitter.com/TechieBySA/status/1992947742948442516"
 preview: "/media/creative/pg-1992947742948442516.webp"

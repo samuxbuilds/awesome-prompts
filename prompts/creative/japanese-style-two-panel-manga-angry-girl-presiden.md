@@ -2,7 +2,7 @@
 title: "Japanese-style Two-Panel Manga (Angry Girl President)"
 category: creative
 tags: ["anime", "cartoon", "vintage", "cute", "manga"]
-author: "@hellokaton"
+author: "[@hellokaton](https://x.com/hellokaton)"
 preview: "/media/creative/japanese-style-two-panel-manga-angry-girl-presiden.webp"
 ---
 

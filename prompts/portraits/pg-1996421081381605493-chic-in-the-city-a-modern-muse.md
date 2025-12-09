@@ -2,7 +2,7 @@
 title: "Chic in the City: A Modern Muse"
 category: portraits
 tags: ["modern","urban","fashion","nano-banana-pro"]
-author: "@mehvishs25"
+author: "[@mehvishs25](https://x.com/mehvishs25)"
 author_url: "https://twitter.com/mehvishs25"
 source_url: "https://twitter.com/mehvishs25/status/1996421081381605493"
 preview: "/media/portraits/pg-1996421081381605493.webp"

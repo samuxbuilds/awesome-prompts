@@ -2,7 +2,7 @@
 title: "Minimalist Futurist Poster"
 category: posters
 tags: ["3d", "minimalist", "poster", "logo", "glass"]
-author: "@ZHO_ZHO_ZHO"
+author: "[@ZHO_ZHO_ZHO](https://x.com/ZHO_ZHO_ZHO)"
 preview: "/media/posters/minimalist-futurist-poster.webp"
 ---
 

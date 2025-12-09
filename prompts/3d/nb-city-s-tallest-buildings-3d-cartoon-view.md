@@ -2,7 +2,7 @@
 title: "City's Tallest Buildings 3D Cartoon View"
 category: 3d
 tags: ["3d", "cartoon", "minimalist", "realistic"]
-author: "@nanobanana-pro"
+author: "[@nanobanana-pro](https://x.com/nanobanana-pro)"
 preview: "/media/3d/nb-city-s-tallest-buildings-3d-cartoon-view.webp"
 ---
 

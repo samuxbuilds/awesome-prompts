@@ -2,7 +2,7 @@
 title: "Neon Dreams on a Rainy Dusk"
 category: 3d
 tags: ["neon","vibrant","nano-banana-pro"]
-author: "@rovvmut_"
+author: "[@rovvmut_](https://x.com/rovvmut_)"
 author_url: "https://twitter.com/rovvmut_"
 source_url: "https://twitter.com/rovvmut_/status/1995087450788573215"
 preview: "/media/3d/pg-1995087450788573215.webp"

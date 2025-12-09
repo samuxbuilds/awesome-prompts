@@ -2,7 +2,7 @@
 title: "Retro Glam Meets K-Pop Chic in Striking Portrait"
 category: 3d
 tags: ["portrait","vintage","nano-banana-pro"]
-author: "@IqraSaifiii"
+author: "[@IqraSaifiii](https://x.com/IqraSaifiii)"
 author_url: "https://twitter.com/IqraSaifiii"
 source_url: "https://twitter.com/IqraSaifiii/status/1994427568372728212"
 preview: "/media/3d/pg-1994427568372728212.webp"

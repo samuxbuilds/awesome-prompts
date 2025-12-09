@@ -2,7 +2,7 @@
 title: "Raindrops and Reflections: A Portrait in Monochrome"
 category: portraits
 tags: ["portrait","nano-banana-pro"]
-author: "@ShreyaYadav___"
+author: "[@ShreyaYadav___](https://x.com/ShreyaYadav___)"
 author_url: "https://twitter.com/ShreyaYadav___"
 source_url: "https://twitter.com/ShreyaYadav___/status/1991158321018265697"
 preview: "/media/portraits/pg-1991158321018265697.webp"

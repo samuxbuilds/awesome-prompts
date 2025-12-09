@@ -2,7 +2,7 @@
 title: "Cheerful Banter: Crafting Your Perfect Thumbnail!"
 category: posters
 tags: ["vibrant","nano-banana-pro"]
-author: "@sll_gametoai"
+author: "[@sll_gametoai](https://x.com/sll_gametoai)"
 author_url: "https://twitter.com/sll_gametoai"
 source_url: "https://twitter.com/sll_gametoai/status/1991675633521627170"
 preview: "/media/posters/pg-1991675633521627170.webp"

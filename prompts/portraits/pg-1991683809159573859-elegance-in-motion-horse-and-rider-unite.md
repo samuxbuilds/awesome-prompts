@@ -2,7 +2,7 @@
 title: "Elegance in Motion: Horse and Rider Unite"
 category: portraits
 tags: ["light","nano-banana-pro"]
-author: "@Rania_22100"
+author: "[@Rania_22100](https://x.com/Rania_22100)"
 author_url: "https://twitter.com/Rania_22100"
 source_url: "https://twitter.com/Rania_22100/status/1991683809159573859"
 preview: "/media/portraits/pg-1991683809159573859.webp"

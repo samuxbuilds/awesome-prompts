@@ -2,7 +2,7 @@
 title: "Cinematic Charm: A Bold Androgynous Muse"
 category: portraits
 tags: ["nano-banana-pro"]
-author: "@ShreyaYadav___"
+author: "[@ShreyaYadav___](https://x.com/ShreyaYadav___)"
 author_url: "https://twitter.com/ShreyaYadav___"
 source_url: "https://twitter.com/ShreyaYadav___/status/1991769381861486747"
 preview: "/media/portraits/pg-1991769381861486747.webp"

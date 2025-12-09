@@ -2,7 +2,7 @@
 title: "A Moment of Patriotism: Flags Fly High in Berlin"
 category: portraits
 tags: ["vibrant","nano-banana-pro"]
-author: "@maxescu"
+author: "[@maxescu](https://x.com/maxescu)"
 author_url: "https://twitter.com/maxescu"
 source_url: "https://twitter.com/maxescu/status/1994465137311306054"
 preview: "/media/portraits/pg-1994465137311306054.webp"

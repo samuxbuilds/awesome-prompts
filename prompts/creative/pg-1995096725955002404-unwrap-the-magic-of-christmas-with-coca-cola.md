@@ -2,7 +2,7 @@
 title: "Unwrap the Magic of Christmas with Coca-Cola"
 category: creative
 tags: ["light","nano-banana-pro"]
-author: "@CharaspowerAI"
+author: "[@CharaspowerAI](https://x.com/CharaspowerAI)"
 author_url: "https://twitter.com/CharaspowerAI"
 source_url: "https://twitter.com/CharaspowerAI/status/1995096725955002404"
 preview: "/media/creative/pg-1995096725955002404.webp"

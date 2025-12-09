@@ -2,7 +2,7 @@
 title: "Confidence Unleashed: A Power Pose with a Twist"
 category: creative
 tags: ["vibrant","digital","nano-banana-pro"]
-author: "@madpencil_"
+author: "[@madpencil_](https://x.com/madpencil_)"
 author_url: "https://twitter.com/madpencil_"
 source_url: "https://twitter.com/madpencil_/status/1995786881544716782"
 preview: "/media/creative/pg-1995786881544716782.webp"

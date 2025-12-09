@@ -2,7 +2,7 @@
 title: "Gastronomic Artistry: The Luxe Layering of Dan Dan Noodles"
 category: portraits
 tags: ["art","nano-banana-pro"]
-author: "@berryxia_ai"
+author: "[@berryxia_ai](https://x.com/berryxia_ai)"
 author_url: "https://twitter.com/berryxia_ai"
 source_url: "https://twitter.com/berryxia_ai/status/1992989895850430908"
 preview: "/media/portraits/pg-1992989895850430908.webp"

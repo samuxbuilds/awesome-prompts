@@ -2,7 +2,7 @@
 title: "Golden Hour Elegance: A Portrait in Nature's Embrace"
 category: portraits
 tags: ["portrait","nature","light","nano-banana-pro"]
-author: "@kingofdairyque"
+author: "[@kingofdairyque](https://x.com/kingofdairyque)"
 author_url: "https://twitter.com/kingofdairyque"
 source_url: "https://twitter.com/kingofdairyque/status/1991735212615823387"
 preview: "/media/portraits/pg-1991735212615823387.webp"

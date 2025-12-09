@@ -2,7 +2,7 @@
 title: "Famous Painting Character Cereal Ad"
 category: creative
 tags: ["3d", "chibi", "minimalist", "cute", "character"]
-author: "@ZHO_ZHO_ZHO"
+author: "[@ZHO_ZHO_ZHO](https://x.com/ZHO_ZHO_ZHO)"
 preview: "/media/creative/famous-painting-character-cereal-ad.webp"
 ---
 

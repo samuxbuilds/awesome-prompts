@@ -2,7 +2,7 @@
 title: "Sun-Kissed Serenity by the Poolside"
 category: portraits
 tags: ["vintage","nano-banana-pro"]
-author: "@Ashlley_grace_"
+author: "[@Ashlley_grace_](https://x.com/Ashlley_grace_)"
 author_url: "https://twitter.com/Ashlley_grace_"
 source_url: "https://twitter.com/Ashlley_grace_/status/1993840792071479299"
 preview: "/media/portraits/pg-1993840792071479299.webp"

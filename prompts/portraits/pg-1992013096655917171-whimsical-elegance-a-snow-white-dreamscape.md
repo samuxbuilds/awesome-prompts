@@ -2,7 +2,7 @@
 title: "Whimsical Elegance: A Snow-White Dreamscape"
 category: portraits
 tags: ["portrait","light","vibrant","nano-banana-pro"]
-author: "@Rania_22100"
+author: "[@Rania_22100](https://x.com/Rania_22100)"
 author_url: "https://twitter.com/Rania_22100"
 source_url: "https://twitter.com/Rania_22100/status/1992013096655917171"
 preview: "/media/portraits/pg-1992013096655917171.webp"

@@ -2,7 +2,7 @@
 title: "Step Back in Time: Edo Castle Town in Stunning Detail"
 category: creative
 tags: ["vibrant","nano-banana-pro"]
-author: "@old_pgmrs_will"
+author: "[@old_pgmrs_will](https://x.com/old_pgmrs_will)"
 author_url: "https://twitter.com/old_pgmrs_will"
 source_url: "https://twitter.com/old_pgmrs_will/status/1991707605086138408"
 preview: "/media/creative/pg-1991707605086138408.webp"

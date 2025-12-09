@@ -2,7 +2,7 @@
 title: "AI Skin Analysis and Skincare Routine"
 category: creative
 tags: ["professional", "ai-art"]
-author: "@nanobanana-pro"
+author: "[@nanobanana-pro](https://x.com/nanobanana-pro)"
 preview: "/media/creative/nb-ai-skin-analysis-and-skincare-routine.webp"
 ---
 

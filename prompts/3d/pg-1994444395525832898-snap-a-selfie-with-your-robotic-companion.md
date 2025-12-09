@@ -2,7 +2,7 @@
 title: "Snap a Selfie with Your Robotic Companion!"
 category: 3d
 tags: ["selfie","art","nano-banana-pro"]
-author: "@Samann_ai"
+author: "[@Samann_ai](https://x.com/Samann_ai)"
 author_url: "https://twitter.com/Samann_ai"
 source_url: "https://twitter.com/Samann_ai/status/1994444395525832898"
 preview: "/media/3d/pg-1994444395525832898.webp"

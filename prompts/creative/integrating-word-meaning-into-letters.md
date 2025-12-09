@@ -2,7 +2,7 @@
 title: "Integrating Word Meaning into Letters"
 category: creative
 tags: ["creative", "ai-art"]
-author: "@dotey"
+author: "[@dotey](https://x.com/dotey)"
 preview: "/media/creative/integrating-word-meaning-into-letters.webp"
 ---
 

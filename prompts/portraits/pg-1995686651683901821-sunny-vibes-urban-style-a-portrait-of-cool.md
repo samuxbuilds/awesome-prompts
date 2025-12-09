@@ -2,7 +2,7 @@
 title: "Sunny Vibes & Urban Style: A Portrait of Cool"
 category: portraits
 tags: ["portrait","urban","fashion","vibrant","nano-banana-pro"]
-author: "@oggii_0"
+author: "[@oggii_0](https://x.com/oggii_0)"
 author_url: "https://twitter.com/oggii_0"
 source_url: "https://twitter.com/oggii_0/status/1995686651683901821"
 preview: "/media/portraits/pg-1995686651683901821.webp"

@@ -2,7 +2,7 @@
 title: "Reflections of Growth: The Cartoon Within Us"
 category: 3d
 tags: ["cartoon","art","nano-banana-pro"]
-author: "@xmiiru_"
+author: "[@xmiiru_](https://x.com/xmiiru_)"
 author_url: "https://twitter.com/xmiiru_"
 source_url: "https://twitter.com/xmiiru_/status/1997182817235583293"
 preview: "/media/3d/pg-1997182817235583293.webp"

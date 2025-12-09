@@ -2,7 +2,7 @@
 title: "Summer Glow: A Cabana Selfie Delight"
 category: portraits
 tags: ["selfie","light","vibrant","nano-banana-pro"]
-author: "@_MehdiSharifi_"
+author: "[@_MehdiSharifi_](https://x.com/_MehdiSharifi_)"
 author_url: "https://twitter.com/_MehdiSharifi_"
 source_url: "https://twitter.com/_MehdiSharifi_/status/1995862230580023542"
 preview: "/media/portraits/pg-1995862230580023542.webp"

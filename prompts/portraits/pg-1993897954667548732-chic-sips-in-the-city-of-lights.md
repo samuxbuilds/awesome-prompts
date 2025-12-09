@@ -2,7 +2,7 @@
 title: "Chic Sips in the City of Lights"
 category: portraits
 tags: ["light","vibrant","nano-banana-pro"]
-author: "@minchoi"
+author: "[@minchoi](https://x.com/minchoi)"
 author_url: "https://twitter.com/minchoi"
 source_url: "https://twitter.com/minchoi/status/1993897954667548732"
 preview: "/media/portraits/pg-1993897954667548732.webp"

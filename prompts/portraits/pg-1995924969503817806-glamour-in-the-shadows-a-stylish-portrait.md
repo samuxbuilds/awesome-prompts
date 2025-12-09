@@ -2,7 +2,7 @@
 title: "Glamour in the Shadows: A Stylish Portrait"
 category: portraits
 tags: ["portrait","dark","nano-banana-pro"]
-author: "@miilesus"
+author: "[@miilesus](https://x.com/miilesus)"
 author_url: "https://twitter.com/miilesus"
 source_url: "https://twitter.com/miilesus/status/1995924969503817806"
 preview: "/media/portraits/pg-1995924969503817806.webp"

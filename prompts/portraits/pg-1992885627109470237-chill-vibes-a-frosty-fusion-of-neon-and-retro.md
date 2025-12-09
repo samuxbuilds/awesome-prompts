@@ -2,7 +2,7 @@
 title: "Chill Vibes: A Frosty Fusion of Neon and Retro"
 category: portraits
 tags: ["neon","nano-banana-pro"]
-author: "@chatgptpaglu"
+author: "[@chatgptpaglu](https://x.com/chatgptpaglu)"
 author_url: "https://twitter.com/chatgptpaglu"
 source_url: "https://twitter.com/chatgptpaglu/status/1992885627109470237"
 preview: "/media/portraits/pg-1992885627109470237.webp"

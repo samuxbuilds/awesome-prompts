@@ -2,7 +2,7 @@
 title: "Country Diorama in a Toy Box"
 category: 3d
 tags: ["3d", "realistic", "icon", "diorama"]
-author: "@TheRelianceAI"
+author: "[@TheRelianceAI](https://x.com/TheRelianceAI)"
 preview: "/media/3d/country-diorama-in-a-toy-box.webp"
 ---
 

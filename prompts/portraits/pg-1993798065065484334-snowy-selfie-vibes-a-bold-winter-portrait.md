@@ -2,7 +2,7 @@
 title: "Snowy Selfie Vibes: A Bold Winter Portrait"
 category: portraits
 tags: ["portrait","selfie","nano-banana-pro"]
-author: "@miilesus"
+author: "[@miilesus](https://x.com/miilesus)"
 author_url: "https://twitter.com/miilesus"
 source_url: "https://twitter.com/miilesus/status/1993798065065484334"
 preview: "/media/portraits/pg-1993798065065484334.webp"

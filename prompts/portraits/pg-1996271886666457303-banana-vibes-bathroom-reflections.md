@@ -2,7 +2,7 @@
 title: "Banana Vibes & Bathroom Reflections"
 category: portraits
 tags: ["selfie","fashion","pastel","nano-banana-pro"]
-author: "@saniaspeaks_"
+author: "[@saniaspeaks_](https://x.com/saniaspeaks_)"
 author_url: "https://twitter.com/saniaspeaks_"
 source_url: "https://twitter.com/saniaspeaks_/status/1996271886666457303"
 preview: "/media/portraits/pg-1996271886666457303.webp"

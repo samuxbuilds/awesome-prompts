@@ -2,7 +2,7 @@
 title: "35mm Film Style Flying Island"
 category: creative
 tags: ["creative", "ai-art"]
-author: "@dotey"
+author: "[@dotey](https://x.com/dotey)"
 preview: "/media/creative/35mm-film-style-flying-island.webp"
 ---
 

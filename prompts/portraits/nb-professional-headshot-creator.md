@@ -2,7 +2,7 @@
 title: "Professional Headshot Creator"
 category: portraits
 tags: ["realistic", "professional", "cinematic"]
-author: "@nanobanana-pro"
+author: "[@nanobanana-pro](https://x.com/nanobanana-pro)"
 preview: "/media/portraits/nb-professional-headshot-creator.webp"
 ---
 

@@ -2,7 +2,7 @@
 title: "Elegance Embodied: A Portrait of Confidence"
 category: portraits
 tags: ["portrait","light","pastel","vibrant","nano-banana-pro"]
-author: "@SimplyAnnisa"
+author: "[@SimplyAnnisa](https://x.com/SimplyAnnisa)"
 author_url: "https://twitter.com/SimplyAnnisa"
 source_url: "https://twitter.com/SimplyAnnisa/status/1994962490049139047"
 preview: "/media/portraits/pg-1994962490049139047.webp"

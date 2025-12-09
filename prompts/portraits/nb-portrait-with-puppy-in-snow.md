@@ -2,7 +2,7 @@
 title: "Portrait with Puppy in Snow"
 category: portraits
 tags: ["cute", "portrait"]
-author: "@nanobanana-pro"
+author: "[@nanobanana-pro](https://x.com/nanobanana-pro)"
 preview: "/media/portraits/nb-portrait-with-puppy-in-snow.webp"
 ---
 

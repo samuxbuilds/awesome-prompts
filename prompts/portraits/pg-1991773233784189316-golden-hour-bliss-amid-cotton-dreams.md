@@ -2,7 +2,7 @@
 title: "Golden Hour Bliss Amid Cotton Dreams"
 category: portraits
 tags: ["light","nano-banana-pro"]
-author: "@SimplyAnnisa"
+author: "[@SimplyAnnisa](https://x.com/SimplyAnnisa)"
 author_url: "https://twitter.com/SimplyAnnisa"
 source_url: "https://twitter.com/SimplyAnnisa/status/1991773233784189316"
 preview: "/media/portraits/pg-1991773233784189316.webp"

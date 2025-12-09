@@ -2,7 +2,7 @@
 title: "Vintage Vibes: A Subway Portrait in Red"
 category: 3d
 tags: ["portrait","vintage","vibrant","nano-banana-pro"]
-author: "@ZaraIrahh"
+author: "[@ZaraIrahh](https://x.com/ZaraIrahh)"
 author_url: "https://twitter.com/ZaraIrahh"
 source_url: "https://twitter.com/ZaraIrahh/status/1993126634304815217"
 preview: "/media/3d/pg-1993126634304815217.webp"

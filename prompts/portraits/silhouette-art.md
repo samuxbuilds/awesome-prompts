@@ -2,7 +2,7 @@
 title: "Silhouette Art"
 category: portraits
 tags: ["creative", "ai-art"]
-author: "@umesh_ai"
+author: "[@umesh_ai](https://x.com/umesh_ai)"
 preview: "/media/portraits/silhouette-art.webp"
 ---
 

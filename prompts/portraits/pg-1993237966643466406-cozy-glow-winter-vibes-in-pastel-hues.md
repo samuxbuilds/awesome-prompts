@@ -2,7 +2,7 @@
 title: "Cozy Glow: Winter Vibes in Pastel Hues"
 category: portraits
 tags: ["portrait","light","pastel","nano-banana-pro"]
-author: "@SimplyAnnisa"
+author: "[@SimplyAnnisa](https://x.com/SimplyAnnisa)"
 author_url: "https://twitter.com/SimplyAnnisa"
 source_url: "https://twitter.com/SimplyAnnisa/status/1993237966643466406"
 preview: "/media/portraits/pg-1993237966643466406.webp"

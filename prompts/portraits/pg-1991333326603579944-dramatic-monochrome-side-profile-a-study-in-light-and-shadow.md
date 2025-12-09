@@ -2,7 +2,7 @@
 title: "Dramatic Monochrome Side-Profile: A Study in Light and Shadow"
 category: portraits
 tags: ["portrait","minimal","light","nano-banana-pro"]
-author: "@SimplyAnnisa"
+author: "[@SimplyAnnisa](https://x.com/SimplyAnnisa)"
 author_url: "https://twitter.com/SimplyAnnisa"
 source_url: "https://twitter.com/SimplyAnnisa/status/1991333326603579944"
 preview: "/media/portraits/pg-1991333326603579944.webp"

@@ -2,7 +2,7 @@
 title: "Whispers of Winter: A Fox's Journey"
 category: creative
 tags: ["nano-banana-pro"]
-author: "@BeanieBlossom"
+author: "[@BeanieBlossom](https://x.com/BeanieBlossom)"
 author_url: "https://twitter.com/BeanieBlossom"
 source_url: "https://twitter.com/BeanieBlossom/status/1992880952054603848"
 preview: "/media/creative/pg-1992880952054603848.webp"

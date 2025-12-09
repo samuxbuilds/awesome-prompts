@@ -2,7 +2,7 @@
 title: "Glamour Unveiled: The Allure of Sequins"
 category: 3d
 tags: ["light","nano-banana-pro"]
-author: "@lexx_aura"
+author: "[@lexx_aura](https://x.com/lexx_aura)"
 author_url: "https://twitter.com/lexx_aura"
 source_url: "https://twitter.com/lexx_aura/status/1995087662882213894"
 preview: "/media/3d/pg-1995087662882213894.webp"

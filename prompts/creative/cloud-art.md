@@ -2,7 +2,7 @@
 title: "Cloud Art"
 category: creative
 tags: ["creative", "ai-art"]
-author: "@umesh_ai"
+author: "[@umesh_ai](https://x.com/umesh_ai)"
 preview: "/media/creative/cloud-art.webp"
 ---
 

@@ -2,7 +2,7 @@
 title: "Elevate Your Ambition: A Cinematic Office Inspiration"
 category: portraits
 tags: ["urban","light","nano-banana-pro"]
-author: "@saniaspeaks_"
+author: "[@saniaspeaks_](https://x.com/saniaspeaks_)"
 author_url: "https://twitter.com/saniaspeaks_"
 source_url: "https://twitter.com/saniaspeaks_/status/1991829032732905808"
 preview: ""

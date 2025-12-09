@@ -2,7 +2,7 @@
 title: "Coffee Vibes and Calm Confidence"
 category: 3d
 tags: ["light","nano-banana-pro"]
-author: "@Xxaroon"
+author: "[@Xxaroon](https://x.com/Xxaroon)"
 author_url: "https://twitter.com/Xxaroon"
 source_url: "https://twitter.com/Xxaroon/status/1991350094235595151"
 preview: "/media/3d/pg-1991350094235595151.webp"

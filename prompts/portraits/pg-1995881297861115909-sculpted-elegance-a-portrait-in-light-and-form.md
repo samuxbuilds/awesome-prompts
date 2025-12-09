@@ -2,7 +2,7 @@
 title: "Sculpted Elegance: A Portrait in Light and Form"
 category: portraits
 tags: ["portrait","art","light","nano-banana-pro"]
-author: "@ShreyaYadav___"
+author: "[@ShreyaYadav___](https://x.com/ShreyaYadav___)"
 author_url: "https://twitter.com/ShreyaYadav___"
 source_url: "https://twitter.com/ShreyaYadav___/status/1995881297861115909"
 preview: "/media/portraits/pg-1995881297861115909.webp"

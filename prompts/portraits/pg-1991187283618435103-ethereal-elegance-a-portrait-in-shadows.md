@@ -2,7 +2,7 @@
 title: "Ethereal Elegance: A Portrait in Shadows"
 category: portraits
 tags: ["realistic","portrait","dark","light","nano-banana-pro"]
-author: "@ShreyaYadav___"
+author: "[@ShreyaYadav___](https://x.com/ShreyaYadav___)"
 author_url: "https://twitter.com/ShreyaYadav___"
 source_url: "https://twitter.com/ShreyaYadav___/status/1991187283618435103"
 preview: "/media/portraits/pg-1991187283618435103.webp"

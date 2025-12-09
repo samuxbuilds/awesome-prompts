@@ -2,7 +2,7 @@
 title: "Fluffing Up Creativity: A Logo Like No Other"
 category: 3d
 tags: ["3d","realistic","light","nano-banana-pro"]
-author: "@icreatelife"
+author: "[@icreatelife](https://x.com/icreatelife)"
 author_url: "https://twitter.com/icreatelife"
 source_url: "https://twitter.com/icreatelife/status/1992927023279268029"
 preview: "/media/3d/pg-1992927023279268029.webp"

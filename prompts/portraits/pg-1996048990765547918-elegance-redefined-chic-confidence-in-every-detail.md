@@ -2,7 +2,7 @@
 title: "Elegance Redefined: Chic Confidence in Every Detail"
 category: portraits
 tags: ["modern","light","nano-banana-pro"]
-author: "@mehvishs25"
+author: "[@mehvishs25](https://x.com/mehvishs25)"
 author_url: "https://twitter.com/mehvishs25"
 source_url: "https://twitter.com/mehvishs25/status/1996048990765547918"
 preview: "/media/portraits/pg-1996048990765547918.webp"

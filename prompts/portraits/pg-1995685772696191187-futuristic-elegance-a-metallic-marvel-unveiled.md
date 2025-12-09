@@ -2,7 +2,7 @@
 title: "Futuristic Elegance: A Metallic Marvel Unveiled"
 category: portraits
 tags: ["portrait","fashion","nano-banana-pro"]
-author: "@Just_sharon7"
+author: "[@Just_sharon7](https://x.com/Just_sharon7)"
 author_url: "https://twitter.com/Just_sharon7"
 source_url: "https://twitter.com/Just_sharon7/status/1995685772696191187"
 preview: "/media/portraits/pg-1995685772696191187.webp"

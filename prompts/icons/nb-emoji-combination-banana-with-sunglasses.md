@@ -2,7 +2,7 @@
 title: "Emoji Combination - Banana with Sunglasses"
 category: icons
 tags: ["emoji", "glass"]
-author: "@nanobanana-pro"
+author: "[@nanobanana-pro](https://x.com/nanobanana-pro)"
 preview: "/media/icons/nb-emoji-combination-banana-with-sunglasses.webp"
 ---
 

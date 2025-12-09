@@ -2,7 +2,7 @@
 title: "Sunlit Smashes: Badminton Bliss at the Playground"
 category: 3d
 tags: ["vibrant","nano-banana-pro"]
-author: "@ReemKhan_07"
+author: "[@ReemKhan_07](https://x.com/ReemKhan_07)"
 author_url: "https://twitter.com/ReemKhan_07"
 source_url: "https://twitter.com/ReemKhan_07/status/1996423188834820180"
 preview: "/media/3d/pg-1996423188834820180.webp"

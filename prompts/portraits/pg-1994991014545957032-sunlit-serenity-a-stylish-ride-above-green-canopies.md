@@ -2,7 +2,7 @@
 title: "Sunlit Serenity: A Stylish Ride Above Green Canopies"
 category: portraits
 tags: ["nano-banana-pro"]
-author: "@ZaraIrahh"
+author: "[@ZaraIrahh](https://x.com/ZaraIrahh)"
 author_url: "https://twitter.com/ZaraIrahh"
 source_url: "https://twitter.com/ZaraIrahh/status/1994991014545957032"
 preview: "/media/portraits/pg-1994991014545957032.webp"

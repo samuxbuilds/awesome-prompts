@@ -2,7 +2,7 @@
 title: "Retro Style Promotional Poster"
 category: posters
 tags: ["retro", "vintage", "poster", "logo"]
-author: "@dotey"
+author: "[@dotey](https://x.com/dotey)"
 preview: "/media/posters/retro-style-promotional-poster.webp"
 ---
 

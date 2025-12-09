@@ -2,7 +2,7 @@
 title: "Effortless Elegance in a Cozy Retreat"
 category: portraits
 tags: ["modern","minimal","light","nano-banana-pro"]
-author: "@saniaspeaks_"
+author: "[@saniaspeaks_](https://x.com/saniaspeaks_)"
 author_url: "https://twitter.com/saniaspeaks_"
 source_url: "https://twitter.com/saniaspeaks_/status/1995816465531064716"
 preview: "/media/portraits/pg-1995816465531064716.webp"

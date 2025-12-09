@@ -2,7 +2,7 @@
 title: "Samurai Tides: A Katsushika Hokusai-Inspired Infographic"
 category: creative
 tags: ["art","modern","nano-banana-pro"]
-author: "@hAru_mAki_ch"
+author: "[@hAru_mAki_ch](https://x.com/hAru_mAki_ch)"
 author_url: "https://twitter.com/hAru_mAki_ch"
 source_url: "https://twitter.com/hAru_mAki_ch/status/1992463929684246763"
 preview: "/media/creative/pg-1992463929684246763.webp"

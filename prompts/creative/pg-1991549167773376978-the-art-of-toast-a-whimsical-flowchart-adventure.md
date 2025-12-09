@@ -2,7 +2,7 @@
 title: "The Art of Toast: A Whimsical Flowchart Adventure"
 category: creative
 tags: ["art","nano-banana-pro"]
-author: "@emollick"
+author: "[@emollick](https://x.com/emollick)"
 author_url: "https://twitter.com/emollick"
 source_url: "https://twitter.com/emollick/status/1991549167773376978"
 preview: "/media/creative/pg-1991549167773376978.webp"

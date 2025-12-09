@@ -2,7 +2,7 @@
 title: "A Patriots Fan's Pride: AI Meets NFL Spirit!"
 category: creative
 tags: ["vibrant","nano-banana-pro"]
-author: "@misuri_edelman"
+author: "[@misuri_edelman](https://x.com/misuri_edelman)"
 author_url: "https://twitter.com/misuri_edelman"
 source_url: "https://twitter.com/misuri_edelman/status/1991704379808968721"
 preview: "/media/creative/pg-1991704379808968721.webp"

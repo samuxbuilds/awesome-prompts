@@ -2,7 +2,7 @@
 title: "Moody Glamour: A Retro Fashion Moment"
 category: portraits
 tags: ["fashion","nano-banana-pro"]
-author: "@mehvishs25"
+author: "[@mehvishs25](https://x.com/mehvishs25)"
 author_url: "https://twitter.com/mehvishs25"
 source_url: "https://twitter.com/mehvishs25/status/1994964161332216069"
 preview: "/media/portraits/pg-1994964161332216069.webp"

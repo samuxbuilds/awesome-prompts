@@ -2,7 +2,7 @@
 title: "A Modern Twist on History: LBJ Takes Oath with an iPad"
 category: posters
 tags: ["modern","nano-banana-pro"]
-author: "@maxescu"
+author: "[@maxescu](https://x.com/maxescu)"
 author_url: "https://twitter.com/maxescu"
 source_url: "https://twitter.com/maxescu/status/1994465125999260028"
 preview: "/media/posters/pg-1994465125999260028.webp"

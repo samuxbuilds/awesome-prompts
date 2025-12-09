@@ -2,7 +2,7 @@
 title: "Riding the Buzz: A Stylish Adventure on a Giant Honeybee"
 category: portraits
 tags: ["nano-banana-pro"]
-author: "@ShreyaYadav___"
+author: "[@ShreyaYadav___](https://x.com/ShreyaYadav___)"
 author_url: "https://twitter.com/ShreyaYadav___"
 source_url: "https://twitter.com/ShreyaYadav___/status/1991058916201902184"
 preview: "/media/portraits/pg-1991058916201902184.webp"

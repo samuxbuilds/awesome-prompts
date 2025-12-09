@@ -2,7 +2,7 @@
 title: "Chic Elegance in a Tesla: A Morning Glamour Shot"
 category: portraits
 tags: ["light","nano-banana-pro"]
-author: "@kingofdairyque"
+author: "[@kingofdairyque](https://x.com/kingofdairyque)"
 author_url: "https://twitter.com/kingofdairyque"
 source_url: "https://twitter.com/kingofdairyque/status/1995004569483710718"
 preview: "/media/portraits/pg-1995004569483710718.webp"

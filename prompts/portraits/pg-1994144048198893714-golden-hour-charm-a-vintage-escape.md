@@ -2,7 +2,7 @@
 title: "Golden Hour Charm: A Vintage Escape"
 category: portraits
 tags: ["vintage","nano-banana-pro"]
-author: "@teachaixr"
+author: "[@teachaixr](https://x.com/teachaixr)"
 author_url: "https://twitter.com/teachaixr"
 source_url: "https://twitter.com/teachaixr/status/1994144048198893714"
 preview: "/media/portraits/pg-1994144048198893714.webp"

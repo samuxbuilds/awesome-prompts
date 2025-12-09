@@ -2,7 +2,7 @@
 title: "Crafting Cinematic Realities: A Set Designer's Dream"
 category: portraits
 tags: ["light","neon","nano-banana-pro"]
-author: "@IamEmily2050"
+author: "[@IamEmily2050](https://x.com/IamEmily2050)"
 author_url: "https://twitter.com/IamEmily2050"
 source_url: "https://twitter.com/IamEmily2050/status/1993250026567635146"
 preview: "/media/portraits/pg-1993250026567635146.webp"

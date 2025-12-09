@@ -2,7 +2,7 @@
 title: "Tropical Elegance: A Fashion Statement in Serenity"
 category: 3d
 tags: ["nature","fashion","light","nano-banana-pro"]
-author: "@ShreyaYadav___"
+author: "[@ShreyaYadav___](https://x.com/ShreyaYadav___)"
 author_url: "https://twitter.com/ShreyaYadav___"
 source_url: "https://twitter.com/ShreyaYadav___/status/1993900460441530764"
 preview: "/media/3d/pg-1993900460441530764.webp"

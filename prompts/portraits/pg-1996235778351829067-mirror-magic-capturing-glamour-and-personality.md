@@ -2,7 +2,7 @@
 title: "Mirror Magic: Capturing Glamour and Personality"
 category: portraits
 tags: ["selfie","vibrant","nano-banana-pro"]
-author: "@real_novax"
+author: "[@real_novax](https://x.com/real_novax)"
 author_url: "https://twitter.com/real_novax"
 source_url: "https://twitter.com/real_novax/status/1996235778351829067"
 preview: "/media/portraits/pg-1996235778351829067.webp"

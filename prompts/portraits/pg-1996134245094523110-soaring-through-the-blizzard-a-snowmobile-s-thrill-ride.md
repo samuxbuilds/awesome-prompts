@@ -2,7 +2,7 @@
 title: "Soaring Through the Blizzard: A Snowmobile's Thrill Ride"
 category: portraits
 tags: ["art","nano-banana-pro"]
-author: "@_imfaizan18"
+author: "[@_imfaizan18](https://x.com/_imfaizan18)"
 author_url: "https://twitter.com/_imfaizan18"
 source_url: "https://twitter.com/_imfaizan18/status/1996134245094523110"
 preview: "/media/portraits/pg-1996134245094523110.webp"

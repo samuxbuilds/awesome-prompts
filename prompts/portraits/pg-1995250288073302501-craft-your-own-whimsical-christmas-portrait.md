@@ -2,7 +2,7 @@
 title: "Craft Your Own Whimsical Christmas Portrait!"
 category: portraits
 tags: ["portrait","selfie","light","nano-banana-pro"]
-author: "@ecommartinez"
+author: "[@ecommartinez](https://x.com/ecommartinez)"
 author_url: "https://twitter.com/ecommartinez"
 source_url: "https://twitter.com/ecommartinez/status/1995250288073302501"
 preview: "/media/portraits/pg-1995250288073302501.webp"

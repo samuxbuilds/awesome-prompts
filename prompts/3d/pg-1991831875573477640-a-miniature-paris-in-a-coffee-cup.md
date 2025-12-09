@@ -2,7 +2,7 @@
 title: "A Miniature Paris in a Coffee Cup"
 category: 3d
 tags: ["miniature","nano-banana-pro"]
-author: "@umesh_ai"
+author: "[@umesh_ai](https://x.com/umesh_ai)"
 author_url: "https://twitter.com/umesh_ai"
 source_url: "https://twitter.com/umesh_ai/status/1991831875573477640"
 preview: "/media/3d/pg-1991831875573477640.webp"

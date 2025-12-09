@@ -2,7 +2,7 @@
 title: "Elegance in Red: A Modern Fashion Statement"
 category: portraits
 tags: ["modern","fashion","nano-banana-pro"]
-author: "@aleenaamiir"
+author: "[@aleenaamiir](https://x.com/aleenaamiir)"
 author_url: "https://twitter.com/aleenaamiir"
 source_url: "https://twitter.com/aleenaamiir/status/1996536685459607688"
 preview: "/media/portraits/pg-1996536685459607688.webp"

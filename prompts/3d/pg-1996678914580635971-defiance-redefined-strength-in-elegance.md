@@ -2,7 +2,7 @@
 title: "Defiance Redefined: Strength in Elegance"
 category: 3d
 tags: ["modern","nano-banana-pro"]
-author: "@egeberkina"
+author: "[@egeberkina](https://x.com/egeberkina)"
 author_url: "https://twitter.com/egeberkina"
 source_url: "https://twitter.com/egeberkina/status/1996678914580635971"
 preview: "/media/3d/pg-1996678914580635971.webp"

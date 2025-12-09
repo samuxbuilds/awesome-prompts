@@ -2,7 +2,7 @@
 title: "Wrinkles Under Pressure: A Surreal Take on Beauty"
 category: 3d
 tags: ["realistic","nano-banana-pro"]
-author: "@egeberkina"
+author: "[@egeberkina](https://x.com/egeberkina)"
 author_url: "https://twitter.com/egeberkina"
 source_url: "https://twitter.com/egeberkina/status/1997061102237049047"
 preview: "/media/3d/pg-1997061102237049047.webp"

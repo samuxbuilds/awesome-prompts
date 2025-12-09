@@ -2,7 +2,7 @@
 title: "Redefining Romance: AI-Generated Wedding Wonders"
 category: portraits
 tags: ["nano-banana-pro"]
-author: "@miilesus"
+author: "[@miilesus](https://x.com/miilesus)"
 author_url: "https://twitter.com/miilesus"
 source_url: "https://twitter.com/miilesus/status/1995536025859354724"
 preview: "/media/portraits/pg-1995536025859354724.webp"

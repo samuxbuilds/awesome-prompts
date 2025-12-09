@@ -2,7 +2,7 @@
 title: "Chic Confidence Courtside: A Bold Portrait"
 category: portraits
 tags: ["portrait","dark","nano-banana-pro"]
-author: "@Just_sharon7"
+author: "[@Just_sharon7](https://x.com/Just_sharon7)"
 author_url: "https://twitter.com/Just_sharon7"
 source_url: "https://twitter.com/Just_sharon7/status/1993191642627453301"
 preview: "/media/portraits/pg-1993191642627453301.webp"

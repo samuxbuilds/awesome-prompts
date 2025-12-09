@@ -2,7 +2,7 @@
 title: "Whimsical Ink: A Playful Fusion of History and Humor"
 category: portraits
 tags: ["art","nano-banana-pro"]
-author: "@dotey"
+author: "[@dotey](https://x.com/dotey)"
 author_url: "https://twitter.com/dotey"
 source_url: "https://twitter.com/dotey/status/1991928906291556681"
 preview: "/media/portraits/pg-1991928906291556681.webp"

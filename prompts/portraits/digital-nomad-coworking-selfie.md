@@ -2,7 +2,7 @@
 title: "Digital Nomad Coworking"
 category: portraits
 tags: ["digital-nomad", "coworking", "tropical", "lifestyle", "text-overlay"]
-author: "@levelsio"
+author: "[@levelsio](https://x.com/levelsio)"
 author_url: "https://x.com/levelsio"
 source_url: "https://x.com/levelsio/status/1997570538705911887"
 preview: "/media/portraits/digital-nomad-coworking.webp"

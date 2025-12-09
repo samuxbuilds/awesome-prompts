@@ -2,7 +2,7 @@
 title: "Transforming Conversations with NanoBanana Pro!"
 category: creative
 tags: ["nano-banana-pro"]
-author: "@tegnike"
+author: "[@tegnike](https://x.com/tegnike)"
 author_url: "https://twitter.com/tegnike"
 source_url: "https://twitter.com/tegnike/status/1991557599519728113"
 preview: "/media/creative/pg-1991557599519728113.webp"

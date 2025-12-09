@@ -2,7 +2,7 @@
 title: "Sunkissed Serenity: A Fashion Portrait in the Summer Heat"
 category: portraits
 tags: ["portrait","fashion","nano-banana-pro"]
-author: "@lexx_aura"
+author: "[@lexx_aura](https://x.com/lexx_aura)"
 author_url: "https://twitter.com/lexx_aura"
 source_url: "https://twitter.com/lexx_aura/status/1994351098509861265"
 preview: "/media/portraits/pg-1994351098509861265.webp"

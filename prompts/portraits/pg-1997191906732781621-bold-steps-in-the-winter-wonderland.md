@@ -2,7 +2,7 @@
 title: "Bold Steps in the Winter Wonderland"
 category: portraits
 tags: ["vibrant","nano-banana-pro"]
-author: "@Sophia_here12"
+author: "[@Sophia_here12](https://x.com/Sophia_here12)"
 author_url: "https://twitter.com/Sophia_here12"
 source_url: "https://twitter.com/Sophia_here12/status/1997191906732781621"
 preview: "/media/portraits/pg-1997191906732781621.webp"

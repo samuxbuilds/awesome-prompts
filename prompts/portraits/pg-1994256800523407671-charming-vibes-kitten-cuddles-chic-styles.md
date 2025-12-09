@@ -2,7 +2,7 @@
 title: "Charming Vibes: Kitten Cuddles & Chic Styles"
 category: portraits
 tags: ["vibrant","nano-banana-pro"]
-author: "@saniaspeaks_"
+author: "[@saniaspeaks_](https://x.com/saniaspeaks_)"
 author_url: "https://twitter.com/saniaspeaks_"
 source_url: "https://twitter.com/saniaspeaks_/status/1994256800523407671"
 preview: "/media/portraits/pg-1994256800523407671.webp"

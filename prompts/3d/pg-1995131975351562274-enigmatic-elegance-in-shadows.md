@@ -2,7 +2,7 @@
 title: "Enigmatic Elegance in Shadows"
 category: 3d
 tags: ["portrait","dark","light","nano-banana-pro"]
-author: "@SimplyAnnisa"
+author: "[@SimplyAnnisa](https://x.com/SimplyAnnisa)"
 author_url: "https://twitter.com/SimplyAnnisa"
 source_url: "https://twitter.com/SimplyAnnisa/status/1995131975351562274"
 preview: "/media/3d/pg-1995131975351562274.webp"

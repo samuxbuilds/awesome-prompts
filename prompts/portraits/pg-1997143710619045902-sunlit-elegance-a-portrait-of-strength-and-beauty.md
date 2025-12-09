@@ -2,7 +2,7 @@
 title: "Sunlit Elegance: A Portrait of Strength and Beauty"
 category: portraits
 tags: ["portrait","light","nano-banana-pro"]
-author: "@AIByAbbay"
+author: "[@AIByAbbay](https://x.com/AIByAbbay)"
 author_url: "https://twitter.com/AIByAbbay"
 source_url: "https://twitter.com/AIByAbbay/status/1997143710619045902"
 preview: "/media/portraits/pg-1997143710619045902.webp"

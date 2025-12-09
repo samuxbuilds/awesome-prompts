@@ -2,7 +2,7 @@
 title: "Sunlit Serenity: A Moment of Calm Amidst the Chaos"
 category: portraits
 tags: ["light","pastel","nano-banana-pro"]
-author: "@Ashlley_grace_"
+author: "[@Ashlley_grace_](https://x.com/Ashlley_grace_)"
 author_url: "https://twitter.com/Ashlley_grace_"
 source_url: "https://twitter.com/Ashlley_grace_/status/1993115578421461467"
 preview: "/media/portraits/pg-1993115578421461467.webp"

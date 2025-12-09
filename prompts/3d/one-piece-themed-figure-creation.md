@@ -2,7 +2,7 @@
 title: "One Piece Themed Figure Creation"
 category: 3d
 tags: ["anime", "realistic", "character"]
-author: "@dotey"
+author: "[@dotey](https://x.com/dotey)"
 preview: "/media/3d/one-piece-themed-figure-creation.webp"
 ---
 

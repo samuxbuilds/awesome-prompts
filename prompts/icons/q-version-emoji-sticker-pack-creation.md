@@ -2,7 +2,7 @@
 title: "Q-version Emoji Sticker Pack Creation"
 category: icons
 tags: ["chibi", "cute", "sticker", "emoji", "character"]
-author: "@dotey"
+author: "[@dotey](https://x.com/dotey)"
 preview: "/media/icons/q-version-emoji-sticker-pack-creation.webp"
 ---
 

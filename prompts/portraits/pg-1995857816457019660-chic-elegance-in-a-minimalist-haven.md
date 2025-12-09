@@ -2,7 +2,7 @@
 title: "Chic Elegance in a Minimalist Haven"
 category: portraits
 tags: ["art","modern","fashion","minimal","nano-banana-pro"]
-author: "@lexx_aura"
+author: "[@lexx_aura](https://x.com/lexx_aura)"
 author_url: "https://twitter.com/lexx_aura"
 source_url: "https://twitter.com/lexx_aura/status/1995857816457019660"
 preview: "/media/portraits/pg-1995857816457019660.webp"

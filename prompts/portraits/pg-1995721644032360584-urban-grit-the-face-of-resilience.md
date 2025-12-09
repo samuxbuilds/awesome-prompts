@@ -2,7 +2,7 @@
 title: "Urban Grit: The Face of Resilience"
 category: portraits
 tags: ["portrait","urban","nano-banana-pro"]
-author: "@AIwithkhan"
+author: "[@AIwithkhan](https://x.com/AIwithkhan)"
 author_url: "https://twitter.com/AIwithkhan"
 source_url: "https://twitter.com/AIwithkhan/status/1995721644032360584"
 preview: "/media/portraits/pg-1995721644032360584.webp"

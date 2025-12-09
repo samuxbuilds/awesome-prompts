@@ -2,7 +2,7 @@
 title: "Silhouetted Elegance: Portrait of Light and Shadow"
 category: portraits
 tags: ["portrait","light","nano-banana-pro"]
-author: "@AIByAbbay"
+author: "[@AIByAbbay](https://x.com/AIByAbbay)"
 author_url: "https://twitter.com/AIByAbbay"
 source_url: "https://twitter.com/AIByAbbay/status/1996418934778863865"
 preview: "/media/portraits/pg-1996418934778863865.webp"

@@ -2,7 +2,7 @@
 title: "Anatomical Elegance: A Victorian Surgeon’s Artistry"
 category: creative
 tags: ["art","nano-banana-pro"]
-author: "@BeanieBlossom"
+author: "[@BeanieBlossom](https://x.com/BeanieBlossom)"
 author_url: "https://twitter.com/BeanieBlossom"
 source_url: "https://twitter.com/BeanieBlossom/status/1996868169546579972"
 preview: "/media/creative/pg-1996868169546579972.webp"

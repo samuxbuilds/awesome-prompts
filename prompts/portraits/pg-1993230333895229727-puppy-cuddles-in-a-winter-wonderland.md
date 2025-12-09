@@ -2,7 +2,7 @@
 title: "Puppy Cuddles in a Winter Wonderland"
 category: portraits
 tags: ["art","vibrant","nano-banana-pro"]
-author: "@kingofdairyque"
+author: "[@kingofdairyque](https://x.com/kingofdairyque)"
 author_url: "https://twitter.com/kingofdairyque"
 source_url: "https://twitter.com/kingofdairyque/status/1993230333895229727"
 preview: "/media/portraits/pg-1993230333895229727.webp"

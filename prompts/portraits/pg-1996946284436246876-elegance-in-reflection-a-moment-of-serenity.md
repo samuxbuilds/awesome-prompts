@@ -2,7 +2,7 @@
 title: "Elegance in Reflection: A Moment of Serenity"
 category: portraits
 tags: ["light","nano-banana-pro"]
-author: "@rowanali09"
+author: "[@rowanali09](https://x.com/rowanali09)"
 author_url: "https://twitter.com/rowanali09"
 source_url: "https://twitter.com/rowanali09/status/1996946284436246876"
 preview: "/media/portraits/pg-1996946284436246876.webp"

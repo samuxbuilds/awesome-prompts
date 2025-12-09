@@ -2,7 +2,7 @@
 title: "A Night of Thoughts: Reflections on the Gemini Nano Banana 3.0"
 category: portraits
 tags: ["nano-banana-pro"]
-author: "@YaseenK7212"
+author: "[@YaseenK7212](https://x.com/YaseenK7212)"
 author_url: "https://twitter.com/YaseenK7212"
 source_url: "https://twitter.com/YaseenK7212/status/1992590973885432046"
 preview: "/media/portraits/pg-1992590973885432046.webp"

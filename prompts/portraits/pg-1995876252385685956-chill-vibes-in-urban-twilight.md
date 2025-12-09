@@ -2,7 +2,7 @@
 title: "Chill Vibes in Urban Twilight"
 category: portraits
 tags: ["urban","light","nano-banana-pro"]
-author: "@Zar_xplorer"
+author: "[@Zar_xplorer](https://x.com/Zar_xplorer)"
 author_url: "https://twitter.com/Zar_xplorer"
 source_url: "https://twitter.com/Zar_xplorer/status/1995876252385685956"
 preview: "/media/portraits/pg-1995876252385685956.webp"

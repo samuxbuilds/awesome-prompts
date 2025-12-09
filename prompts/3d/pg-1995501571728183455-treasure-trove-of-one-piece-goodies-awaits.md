@@ -2,7 +2,7 @@
 title: "Treasure Trove of One Piece Goodies Awaits!"
 category: 3d
 tags: ["light","vibrant","nano-banana-pro"]
-author: "@awesome_visuals"
+author: "[@awesome_visuals](https://x.com/awesome_visuals)"
 author_url: "https://twitter.com/awesome_visuals"
 source_url: "https://twitter.com/awesome_visuals/status/1995501571728183455"
 preview: "/media/3d/pg-1995501571728183455.webp"

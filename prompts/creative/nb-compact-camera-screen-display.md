@@ -2,7 +2,7 @@
 title: "Compact Camera Screen Display"
 category: creative
 tags: ["logo", "nostalgic"]
-author: "@nanobanana-pro"
+author: "[@nanobanana-pro](https://x.com/nanobanana-pro)"
 preview: "/media/creative/nb-compact-camera-screen-display.webp"
 ---
 

@@ -2,7 +2,7 @@
 title: "Cosmic Vibes: A Stylish Teen Portrait"
 category: portraits
 tags: ["portrait","cute","dark","nano-banana-pro"]
-author: "@YaseenK7212"
+author: "[@YaseenK7212](https://x.com/YaseenK7212)"
 author_url: "https://twitter.com/YaseenK7212"
 source_url: "https://twitter.com/YaseenK7212/status/1994984379186102752"
 preview: "/media/portraits/pg-1994984379186102752.webp"

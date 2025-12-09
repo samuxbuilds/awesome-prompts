@@ -2,7 +2,7 @@
 title: "Sculpted Elegance: A Modern Portrait"
 category: portraits
 tags: ["realistic","portrait","modern","nano-banana-pro"]
-author: "@SimplyAnnisa"
+author: "[@SimplyAnnisa](https://x.com/SimplyAnnisa)"
 author_url: "https://twitter.com/SimplyAnnisa"
 source_url: "https://twitter.com/SimplyAnnisa/status/1991470728986644794"
 preview: "/media/portraits/pg-1991470728986644794.webp"

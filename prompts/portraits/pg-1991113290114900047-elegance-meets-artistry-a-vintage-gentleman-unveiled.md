@@ -2,7 +2,7 @@
 title: "Elegance Meets Artistry: A Vintage Gentleman Unveiled"
 category: portraits
 tags: ["illustration","art","vintage","nano-banana-pro"]
-author: "@ShreyaYadav___"
+author: "[@ShreyaYadav___](https://x.com/ShreyaYadav___)"
 author_url: "https://twitter.com/ShreyaYadav___"
 source_url: "https://twitter.com/ShreyaYadav___/status/1991113290114900047"
 preview: "/media/portraits/pg-1991113290114900047.webp"

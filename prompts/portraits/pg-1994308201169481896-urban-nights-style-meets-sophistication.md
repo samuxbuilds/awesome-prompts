@@ -2,7 +2,7 @@
 title: "Urban Nights: Style Meets Sophistication"
 category: portraits
 tags: ["modern","urban","light","nano-banana-pro"]
-author: "@SimplyAnnisa"
+author: "[@SimplyAnnisa](https://x.com/SimplyAnnisa)"
 author_url: "https://twitter.com/SimplyAnnisa"
 source_url: "https://twitter.com/SimplyAnnisa/status/1994308201169481896"
 preview: "/media/portraits/pg-1994308201169481896.webp"

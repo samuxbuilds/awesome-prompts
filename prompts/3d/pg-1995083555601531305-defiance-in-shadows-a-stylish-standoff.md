@@ -2,7 +2,7 @@
 title: "Defiance in Shadows: A Stylish Standoff"
 category: 3d
 tags: ["dark","nano-banana-pro"]
-author: "@SimplyAnnisa"
+author: "[@SimplyAnnisa](https://x.com/SimplyAnnisa)"
 author_url: "https://twitter.com/SimplyAnnisa"
 source_url: "https://twitter.com/SimplyAnnisa/status/1995083555601531305"
 preview: "/media/3d/pg-1995083555601531305.webp"

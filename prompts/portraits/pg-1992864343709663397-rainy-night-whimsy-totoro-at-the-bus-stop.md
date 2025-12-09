@@ -2,7 +2,7 @@
 title: "Rainy Night Whimsy: Totoro at the Bus Stop"
 category: portraits
 tags: ["nano-banana-pro"]
-author: "@lexx_aura"
+author: "[@lexx_aura](https://x.com/lexx_aura)"
 author_url: "https://twitter.com/lexx_aura"
 source_url: "https://twitter.com/lexx_aura/status/1992864343709663397"
 preview: "/media/portraits/pg-1992864343709663397.webp"

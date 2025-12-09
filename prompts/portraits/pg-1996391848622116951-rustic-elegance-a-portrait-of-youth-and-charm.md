@@ -2,7 +2,7 @@
 title: "Rustic Elegance: A Portrait of Youth and Charm"
 category: portraits
 tags: ["portrait","nano-banana-pro"]
-author: "@SimplyAnnisa"
+author: "[@SimplyAnnisa](https://x.com/SimplyAnnisa)"
 author_url: "https://twitter.com/SimplyAnnisa"
 source_url: "https://twitter.com/SimplyAnnisa/status/1996391848622116951"
 preview: "/media/portraits/pg-1996391848622116951.webp"

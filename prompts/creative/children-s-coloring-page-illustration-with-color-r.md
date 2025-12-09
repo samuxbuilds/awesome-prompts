@@ -2,7 +2,7 @@
 title: "Children's Coloring Page Illustration (with Color Reference)"
 category: creative
 tags: ["illustration", "ai-art"]
-author: "@dotey"
+author: "[@dotey](https://x.com/dotey)"
 preview: "/media/creative/children-s-coloring-page-illustration-with-color-r.webp"
 ---
 

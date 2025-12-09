@@ -2,7 +2,7 @@
 title: "Face Detection CCTV Simulation"
 category: creative
 tags: ["creative", "ai-art"]
-author: "@nanobanana-pro"
+author: "[@nanobanana-pro](https://x.com/nanobanana-pro)"
 preview: "/media/creative/nb-face-detection-cctv-simulation.webp"
 ---
 

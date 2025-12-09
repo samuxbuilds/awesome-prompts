@@ -2,7 +2,7 @@
 title: "Cute and Cozy Knitted Doll"
 category: creative
 tags: ["chibi", "realistic", "cute", "character"]
-author: "@ZHO_ZHO_ZHO"
+author: "[@ZHO_ZHO_ZHO](https://x.com/ZHO_ZHO_ZHO)"
 preview: "/media/creative/cute-and-cozy-knitted-doll.webp"
 ---
 

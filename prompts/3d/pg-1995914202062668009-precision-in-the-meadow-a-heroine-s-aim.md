@@ -2,7 +2,7 @@
 title: "Precision in the Meadow: A Heroine's Aim"
 category: 3d
 tags: ["light","vibrant","nano-banana-pro"]
-author: "@ShreyaYadav___"
+author: "[@ShreyaYadav___](https://x.com/ShreyaYadav___)"
 author_url: "https://twitter.com/ShreyaYadav___"
 source_url: "https://twitter.com/ShreyaYadav___/status/1995914202062668009"
 preview: "/media/3d/pg-1995914202062668009.webp"

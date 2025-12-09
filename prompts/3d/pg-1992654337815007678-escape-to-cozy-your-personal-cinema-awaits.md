@@ -2,7 +2,7 @@
 title: "Escape to Cozy: Your Personal Cinema Awaits!"
 category: 3d
 tags: ["nano-banana-pro"]
-author: "@egeberkina"
+author: "[@egeberkina](https://x.com/egeberkina)"
 author_url: "https://twitter.com/egeberkina"
 source_url: "https://twitter.com/egeberkina/status/1992654337815007678"
 preview: "/media/3d/pg-1992654337815007678.webp"

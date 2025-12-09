@@ -2,7 +2,7 @@
 title: "Frozen Essence: A Glimpse into the Heart of Winter"
 category: portraits
 tags: ["portrait","art","light","nano-banana-pro"]
-author: "@ChillaiKalan__"
+author: "[@ChillaiKalan__](https://x.com/ChillaiKalan__)"
 author_url: "https://twitter.com/ChillaiKalan__"
 source_url: "https://twitter.com/ChillaiKalan__/status/1995893928177049803"
 preview: "/media/portraits/pg-1995893928177049803.webp"

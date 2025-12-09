@@ -2,7 +2,7 @@
 title: "MrBeast Style - Extreme Scale"
 category: "thumbnails"
 tags: ["mrbeast", "youtube", "thumbnail", "scale", "massive"]
-author: "@samux"
+author: "[@samux](https://x.com/samux)"
 preview: "/media/thumbnails/mrbeast-extreme-scale.webp"
 ---
 

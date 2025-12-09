@@ -2,7 +2,7 @@
 title: "Unveiling December's Warmth and Magic ✨"
 category: portraits
 tags: ["portrait","art","light","nano-banana-pro"]
-author: "@MrDasOnX"
+author: "[@MrDasOnX](https://x.com/MrDasOnX)"
 author_url: "https://twitter.com/MrDasOnX"
 source_url: "https://twitter.com/MrDasOnX/status/1995487389024915607"
 preview: "/media/portraits/pg-1995487389024915607.webp"

@@ -2,7 +2,7 @@
 title: "Urban Elegance: A Gritty Portrait in Monochrome"
 category: 3d
 tags: ["portrait","urban","nano-banana-pro"]
-author: "@rovvmut_"
+author: "[@rovvmut_](https://x.com/rovvmut_)"
 author_url: "https://twitter.com/rovvmut_"
 source_url: "https://twitter.com/rovvmut_/status/1996523096170549383"
 preview: "/media/3d/pg-1996523096170549383.webp"

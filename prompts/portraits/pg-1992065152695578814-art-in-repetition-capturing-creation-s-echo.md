@@ -2,7 +2,7 @@
 title: "Art in Repetition: Capturing Creation's Echo"
 category: portraits
 tags: ["art","nano-banana-pro"]
-author: "@plasm0"
+author: "[@plasm0](https://x.com/plasm0)"
 author_url: "https://twitter.com/plasm0"
 source_url: "https://twitter.com/plasm0/status/1992065152695578814"
 preview: "/media/portraits/pg-1992065152695578814.webp"

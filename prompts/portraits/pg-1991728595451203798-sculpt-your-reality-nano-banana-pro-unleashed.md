@@ -2,7 +2,7 @@
 title: "Sculpt Your Reality: Nano Banana Pro Unleashed!"
 category: portraits
 tags: ["nano-banana-pro"]
-author: "@umesh_ai"
+author: "[@umesh_ai](https://x.com/umesh_ai)"
 author_url: "https://twitter.com/umesh_ai"
 source_url: "https://twitter.com/umesh_ai/status/1991728595451203798"
 preview: "/media/portraits/pg-1991728595451203798.webp"

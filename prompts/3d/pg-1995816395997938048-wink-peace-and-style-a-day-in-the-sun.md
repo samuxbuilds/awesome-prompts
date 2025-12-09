@@ -2,7 +2,7 @@
 title: "Wink, Peace, and Style: A Day in the Sun"
 category: 3d
 tags: ["nano-banana-pro"]
-author: "@SimplyAnnisa"
+author: "[@SimplyAnnisa](https://x.com/SimplyAnnisa)"
 author_url: "https://twitter.com/SimplyAnnisa"
 source_url: "https://twitter.com/SimplyAnnisa/status/1995816395997938048"
 preview: "/media/3d/pg-1995816395997938048.webp"

@@ -2,7 +2,7 @@
 title: "Satirical Poster Generation"
 category: posters
 tags: ["poster", "ai-art"]
-author: "@ZHO_ZHO_ZHO"
+author: "[@ZHO_ZHO_ZHO](https://x.com/ZHO_ZHO_ZHO)"
 preview: "/media/posters/satirical-poster-generation.webp"
 ---
 

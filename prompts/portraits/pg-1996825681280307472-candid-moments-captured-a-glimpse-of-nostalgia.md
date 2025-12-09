@@ -2,7 +2,7 @@
 title: "Candid Moments Captured: A Glimpse of Nostalgia"
 category: portraits
 tags: ["light","nano-banana-pro"]
-author: "@xmliisu"
+author: "[@xmliisu](https://x.com/xmliisu)"
 author_url: "https://twitter.com/xmliisu"
 source_url: "https://twitter.com/xmliisu/status/1996825681280307472"
 preview: "/media/portraits/pg-1996825681280307472.webp"

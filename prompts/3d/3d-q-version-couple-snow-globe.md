@@ -2,7 +2,7 @@
 title: "3D Q-version Couple Snow Globe"
 category: 3d
 tags: ["3d", "chibi", "cute", "couple", "character"]
-author: "@balconychy"
+author: "[@balconychy](https://x.com/balconychy)"
 preview: "/media/3d/3d-q-version-couple-snow-globe.webp"
 ---
 

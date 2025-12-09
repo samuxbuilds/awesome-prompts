@@ -2,7 +2,7 @@
 title: "Anime Meets Reality on the Tube"
 category: portraits
 tags: ["anime","fantasy","vibrant","nano-banana-pro"]
-author: "@fofrAI"
+author: "[@fofrAI](https://x.com/fofrAI)"
 author_url: "https://twitter.com/fofrAI"
 source_url: "https://twitter.com/fofrAI/status/1991583161495502896"
 preview: "/media/portraits/pg-1991583161495502896.webp"

@@ -2,7 +2,7 @@
 title: "Blurred Silhouette Behind Frosted Glass"
 category: portraits
 tags: ["glass", "ai-art"]
-author: "@umesh_ai"
+author: "[@umesh_ai](https://x.com/umesh_ai)"
 preview: "/media/portraits/blurred-silhouette-behind-frosted-glass.webp"
 ---
 

@@ -2,7 +2,7 @@
 title: "Satirical Cartoon Generation"
 category: creative
 tags: ["cartoon", "retro", "vintage", "comic", "illustration"]
-author: "@dotey"
+author: "[@dotey](https://x.com/dotey)"
 preview: "/media/creative/satirical-cartoon-generation.webp"
 ---
 

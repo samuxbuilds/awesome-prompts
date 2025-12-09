@@ -2,7 +2,7 @@
 title: "Ethereal Elegance: A Portrait of Timeless Serenity"
 category: portraits
 tags: ["portrait","art","modern","nano-banana-pro"]
-author: "@ShreyaYadav___"
+author: "[@ShreyaYadav___](https://x.com/ShreyaYadav___)"
 author_url: "https://twitter.com/ShreyaYadav___"
 source_url: "https://twitter.com/ShreyaYadav___/status/1992947035935560074"
 preview: "/media/portraits/pg-1992947035935560074.webp"

@@ -2,7 +2,7 @@
 title: "Dreaming Deep: A Whimsical Underwater Fantasy"
 category: 3d
 tags: ["art","fantasy","nano-banana-pro"]
-author: "@_MehdiSharifi_"
+author: "[@_MehdiSharifi_](https://x.com/_MehdiSharifi_)"
 author_url: "https://twitter.com/_MehdiSharifi_"
 source_url: "https://twitter.com/_MehdiSharifi_/status/1996969905678143983"
 preview: "/media/3d/pg-1996969905678143983.webp"

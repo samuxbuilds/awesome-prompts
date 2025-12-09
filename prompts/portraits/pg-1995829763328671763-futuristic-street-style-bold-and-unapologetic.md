@@ -2,7 +2,7 @@
 title: "Futuristic Street Style: Bold and Unapologetic"
 category: portraits
 tags: ["urban","neon","nano-banana-pro"]
-author: "@Strength04_X"
+author: "[@Strength04_X](https://x.com/Strength04_X)"
 author_url: "https://twitter.com/Strength04_X"
 source_url: "https://twitter.com/Strength04_X/status/1995829763328671763"
 preview: "/media/portraits/pg-1995829763328671763.webp"

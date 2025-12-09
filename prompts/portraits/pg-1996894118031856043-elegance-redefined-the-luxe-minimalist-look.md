@@ -2,7 +2,7 @@
 title: "Elegance Redefined: The Luxe Minimalist Look"
 category: portraits
 tags: ["modern","minimal","nano-banana-pro"]
-author: "@kingofdairyque"
+author: "[@kingofdairyque](https://x.com/kingofdairyque)"
 author_url: "https://twitter.com/kingofdairyque"
 source_url: "https://twitter.com/kingofdairyque/status/1996894118031856043"
 preview: "/media/portraits/pg-1996894118031856043.webp"

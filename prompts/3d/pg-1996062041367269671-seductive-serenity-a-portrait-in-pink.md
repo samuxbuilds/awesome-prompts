@@ -2,7 +2,7 @@
 title: "Seductive Serenity: A Portrait in Pink"
 category: 3d
 tags: ["portrait","light","nano-banana-pro"]
-author: "@xmiiru_"
+author: "[@xmiiru_](https://x.com/xmiiru_)"
 author_url: "https://twitter.com/xmiiru_"
 source_url: "https://twitter.com/xmiiru_/status/1996062041367269671"
 preview: "/media/3d/pg-1996062041367269671.webp"

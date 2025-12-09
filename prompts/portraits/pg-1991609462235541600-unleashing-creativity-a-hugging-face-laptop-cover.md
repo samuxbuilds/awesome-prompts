@@ -2,7 +2,7 @@
 title: "Unleashing Creativity: A Hugging Face Laptop Cover"
 category: portraits
 tags: ["colorful","vibrant","nano-banana-pro"]
-author: "@multimodalart"
+author: "[@multimodalart](https://x.com/multimodalart)"
 author_url: "https://twitter.com/multimodalart"
 source_url: "https://twitter.com/multimodalart/status/1991609462235541600"
 preview: "/media/portraits/pg-1991609462235541600.webp"

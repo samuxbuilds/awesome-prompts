@@ -2,7 +2,7 @@
 title: "Whiteboard Marker Art"
 category: creative
 tags: ["glass", "ai-art"]
-author: "@nanobanana-pro"
+author: "[@nanobanana-pro](https://x.com/nanobanana-pro)"
 preview: "/media/creative/nb-whiteboard-marker-art.webp"
 ---
 

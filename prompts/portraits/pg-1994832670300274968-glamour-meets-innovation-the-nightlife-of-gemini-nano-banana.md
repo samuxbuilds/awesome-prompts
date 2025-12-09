@@ -2,7 +2,7 @@
 title: "Glamour Meets Innovation: The Nightlife of Gemini Nano Banana 3.0"
 category: portraits
 tags: ["light","nano-banana-pro"]
-author: "@xmliisu"
+author: "[@xmliisu](https://x.com/xmliisu)"
 author_url: "https://twitter.com/xmliisu"
 source_url: "https://twitter.com/xmliisu/status/1994832670300274968"
 preview: "/media/portraits/pg-1994832670300274968.webp"

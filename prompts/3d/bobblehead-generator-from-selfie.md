@@ -2,7 +2,7 @@
 title: "Bobblehead Generator from Selfie"
 category: 3d
 tags: ["cartoon", "ai-art"]
-author: "@thisdudelikesAI"
+author: "[@thisdudelikesAI](https://x.com/thisdudelikesAI)"
 preview: "/media/3d/bobblehead-generator-from-selfie.webp"
 ---
 

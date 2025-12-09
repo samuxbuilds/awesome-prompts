@@ -2,7 +2,7 @@
 title: "Sunset Serenade: A Portrait of Grace and Glow"
 category: portraits
 tags: ["portrait","light","pastel","nano-banana-pro"]
-author: "@real_novax"
+author: "[@real_novax](https://x.com/real_novax)"
 author_url: "https://twitter.com/real_novax"
 source_url: "https://twitter.com/real_novax/status/1991842136472314031"
 preview: "/media/portraits/pg-1991842136472314031.webp"

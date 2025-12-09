@@ -2,7 +2,7 @@
 title: "Cinematic Elegance: A Portrait of Style and Confidence"
 category: 3d
 tags: ["realistic","portrait","light","nano-banana-pro"]
-author: "@Taaruk_"
+author: "[@Taaruk_](https://x.com/Taaruk_)"
 author_url: "https://twitter.com/Taaruk_"
 source_url: "https://twitter.com/Taaruk_/status/1996411574362550675"
 preview: "/media/3d/pg-1996411574362550675.webp"

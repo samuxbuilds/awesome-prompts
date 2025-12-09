@@ -2,7 +2,7 @@
 title: "Radiant Portrait: A Fusion of Light and Detail"
 category: portraits
 tags: ["portrait","illustration","minimal","light","vibrant","nano-banana-pro"]
-author: "@ShreyaYadav___"
+author: "[@ShreyaYadav___](https://x.com/ShreyaYadav___)"
 author_url: "https://twitter.com/ShreyaYadav___"
 source_url: "https://twitter.com/ShreyaYadav___/status/1993150717394325653"
 preview: "/media/portraits/pg-1993150717394325653.webp"

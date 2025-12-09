@@ -2,7 +2,7 @@
 title: "Retro Vibes: A Chic Encounter with a Black Panther"
 category: portraits
 tags: ["pastel","vibrant","nano-banana-pro"]
-author: "@javilopen"
+author: "[@javilopen](https://x.com/javilopen)"
 author_url: "https://twitter.com/javilopen"
 source_url: "https://twitter.com/javilopen/status/1991619717946306828"
 preview: "/media/portraits/pg-1991619717946306828.webp"

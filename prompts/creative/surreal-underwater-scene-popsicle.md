@@ -2,7 +2,7 @@
 title: "Surreal Underwater Scene Popsicle"
 category: creative
 tags: ["surreal", "ai-art"]
-author: "@madpencil_"
+author: "[@madpencil_](https://x.com/madpencil_)"
 preview: "/media/creative/surreal-underwater-scene-popsicle.webp"
 ---
 

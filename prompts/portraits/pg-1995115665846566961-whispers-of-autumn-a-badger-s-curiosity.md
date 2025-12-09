@@ -2,7 +2,7 @@
 title: "Whispers of Autumn: A Badger’s Curiosity"
 category: portraits
 tags: ["light","watercolor","nano-banana-pro"]
-author: "@BeanieBlossom"
+author: "[@BeanieBlossom](https://x.com/BeanieBlossom)"
 author_url: "https://twitter.com/BeanieBlossom"
 source_url: "https://twitter.com/BeanieBlossom/status/1995115665846566961"
 preview: "/media/portraits/pg-1995115665846566961.webp"

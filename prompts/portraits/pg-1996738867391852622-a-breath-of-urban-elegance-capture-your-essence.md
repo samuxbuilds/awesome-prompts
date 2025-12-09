@@ -2,7 +2,7 @@
 title: "A Breath of Urban Elegance: Capture Your Essence"
 category: portraits
 tags: ["portrait","urban","light","nano-banana-pro"]
-author: "@MindfulReturn"
+author: "[@MindfulReturn](https://x.com/MindfulReturn)"
 author_url: "https://twitter.com/MindfulReturn"
 source_url: "https://twitter.com/MindfulReturn/status/1996738867391852622"
 preview: "/media/portraits/pg-1996738867391852622.webp"

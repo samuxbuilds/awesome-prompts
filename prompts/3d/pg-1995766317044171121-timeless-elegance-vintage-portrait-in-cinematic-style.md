@@ -2,7 +2,7 @@
 title: "Timeless Elegance: Vintage Portrait in Cinematic Style"
 category: 3d
 tags: ["portrait","vintage","nano-banana-pro"]
-author: "@weiinberg"
+author: "[@weiinberg](https://x.com/weiinberg)"
 author_url: "https://twitter.com/weiinberg"
 source_url: "https://twitter.com/weiinberg/status/1995766317044171121"
 preview: "/media/3d/pg-1995766317044171121.webp"

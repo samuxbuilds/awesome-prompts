@@ -2,7 +2,7 @@
 title: "Seaside Serenity: A Beach Portrait with a Touch of Whimsy"
 category: portraits
 tags: ["portrait","vibrant","nano-banana-pro"]
-author: "@ZaraIrahh"
+author: "[@ZaraIrahh](https://x.com/ZaraIrahh)"
 author_url: "https://twitter.com/ZaraIrahh"
 source_url: "https://twitter.com/ZaraIrahh/status/1996226571473179012"
 preview: "/media/portraits/pg-1996226571473179012.webp"

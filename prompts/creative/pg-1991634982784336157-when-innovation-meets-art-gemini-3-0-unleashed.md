@@ -2,7 +2,7 @@
 title: "When Innovation Meets Art: Gemini 3.0 Unleashed"
 category: creative
 tags: ["art","light","nano-banana-pro"]
-author: "@emmanuel_2m"
+author: "[@emmanuel_2m](https://x.com/emmanuel_2m)"
 author_url: "https://twitter.com/emmanuel_2m"
 source_url: "https://twitter.com/emmanuel_2m/status/1991634982784336157"
 preview: "/media/creative/pg-1991634982784336157.webp"

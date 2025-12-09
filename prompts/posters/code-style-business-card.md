@@ -2,7 +2,7 @@
 title: "Code Style Business Card"
 category: posters
 tags: ["realistic", "icon"]
-author: "@umesh_ai"
+author: "[@umesh_ai](https://x.com/umesh_ai)"
 preview: "/media/posters/code-style-business-card.webp"
 ---
 

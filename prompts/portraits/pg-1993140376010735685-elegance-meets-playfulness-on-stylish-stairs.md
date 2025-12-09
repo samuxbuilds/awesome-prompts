@@ -2,7 +2,7 @@
 title: "Elegance Meets Playfulness on Stylish Stairs"
 category: portraits
 tags: ["modern","dark","light","nano-banana-pro"]
-author: "@Just_sharon7"
+author: "[@Just_sharon7](https://x.com/Just_sharon7)"
 author_url: "https://twitter.com/Just_sharon7"
 source_url: "https://twitter.com/Just_sharon7/status/1993140376010735685"
 preview: "/media/portraits/pg-1993140376010735685.webp"

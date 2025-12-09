@@ -2,7 +2,7 @@
 title: "Master of Chance: Card Magic in Motion"
 category: portraits
 tags: ["nano-banana-pro"]
-author: "@Harboris_27"
+author: "[@Harboris_27](https://x.com/Harboris_27)"
 author_url: "https://twitter.com/Harboris_27"
 source_url: "https://twitter.com/Harboris_27/status/1995331396504867012"
 preview: "/media/portraits/pg-1995331396504867012.webp"

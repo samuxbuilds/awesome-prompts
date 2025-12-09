@@ -2,7 +2,7 @@
 title: "Golden Hour Escapade on a Scooter"
 category: portraits
 tags: ["vintage","light","nano-banana-pro"]
-author: "@AIwithkhan"
+author: "[@AIwithkhan](https://x.com/AIwithkhan)"
 author_url: "https://twitter.com/AIwithkhan"
 source_url: "https://twitter.com/AIwithkhan/status/1995004639402758397"
 preview: "/media/portraits/pg-1995004639402758397.webp"

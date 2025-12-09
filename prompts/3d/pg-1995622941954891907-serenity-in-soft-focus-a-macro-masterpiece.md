@@ -2,7 +2,7 @@
 title: "Serenity in Soft Focus: A Macro Masterpiece"
 category: 3d
 tags: ["art","pastel","nano-banana-pro"]
-author: "@miilesus"
+author: "[@miilesus](https://x.com/miilesus)"
 author_url: "https://twitter.com/miilesus"
 source_url: "https://twitter.com/miilesus/status/1995622941954891907"
 preview: "/media/3d/pg-1995622941954891907.webp"

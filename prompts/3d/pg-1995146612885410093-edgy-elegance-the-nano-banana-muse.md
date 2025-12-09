@@ -2,7 +2,7 @@
 title: "Edgy Elegance: The Nano Banana Muse"
 category: 3d
 tags: ["portrait","modern","light","nano-banana-pro"]
-author: "@rovvmut_"
+author: "[@rovvmut_](https://x.com/rovvmut_)"
 author_url: "https://twitter.com/rovvmut_"
 source_url: "https://twitter.com/rovvmut_/status/1995146612885410093"
 preview: "/media/3d/pg-1995146612885410093.webp"

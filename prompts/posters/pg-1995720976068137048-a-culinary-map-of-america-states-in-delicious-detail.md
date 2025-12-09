@@ -2,7 +2,7 @@
 title: "A Culinary Map of America: States in Delicious Detail!"
 category: posters
 tags: ["food","nano-banana-pro"]
-author: "@emollick"
+author: "[@emollick](https://x.com/emollick)"
 author_url: "https://twitter.com/emollick"
 source_url: "https://twitter.com/emollick/status/1995720976068137048"
 preview: "/media/posters/pg-1995720976068137048.webp"

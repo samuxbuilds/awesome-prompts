@@ -2,7 +2,7 @@
 title: "Love Shines at Santa Monica Pier's Golden Hour"
 category: portraits
 tags: ["nano-banana-pro"]
-author: "@minchoi"
+author: "[@minchoi](https://x.com/minchoi)"
 author_url: "https://twitter.com/minchoi"
 source_url: "https://twitter.com/minchoi/status/1993897948909064528"
 preview: "/media/portraits/pg-1993897948909064528.webp"

@@ -2,7 +2,7 @@
 title: "2000s Mirror Selfie"
 category: portraits
 tags: ["anime", "retro", "cute", "poster", "icon"]
-author: "@nanobanana-pro"
+author: "[@nanobanana-pro](https://x.com/nanobanana-pro)"
 preview: "/media/portraits/nb-2000s-mirror-selfie.webp"
 ---
 

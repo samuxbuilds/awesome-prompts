@@ -2,7 +2,7 @@
 title: "Elegance in Focus: The Nano Banana Pro Unleashed"
 category: portraits
 tags: ["modern","minimal","light","nano-banana-pro"]
-author: "@Taaruk_"
+author: "[@Taaruk_](https://x.com/Taaruk_)"
 author_url: "https://twitter.com/Taaruk_"
 source_url: "https://twitter.com/Taaruk_/status/1993980595244761517"
 preview: "/media/portraits/pg-1993980595244761517.webp"

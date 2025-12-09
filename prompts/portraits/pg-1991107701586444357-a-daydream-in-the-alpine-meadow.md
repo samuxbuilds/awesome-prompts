@@ -2,7 +2,7 @@
 title: "A Daydream in the Alpine Meadow"
 category: portraits
 tags: ["vintage","light","vibrant","nano-banana-pro"]
-author: "@ShreyaYadav___"
+author: "[@ShreyaYadav___](https://x.com/ShreyaYadav___)"
 author_url: "https://twitter.com/ShreyaYadav___"
 source_url: "https://twitter.com/ShreyaYadav___/status/1991107701586444357"
 preview: "/media/portraits/pg-1991107701586444357.webp"

@@ -2,7 +2,7 @@
 title: "Whimsical Symphony Amongst Vintage Pages"
 category: 3d
 tags: ["miniature","vintage","light","nano-banana-pro"]
-author: "@BeanieBlossom"
+author: "[@BeanieBlossom](https://x.com/BeanieBlossom)"
 author_url: "https://twitter.com/BeanieBlossom"
 source_url: "https://twitter.com/BeanieBlossom/status/1994027714777669779"
 preview: "/media/3d/pg-1994027714777669779.webp"

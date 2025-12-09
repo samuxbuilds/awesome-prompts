@@ -2,7 +2,7 @@
 title: "Noir Nights: The Art of Movement and Chaos"
 category: portraits
 tags: ["art","nano-banana-pro"]
-author: "@oggii_0"
+author: "[@oggii_0](https://x.com/oggii_0)"
 author_url: "https://twitter.com/oggii_0"
 source_url: "https://twitter.com/oggii_0/status/1994424983477715007"
 preview: "/media/portraits/pg-1994424983477715007.webp"

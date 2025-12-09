@@ -2,7 +2,7 @@
 title: "Corkboard Chic: A Fashion Collage Unveiled"
 category: portraits
 tags: ["art","fashion","nano-banana-pro"]
-author: "@bananaprompts"
+author: "[@bananaprompts](https://x.com/bananaprompts)"
 author_url: "https://twitter.com/bananaprompts"
 source_url: "https://twitter.com/bananaprompts/status/1991666618607267864"
 preview: "/media/portraits/pg-1991666618607267864.webp"

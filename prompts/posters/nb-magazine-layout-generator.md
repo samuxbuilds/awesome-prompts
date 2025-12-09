@@ -2,7 +2,7 @@
 title: "Magazine Layout Generator"
 category: posters
 tags: ["creative", "ai-art"]
-author: "@nanobanana-pro"
+author: "[@nanobanana-pro](https://x.com/nanobanana-pro)"
 preview: "/media/posters/nb-magazine-layout-generator.webp"
 ---
 

@@ -2,7 +2,7 @@
 title: "Moonlit Elegance: A Serene Night by the Sea"
 category: portraits
 tags: ["light","nano-banana-pro"]
-author: "@Ashlley_grace_"
+author: "[@Ashlley_grace_](https://x.com/Ashlley_grace_)"
 author_url: "https://twitter.com/Ashlley_grace_"
 source_url: "https://twitter.com/Ashlley_grace_/status/1994408668964819000"
 preview: "/media/portraits/pg-1994408668964819000.webp"

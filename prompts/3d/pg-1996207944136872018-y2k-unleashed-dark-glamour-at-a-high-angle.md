@@ -2,7 +2,7 @@
 title: "Y2K Unleashed: Dark Glamour at a High Angle"
 category: 3d
 tags: ["dark","nano-banana-pro"]
-author: "@xmiiru_"
+author: "[@xmiiru_](https://x.com/xmiiru_)"
 author_url: "https://twitter.com/xmiiru_"
 source_url: "https://twitter.com/xmiiru_/status/1996207944136872018"
 preview: "/media/3d/pg-1996207944136872018.webp"

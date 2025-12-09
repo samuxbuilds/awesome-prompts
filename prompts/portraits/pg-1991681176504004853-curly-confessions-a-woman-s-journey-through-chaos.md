@@ -2,7 +2,7 @@
 title: "Curly Confessions: A Woman's Journey Through Chaos"
 category: portraits
 tags: ["art","vibrant","nano-banana-pro"]
-author: "@ShreyaYadav___"
+author: "[@ShreyaYadav___](https://x.com/ShreyaYadav___)"
 author_url: "https://twitter.com/ShreyaYadav___"
 source_url: "https://twitter.com/ShreyaYadav___/status/1991681176504004853"
 preview: "/media/portraits/pg-1991681176504004853.webp"

@@ -2,7 +2,7 @@
 title: "Smart Crowd Removal"
 category: creative
 tags: ["realistic", "ai-art"]
-author: "@nanobanana-pro"
+author: "[@nanobanana-pro](https://x.com/nanobanana-pro)"
 preview: "/media/creative/nb-smart-crowd-removal.webp"
 ---
 

@@ -2,7 +2,7 @@
 title: "Unleashing Playful Chaos in Neon Dreams"
 category: 3d
 tags: ["light","neon","vibrant","nano-banana-pro"]
-author: "@awesome_visuals"
+author: "[@awesome_visuals](https://x.com/awesome_visuals)"
 author_url: "https://twitter.com/awesome_visuals"
 source_url: "https://twitter.com/awesome_visuals/status/1994104753966686476"
 preview: "/media/3d/pg-1994104753966686476.webp"

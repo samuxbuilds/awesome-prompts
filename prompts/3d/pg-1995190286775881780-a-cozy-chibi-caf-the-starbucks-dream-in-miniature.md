@@ -2,7 +2,7 @@
 title: "A Cozy Chibi Café: The Starbucks Dream in Miniature"
 category: 3d
 tags: ["3d","chibi","miniature","light","nano-banana-pro"]
-author: "@dotey"
+author: "[@dotey](https://x.com/dotey)"
 author_url: "https://twitter.com/dotey"
 source_url: "https://twitter.com/dotey/status/1995190286775881780"
 preview: "/media/3d/pg-1995190286775881780.webp"

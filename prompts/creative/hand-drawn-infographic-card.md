@@ -2,7 +2,7 @@
 title: "Hand-drawn Infographic Card"
 category: creative
 tags: ["illustration", "icon"]
-author: "@dotey"
+author: "[@dotey](https://x.com/dotey)"
 preview: "/media/creative/hand-drawn-infographic-card.webp"
 ---
 

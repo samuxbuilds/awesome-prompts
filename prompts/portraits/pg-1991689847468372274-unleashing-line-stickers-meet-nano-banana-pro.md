@@ -2,7 +2,7 @@
 title: "Unleashing Line Stickers: Meet Nano Banana Pro!"
 category: portraits
 tags: ["vibrant","nano-banana-pro"]
-author: "@kon39000"
+author: "[@kon39000](https://x.com/kon39000)"
 author_url: "https://twitter.com/kon39000"
 source_url: "https://twitter.com/kon39000/status/1991689847468372274"
 preview: "/media/portraits/pg-1991689847468372274.webp"

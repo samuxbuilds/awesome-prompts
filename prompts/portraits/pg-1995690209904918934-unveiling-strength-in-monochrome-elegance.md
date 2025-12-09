@@ -2,7 +2,7 @@
 title: "Unveiling Strength in Monochrome Elegance"
 category: portraits
 tags: ["portrait","nano-banana-pro"]
-author: "@ReemKhan_07"
+author: "[@ReemKhan_07](https://x.com/ReemKhan_07)"
 author_url: "https://twitter.com/ReemKhan_07"
 source_url: "https://twitter.com/ReemKhan_07/status/1995690209904918934"
 preview: "/media/portraits/pg-1995690209904918934.webp"

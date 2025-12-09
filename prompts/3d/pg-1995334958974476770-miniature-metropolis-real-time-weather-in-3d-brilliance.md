@@ -2,7 +2,7 @@
 title: "Miniature Metropolis: Real-Time Weather in 3D Brilliance"
 category: 3d
 tags: ["3d","miniature","modern","vibrant","nano-banana-pro"]
-author: "@aleenaamiir"
+author: "[@aleenaamiir](https://x.com/aleenaamiir)"
 author_url: "https://twitter.com/aleenaamiir"
 source_url: "https://twitter.com/aleenaamiir/status/1995334958974476770"
 preview: "/media/3d/pg-1995334958974476770.webp"

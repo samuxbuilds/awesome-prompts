@@ -2,7 +2,7 @@
 title: "Radiant Youth: A Retro Vibe Portrait"
 category: portraits
 tags: ["portrait","vibrant","nano-banana-pro"]
-author: "@SimplyAnnisa"
+author: "[@SimplyAnnisa](https://x.com/SimplyAnnisa)"
 author_url: "https://twitter.com/SimplyAnnisa"
 source_url: "https://twitter.com/SimplyAnnisa/status/1994767240844161198"
 preview: "/media/portraits/pg-1994767240844161198.webp"

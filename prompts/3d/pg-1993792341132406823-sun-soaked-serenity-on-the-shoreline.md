@@ -2,7 +2,7 @@
 title: "Sun-Soaked Serenity on the Shoreline"
 category: 3d
 tags: ["vibrant","nano-banana-pro"]
-author: "@egeberkina"
+author: "[@egeberkina](https://x.com/egeberkina)"
 author_url: "https://twitter.com/egeberkina"
 source_url: "https://twitter.com/egeberkina/status/1993792341132406823"
 preview: "/media/3d/pg-1993792341132406823.webp"

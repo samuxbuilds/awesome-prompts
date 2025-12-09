@@ -2,7 +2,7 @@
 title: "The Quest for the Perfect Knot: A Nano Banana's Dilemma"
 category: portraits
 tags: ["art","fashion","nano-banana-pro"]
-author: "@AniBaddepudi"
+author: "[@AniBaddepudi](https://x.com/AniBaddepudi)"
 author_url: "https://twitter.com/AniBaddepudi"
 source_url: "https://twitter.com/AniBaddepudi/status/1991548690839007460"
 preview: "/media/portraits/pg-1991548690839007460.webp"

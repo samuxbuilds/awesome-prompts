@@ -2,7 +2,7 @@
 title: "Unraveling the Life of a Tech Trailblazer: Google Gemini AI"
 category: portraits
 tags: ["vibrant","nano-banana-pro"]
-author: "@fahabib91"
+author: "[@fahabib91](https://x.com/fahabib91)"
 author_url: "https://twitter.com/fahabib91"
 source_url: "https://twitter.com/fahabib91/status/1991666924862963877"
 preview: "/media/portraits/pg-1991666924862963877.webp"

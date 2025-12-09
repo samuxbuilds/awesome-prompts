@@ -2,7 +2,7 @@
 title: "Creative Silk Universe"
 category: creative
 tags: ["3d", "surreal"]
-author: "@ZHO_ZHO_ZHO"
+author: "[@ZHO_ZHO_ZHO](https://x.com/ZHO_ZHO_ZHO)"
 preview: "/media/creative/creative-silk-universe.webp"
 ---
 

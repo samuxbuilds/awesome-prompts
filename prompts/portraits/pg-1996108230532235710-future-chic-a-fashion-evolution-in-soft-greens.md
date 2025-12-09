@@ -2,7 +2,7 @@
 title: "Future Chic: A Fashion Evolution in Soft Greens"
 category: portraits
 tags: ["modern","fashion","nano-banana-pro"]
-author: "@Taaruk_"
+author: "[@Taaruk_](https://x.com/Taaruk_)"
 author_url: "https://twitter.com/Taaruk_"
 source_url: "https://twitter.com/Taaruk_/status/1996108230532235710"
 preview: "/media/portraits/pg-1996108230532235710.webp"

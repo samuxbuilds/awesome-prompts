@@ -2,7 +2,7 @@
 title: "Confidence Captured: A Professional Portrait in Perfect Detail"
 category: portraits
 tags: ["portrait","light","nano-banana-pro"]
-author: "@kingofdairyque"
+author: "[@kingofdairyque](https://x.com/kingofdairyque)"
 author_url: "https://twitter.com/kingofdairyque"
 source_url: "https://twitter.com/kingofdairyque/status/1993992685963866542"
 preview: "/media/portraits/pg-1993992685963866542.webp"

@@ -2,7 +2,7 @@
 title: "Cozy Glam: A Mirror Selfie in Elegance"
 category: 3d
 tags: ["selfie","light","nano-banana-pro"]
-author: "@ZaraIrahh"
+author: "[@ZaraIrahh](https://x.com/ZaraIrahh)"
 author_url: "https://twitter.com/ZaraIrahh"
 source_url: "https://twitter.com/ZaraIrahh/status/1997237942386053422"
 preview: "/media/3d/pg-1997237942386053422.webp"

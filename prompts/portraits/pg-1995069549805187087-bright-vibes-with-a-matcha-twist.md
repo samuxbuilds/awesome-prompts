@@ -2,7 +2,7 @@
 title: "Bright Vibes with a Matcha Twist"
 category: portraits
 tags: ["vibrant","nano-banana-pro"]
-author: "@egeberkina"
+author: "[@egeberkina](https://x.com/egeberkina)"
 author_url: "https://twitter.com/egeberkina"
 source_url: "https://twitter.com/egeberkina/status/1995069549805187087"
 preview: "/media/portraits/pg-1995069549805187087.webp"

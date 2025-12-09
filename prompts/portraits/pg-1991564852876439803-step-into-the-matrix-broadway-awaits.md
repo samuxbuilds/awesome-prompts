@@ -2,7 +2,7 @@
 title: "Step into The Matrix: Broadway Awaits!"
 category: portraits
 tags: ["nano-banana-pro"]
-author: "@fofrAI"
+author: "[@fofrAI](https://x.com/fofrAI)"
 author_url: "https://twitter.com/fofrAI"
 source_url: "https://twitter.com/fofrAI/status/1991564852876439803"
 preview: "/media/portraits/pg-1991564852876439803.webp"

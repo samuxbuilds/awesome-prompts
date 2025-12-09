@@ -2,7 +2,7 @@
 title: "Composition Rescue (Smart Outpainting)"
 category: creative
 tags: ["creative", "ai-art"]
-author: "@nanobanana-pro"
+author: "[@nanobanana-pro](https://x.com/nanobanana-pro)"
 preview: "/media/creative/nb-composition-rescue-smart-outpainting.webp"
 ---
 

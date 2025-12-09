@@ -2,7 +2,7 @@
 title: "Epic Drift: A Humorous Fusion of History and Speed"
 category: portraits
 tags: ["vintage","nano-banana-pro"]
-author: "@dotey"
+author: "[@dotey](https://x.com/dotey)"
 author_url: "https://twitter.com/dotey"
 source_url: "https://twitter.com/dotey/status/1991790313799606651"
 preview: "/media/portraits/pg-1991790313799606651.webp"

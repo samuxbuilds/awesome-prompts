@@ -2,7 +2,7 @@
 title: "Whimsical Worlds Collide in a Fisheye Fantasy!"
 category: portraits
 tags: ["anime","realistic","fantasy","nano-banana-pro"]
-author: "@_MehdiSharifi_"
+author: "[@_MehdiSharifi_](https://x.com/_MehdiSharifi_)"
 author_url: "https://twitter.com/_MehdiSharifi_"
 source_url: "https://twitter.com/_MehdiSharifi_/status/1991559962334482772"
 preview: "/media/portraits/pg-1991559962334482772.webp"

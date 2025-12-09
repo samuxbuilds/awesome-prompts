@@ -2,7 +2,7 @@
 title: "Sun-Kissed Elegance: The Art of Modern Glamour"
 category: 3d
 tags: ["art","modern","nano-banana-pro"]
-author: "@saniaspeaks_"
+author: "[@saniaspeaks_](https://x.com/saniaspeaks_)"
 author_url: "https://twitter.com/saniaspeaks_"
 source_url: "https://twitter.com/saniaspeaks_/status/1991878160699519206"
 preview: ""

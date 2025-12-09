@@ -2,7 +2,7 @@
 title: "Reviving Memories: Old Photos in Stunning 4K Colors!"
 category: portraits
 tags: ["vibrant","nano-banana-pro"]
-author: "@ShreyaYadav___"
+author: "[@ShreyaYadav___](https://x.com/ShreyaYadav___)"
 author_url: "https://twitter.com/ShreyaYadav___"
 source_url: "https://twitter.com/ShreyaYadav___/status/1995315482896089114"
 preview: "/media/portraits/pg-1995315482896089114.webp"

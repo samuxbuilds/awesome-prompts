@@ -2,7 +2,7 @@
 title: "Unleash Your Playful Side with 3D Caricature Magic!"
 category: 3d
 tags: ["3d","nano-banana-pro"]
-author: "@rovvmut_"
+author: "[@rovvmut_](https://x.com/rovvmut_)"
 author_url: "https://twitter.com/rovvmut_"
 source_url: "https://twitter.com/rovvmut_/status/1993255617855729818"
 preview: "/media/3d/pg-1993255617855729818.webp"

@@ -2,7 +2,7 @@
 title: "Kawaii Enamel Pin"
 category: icons
 tags: ["kawaii", "ai-art"]
-author: "@gnrlyxyz"
+author: "[@gnrlyxyz](https://x.com/gnrlyxyz)"
 preview: "/media/icons/kawaii-enamel-pin.webp"
 ---
 

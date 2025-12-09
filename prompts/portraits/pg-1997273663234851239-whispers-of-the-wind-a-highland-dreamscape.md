@@ -2,7 +2,7 @@
 title: "Whispers of the Wind: A Highland Dreamscape"
 category: portraits
 tags: ["nature","light","nano-banana-pro"]
-author: "@aleenaamiir"
+author: "[@aleenaamiir](https://x.com/aleenaamiir)"
 author_url: "https://twitter.com/aleenaamiir"
 source_url: "https://twitter.com/aleenaamiir/status/1997273663234851239"
 preview: "/media/portraits/pg-1997273663234851239.webp"

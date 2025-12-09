@@ -2,7 +2,7 @@
 title: "Retro CRT Computer Boot Screen"
 category: creative
 tags: ["retro", "logo"]
-author: "@Gdgtify"
+author: "[@Gdgtify](https://x.com/Gdgtify)"
 preview: "/media/creative/retro-crt-computer-boot-screen.webp"
 ---
 

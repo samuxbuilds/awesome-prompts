@@ -2,7 +2,7 @@
 title: "Hyper-Realistic Crowd Composition"
 category: creative
 tags: ["realistic", "photorealistic", "cinematic"]
-author: "@nanobanana-pro"
+author: "[@nanobanana-pro](https://x.com/nanobanana-pro)"
 preview: "/media/creative/nb-hyper-realistic-crowd-composition.webp"
 ---
 

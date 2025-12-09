@@ -2,7 +2,7 @@
 title: "The Battle of Design: Nano Banana Pro vs. Creativity"
 category: creative
 tags: ["nano-banana-pro"]
-author: "@AI_otaku_2040"
+author: "[@AI_otaku_2040](https://x.com/AI_otaku_2040)"
 author_url: "https://twitter.com/AI_otaku_2040"
 source_url: "https://twitter.com/AI_otaku_2040/status/1992058790347444549"
 preview: "/media/creative/pg-1992058790347444549.webp"

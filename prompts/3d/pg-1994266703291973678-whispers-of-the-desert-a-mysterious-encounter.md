@@ -2,7 +2,7 @@
 title: "Whispers of the Desert: A Mysterious Encounter"
 category: 3d
 tags: ["dark","nano-banana-pro"]
-author: "@AIwithkhan"
+author: "[@AIwithkhan](https://x.com/AIwithkhan)"
 author_url: "https://twitter.com/AIwithkhan"
 source_url: "https://twitter.com/AIwithkhan/status/1994266703291973678"
 preview: "/media/3d/pg-1994266703291973678.webp"

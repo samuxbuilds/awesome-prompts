@@ -2,7 +2,7 @@
 title: "Autumn Aesthetics: Cozy Layers & Nature's Palette"
 category: portraits
 tags: ["nature","fashion","vibrant","nano-banana-pro"]
-author: "@_MehdiSharifi_"
+author: "[@_MehdiSharifi_](https://x.com/_MehdiSharifi_)"
 author_url: "https://twitter.com/_MehdiSharifi_"
 source_url: "https://twitter.com/_MehdiSharifi_/status/1994168239442510308"
 preview: "/media/portraits/pg-1994168239442510308.webp"

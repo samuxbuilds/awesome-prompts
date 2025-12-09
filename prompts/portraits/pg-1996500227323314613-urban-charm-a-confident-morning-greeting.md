@@ -2,7 +2,7 @@
 title: "Urban Charm: A Confident Morning Greeting 🌆"
 category: portraits
 tags: ["urban","nano-banana-pro"]
-author: "@egeberkina"
+author: "[@egeberkina](https://x.com/egeberkina)"
 author_url: "https://twitter.com/egeberkina"
 source_url: "https://twitter.com/egeberkina/status/1996500227323314613"
 preview: "/media/portraits/pg-1996500227323314613.webp"

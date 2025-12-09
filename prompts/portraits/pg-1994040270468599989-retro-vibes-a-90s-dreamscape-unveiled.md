@@ -2,7 +2,7 @@
 title: "Retro Vibes: A 90s Dreamscape Unveiled"
 category: portraits
 tags: ["vintage","vibrant","nano-banana-pro"]
-author: "@oggii_0"
+author: "[@oggii_0](https://x.com/oggii_0)"
 author_url: "https://twitter.com/oggii_0"
 source_url: "https://twitter.com/oggii_0/status/1994040270468599989"
 preview: "/media/portraits/pg-1994040270468599989.webp"

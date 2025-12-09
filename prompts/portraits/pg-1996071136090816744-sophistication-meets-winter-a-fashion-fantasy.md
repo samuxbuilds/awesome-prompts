@@ -2,7 +2,7 @@
 title: "Sophistication Meets Winter: A Fashion Fantasy"
 category: portraits
 tags: ["fantasy","fashion","light","nano-banana-pro"]
-author: "@ShreyaYadav___"
+author: "[@ShreyaYadav___](https://x.com/ShreyaYadav___)"
 author_url: "https://twitter.com/ShreyaYadav___"
 source_url: "https://twitter.com/ShreyaYadav___/status/1996071136090816744"
 preview: "/media/portraits/pg-1996071136090816744.webp"

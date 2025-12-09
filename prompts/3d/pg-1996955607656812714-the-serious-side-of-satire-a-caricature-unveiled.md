@@ -2,7 +2,7 @@
 title: "The Serious Side of Satire: A Caricature Unveiled"
 category: 3d
 tags: ["nano-banana-pro"]
-author: "@ShreyaYadav___"
+author: "[@ShreyaYadav___](https://x.com/ShreyaYadav___)"
 author_url: "https://twitter.com/ShreyaYadav___"
 source_url: "https://twitter.com/ShreyaYadav___/status/1996955607656812714"
 preview: "/media/3d/pg-1996955607656812714.webp"

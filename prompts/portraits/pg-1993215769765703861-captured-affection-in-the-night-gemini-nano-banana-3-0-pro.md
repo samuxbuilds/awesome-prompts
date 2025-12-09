@@ -2,7 +2,7 @@
 title: "Captured Affection in the Night: Gemini Nano Banana 3.0 Pro"
 category: portraits
 tags: ["light","nano-banana-pro"]
-author: "@xmliisu"
+author: "[@xmliisu](https://x.com/xmliisu)"
 author_url: "https://twitter.com/xmliisu"
 source_url: "https://twitter.com/xmliisu/status/1993215769765703861"
 preview: "/media/portraits/pg-1993215769765703861.webp"

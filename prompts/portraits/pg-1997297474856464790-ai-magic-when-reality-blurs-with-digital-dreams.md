@@ -2,7 +2,7 @@
 title: "AI Magic: When Reality Blurs with Digital Dreams"
 category: portraits
 tags: ["selfie","digital","nano-banana-pro"]
-author: "@johnnprofits"
+author: "[@johnnprofits](https://x.com/johnnprofits)"
 author_url: "https://twitter.com/johnnprofits"
 source_url: "https://twitter.com/johnnprofits/status/1997297474856464790"
 preview: "/media/portraits/pg-1997297474856464790.webp"

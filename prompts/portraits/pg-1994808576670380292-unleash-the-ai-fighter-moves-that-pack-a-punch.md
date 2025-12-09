@@ -2,7 +2,7 @@
 title: "Unleash the AI Fighter: Moves That Pack a Punch!"
 category: portraits
 tags: ["digital","nano-banana-pro"]
-author: "@CharaspowerAI"
+author: "[@CharaspowerAI](https://x.com/CharaspowerAI)"
 author_url: "https://twitter.com/CharaspowerAI"
 source_url: "https://twitter.com/CharaspowerAI/status/1994808576670380292"
 preview: "/media/portraits/pg-1994808576670380292.webp"

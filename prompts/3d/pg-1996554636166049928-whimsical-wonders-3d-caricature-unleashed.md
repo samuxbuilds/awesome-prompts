@@ -2,7 +2,7 @@
 title: "Whimsical Wonders: 3D Caricature Unleashed"
 category: 3d
 tags: ["3d","light","vibrant","nano-banana-pro"]
-author: "@NanoBanana"
+author: "[@NanoBanana](https://x.com/NanoBanana)"
 author_url: "https://twitter.com/NanoBanana"
 source_url: "https://twitter.com/NanoBanana/status/1996554636166049928"
 preview: "/media/3d/pg-1996554636166049928.webp"

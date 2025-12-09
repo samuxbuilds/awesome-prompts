@@ -2,7 +2,7 @@
 title: "Empowerment in Every Curve: A Portrait of Radiance"
 category: 3d
 tags: ["portrait","vibrant","nano-banana-pro"]
-author: "@IqraSaifiii"
+author: "[@IqraSaifiii](https://x.com/IqraSaifiii)"
 author_url: "https://twitter.com/IqraSaifiii"
 source_url: "https://twitter.com/IqraSaifiii/status/1994544453655433705"
 preview: "/media/3d/pg-1994544453655433705.webp"

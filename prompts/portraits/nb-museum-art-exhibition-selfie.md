@@ -2,7 +2,7 @@
 title: "Museum Art Exhibition Selfie"
 category: portraits
 tags: ["character", "professional", "cinematic"]
-author: "@nanobanana-pro"
+author: "[@nanobanana-pro](https://x.com/nanobanana-pro)"
 preview: "/media/portraits/nb-museum-art-exhibition-selfie.webp"
 ---
 

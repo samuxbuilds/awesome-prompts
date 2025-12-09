@@ -2,7 +2,7 @@
 title: "Echoes of a Forgotten Warzone"
 category: 3d
 tags: ["nano-banana-pro"]
-author: "@rovvmut_"
+author: "[@rovvmut_](https://x.com/rovvmut_)"
 author_url: "https://twitter.com/rovvmut_"
 source_url: "https://twitter.com/rovvmut_/status/1991828763978637624"
 preview: "/media/3d/pg-1991828763978637624.webp"

@@ -2,7 +2,7 @@
 title: "Urban Vibes: A Burst of Color and Style"
 category: portraits
 tags: ["urban","nano-banana-pro"]
-author: "@Harboris_27"
+author: "[@Harboris_27](https://x.com/Harboris_27)"
 author_url: "https://twitter.com/Harboris_27"
 source_url: "https://twitter.com/Harboris_27/status/1995096976707428694"
 preview: "/media/portraits/pg-1995096976707428694.webp"

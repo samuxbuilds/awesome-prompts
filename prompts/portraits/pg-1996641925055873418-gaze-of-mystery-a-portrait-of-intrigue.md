@@ -2,7 +2,7 @@
 title: "Gaze of Mystery: A Portrait of Intrigue"
 category: portraits
 tags: ["realistic","portrait","nano-banana-pro"]
-author: "@ShreyaYadav___"
+author: "[@ShreyaYadav___](https://x.com/ShreyaYadav___)"
 author_url: "https://twitter.com/ShreyaYadav___"
 source_url: "https://twitter.com/ShreyaYadav___/status/1996641925055873418"
 preview: "/media/portraits/pg-1996641925055873418.webp"

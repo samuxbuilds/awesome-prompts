@@ -2,7 +2,7 @@
 title: "Simplicity Meets Striking Elegance"
 category: portraits
 tags: ["portrait","minimal","nano-banana-pro"]
-author: "@ShreyaYadav___"
+author: "[@ShreyaYadav___](https://x.com/ShreyaYadav___)"
 author_url: "https://twitter.com/ShreyaYadav___"
 source_url: "https://twitter.com/ShreyaYadav___/status/1993213021024395351"
 preview: "/media/portraits/pg-1993213021024395351.webp"

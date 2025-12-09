@@ -2,7 +2,7 @@
 title: "Victorian Elegance Reimagined with Nano Banana Pro"
 category: portraits
 tags: ["portrait","nano-banana-pro"]
-author: "@chatgptpaglu"
+author: "[@chatgptpaglu](https://x.com/chatgptpaglu)"
 author_url: "https://twitter.com/chatgptpaglu"
 source_url: "https://twitter.com/chatgptpaglu/status/1992839532622885276"
 preview: "/media/portraits/pg-1992839532622885276.webp"

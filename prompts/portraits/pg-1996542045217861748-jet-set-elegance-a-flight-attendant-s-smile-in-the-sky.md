@@ -2,7 +2,7 @@
 title: "Jet-Set Elegance: A Flight Attendant's Smile in the Sky"
 category: portraits
 tags: ["travel","light","nano-banana-pro"]
-author: "@ShreyaYadav___"
+author: "[@ShreyaYadav___](https://x.com/ShreyaYadav___)"
 author_url: "https://twitter.com/ShreyaYadav___"
 source_url: "https://twitter.com/ShreyaYadav___/status/1996542045217861748"
 preview: "/media/portraits/pg-1996542045217861748.webp"

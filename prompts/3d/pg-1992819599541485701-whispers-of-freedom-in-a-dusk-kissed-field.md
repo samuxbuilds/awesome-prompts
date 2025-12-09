@@ -2,7 +2,7 @@
 title: "Whispers of Freedom in a Dusk-Kissed Field"
 category: 3d
 tags: ["nature","light","nano-banana-pro"]
-author: "@SimplyAnnisa"
+author: "[@SimplyAnnisa](https://x.com/SimplyAnnisa)"
 author_url: "https://twitter.com/SimplyAnnisa"
 source_url: "https://twitter.com/SimplyAnnisa/status/1992819599541485701"
 preview: "/media/3d/pg-1992819599541485701.webp"

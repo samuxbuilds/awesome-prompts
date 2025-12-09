@@ -2,7 +2,7 @@
 title: "3D Polaroid Breakout Effect"
 category: 3d
 tags: ["3d", "chibi", "character"]
-author: "@dotey"
+author: "[@dotey](https://x.com/dotey)"
 preview: "/media/3d/3d-polaroid-breakout-effect.webp"
 ---
 

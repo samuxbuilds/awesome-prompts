@@ -2,7 +2,7 @@
 title: "Sunset Glam: A Fashion Moment by the Red Truck"
 category: portraits
 tags: ["nature","fashion","minimal","light","nano-banana-pro"]
-author: "@SimplyAnnisa"
+author: "[@SimplyAnnisa](https://x.com/SimplyAnnisa)"
 author_url: "https://twitter.com/SimplyAnnisa"
 source_url: "https://twitter.com/SimplyAnnisa/status/1991513696850649095"
 preview: "/media/portraits/pg-1991513696850649095.webp"

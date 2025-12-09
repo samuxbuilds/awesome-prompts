@@ -2,7 +2,7 @@
 title: "A Viking's Last Stand: Echoes of the Fallen"
 category: 3d
 tags: ["nano-banana-pro"]
-author: "@Sheldon056"
+author: "[@Sheldon056](https://x.com/Sheldon056)"
 author_url: "https://twitter.com/Sheldon056"
 source_url: "https://twitter.com/Sheldon056/status/1995096007529668632"
 preview: "/media/3d/pg-1995096007529668632.webp"

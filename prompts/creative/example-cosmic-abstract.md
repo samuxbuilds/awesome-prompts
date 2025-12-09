@@ -2,7 +2,7 @@
 title: "Abstract Digital Art - Cosmic Flow"
 category: "arts"
 tags: ["abstract", "digital", "cosmic", "colorful"]
-author: "@example_contributor"
+author: "[@example_contributor](https://x.com/example_contributor)"
 preview: "https://images.unsplash.com/photo-1634017839464-5c339bbe3c39?w=800&q=80"
 ---
 

@@ -2,7 +2,7 @@
 title: "Floral Vibes & Mirror Reflections"
 category: portraits
 tags: ["modern","nano-banana-pro"]
-author: "@ZaraIrahh"
+author: "[@ZaraIrahh](https://x.com/ZaraIrahh)"
 author_url: "https://twitter.com/ZaraIrahh"
 source_url: "https://twitter.com/ZaraIrahh/status/1997139760469643639"
 preview: "/media/portraits/pg-1997139760469643639.webp"

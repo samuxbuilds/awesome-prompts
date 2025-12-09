@@ -2,7 +2,7 @@
 title: "Nostalgic Glimpses: A Digital Flashback"
 category: portraits
 tags: ["dark","digital","nano-banana-pro"]
-author: "@kingofdairyque"
+author: "[@kingofdairyque](https://x.com/kingofdairyque)"
 author_url: "https://twitter.com/kingofdairyque"
 source_url: "https://twitter.com/kingofdairyque/status/1996033217795903655"
 preview: "/media/portraits/pg-1996033217795903655.webp"

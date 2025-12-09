@@ -2,7 +2,7 @@
 title: "City Dreams: A Nighttime Revelation"
 category: 3d
 tags: ["urban","dark","light","nano-banana-pro"]
-author: "@Xxaroon"
+author: "[@Xxaroon](https://x.com/Xxaroon)"
 author_url: "https://twitter.com/Xxaroon"
 source_url: "https://twitter.com/Xxaroon/status/1991533904554258539"
 preview: "/media/3d/pg-1991533904554258539.webp"

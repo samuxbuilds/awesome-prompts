@@ -2,7 +2,7 @@
 title: "Unveiling the Heartbreak: Meet the 'Lost Love Girls' Figure!"
 category: 3d
 tags: ["art","nano-banana-pro"]
-author: "@munou_ac"
+author: "[@munou_ac](https://x.com/munou_ac)"
 author_url: "https://twitter.com/munou_ac"
 source_url: "https://twitter.com/munou_ac/status/1991767005557583966"
 preview: "/media/3d/pg-1991767005557583966.webp"

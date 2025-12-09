@@ -2,7 +2,7 @@
 title: "Nature’s Whisper: A Cinematic Reflection"
 category: portraits
 tags: ["nature","light","nano-banana-pro"]
-author: "@ShreyaYadav___"
+author: "[@ShreyaYadav___](https://x.com/ShreyaYadav___)"
 author_url: "https://twitter.com/ShreyaYadav___"
 source_url: "https://twitter.com/ShreyaYadav___/status/1991533743367156082"
 preview: "/media/portraits/pg-1991533743367156082.webp"

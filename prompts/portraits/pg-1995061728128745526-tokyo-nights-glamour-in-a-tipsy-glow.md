@@ -2,7 +2,7 @@
 title: "Tokyo Nights: Glamour in a Tipsy Glow"
 category: portraits
 tags: ["neon","nano-banana-pro"]
-author: "@joonmts"
+author: "[@joonmts](https://x.com/joonmts)"
 author_url: "https://twitter.com/joonmts"
 source_url: "https://twitter.com/joonmts/status/1995061728128745526"
 preview: "/media/portraits/pg-1995061728128745526.webp"

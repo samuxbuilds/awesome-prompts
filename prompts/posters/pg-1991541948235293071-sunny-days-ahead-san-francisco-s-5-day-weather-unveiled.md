@@ -2,7 +2,7 @@
 title: "Sunny Days Ahead: San Francisco's 5-Day Weather Unveiled!"
 category: posters
 tags: ["nano-banana-pro"]
-author: "@raizamrtn"
+author: "[@raizamrtn](https://x.com/raizamrtn)"
 author_url: "https://twitter.com/raizamrtn"
 source_url: "https://twitter.com/raizamrtn/status/1991541948235293071"
 preview: "/media/posters/pg-1991541948235293071.webp"

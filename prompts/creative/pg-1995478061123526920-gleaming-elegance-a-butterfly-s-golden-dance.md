@@ -2,7 +2,7 @@
 title: "Gleaming Elegance: A Butterfly's Golden Dance"
 category: creative
 tags: ["art","nano-banana-pro"]
-author: "@BeanieBlossom"
+author: "[@BeanieBlossom](https://x.com/BeanieBlossom)"
 author_url: "https://twitter.com/BeanieBlossom"
 source_url: "https://twitter.com/BeanieBlossom/status/1995478061123526920"
 preview: "/media/creative/pg-1995478061123526920.webp"

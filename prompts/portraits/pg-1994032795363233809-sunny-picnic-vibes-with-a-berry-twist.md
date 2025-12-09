@@ -2,7 +2,7 @@
 title: "Sunny Picnic Vibes with a Berry Twist"
 category: portraits
 tags: ["nature","vibrant","nano-banana-pro"]
-author: "@ZaraIrahh"
+author: "[@ZaraIrahh](https://x.com/ZaraIrahh)"
 author_url: "https://twitter.com/ZaraIrahh"
 source_url: "https://twitter.com/ZaraIrahh/status/1994032795363233809"
 preview: "/media/portraits/pg-1994032795363233809.webp"

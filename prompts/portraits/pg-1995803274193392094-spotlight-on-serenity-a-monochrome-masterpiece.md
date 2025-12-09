@@ -2,7 +2,7 @@
 title: "Spotlight on Serenity: A Monochrome Masterpiece"
 category: portraits
 tags: ["portrait","minimal","light","nano-banana-pro"]
-author: "@john_my07"
+author: "[@john_my07](https://x.com/john_my07)"
 author_url: "https://twitter.com/john_my07"
 source_url: "https://twitter.com/john_my07/status/1995803274193392094"
 preview: "/media/portraits/pg-1995803274193392094.webp"

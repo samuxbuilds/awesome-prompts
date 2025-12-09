@@ -2,7 +2,7 @@
 title: "Night Vibes with a Twist: The Gemini Nano Banana 3.0 Look"
 category: 3d
 tags: ["nano-banana-pro"]
-author: "@YaseenK7212"
+author: "[@YaseenK7212](https://x.com/YaseenK7212)"
 author_url: "https://twitter.com/YaseenK7212"
 source_url: "https://twitter.com/YaseenK7212/status/1995820734233370767"
 preview: "/media/3d/pg-1995820734233370767.webp"

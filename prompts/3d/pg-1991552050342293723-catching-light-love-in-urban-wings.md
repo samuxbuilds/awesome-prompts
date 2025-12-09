@@ -2,7 +2,7 @@
 title: "Catching Light & Love in Urban Wings"
 category: 3d
 tags: ["art","urban","light","vibrant","nano-banana-pro"]
-author: "@ShreyaYadav___"
+author: "[@ShreyaYadav___](https://x.com/ShreyaYadav___)"
 author_url: "https://twitter.com/ShreyaYadav___"
 source_url: "https://twitter.com/ShreyaYadav___/status/1991552050342293723"
 preview: "/media/3d/pg-1991552050342293723.webp"

@@ -2,7 +2,7 @@
 title: "Sunlit Moments: A Cafe Daydream"
 category: portraits
 tags: ["nano-banana-pro"]
-author: "@real_novax"
+author: "[@real_novax](https://x.com/real_novax)"
 author_url: "https://twitter.com/real_novax"
 source_url: "https://twitter.com/real_novax/status/1996399057875718561"
 preview: "/media/portraits/pg-1996399057875718561.webp"

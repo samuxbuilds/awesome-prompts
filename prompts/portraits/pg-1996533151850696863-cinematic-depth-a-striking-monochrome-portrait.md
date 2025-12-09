@@ -2,7 +2,7 @@
 title: "Cinematic Depth: A Striking Monochrome Portrait"
 category: portraits
 tags: ["portrait","light","nano-banana-pro"]
-author: "@Taaruk_"
+author: "[@Taaruk_](https://x.com/Taaruk_)"
 author_url: "https://twitter.com/Taaruk_"
 source_url: "https://twitter.com/Taaruk_/status/1996533151850696863"
 preview: "/media/portraits/pg-1996533151850696863.webp"

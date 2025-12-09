@@ -2,7 +2,7 @@
 title: "A Time-Traveling Banana Adventure"
 category: portraits
 tags: ["travel","nano-banana-pro"]
-author: "@minchoi"
+author: "[@minchoi](https://x.com/minchoi)"
 author_url: "https://twitter.com/minchoi"
 source_url: "https://twitter.com/minchoi/status/1991526532536496353"
 preview: "/media/portraits/pg-1991526532536496353.webp"

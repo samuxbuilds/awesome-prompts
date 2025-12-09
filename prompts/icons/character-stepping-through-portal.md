@@ -2,7 +2,7 @@
 title: "Character Stepping Through Portal"
 category: icons
 tags: ["3d", "chibi", "realistic", "character"]
-author: "@dotey"
+author: "[@dotey](https://x.com/dotey)"
 preview: "/media/icons/character-stepping-through-portal.webp"
 ---
 

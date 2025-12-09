@@ -2,7 +2,7 @@
 title: "Chillin' in Minimalism: A Portrait of Pure Vibes"
 category: portraits
 tags: ["portrait","minimal","light","nano-banana-pro"]
-author: "@egeberkina"
+author: "[@egeberkina](https://x.com/egeberkina)"
 author_url: "https://twitter.com/egeberkina"
 source_url: "https://twitter.com/egeberkina/status/1996925069189079063"
 preview: "/media/portraits/pg-1996925069189079063.webp"

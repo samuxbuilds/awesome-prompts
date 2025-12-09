@@ -2,7 +2,7 @@
 title: "Batman's Solitude: A Night of Reflection"
 category: portraits
 tags: ["urban","dark","neon","nano-banana-pro"]
-author: "@rovvmut_"
+author: "[@rovvmut_](https://x.com/rovvmut_)"
 author_url: "https://twitter.com/rovvmut_"
 source_url: "https://twitter.com/rovvmut_/status/1996591034768441721"
 preview: "/media/portraits/pg-1996591034768441721.webp"

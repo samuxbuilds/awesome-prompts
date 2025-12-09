@@ -2,7 +2,7 @@
 title: "Crafting Wisdom: Feynman's Simple Truths in Art"
 category: portraits
 tags: ["illustration","art","vibrant","nano-banana-pro"]
-author: "@dotey"
+author: "[@dotey](https://x.com/dotey)"
 author_url: "https://twitter.com/dotey"
 source_url: "https://twitter.com/dotey/status/1996303762428731486"
 preview: "/media/portraits/pg-1996303762428731486.webp"

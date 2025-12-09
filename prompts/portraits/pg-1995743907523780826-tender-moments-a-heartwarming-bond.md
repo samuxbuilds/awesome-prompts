@@ -2,7 +2,7 @@
 title: "Tender Moments: A Heartwarming Bond"
 category: portraits
 tags: ["art","light","nano-banana-pro"]
-author: "@ZaraIrahh"
+author: "[@ZaraIrahh](https://x.com/ZaraIrahh)"
 author_url: "https://twitter.com/ZaraIrahh"
 source_url: "https://twitter.com/ZaraIrahh/status/1995743907523780826"
 preview: "/media/portraits/pg-1995743907523780826.webp"

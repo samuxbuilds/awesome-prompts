@@ -2,7 +2,7 @@
 title: "Cute Chibi Matryoshka Dolls (Girl with a Pearl Earring)"
 category: 3d
 tags: ["chibi", "cute"]
-author: "@ZHO_ZHO_ZHO"
+author: "[@ZHO_ZHO_ZHO](https://x.com/ZHO_ZHO_ZHO)"
 preview: "/media/3d/cute-chibi-matryoshka-dolls-girl-with-a-pearl-earr.webp"
 ---
 

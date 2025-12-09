@@ -2,7 +2,7 @@
 title: "Gemini 3.0: Your Ultimate Teaching Ally!"
 category: creative
 tags: ["nano-banana-pro"]
-author: "@emmanuel_2m"
+author: "[@emmanuel_2m](https://x.com/emmanuel_2m)"
 author_url: "https://twitter.com/emmanuel_2m"
 source_url: "https://twitter.com/emmanuel_2m/status/1991591659478364574"
 preview: "/media/creative/pg-1991591659478364574.webp"

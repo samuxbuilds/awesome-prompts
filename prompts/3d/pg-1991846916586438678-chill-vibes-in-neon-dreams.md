@@ -2,7 +2,7 @@
 title: "Chill Vibes in Neon Dreams"
 category: 3d
 tags: ["neon","nano-banana-pro"]
-author: "@xmliisu"
+author: "[@xmliisu](https://x.com/xmliisu)"
 author_url: "https://twitter.com/xmliisu"
 source_url: "https://twitter.com/xmliisu/status/1991846916586438678"
 preview: "/media/3d/pg-1991846916586438678.webp"

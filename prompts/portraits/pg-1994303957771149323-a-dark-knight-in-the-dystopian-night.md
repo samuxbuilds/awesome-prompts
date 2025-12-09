@@ -2,7 +2,7 @@
 title: "A Dark Knight in the Dystopian Night"
 category: portraits
 tags: ["dark","nano-banana-pro"]
-author: "@lexx_aura"
+author: "[@lexx_aura](https://x.com/lexx_aura)"
 author_url: "https://twitter.com/lexx_aura"
 source_url: "https://twitter.com/lexx_aura/status/1994303957771149323"
 preview: "/media/portraits/pg-1994303957771149323.webp"

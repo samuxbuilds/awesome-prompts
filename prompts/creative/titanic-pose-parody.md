@@ -2,7 +2,7 @@
 title: "\"Titanic\" Pose Parody"
 category: creative
 tags: ["3d", "chibi", "realistic", "cute", "icon"]
-author: "@balconychy"
+author: "[@balconychy](https://x.com/balconychy)"
 preview: "/media/creative/titanic-pose-parody.webp"
 ---
 

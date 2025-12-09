@@ -2,7 +2,7 @@
 title: "Unlocking Geometry: The Pythagorean Journey"
 category: creative
 tags: ["nano-banana-pro"]
-author: "@rovvmut_"
+author: "[@rovvmut_](https://x.com/rovvmut_)"
 author_url: "https://twitter.com/rovvmut_"
 source_url: "https://twitter.com/rovvmut_/status/1991517542683455672"
 preview: "/media/creative/pg-1991517542683455672.webp"

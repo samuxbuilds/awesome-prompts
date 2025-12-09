@@ -2,7 +2,7 @@
 title: "Timeless Elegance: A Portrait in Shadows"
 category: portraits
 tags: ["portrait","light","nano-banana-pro"]
-author: "@_imfaizan18"
+author: "[@_imfaizan18](https://x.com/_imfaizan18)"
 author_url: "https://twitter.com/_imfaizan18"
 source_url: "https://twitter.com/_imfaizan18/status/1996220956201881878"
 preview: "/media/portraits/pg-1996220956201881878.webp"

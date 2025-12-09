@@ -2,7 +2,7 @@
 title: "Chic Serenity: A Portrait of Timeless Elegance"
 category: 3d
 tags: ["portrait","nano-banana-pro"]
-author: "@miilesus"
+author: "[@miilesus](https://x.com/miilesus)"
 author_url: "https://twitter.com/miilesus"
 source_url: "https://twitter.com/miilesus/status/1996304252948635969"
 preview: "/media/3d/pg-1996304252948635969.webp"

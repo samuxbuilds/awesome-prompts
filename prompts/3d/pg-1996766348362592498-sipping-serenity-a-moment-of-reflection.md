@@ -2,7 +2,7 @@
 title: "Sipping Serenity: A Moment of Reflection"
 category: 3d
 tags: ["light","nano-banana-pro"]
-author: "@real_novax"
+author: "[@real_novax](https://x.com/real_novax)"
 author_url: "https://twitter.com/real_novax"
 source_url: "https://twitter.com/real_novax/status/1996766348362592498"
 preview: "/media/3d/pg-1996766348362592498.webp"

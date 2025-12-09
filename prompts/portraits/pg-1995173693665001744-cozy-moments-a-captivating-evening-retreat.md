@@ -2,7 +2,7 @@
 title: "Cozy Moments: A Captivating Evening Retreat"
 category: portraits
 tags: ["nano-banana-pro"]
-author: "@AIwithkhan"
+author: "[@AIwithkhan](https://x.com/AIwithkhan)"
 author_url: "https://twitter.com/AIwithkhan"
 source_url: "https://twitter.com/AIwithkhan/status/1995173693665001744"
 preview: "/media/portraits/pg-1995173693665001744.webp"

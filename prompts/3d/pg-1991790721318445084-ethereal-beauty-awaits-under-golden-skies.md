@@ -2,7 +2,7 @@
 title: "Ethereal Beauty Awaits Under Golden Skies"
 category: 3d
 tags: ["nano-banana-pro"]
-author: "@haniya_445"
+author: "[@haniya_445](https://x.com/haniya_445)"
 author_url: "https://twitter.com/haniya_445"
 source_url: "https://twitter.com/haniya_445/status/1991790721318445084"
 preview: "/media/3d/pg-1991790721318445084.webp"

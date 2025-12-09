@@ -2,7 +2,7 @@
 title: "A Royal Encounter: Nixon Meets the King"
 category: posters
 tags: ["nano-banana-pro"]
-author: "@maxescu"
+author: "[@maxescu](https://x.com/maxescu)"
 author_url: "https://twitter.com/maxescu"
 source_url: "https://twitter.com/maxescu/status/1994465147893551346"
 preview: "/media/posters/pg-1994465147893551346.webp"

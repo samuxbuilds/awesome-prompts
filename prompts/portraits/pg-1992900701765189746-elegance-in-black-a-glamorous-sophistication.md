@@ -2,7 +2,7 @@
 title: "Elegance in Black: A Glamorous Sophistication"
 category: portraits
 tags: ["modern","nano-banana-pro"]
-author: "@Just_sharon7"
+author: "[@Just_sharon7](https://x.com/Just_sharon7)"
 author_url: "https://twitter.com/Just_sharon7"
 source_url: "https://twitter.com/Just_sharon7/status/1992900701765189746"
 preview: "/media/portraits/pg-1992900701765189746.webp"
