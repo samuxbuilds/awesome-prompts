@@ -7,76 +7,70 @@ author: "[@samuxbuilds](https://x.com/samuxbuilds)"
 previewVideo: "/media/motion/coca-cola-motion.webm"
 ---
 
-Create a cinematic, high-energy **brand motion video inspired by Coca-Cola** using **HTML, CSS, and JavaScript**, optimized for web playback.
+Create a cinematic, high-energy **brand motion video** for **[Brand Name]** using **HTML, CSS, and JavaScript**, optimized for web playback.
 
 ## Objective
 
-Create a cinematic, high-energy **brand motion video inspired by Coca-Cola** using **Three.js and GSAP**, optimized for web playback. The scene should feature a realistic 3D can with droplets, dynamic lighting, and punchy synchronized audio. **The animation must loop seamlessly.**
+Create a cinematic, high-energy **brand motion video** for **[Brand Name]**, featuring their core product **([Product Type: e.g., Can, Bottle, Box])**. The scene must use **Three.js** and **GSAP** for sophisticated 3D animation, featuring realistic textures, dynamic lighting, and punchy synchronized audio. **The animation must loop seamlessly.**
 
 ## Tech Stack
 
-* HTML5 + CSS3 (ES Modules)
-* **Three.js** (WebGL Rendering)
-* **GSAP** (Animation Timeline)
-* **Web Audio API** (Procedural Music & SFX)
-* **Environment Maps** (HDRI for realistic reflections)
+*   **Three.js** (WebGL Rendering)
+*   **GSAP** (Animation Timeline)
+*   **Web Audio API** (Procedural Music & SFX)
+*   **HTML5/CSS3** (ES Modules, No external assets preferred)
 
-## Visual Style
+## Visual Identity & Research
 
-* Iconic **Coca-Cola red & white** palette
-* **Metallic Aluminum Material** (PBR Standard Material)
-* Fizzy, carbonated liquid simulation
-* Smooth cinematic lighting (Spotlights + Fill Lights)
-* High contrast highlights + soft ambient glow
+**Instructions for the AI:**
+
+1.  **Analyze the Brand**: Based on the provided **[Brand Name]**, determine its official primary colors, aesthetic (e.g., minimalist, playful, luxury), and core product materials.
+2.  **Apply Automatically**: Use these analyzed properties to fill in the following:
+    *   **Primary Color**: The brand's dominant hex code.
+    *   **Accent Color**: The brand's secondary/highlight color.
+    *   **Material**: The physical material associated with the product (e.g., Brushed Aluminum for Red Bull, Matte Plastic for Logitech, Glass for Coke).
+    *   **Atmosphere**: The mood that matches the brand's marketing style.
 
 ## Scene Breakdown
 
 ### Scene 1 — Brand Awakening
 
-* Dark background fades into **deep Coca-Cola red**
-* Subtle light sweep reveals **condensation droplets**
-* Particles float like carbonation bubbles
-* **SFX**: Fizz Sound
+*   Dark background fades into the **Brand's Primary Color** atmosphere.
+*   Subtle lighting reveals the silhouette of the **[Product Type]**.
+*   **Particles/Effects**: Add atmospheric elements relevant to the product (e.g., steam for hot coffee, bubbles for soda, sparks for tech).
+*   **Audio**: Atmosphere swell + Intro SFX.
 
 ### Scene 2 — Hero Product Reveal
 
-* 3D **Coca-Cola Can** rotates slowly (Seamless 360 loop)
-* **Metallic Scale**: High metalness (0.6-0.9) with RoomEnvironment reflections
-* Light reflections emphasize the aluminum sheen
-* **Audio**: High-Energy Kick Drum & Bass starts
+*   3D **[Product Type]** rotates slowly (Seamless 360 loop).
+*   **Material properties**: Accurately simulate the product's real-world material (High reliability PBR).
+*   Lighting highlights the curves and branding.
+*   **Audio**: High-Energy Beat (Kick + Bass) kicks in.
 
 ### Scene 3 — Dynamic Motion
 
-* Can tilts, liquid inside (visualized as movement)
-* Bubbles rise naturally in the background
-* Camera orbit animation with easing
-* **SFX**: Swoosh during camera moves
+*   Product tilts or moves dynamically.
+*   Camera orbits with easing to show different angles.
+*   Background elements (shapes, typography) echo the **Brand's Aesthetic**.
+*   **Audio**: Sync swoosh SFX with camera moves.
 
 ### Scene 4 — Logo & Tagline
 
-* Camera zooms out
-* **Coca-Cola logo animates in**
-* Text fades in: *“Open Happiness”*
-* Final soft glow + smooth reset to Scene 1
-* **SFX**: Ping/Chime on Logo
+*   Camera pulls back.
+*   **[Brand Name]** logo or typography animates in centrally.
+*   Display Tagline: *" [Insert Tagline Here] "*
+*   Final soft glow + smooth reset to Scene 1 state.
+*   **Audio**: Brand Logo Chime/Ping.
 
-## Motion & Interaction
+## Technical Constraint: Seamless Loop
 
-* **Seamless Loop**: The end state must match the start state perfectly for video recording.
-* **Click to Play Audio**: User interaction required for browser policy.
-* **High-Quality Audio**: Procedural generation preferred for punchy, synchronized beats without external dependencies.
+*   **Duration**: Exactly 4 bars of audio (e.g., 7.5s at 128 BPM).
+*   **Looping**: The final frame must match the first frame perfectly.
+*   **Audio**: The procedural track must loop seamlessly without clicks.
 
-## Output Requirements
+## Implementation Guide
 
-* Runs directly in the browser (Single HTML file preferred)
-* Clean, modular HTML structure
-* Minimal performance overhead
-* Can be embedded into a landing page
-* Loopable motion video effect (no video file)
-
-## Implementation Tips
-
-* Use `THREE.CylinderGeometry` for the can.
-* Use `THREE.RoomEnvironment` for realistic reflections.
-* Sync GSAP duration with Audio BPM (e.g., 128 BPM = ~7.5s loop for 4 bars).
-* Ensure `rotation` values end exactly at `Math.PI * 2` intervals for seamless looping.
+1.  **Geometry**: Use `THREE.CylinderGeometry`, `THREE.BoxGeometry`, or `THREE.LatheGeometry` depending on the **[Product Type]**.
+2.  **Texture**: Procedurally generate the label using a CanvasTexture if no image is available, using the **[Brand Colors]**.
+3.  **Lighting**: Use a 3-point lighting setup (Key, Fill, Rim) colored with **[Accent Colors]**.
+4.  **Reflections**: ESSENTIAL. Use `THREE.RoomEnvironment` or a PMREMGenerator to ensure the material looks realistic.
