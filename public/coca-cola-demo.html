@@ -1,0 +1,689 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Coca-Cola Cinematic Experience</title>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r128/three.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.2/gsap.min.js"></script>
+    <!-- Use RoomEnvironment from Three.js examples (simulated via code for single file) -->
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Lobster&family=Montserrat:wght@300;700&display=swap');
+
+        body {
+            margin: 0;
+            overflow: hidden;
+            background-color: #000;
+            font-family: 'Montserrat', sans-serif;
+            color: white;
+            user-select: none;
+        }
+
+        #canvas-container {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            z-index: 1;
+        }
+
+        #ui-layer {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            z-index: 10;
+            pointer-events: none;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+        }
+
+        #overlay {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background: rgba(0, 0, 0, 0.85);
+            z-index: 20;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            transition: opacity 0.5s ease;
+            pointer-events: auto;
+            cursor: pointer;
+        }
+
+        .hidden {
+            opacity: 0;
+            pointer-events: none !important;
+        }
+
+        h1 {
+            font-family: 'Lobster', cursive;
+            /* Coca-Cola style font fallback */
+            font-size: 5rem;
+            margin: 0;
+            text-shadow: 0 0 20px rgba(244, 0, 0, 0.6);
+            opacity: 0;
+            transform: scale(0.9);
+        }
+
+        .tagline {
+            font-size: 1.5rem;
+            letter-spacing: 0.2rem;
+            text-transform: uppercase;
+            margin-top: 10px;
+            opacity: 0;
+        }
+
+        .cta-btn {
+            padding: 15px 40px;
+            border: 2px solid #F40009;
+            background: transparent;
+            color: white;
+            font-size: 1.2rem;
+            text-transform: uppercase;
+            letter-spacing: 2px;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            margin-top: 20px;
+        }
+
+        .cta-btn:hover {
+            background: #F40009;
+            box-shadow: 0 0 30px #F40009;
+        }
+
+        /* Bubbles overlay for UI depth */
+        .bubble-ui {
+            position: absolute;
+            background: radial-gradient(circle, rgba(255, 255, 255, 0.8) 0%, rgba(255, 255, 255, 0) 70%);
+            border-radius: 50%;
+            animation: rise 4s infinite linear;
+            bottom: -20px;
+            pointer-events: none;
+        }
+
+        @keyframes rise {
+            0% {
+                transform: translateY(0) scale(1);
+                opacity: 0;
+            }
+
+            50% {
+                opacity: 0.6;
+            }
+
+            100% {
+                transform: translateY(-100vh) scale(1.2);
+                opacity: 0;
+            }
+        }
+    </style>
+</head>
+
+<body>
+
+    <div id="canvas-container"></div>
+
+    <div id="ui-layer">
+        <h1 id="brand-text">Coca-Cola</h1>
+        <div class="tagline" id="tagline-text">Open Happiness</div>
+    </div>
+
+    <div id="overlay">
+        <h1 style="opacity: 1; color: #F40009;">Coca-Cola</h1>
+        <p style="margin-bottom: 20px; font-weight: 300;">Cinematic 3D Experience</p>
+        <button class="cta-btn" id="start-btn">Open Happiness</button>
+    </div>
+
+    <!-- Shaders for Room Environment Simulation (Simplified) -->
+    <script>
+        // --- 1. CONFIG & GLOBALS ---
+        const CONFIG = {
+            red: 0xF40009,
+            metal: 0xeeeeee,
+            bpm: 120, // Beats per minute
+            loopDuration: 8, // Seconds for full loop
+        };
+
+        let scene, camera, renderer, composer;
+        let canGroup, canBody, canTop, canBottom, tab;
+        let droplets;
+        let particles;
+        let timeline;
+        let audioCtx;
+
+        const container = document.getElementById('canvas-container');
+
+        // --- 2. ASSET GENERATION (Procedural Textures) ---
+
+        function createLabelTexture() {
+            const canvas = document.createElement('canvas');
+            canvas.width = 1024;
+            canvas.height = 512;
+            const ctx = canvas.getContext('2d');
+
+            // Background Red
+            ctx.fillStyle = '#F40009';
+            ctx.fillRect(0, 0, canvas.width, canvas.height);
+
+            // Metallic sheen noise (subtle)
+            ctx.globalAlpha = 0.05;
+            for (let i = 0; i < 5000; i++) {
+                ctx.fillStyle = '#FFF';
+                ctx.fillRect(Math.random() * canvas.width, Math.random() * canvas.height, 2, 10);
+            }
+            ctx.globalAlpha = 1.0;
+
+            // Dynamic Ribbon
+            ctx.beginPath();
+            ctx.moveTo(0, 350);
+            ctx.bezierCurveTo(300, 300, 400, 450, 1024, 300);
+            ctx.lineWidth = 15;
+            ctx.strokeStyle = 'white';
+            ctx.stroke();
+
+            ctx.beginPath();
+            ctx.moveTo(0, 370);
+            ctx.bezierCurveTo(300, 320, 400, 470, 1024, 320);
+            ctx.lineWidth = 8;
+            ctx.strokeStyle = 'rgba(255,255,255,0.5)';
+            ctx.stroke();
+
+            // Text
+            ctx.font = 'bold italic 180px "Lobster", cursive';
+            ctx.fillStyle = 'white';
+            ctx.textAlign = 'center';
+            ctx.textBaseline = 'middle';
+            ctx.fillText('Coca-Cola', canvas.width / 2, canvas.height / 2 - 20);
+
+            // Ingredients / Nutrition (Fake)
+            ctx.font = '14px Arial';
+            ctx.fillStyle = 'rgba(255,255,255,0.8)';
+            ctx.save();
+            ctx.translate(900, 250);
+            ctx.rotate(-Math.PI / 2);
+            ctx.fillText('Nutrition Facts', 0, 0);
+            ctx.restore();
+
+            const texture = new THREE.CanvasTexture(canvas);
+            texture.anisotropy = 16;
+            return texture;
+        }
+
+        // --- 3. SCENE SETUP ---
+
+        function init() {
+            scene = new THREE.Scene();
+            scene.background = new THREE.Color(0x050000); // Deep dark red/black
+            scene.fog = new THREE.FogExp2(0x050000, 0.02);
+
+            camera = new THREE.PerspectiveCamera(45, window.innerWidth / window.innerHeight, 0.1, 100);
+            camera.position.set(0, 0, 15);
+
+            renderer = new THREE.WebGLRenderer({ antialias: true, alpha: true });
+            renderer.setSize(window.innerWidth, window.innerHeight);
+            renderer.setPixelRatio(Math.min(window.devicePixelRatio, 2));
+            renderer.physicallyCorrectLights = true;
+            renderer.toneMapping = THREE.ACESFilmicToneMapping;
+            renderer.toneMappingExposure = 1.0;
+            renderer.shadowMap.enabled = true;
+            renderer.shadowMap.type = THREE.PCFSoftShadowMap;
+            container.appendChild(renderer.domElement);
+
+            // --- LIGHTING ---
+
+            // Ambient
+            const ambientLight = new THREE.AmbientLight(0xffffff, 0.5);
+            scene.add(ambientLight);
+
+            // Hero Spotlights
+            const spotLight1 = new THREE.SpotLight(0xffffff, 100);
+            spotLight1.position.set(5, 10, 5);
+            spotLight1.angle = 0.5;
+            spotLight1.penumbra = 0.5;
+            spotLight1.castShadow = true;
+            scene.add(spotLight1);
+
+            const spotLight2 = new THREE.SpotLight(0xF40009, 50); // Red rim light
+            spotLight2.position.set(-5, 5, -5);
+            spotLight2.angle = 0.6;
+            spotLight2.penumbra = 1;
+            scene.add(spotLight2);
+
+            const rectAreaLight = new THREE.RectAreaLight(0xffffff, 5, 2, 10);
+            rectAreaLight.position.set(5, 0, 5);
+            rectAreaLight.lookAt(0, 0, 0);
+            scene.add(rectAreaLight);
+
+            // --- OBJECTS ---
+            createCan();
+            createBubbles();
+
+            // Event Listeners
+            window.addEventListener('resize', onWindowResize, false);
+        }
+
+        function createCan() {
+            canGroup = new THREE.Group();
+
+            const canHeight = 4.83; // Standard ratio approximation
+            const canRadius = 1.3;
+
+            // Materials
+            const aluminumMat = new THREE.MeshStandardMaterial({
+                color: 0xffffff,
+                metalness: 0.9,
+                roughness: 0.2,
+                envMapIntensity: 1.0
+            });
+
+            const labelMat = new THREE.MeshStandardMaterial({
+                map: createLabelTexture(),
+                metalness: 0.4,
+                roughness: 0.3,
+                bumpScale: 0.02
+            });
+
+            // 1. Body
+            const bodyGeo = new THREE.CylinderGeometry(canRadius, canRadius, canHeight, 64, 1, true);
+            canBody = new THREE.Mesh(bodyGeo, labelMat);
+            canBody.castShadow = true;
+            canBody.receiveShadow = true;
+            canGroup.add(canBody);
+
+            // 2. Top Rim (Tapered)
+            const topRimGeo = new THREE.CylinderGeometry(canRadius * 0.9, canRadius, 0.3, 64);
+            canTop = new THREE.Mesh(topRimGeo, aluminumMat);
+            canTop.position.y = canHeight / 2 + 0.15;
+            canTop.castShadow = true;
+            canGroup.add(canTop);
+
+            // 3. Bottom Rim (Tapered)
+            const bottomRimGeo = new THREE.CylinderGeometry(canRadius, canRadius * 0.85, 0.3, 64);
+            canBottom = new THREE.Mesh(bottomRimGeo, aluminumMat);
+            canBottom.position.y = -canHeight / 2 - 0.15;
+            canBottom.castShadow = true;
+            canGroup.add(canBottom);
+
+            // 4. Lid Surface
+            const lidGeo = new THREE.CircleGeometry(canRadius * 0.9, 32);
+            const lid = new THREE.Mesh(lidGeo, aluminumMat);
+            lid.rotation.x = -Math.PI / 2;
+            lid.position.y = canHeight / 2 + 0.3;
+            canGroup.add(lid);
+
+            // 5. Tab
+            const tabGeo = new THREE.BoxGeometry(0.6, 0.05, 0.9);
+            tab = new THREE.Mesh(tabGeo, aluminumMat);
+            tab.position.set(0, canHeight / 2 + 0.32, 0.3);
+            tab.castShadow = true;
+            canGroup.add(tab);
+
+            // 6. Condensation (Instanced Mesh for performance)
+            const dropCount = 1000;
+            const dropGeo = new THREE.SphereGeometry(0.04, 8, 8);
+            const dropMat = new THREE.MeshPhysicalMaterial({
+                color: 0xffffff,
+                transmission: 0.9, // Glass-like
+                opacity: 1,
+                metalness: 0,
+                roughness: 0.1,
+                ior: 1.5,
+                thickness: 0.1,
+            });
+
+            droplets = new THREE.InstancedMesh(dropGeo, dropMat, dropCount);
+            const dummy = new THREE.Object3D();
+
+            for (let i = 0; i < dropCount; i++) {
+                // Polar coordinates for cylinder surface distribution
+                const theta = Math.random() * Math.PI * 2;
+                const h = (Math.random() - 0.5) * canHeight;
+                const r = canRadius + 0.02; // Slightly off surface
+
+                dummy.position.set(
+                    r * Math.cos(theta),
+                    h,
+                    r * Math.sin(theta)
+                );
+
+                // Random scale for variety
+                const s = Math.random() * 0.5 + 0.5;
+                dummy.scale.set(s, s, s / 2); // Flattened against surface
+                dummy.lookAt(0, h, 0); // Orient normals outward
+
+                dummy.updateMatrix();
+                droplets.setMatrixAt(i, dummy.matrix);
+            }
+            canGroup.add(droplets);
+
+            scene.add(canGroup);
+        }
+
+        function createBubbles() {
+            const particleCount = 400;
+            const geom = new THREE.BufferGeometry();
+            const positions = new Float32Array(particleCount * 3);
+            const speeds = new Float32Array(particleCount);
+
+            for (let i = 0; i < particleCount; i++) {
+                positions[i * 3] = (Math.random() - 0.5) * 20; // x
+                positions[i * 3 + 1] = (Math.random() - 0.5) * 20; // y
+                positions[i * 3 + 2] = (Math.random() - 0.5) * 10 - 5; // z (behind can mostly)
+                speeds[i] = Math.random() * 0.05 + 0.02;
+            }
+
+            geom.setAttribute('position', new THREE.BufferAttribute(positions, 3));
+
+            // Custom shader for bubbles to make them look fizzy
+            const mat = new THREE.PointsMaterial({
+                color: 0xffffff,
+                size: 0.15,
+                transparent: true,
+                opacity: 0.6,
+                blending: THREE.AdditiveBlending
+            });
+
+            particles = new THREE.Points(geom, mat);
+            particles.userData = { speeds: speeds };
+            scene.add(particles);
+        }
+
+        // --- 4. ANIMATION & TIMELINE ---
+
+        function setupAnimation() {
+            timeline = gsap.timeline({ repeat: -1 }); // Infinite Loop
+            const dur = CONFIG.loopDuration;
+
+            // Set Initial State
+            canGroup.rotation.y = 0;
+            canGroup.rotation.z = 0.1;
+            camera.position.z = 12;
+            camera.position.y = 0;
+
+            // --- SCENE 1: Brand Awakening (0s - 2s) ---
+            timeline.to(scene.fog, { density: 0.02, duration: 2, ease: "power2.inOut" }, 0);
+
+            // Rotate Can
+            timeline.to(canGroup.rotation, {
+                y: Math.PI * 2,
+                duration: dur,
+                ease: "none"
+            }, 0);
+
+            // Floating motion
+            timeline.to(canGroup.position, {
+                y: 0.5,
+                duration: dur / 2,
+                yoyo: true,
+                repeat: 1,
+                ease: "sine.inOut"
+            }, 0);
+
+            // --- SCENE 2: Hero Reveal (2s - 4s) ---
+            // Camera Push in
+            timeline.to(camera.position, {
+                z: 8,
+                duration: 2,
+                ease: "power2.inOut"
+            }, 2);
+
+            // Tilt can
+            timeline.to(canGroup.rotation, {
+                z: -0.2,
+                duration: 1.5,
+                ease: "power1.inOut"
+            }, 2.5);
+
+            // --- SCENE 3: Dynamic Motion (4s - 6s) ---
+            // Camera Swing
+            timeline.to(camera.position, {
+                x: 3,
+                y: 2,
+                duration: 2,
+                ease: "power1.inOut"
+            }, 4);
+
+            timeline.to(camera.rotation, {
+                y: 0.2,
+                duration: 2,
+                ease: "power1.inOut"
+            }, 4);
+
+            // --- SCENE 4: Logo & Tagline (6s - 8s) ---
+            // Reset Camera smoothly for loop
+            timeline.to(camera.position, {
+                x: 0,
+                y: 0,
+                z: 12,
+                duration: 2,
+                ease: "power2.inOut"
+            }, 6);
+
+            timeline.to(camera.rotation, {
+                y: 0,
+                duration: 2,
+                ease: "power2.inOut"
+            }, 6);
+
+            // Reset Tilt
+            timeline.to(canGroup.rotation, {
+                z: 0.1,
+                duration: 2,
+                ease: "power2.inOut"
+            }, 6);
+
+            // UI Animation triggers
+            timeline.call(() => showUI(), null, 5.5);
+            timeline.call(() => hideUI(), null, 7.5);
+
+            // Audio Sync triggers
+            timeline.call(() => playSound('kick'), null, 0);
+            timeline.call(() => playSound('shaker'), null, 0.5);
+            timeline.call(() => playSound('kick'), null, 2);
+            timeline.call(() => playSound('swoosh'), null, 2.1);
+            timeline.call(() => playSound('bass'), null, 2);
+            timeline.call(() => playSound('kick'), null, 4);
+            timeline.call(() => playSound('swoosh'), null, 4.2);
+            timeline.call(() => playSound('ping'), null, 6);
+        }
+
+        function showUI() {
+            gsap.to("#brand-text", { opacity: 1, scale: 1, duration: 0.5, ease: "back.out(1.7)" });
+            gsap.to("#tagline-text", { opacity: 1, y: 0, duration: 0.5, delay: 0.2 });
+        }
+
+        function hideUI() {
+            gsap.to("#brand-text", { opacity: 0, scale: 0.9, duration: 0.5 });
+            gsap.to("#tagline-text", { opacity: 0, duration: 0.5 });
+        }
+
+        // --- 5. AUDIO SYSTEM (Web Audio API) ---
+
+        function initAudio() {
+            const AudioContext = window.AudioContext || window.webkitAudioContext;
+            audioCtx = new AudioContext();
+        }
+
+        function playSound(type) {
+            if (!audioCtx) return;
+            const t = audioCtx.currentTime;
+
+            if (type === 'kick') {
+                const osc = audioCtx.createOscillator();
+                const gain = audioCtx.createGain();
+                osc.connect(gain);
+                gain.connect(audioCtx.destination);
+
+                osc.frequency.setValueAtTime(150, t);
+                osc.frequency.exponentialRampToValueAtTime(0.01, t + 0.5);
+                gain.gain.setValueAtTime(0.8, t);
+                gain.gain.exponentialRampToValueAtTime(0.01, t + 0.5);
+
+                osc.start(t);
+                osc.stop(t + 0.5);
+            } else if (type === 'bass') {
+                const osc = audioCtx.createOscillator();
+                const gain = audioCtx.createGain();
+                osc.type = 'sawtooth';
+                // Low pass filter
+                const filter = audioCtx.createBiquadFilter();
+                filter.type = 'lowpass';
+                filter.frequency.value = 400;
+
+                osc.connect(filter);
+                filter.connect(gain);
+                gain.connect(audioCtx.destination);
+
+                osc.frequency.setValueAtTime(60, t);
+                osc.frequency.linearRampToValueAtTime(40, t + 1);
+                gain.gain.setValueAtTime(0.4, t);
+                gain.gain.linearRampToValueAtTime(0, t + 1.5);
+
+                osc.start(t);
+                osc.stop(t + 1.5);
+            } else if (type === 'shaker') {
+                // White noise buffer
+                const bufferSize = audioCtx.sampleRate * 0.1; // 0.1s
+                const buffer = audioCtx.createBuffer(1, bufferSize, audioCtx.sampleRate);
+                const data = buffer.getChannelData(0);
+                for (let i = 0; i < bufferSize; i++) {
+                    data[i] = Math.random() * 2 - 1;
+                }
+
+                const noise = audioCtx.createBufferSource();
+                noise.buffer = buffer;
+                const gain = audioCtx.createGain();
+                // Bandpass
+                const filter = audioCtx.createBiquadFilter();
+                filter.type = 'highpass';
+                filter.frequency.value = 5000;
+
+                noise.connect(filter);
+                filter.connect(gain);
+                gain.connect(audioCtx.destination);
+
+                gain.gain.setValueAtTime(0.3, t);
+                gain.gain.exponentialRampToValueAtTime(0.01, t + 0.1);
+                noise.start(t);
+            } else if (type === 'swoosh') {
+                const osc = audioCtx.createOscillator(); // Use noise really, but filtered noise
+                // Using noise for better swoosh
+                const bufferSize = audioCtx.sampleRate * 1.0;
+                const buffer = audioCtx.createBuffer(1, bufferSize, audioCtx.sampleRate);
+                const data = buffer.getChannelData(0);
+                for (let i = 0; i < bufferSize; i++) {
+                    data[i] = Math.random() * 2 - 1;
+                }
+                const noise = audioCtx.createBufferSource();
+                noise.buffer = buffer;
+
+                const filter = audioCtx.createBiquadFilter();
+                filter.type = 'lowpass';
+                filter.frequency.setValueAtTime(200, t);
+                filter.frequency.linearRampToValueAtTime(2000, t + 0.5);
+                filter.frequency.linearRampToValueAtTime(100, t + 1.0);
+
+                const gain = audioCtx.createGain();
+                gain.gain.setValueAtTime(0, t);
+                gain.gain.linearRampToValueAtTime(0.4, t + 0.5);
+                gain.gain.linearRampToValueAtTime(0, t + 1.0);
+
+                noise.connect(filter);
+                filter.connect(gain);
+                gain.connect(audioCtx.destination);
+                noise.start(t);
+            } else if (type === 'ping') {
+                const osc = audioCtx.createOscillator();
+                osc.type = 'sine';
+                const gain = audioCtx.createGain();
+                osc.connect(gain);
+                gain.connect(audioCtx.destination);
+
+                osc.frequency.setValueAtTime(800, t);
+                osc.frequency.exponentialRampToValueAtTime(1200, t + 0.1);
+
+                gain.gain.setValueAtTime(0, t);
+                gain.gain.linearRampToValueAtTime(0.3, t + 0.05);
+                gain.gain.exponentialRampToValueAtTime(0.001, t + 2);
+
+                osc.start(t);
+                osc.stop(t + 2);
+            }
+        }
+
+
+        // --- 6. RENDER LOOP ---
+
+        function animate() {
+            requestAnimationFrame(animate);
+
+            // Animate Bubbles
+            if (particles) {
+                const positions = particles.geometry.attributes.position.array;
+                const speeds = particles.userData.speeds;
+                for (let i = 0; i < 400; i++) {
+                    positions[i * 3 + 1] += speeds[i]; // move Y
+                    if (positions[i * 3 + 1] > 10) {
+                        positions[i * 3 + 1] = -10;
+                    }
+                }
+                particles.geometry.attributes.position.needsUpdate = true;
+                particles.rotation.y += 0.001;
+            }
+
+            // Animate Can Group floating (handled by GSAP mostly, but small jitter here)
+            if (canGroup) {
+                // Additional high freq vibration for "Energy"
+                // canGroup.position.x = (Math.random() - 0.5) * 0.005;
+            }
+
+            renderer.render(scene, camera);
+        }
+
+        function onWindowResize() {
+            camera.aspect = window.innerWidth / window.innerHeight;
+            camera.updateProjectionMatrix();
+            renderer.setSize(window.innerWidth, window.innerHeight);
+        }
+
+        // --- 7. STARTUP ---
+
+        init();
+
+        document.getElementById('start-btn').addEventListener('click', () => {
+            initAudio();
+            if (audioCtx.state === 'suspended') audioCtx.resume();
+
+            document.getElementById('overlay').classList.add('hidden');
+
+            // Start everything
+            setupAnimation();
+            animate();
+
+            // Add UI Bubbles
+            for (let i = 0; i < 10; i++) {
+                const b = document.createElement('div');
+                b.className = 'bubble-ui';
+                b.style.width = Math.random() * 30 + 10 + 'px';
+                b.style.height = b.style.width;
+                b.style.left = Math.random() * 100 + '%';
+                b.style.animationDuration = Math.random() * 2 + 3 + 's';
+                b.style.animationDelay = Math.random() * 2 + 's';
+                document.getElementById('ui-layer').appendChild(b);
+            }
+        });
+
+    </script>
+</body>
+
+</html>
