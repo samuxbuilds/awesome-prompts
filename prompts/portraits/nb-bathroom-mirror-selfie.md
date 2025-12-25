@@ -1,9 +1,15 @@
 ---
-title: "Bathroom Mirror Selfie"
+title: Bathroom Mirror Selfie
 category: portraits
-tags: ["realistic", "logo", "animal", "professional"]
-author: "[@nanobanana-pro](https://x.com/nanobanana-pro)"
-preview: "/media/portraits/nb-bathroom-mirror-selfie.webp"
+tags:
+  - realistic
+  - logo
+  - animal
+  - professional
+  - minimalist
+  - portrait
+author: '[@nanobanana-pro](https://x.com/nanobanana-pro)'
+preview: /media/portraits/nb-bathroom-mirror-selfie.webp
 ---
 
 *Create a candid mirror selfie with specific styling and composition*

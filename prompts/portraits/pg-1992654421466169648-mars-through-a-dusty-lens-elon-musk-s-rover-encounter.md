@@ -1,11 +1,17 @@
 ---
-title: "Mars Through a Dusty Lens: Elon Musk's Rover Encounter"
+title: 'Mars Through a Dusty Lens: Elon Musk''s Rover Encounter'
 category: portraits
-tags: ["art","light","nano-banana-pro"]
-author: "[@azed_ai](https://x.com/azed_ai)"
-author_url: "https://twitter.com/azed_ai"
-source_url: "https://twitter.com/azed_ai/status/1992654421466169648"
-preview: "/media/portraits/pg-1992654421466169648.webp"
+tags:
+  - art
+  - light
+  - neon
+  - portrait
+  - dark
+  - black-and-white
+author: '[@azed_ai](https://x.com/azed_ai)'
+author_url: 'https://twitter.com/azed_ai'
+source_url: 'https://twitter.com/azed_ai/status/1992654421466169648'
+preview: /media/portraits/pg-1992654421466169648.webp
 ---
 
 Caught in the harsh Martian light, Elon Musk gazes intensely into the rover's lens, revealing a weathered visage and a story of exploration etched in every line.

@@ -1,11 +1,12 @@
 ---
-title: "The Art of Toast: A Whimsical Flowchart Adventure"
+title: 'The Art of Toast: A Whimsical Flowchart Adventure'
 category: creative
-tags: ["art","nano-banana-pro"]
-author: "[@emollick](https://x.com/emollick)"
-author_url: "https://twitter.com/emollick"
-source_url: "https://twitter.com/emollick/status/1991549167773376978"
-preview: "/media/creative/pg-1991549167773376978.webp"
+tags:
+  - art
+author: '[@emollick](https://x.com/emollick)'
+author_url: 'https://twitter.com/emollick'
+source_url: 'https://twitter.com/emollick/status/1991549167773376978'
+preview: /media/creative/pg-1991549167773376978.webp
 ---
 
 Who knew toasting bread could be this complex? This hilariously intricate flowchart guides you through a comedic labyrinth of steps, ensuring no crumb is left unturned!

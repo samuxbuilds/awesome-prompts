@@ -1,11 +1,15 @@
 ---
-title: "Bold Steps in the Winter Wonderland"
+title: Bold Steps in the Winter Wonderland
 category: portraits
-tags: ["vibrant","nano-banana-pro"]
-author: "[@Sophia_here12](https://x.com/Sophia_here12)"
-author_url: "https://twitter.com/Sophia_here12"
-source_url: "https://twitter.com/Sophia_here12/status/1997191906732781621"
-preview: "/media/portraits/pg-1997191906732781621.webp"
+tags:
+  - vibrant
+  - portrait
+  - landscape
+  - colorful
+author: '[@Sophia_here12](https://x.com/Sophia_here12)'
+author_url: 'https://twitter.com/Sophia_here12'
+source_url: 'https://twitter.com/Sophia_here12/status/1997191906732781621'
+preview: /media/portraits/pg-1997191906732781621.webp
 ---
 
 Amidst gentle snowflakes, a woman in a vibrant orange jacket embodies courage on a snowy trail. Her joyful smile contrasts with the serene icy landscape, inspiring adventurers everywhere.

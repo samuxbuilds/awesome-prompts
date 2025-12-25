@@ -1,11 +1,13 @@
 ---
-title: "Frosted Gaze: Survival in the Winter Wilderness"
+title: 'Frosted Gaze: Survival in the Winter Wilderness'
 category: portraits
-tags: ["nano-banana-pro"]
-author: "[@Taaruk_](https://x.com/Taaruk_)"
-author_url: "https://twitter.com/Taaruk_"
-source_url: "https://twitter.com/Taaruk_/status/1996771902090891711"
-preview: "/media/portraits/pg-1996771902090891711.webp"
+tags:
+  - realistic
+  - portrait
+author: '[@Taaruk_](https://x.com/Taaruk_)'
+author_url: 'https://twitter.com/Taaruk_'
+source_url: 'https://twitter.com/Taaruk_/status/1996771902090891711'
+preview: /media/portraits/pg-1996771902090891711.webp
 ---
 
 Chilling yet captivating, this close-up captures the intensity of winter survival. Icy blue eyes pierce through the snowflakes, revealing resilience against the harsh backdrop.

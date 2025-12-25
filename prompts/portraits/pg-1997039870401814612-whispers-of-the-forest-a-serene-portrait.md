@@ -1,11 +1,19 @@
 ---
-title: "Whispers of the Forest: A Serene Portrait"
+title: 'Whispers of the Forest: A Serene Portrait'
 category: portraits
-tags: ["portrait","nature","light","nano-banana-pro"]
-author: "[@miilesus](https://x.com/miilesus)"
-author_url: "https://twitter.com/miilesus"
-source_url: "https://twitter.com/miilesus/status/1997039870401814612"
-preview: "/media/portraits/pg-1997039870401814612.webp"
+tags:
+  - portrait
+  - nature
+  - light
+  - realistic
+  - 3d
+  - illustration
+  - landscape
+  - dark
+author: '[@miilesus](https://x.com/miilesus)'
+author_url: 'https://twitter.com/miilesus'
+source_url: 'https://twitter.com/miilesus/status/1997039870401814612'
+preview: /media/portraits/pg-1997039870401814612.webp
 ---
 
 Amidst nature's embrace, a warm light reveals a moment of calm. The soft textures of knit and the gentle bokeh of trees create a captivating, introspective connection.

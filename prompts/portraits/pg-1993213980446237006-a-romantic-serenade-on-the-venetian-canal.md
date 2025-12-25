@@ -1,11 +1,15 @@
 ---
-title: "A Romantic Serenade on the Venetian Canal"
+title: A Romantic Serenade on the Venetian Canal
 category: portraits
-tags: ["light","nano-banana-pro"]
-author: "[@YaseenK7212](https://x.com/YaseenK7212)"
-author_url: "https://twitter.com/YaseenK7212"
-source_url: "https://twitter.com/YaseenK7212/status/1993213980446237006"
-preview: "/media/portraits/pg-1993213980446237006.webp"
+tags:
+  - light
+  - realistic
+  - portrait
+  - colorful
+author: '[@YaseenK7212](https://x.com/YaseenK7212)'
+author_url: 'https://twitter.com/YaseenK7212'
+source_url: 'https://twitter.com/YaseenK7212/status/1993213980446237006'
+preview: /media/portraits/pg-1993213980446237006.webp
 ---
 
 Under a faint rainbow, this enchanting scene captures love’s essence. A couple cozies up in a delicately adorned gondola as rippling reflections dance in the water, all bathed in golden-hour light.

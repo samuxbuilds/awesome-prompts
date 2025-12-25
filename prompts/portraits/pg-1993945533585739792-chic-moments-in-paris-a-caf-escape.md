@@ -1,11 +1,16 @@
 ---
-title: "Chic Moments in Paris: A Café Escape"
+title: 'Chic Moments in Paris: A Café Escape'
 category: portraits
-tags: ["light","nano-banana-pro"]
-author: "[@kingofdairyque](https://x.com/kingofdairyque)"
-author_url: "https://twitter.com/kingofdairyque"
-source_url: "https://twitter.com/kingofdairyque/status/1993945533585739792"
-preview: "/media/portraits/pg-1993945533585739792.webp"
+tags:
+  - light
+  - realistic
+  - portrait
+  - dark
+  - colorful
+author: '[@kingofdairyque](https://x.com/kingofdairyque)'
+author_url: 'https://twitter.com/kingofdairyque'
+source_url: 'https://twitter.com/kingofdairyque/status/1993945533585739792'
+preview: /media/portraits/pg-1993945533585739792.webp
 ---
 
 What a picturesque afternoon! With the Eiffel Tower standing tall, she enjoys a delightful spread, each bite infused with the essence of Parisian charm.

@@ -1,11 +1,18 @@
 ---
-title: "Twilight Glamour on a Historic Bridge"
+title: Twilight Glamour on a Historic Bridge
 category: 3d
-tags: ["light","nano-banana-pro"]
-author: "[@IqraSaifiii](https://x.com/IqraSaifiii)"
-author_url: "https://twitter.com/IqraSaifiii"
-source_url: "https://twitter.com/IqraSaifiii/status/1991524204920074384"
-preview: "/media/3d/pg-1991524204920074384.webp"
+tags:
+  - light
+  - realistic
+  - 3d
+  - illustration
+  - portrait
+  - landscape
+  - dark
+author: '[@IqraSaifiii](https://x.com/IqraSaifiii)'
+author_url: 'https://twitter.com/IqraSaifiii'
+source_url: 'https://twitter.com/IqraSaifiii/status/1991524204920074384'
+preview: /media/3d/pg-1991524204920074384.webp
 ---
 
 An enchanting scene unfolds as our model exudes elegance at dusk, framed by a shimmering cityscape. The warm glow of city lights dances on her striking silhouette, embracing the evening's allure.

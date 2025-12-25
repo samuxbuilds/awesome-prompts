@@ -1,9 +1,18 @@
 ---
-title: "MrBeast Style - Vehicle/Speed"
-category: "thumbnails"
-tags: ["mrbeast", "youtube", "thumbnail", "vehicle", "action"]
-author: "[@samux](https://x.com/samux)"
-preview: "/media/thumbnails/mrbeast-vehicle.webp"
+title: MrBeast Style - Vehicle/Speed
+category: thumbnails
+tags:
+  - mrbeast
+  - youtube
+  - thumbnail
+  - vehicle
+  - action
+  - realistic
+  - landscape
+  - dark
+  - colorful
+author: '[@samux](https://x.com/samux)'
+preview: /media/thumbnails/mrbeast-vehicle.webp
 ---
 
 ```json

@@ -1,11 +1,13 @@
 ---
-title: "Unveiling the Heartbreak: Meet the 'Lost Love Girls' Figure!"
+title: 'Unveiling the Heartbreak: Meet the ''Lost Love Girls'' Figure!'
 category: 3d
-tags: ["art","nano-banana-pro"]
-author: "[@munou_ac](https://x.com/munou_ac)"
-author_url: "https://twitter.com/munou_ac"
-source_url: "https://twitter.com/munou_ac/status/1991767005557583966"
-preview: "/media/3d/pg-1991767005557583966.webp"
+tags:
+  - art
+  - 3d
+author: '[@munou_ac](https://x.com/munou_ac)'
+author_url: 'https://twitter.com/munou_ac'
+source_url: 'https://twitter.com/munou_ac/status/1991767005557583966'
+preview: /media/3d/pg-1991767005557583966.webp
 ---
 
 Can you feel the essence of heartbreak captured in this stunning 1/7 figure? 'Lost Love Girls' by TENNEN showcases intricate details and a captivating design—set to launch in Winter 2025!

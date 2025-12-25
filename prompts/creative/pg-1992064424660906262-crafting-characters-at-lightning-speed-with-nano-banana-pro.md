@@ -1,11 +1,16 @@
 ---
-title: "Crafting Characters at Lightning Speed with Nano Banana Pro!"
+title: Crafting Characters at Lightning Speed with Nano Banana Pro!
 category: creative
-tags: ["illustration","light","vibrant","nano-banana-pro"]
-author: "[@dr_hacker_fuk](https://x.com/dr_hacker_fuk)"
-author_url: "https://twitter.com/dr_hacker_fuk"
-source_url: "https://twitter.com/dr_hacker_fuk/status/1992064424660906262"
-preview: "/media/creative/pg-1992064424660906262.webp"
+tags:
+  - illustration
+  - light
+  - vibrant
+  - minimalist
+  - colorful
+author: '[@dr_hacker_fuk](https://x.com/dr_hacker_fuk)'
+author_url: 'https://twitter.com/dr_hacker_fuk'
+source_url: 'https://twitter.com/dr_hacker_fuk/status/1992064424660906262'
+preview: /media/creative/pg-1992064424660906262.webp
 ---
 
 Imagine transforming a simple illustration into a vibrant LINE sticker collection! With 16 unique expressions and poses, creativity meets efficiency like never before!

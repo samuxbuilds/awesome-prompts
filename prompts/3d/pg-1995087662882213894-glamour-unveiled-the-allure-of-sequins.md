@@ -1,11 +1,16 @@
 ---
-title: "Glamour Unveiled: The Allure of Sequins"
+title: 'Glamour Unveiled: The Allure of Sequins'
 category: 3d
-tags: ["light","nano-banana-pro"]
-author: "[@lexx_aura](https://x.com/lexx_aura)"
-author_url: "https://twitter.com/lexx_aura"
-source_url: "https://twitter.com/lexx_aura/status/1995087662882213894"
-preview: "/media/3d/pg-1995087662882213894.webp"
+tags:
+  - light
+  - realistic
+  - 3d
+  - portrait
+  - dark
+author: '[@lexx_aura](https://x.com/lexx_aura)'
+author_url: 'https://twitter.com/lexx_aura'
+source_url: 'https://twitter.com/lexx_aura/status/1995087662882213894'
+preview: /media/3d/pg-1995087662882213894.webp
 ---
 
 A striking figure captivates the lens in a form-fitting sequined dress, exuding confidence. The play of dramatic lighting accentuates her sultry features, crafting an intimate allure.

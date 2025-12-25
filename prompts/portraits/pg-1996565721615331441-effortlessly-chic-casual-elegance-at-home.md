@@ -1,11 +1,16 @@
 ---
-title: "Effortlessly Chic: Casual Elegance at Home"
+title: 'Effortlessly Chic: Casual Elegance at Home'
 category: portraits
-tags: ["fashion","nano-banana-pro"]
-author: "[@Just_sharon7](https://x.com/Just_sharon7)"
-author_url: "https://twitter.com/Just_sharon7"
-source_url: "https://twitter.com/Just_sharon7/status/1996565721615331441"
-preview: "/media/portraits/pg-1996565721615331441.webp"
+tags:
+  - fashion
+  - realistic
+  - 3d
+  - portrait
+  - dark
+author: '[@Just_sharon7](https://x.com/Just_sharon7)'
+author_url: 'https://twitter.com/Just_sharon7'
+source_url: 'https://twitter.com/Just_sharon7/status/1996565721615331441'
+preview: /media/portraits/pg-1996565721615331441.webp
 ---
 
 A cozy moment captured! This young woman radiates style in a playful crop top and textured cardigan, perfectly blending comfort and fashion in her inviting indoor space.

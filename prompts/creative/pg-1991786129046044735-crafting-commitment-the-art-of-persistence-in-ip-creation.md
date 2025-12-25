@@ -1,11 +1,13 @@
 ---
-title: "Crafting Commitment: The Art of Persistence in IP Creation"
+title: 'Crafting Commitment: The Art of Persistence in IP Creation'
 category: creative
-tags: ["illustration","art","nano-banana-pro"]
-author: "[@dotey](https://x.com/dotey)"
-author_url: "https://twitter.com/dotey"
-source_url: "https://twitter.com/dotey/status/1991786129046044735"
-preview: "/media/creative/pg-1991786129046044735.webp"
+tags:
+  - illustration
+  - art
+author: '[@dotey](https://x.com/dotey)'
+author_url: 'https://twitter.com/dotey'
+source_url: 'https://twitter.com/dotey/status/1991786129046044735'
+preview: /media/creative/pg-1991786129046044735.webp
 ---
 
 Visualize resilience! This hand-drawn infographic bursts with inspiring wisdom. With earthy tones and captivating calligraphy, it emphasizes the journey of steady effort in building IP. Creative illustrations invite reflection, making the message impactful and relatable.

@@ -1,11 +1,17 @@
 ---
-title: "Crafting Wisdom: Feynman's Simple Truths in Art"
+title: 'Crafting Wisdom: Feynman''s Simple Truths in Art'
 category: portraits
-tags: ["illustration","art","vibrant","nano-banana-pro"]
-author: "[@dotey](https://x.com/dotey)"
-author_url: "https://twitter.com/dotey"
-source_url: "https://twitter.com/dotey/status/1996303762428731486"
-preview: "/media/portraits/pg-1996303762428731486.webp"
+tags:
+  - illustration
+  - art
+  - vibrant
+  - minimalist
+  - portrait
+  - colorful
+author: '[@dotey](https://x.com/dotey)'
+author_url: 'https://twitter.com/dotey'
+source_url: 'https://twitter.com/dotey/status/1996303762428731486'
+preview: /media/portraits/pg-1996303762428731486.webp
 ---
 
 A vibrant blend of hand-drawn charm and insightful quotes! This infographic card captures Feynman’s wisdom with flowing scripts and playful illustrations, making complex ideas feel accessible.

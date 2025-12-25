@@ -1,11 +1,15 @@
 ---
-title: "Sipping Serenity: A Street Café Dream"
+title: 'Sipping Serenity: A Street Café Dream'
 category: portraits
-tags: ["vibrant","nano-banana-pro"]
-author: "[@kingofdairyque](https://x.com/kingofdairyque)"
-author_url: "https://twitter.com/kingofdairyque"
-source_url: "https://twitter.com/kingofdairyque/status/1993175500915982855"
-preview: "/media/portraits/pg-1993175500915982855.webp"
+tags:
+  - vibrant
+  - realistic
+  - portrait
+  - colorful
+author: '[@kingofdairyque](https://x.com/kingofdairyque)'
+author_url: 'https://twitter.com/kingofdairyque'
+source_url: 'https://twitter.com/kingofdairyque/status/1993175500915982855'
+preview: /media/portraits/pg-1993175500915982855.webp
 ---
 
 Can you feel the warmth of casual café culture? This vibrant POV shot captures a friendly face offering a steaming cup, inviting you into a bustling street scene framed by reflections and laughter.

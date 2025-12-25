@@ -1,11 +1,18 @@
 ---
-title: "Chic Reflections: A Modern Muse in 8K HD"
+title: 'Chic Reflections: A Modern Muse in 8K HD'
 category: portraits
-tags: ["selfie","art","modern","light","nano-banana-pro"]
-author: "[@mehvishs25](https://x.com/mehvishs25)"
-author_url: "https://twitter.com/mehvishs25"
-source_url: "https://twitter.com/mehvishs25/status/1994005234960552087"
-preview: "/media/portraits/pg-1994005234960552087.webp"
+tags:
+  - selfie
+  - art
+  - modern
+  - light
+  - realistic
+  - portrait
+  - black-and-white
+author: '[@mehvishs25](https://x.com/mehvishs25)'
+author_url: 'https://twitter.com/mehvishs25'
+source_url: 'https://twitter.com/mehvishs25/status/1994005234960552087'
+preview: /media/portraits/pg-1994005234960552087.webp
 ---
 
 A stylish moment captured—she stands poised with her coffee, exuding elegance. The sleek black and white ensemble perfectly contrasts with the soft light, creating an artful selfie.

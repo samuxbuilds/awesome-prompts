@@ -1,11 +1,15 @@
 ---
-title: "Golden Hour Bliss Amid Cotton Dreams"
+title: Golden Hour Bliss Amid Cotton Dreams
 category: portraits
-tags: ["light","nano-banana-pro"]
-author: "[@SimplyAnnisa](https://x.com/SimplyAnnisa)"
-author_url: "https://twitter.com/SimplyAnnisa"
-source_url: "https://twitter.com/SimplyAnnisa/status/1991773233784189316"
-preview: "/media/portraits/pg-1991773233784189316.webp"
+tags:
+  - light
+  - realistic
+  - portrait
+  - dark
+author: '[@SimplyAnnisa](https://x.com/SimplyAnnisa)'
+author_url: 'https://twitter.com/SimplyAnnisa'
+source_url: 'https://twitter.com/SimplyAnnisa/status/1991773233784189316'
+preview: /media/portraits/pg-1991773233784189316.webp
 ---
 
 Bathed in golden sunlight, a young woman stands serenely in a sea of cotton blooms, their fluffy white petals contrasting beautifully with her warm glow. A moment of pure tranquility unfolds.

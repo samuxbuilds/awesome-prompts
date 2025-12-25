@@ -1,11 +1,14 @@
 ---
-title: "Golden Hour Glamour on Cobblestone Streets"
+title: Golden Hour Glamour on Cobblestone Streets
 category: portraits
-tags: ["vintage","light","nano-banana-pro"]
-author: "[@AIwithkhan](https://x.com/AIwithkhan)"
-author_url: "https://twitter.com/AIwithkhan"
-source_url: "https://twitter.com/AIwithkhan/status/1996570588148810137"
-preview: "/media/portraits/pg-1996570588148810137.webp"
+tags:
+  - vintage
+  - light
+  - portrait
+author: '[@AIwithkhan](https://x.com/AIwithkhan)'
+author_url: 'https://twitter.com/AIwithkhan'
+source_url: 'https://twitter.com/AIwithkhan/status/1996570588148810137'
+preview: /media/portraits/pg-1996570588148810137.webp
 ---
 
 Captured in the soft glow of sunset, a woman exudes confidence in her vintage convertible. The warm amber light dances across cobblestones, evoking nostalgia and timeless elegance.

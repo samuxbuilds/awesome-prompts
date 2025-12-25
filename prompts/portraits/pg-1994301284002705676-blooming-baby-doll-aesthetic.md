@@ -1,11 +1,16 @@
 ---
-title: "Blooming Baby Doll Aesthetic 🌸"
+title: "Blooming Baby Doll Aesthetic \U0001F338"
 category: portraits
-tags: ["neon","nano-banana-pro"]
-author: "[@xmiiru_](https://x.com/xmiiru_)"
-author_url: "https://twitter.com/xmiiru_"
-source_url: "https://twitter.com/xmiiru_/status/1994301284002705676"
-preview: "/media/portraits/pg-1994301284002705676.webp"
+tags:
+  - neon
+  - realistic
+  - portrait
+  - dark
+  - colorful
+author: '[@xmiiru_](https://x.com/xmiiru_)'
+author_url: 'https://twitter.com/xmiiru_'
+source_url: 'https://twitter.com/xmiiru_/status/1994301284002705676'
+preview: /media/portraits/pg-1994301284002705676.webp
 ---
 
 Bright turquoise and neon pink collide in this playful Y2K-inspired poster! A striking close-up reveals a thoughtful beauty adorned with lace and silver hoops, while her full-body shot flaunts a bold 'Baby Doll' look. Pure nostalgic magic!

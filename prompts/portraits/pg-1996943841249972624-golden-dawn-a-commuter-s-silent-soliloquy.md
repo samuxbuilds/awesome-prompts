@@ -1,11 +1,15 @@
 ---
-title: "Golden Dawn: A Commuter's Silent Soliloquy"
+title: 'Golden Dawn: A Commuter''s Silent Soliloquy'
 category: portraits
-tags: ["vintage","fashion","light","nano-banana-pro"]
-author: "[@kingofdairyque](https://x.com/kingofdairyque)"
-author_url: "https://twitter.com/kingofdairyque"
-source_url: "https://twitter.com/kingofdairyque/status/1996943841249972624"
-preview: "/media/portraits/pg-1996943841249972624.webp"
+tags:
+  - vintage
+  - fashion
+  - light
+  - portrait
+author: '[@kingofdairyque](https://x.com/kingofdairyque)'
+author_url: 'https://twitter.com/kingofdairyque'
+source_url: 'https://twitter.com/kingofdairyque/status/1996943841249972624'
+preview: /media/portraits/pg-1996943841249972624.webp
 ---
 
 Stunning light dances through fog as a young woman stands poised at a vintage train station, her stylish attire merging with the ethereal moment of dawn. A striking fusion of fashion and atmosphere.

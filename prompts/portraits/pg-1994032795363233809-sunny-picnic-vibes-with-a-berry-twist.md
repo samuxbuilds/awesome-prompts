@@ -1,11 +1,16 @@
 ---
-title: "Sunny Picnic Vibes with a Berry Twist"
+title: Sunny Picnic Vibes with a Berry Twist
 category: portraits
-tags: ["nature","vibrant","nano-banana-pro"]
-author: "[@ZaraIrahh](https://x.com/ZaraIrahh)"
-author_url: "https://twitter.com/ZaraIrahh"
-source_url: "https://twitter.com/ZaraIrahh/status/1994032795363233809"
-preview: "/media/portraits/pg-1994032795363233809.webp"
+tags:
+  - nature
+  - vibrant
+  - portrait
+  - landscape
+  - colorful
+author: '[@ZaraIrahh](https://x.com/ZaraIrahh)'
+author_url: 'https://twitter.com/ZaraIrahh'
+source_url: 'https://twitter.com/ZaraIrahh/status/1994032795363233809'
+preview: /media/portraits/pg-1994032795363233809.webp
 ---
 
 Captured in golden hour magic, a playful smile and sweet strawberries create a cozy moment in this vibrant outdoor scene. Nature’s beauty blooms alongside laughter!

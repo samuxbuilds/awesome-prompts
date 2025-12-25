@@ -1,9 +1,18 @@
 ---
-title: "MrBeast Style - Survival Challenge"
-category: "thumbnails"
-tags: ["mrbeast", "youtube", "thumbnail", "survival", "challenge"]
-author: "[@samux](https://x.com/samux)"
-preview: "/media/thumbnails/mrbeast-survival.webp"
+title: MrBeast Style - Survival Challenge
+category: thumbnails
+tags:
+  - mrbeast
+  - youtube
+  - thumbnail
+  - survival
+  - challenge
+  - realistic
+  - portrait
+  - dark
+  - colorful
+author: '[@samux](https://x.com/samux)'
+preview: /media/thumbnails/mrbeast-survival.webp
 ---
 
 ```json

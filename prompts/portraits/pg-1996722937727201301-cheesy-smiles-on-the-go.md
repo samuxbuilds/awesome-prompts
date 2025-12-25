@@ -1,11 +1,13 @@
 ---
-title: "Cheesy Smiles on the Go!"
+title: Cheesy Smiles on the Go!
 category: portraits
-tags: ["nano-banana-pro"]
-author: "[@johnnprofits](https://x.com/johnnprofits)"
-author_url: "https://twitter.com/johnnprofits"
-source_url: "https://twitter.com/johnnprofits/status/1996722937727201301"
-preview: "/media/portraits/pg-1996722937727201301.webp"
+tags:
+  - portrait
+  - black-and-white
+author: '[@johnnprofits](https://x.com/johnnprofits)'
+author_url: 'https://twitter.com/johnnprofits'
+source_url: 'https://twitter.com/johnnprofits/status/1996722937727201301'
+preview: /media/portraits/pg-1996722937727201301.webp
 ---
 
 Caught in a sunny moment, a charming blonde winks while savoring a cheese cracker. Inside her stylish car, the world blurs past, blending fun with flair!

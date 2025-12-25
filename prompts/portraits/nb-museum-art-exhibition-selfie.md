@@ -1,9 +1,16 @@
 ---
-title: "Museum Art Exhibition Selfie"
+title: Museum Art Exhibition Selfie
 category: portraits
-tags: ["character", "professional", "cinematic"]
-author: "[@nanobanana-pro](https://x.com/nanobanana-pro)"
-preview: "/media/portraits/nb-museum-art-exhibition-selfie.webp"
+tags:
+  - character
+  - professional
+  - cinematic
+  - realistic
+  - 3d
+  - portrait
+  - dark
+author: '[@nanobanana-pro](https://x.com/nanobanana-pro)'
+preview: /media/portraits/nb-museum-art-exhibition-selfie.webp
 ---
 
 *A commercial-grade photo with a classical oil painting*

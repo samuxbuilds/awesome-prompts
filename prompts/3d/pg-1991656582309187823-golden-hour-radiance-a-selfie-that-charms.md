@@ -1,11 +1,16 @@
 ---
-title: "Golden Hour Radiance: A Selfie That Charms"
+title: 'Golden Hour Radiance: A Selfie That Charms'
 category: 3d
-tags: ["portrait","selfie","light","nano-banana-pro"]
-author: "[@haniya_445](https://x.com/haniya_445)"
-author_url: "https://twitter.com/haniya_445"
-source_url: "https://twitter.com/haniya_445/status/1991656582309187823"
-preview: "/media/3d/pg-1991656582309187823.webp"
+tags:
+  - portrait
+  - selfie
+  - light
+  - 3d
+  - vintage
+author: '[@haniya_445](https://x.com/haniya_445)'
+author_url: 'https://twitter.com/haniya_445'
+source_url: 'https://twitter.com/haniya_445/status/1991656582309187823'
+preview: /media/3d/pg-1991656582309187823.webp
 ---
 
 With golden light kissing her flawless skin, this portrait captures both beauty and joy. Holding her iced latte, she embodies effortless charm on a sunlit balcony.

@@ -1,9 +1,12 @@
 ---
-title: "Retro CRT Computer Boot Screen"
+title: Retro CRT Computer Boot Screen
 category: creative
-tags: ["retro", "logo"]
-author: "[@Gdgtify](https://x.com/Gdgtify)"
-preview: "/media/creative/retro-crt-computer-boot-screen.webp"
+tags:
+  - retro
+  - logo
+  - vintage
+author: '[@Gdgtify](https://x.com/Gdgtify)'
+preview: /media/creative/retro-crt-computer-boot-screen.webp
 ---
 
 Retro CRT computer boot screen that resolves into ASCII-art of [shape or logo]

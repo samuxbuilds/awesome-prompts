@@ -1,9 +1,13 @@
 ---
-title: "Whiteboard Marker Art"
+title: Whiteboard Marker Art
 category: creative
-tags: ["glass", "ai-art"]
-author: "[@nanobanana-pro](https://x.com/nanobanana-pro)"
-preview: "/media/creative/nb-whiteboard-marker-art.webp"
+tags:
+  - glass
+  - ai-art
+  - realistic
+  - illustration
+author: '[@nanobanana-pro](https://x.com/nanobanana-pro)'
+preview: /media/creative/nb-whiteboard-marker-art.webp
 ---
 
 *Simulating specific drawing media (faded marker) on glass textures.*

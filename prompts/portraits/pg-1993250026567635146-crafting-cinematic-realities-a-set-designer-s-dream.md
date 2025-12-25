@@ -1,11 +1,17 @@
 ---
-title: "Crafting Cinematic Realities: A Set Designer's Dream"
+title: 'Crafting Cinematic Realities: A Set Designer''s Dream'
 category: portraits
-tags: ["light","neon","nano-banana-pro"]
-author: "[@IamEmily2050](https://x.com/IamEmily2050)"
-author_url: "https://twitter.com/IamEmily2050"
-source_url: "https://twitter.com/IamEmily2050/status/1993250026567635146"
-preview: "/media/portraits/pg-1993250026567635146.webp"
+tags:
+  - light
+  - neon
+  - realistic
+  - 3d
+  - portrait
+  - dark
+author: '[@IamEmily2050](https://x.com/IamEmily2050)'
+author_url: 'https://twitter.com/IamEmily2050'
+source_url: 'https://twitter.com/IamEmily2050/status/1993250026567635146'
+preview: /media/portraits/pg-1993250026567635146.webp
 ---
 
 Can a single image encapsulate a world of stories? This stunning render captures the essence of a detective's solitude, drenched in rain and neon light, each detail whispering mysteries untold.

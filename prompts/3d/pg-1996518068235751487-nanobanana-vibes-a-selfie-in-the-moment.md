@@ -1,11 +1,17 @@
 ---
-title: "Nanobanana Vibes: A Selfie in the Moment"
+title: 'Nanobanana Vibes: A Selfie in the Moment'
 category: 3d
-tags: ["selfie","light","nano-banana-pro"]
-author: "[@gaucheai](https://x.com/gaucheai)"
-author_url: "https://twitter.com/gaucheai"
-source_url: "https://twitter.com/gaucheai/status/1996518068235751487"
-preview: "/media/3d/pg-1996518068235751487.webp"
+tags:
+  - selfie
+  - light
+  - 3d
+  - minimalist
+  - portrait
+  - dark
+author: '[@gaucheai](https://x.com/gaucheai)'
+author_url: 'https://twitter.com/gaucheai'
+source_url: 'https://twitter.com/gaucheai/status/1996518068235751487'
+preview: /media/3d/pg-1996518068235751487.webp
 ---
 
 Caught between floors, this playful selfie radiates warmth and soft allure. The cozy atmosphere invites a moment of connection, while that cheeky 'nano banana' twist keeps things light!

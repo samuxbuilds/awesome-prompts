@@ -1,9 +1,15 @@
 ---
-title: "AI Skin Analysis and Skincare Routine"
+title: AI Skin Analysis and Skincare Routine
 category: creative
-tags: ["professional", "ai-art"]
-author: "[@nanobanana-pro](https://x.com/nanobanana-pro)"
-preview: "/media/creative/nb-ai-skin-analysis-and-skincare-routine.webp"
+tags:
+  - professional
+  - ai-art
+  - realistic
+  - minimalist
+  - portrait
+  - dark
+author: '[@nanobanana-pro](https://x.com/nanobanana-pro)'
+preview: /media/creative/nb-ai-skin-analysis-and-skincare-routine.webp
 ---
 
 *Analyze skin and provide routine recommendations*

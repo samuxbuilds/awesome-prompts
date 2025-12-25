@@ -1,11 +1,18 @@
 ---
-title: "Digital Nomad Coworking"
+title: Digital Nomad Coworking
 category: portraits
-tags: ["digital-nomad", "coworking", "tropical", "lifestyle", "text-overlay"]
-author: "[@levelsio](https://x.com/levelsio)"
-author_url: "https://x.com/levelsio"
-source_url: "https://x.com/levelsio/status/1997570538705911887"
-preview: "/media/portraits/digital-nomad-coworking.webp"
+tags:
+  - digital-nomad
+  - coworking
+  - tropical
+  - lifestyle
+  - text-overlay
+  - portrait
+  - colorful
+author: '[@levelsio](https://x.com/levelsio)'
+author_url: 'https://x.com/levelsio'
+source_url: 'https://x.com/levelsio/status/1997570538705911887'
+preview: /media/portraits/digital-nomad-coworking.webp
 ---
 
 *Create a candid digital nomad workspace portrait with text overlay*

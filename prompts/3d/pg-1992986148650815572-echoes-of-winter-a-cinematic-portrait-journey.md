@@ -1,11 +1,16 @@
 ---
-title: "Echoes of Winter: A Cinematic Portrait Journey"
+title: 'Echoes of Winter: A Cinematic Portrait Journey'
 category: 3d
-tags: ["portrait","nano-banana-pro"]
-author: "[@lexx_aura](https://x.com/lexx_aura)"
-author_url: "https://twitter.com/lexx_aura"
-source_url: "https://twitter.com/lexx_aura/status/1992986148650815572"
-preview: "/media/3d/pg-1992986148650815572.webp"
+tags:
+  - portrait
+  - realistic
+  - 3d
+  - landscape
+  - dark
+author: '[@lexx_aura](https://x.com/lexx_aura)'
+author_url: 'https://twitter.com/lexx_aura'
+source_url: 'https://twitter.com/lexx_aura/status/1992986148650815572'
+preview: /media/3d/pg-1992986148650815572.webp
 ---
 
 Chilled winds and smoky whispers surround this striking triptych, capturing a lone figure in a black jacket amidst a serene, snowy village. Each panel reveals layers of emotion under a deep blue sky.

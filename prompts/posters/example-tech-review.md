@@ -1,9 +1,16 @@
 ---
-title: "YouTube Thumbnail - Tech Review Style"
-category: "thumbnails"
-tags: ["youtube", "tech", "review", "thumbnail"]
-author: "[@example_contributor](https://x.com/example_contributor)"
-preview: "https://images.unsplash.com/photo-1611162617474-5b21e879e113?w=800&q=80"
+title: YouTube Thumbnail - Tech Review Style
+category: thumbnails
+tags:
+  - youtube
+  - tech
+  - review
+  - thumbnail
+  - realistic
+  - 3d
+  - portrait
+author: '[@example_contributor](https://x.com/example_contributor)'
+preview: 'https://images.unsplash.com/photo-1611162617474-5b21e879e113?w=800&q=80'
 ---
 
 Create a professional YouTube thumbnail for a tech review video:

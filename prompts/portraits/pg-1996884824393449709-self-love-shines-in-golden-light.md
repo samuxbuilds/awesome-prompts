@@ -1,11 +1,15 @@
 ---
-title: "Self-Love Shines in Golden Light 🌟"
+title: "Self-Love Shines in Golden Light \U0001F31F"
 category: portraits
-tags: ["light","nano-banana-pro"]
-author: "[@xmiiru_](https://x.com/xmiiru_)"
-author_url: "https://twitter.com/xmiiru_"
-source_url: "https://twitter.com/xmiiru_/status/1996884824393449709"
-preview: "/media/portraits/pg-1996884824393449709.webp"
+tags:
+  - light
+  - realistic
+  - portrait
+  - dark
+author: '[@xmiiru_](https://x.com/xmiiru_)'
+author_url: 'https://twitter.com/xmiiru_'
+source_url: 'https://twitter.com/xmiiru_/status/1996884824393449709'
+preview: /media/portraits/pg-1996884824393449709.webp
 ---
 
 Caught in a moment of joy, she radiates playful confidence. What's your favorite self-care moment today? Share your stories of delight!

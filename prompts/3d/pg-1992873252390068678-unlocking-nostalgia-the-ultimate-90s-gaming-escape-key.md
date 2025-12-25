@@ -1,11 +1,14 @@
 ---
-title: "Unlocking Nostalgia: The Ultimate 90s Gaming Escape Key"
+title: 'Unlocking Nostalgia: The Ultimate 90s Gaming Escape Key'
 category: 3d
-tags: ["vintage","nano-banana-pro"]
-author: "[@icreatelife](https://x.com/icreatelife)"
-author_url: "https://twitter.com/icreatelife"
-source_url: "https://twitter.com/icreatelife/status/1992873252390068678"
-preview: "/media/3d/pg-1992873252390068678.webp"
+tags:
+  - vintage
+  - realistic
+  - 3d
+author: '[@icreatelife](https://x.com/icreatelife)'
+author_url: 'https://twitter.com/icreatelife'
+source_url: 'https://twitter.com/icreatelife/status/1992873252390068678'
+preview: /media/3d/pg-1992873252390068678.webp
 ---
 
 A cozy 90s living room springs to life with glowing screens and plush vibes! Who wouldn't want to escape into this vintage gaming paradise, joystick in hand?

@@ -1,11 +1,17 @@
 ---
-title: "Candid Moments Captured: A Glimpse of Nostalgia"
+title: 'Candid Moments Captured: A Glimpse of Nostalgia'
 category: portraits
-tags: ["light","nano-banana-pro"]
-author: "[@xmliisu](https://x.com/xmliisu)"
-author_url: "https://twitter.com/xmliisu"
-source_url: "https://twitter.com/xmliisu/status/1996825681280307472"
-preview: "/media/portraits/pg-1996825681280307472.webp"
+tags:
+  - light
+  - realistic
+  - illustration
+  - vintage
+  - portrait
+  - dark
+author: '[@xmliisu](https://x.com/xmliisu)'
+author_url: 'https://twitter.com/xmliisu'
+source_url: 'https://twitter.com/xmliisu/status/1996825681280307472'
+preview: /media/portraits/pg-1996825681280307472.webp
 ---
 
 A young woman's soft expression glows from a Canon screen, bathed in retro lighting. The familiar clutter of a kitchen adds an intimate touch to this nostalgic macro shot.

@@ -1,11 +1,15 @@
 ---
-title: "Urban Reflections: A Moment on the Fire Escape"
+title: 'Urban Reflections: A Moment on the Fire Escape'
 category: portraits
-tags: ["urban","light","nano-banana-pro"]
-author: "[@YaseenK7212](https://x.com/YaseenK7212)"
-author_url: "https://twitter.com/YaseenK7212"
-source_url: "https://twitter.com/YaseenK7212/status/1991854470196523261"
-preview: "/media/portraits/pg-1991854470196523261.webp"
+tags:
+  - urban
+  - light
+  - portrait
+  - dark
+author: '[@YaseenK7212](https://x.com/YaseenK7212)'
+author_url: 'https://twitter.com/YaseenK7212'
+source_url: 'https://twitter.com/YaseenK7212/status/1991854470196523261'
+preview: /media/portraits/pg-1991854470196523261.webp
 ---
 
 Perched high above the city, a model in a bomber jacket contemplates life. The soft glow of twilight paints the urban backdrop, while a monogrammed bag hints at stories untold.

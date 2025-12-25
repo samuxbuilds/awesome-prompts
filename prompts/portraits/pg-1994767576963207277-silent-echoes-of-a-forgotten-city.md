@@ -1,11 +1,16 @@
 ---
-title: "Silent Echoes of a Forgotten City"
+title: Silent Echoes of a Forgotten City
 category: portraits
-tags: ["nature","nano-banana-pro"]
-author: "[@azed_ai](https://x.com/azed_ai)"
-author_url: "https://twitter.com/azed_ai"
-source_url: "https://twitter.com/azed_ai/status/1994767576963207277"
-preview: "/media/portraits/pg-1994767576963207277.webp"
+tags:
+  - nature
+  - realistic
+  - portrait
+  - landscape
+  - dark
+author: '[@azed_ai](https://x.com/azed_ai)'
+author_url: 'https://twitter.com/azed_ai'
+source_url: 'https://twitter.com/azed_ai/status/1994767576963207277'
+preview: /media/portraits/pg-1994767576963207277.webp
 ---
 
 A lone survivor treads softly through nature's reclamation. With weary eyes and a rugged spirit, he navigates the beauty in decay amid crumbling walls and wild grass.

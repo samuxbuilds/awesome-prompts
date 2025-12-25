@@ -1,11 +1,18 @@
 ---
-title: "Nature's Muse: The Enchanting Vibe of a Waterfall Portrait"
+title: 'Nature''s Muse: The Enchanting Vibe of a Waterfall Portrait'
 category: portraits
-tags: ["portrait","nature","vibrant","nano-banana-pro"]
-author: "[@YaseenK7212](https://x.com/YaseenK7212)"
-author_url: "https://twitter.com/YaseenK7212"
-source_url: "https://twitter.com/YaseenK7212/status/1995763701614301295"
-preview: "/media/portraits/pg-1995763701614301295.webp"
+tags:
+  - portrait
+  - nature
+  - vibrant
+  - realistic
+  - landscape
+  - dark
+  - colorful
+author: '[@YaseenK7212](https://x.com/YaseenK7212)'
+author_url: 'https://twitter.com/YaseenK7212'
+source_url: 'https://twitter.com/YaseenK7212/status/1995763701614301295'
+preview: /media/portraits/pg-1995763701614301295.webp
 ---
 
 A stunning young woman with windswept curls radiates confidence against a majestic waterfall backdrop. Her vibrant burgundy eyes and dewy makeup harmonize perfectly with nature's beauty.

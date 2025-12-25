@@ -1,11 +1,16 @@
 ---
-title: "Neon Dreams on a Rainy Dusk"
+title: Neon Dreams on a Rainy Dusk
 category: 3d
-tags: ["neon","vibrant","nano-banana-pro"]
-author: "[@rovvmut_](https://x.com/rovvmut_)"
-author_url: "https://twitter.com/rovvmut_"
-source_url: "https://twitter.com/rovvmut_/status/1995087450788573215"
-preview: "/media/3d/pg-1995087450788573215.webp"
+tags:
+  - neon
+  - vibrant
+  - realistic
+  - 3d
+  - colorful
+author: '[@rovvmut_](https://x.com/rovvmut_)'
+author_url: 'https://twitter.com/rovvmut_'
+source_url: 'https://twitter.com/rovvmut_/status/1995087450788573215'
+preview: /media/3d/pg-1995087450788573215.webp
 ---
 
 Captured in a cinematic moment, a lone figure clad in vibrant layers sits on a rain-drenched bench, surrounded by the pulse of a neon cityscape. Puddle reflections and mist create a mesmerizing atmosphere.

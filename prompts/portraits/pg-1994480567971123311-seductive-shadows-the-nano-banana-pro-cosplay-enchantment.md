@@ -1,11 +1,16 @@
 ---
-title: "Seductive Shadows: The Nano Banana Pro Cosplay Enchantment"
+title: 'Seductive Shadows: The Nano Banana Pro Cosplay Enchantment'
 category: portraits
-tags: ["selfie","fantasy","dark","nano-banana-pro"]
-author: "[@awesome_visuals](https://x.com/awesome_visuals)"
-author_url: "https://twitter.com/awesome_visuals"
-source_url: "https://twitter.com/awesome_visuals/status/1994480567971123311"
-preview: "/media/portraits/pg-1994480567971123311.webp"
+tags:
+  - selfie
+  - fantasy
+  - dark
+  - realistic
+  - portrait
+author: '[@awesome_visuals](https://x.com/awesome_visuals)'
+author_url: 'https://twitter.com/awesome_visuals'
+source_url: 'https://twitter.com/awesome_visuals/status/1994480567971123311'
+preview: /media/portraits/pg-1994480567971123311.webp
 ---
 
 A captivating blend of fantasy and allure, this cosplay selfie features a striking redhead embodying a fierce demon hunter. Her bold outfit and seductive pose create a mesmerizing visual that draws you into a dark fantasy realm.

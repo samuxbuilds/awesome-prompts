@@ -1,11 +1,15 @@
 ---
-title: "A Regal Dream: Elegance in Crimson and Gold"
+title: 'A Regal Dream: Elegance in Crimson and Gold'
 category: portraits
-tags: ["art","vibrant","nano-banana-pro"]
-author: "[@art_muse](https://x.com/art_muse)"
-author_url: "https://twitter.com/art_muse"
-source_url: "https://twitter.com/art_muse/status/1995849675543380473"
-preview: "/media/portraits/pg-1995849675543380473.webp"
+tags:
+  - art
+  - vibrant
+  - portrait
+  - colorful
+author: '[@art_muse](https://x.com/art_muse)'
+author_url: 'https://twitter.com/art_muse'
+source_url: 'https://twitter.com/art_muse/status/1995849675543380473'
+preview: /media/portraits/pg-1995849675543380473.webp
 ---
 
 A captivating profile emerges, adorned with a stunning red headscarf and surrounded by vibrant poppies. The intricate details echo an art nouveau charm, blending luxury and drama in a mesmerizing visual feast.

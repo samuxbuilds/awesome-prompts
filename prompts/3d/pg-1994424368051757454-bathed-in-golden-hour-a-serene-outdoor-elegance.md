@@ -1,11 +1,18 @@
 ---
-title: "Bathed in Golden Hour: A Serene Outdoor Elegance"
+title: 'Bathed in Golden Hour: A Serene Outdoor Elegance'
 category: 3d
-tags: ["portrait","nature","light","nano-banana-pro"]
-author: "[@ZaraIrahh](https://x.com/ZaraIrahh)"
-author_url: "https://twitter.com/ZaraIrahh"
-source_url: "https://twitter.com/ZaraIrahh/status/1994424368051757454"
-preview: "/media/3d/pg-1994424368051757454.webp"
+tags:
+  - portrait
+  - nature
+  - light
+  - realistic
+  - 3d
+  - landscape
+  - dark
+author: '[@ZaraIrahh](https://x.com/ZaraIrahh)'
+author_url: 'https://twitter.com/ZaraIrahh'
+source_url: 'https://twitter.com/ZaraIrahh/status/1994424368051757454'
+preview: /media/3d/pg-1994424368051757454.webp
 ---
 
 A tranquil park scene captures a graceful figure in a stunning blue gown, illuminated by warm sunlight. Nature's backdrop enhances her calm smile, creating an enchanting portrait.

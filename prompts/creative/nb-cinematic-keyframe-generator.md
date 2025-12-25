@@ -1,9 +1,18 @@
 ---
-title: "Cinematic Keyframe Generator"
+title: Cinematic Keyframe Generator
 category: creative
-tags: ["realistic", "film", "character", "animal", "cinematic"]
-author: "[@nanobanana-pro](https://x.com/nanobanana-pro)"
-preview: "/media/creative/nb-cinematic-keyframe-generator.webp"
+tags:
+  - realistic
+  - film
+  - character
+  - animal
+  - cinematic
+  - 3d
+  - minimalist
+  - landscape
+  - dark
+author: '[@nanobanana-pro](https://x.com/nanobanana-pro)'
+preview: /media/creative/nb-cinematic-keyframe-generator.webp
 ---
 
 *Generates cinematic keyframes and storyboards from a reference image*

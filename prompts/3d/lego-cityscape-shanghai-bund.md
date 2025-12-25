@@ -1,9 +1,15 @@
 ---
-title: "Lego Cityscape (Shanghai Bund)"
+title: Lego Cityscape (Shanghai Bund)
 category: 3d
-tags: ["icon", "lego"]
-author: "[@dotey](https://x.com/dotey)"
-preview: "/media/3d/lego-cityscape-shanghai-bund.webp"
+tags:
+  - icon
+  - lego
+  - realistic
+  - 3d
+  - landscape
+  - colorful
+author: '[@dotey](https://x.com/dotey)'
+preview: /media/3d/lego-cityscape-shanghai-bund.webp
 ---
 
 Create a highly detailed and vividly colored LEGO-style scene of the Shanghai Bund. The foreground features the iconic historical buildings of the Bund, meticulously recreated with LEGO bricks in Western and neoclassical architectural styles — including clock towers, domes, and colonnades. LEGO minifigures are seen strolling along the riverfront, taking photos, and sightseeing, with classic LEGO-style cars parked along the street.

@@ -1,9 +1,16 @@
 ---
-title: "Kids' Crayon Travel Journal Illustrator"
+title: Kids' Crayon Travel Journal Illustrator
 category: creative
-tags: ["cute", "illustration", "sticker", "icon", "character"]
-author: "[@nanobanana-pro](https://x.com/nanobanana-pro)"
-preview: "/media/creative/nb-kids-crayon-travel-journal-illustrator.webp"
+tags:
+  - cute
+  - illustration
+  - sticker
+  - icon
+  - character
+  - landscape
+  - colorful
+author: '[@nanobanana-pro](https://x.com/nanobanana-pro)'
+preview: /media/creative/nb-kids-crayon-travel-journal-illustrator.webp
 ---
 
 *Generate a childlike travel journal illustration for a city*

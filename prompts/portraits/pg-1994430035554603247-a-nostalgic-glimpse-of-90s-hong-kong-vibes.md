@@ -1,11 +1,16 @@
 ---
-title: "A Nostalgic Glimpse of 90s Hong Kong Vibes"
+title: A Nostalgic Glimpse of 90s Hong Kong Vibes
 category: portraits
-tags: ["portrait","art","vintage","fashion","nano-banana-pro"]
-author: "[@ShreyaYadav___](https://x.com/ShreyaYadav___)"
-author_url: "https://twitter.com/ShreyaYadav___"
-source_url: "https://twitter.com/ShreyaYadav___/status/1994430035554603247"
-preview: "/media/portraits/pg-1994430035554603247.webp"
+tags:
+  - portrait
+  - art
+  - vintage
+  - fashion
+  - realistic
+author: '[@ShreyaYadav___](https://x.com/ShreyaYadav___)'
+author_url: 'https://twitter.com/ShreyaYadav___'
+source_url: 'https://twitter.com/ShreyaYadav___/status/1994430035554603247'
+preview: /media/portraits/pg-1994430035554603247.webp
 ---
 
 Soft gazes meet gritty aesthetics in this iconic portrait. A newspaper backdrop and vintage fashion transport you straight to the heart of 1990s street culture.

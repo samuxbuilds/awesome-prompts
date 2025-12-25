@@ -1,11 +1,14 @@
 ---
-title: "Cute Bunny Vibes with a Twist!"
+title: Cute Bunny Vibes with a Twist!
 category: portraits
-tags: ["cute","nano-banana-pro"]
-author: "[@IqraSaifiii](https://x.com/IqraSaifiii)"
-author_url: "https://twitter.com/IqraSaifiii"
-source_url: "https://twitter.com/IqraSaifiii/status/1995603848510271611"
-preview: "/media/portraits/pg-1995603848510271611.webp"
+tags:
+  - cute
+  - realistic
+  - portrait
+author: '[@IqraSaifiii](https://x.com/IqraSaifiii)'
+author_url: 'https://twitter.com/IqraSaifiii'
+source_url: 'https://twitter.com/IqraSaifiii/status/1995603848510271611'
+preview: /media/portraits/pg-1995603848510271611.webp
 ---
 
 Radiating playful charm, this young woman strikes a whimsical pose in a classic bunny outfit, bringing a touch of fun to the everyday setting. A perfect blend of sass and sweetness!

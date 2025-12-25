@@ -1,11 +1,14 @@
 ---
-title: "A Timeless Muse Amidst Ancient Walls"
+title: A Timeless Muse Amidst Ancient Walls
 category: portraits
-tags: ["vintage","nano-banana-pro"]
-author: "[@ShreyaYadav___](https://x.com/ShreyaYadav___)"
-author_url: "https://twitter.com/ShreyaYadav___"
-source_url: "https://twitter.com/ShreyaYadav___/status/1992987520968339581"
-preview: "/media/portraits/pg-1992987520968339581.webp"
+tags:
+  - vintage
+  - portrait
+  - dark
+author: '[@ShreyaYadav___](https://x.com/ShreyaYadav___)'
+author_url: 'https://twitter.com/ShreyaYadav___'
+source_url: 'https://twitter.com/ShreyaYadav___/status/1992987520968339581'
+preview: /media/portraits/pg-1992987520968339581.webp
 ---
 
 Stately in her Edwardian-inspired ensemble, she captures a moment of introspection against a weathered stone backdrop, embodying vintage elegance.

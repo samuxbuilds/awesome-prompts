@@ -1,11 +1,15 @@
 ---
-title: "Festive Glam: A Luxe Winter Wonderland Unveiled"
+title: 'Festive Glam: A Luxe Winter Wonderland Unveiled'
 category: portraits
-tags: ["pastel","nano-banana-pro"]
-author: "[@xmliisu](https://x.com/xmliisu)"
-author_url: "https://twitter.com/xmliisu"
-source_url: "https://twitter.com/xmliisu/status/1992861873813811258"
-preview: "/media/portraits/pg-1992861873813811258.webp"
+tags:
+  - pastel
+  - realistic
+  - vintage
+  - portrait
+author: '[@xmliisu](https://x.com/xmliisu)'
+author_url: 'https://twitter.com/xmliisu'
+source_url: 'https://twitter.com/xmliisu/status/1992861873813811258'
+preview: /media/portraits/pg-1992861873813811258.webp
 ---
 
 Amidst a glistening New York street, a stylish woman reclines in a pastel Cadillac trunk, surrounded by gifts and a twinkling Christmas tree, exuding effortless holiday elegance.

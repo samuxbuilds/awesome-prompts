@@ -1,11 +1,15 @@
 ---
-title: "Reviving Memories: Old Photos in Stunning 4K Colors!"
+title: 'Reviving Memories: Old Photos in Stunning 4K Colors!'
 category: portraits
-tags: ["vibrant","nano-banana-pro"]
-author: "[@ShreyaYadav___](https://x.com/ShreyaYadav___)"
-author_url: "https://twitter.com/ShreyaYadav___"
-source_url: "https://twitter.com/ShreyaYadav___/status/1995315482896089114"
-preview: "/media/portraits/pg-1995315482896089114.webp"
+tags:
+  - vibrant
+  - realistic
+  - portrait
+  - colorful
+author: '[@ShreyaYadav___](https://x.com/ShreyaYadav___)'
+author_url: 'https://twitter.com/ShreyaYadav___'
+source_url: 'https://twitter.com/ShreyaYadav___/status/1995315482896089114'
+preview: /media/portraits/pg-1995315482896089114.webp
 ---
 
 Transform faded history into vibrant life! This old image springs forth, free of flaws and bursting with color, showcasing the beauty of a bygone era in exquisite detail.

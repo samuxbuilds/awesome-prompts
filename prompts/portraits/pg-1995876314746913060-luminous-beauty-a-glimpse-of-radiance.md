@@ -1,11 +1,16 @@
 ---
-title: "Luminous Beauty: A Glimpse of Radiance"
+title: 'Luminous Beauty: A Glimpse of Radiance'
 category: portraits
-tags: ["fantasy","nano-banana-pro"]
-author: "[@kingofdairyque](https://x.com/kingofdairyque)"
-author_url: "https://twitter.com/kingofdairyque"
-source_url: "https://twitter.com/kingofdairyque/status/1995876314746913060"
-preview: "/media/portraits/pg-1995876314746913060.webp"
+tags:
+  - fantasy
+  - realistic
+  - minimalist
+  - portrait
+  - dark
+author: '[@kingofdairyque](https://x.com/kingofdairyque)'
+author_url: 'https://twitter.com/kingofdairyque'
+source_url: 'https://twitter.com/kingofdairyque/status/1995876314746913060'
+preview: /media/portraits/pg-1995876314746913060.webp
 ---
 
 A soft glow envelops this serene visage, where striking gray-green eyes capture your gaze. The delicate blush and wet black strands create an editorial fantasy that feels both intimate and dreamlike.

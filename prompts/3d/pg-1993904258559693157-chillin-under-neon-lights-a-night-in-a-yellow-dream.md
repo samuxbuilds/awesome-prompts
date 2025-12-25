@@ -1,11 +1,20 @@
 ---
-title: "Chillin' Under Neon Lights: A Night in a Yellow Dream"
+title: 'Chillin'' Under Neon Lights: A Night in a Yellow Dream'
 category: 3d
-tags: ["vintage","modern","light","neon","vibrant","nano-banana-pro"]
-author: "[@kingofdairyque](https://x.com/kingofdairyque)"
-author_url: "https://twitter.com/kingofdairyque"
-source_url: "https://twitter.com/kingofdairyque/status/1993904258559693157"
-preview: "/media/3d/pg-1993904258559693157.webp"
+tags:
+  - vintage
+  - modern
+  - light
+  - neon
+  - vibrant
+  - realistic
+  - 3d
+  - dark
+  - colorful
+author: '[@kingofdairyque](https://x.com/kingofdairyque)'
+author_url: 'https://twitter.com/kingofdairyque'
+source_url: 'https://twitter.com/kingofdairyque/status/1993904258559693157'
+preview: /media/3d/pg-1993904258559693157.webp
 ---
 
 Captured in a moment of relaxed rebellion, this edgy scene unveils a dreamy figure lounging in a vibrant yellow car trunk, smoke curling through the night. Vintage vibes meet modern flair!

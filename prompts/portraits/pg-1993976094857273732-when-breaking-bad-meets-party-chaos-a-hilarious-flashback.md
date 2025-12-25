@@ -1,11 +1,15 @@
 ---
-title: "When Breaking Bad Meets Party Chaos: A Hilarious Flashback"
+title: 'When Breaking Bad Meets Party Chaos: A Hilarious Flashback'
 category: portraits
-tags: ["art","nano-banana-pro"]
-author: "[@Arminn_Ai](https://x.com/Arminn_Ai)"
-author_url: "https://twitter.com/Arminn_Ai"
-source_url: "https://twitter.com/Arminn_Ai/status/1993976094857273732"
-preview: "/media/portraits/pg-1993976094857273732.webp"
+tags:
+  - art
+  - realistic
+  - vintage
+  - portrait
+author: '[@Arminn_Ai](https://x.com/Arminn_Ai)'
+author_url: 'https://twitter.com/Arminn_Ai'
+source_url: 'https://twitter.com/Arminn_Ai/status/1993976094857273732'
+preview: /media/portraits/pg-1993976094857273732.webp
 ---
 
 A glimpse of post-party pandemonium where Walter’s seriousness collides with chaotic hilarity! Who knew the Heisenberg crew could throw a bash this wild?

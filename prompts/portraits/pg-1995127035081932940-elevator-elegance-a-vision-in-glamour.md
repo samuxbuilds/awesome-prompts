@@ -1,11 +1,14 @@
 ---
-title: "Elevator Elegance: A Vision in Glamour"
+title: 'Elevator Elegance: A Vision in Glamour'
 category: portraits
-tags: ["nano-banana-pro"]
-author: "[@xmiiru_](https://x.com/xmiiru_)"
-author_url: "https://twitter.com/xmiiru_"
-source_url: "https://twitter.com/xmiiru_/status/1995127035081932940"
-preview: "/media/portraits/pg-1995127035081932940.webp"
+tags:
+  - vintage
+  - portrait
+  - dark
+author: '[@xmiiru_](https://x.com/xmiiru_)'
+author_url: 'https://twitter.com/xmiiru_'
+source_url: 'https://twitter.com/xmiiru_/status/1995127035081932940'
+preview: /media/portraits/pg-1995127035081932940.webp
 ---
 
 Step into a realm of sophistication where a stunning woman commands attention in a sleek hotel elevator.

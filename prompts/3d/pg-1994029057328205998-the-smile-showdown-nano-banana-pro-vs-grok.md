@@ -1,11 +1,19 @@
 ---
-title: "The Smile Showdown: Nano Banana Pro vs. Grok"
+title: 'The Smile Showdown: Nano Banana Pro vs. Grok'
 category: 3d
-tags: ["selfie","light","vibrant","nano-banana-pro"]
-author: "[@ViralOps_](https://x.com/ViralOps_)"
-author_url: "https://twitter.com/ViralOps_"
-source_url: "https://twitter.com/ViralOps_/status/1994029057328205998"
-preview: "/media/3d/pg-1994029057328205998.webp"
+tags:
+  - selfie
+  - light
+  - vibrant
+  - realistic
+  - 3d
+  - portrait
+  - dark
+  - colorful
+author: '[@ViralOps_](https://x.com/ViralOps_)'
+author_url: 'https://twitter.com/ViralOps_'
+source_url: 'https://twitter.com/ViralOps_/status/1994029057328205998'
+preview: /media/3d/pg-1994029057328205998.webp
 ---
 
 Bright smiles and vibrant colors collide in this selfie! A young woman radiates joy in her vivid red tee, basking in natural light from the car's window.

@@ -1,11 +1,15 @@
 ---
-title: "Elevate Your Ambition: A Cinematic Office Inspiration"
+title: 'Elevate Your Ambition: A Cinematic Office Inspiration'
 category: portraits
-tags: ["urban","light","nano-banana-pro"]
-author: "[@saniaspeaks_](https://x.com/saniaspeaks_)"
-author_url: "https://twitter.com/saniaspeaks_"
-source_url: "https://twitter.com/saniaspeaks_/status/1991829032732905808"
-preview: ""
+tags:
+  - urban
+  - light
+  - realistic
+  - dark
+author: '[@saniaspeaks_](https://x.com/saniaspeaks_)'
+author_url: 'https://twitter.com/saniaspeaks_'
+source_url: 'https://twitter.com/saniaspeaks_/status/1991829032732905808'
+preview: ''
 ---
 
 Against a backdrop of urban elegance, a confident woman commands attention, her poised demeanor illuminated by golden hour. The scene radiates success, spotlighting innovation!

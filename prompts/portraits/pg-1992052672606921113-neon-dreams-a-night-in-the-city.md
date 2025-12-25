@@ -1,11 +1,19 @@
 ---
-title: "Neon Dreams: A Night in the City"
+title: 'Neon Dreams: A Night in the City'
 category: portraits
-tags: ["urban","light","neon","vibrant","nano-banana-pro"]
-author: "[@rovvmut_](https://x.com/rovvmut_)"
-author_url: "https://twitter.com/rovvmut_"
-source_url: "https://twitter.com/rovvmut_/status/1992052672606921113"
-preview: "/media/portraits/pg-1992052672606921113.webp"
+tags:
+  - urban
+  - light
+  - neon
+  - vibrant
+  - realistic
+  - portrait
+  - dark
+  - colorful
+author: '[@rovvmut_](https://x.com/rovvmut_)'
+author_url: 'https://twitter.com/rovvmut_'
+source_url: 'https://twitter.com/rovvmut_/status/1992052672606921113'
+preview: /media/portraits/pg-1992052672606921113.webp
 ---
 
 Beneath the glowing neon lights, a woman gazes dreamily into the mystery of the night. Raindrops dance in the air, reflecting a vibrant urban tapestry.

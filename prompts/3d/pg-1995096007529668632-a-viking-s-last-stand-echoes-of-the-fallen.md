@@ -1,11 +1,16 @@
 ---
-title: "A Viking's Last Stand: Echoes of the Fallen"
+title: 'A Viking''s Last Stand: Echoes of the Fallen'
 category: 3d
-tags: ["nano-banana-pro"]
-author: "[@Sheldon056](https://x.com/Sheldon056)"
-author_url: "https://twitter.com/Sheldon056"
-source_url: "https://twitter.com/Sheldon056/status/1995096007529668632"
-preview: "/media/3d/pg-1995096007529668632.webp"
+tags:
+  - realistic
+  - 3d
+  - minimalist
+  - portrait
+  - dark
+author: '[@Sheldon056](https://x.com/Sheldon056)'
+author_url: 'https://twitter.com/Sheldon056'
+source_url: 'https://twitter.com/Sheldon056/status/1995096007529668632'
+preview: /media/3d/pg-1995096007529668632.webp
 ---
 
 A fierce solitary figure braves the ashes of a lost village, embodying resilience. With frost in his tangled hair and battle scars etched deep, he carries the weight of history on his blood-stained axe.

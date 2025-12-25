@@ -1,11 +1,17 @@
 ---
-title: "Chibi Magic: A Cozy Hug with Ichigo!"
+title: 'Chibi Magic: A Cozy Hug with Ichigo!'
 category: 3d
-tags: ["3d","chibi","art","nano-banana-pro"]
-author: "[@ShreyaYadav___](https://x.com/ShreyaYadav___)"
-author_url: "https://twitter.com/ShreyaYadav___"
-source_url: "https://twitter.com/ShreyaYadav___/status/1997248676272771223"
-preview: "/media/3d/pg-1997248676272771223.webp"
+tags:
+  - 3d
+  - chibi
+  - art
+  - realistic
+  - portrait
+  - dark
+author: '[@ShreyaYadav___](https://x.com/ShreyaYadav___)'
+author_url: 'https://twitter.com/ShreyaYadav___'
+source_url: 'https://twitter.com/ShreyaYadav___/status/1997248676272771223'
+preview: /media/3d/pg-1997248676272771223.webp
 ---
 
 Smiles abound in this heartwarming 3D chibi scene! Our character, laughing joyfully while embracing Ichigo Kurosaki, bursts with charm against a cozy amber-hued backdrop.

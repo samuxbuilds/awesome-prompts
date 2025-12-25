@@ -1,11 +1,16 @@
 ---
-title: "A Miniature Paris in a Coffee Cup"
+title: A Miniature Paris in a Coffee Cup
 category: 3d
-tags: ["miniature","nano-banana-pro"]
-author: "[@umesh_ai](https://x.com/umesh_ai)"
-author_url: "https://twitter.com/umesh_ai"
-source_url: "https://twitter.com/umesh_ai/status/1991831875573477640"
-preview: "/media/3d/pg-1991831875573477640.webp"
+tags:
+  - miniature
+  - realistic
+  - 3d
+  - portrait
+  - dark
+author: '[@umesh_ai](https://x.com/umesh_ai)'
+author_url: 'https://twitter.com/umesh_ai'
+source_url: 'https://twitter.com/umesh_ai/status/1991831875573477640'
+preview: /media/3d/pg-1991831875573477640.webp
 ---
 
 Imagine sipping coffee while gazing at Paris! This exquisite cup holds a tiny world, complete with the Eiffel Tower and bustling streets, all captured in stunning detail.

@@ -1,11 +1,17 @@
 ---
-title: "Confidence in Cinematic Style: A Modern Portrait"
+title: 'Confidence in Cinematic Style: A Modern Portrait'
 category: portraits
-tags: ["portrait","modern","light","nano-banana-pro"]
-author: "[@mehvishs25](https://x.com/mehvishs25)"
-author_url: "https://twitter.com/mehvishs25"
-source_url: "https://twitter.com/mehvishs25/status/1994239249554788596"
-preview: "/media/portraits/pg-1994239249554788596.webp"
+tags:
+  - portrait
+  - modern
+  - light
+  - realistic
+  - minimalist
+  - dark
+author: '[@mehvishs25](https://x.com/mehvishs25)'
+author_url: 'https://twitter.com/mehvishs25'
+source_url: 'https://twitter.com/mehvishs25/status/1994239249554788596'
+preview: /media/portraits/pg-1994239249554788596.webp
 ---
 
 A striking young woman exudes self-assurance in her stylish yellow hoodie and chic rimless shades. The soft background highlights her voluminous hair and the understated elegance of her wristwatch.

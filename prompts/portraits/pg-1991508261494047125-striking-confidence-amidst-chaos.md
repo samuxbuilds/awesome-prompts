@@ -1,11 +1,13 @@
 ---
-title: "Striking Confidence Amidst Chaos"
+title: Striking Confidence Amidst Chaos
 category: portraits
-tags: ["portrait","dark","nano-banana-pro"]
-author: "[@rovvmut_](https://x.com/rovvmut_)"
-author_url: "https://twitter.com/rovvmut_"
-source_url: "https://twitter.com/rovvmut_/status/1991508261494047125"
-preview: "/media/portraits/pg-1991508261494047125.webp"
+tags:
+  - portrait
+  - dark
+author: '[@rovvmut_](https://x.com/rovvmut_)'
+author_url: 'https://twitter.com/rovvmut_'
+source_url: 'https://twitter.com/rovvmut_/status/1991508261494047125'
+preview: /media/portraits/pg-1991508261494047125.webp
 ---
 
 Caught in a fleeting moment, this portrait reveals a man exuding style and confidence. A dark turtleneck and sunglasses amplify his allure, set against a blurred crowd—pure street chic.

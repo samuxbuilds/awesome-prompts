@@ -1,11 +1,13 @@
 ---
-title: "Banana Bonanza: A Colorful Emoji Portrait Parade!"
+title: 'Banana Bonanza: A Colorful Emoji Portrait Parade!'
 category: portraits
-tags: ["portrait","colorful","nano-banana-pro"]
-author: "[@dotey](https://x.com/dotey)"
-author_url: "https://twitter.com/dotey"
-source_url: "https://twitter.com/dotey/status/1993042754008686712"
-preview: "/media/portraits/pg-1993042754008686712.webp"
+tags:
+  - portrait
+  - colorful
+author: '[@dotey](https://x.com/dotey)'
+author_url: 'https://twitter.com/dotey'
+source_url: 'https://twitter.com/dotey/status/1993042754008686712'
+preview: /media/portraits/pg-1993042754008686712.webp
 ---
 
 Bursting with laughter and color, this 4x6 layout showcases playful Q-version emojis! Each character shines with unique accessories, complimented by quirky chat phrases in a lively handwritten font.

@@ -1,11 +1,18 @@
 ---
-title: "Throwback to Mirror Selfies: Capture Your 2000s Vibe!"
+title: 'Throwback to Mirror Selfies: Capture Your 2000s Vibe!'
 category: portraits
-tags: ["selfie","vibrant","nano-banana-pro"]
-author: "[@ZaraIrahh](https://x.com/ZaraIrahh)"
-author_url: "https://twitter.com/ZaraIrahh"
-source_url: "https://twitter.com/ZaraIrahh/status/1992028478833881527"
-preview: "/media/portraits/pg-1992028478833881527.webp"
+tags:
+  - selfie
+  - vibrant
+  - realistic
+  - vintage
+  - portrait
+  - dark
+  - colorful
+author: '[@ZaraIrahh](https://x.com/ZaraIrahh)'
+author_url: 'https://twitter.com/ZaraIrahh'
+source_url: 'https://twitter.com/ZaraIrahh/status/1992028478833881527'
+preview: /media/portraits/pg-1992028478833881527.webp
 ---
 
 Can you feel the nostalgia? This enchanting shot perfectly captures early 2000s style with vibrant decor and playful confidence. Get ready to channel your inner pop icon!

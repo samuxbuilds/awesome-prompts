@@ -1,11 +1,19 @@
 ---
-title: "Whispers of Nature: A Cottagecore Dream"
+title: 'Whispers of Nature: A Cottagecore Dream'
 category: portraits
-tags: ["vintage","nature","light","vibrant","nano-banana-pro"]
-author: "[@YaseenK7212](https://x.com/YaseenK7212)"
-author_url: "https://twitter.com/YaseenK7212"
-source_url: "https://twitter.com/YaseenK7212/status/1992636484562903443"
-preview: "/media/portraits/pg-1992636484562903443.webp"
+tags:
+  - vintage
+  - nature
+  - light
+  - vibrant
+  - portrait
+  - landscape
+  - dark
+  - colorful
+author: '[@YaseenK7212](https://x.com/YaseenK7212)'
+author_url: 'https://twitter.com/YaseenK7212'
+source_url: 'https://twitter.com/YaseenK7212/status/1992636484562903443'
+preview: /media/portraits/pg-1992636484562903443.webp
 ---
 
 In a serene moment, a woman in a delicate vintage dress and a man peacefully sleeps, surrounded by butterflies and vibrant wildflowers, all kissed by dappled sunlight.

@@ -1,11 +1,14 @@
 ---
-title: "Unveil the Mystery: A Comic Strip Adventure"
+title: 'Unveil the Mystery: A Comic Strip Adventure'
 category: creative
-tags: ["illustration","vibrant","nano-banana-pro"]
-author: "[@LinusEkenstam](https://x.com/LinusEkenstam)"
-author_url: "https://twitter.com/LinusEkenstam"
-source_url: "https://twitter.com/LinusEkenstam/status/1991523261545607340"
-preview: "/media/creative/pg-1991523261545607340.webp"
+tags:
+  - illustration
+  - vibrant
+  - colorful
+author: '[@LinusEkenstam](https://x.com/LinusEkenstam)'
+author_url: 'https://twitter.com/LinusEkenstam'
+source_url: 'https://twitter.com/LinusEkenstam/status/1991523261545607340'
+preview: /media/creative/pg-1991523261545607340.webp
 ---
 
 A secret message unfolds in vibrant panels! Each frame bursts with intrigue and creativity, inviting viewers to decode the hidden story woven through dynamic illustrations.

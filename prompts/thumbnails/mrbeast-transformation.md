@@ -1,9 +1,16 @@
 ---
-title: "MrBeast Style - Transformation"
-category: "thumbnails"
-tags: ["mrbeast", "youtube", "thumbnail", "transformation", "before-after"]
-author: "[@samux](https://x.com/samux)"
-preview: "/media/thumbnails/mrbeast-transformation.webp"
+title: MrBeast Style - Transformation
+category: thumbnails
+tags:
+  - mrbeast
+  - youtube
+  - thumbnail
+  - transformation
+  - before-after
+  - realistic
+  - colorful
+author: '[@samux](https://x.com/samux)'
+preview: /media/thumbnails/mrbeast-transformation.webp
 ---
 
 ```json

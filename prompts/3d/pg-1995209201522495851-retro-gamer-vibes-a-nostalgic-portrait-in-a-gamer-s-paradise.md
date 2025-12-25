@@ -1,11 +1,18 @@
 ---
-title: "Retro Gamer Vibes: A Nostalgic Portrait in a Gamer's Paradise"
+title: 'Retro Gamer Vibes: A Nostalgic Portrait in a Gamer''s Paradise'
 category: 3d
-tags: ["portrait","vintage","nano-banana-pro"]
-author: "[@Arminn_Ai](https://x.com/Arminn_Ai)"
-author_url: "https://twitter.com/Arminn_Ai"
-source_url: "https://twitter.com/Arminn_Ai/status/1995209201522495851"
-preview: "/media/3d/pg-1995209201522495851.webp"
+tags:
+  - portrait
+  - vintage
+  - realistic
+  - 3d
+  - neon
+  - minimalist
+  - dark
+author: '[@Arminn_Ai](https://x.com/Arminn_Ai)'
+author_url: 'https://twitter.com/Arminn_Ai'
+source_url: 'https://twitter.com/Arminn_Ai/status/1995209201522495851'
+preview: /media/3d/pg-1995209201522495851.webp
 ---
 
 Chilling on a vintage couch, this gamer girl embodies 90s nostalgia. With her plush Pikachu and collectibles, she invites you to relive the golden age of gaming!

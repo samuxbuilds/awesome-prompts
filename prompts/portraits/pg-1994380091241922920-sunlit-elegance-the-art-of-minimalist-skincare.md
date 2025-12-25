@@ -1,11 +1,17 @@
 ---
-title: "Sunlit Elegance: The Art of Minimalist Skincare"
+title: 'Sunlit Elegance: The Art of Minimalist Skincare'
 category: portraits
-tags: ["art","minimal","light","nano-banana-pro"]
-author: "[@egeberkina](https://x.com/egeberkina)"
-author_url: "https://twitter.com/egeberkina"
-source_url: "https://twitter.com/egeberkina/status/1994380091241922920"
-preview: "/media/portraits/pg-1994380091241922920.webp"
+tags:
+  - art
+  - minimal
+  - light
+  - minimalist
+  - portrait
+  - dark
+author: '[@egeberkina](https://x.com/egeberkina)'
+author_url: 'https://twitter.com/egeberkina'
+source_url: 'https://twitter.com/egeberkina/status/1994380091241922920'
+preview: /media/portraits/pg-1994380091241922920.webp
 ---
 
 A hand casts a perfect shadow of Nano Banana Pro, elegantly merging light and form. This minimalist scene celebrates the beauty of skincare, revealed in soft sunlight.

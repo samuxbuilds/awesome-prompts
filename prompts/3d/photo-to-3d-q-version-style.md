@@ -1,9 +1,13 @@
 ---
-title: "Photo to 3D Q-version Style"
+title: Photo to 3D Q-version Style
 category: 3d
-tags: ["3d", "chibi", "character"]
-author: "[@dotey](https://x.com/dotey)"
-preview: "/media/3d/photo-to-3d-q-version-style.webp"
+tags:
+  - 3d
+  - chibi
+  - character
+  - realistic
+author: '[@dotey](https://x.com/dotey)'
+preview: /media/3d/photo-to-3d-q-version-style.webp
 ---
 
 Transform the characters in the scene into 3D chibi-style figures, while keeping the original scene layout and their clothing exactly the same.

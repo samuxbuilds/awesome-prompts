@@ -1,11 +1,17 @@
 ---
-title: "Autumn Vibes: A Cozy Moment in Nature's Embrace"
+title: 'Autumn Vibes: A Cozy Moment in Nature''s Embrace'
 category: portraits
-tags: ["nature","vibrant","nano-banana-pro"]
-author: "[@rowanali09](https://x.com/rowanali09)"
-author_url: "https://twitter.com/rowanali09"
-source_url: "https://twitter.com/rowanali09/status/1996580922465075399"
-preview: "/media/portraits/pg-1996580922465075399.webp"
+tags:
+  - nature
+  - vibrant
+  - portrait
+  - landscape
+  - dark
+  - colorful
+author: '[@rowanali09](https://x.com/rowanali09)'
+author_url: 'https://twitter.com/rowanali09'
+source_url: 'https://twitter.com/rowanali09/status/1996580922465075399'
+preview: /media/portraits/pg-1996580922465075399.webp
 ---
 
 Caught in golden hour magic, the young woman radiates confidence in her oversized knit sweater. Her smile and vibrant sneakers pop against the warm autumn foliage, creating a scene that feels both inviting and timeless.

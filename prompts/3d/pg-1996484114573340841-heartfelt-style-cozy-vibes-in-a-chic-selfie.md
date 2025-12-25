@@ -1,11 +1,16 @@
 ---
-title: "Heartfelt Style: Cozy Vibes in a Chic Selfie"
+title: 'Heartfelt Style: Cozy Vibes in a Chic Selfie'
 category: 3d
-tags: ["selfie","art","light","nano-banana-pro"]
-author: "[@SimplyAnnisa](https://x.com/SimplyAnnisa)"
-author_url: "https://twitter.com/SimplyAnnisa"
-source_url: "https://twitter.com/SimplyAnnisa/status/1996484114573340841"
-preview: "/media/3d/pg-1996484114573340841.webp"
+tags:
+  - selfie
+  - art
+  - light
+  - 3d
+  - minimalist
+author: '[@SimplyAnnisa](https://x.com/SimplyAnnisa)'
+author_url: 'https://twitter.com/SimplyAnnisa'
+source_url: 'https://twitter.com/SimplyAnnisa/status/1996484114573340841'
+preview: /media/3d/pg-1996484114573340841.webp
 ---
 
 Capturing warmth, this young woman radiates charm in a cozy sweater embellished with playful heart appliques. Her carefree messy bun and soft lighting create a welcoming atmosphere, inviting you to embrace comfort and style.

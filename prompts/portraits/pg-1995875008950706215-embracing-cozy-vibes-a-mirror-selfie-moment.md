@@ -1,11 +1,16 @@
 ---
-title: "Embracing Cozy Vibes: A Mirror Selfie Moment"
+title: 'Embracing Cozy Vibes: A Mirror Selfie Moment'
 category: portraits
-tags: ["selfie","light","nano-banana-pro"]
-author: "[@_MehdiSharifi_](https://x.com/_MehdiSharifi_)"
-author_url: "https://twitter.com/_MehdiSharifi_"
-source_url: "https://twitter.com/_MehdiSharifi_/status/1995875008950706215"
-preview: "/media/portraits/pg-1995875008950706215.webp"
+tags:
+  - selfie
+  - light
+  - realistic
+  - vintage
+  - portrait
+author: '[@_MehdiSharifi_](https://x.com/_MehdiSharifi_)'
+author_url: 'https://twitter.com/_MehdiSharifi_'
+source_url: 'https://twitter.com/_MehdiSharifi_/status/1995875008950706215'
+preview: /media/portraits/pg-1995875008950706215.webp
 ---
 
 Soft sunlight dances around a young woman with fiery red hair, wrapped in an oversized sweater, capturing the essence of comfort and warmth in her intimate bedroom corner.

@@ -1,11 +1,16 @@
 ---
-title: "Pixelated Nature: A Retro Showcase of Black & White Wildlife"
+title: 'Pixelated Nature: A Retro Showcase of Black & White Wildlife'
 category: creative
-tags: ["art","nature","nano-banana-pro"]
-author: "[@Lessnoise365](https://x.com/Lessnoise365)"
-author_url: "https://twitter.com/Lessnoise365"
-source_url: "https://twitter.com/Lessnoise365/status/1991791005319016642"
-preview: "/media/creative/pg-1991791005319016642.webp"
+tags:
+  - art
+  - nature
+  - vintage
+  - landscape
+  - black-and-white
+author: '[@Lessnoise365](https://x.com/Lessnoise365)'
+author_url: 'https://twitter.com/Lessnoise365'
+source_url: 'https://twitter.com/Lessnoise365/status/1991791005319016642'
+preview: /media/creative/pg-1991791005319016642.webp
 ---
 
 Can you spot your favorite black and white animal in this pixelated tribute? Each creature, presented like a retro game character, brings nostalgia and artistry together in one stunning grid.

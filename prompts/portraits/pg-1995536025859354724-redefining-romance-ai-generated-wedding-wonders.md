@@ -1,11 +1,15 @@
 ---
-title: "Redefining Romance: AI-Generated Wedding Wonders"
+title: 'Redefining Romance: AI-Generated Wedding Wonders'
 category: portraits
-tags: ["nano-banana-pro"]
-author: "[@miilesus](https://x.com/miilesus)"
-author_url: "https://twitter.com/miilesus"
-source_url: "https://twitter.com/miilesus/status/1995536025859354724"
-preview: "/media/portraits/pg-1995536025859354724.webp"
+tags:
+  - realistic
+  - illustration
+  - portrait
+  - dark
+author: '[@miilesus](https://x.com/miilesus)'
+author_url: 'https://twitter.com/miilesus'
+source_url: 'https://twitter.com/miilesus/status/1995536025859354724'
+preview: /media/portraits/pg-1995536025859354724.webp
 ---
 
 Say goodbye to traditional wedding photos! Imagine your love captured in stunning AI-crafted elegance, with every detail perfectly tailored to your fairy tale.

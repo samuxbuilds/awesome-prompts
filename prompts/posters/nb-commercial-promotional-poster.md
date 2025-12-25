@@ -1,9 +1,14 @@
 ---
-title: "Commercial Promotional Poster"
+title: Commercial Promotional Poster
 category: posters
-tags: ["poster", "sticker", "professional", "cinematic"]
-author: "[@nanobanana-pro](https://x.com/nanobanana-pro)"
-preview: "/media/posters/nb-commercial-promotional-poster.webp"
+tags:
+  - poster
+  - sticker
+  - professional
+  - cinematic
+  - realistic
+author: '[@nanobanana-pro](https://x.com/nanobanana-pro)'
+preview: /media/posters/nb-commercial-promotional-poster.webp
 ---
 
 *Designs professional sales posters with integrated text and high-quality product photography.*

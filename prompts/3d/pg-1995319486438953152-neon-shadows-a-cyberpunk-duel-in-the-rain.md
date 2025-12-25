@@ -1,11 +1,18 @@
 ---
-title: "Neon Shadows: A Cyberpunk Duel in the Rain"
+title: 'Neon Shadows: A Cyberpunk Duel in the Rain'
 category: 3d
-tags: ["urban","light","neon","nano-banana-pro"]
-author: "[@AIwithkhan](https://x.com/AIwithkhan)"
-author_url: "https://twitter.com/AIwithkhan"
-source_url: "https://twitter.com/AIwithkhan/status/1995319486438953152"
-preview: "/media/3d/pg-1995319486438953152.webp"
+tags:
+  - urban
+  - light
+  - neon
+  - realistic
+  - 3d
+  - portrait
+  - dark
+author: '[@AIwithkhan](https://x.com/AIwithkhan)'
+author_url: 'https://twitter.com/AIwithkhan'
+source_url: 'https://twitter.com/AIwithkhan/status/1995319486438953152'
+preview: /media/3d/pg-1995319486438953152.webp
 ---
 
 A fierce assassin, clad in soaked black, readies her glowing katana amid a rain-soaked urban jungle. Neon lights dance on wet pavement, hinting at the imminent clash.

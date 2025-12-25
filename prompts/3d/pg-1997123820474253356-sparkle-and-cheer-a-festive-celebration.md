@@ -1,11 +1,17 @@
 ---
-title: "Sparkle and Cheer: A Festive Celebration"
+title: 'Sparkle and Cheer: A Festive Celebration'
 category: 3d
-tags: ["colorful","vibrant","nano-banana-pro"]
-author: "[@xmiiru_](https://x.com/xmiiru_)"
-author_url: "https://twitter.com/xmiiru_"
-source_url: "https://twitter.com/xmiiru_/status/1997123820474253356"
-preview: "/media/3d/pg-1997123820474253356.webp"
+tags:
+  - colorful
+  - vibrant
+  - realistic
+  - 3d
+  - vintage
+  - portrait
+author: '[@xmiiru_](https://x.com/xmiiru_)'
+author_url: 'https://twitter.com/xmiiru_'
+source_url: 'https://twitter.com/xmiiru_/status/1997123820474253356'
+preview: /media/3d/pg-1997123820474253356.webp
 ---
 
 Amidst a cascade of colorful confetti, a joyful spirit shines bright! This young woman in a cozy white faux-fur coat radiates Christmas magic, celebrating with her unique style and vibrant cheer.

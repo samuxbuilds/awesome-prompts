@@ -1,11 +1,17 @@
 ---
-title: "Anime Meets Reality on the Tube"
+title: Anime Meets Reality on the Tube
 category: portraits
-tags: ["anime","fantasy","vibrant","nano-banana-pro"]
-author: "[@fofrAI](https://x.com/fofrAI)"
-author_url: "https://twitter.com/fofrAI"
-source_url: "https://twitter.com/fofrAI/status/1991583161495502896"
-preview: "/media/portraits/pg-1991583161495502896.webp"
+tags:
+  - anime
+  - fantasy
+  - vibrant
+  - realistic
+  - portrait
+  - colorful
+author: '[@fofrAI](https://x.com/fofrAI)'
+author_url: 'https://twitter.com/fofrAI'
+source_url: 'https://twitter.com/fofrAI/status/1991583161495502896'
+preview: /media/portraits/pg-1991583161495502896.webp
 ---
 
 A vibrant juxtaposition of worlds! An anime man in a bright yellow hoodie navigates the bustling London Underground, surrounded by adverts for AI companions, bringing a dash of fantasy to rush hour.

@@ -1,11 +1,11 @@
 ---
-title: "Sunny Days Ahead: San Francisco's 5-Day Weather Unveiled!"
+title: 'Sunny Days Ahead: San Francisco''s 5-Day Weather Unveiled!'
 category: posters
-tags: ["nano-banana-pro"]
-author: "[@raizamrtn](https://x.com/raizamrtn)"
-author_url: "https://twitter.com/raizamrtn"
-source_url: "https://twitter.com/raizamrtn/status/1991541948235293071"
-preview: "/media/posters/pg-1991541948235293071.webp"
+tags: []
+author: '[@raizamrtn](https://x.com/raizamrtn)'
+author_url: 'https://twitter.com/raizamrtn'
+source_url: 'https://twitter.com/raizamrtn/status/1991541948235293071'
+preview: /media/posters/pg-1991541948235293071.webp
 ---
 
 A stunning visual forecast reveals the eclectic mood of San Francisco's weather: sun-soaked skies, whimsical fog, and unexpected showers. What will your next adventure look like?

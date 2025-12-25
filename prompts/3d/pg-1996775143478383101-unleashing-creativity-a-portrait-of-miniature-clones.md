@@ -1,11 +1,17 @@
 ---
-title: "Unleashing Creativity: A Portrait of Miniature Clones"
+title: 'Unleashing Creativity: A Portrait of Miniature Clones'
 category: 3d
-tags: ["portrait","miniature","nano-banana-pro"]
-author: "[@ShreyaYadav___](https://x.com/ShreyaYadav___)"
-author_url: "https://twitter.com/ShreyaYadav___"
-source_url: "https://twitter.com/ShreyaYadav___/status/1996775143478383101"
-preview: "/media/3d/pg-1996775143478383101.webp"
+tags:
+  - portrait
+  - miniature
+  - realistic
+  - 3d
+  - landscape
+  - dark
+author: '[@ShreyaYadav___](https://x.com/ShreyaYadav___)'
+author_url: 'https://twitter.com/ShreyaYadav___'
+source_url: 'https://twitter.com/ShreyaYadav___/status/1996775143478383101'
+preview: /media/3d/pg-1996775143478383101.webp
 ---
 
 Who knew creativity could come in such small packages? This stunning portrait blurs reality, featuring a main subject deep in thought, surrounded by lively miniature clones, each one adding a spark of imagination to the scene!

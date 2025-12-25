@@ -1,11 +1,17 @@
 ---
-title: "Cozy Glam: A Mirror Selfie in Elegance"
+title: 'Cozy Glam: A Mirror Selfie in Elegance'
 category: 3d
-tags: ["selfie","light","nano-banana-pro"]
-author: "[@ZaraIrahh](https://x.com/ZaraIrahh)"
-author_url: "https://twitter.com/ZaraIrahh"
-source_url: "https://twitter.com/ZaraIrahh/status/1997237942386053422"
-preview: "/media/3d/pg-1997237942386053422.webp"
+tags:
+  - selfie
+  - light
+  - realistic
+  - 3d
+  - portrait
+  - dark
+author: '[@ZaraIrahh](https://x.com/ZaraIrahh)'
+author_url: 'https://twitter.com/ZaraIrahh'
+source_url: 'https://twitter.com/ZaraIrahh/status/1997237942386053422'
+preview: /media/3d/pg-1997237942386053422.webp
 ---
 
 A stunning mirror selfie captures a warm smile and chic style, set against a luxurious dining room backdrop. Soft lighting highlights her cozy oversized hoodie and graceful elegance.

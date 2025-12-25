@@ -1,9 +1,12 @@
 ---
-title: "Happy Capsule Creation"
+title: Happy Capsule Creation
 category: 3d
-tags: ["logo", "ai-art"]
-author: "[@ZHO_ZHO_ZHO](https://x.com/ZHO_ZHO_ZHO)"
-preview: "/media/3d/happy-capsule-creation.webp"
+tags:
+  - logo
+  - ai-art
+  - 3d
+author: '[@ZHO_ZHO_ZHO](https://x.com/ZHO_ZHO_ZHO)'
+preview: /media/3d/happy-capsule-creation.webp
 ---
 
 Title (large text): Fast-Acting Happiness Capsule

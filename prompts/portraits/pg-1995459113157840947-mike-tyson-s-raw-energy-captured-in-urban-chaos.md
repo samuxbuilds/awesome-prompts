@@ -1,11 +1,16 @@
 ---
-title: "Mike Tyson's Raw Energy Captured in Urban Chaos"
+title: Mike Tyson's Raw Energy Captured in Urban Chaos
 category: portraits
-tags: ["realistic","urban","nano-banana-pro"]
-author: "[@CharaspowerAI](https://x.com/CharaspowerAI)"
-author_url: "https://twitter.com/CharaspowerAI"
-source_url: "https://twitter.com/CharaspowerAI/status/1995459113157840947"
-preview: "/media/portraits/pg-1995459113157840947.webp"
+tags:
+  - realistic
+  - urban
+  - 3d
+  - portrait
+  - dark
+author: '[@CharaspowerAI](https://x.com/CharaspowerAI)'
+author_url: 'https://twitter.com/CharaspowerAI'
+source_url: 'https://twitter.com/CharaspowerAI/status/1995459113157840947'
+preview: /media/portraits/pg-1995459113157840947.webp
 ---
 
 An electrifying moment unfolds as Mike Tyson erupts with raw power, surrounded by captivated onlookers. The gritty urban backdrop enhances this hyper-realistic snapshot of adrenaline and excitement!

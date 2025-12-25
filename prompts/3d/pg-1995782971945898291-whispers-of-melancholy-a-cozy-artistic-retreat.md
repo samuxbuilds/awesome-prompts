@@ -1,11 +1,21 @@
 ---
-title: "Whispers of Melancholy: A Cozy Artistic Retreat"
+title: 'Whispers of Melancholy: A Cozy Artistic Retreat'
 category: 3d
-tags: ["art","light","vibrant","nano-banana-pro"]
-author: "[@NameIsSudee](https://x.com/NameIsSudee)"
-author_url: "https://twitter.com/NameIsSudee"
-source_url: "https://twitter.com/NameIsSudee/status/1995782971945898291"
-preview: "/media/3d/pg-1995782971945898291.webp"
+tags:
+  - art
+  - light
+  - vibrant
+  - realistic
+  - anime
+  - 3d
+  - minimalist
+  - portrait
+  - dark
+  - colorful
+author: '[@NameIsSudee](https://x.com/NameIsSudee)'
+author_url: 'https://twitter.com/NameIsSudee'
+source_url: 'https://twitter.com/NameIsSudee/status/1995782971945898291'
+preview: /media/3d/pg-1995782971945898291.webp
 ---
 
 A stunning young woman rests thoughtfully, surrounded by delicate blooms and vibrant art. The warm light and soft ambiance invite you into her serene world.

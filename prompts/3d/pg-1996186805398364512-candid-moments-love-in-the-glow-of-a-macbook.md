@@ -1,11 +1,17 @@
 ---
-title: "Candid Moments: Love in the Glow of a MacBook"
+title: 'Candid Moments: Love in the Glow of a MacBook'
 category: 3d
-tags: ["light","nano-banana-pro"]
-author: "[@YaseenK7212](https://x.com/YaseenK7212)"
-author_url: "https://twitter.com/YaseenK7212"
-source_url: "https://twitter.com/YaseenK7212/status/1996186805398364512"
-preview: "/media/3d/pg-1996186805398364512.webp"
+tags:
+  - light
+  - realistic
+  - 3d
+  - illustration
+  - portrait
+  - dark
+author: '[@YaseenK7212](https://x.com/YaseenK7212)'
+author_url: 'https://twitter.com/YaseenK7212'
+source_url: 'https://twitter.com/YaseenK7212/status/1996186805398364512'
+preview: /media/3d/pg-1996186805398364512.webp
 ---
 
 A cozy scene unfolds as a couple, wrapped in oversized hoodies, share a playful MacBook moment. The cool screen light dances on their faces, revealing joy and connection.

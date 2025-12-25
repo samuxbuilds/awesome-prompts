@@ -1,11 +1,16 @@
 ---
-title: "Chic Mornings: A Cozy Selfie Moment"
+title: 'Chic Mornings: A Cozy Selfie Moment'
 category: portraits
-tags: ["selfie","nature","light","nano-banana-pro"]
-author: "[@xmiiru_](https://x.com/xmiiru_)"
-author_url: "https://twitter.com/xmiiru_"
-source_url: "https://twitter.com/xmiiru_/status/1996840216892449138"
-preview: "/media/portraits/pg-1996840216892449138.webp"
+tags:
+  - selfie
+  - nature
+  - light
+  - portrait
+  - landscape
+author: '[@xmiiru_](https://x.com/xmiiru_)'
+author_url: 'https://twitter.com/xmiiru_'
+source_url: 'https://twitter.com/xmiiru_/status/1996840216892449138'
+preview: /media/portraits/pg-1996840216892449138.webp
 ---
 
 Sun-kissed and stylish! This petite beauty radiates charm in mint satin, capturing a serene moment on her velvet sofa. Nature's light dances around, bringing warmth to her playful smile.

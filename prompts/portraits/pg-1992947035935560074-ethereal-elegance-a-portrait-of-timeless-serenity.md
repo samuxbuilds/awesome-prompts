@@ -1,11 +1,16 @@
 ---
-title: "Ethereal Elegance: A Portrait of Timeless Serenity"
+title: 'Ethereal Elegance: A Portrait of Timeless Serenity'
 category: portraits
-tags: ["portrait","art","modern","nano-banana-pro"]
-author: "[@ShreyaYadav___](https://x.com/ShreyaYadav___)"
-author_url: "https://twitter.com/ShreyaYadav___"
-source_url: "https://twitter.com/ShreyaYadav___/status/1992947035935560074"
-preview: "/media/portraits/pg-1992947035935560074.webp"
+tags:
+  - portrait
+  - art
+  - modern
+  - realistic
+  - dark
+author: '[@ShreyaYadav___](https://x.com/ShreyaYadav___)'
+author_url: 'https://twitter.com/ShreyaYadav___'
+source_url: 'https://twitter.com/ShreyaYadav___/status/1992947035935560074'
+preview: /media/portraits/pg-1992947035935560074.webp
 ---
 
 Captured in a gentle haze, this artwork unveils a divine gaze that transcends time. A fusion of tradition and modernity, the soft strokes invite contemplation and admiration.

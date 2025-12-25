@@ -1,11 +1,15 @@
 ---
-title: "A Glimpse of Time: Busy Fall Days in Times Square 2006"
+title: 'A Glimpse of Time: Busy Fall Days in Times Square 2006'
 category: portraits
-tags: ["vibrant","nano-banana-pro"]
-author: "[@minchoi](https://x.com/minchoi)"
-author_url: "https://twitter.com/minchoi"
-source_url: "https://twitter.com/minchoi/status/1993897946505527347"
-preview: "/media/portraits/pg-1993897946505527347.webp"
+tags:
+  - vibrant
+  - realistic
+  - portrait
+  - colorful
+author: '[@minchoi](https://x.com/minchoi)'
+author_url: 'https://twitter.com/minchoi'
+source_url: 'https://twitter.com/minchoi/status/1993897946505527347'
+preview: /media/portraits/pg-1993897946505527347.webp
 ---
 
 Can you feel the buzz of late October? A young blonde stands out against the vibrant blur of Times Square, captured like a moment frozen in time from 2006.

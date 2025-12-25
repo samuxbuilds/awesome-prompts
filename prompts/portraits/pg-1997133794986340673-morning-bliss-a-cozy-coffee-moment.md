@@ -1,11 +1,13 @@
 ---
-title: "Morning Bliss: A Cozy Coffee Moment"
+title: 'Morning Bliss: A Cozy Coffee Moment'
 category: portraits
-tags: ["light","nano-banana-pro"]
-author: "[@Sophia_here12](https://x.com/Sophia_here12)"
-author_url: "https://twitter.com/Sophia_here12"
-source_url: "https://twitter.com/Sophia_here12/status/1997133794986340673"
-preview: "/media/portraits/pg-1997133794986340673.webp"
+tags:
+  - light
+  - portrait
+author: '[@Sophia_here12](https://x.com/Sophia_here12)'
+author_url: 'https://twitter.com/Sophia_here12'
+source_url: 'https://twitter.com/Sophia_here12/status/1997133794986340673'
+preview: /media/portraits/pg-1997133794986340673.webp
 ---
 
 Golden morning light bathe her serene smile as she cradles coffee, wrapped in warmth. A cozy café haven, where simplicity meets beauty in every sip.

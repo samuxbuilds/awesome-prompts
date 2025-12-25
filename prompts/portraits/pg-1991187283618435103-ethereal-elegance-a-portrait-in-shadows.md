@@ -1,11 +1,16 @@
 ---
-title: "Ethereal Elegance: A Portrait in Shadows"
+title: 'Ethereal Elegance: A Portrait in Shadows'
 category: portraits
-tags: ["realistic","portrait","dark","light","nano-banana-pro"]
-author: "[@ShreyaYadav___](https://x.com/ShreyaYadav___)"
-author_url: "https://twitter.com/ShreyaYadav___"
-source_url: "https://twitter.com/ShreyaYadav___/status/1991187283618435103"
-preview: "/media/portraits/pg-1991187283618435103.webp"
+tags:
+  - realistic
+  - portrait
+  - dark
+  - light
+  - 3d
+author: '[@ShreyaYadav___](https://x.com/ShreyaYadav___)'
+author_url: 'https://twitter.com/ShreyaYadav___'
+source_url: 'https://twitter.com/ShreyaYadav___/status/1991187283618435103'
+preview: /media/portraits/pg-1991187283618435103.webp
 ---
 
 Capturing a moment of serene beauty, this hyper-realistic image reveals a woman in a flowy dark blue dress, her ruffled sleeves dancing softly against a dark, intimate backdrop. Her gaze invites, and the subtle lighting amplifies every delicate feature.

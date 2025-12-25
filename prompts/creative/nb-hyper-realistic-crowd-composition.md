@@ -1,9 +1,14 @@
 ---
-title: "Hyper-Realistic Crowd Composition"
+title: Hyper-Realistic Crowd Composition
 category: creative
-tags: ["realistic", "photorealistic", "cinematic"]
-author: "[@nanobanana-pro](https://x.com/nanobanana-pro)"
-preview: "/media/creative/nb-hyper-realistic-crowd-composition.webp"
+tags:
+  - realistic
+  - photorealistic
+  - cinematic
+  - minimalist
+  - portrait
+author: '[@nanobanana-pro](https://x.com/nanobanana-pro)'
+preview: /media/creative/nb-hyper-realistic-crowd-composition.webp
 ---
 
 *Handling complex compositions with multiple famous faces and specific lighting.*

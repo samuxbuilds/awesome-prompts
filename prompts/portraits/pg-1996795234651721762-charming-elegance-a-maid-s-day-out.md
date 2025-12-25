@@ -1,11 +1,21 @@
 ---
-title: "Charming Elegance: A Maid's Day Out"
+title: 'Charming Elegance: A Maid''s Day Out'
 category: portraits
-tags: ["art","light","vibrant","nano-banana-pro"]
-author: "[@MANISH1027512](https://x.com/MANISH1027512)"
-author_url: "https://twitter.com/MANISH1027512"
-source_url: "https://twitter.com/MANISH1027512/status/1996795234651721762"
-preview: "/media/portraits/pg-1996795234651721762.webp"
+tags:
+  - art
+  - light
+  - vibrant
+  - realistic
+  - 3d
+  - vintage
+  - portrait
+  - dark
+  - colorful
+  - black-and-white
+author: '[@MANISH1027512](https://x.com/MANISH1027512)'
+author_url: 'https://twitter.com/MANISH1027512'
+source_url: 'https://twitter.com/MANISH1027512/status/1996795234651721762'
+preview: /media/portraits/pg-1996795234651721762.webp
 ---
 
 Beneath a canopy of festival flags, a young beauty captures hearts in her stylish maid ensemble. With light-brown waves and playful makeup, she embodies grace and charm against a vibrant outdoor café backdrop.

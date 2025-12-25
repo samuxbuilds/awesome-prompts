@@ -1,11 +1,16 @@
 ---
-title: "Moody Forest Portrait: 90s Vibes Meet Nature's Enigma"
+title: 'Moody Forest Portrait: 90s Vibes Meet Nature''s Enigma'
 category: portraits
-tags: ["portrait","nature","nano-banana-pro"]
-author: "[@kingofdairyque](https://x.com/kingofdairyque)"
-author_url: "https://twitter.com/kingofdairyque"
-source_url: "https://twitter.com/kingofdairyque/status/1994364083689402465"
-preview: "/media/portraits/pg-1994364083689402465.webp"
+tags:
+  - portrait
+  - nature
+  - vintage
+  - landscape
+  - dark
+author: '[@kingofdairyque](https://x.com/kingofdairyque)'
+author_url: 'https://twitter.com/kingofdairyque'
+source_url: 'https://twitter.com/kingofdairyque/status/1994364083689402465'
+preview: /media/portraits/pg-1994364083689402465.webp
 ---
 
 Under a canopy of shadows, a 23-year-old captures the essence of solitude. Her oversized flannel contrasts with the cool greens, evoking nostalgia in every grainy pixel.

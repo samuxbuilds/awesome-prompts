@@ -1,11 +1,17 @@
 ---
-title: "Cinematic Smiles with My Cop Bunny! 🐰✨"
+title: "Cinematic Smiles with My Cop Bunny! \U0001F430✨"
 category: portraits
-tags: ["fantasy","vibrant","nano-banana-pro"]
-author: "[@xmiiru_](https://x.com/xmiiru_)"
-author_url: "https://twitter.com/xmiiru_"
-source_url: "https://twitter.com/xmiiru_/status/1994360357100368334"
-preview: "/media/portraits/pg-1994360357100368334.webp"
+tags:
+  - fantasy
+  - vibrant
+  - realistic
+  - portrait
+  - dark
+  - colorful
+author: '[@xmiiru_](https://x.com/xmiiru_)'
+author_url: 'https://twitter.com/xmiiru_'
+source_url: 'https://twitter.com/xmiiru_/status/1994360357100368334'
+preview: /media/portraits/pg-1994360357100368334.webp
 ---
 
 In a bustling cinema, Miyeon captures a playful moment with Judy Hopps, the spirited cop bunny! A fusion of fantasy and reality in a vibrant movie night.

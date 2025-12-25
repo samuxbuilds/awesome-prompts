@@ -1,11 +1,19 @@
 ---
-title: "A Whirlwind of Nostalgia Captured in One Click"
+title: A Whirlwind of Nostalgia Captured in One Click
 category: portraits
-tags: ["selfie","fantasy","vibrant","nano-banana-pro"]
-author: "[@Harboris_27](https://x.com/Harboris_27)"
-author_url: "https://twitter.com/Harboris_27"
-source_url: "https://twitter.com/Harboris_27/status/1995399933348970875"
-preview: "/media/portraits/pg-1995399933348970875.webp"
+tags:
+  - selfie
+  - fantasy
+  - vibrant
+  - anime
+  - vintage
+  - portrait
+  - dark
+  - colorful
+author: '[@Harboris_27](https://x.com/Harboris_27)'
+author_url: 'https://twitter.com/Harboris_27'
+source_url: 'https://twitter.com/Harboris_27/status/1995399933348970875'
+preview: /media/portraits/pg-1995399933348970875.webp
 ---
 
 What if your childhood characters came to life? This vibrant selfie blends reality and fantasy, showcasing a joyful moment amidst a bustling cast of beloved animated icons!

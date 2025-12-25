@@ -1,11 +1,18 @@
 ---
-title: "Future Chic: A Fashion Evolution in Soft Greens"
+title: 'Future Chic: A Fashion Evolution in Soft Greens'
 category: portraits
-tags: ["modern","fashion","nano-banana-pro"]
-author: "[@Taaruk_](https://x.com/Taaruk_)"
-author_url: "https://twitter.com/Taaruk_"
-source_url: "https://twitter.com/Taaruk_/status/1996108230532235710"
-preview: "/media/portraits/pg-1996108230532235710.webp"
+tags:
+  - modern
+  - fashion
+  - realistic
+  - 3d
+  - neon
+  - portrait
+  - dark
+author: '[@Taaruk_](https://x.com/Taaruk_)'
+author_url: 'https://twitter.com/Taaruk_'
+source_url: 'https://twitter.com/Taaruk_/status/1996108230532235710'
+preview: /media/portraits/pg-1996108230532235710.webp
 ---
 
 Behold the captivating elegance of a male model draped in a bold oversized sweatshirt. Set against a soft green backdrop, the futuristic vibes radiate confidence and style, creating a perfect blend of modern and editorial aesthetics.

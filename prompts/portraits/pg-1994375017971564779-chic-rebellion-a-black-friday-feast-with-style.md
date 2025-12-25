@@ -1,11 +1,16 @@
 ---
-title: "Chic Rebellion: A Black Friday Feast with Style"
+title: 'Chic Rebellion: A Black Friday Feast with Style'
 category: portraits
-tags: ["dark","vibrant","nano-banana-pro"]
-author: "[@Just_sharon7](https://x.com/Just_sharon7)"
-author_url: "https://twitter.com/Just_sharon7"
-source_url: "https://twitter.com/Just_sharon7/status/1994375017971564779"
-preview: "/media/portraits/pg-1994375017971564779.webp"
+tags:
+  - dark
+  - vibrant
+  - realistic
+  - portrait
+  - colorful
+author: '[@Just_sharon7](https://x.com/Just_sharon7)'
+author_url: 'https://twitter.com/Just_sharon7'
+source_url: 'https://twitter.com/Just_sharon7/status/1994375017971564779'
+preview: /media/portraits/pg-1994375017971564779.webp
 ---
 
 Amidst a backdrop of dark elegance, a group of bold trendsetters share playful defiance over drinks. The table gleams with vibrant citrus slices, capturing the spirit of the holiday!

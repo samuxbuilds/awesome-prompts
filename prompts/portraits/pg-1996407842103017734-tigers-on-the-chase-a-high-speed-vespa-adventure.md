@@ -1,11 +1,15 @@
 ---
-title: "Tigers on the Chase: A High-Speed Vespa Adventure"
+title: 'Tigers on the Chase: A High-Speed Vespa Adventure'
 category: portraits
-tags: ["nano-banana-pro"]
-author: "[@ShreyaYadav___](https://x.com/ShreyaYadav___)"
-author_url: "https://twitter.com/ShreyaYadav___"
-source_url: "https://twitter.com/ShreyaYadav___/status/1996407842103017734"
-preview: "/media/portraits/pg-1996407842103017734.webp"
+tags:
+  - realistic
+  - portrait
+  - landscape
+  - dark
+author: '[@ShreyaYadav___](https://x.com/ShreyaYadav___)'
+author_url: 'https://twitter.com/ShreyaYadav___'
+source_url: 'https://twitter.com/ShreyaYadav___/status/1996407842103017734'
+preview: /media/portraits/pg-1996407842103017734.webp
 ---
 
 Can you feel the adrenaline? A terrified couple races through lush fields with Bengal tigers in pursuit, all captured in stunning cinematic detail. Action-packed vibes await!

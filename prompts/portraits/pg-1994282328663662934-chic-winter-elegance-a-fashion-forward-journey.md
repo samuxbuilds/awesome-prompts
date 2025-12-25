@@ -1,11 +1,16 @@
 ---
-title: "Chic Winter Elegance: A Fashion-Forward Journey"
+title: 'Chic Winter Elegance: A Fashion-Forward Journey'
 category: portraits
-tags: ["nature","fashion","nano-banana-pro"]
-author: "[@xmliisu](https://x.com/xmliisu)"
-author_url: "https://twitter.com/xmliisu"
-source_url: "https://twitter.com/xmliisu/status/1994282328663662934"
-preview: "/media/portraits/pg-1994282328663662934.webp"
+tags:
+  - nature
+  - fashion
+  - portrait
+  - landscape
+  - dark
+author: '[@xmliisu](https://x.com/xmliisu)'
+author_url: 'https://twitter.com/xmliisu'
+source_url: 'https://twitter.com/xmliisu/status/1994282328663662934'
+preview: /media/portraits/pg-1994282328663662934.webp
 ---
 
 A breathtaking fusion of fashion and nature unfolds—an ethereal model draped in luxurious textures, harmonizing with a majestic horse against a wintry backdrop. The scene breathes sophistication and intrigue.

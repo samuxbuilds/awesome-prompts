@@ -1,11 +1,13 @@
 ---
-title: "A Journey Through Time: Portraits of Aging"
+title: 'A Journey Through Time: Portraits of Aging'
 category: portraits
-tags: ["portrait","nano-banana-pro"]
-author: "[@AIMevzulari](https://x.com/AIMevzulari)"
-author_url: "https://twitter.com/AIMevzulari"
-source_url: "https://twitter.com/AIMevzulari/status/1996863628050301114"
-preview: "/media/portraits/pg-1996863628050301114.webp"
+tags:
+  - portrait
+  - 3d
+author: '[@AIMevzulari](https://x.com/AIMevzulari)'
+author_url: 'https://twitter.com/AIMevzulari'
+source_url: 'https://twitter.com/AIMevzulari/status/1996863628050301114'
+preview: /media/portraits/pg-1996863628050301114.webp
 ---
 
 Can a face tell a story across decades? This stunning mosaic captures one soul's evolution from 40 to 90, showcasing the beauty and wisdom of aging in every detail.

@@ -1,11 +1,21 @@
 ---
-title: "Snap a Selfie with Your Robotic Companion!"
+title: Snap a Selfie with Your Robotic Companion!
 category: 3d
-tags: ["selfie","art","nano-banana-pro"]
-author: "[@Samann_ai](https://x.com/Samann_ai)"
-author_url: "https://twitter.com/Samann_ai"
-source_url: "https://twitter.com/Samann_ai/status/1994444395525832898"
-preview: "/media/3d/pg-1994444395525832898.webp"
+tags:
+  - selfie
+  - art
+  - realistic
+  - anime
+  - 3d
+  - illustration
+  - neon
+  - minimalist
+  - portrait
+  - dark
+author: '[@Samann_ai](https://x.com/Samann_ai)'
+author_url: 'https://twitter.com/Samann_ai'
+source_url: 'https://twitter.com/Samann_ai/status/1994444395525832898'
+preview: /media/3d/pg-1994444395525832898.webp
 ---
 
 Celebrating love in a cozy living room! A human and their futuristic robot partner share an intimate moment, bringing a blend of warmth and tech into one perfect selfie.

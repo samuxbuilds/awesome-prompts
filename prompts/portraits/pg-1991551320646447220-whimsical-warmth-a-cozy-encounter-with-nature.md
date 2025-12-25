@@ -1,11 +1,17 @@
 ---
-title: "Whimsical Warmth: A Cozy Encounter with Nature"
+title: 'Whimsical Warmth: A Cozy Encounter with Nature'
 category: portraits
-tags: ["portrait","art","nature","light","nano-banana-pro"]
-author: "[@YaseenK7212](https://x.com/YaseenK7212)"
-author_url: "https://twitter.com/YaseenK7212"
-source_url: "https://twitter.com/YaseenK7212/status/1991551320646447220"
-preview: "/media/portraits/pg-1991551320646447220.webp"
+tags:
+  - portrait
+  - art
+  - nature
+  - light
+  - realistic
+  - landscape
+author: '[@YaseenK7212](https://x.com/YaseenK7212)'
+author_url: 'https://twitter.com/YaseenK7212'
+source_url: 'https://twitter.com/YaseenK7212/status/1991551320646447220'
+preview: /media/portraits/pg-1991551320646447220.webp
 ---
 
 A striking portrait of a young man in earthy tones, harmonizing with a majestic Maine Coon atop his knitted hood. The light casts an enchanting glow, revealing the beauty of companionship and style.

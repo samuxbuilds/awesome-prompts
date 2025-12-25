@@ -1,9 +1,12 @@
 ---
-title: "Digital Content Localization (Comics/Memes)"
+title: Digital Content Localization (Comics/Memes)
 category: creative
-tags: ["creative", "ai-art"]
-author: "[@nanobanana-pro](https://x.com/nanobanana-pro)"
-preview: "/media/creative/nb-digital-content-localization-comics-memes.webp"
+tags:
+  - creative
+  - ai-art
+  - 3d
+author: '[@nanobanana-pro](https://x.com/nanobanana-pro)'
+preview: /media/creative/nb-digital-content-localization-comics-memes.webp
 ---
 
 *Translates comics or memes by scrubbing text bubbles and replacing content with matching fonts.*

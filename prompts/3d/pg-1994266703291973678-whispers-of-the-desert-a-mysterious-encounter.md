@@ -1,11 +1,16 @@
 ---
-title: "Whispers of the Desert: A Mysterious Encounter"
+title: 'Whispers of the Desert: A Mysterious Encounter'
 category: 3d
-tags: ["dark","nano-banana-pro"]
-author: "[@AIwithkhan](https://x.com/AIwithkhan)"
-author_url: "https://twitter.com/AIwithkhan"
-source_url: "https://twitter.com/AIwithkhan/status/1994266703291973678"
-preview: "/media/3d/pg-1994266703291973678.webp"
+tags:
+  - dark
+  - realistic
+  - 3d
+  - portrait
+  - landscape
+author: '[@AIwithkhan](https://x.com/AIwithkhan)'
+author_url: 'https://twitter.com/AIwithkhan'
+source_url: 'https://twitter.com/AIwithkhan/status/1994266703291973678'
+preview: /media/3d/pg-1994266703291973678.webp
 ---
 
 A solitary figure in dark robes stands defiantly against the golden dunes, her piercing gaze challenging the sunset's warmth. Shadows dance as the wind carries secrets across an ancient landscape.

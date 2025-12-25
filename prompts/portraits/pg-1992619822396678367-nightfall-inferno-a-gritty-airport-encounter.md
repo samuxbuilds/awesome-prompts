@@ -1,11 +1,14 @@
 ---
-title: "Nightfall Inferno: A Gritty Airport Encounter"
+title: 'Nightfall Inferno: A Gritty Airport Encounter'
 category: portraits
-tags: ["portrait","nano-banana-pro"]
-author: "[@lexx_aura](https://x.com/lexx_aura)"
-author_url: "https://twitter.com/lexx_aura"
-source_url: "https://twitter.com/lexx_aura/status/1992619822396678367"
-preview: "/media/portraits/pg-1992619822396678367.webp"
+tags:
+  - portrait
+  - realistic
+  - dark
+author: '[@lexx_aura](https://x.com/lexx_aura)'
+author_url: 'https://twitter.com/lexx_aura'
+source_url: 'https://twitter.com/lexx_aura/status/1992619822396678367'
+preview: /media/portraits/pg-1992619822396678367.webp
 ---
 
 A man strides through the shadows of an airport runway, smoke curling from his lips as flames roar behind him. The night is alive with fiery reflections, painting a dramatic portrait of resilience and danger.

@@ -1,11 +1,15 @@
 ---
-title: "Caught in the Enchantment of the Blue Hour"
+title: Caught in the Enchantment of the Blue Hour
 category: portraits
-tags: ["light","nano-banana-pro"]
-author: "[@ReemKhan_07](https://x.com/ReemKhan_07)"
-author_url: "https://twitter.com/ReemKhan_07"
-source_url: "https://twitter.com/ReemKhan_07/status/1995108418823315836"
-preview: "/media/portraits/pg-1995108418823315836.webp"
+tags:
+  - light
+  - realistic
+  - portrait
+  - dark
+author: '[@ReemKhan_07](https://x.com/ReemKhan_07)'
+author_url: 'https://twitter.com/ReemKhan_07'
+source_url: 'https://twitter.com/ReemKhan_07/status/1995108418823315836'
+preview: /media/portraits/pg-1995108418823315836.webp
 ---
 
 A serene moment captured as twilight whispers secrets. Her thoughtful gaze, framed by soft light, evokes a sense of longing amidst a dreamy backdrop.

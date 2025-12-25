@@ -1,11 +1,21 @@
 ---
-title: "Elegance in Silence: A Modern Gallery Encounter"
+title: 'Elegance in Silence: A Modern Gallery Encounter'
 category: 3d
-tags: ["art","modern","minimal","vibrant","nano-banana-pro"]
-author: "[@oggii_0](https://x.com/oggii_0)"
-author_url: "https://twitter.com/oggii_0"
-source_url: "https://twitter.com/oggii_0/status/1991431970325188678"
-preview: "/media/3d/pg-1991431970325188678.webp"
+tags:
+  - art
+  - modern
+  - minimal
+  - vibrant
+  - realistic
+  - 3d
+  - minimalist
+  - portrait
+  - dark
+  - colorful
+author: '[@oggii_0](https://x.com/oggii_0)'
+author_url: 'https://twitter.com/oggii_0'
+source_url: 'https://twitter.com/oggii_0/status/1991431970325188678'
+preview: /media/3d/pg-1991431970325188678.webp
 ---
 
 Captured in a serene embrace of artful shadows, a young man exudes refined charm. His minimalist style contrasts beautifully with the vibrant abstract backdrop, showcasing a perfect blend of contemporary elegance.

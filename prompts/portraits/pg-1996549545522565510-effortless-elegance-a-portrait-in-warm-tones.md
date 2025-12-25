@@ -1,11 +1,15 @@
 ---
-title: "Effortless Elegance: A Portrait in Warm Tones"
+title: 'Effortless Elegance: A Portrait in Warm Tones'
 category: portraits
-tags: ["portrait","nano-banana-pro"]
-author: "[@AIByAbbay](https://x.com/AIByAbbay)"
-author_url: "https://twitter.com/AIByAbbay"
-source_url: "https://twitter.com/AIByAbbay/status/1996549545522565510"
-preview: "/media/portraits/pg-1996549545522565510.webp"
+tags:
+  - portrait
+  - realistic
+  - minimalist
+  - dark
+author: '[@AIByAbbay](https://x.com/AIByAbbay)'
+author_url: 'https://twitter.com/AIByAbbay'
+source_url: 'https://twitter.com/AIByAbbay/status/1996549545522565510'
+preview: /media/portraits/pg-1996549545522565510.webp
 ---
 
 Soft amber hues envelop this serene scene, where a model exudes calm in a cream turtleneck and charcoal trousers. Every texture—from the ribbed knit to polished leather—invites you closer.

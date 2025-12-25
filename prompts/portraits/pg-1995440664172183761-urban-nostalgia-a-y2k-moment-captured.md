@@ -1,11 +1,16 @@
 ---
-title: "Urban Nostalgia: A Y2K Moment Captured"
+title: 'Urban Nostalgia: A Y2K Moment Captured'
 category: portraits
-tags: ["urban","light","nano-banana-pro"]
-author: "[@kingofdairyque](https://x.com/kingofdairyque)"
-author_url: "https://twitter.com/kingofdairyque"
-source_url: "https://twitter.com/kingofdairyque/status/1995440664172183761"
-preview: "/media/portraits/pg-1995440664172183761.webp"
+tags:
+  - urban
+  - light
+  - realistic
+  - vintage
+  - portrait
+author: '[@kingofdairyque](https://x.com/kingofdairyque)'
+author_url: 'https://twitter.com/kingofdairyque'
+source_url: 'https://twitter.com/kingofdairyque/status/1995440664172183761'
+preview: /media/portraits/pg-1995440664172183761.webp
 ---
 
 Caught in a flash of nostalgia, a young woman at a payphone channels 2000s vibes. The red timestamp adds urgency to her detached gaze, as blurred city lights swirl behind her, showcasing a moment that feels both distant and immediate.

@@ -1,11 +1,15 @@
 ---
-title: "The Unassuming Star: A Rock's Quiet Moment"
+title: 'The Unassuming Star: A Rock''s Quiet Moment'
 category: portraits
-tags: ["nano-banana-pro"]
-author: "[@ProperPrompter](https://x.com/ProperPrompter)"
-author_url: "https://twitter.com/ProperPrompter"
-source_url: "https://twitter.com/ProperPrompter/status/1996880688021123219"
-preview: "/media/portraits/pg-1996880688021123219.webp"
+tags:
+  - realistic
+  - minimalist
+  - portrait
+  - dark
+author: '[@ProperPrompter](https://x.com/ProperPrompter)'
+author_url: 'https://twitter.com/ProperPrompter'
+source_url: 'https://twitter.com/ProperPrompter/status/1996880688021123219'
+preview: /media/portraits/pg-1996880688021123219.webp
 ---
 
 How can something so simple speak volumes? This solitary gray rock, draped in subtle speckles, rests in serene elegance against a neutral backdrop, inviting reflection on beauty in the mundane.

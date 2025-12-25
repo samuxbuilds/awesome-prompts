@@ -1,11 +1,15 @@
 ---
-title: "Unleashing the Cybernetic Samurai: A Technical Breakdown"
+title: 'Unleashing the Cybernetic Samurai: A Technical Breakdown'
 category: creative
-tags: ["dark","nano-banana-pro"]
-author: "[@LudovicCreator](https://x.com/LudovicCreator)"
-author_url: "https://twitter.com/LudovicCreator"
-source_url: "https://twitter.com/LudovicCreator/status/1994390935019360466"
-preview: "/media/creative/pg-1994390935019360466.webp"
+tags:
+  - dark
+  - 3d
+  - illustration
+  - neon
+author: '[@LudovicCreator](https://x.com/LudovicCreator)'
+author_url: 'https://twitter.com/LudovicCreator'
+source_url: 'https://twitter.com/LudovicCreator/status/1994390935019360466'
+preview: /media/creative/pg-1994390935019360466.webp
 ---
 
 Marvel at the intricacy of the Cybernetic Samurai! Each labeled component, from the energy core katana to the neural processor, radiates a striking blend of graphite and crimson on a dark blueprint. Subtle glows and shadows enhance this futuristic masterpiece.

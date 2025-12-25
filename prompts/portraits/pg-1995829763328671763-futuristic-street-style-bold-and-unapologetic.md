@@ -1,11 +1,15 @@
 ---
-title: "Futuristic Street Style: Bold and Unapologetic"
+title: 'Futuristic Street Style: Bold and Unapologetic'
 category: portraits
-tags: ["urban","neon","nano-banana-pro"]
-author: "[@Strength04_X](https://x.com/Strength04_X)"
-author_url: "https://twitter.com/Strength04_X"
-source_url: "https://twitter.com/Strength04_X/status/1995829763328671763"
-preview: "/media/portraits/pg-1995829763328671763.webp"
+tags:
+  - urban
+  - neon
+  - portrait
+  - dark
+author: '[@Strength04_X](https://x.com/Strength04_X)'
+author_url: 'https://twitter.com/Strength04_X'
+source_url: 'https://twitter.com/Strength04_X/status/1995829763328671763'
+preview: /media/portraits/pg-1995829763328671763.webp
 ---
 
 A daring fusion of oversized comfort and urban edge! The 'MindSpark' tee pops against a striking neon platform, embodying a confident blend of style.

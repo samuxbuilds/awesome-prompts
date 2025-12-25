@@ -1,11 +1,17 @@
 ---
-title: "Jet-Set Elegance: A Flight Attendant's Smile in the Sky"
+title: 'Jet-Set Elegance: A Flight Attendant''s Smile in the Sky'
 category: portraits
-tags: ["travel","light","nano-banana-pro"]
-author: "[@ShreyaYadav___](https://x.com/ShreyaYadav___)"
-author_url: "https://twitter.com/ShreyaYadav___"
-source_url: "https://twitter.com/ShreyaYadav___/status/1996542045217861748"
-preview: "/media/portraits/pg-1996542045217861748.webp"
+tags:
+  - travel
+  - light
+  - realistic
+  - portrait
+  - landscape
+  - dark
+author: '[@ShreyaYadav___](https://x.com/ShreyaYadav___)'
+author_url: 'https://twitter.com/ShreyaYadav___'
+source_url: 'https://twitter.com/ShreyaYadav___/status/1996542045217861748'
+preview: /media/portraits/pg-1996542045217861748.webp
 ---
 
 Against a backdrop of luxury cabin interiors, a flight attendant exudes sophistication. Her soft smile and stylish uniform capture the essence of travel's refined elegance.

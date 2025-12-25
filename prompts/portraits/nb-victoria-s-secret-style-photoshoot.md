@@ -1,9 +1,14 @@
 ---
-title: "Victoria's Secret Style Photoshoot"
+title: Victoria's Secret Style Photoshoot
 category: portraits
-tags: ["glamour", "ai-art"]
-author: "[@nanobanana-pro](https://x.com/nanobanana-pro)"
-preview: "/media/portraits/nb-victoria-s-secret-style-photoshoot.webp"
+tags:
+  - glamour
+  - ai-art
+  - realistic
+  - portrait
+  - dark
+author: '[@nanobanana-pro](https://x.com/nanobanana-pro)'
+preview: /media/portraits/nb-victoria-s-secret-style-photoshoot.webp
 ---
 
 *Great for creating high-glamour, backstage-style fashion photography with intricate details.*

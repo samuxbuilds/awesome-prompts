@@ -1,11 +1,14 @@
 ---
-title: "Night Vibes with a Twist: The Gemini Nano Banana 3.0 Look"
+title: 'Night Vibes with a Twist: The Gemini Nano Banana 3.0 Look'
 category: 3d
-tags: ["nano-banana-pro"]
-author: "[@YaseenK7212](https://x.com/YaseenK7212)"
-author_url: "https://twitter.com/YaseenK7212"
-source_url: "https://twitter.com/YaseenK7212/status/1995820734233370767"
-preview: "/media/3d/pg-1995820734233370767.webp"
+tags:
+  - realistic
+  - 3d
+  - portrait
+author: '[@YaseenK7212](https://x.com/YaseenK7212)'
+author_url: 'https://twitter.com/YaseenK7212'
+source_url: 'https://twitter.com/YaseenK7212/status/1995820734233370767'
+preview: /media/3d/pg-1995820734233370767.webp
 ---
 
 Under the glow of street lamps, a confident young woman winks at the camera, iced coffee in hand. Her Douyin-inspired makeup and sleek style shine brightly against the night backdrop.

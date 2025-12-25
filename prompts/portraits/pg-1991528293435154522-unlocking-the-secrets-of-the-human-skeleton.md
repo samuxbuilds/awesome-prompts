@@ -1,11 +1,13 @@
 ---
-title: "Unlocking the Secrets of the Human Skeleton!"
+title: Unlocking the Secrets of the Human Skeleton!
 category: portraits
-tags: ["nano-banana-pro"]
-author: "[@HBCoop_](https://x.com/HBCoop_)"
-author_url: "https://twitter.com/HBCoop_"
-source_url: "https://twitter.com/HBCoop_/status/1991528293435154522"
-preview: "/media/portraits/pg-1991528293435154522.webp"
+tags:
+  - realistic
+  - portrait
+author: '[@HBCoop_](https://x.com/HBCoop_)'
+author_url: 'https://twitter.com/HBCoop_'
+source_url: 'https://twitter.com/HBCoop_/status/1991528293435154522'
+preview: /media/portraits/pg-1991528293435154522.webp
 ---
 
 What if every bone told a story? This detailed infographic showcases the human skeletal system, beautifully labeled for clarity. Discover the framework of life!

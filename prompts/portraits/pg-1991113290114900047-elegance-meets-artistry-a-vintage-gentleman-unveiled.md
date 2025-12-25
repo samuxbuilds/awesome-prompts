@@ -1,11 +1,17 @@
 ---
-title: "Elegance Meets Artistry: A Vintage Gentleman Unveiled"
+title: 'Elegance Meets Artistry: A Vintage Gentleman Unveiled'
 category: portraits
-tags: ["illustration","art","vintage","nano-banana-pro"]
-author: "[@ShreyaYadav___](https://x.com/ShreyaYadav___)"
-author_url: "https://twitter.com/ShreyaYadav___"
-source_url: "https://twitter.com/ShreyaYadav___/status/1991113290114900047"
-preview: "/media/portraits/pg-1991113290114900047.webp"
+tags:
+  - illustration
+  - art
+  - vintage
+  - realistic
+  - portrait
+  - dark
+author: '[@ShreyaYadav___](https://x.com/ShreyaYadav___)'
+author_url: 'https://twitter.com/ShreyaYadav___'
+source_url: 'https://twitter.com/ShreyaYadav___/status/1991113290114900047'
+preview: /media/portraits/pg-1991113290114900047.webp
 ---
 
 Gaze upon this stunning vintage pencil illustration, where timeless attire meets intricate geometric elegance. A classic gentleman rests on a beautifully textured paper, enveloped by enchanting Arabesque patterns that elevate his poised demeanor.

@@ -1,11 +1,14 @@
 ---
-title: "Golden Hour Charm: A Vintage Escape"
+title: 'Golden Hour Charm: A Vintage Escape'
 category: portraits
-tags: ["vintage","nano-banana-pro"]
-author: "[@teachaixr](https://x.com/teachaixr)"
-author_url: "https://twitter.com/teachaixr"
-source_url: "https://twitter.com/teachaixr/status/1994144048198893714"
-preview: "/media/portraits/pg-1994144048198893714.webp"
+tags:
+  - vintage
+  - realistic
+  - portrait
+author: '[@teachaixr](https://x.com/teachaixr)'
+author_url: 'https://twitter.com/teachaixr'
+source_url: 'https://twitter.com/teachaixr/status/1994144048198893714'
+preview: /media/portraits/pg-1994144048198893714.webp
 ---
 
 A striking moment unfolds as a young woman leans from a classic cream car, cigarette in hand. The warm glow of sunset casts a magical ambiance on the cobblestone street, where life bustles around her.

@@ -1,11 +1,17 @@
 ---
-title: "Chic Confidence: The Gemini Nano Banana Pro Look"
+title: 'Chic Confidence: The Gemini Nano Banana Pro Look'
 category: portraits
-tags: ["portrait","modern","minimal","nano-banana-pro"]
-author: "[@ZaraIrahh](https://x.com/ZaraIrahh)"
-author_url: "https://twitter.com/ZaraIrahh"
-source_url: "https://twitter.com/ZaraIrahh/status/1994216072426475887"
-preview: "/media/portraits/pg-1994216072426475887.webp"
+tags:
+  - portrait
+  - modern
+  - minimal
+  - realistic
+  - minimalist
+  - dark
+author: '[@ZaraIrahh](https://x.com/ZaraIrahh)'
+author_url: 'https://twitter.com/ZaraIrahh'
+source_url: 'https://twitter.com/ZaraIrahh/status/1994216072426475887'
+preview: /media/portraits/pg-1994216072426475887.webp
 ---
 
 A captivating portrait featuring a confident woman in a fluffy black jacket. With her wavy hair in a high ponytail and stylish sunglasses, she exudes modern elegance against a minimalistic backdrop.

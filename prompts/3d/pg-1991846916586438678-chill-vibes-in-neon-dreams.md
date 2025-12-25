@@ -1,11 +1,16 @@
 ---
-title: "Chill Vibes in Neon Dreams"
+title: Chill Vibes in Neon Dreams
 category: 3d
-tags: ["neon","nano-banana-pro"]
-author: "[@xmliisu](https://x.com/xmliisu)"
-author_url: "https://twitter.com/xmliisu"
-source_url: "https://twitter.com/xmliisu/status/1991846916586438678"
-preview: "/media/3d/pg-1991846916586438678.webp"
+tags:
+  - neon
+  - realistic
+  - 3d
+  - vintage
+  - dark
+author: '[@xmliisu](https://x.com/xmliisu)'
+author_url: 'https://twitter.com/xmliisu'
+source_url: 'https://twitter.com/xmliisu/status/1991846916586438678'
+preview: /media/3d/pg-1991846916586438678.webp
 ---
 
 A vivid snapshot of rebellion and relaxation; a figure reclines in the trunk of a yellow sports car, cigarette in hand, embodying a carefree night under the stars.

@@ -1,11 +1,17 @@
 ---
-title: "Cinematic Depth: A Striking Monochrome Portrait"
+title: 'Cinematic Depth: A Striking Monochrome Portrait'
 category: portraits
-tags: ["portrait","light","nano-banana-pro"]
-author: "[@Taaruk_](https://x.com/Taaruk_)"
-author_url: "https://twitter.com/Taaruk_"
-source_url: "https://twitter.com/Taaruk_/status/1996533151850696863"
-preview: "/media/portraits/pg-1996533151850696863.webp"
+tags:
+  - portrait
+  - light
+  - realistic
+  - minimalist
+  - dark
+  - black-and-white
+author: '[@Taaruk_](https://x.com/Taaruk_)'
+author_url: 'https://twitter.com/Taaruk_'
+source_url: 'https://twitter.com/Taaruk_/status/1996533151850696863'
+preview: /media/portraits/pg-1996533151850696863.webp
 ---
 
 Bold shadows and intense highlights converge in this 8K black-and-white portrait. A man’s enigmatic gaze and tousled hair evoke a powerful cinematic aura, captured in stunning detail.

@@ -1,9 +1,16 @@
 ---
-title: "MrBeast Style - Trap/Danger"
-category: "thumbnails"
-tags: ["mrbeast", "youtube", "thumbnail", "danger", "trap"]
-author: "[@samux](https://x.com/samux)"
-preview: "/media/thumbnails/mrbeast-trap.webp"
+title: MrBeast Style - Trap/Danger
+category: thumbnails
+tags:
+  - mrbeast
+  - youtube
+  - thumbnail
+  - danger
+  - trap
+  - realistic
+  - dark
+author: '[@samux](https://x.com/samux)'
+preview: /media/thumbnails/mrbeast-trap.webp
 ---
 
 ```json

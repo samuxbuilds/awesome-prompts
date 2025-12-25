@@ -1,11 +1,17 @@
 ---
-title: "Unveiling December's Warmth and Magic ✨"
+title: Unveiling December's Warmth and Magic ✨
 category: portraits
-tags: ["portrait","art","light","nano-banana-pro"]
-author: "[@MrDasOnX](https://x.com/MrDasOnX)"
-author_url: "https://twitter.com/MrDasOnX"
-source_url: "https://twitter.com/MrDasOnX/status/1995487389024915607"
-preview: "/media/portraits/pg-1995487389024915607.webp"
+tags:
+  - portrait
+  - art
+  - light
+  - realistic
+  - minimalist
+  - dark
+author: '[@MrDasOnX](https://x.com/MrDasOnX)'
+author_url: 'https://twitter.com/MrDasOnX'
+source_url: 'https://twitter.com/MrDasOnX/status/1995487389024915607'
+preview: /media/portraits/pg-1995487389024915607.webp
 ---
 
 Can you feel the cozy embrace of December? With twinkling lights and a heartwarming smile, this portrait perfectly captures the essence of festive cheer!

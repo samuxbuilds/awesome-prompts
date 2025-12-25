@@ -1,11 +1,15 @@
 ---
-title: "Sensual Confidence in Cinematic Light"
+title: Sensual Confidence in Cinematic Light
 category: portraits
-tags: ["light","nano-banana-pro"]
-author: "[@kingofdairyque](https://x.com/kingofdairyque)"
-author_url: "https://twitter.com/kingofdairyque"
-source_url: "https://twitter.com/kingofdairyque/status/1992863318764335493"
-preview: "/media/portraits/pg-1992863318764335493.webp"
+tags:
+  - light
+  - minimalist
+  - portrait
+  - dark
+author: '[@kingofdairyque](https://x.com/kingofdairyque)'
+author_url: 'https://twitter.com/kingofdairyque'
+source_url: 'https://twitter.com/kingofdairyque/status/1992863318764335493'
+preview: /media/portraits/pg-1992863318764335493.webp
 ---
 
 A striking gaze pierces through the shadows, where confidence meets elegance. The soft red highlights dance across her skin, revealing a story behind every detail.

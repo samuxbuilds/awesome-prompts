@@ -1,11 +1,16 @@
 ---
-title: "Transform Your Living Room with a Show-Stopping Split!"
+title: Transform Your Living Room with a Show-Stopping Split!
 category: portraits
-tags: ["nano-banana-pro"]
-author: "[@IamEmily2050](https://x.com/IamEmily2050)"
-author_url: "https://twitter.com/IamEmily2050"
-source_url: "https://twitter.com/IamEmily2050/status/1995847664584589534"
-preview: "/media/portraits/pg-1995847664584589534.webp"
+tags:
+  - realistic
+  - minimalist
+  - portrait
+  - dark
+  - colorful
+author: '[@IamEmily2050](https://x.com/IamEmily2050)'
+author_url: 'https://twitter.com/IamEmily2050'
+source_url: 'https://twitter.com/IamEmily2050/status/1995847664584589534'
+preview: /media/portraits/pg-1995847664584589534.webp
 ---
 
 Can everyday spaces become your runway? This stunning fitness model performs a vertical split, blending glamour with the authenticity of a cozy home. Who's inspired to try their own twist?

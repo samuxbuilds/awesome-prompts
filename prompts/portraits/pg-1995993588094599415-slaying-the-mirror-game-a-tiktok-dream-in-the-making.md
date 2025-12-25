@@ -1,11 +1,13 @@
 ---
-title: "Slaying the Mirror Game: A TikTok Dream in the Making"
+title: 'Slaying the Mirror Game: A TikTok Dream in the Making'
 category: portraits
-tags: ["nano-banana-pro"]
-author: "[@joonmts](https://x.com/joonmts)"
-author_url: "https://twitter.com/joonmts"
-source_url: "https://twitter.com/joonmts/status/1995993588094599415"
-preview: "/media/portraits/pg-1995993588094599415.webp"
+tags:
+  - anime
+  - portrait
+author: '[@joonmts](https://x.com/joonmts)'
+author_url: 'https://twitter.com/joonmts'
+source_url: 'https://twitter.com/joonmts/status/1995993588094599415'
+preview: /media/portraits/pg-1995993588094599415.webp
 ---
 
 With a perfectly arched back and a playful glance, this creator knows how to captivate. The glow of her aesthetic room and soft glam makeup create a vibe that’s irresistible!

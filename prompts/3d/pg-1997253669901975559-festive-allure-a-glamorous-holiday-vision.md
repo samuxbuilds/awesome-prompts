@@ -1,11 +1,15 @@
 ---
-title: "Festive Allure: A Glamorous Holiday Vision"
+title: 'Festive Allure: A Glamorous Holiday Vision'
 category: 3d
-tags: ["nano-banana-pro"]
-author: "[@lexx_aura](https://x.com/lexx_aura)"
-author_url: "https://twitter.com/lexx_aura"
-source_url: "https://twitter.com/lexx_aura/status/1997253669901975559"
-preview: "/media/3d/pg-1997253669901975559.webp"
+tags:
+  - realistic
+  - 3d
+  - minimalist
+  - dark
+author: '[@lexx_aura](https://x.com/lexx_aura)'
+author_url: 'https://twitter.com/lexx_aura'
+source_url: 'https://twitter.com/lexx_aura/status/1997253669901975559'
+preview: /media/3d/pg-1997253669901975559.webp
 ---
 
 A stunning young woman radiates confidence in a festive, all-white ensemble, set against rich red velvet curtains. Her playful pose and alluring smile capture the essence of holiday glamour!

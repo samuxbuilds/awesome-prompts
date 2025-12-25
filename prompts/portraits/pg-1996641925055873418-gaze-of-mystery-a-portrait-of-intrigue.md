@@ -1,11 +1,14 @@
 ---
-title: "Gaze of Mystery: A Portrait of Intrigue"
+title: 'Gaze of Mystery: A Portrait of Intrigue'
 category: portraits
-tags: ["realistic","portrait","nano-banana-pro"]
-author: "[@ShreyaYadav___](https://x.com/ShreyaYadav___)"
-author_url: "https://twitter.com/ShreyaYadav___"
-source_url: "https://twitter.com/ShreyaYadav___/status/1996641925055873418"
-preview: "/media/portraits/pg-1996641925055873418.webp"
+tags:
+  - realistic
+  - portrait
+  - dark
+author: '[@ShreyaYadav___](https://x.com/ShreyaYadav___)'
+author_url: 'https://twitter.com/ShreyaYadav___'
+source_url: 'https://twitter.com/ShreyaYadav___/status/1996641925055873418'
+preview: /media/portraits/pg-1996641925055873418.webp
 ---
 
 A windswept beauty captivates with her luminous gaze, set against deep shadows. This ultra-realistic close-up reveals high cheekbones and glossy lips, embodying an editorial mood.

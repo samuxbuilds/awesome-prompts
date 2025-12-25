@@ -1,9 +1,12 @@
 ---
-title: "Concept Visualization (Text to Infographic)"
+title: Concept Visualization (Text to Infographic)
 category: creative
-tags: ["illustration", "ai-art"]
-author: "[@nanobanana-pro](https://x.com/nanobanana-pro)"
-preview: "/media/creative/nb-concept-visualization-text-to-infographic.webp"
+tags:
+  - illustration
+  - ai-art
+  - realistic
+author: '[@nanobanana-pro](https://x.com/nanobanana-pro)'
+preview: /media/creative/nb-concept-visualization-text-to-infographic.webp
 ---
 
 *Converts textual concepts into clear, educational vector illustrations.*

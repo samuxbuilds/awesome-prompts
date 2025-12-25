@@ -1,11 +1,19 @@
 ---
-title: "When Reality Meets 90s Cartoon Magic"
+title: When Reality Meets 90s Cartoon Magic
 category: 3d
-tags: ["cartoon","art","nano-banana-pro"]
-author: "[@ShreyaYadav___](https://x.com/ShreyaYadav___)"
-author_url: "https://twitter.com/ShreyaYadav___"
-source_url: "https://twitter.com/ShreyaYadav___/status/1994060915478811002"
-preview: "/media/3d/pg-1994060915478811002.webp"
+tags:
+  - cartoon
+  - art
+  - realistic
+  - 3d
+  - vintage
+  - minimalist
+  - landscape
+  - colorful
+author: '[@ShreyaYadav___](https://x.com/ShreyaYadav___)'
+author_url: 'https://twitter.com/ShreyaYadav___'
+source_url: 'https://twitter.com/ShreyaYadav___/status/1994060915478811002'
+preview: /media/3d/pg-1994060915478811002.webp
 ---
 
 Two worlds collide! A striking man in a trendy hoodie stands beside his animated twin, bursting with color and energy against a soft backdrop. Can you spot the playful details?

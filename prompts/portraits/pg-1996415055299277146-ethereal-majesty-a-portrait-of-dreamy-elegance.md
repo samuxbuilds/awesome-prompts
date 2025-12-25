@@ -1,11 +1,14 @@
 ---
-title: "Ethereal Majesty: A Portrait of Dreamy Elegance"
+title: 'Ethereal Majesty: A Portrait of Dreamy Elegance'
 category: portraits
-tags: ["portrait","fantasy","nano-banana-pro"]
-author: "[@rowanali09](https://x.com/rowanali09)"
-author_url: "https://twitter.com/rowanali09"
-source_url: "https://twitter.com/rowanali09/status/1996415055299277146"
-preview: "/media/portraits/pg-1996415055299277146.webp"
+tags:
+  - portrait
+  - fantasy
+  - realistic
+author: '[@rowanali09](https://x.com/rowanali09)'
+author_url: 'https://twitter.com/rowanali09'
+source_url: 'https://twitter.com/rowanali09/status/1996415055299277146'
+preview: /media/portraits/pg-1996415055299277146.webp
 ---
 
 Caught in a moment of fantasy, this captivating portrait showcases a young woman adorned in a magnificent bronze ensemble, her auburn hair flowing like soft waves.

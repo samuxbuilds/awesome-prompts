@@ -1,11 +1,14 @@
 ---
-title: "Elegance in Black: A Glamorous Sophistication"
+title: 'Elegance in Black: A Glamorous Sophistication'
 category: portraits
-tags: ["modern","nano-banana-pro"]
-author: "[@Just_sharon7](https://x.com/Just_sharon7)"
-author_url: "https://twitter.com/Just_sharon7"
-source_url: "https://twitter.com/Just_sharon7/status/1992900701765189746"
-preview: "/media/portraits/pg-1992900701765189746.webp"
+tags:
+  - modern
+  - realistic
+  - portrait
+author: '[@Just_sharon7](https://x.com/Just_sharon7)'
+author_url: 'https://twitter.com/Just_sharon7'
+source_url: 'https://twitter.com/Just_sharon7/status/1992900701765189746'
+preview: /media/portraits/pg-1992900701765189746.webp
 ---
 
 What a striking vision of modern elegance! A blonde beauty lounges gracefully, draped in a chic black bodysuit while the glossy leather chair complements her alluring style.

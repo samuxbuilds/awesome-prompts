@@ -1,11 +1,18 @@
 ---
-title: "Rhythmic Chaos: The Beat of Urban Art"
+title: 'Rhythmic Chaos: The Beat of Urban Art'
 category: portraits
-tags: ["art","urban","colorful","vibrant","nano-banana-pro"]
-author: "[@_MehdiSharifi_](https://x.com/_MehdiSharifi_)"
-author_url: "https://twitter.com/_MehdiSharifi_"
-source_url: "https://twitter.com/_MehdiSharifi_/status/1993706544861446178"
-preview: "/media/portraits/pg-1993706544861446178.webp"
+tags:
+  - art
+  - urban
+  - colorful
+  - vibrant
+  - realistic
+  - illustration
+  - portrait
+author: '[@_MehdiSharifi_](https://x.com/_MehdiSharifi_)'
+author_url: 'https://twitter.com/_MehdiSharifi_'
+source_url: 'https://twitter.com/_MehdiSharifi_/status/1993706544861446178'
+preview: /media/portraits/pg-1993706544861446178.webp
 ---
 
 A subway scene bursts with life as a cool dancer tunes into the rhythm. Surrounded by vibrant graffiti and whimsical doodles, music transforms the urban space into a colorful explosion!

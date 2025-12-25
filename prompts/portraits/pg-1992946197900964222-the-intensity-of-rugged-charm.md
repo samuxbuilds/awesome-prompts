@@ -1,11 +1,16 @@
 ---
-title: "The Intensity of Rugged Charm"
+title: The Intensity of Rugged Charm
 category: portraits
-tags: ["realistic","light","nano-banana-pro"]
-author: "[@lexx_aura](https://x.com/lexx_aura)"
-author_url: "https://twitter.com/lexx_aura"
-source_url: "https://twitter.com/lexx_aura/status/1992946197900964222"
-preview: "/media/portraits/pg-1992946197900964222.webp"
+tags:
+  - realistic
+  - light
+  - 3d
+  - portrait
+  - dark
+author: '[@lexx_aura](https://x.com/lexx_aura)'
+author_url: 'https://twitter.com/lexx_aura'
+source_url: 'https://twitter.com/lexx_aura/status/1992946197900964222'
+preview: /media/portraits/pg-1992946197900964222.webp
 ---
 
 A piercing gaze meets the lens in this hyper-realistic close-up. With dramatic shadows and warm highlights, every pore tells a story of rugged adventure.

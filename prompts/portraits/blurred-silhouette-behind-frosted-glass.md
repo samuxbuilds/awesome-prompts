@@ -1,9 +1,15 @@
 ---
-title: "Blurred Silhouette Behind Frosted Glass"
+title: Blurred Silhouette Behind Frosted Glass
 category: portraits
-tags: ["glass", "ai-art"]
-author: "[@umesh_ai](https://x.com/umesh_ai)"
-preview: "/media/portraits/blurred-silhouette-behind-frosted-glass.webp"
+tags:
+  - glass
+  - ai-art
+  - realistic
+  - portrait
+  - dark
+  - black-and-white
+author: '[@umesh_ai](https://x.com/umesh_ai)'
+preview: /media/portraits/blurred-silhouette-behind-frosted-glass.webp
 ---
 
 A black and white photograph shows the blurred silhouette of a [SUBJECT] behind a frosted or translucent surface. The [PART] is sharply defined and pressed against the surface, creating a stark contrast with the rest of the hazy, indistinct figure. The background is a soft gradient of gray tones, enhancing the mysterious and artistic atmosphere.

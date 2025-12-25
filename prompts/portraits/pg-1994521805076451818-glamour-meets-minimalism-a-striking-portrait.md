@@ -1,11 +1,15 @@
 ---
-title: "Glamour Meets Minimalism: A Striking Portrait"
+title: 'Glamour Meets Minimalism: A Striking Portrait'
 category: portraits
-tags: ["portrait","minimal","nano-banana-pro"]
-author: "[@IqraSaifiii](https://x.com/IqraSaifiii)"
-author_url: "https://twitter.com/IqraSaifiii"
-source_url: "https://twitter.com/IqraSaifiii/status/1994521805076451818"
-preview: "/media/portraits/pg-1994521805076451818.webp"
+tags:
+  - portrait
+  - minimal
+  - minimalist
+  - dark
+author: '[@IqraSaifiii](https://x.com/IqraSaifiii)'
+author_url: 'https://twitter.com/IqraSaifiii'
+source_url: 'https://twitter.com/IqraSaifiii/status/1994521805076451818'
+preview: /media/portraits/pg-1994521805076451818.webp
 ---
 
 Elegance radiates as she captures the moment in a sleek black slip dress. The warm glow of her luxurious surroundings enhances her beauty, creating a breathtaking visual story.

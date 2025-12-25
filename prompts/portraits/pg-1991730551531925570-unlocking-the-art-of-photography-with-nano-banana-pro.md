@@ -1,11 +1,14 @@
 ---
-title: "Unlocking the Art of Photography with Nano Banana Pro!"
+title: Unlocking the Art of Photography with Nano Banana Pro!
 category: portraits
-tags: ["art","nano-banana-pro"]
-author: "[@Jimmy_JingLv](https://x.com/Jimmy_JingLv)"
-author_url: "https://twitter.com/Jimmy_JingLv"
-source_url: "https://twitter.com/Jimmy_JingLv/status/1991730551531925570"
-preview: "/media/portraits/pg-1991730551531925570.webp"
+tags:
+  - art
+  - realistic
+  - portrait
+author: '[@Jimmy_JingLv](https://x.com/Jimmy_JingLv)'
+author_url: 'https://twitter.com/Jimmy_JingLv'
+source_url: 'https://twitter.com/Jimmy_JingLv/status/1991730551531925570'
+preview: /media/portraits/pg-1991730551531925570.webp
 ---
 
 Can you imagine capturing the enchanting blues of dusk? The stunning model, paired with a Canon 85mm, showcases mesmerizing aperture effects, creating a visual symphony!

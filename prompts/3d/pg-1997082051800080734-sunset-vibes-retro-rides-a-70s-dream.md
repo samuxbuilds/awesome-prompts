@@ -1,11 +1,17 @@
 ---
-title: "Sunset Vibes & Retro Rides: A 70s Dream"
+title: 'Sunset Vibes & Retro Rides: A 70s Dream'
 category: 3d
-tags: ["vintage","nano-banana-pro"]
-author: "[@_MehdiSharifi_](https://x.com/_MehdiSharifi_)"
-author_url: "https://twitter.com/_MehdiSharifi_"
-source_url: "https://twitter.com/_MehdiSharifi_/status/1997082051800080734"
-preview: "/media/3d/pg-1997082051800080734.webp"
+tags:
+  - vintage
+  - realistic
+  - 3d
+  - minimalist
+  - portrait
+  - dark
+author: '[@_MehdiSharifi_](https://x.com/_MehdiSharifi_)'
+author_url: 'https://twitter.com/_MehdiSharifi_'
+source_url: 'https://twitter.com/_MehdiSharifi_/status/1997082051800080734'
+preview: /media/3d/pg-1997082051800080734.webp
 ---
 
 A young woman basks in the golden hour glow, framed by her classic C3 Corvette. The vintage aesthetic captures a dreamy coastal lifestyle, evoking nostalgia for carefree summer days.

@@ -1,11 +1,16 @@
 ---
-title: "Serenity in Shadows: A Captivating Portrait"
+title: 'Serenity in Shadows: A Captivating Portrait'
 category: portraits
-tags: ["portrait","light","nano-banana-pro"]
-author: "[@AIwithkhan](https://x.com/AIwithkhan)"
-author_url: "https://twitter.com/AIwithkhan"
-source_url: "https://twitter.com/AIwithkhan/status/1993214822637564014"
-preview: "/media/portraits/pg-1993214822637564014.webp"
+tags:
+  - portrait
+  - light
+  - realistic
+  - minimalist
+  - dark
+author: '[@AIwithkhan](https://x.com/AIwithkhan)'
+author_url: 'https://twitter.com/AIwithkhan'
+source_url: 'https://twitter.com/AIwithkhan/status/1993214822637564014'
+preview: /media/portraits/pg-1993214822637564014.webp
 ---
 
 A striking interplay of light and shadows captures a woman's allure. Her piercing gaze and elegant attire draw you into a world of quiet confidence and sophistication.

@@ -1,9 +1,15 @@
 ---
-title: "Hyperrealistic Anime Portrait in Spotlight"
+title: Hyperrealistic Anime Portrait in Spotlight
 category: portraits
-tags: ["anime", "realistic", "portrait", "character"]
-author: "[@nanobanana-pro](https://x.com/nanobanana-pro)"
-preview: "/media/portraits/nb-hyperrealistic-anime-portrait-in-spotlight.webp"
+tags:
+  - anime
+  - realistic
+  - portrait
+  - character
+  - minimalist
+  - dark
+author: '[@nanobanana-pro](https://x.com/nanobanana-pro)'
+preview: /media/portraits/nb-hyperrealistic-anime-portrait-in-spotlight.webp
 ---
 
 *A hyperrealistic anime-style portrait with dramatic lighting*

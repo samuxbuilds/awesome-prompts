@@ -1,11 +1,15 @@
 ---
-title: "Wrinkles Under Pressure: A Surreal Take on Beauty"
+title: 'Wrinkles Under Pressure: A Surreal Take on Beauty'
 category: 3d
-tags: ["realistic","nano-banana-pro"]
-author: "[@egeberkina](https://x.com/egeberkina)"
-author_url: "https://twitter.com/egeberkina"
-source_url: "https://twitter.com/egeberkina/status/1997061102237049047"
-preview: "/media/3d/pg-1997061102237049047.webp"
+tags:
+  - realistic
+  - 3d
+  - portrait
+  - dark
+author: '[@egeberkina](https://x.com/egeberkina)'
+author_url: 'https://twitter.com/egeberkina'
+source_url: 'https://twitter.com/egeberkina/status/1997061102237049047'
+preview: /media/3d/pg-1997061102237049047.webp
 ---
 
 Can a toy iron truly smooth the complexities of aging? This striking macro shot captures a cheekbone's battle with time, blending humor and critique in a vivid, hyper-realistic portrayal.

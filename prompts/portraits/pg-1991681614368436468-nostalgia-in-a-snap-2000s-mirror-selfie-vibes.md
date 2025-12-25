@@ -1,11 +1,17 @@
 ---
-title: "Nostalgia in a Snap: 2000s Mirror Selfie Vibes"
+title: 'Nostalgia in a Snap: 2000s Mirror Selfie Vibes'
 category: portraits
-tags: ["anime","selfie","cute","nano-banana-pro"]
-author: "[@ZaraIrahh](https://x.com/ZaraIrahh)"
-author_url: "https://twitter.com/ZaraIrahh"
-source_url: "https://twitter.com/ZaraIrahh/status/1991681614368436468"
-preview: "/media/portraits/pg-1991681614368436468.webp"
+tags:
+  - anime
+  - selfie
+  - cute
+  - vintage
+  - portrait
+  - dark
+author: '[@ZaraIrahh](https://x.com/ZaraIrahh)'
+author_url: 'https://twitter.com/ZaraIrahh'
+source_url: 'https://twitter.com/ZaraIrahh/status/1991681614368436468'
+preview: /media/portraits/pg-1991681614368436468.webp
 ---
 
 Capture the essence of the early 2000s with a playful mirror selfie! Long waves, a cute anime tee, and retro decor set the stage for confident self-expression.

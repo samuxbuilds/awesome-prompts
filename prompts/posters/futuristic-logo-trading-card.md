@@ -1,9 +1,18 @@
 ---
-title: "Futuristic Logo Trading Card"
+title: Futuristic Logo Trading Card
 category: posters
-tags: ["3d", "realistic", "logo", "glass", "neon"]
-author: "[@hewarsaber](https://x.com/hewarsaber)"
-preview: "/media/posters/futuristic-logo-trading-card.webp"
+tags:
+  - 3d
+  - realistic
+  - logo
+  - glass
+  - neon
+  - minimalist
+  - portrait
+  - landscape
+  - dark
+author: '[@hewarsaber](https://x.com/hewarsaber)'
+preview: /media/posters/futuristic-logo-trading-card.webp
 ---
 
 {

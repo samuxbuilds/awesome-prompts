@@ -1,11 +1,16 @@
 ---
-title: "Cristiano Ronaldo Captured in Gashapon Glory!"
+title: Cristiano Ronaldo Captured in Gashapon Glory!
 category: 3d
-tags: ["miniature","vibrant","nano-banana-pro"]
-author: "[@Sheldon056](https://x.com/Sheldon056)"
-author_url: "https://twitter.com/Sheldon056"
-source_url: "https://twitter.com/Sheldon056/status/1995174054337429931"
-preview: "/media/3d/pg-1995174054337429931.webp"
+tags:
+  - miniature
+  - vibrant
+  - realistic
+  - 3d
+  - colorful
+author: '[@Sheldon056](https://x.com/Sheldon056)'
+author_url: 'https://twitter.com/Sheldon056'
+source_url: 'https://twitter.com/Sheldon056/status/1995174054337429931'
+preview: /media/3d/pg-1995174054337429931.webp
 ---
 
 Behold the magic of miniatures! This dynamic diorama showcases Ronaldo's iconic celebration, complete with a vibrant stadium backdrop and intricate detailing that brings the game to life.

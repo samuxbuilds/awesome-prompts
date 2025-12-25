@@ -1,11 +1,17 @@
 ---
-title: "Celestial Glow: A Moment of Surrender"
+title: 'Celestial Glow: A Moment of Surrender'
 category: portraits
-tags: ["minimal","light","nano-banana-pro"]
-author: "[@AIwithkhan](https://x.com/AIwithkhan)"
-author_url: "https://twitter.com/AIwithkhan"
-source_url: "https://twitter.com/AIwithkhan/status/1996863405706113150"
-preview: "/media/portraits/pg-1996863405706113150.webp"
+tags:
+  - minimal
+  - light
+  - 3d
+  - minimalist
+  - portrait
+  - dark
+author: '[@AIwithkhan](https://x.com/AIwithkhan)'
+author_url: 'https://twitter.com/AIwithkhan'
+source_url: 'https://twitter.com/AIwithkhan/status/1996863405706113150'
+preview: /media/portraits/pg-1996863405706113150.webp
 ---
 
 In a minimalist sanctuary, golden rays embrace a woman's serene form, capturing a fleeting dance with light. Her elegance and the shadows intertwine, creating a timeless tableau of beauty.

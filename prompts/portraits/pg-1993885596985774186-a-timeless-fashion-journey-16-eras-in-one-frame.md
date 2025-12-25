@@ -1,11 +1,19 @@
 ---
-title: "A Timeless Fashion Journey: 16 Eras in One Frame"
+title: 'A Timeless Fashion Journey: 16 Eras in One Frame'
 category: portraits
-tags: ["fashion","vibrant","nano-banana-pro"]
-author: "[@saniaspeaks_](https://x.com/saniaspeaks_)"
-author_url: "https://twitter.com/saniaspeaks_"
-source_url: "https://twitter.com/saniaspeaks_/status/1993885596985774186"
-preview: "/media/portraits/pg-1993885596985774186.webp"
+tags:
+  - fashion
+  - vibrant
+  - realistic
+  - vintage
+  - minimalist
+  - portrait
+  - colorful
+  - black-and-white
+author: '[@saniaspeaks_](https://x.com/saniaspeaks_)'
+author_url: 'https://twitter.com/saniaspeaks_'
+source_url: 'https://twitter.com/saniaspeaks_/status/1993885596985774186'
+preview: /media/portraits/pg-1993885596985774186.webp
 ---
 
 Can you spot the evolution of style? This stunning grid captures a model dressed in iconic looks from the 1880s to the 2020s, showcasing fashion's vibrant history!

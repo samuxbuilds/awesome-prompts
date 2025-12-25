@@ -1,11 +1,15 @@
 ---
-title: "Banana Chic: The Sweetest Bathroom Selfie"
+title: 'Banana Chic: The Sweetest Bathroom Selfie'
 category: portraits
-tags: ["selfie","nano-banana-pro"]
-author: "[@chatgptpaglu](https://x.com/chatgptpaglu)"
-author_url: "https://twitter.com/chatgptpaglu"
-source_url: "https://twitter.com/chatgptpaglu/status/1996427496904908959"
-preview: "/media/portraits/pg-1996427496904908959.webp"
+tags:
+  - selfie
+  - realistic
+  - minimalist
+  - portrait
+author: '[@chatgptpaglu](https://x.com/chatgptpaglu)'
+author_url: 'https://twitter.com/chatgptpaglu'
+source_url: 'https://twitter.com/chatgptpaglu/status/1996427496904908959'
+preview: /media/portraits/pg-1996427496904908959.webp
 ---
 
 Caught in a moment of playful innocence, this young woman flaunts a striking contrast between her angelic gaze and daring outfit.

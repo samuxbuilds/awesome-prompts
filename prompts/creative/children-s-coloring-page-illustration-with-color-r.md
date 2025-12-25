@@ -1,9 +1,14 @@
 ---
-title: "Children's Coloring Page Illustration (with Color Reference)"
+title: Children's Coloring Page Illustration (with Color Reference)
 category: creative
-tags: ["illustration", "ai-art"]
-author: "[@dotey](https://x.com/dotey)"
-preview: "/media/creative/children-s-coloring-page-illustration-with-color-r.webp"
+tags:
+  - illustration
+  - ai-art
+  - minimalist
+  - dark
+  - black-and-white
+author: '[@dotey](https://x.com/dotey)'
+preview: /media/creative/children-s-coloring-page-illustration-with-color-r.webp
 ---
 
 A black and white line drawing coloring illustration, suitable for direct printing on standard size (8.5x11 inch) paper, without paper borders. The overall illustration style is fresh and simple, using clear and smooth black outline lines, without shadows, grayscale, or color filling, with a pure white background for easy coloring.

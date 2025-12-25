@@ -1,11 +1,17 @@
 ---
-title: "Where Light Meets Elegance: A Portrait of Thoughtful Beauty"
+title: 'Where Light Meets Elegance: A Portrait of Thoughtful Beauty'
 category: portraits
-tags: ["portrait","light","nano-banana-pro"]
-author: "[@ShreyaYadav___](https://x.com/ShreyaYadav___)"
-author_url: "https://twitter.com/ShreyaYadav___"
-source_url: "https://twitter.com/ShreyaYadav___/status/1991448689857163301"
-preview: "/media/portraits/pg-1991448689857163301.webp"
+tags:
+  - portrait
+  - light
+  - realistic
+  - illustration
+  - landscape
+  - dark
+author: '[@ShreyaYadav___](https://x.com/ShreyaYadav___)'
+author_url: 'https://twitter.com/ShreyaYadav___'
+source_url: 'https://twitter.com/ShreyaYadav___/status/1991448689857163301'
+preview: /media/portraits/pg-1991448689857163301.webp
 ---
 
 A striking young woman leans gracefully against a rustic doorframe, her pearl-accented hair catching soft light. In this moment, magic weaves through elegance and reflection.

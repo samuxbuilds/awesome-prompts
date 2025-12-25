@@ -1,11 +1,16 @@
 ---
-title: "Golden Hour Elegance: A Portrait of Tranquility"
+title: 'Golden Hour Elegance: A Portrait of Tranquility'
 category: 3d
-tags: ["portrait","light","nano-banana-pro"]
-author: "[@rovvmut_](https://x.com/rovvmut_)"
-author_url: "https://twitter.com/rovvmut_"
-source_url: "https://twitter.com/rovvmut_/status/1994296050140708985"
-preview: "/media/3d/pg-1994296050140708985.webp"
+tags:
+  - portrait
+  - light
+  - realistic
+  - 3d
+  - illustration
+author: '[@rovvmut_](https://x.com/rovvmut_)'
+author_url: 'https://twitter.com/rovvmut_'
+source_url: 'https://twitter.com/rovvmut_/status/1994296050140708985'
+preview: /media/3d/pg-1994296050140708985.webp
 ---
 
 Bathed in warm sunset light, a man gazes upward with a serene smile, dressed in a stylish black coat and textured scarf. The rooftop setting enhances the moment's tranquility.

@@ -1,11 +1,15 @@
 ---
-title: "Reflections of Radiance in a Sunlit Oasis"
+title: Reflections of Radiance in a Sunlit Oasis
 category: 3d
-tags: ["portrait","light","nano-banana-pro"]
-author: "[@SimplyAnnisa](https://x.com/SimplyAnnisa)"
-author_url: "https://twitter.com/SimplyAnnisa"
-source_url: "https://twitter.com/SimplyAnnisa/status/1992768690098692104"
-preview: "/media/3d/pg-1992768690098692104.webp"
+tags:
+  - portrait
+  - light
+  - realistic
+  - 3d
+author: '[@SimplyAnnisa](https://x.com/SimplyAnnisa)'
+author_url: 'https://twitter.com/SimplyAnnisa'
+source_url: 'https://twitter.com/SimplyAnnisa/status/1992768690098692104'
+preview: /media/3d/pg-1992768690098692104.webp
 ---
 
 Bathed in natural light, this stunning portrait captures a woman with enchanting green-gray eyes and flowing golden hair, exuding effortless beauty amidst lush greenery.

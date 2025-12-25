@@ -1,9 +1,13 @@
 ---
-title: "Hand-drawn Flowchart to Corporate Charts"
+title: Hand-drawn Flowchart to Corporate Charts
 category: creative
-tags: ["minimalist", "professional", "business"]
-author: "[@nanobanana-pro](https://x.com/nanobanana-pro)"
-preview: "/media/creative/nb-hand-drawn-flowchart-to-corporate-charts.webp"
+tags:
+  - minimalist
+  - professional
+  - business
+  - illustration
+author: '[@nanobanana-pro](https://x.com/nanobanana-pro)'
+preview: /media/creative/nb-hand-drawn-flowchart-to-corporate-charts.webp
 ---
 
 *Converts whiteboard sketches into clear, "McKinsey-style" vector presentations.*

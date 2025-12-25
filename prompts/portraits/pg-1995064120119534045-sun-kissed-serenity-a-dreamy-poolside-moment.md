@@ -1,11 +1,14 @@
 ---
-title: "Sun-Kissed Serenity: A Dreamy Poolside Moment"
+title: 'Sun-Kissed Serenity: A Dreamy Poolside Moment'
 category: portraits
-tags: ["nano-banana-pro"]
-author: "[@ReemKhan_07](https://x.com/ReemKhan_07)"
-author_url: "https://twitter.com/ReemKhan_07"
-source_url: "https://twitter.com/ReemKhan_07/status/1995064120119534045"
-preview: "/media/portraits/pg-1995064120119534045.webp"
+tags:
+  - realistic
+  - vintage
+  - portrait
+author: '[@ReemKhan_07](https://x.com/ReemKhan_07)'
+author_url: 'https://twitter.com/ReemKhan_07'
+source_url: 'https://twitter.com/ReemKhan_07/status/1995064120119534045'
+preview: /media/portraits/pg-1995064120119534045.webp
 ---
 
 Bright blues and gentle florals collide in this idyllic poolside scene. With a charming smile and soft waves, she captures the essence of summer bliss against a backdrop of shimmering water.

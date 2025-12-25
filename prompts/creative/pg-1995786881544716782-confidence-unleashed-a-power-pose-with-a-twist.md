@@ -1,11 +1,16 @@
 ---
-title: "Confidence Unleashed: A Power Pose with a Twist"
+title: 'Confidence Unleashed: A Power Pose with a Twist'
 category: creative
-tags: ["vibrant","digital","nano-banana-pro"]
-author: "[@madpencil_](https://x.com/madpencil_)"
-author_url: "https://twitter.com/madpencil_"
-source_url: "https://twitter.com/madpencil_/status/1995786881544716782"
-preview: "/media/creative/pg-1995786881544716782.webp"
+tags:
+  - vibrant
+  - digital
+  - illustration
+  - minimalist
+  - colorful
+author: '[@madpencil_](https://x.com/madpencil_)'
+author_url: 'https://twitter.com/madpencil_'
+source_url: 'https://twitter.com/madpencil_/status/1995786881544716782'
+preview: /media/creative/pg-1995786881544716782.webp
 ---
 
 How does one balance a colossal creation with such ease? This digital heroine flaunts her oversized treasure, radiating charisma against a vibrant backdrop. A playful take on strength and style!

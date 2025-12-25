@@ -1,11 +1,17 @@
 ---
-title: "Radiant Elegance: A Glamourous Portrait in Pastel Hues"
+title: 'Radiant Elegance: A Glamourous Portrait in Pastel Hues'
 category: 3d
-tags: ["portrait","pastel","nano-banana-pro"]
-author: "[@woshi_ai](https://x.com/woshi_ai)"
-author_url: "https://twitter.com/woshi_ai"
-source_url: "https://twitter.com/woshi_ai/status/1996138931352469774"
-preview: "/media/3d/pg-1996138931352469774.webp"
+tags:
+  - portrait
+  - pastel
+  - realistic
+  - 3d
+  - vintage
+  - colorful
+author: '[@woshi_ai](https://x.com/woshi_ai)'
+author_url: 'https://twitter.com/woshi_ai'
+source_url: 'https://twitter.com/woshi_ai/status/1996138931352469774'
+preview: /media/3d/pg-1996138931352469774.webp
 ---
 
 What a vision! With coral-red waves and turquoise eyes, she captivates in a satin corset. The soft glow and dreamy bokeh create an ethereal, luxurious moment captured in time.

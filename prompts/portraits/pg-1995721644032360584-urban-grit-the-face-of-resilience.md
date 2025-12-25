@@ -1,11 +1,15 @@
 ---
-title: "Urban Grit: The Face of Resilience"
+title: 'Urban Grit: The Face of Resilience'
 category: portraits
-tags: ["portrait","urban","nano-banana-pro"]
-author: "[@AIwithkhan](https://x.com/AIwithkhan)"
-author_url: "https://twitter.com/AIwithkhan"
-source_url: "https://twitter.com/AIwithkhan/status/1995721644032360584"
-preview: "/media/portraits/pg-1995721644032360584.webp"
+tags:
+  - portrait
+  - urban
+  - realistic
+  - dark
+author: '[@AIwithkhan](https://x.com/AIwithkhan)'
+author_url: 'https://twitter.com/AIwithkhan'
+source_url: 'https://twitter.com/AIwithkhan/status/1995721644032360584'
+preview: /media/portraits/pg-1995721644032360584.webp
 ---
 
 Who is the man behind those amber-tinted lenses? This striking portrait captures a life etched in every wrinkle, set against a brooding city backdrop.

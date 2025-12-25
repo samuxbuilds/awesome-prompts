@@ -1,9 +1,12 @@
 ---
-title: "Magazine Layout Generator"
+title: Magazine Layout Generator
 category: posters
-tags: ["creative", "ai-art"]
-author: "[@nanobanana-pro](https://x.com/nanobanana-pro)"
-preview: "/media/posters/nb-magazine-layout-generator.webp"
+tags:
+  - creative
+  - ai-art
+  - realistic
+author: '[@nanobanana-pro](https://x.com/nanobanana-pro)'
+preview: /media/posters/nb-magazine-layout-generator.webp
 ---
 
 *Perfect for visualizing articles in print format with complex typography.*

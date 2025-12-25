@@ -1,11 +1,16 @@
 ---
-title: "Elegance in Bloom: A Portrait of Serenity"
+title: 'Elegance in Bloom: A Portrait of Serenity'
 category: portraits
-tags: ["portrait","nano-banana-pro"]
-author: "[@brad_zhang2024](https://x.com/brad_zhang2024)"
-author_url: "https://twitter.com/brad_zhang2024"
-source_url: "https://twitter.com/brad_zhang2024/status/1997242522708377885"
-preview: "/media/portraits/pg-1997242522708377885.webp"
+tags:
+  - portrait
+  - realistic
+  - 3d
+  - minimalist
+  - dark
+author: '[@brad_zhang2024](https://x.com/brad_zhang2024)'
+author_url: 'https://twitter.com/brad_zhang2024'
+source_url: 'https://twitter.com/brad_zhang2024/status/1997242522708377885'
+preview: /media/portraits/pg-1997242522708377885.webp
 ---
 
 Amidst a backdrop of soft beige, an East Asian beauty captivates in a white cheongsam, her gentle gaze framed by delicate flowers. Pure elegance redefined!

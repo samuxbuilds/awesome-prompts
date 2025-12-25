@@ -1,11 +1,14 @@
 ---
-title: "Say Goodbye to Photoshoots: The Nano Banana Pro Revolution!"
+title: 'Say Goodbye to Photoshoots: The Nano Banana Pro Revolution!'
 category: portraits
-tags: ["selfie","nano-banana-pro"]
-author: "[@PavolRusnak](https://x.com/PavolRusnak)"
-author_url: "https://twitter.com/PavolRusnak"
-source_url: "https://twitter.com/PavolRusnak/status/1994097306526994558"
-preview: "/media/portraits/pg-1994097306526994558.webp"
+tags:
+  - selfie
+  - realistic
+  - portrait
+author: '[@PavolRusnak](https://x.com/PavolRusnak)'
+author_url: 'https://twitter.com/PavolRusnak'
+source_url: 'https://twitter.com/PavolRusnak/status/1994097306526994558'
+preview: /media/portraits/pg-1994097306526994558.webp
 ---
 
 Forget traditional photoshoots! This Nano Banana Pro selfie captures your essence with a chic blazer and striking clarity, all from the comfort of your space. Instant professionalism at your fingertips!

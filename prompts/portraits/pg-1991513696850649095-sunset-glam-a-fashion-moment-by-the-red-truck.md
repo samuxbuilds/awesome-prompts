@@ -1,11 +1,18 @@
 ---
-title: "Sunset Glam: A Fashion Moment by the Red Truck"
+title: 'Sunset Glam: A Fashion Moment by the Red Truck'
 category: portraits
-tags: ["nature","fashion","minimal","light","nano-banana-pro"]
-author: "[@SimplyAnnisa](https://x.com/SimplyAnnisa)"
-author_url: "https://twitter.com/SimplyAnnisa"
-source_url: "https://twitter.com/SimplyAnnisa/status/1991513696850649095"
-preview: "/media/portraits/pg-1991513696850649095.webp"
+tags:
+  - nature
+  - fashion
+  - minimal
+  - light
+  - minimalist
+  - portrait
+  - landscape
+author: '[@SimplyAnnisa](https://x.com/SimplyAnnisa)'
+author_url: 'https://twitter.com/SimplyAnnisa'
+source_url: 'https://twitter.com/SimplyAnnisa/status/1991513696850649095'
+preview: /media/portraits/pg-1991513696850649095.webp
 ---
 
 A radiant young girl exudes confidence, her red scarf dancing in the sunset light. The lush golden hue highlights her fluffy coat and minimalist look, creating a mesmerizing blend of fashion and nature.

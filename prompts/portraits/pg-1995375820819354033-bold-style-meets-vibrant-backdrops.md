@@ -1,11 +1,18 @@
 ---
-title: "Bold Style Meets Vibrant Backdrops"
+title: Bold Style Meets Vibrant Backdrops
 category: portraits
-tags: ["modern","fashion","vibrant","nano-banana-pro"]
-author: "[@Taaruk_](https://x.com/Taaruk_)"
-author_url: "https://twitter.com/Taaruk_"
-source_url: "https://twitter.com/Taaruk_/status/1995375820819354033"
-preview: "/media/portraits/pg-1995375820819354033.webp"
+tags:
+  - modern
+  - fashion
+  - vibrant
+  - realistic
+  - portrait
+  - dark
+  - colorful
+author: '[@Taaruk_](https://x.com/Taaruk_)'
+author_url: 'https://twitter.com/Taaruk_'
+source_url: 'https://twitter.com/Taaruk_/status/1995375820819354033'
+preview: /media/portraits/pg-1995375820819354033.webp
 ---
 
 Against a striking hot-pink wall, a young man exudes confidence in modern fashion. His relaxed pose and sharp contrasts create an extraordinary visual experience.

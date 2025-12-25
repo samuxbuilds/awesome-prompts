@@ -1,11 +1,14 @@
 ---
-title: "Stickers, Code, and Creativity: A Laptop Story"
+title: 'Stickers, Code, and Creativity: A Laptop Story'
 category: portraits
-tags: ["vibrant","nano-banana-pro"]
-author: "[@osanseviero](https://x.com/osanseviero)"
-author_url: "https://twitter.com/osanseviero"
-source_url: "https://twitter.com/osanseviero/status/1991629732518195585"
-preview: "/media/portraits/pg-1991629732518195585.webp"
+tags:
+  - vibrant
+  - portrait
+  - colorful
+author: '[@osanseviero](https://x.com/osanseviero)'
+author_url: 'https://twitter.com/osanseviero'
+source_url: 'https://twitter.com/osanseviero/status/1991629732518195585'
+preview: /media/portraits/pg-1991629732518195585.webp
 ---
 
 Unleash your inner techie! This vibrant laptop, adorned with playful stickers, showcases a true fan of open-source ML models, blending personality with passion.

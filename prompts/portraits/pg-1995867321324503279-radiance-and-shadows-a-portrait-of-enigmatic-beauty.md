@@ -1,11 +1,15 @@
 ---
-title: "Radiance and Shadows: A Portrait of Enigmatic Beauty"
+title: 'Radiance and Shadows: A Portrait of Enigmatic Beauty'
 category: portraits
-tags: ["portrait","light","nano-banana-pro"]
-author: "[@ShreyaYadav___](https://x.com/ShreyaYadav___)"
-author_url: "https://twitter.com/ShreyaYadav___"
-source_url: "https://twitter.com/ShreyaYadav___/status/1995867321324503279"
-preview: "/media/portraits/pg-1995867321324503279.webp"
+tags:
+  - portrait
+  - light
+  - landscape
+  - dark
+author: '[@ShreyaYadav___](https://x.com/ShreyaYadav___)'
+author_url: 'https://twitter.com/ShreyaYadav___'
+source_url: 'https://twitter.com/ShreyaYadav___/status/1995867321324503279'
+preview: /media/portraits/pg-1995867321324503279.webp
 ---
 
 Sunlight dances on her features as she gazes into the distance, a perfect blend of light and shadow capturing her ethereal beauty. This striking portrait reveals the allure of contrast and elegance.

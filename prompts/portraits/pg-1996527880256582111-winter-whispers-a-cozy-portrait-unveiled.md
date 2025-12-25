@@ -1,11 +1,18 @@
 ---
-title: "Winter Whispers: A Cozy Portrait Unveiled"
+title: 'Winter Whispers: A Cozy Portrait Unveiled'
 category: portraits
-tags: ["portrait","art","nature","vibrant","nano-banana-pro"]
-author: "[@kingofdairyque](https://x.com/kingofdairyque)"
-author_url: "https://twitter.com/kingofdairyque"
-source_url: "https://twitter.com/kingofdairyque/status/1996527880256582111"
-preview: "/media/portraits/pg-1996527880256582111.webp"
+tags:
+  - portrait
+  - art
+  - nature
+  - vibrant
+  - illustration
+  - landscape
+  - colorful
+author: '[@kingofdairyque](https://x.com/kingofdairyque)'
+author_url: 'https://twitter.com/kingofdairyque'
+source_url: 'https://twitter.com/kingofdairyque/status/1996527880256582111'
+preview: /media/portraits/pg-1996527880256582111.webp
 ---
 
 Snowy peaks cradle a vibrant spirit! This colored-pencil artwork captures a woman, her warmth radiating against the chilly backdrop of nature's embrace.

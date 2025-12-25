@@ -1,11 +1,17 @@
 ---
-title: "Captivating Close-Up: A Glimpse of Raw Beauty 🌟"
+title: "Captivating Close-Up: A Glimpse of Raw Beauty \U0001F31F"
 category: 3d
-tags: ["light","nano-banana-pro"]
-author: "[@ShreyaYadav___](https://x.com/ShreyaYadav___)"
-author_url: "https://twitter.com/ShreyaYadav___"
-source_url: "https://twitter.com/ShreyaYadav___/status/1995183894073852277"
-preview: "/media/3d/pg-1995183894073852277.webp"
+tags:
+  - light
+  - realistic
+  - 3d
+  - illustration
+  - portrait
+  - dark
+author: '[@ShreyaYadav___](https://x.com/ShreyaYadav___)'
+author_url: 'https://twitter.com/ShreyaYadav___'
+source_url: 'https://twitter.com/ShreyaYadav___/status/1995183894073852277'
+preview: /media/3d/pg-1995183894073852277.webp
 ---
 
 Behold the striking details of this extreme close-up! A young woman's moist skin glistens under soft lighting, while her mesmerizing green/hazel eyes reflect the world around her.

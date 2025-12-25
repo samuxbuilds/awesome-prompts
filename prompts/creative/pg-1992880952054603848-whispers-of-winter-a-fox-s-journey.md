@@ -1,11 +1,12 @@
 ---
-title: "Whispers of Winter: A Fox's Journey"
+title: 'Whispers of Winter: A Fox''s Journey'
 category: creative
-tags: ["nano-banana-pro"]
-author: "[@BeanieBlossom](https://x.com/BeanieBlossom)"
-author_url: "https://twitter.com/BeanieBlossom"
-source_url: "https://twitter.com/BeanieBlossom/status/1992880952054603848"
-preview: "/media/creative/pg-1992880952054603848.webp"
+tags:
+  - 3d
+author: '[@BeanieBlossom](https://x.com/BeanieBlossom)'
+author_url: 'https://twitter.com/BeanieBlossom'
+source_url: 'https://twitter.com/BeanieBlossom/status/1992880952054603848'
+preview: /media/creative/pg-1992880952054603848.webp
 ---
 
 Amidst tranquil whispers, a red-scarfed fox dances along a snow-kissed riverside path. Bare branches cradle the scene, painting a serene winter wonderland in soft hues.

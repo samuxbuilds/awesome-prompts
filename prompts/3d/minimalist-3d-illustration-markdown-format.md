@@ -1,9 +1,14 @@
 ---
-title: "Minimalist 3D Illustration (Markdown Format)"
+title: Minimalist 3D Illustration (Markdown Format)
 category: 3d
-tags: ["3d", "minimalist", "illustration"]
-author: "[@dotey](https://x.com/dotey)"
-preview: "/media/3d/minimalist-3d-illustration-markdown-format.webp"
+tags:
+  - 3d
+  - minimalist
+  - illustration
+  - portrait
+  - dark
+author: '[@dotey](https://x.com/dotey)'
+preview: /media/3d/minimalist-3d-illustration-markdown-format.webp
 ---
 
 Draw a Toilet

@@ -1,11 +1,14 @@
 ---
-title: "Crayon Confusion: The Colorful Mix-Up!"
+title: 'Crayon Confusion: The Colorful Mix-Up!'
 category: creative
-tags: ["colorful","light","vibrant","nano-banana-pro"]
-author: "[@goodside](https://x.com/goodside)"
-author_url: "https://twitter.com/goodside"
-source_url: "https://twitter.com/goodside/status/1992673828372172937"
-preview: "/media/creative/pg-1992673828372172937.webp"
+tags:
+  - colorful
+  - light
+  - vibrant
+author: '[@goodside](https://x.com/goodside)'
+author_url: 'https://twitter.com/goodside'
+source_url: 'https://twitter.com/goodside/status/1992673828372172937'
+preview: /media/creative/pg-1992673828372172937.webp
 ---
 
 Can you spot the color culprits? This playful palette challenges your perception with vibrant hues and a cheeky twist of red! Uncover the four faux pas in this delightful crayon conundrum.

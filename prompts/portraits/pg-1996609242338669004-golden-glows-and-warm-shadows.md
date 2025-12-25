@@ -1,11 +1,17 @@
 ---
-title: "Golden Glows and Warm Shadows"
+title: Golden Glows and Warm Shadows
 category: portraits
-tags: ["light","sketch","nano-banana-pro"]
-author: "[@saniaspeaks_](https://x.com/saniaspeaks_)"
-author_url: "https://twitter.com/saniaspeaks_"
-source_url: "https://twitter.com/saniaspeaks_/status/1996609242338669004"
-preview: "/media/portraits/pg-1996609242338669004.webp"
+tags:
+  - light
+  - sketch
+  - realistic
+  - illustration
+  - portrait
+  - dark
+author: '[@saniaspeaks_](https://x.com/saniaspeaks_)'
+author_url: 'https://twitter.com/saniaspeaks_'
+source_url: 'https://twitter.com/saniaspeaks_/status/1996609242338669004'
+preview: /media/portraits/pg-1996609242338669004.webp
 ---
 
 A captivating moment caught in sunlight! Her wavy hair dances in the warm glow as gentle shadows sketch stories across her face. The perfect blend of light and serenity!

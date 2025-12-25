@@ -1,11 +1,19 @@
 ---
-title: "Breaking Boundaries: The Bold Mugshot of Mira"
+title: 'Breaking Boundaries: The Bold Mugshot of Mira'
 category: 3d
-tags: ["portrait","vintage","light","nano-banana-pro"]
-author: "[@xmiiru_](https://x.com/xmiiru_)"
-author_url: "https://twitter.com/xmiiru_"
-source_url: "https://twitter.com/xmiiru_/status/1995344587750072496"
-preview: "/media/3d/pg-1995344587750072496.webp"
+tags:
+  - portrait
+  - vintage
+  - light
+  - realistic
+  - anime
+  - 3d
+  - illustration
+  - dark
+author: '[@xmiiru_](https://x.com/xmiiru_)'
+author_url: 'https://twitter.com/xmiiru_'
+source_url: 'https://twitter.com/xmiiru_/status/1995344587750072496'
+preview: /media/3d/pg-1995344587750072496.webp
 ---
 
 A striking portrait of confidence! Mira, in a vintage pinstripe suit, leans against a gritty wall, flaunting a slightly smug smirk. Her poised demeanor defies norms and captivates the lens.

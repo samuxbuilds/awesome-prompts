@@ -1,9 +1,13 @@
 ---
-title: "Funko Pop Figure Creation"
+title: Funko Pop Figure Creation
 category: 3d
-tags: ["chibi", "realistic"]
-author: "[@dotey](https://x.com/dotey)"
-preview: "/media/3d/funko-pop-figure-creation.webp"
+tags:
+  - chibi
+  - realistic
+  - 3d
+  - landscape
+author: '[@dotey](https://x.com/dotey)'
+preview: /media/3d/funko-pop-figure-creation.webp
 ---
 
 Transform the person in the photo into the style of a Funko Pop figure box, presented in isometric view.

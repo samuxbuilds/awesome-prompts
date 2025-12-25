@@ -1,11 +1,15 @@
 ---
-title: "Chilling with a Vintage Vibe and a Coca-Cola Twist"
+title: Chilling with a Vintage Vibe and a Coca-Cola Twist
 category: portraits
-tags: ["vintage","colorful","nano-banana-pro"]
-author: "[@lexx_aura](https://x.com/lexx_aura)"
-author_url: "https://twitter.com/lexx_aura"
-source_url: "https://twitter.com/lexx_aura/status/1994446756978020701"
-preview: "/media/portraits/pg-1994446756978020701.webp"
+tags:
+  - vintage
+  - colorful
+  - portrait
+  - dark
+author: '[@lexx_aura](https://x.com/lexx_aura)'
+author_url: 'https://twitter.com/lexx_aura'
+source_url: 'https://twitter.com/lexx_aura/status/1994446756978020701'
+preview: /media/portraits/pg-1994446756978020701.webp
 ---
 
 Caught in a moment of contemplation, this young woman embraces retro charm in a cozy kitchen. Surrounded by colorful drinks and playful decor, she holds up her Coca-Cola with a hint of nostalgia. A perfect blend of style and refreshment!

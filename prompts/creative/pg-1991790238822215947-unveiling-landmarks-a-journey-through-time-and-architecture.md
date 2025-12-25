@@ -1,11 +1,16 @@
 ---
-title: "Unveiling Landmarks: A Journey Through Time and Architecture"
+title: 'Unveiling Landmarks: A Journey Through Time and Architecture'
 category: creative
-tags: ["art","vibrant","nano-banana-pro"]
-author: "[@Ankit_patel211](https://x.com/Ankit_patel211)"
-author_url: "https://twitter.com/Ankit_patel211"
-source_url: "https://twitter.com/Ankit_patel211/status/1991790238822215947"
-preview: "/media/creative/pg-1991790238822215947.webp"
+tags:
+  - art
+  - vibrant
+  - realistic
+  - 3d
+  - colorful
+author: '[@Ankit_patel211](https://x.com/Ankit_patel211)'
+author_url: 'https://twitter.com/Ankit_patel211'
+source_url: 'https://twitter.com/Ankit_patel211/status/1991790238822215947'
+preview: /media/creative/pg-1991790238822215947.webp
 ---
 
 Marvel at the Eiffel Tower's intricate ironwork and sunset glow, revealing stories of Paris. Explore each landmark's essence, where history meets artistry in vibrant detail.

@@ -1,9 +1,22 @@
 ---
-title: "Phone Pop-Out Optical Illusion OOTD"
+title: Phone Pop-Out Optical Illusion OOTD
 category: creative
-tags: ["optical-illusion", "fashion", "ootd", "phone", "composite", "viral", "social-media"]
-author: "[@underwoodxie96](https://x.com/underwoodxie96)"
-preview: "/media/creative/phone-popout-optical-illusion-ootd.jpg"
+tags:
+  - optical-illusion
+  - fashion
+  - ootd
+  - phone
+  - composite
+  - viral
+  - social-media
+  - realistic
+  - anime
+  - 3d
+  - illustration
+  - portrait
+  - dark
+author: '[@underwoodxie96](https://x.com/underwoodxie96)'
+preview: /media/creative/phone-popout-optical-illusion-ootd.jpg
 ---
 
 Hyper-realistic optical illusion photograph. A young Caucasian woman in her 20s appears to be stepping out of a smartphone screen held in a hand. POV high angle shot looking down at hand holding a burgundy-cased iPhone.

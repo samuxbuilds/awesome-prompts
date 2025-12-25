@@ -1,11 +1,15 @@
 ---
-title: "Framing Perfection: A Portrait of Modern Elegance"
+title: 'Framing Perfection: A Portrait of Modern Elegance'
 category: portraits
-tags: ["portrait","modern","fashion","nano-banana-pro"]
-author: "[@ShreyaYadav___](https://x.com/ShreyaYadav___)"
-author_url: "https://twitter.com/ShreyaYadav___"
-source_url: "https://twitter.com/ShreyaYadav___/status/1992639877075370321"
-preview: "/media/portraits/pg-1992639877075370321.webp"
+tags:
+  - portrait
+  - modern
+  - fashion
+  - realistic
+author: '[@ShreyaYadav___](https://x.com/ShreyaYadav___)'
+author_url: 'https://twitter.com/ShreyaYadav___'
+source_url: 'https://twitter.com/ShreyaYadav___/status/1992639877075370321'
+preview: /media/portraits/pg-1992639877075370321.webp
 ---
 
 An oversized Instagram frame encases a striking portrait, where sharp yet delicate features captivate with a magnetic gaze, embodying high-fashion allure.

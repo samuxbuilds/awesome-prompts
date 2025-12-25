@@ -1,9 +1,18 @@
 ---
-title: "2000s Mirror Selfie"
+title: 2000s Mirror Selfie
 category: portraits
-tags: ["anime", "retro", "cute", "poster", "icon"]
-author: "[@nanobanana-pro](https://x.com/nanobanana-pro)"
-preview: "/media/portraits/nb-2000s-mirror-selfie.webp"
+tags:
+  - anime
+  - retro
+  - cute
+  - poster
+  - icon
+  - realistic
+  - vintage
+  - portrait
+  - dark
+author: '[@nanobanana-pro](https://x.com/nanobanana-pro)'
+preview: /media/portraits/nb-2000s-mirror-selfie.webp
 ---
 
 *A structured JSON prompt to generate an authentic early-2000s aesthetic with flash photography and nostalgic elements.*

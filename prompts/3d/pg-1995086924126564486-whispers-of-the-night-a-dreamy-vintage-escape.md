@@ -1,11 +1,16 @@
 ---
-title: "Whispers of the Night: A Dreamy Vintage Escape"
+title: 'Whispers of the Night: A Dreamy Vintage Escape'
 category: 3d
-tags: ["vintage","light","nano-banana-pro"]
-author: "[@xmliisu](https://x.com/xmliisu)"
-author_url: "https://twitter.com/xmliisu"
-source_url: "https://twitter.com/xmliisu/status/1995086924126564486"
-preview: "/media/3d/pg-1995086924126564486.webp"
+tags:
+  - vintage
+  - light
+  - realistic
+  - 3d
+  - dark
+author: '[@xmliisu](https://x.com/xmliisu)'
+author_url: 'https://twitter.com/xmliisu'
+source_url: 'https://twitter.com/xmliisu/status/1995086924126564486'
+preview: /media/3d/pg-1995086924126564486.webp
 ---
 
 Caught in a whirlwind of memories, a figure drifts through the night, hair wild with the wind's embrace. Vintage vibes and city lights merge, creating a captivating blur of life.

@@ -1,11 +1,15 @@
 ---
-title: "Nostalgic Glimpses: A Digital Flashback"
+title: 'Nostalgic Glimpses: A Digital Flashback'
 category: portraits
-tags: ["dark","digital","nano-banana-pro"]
-author: "[@kingofdairyque](https://x.com/kingofdairyque)"
-author_url: "https://twitter.com/kingofdairyque"
-source_url: "https://twitter.com/kingofdairyque/status/1996033217795903655"
-preview: "/media/portraits/pg-1996033217795903655.webp"
+tags:
+  - dark
+  - digital
+  - realistic
+  - portrait
+author: '[@kingofdairyque](https://x.com/kingofdairyque)'
+author_url: 'https://twitter.com/kingofdairyque'
+source_url: 'https://twitter.com/kingofdairyque/status/1996033217795903655'
+preview: /media/portraits/pg-1996033217795903655.webp
 ---
 
 Captured in a moment of genuine emotion, the young woman's face beams with a captivating glow, her dark hair framing a softly lit smile amidst a cluttered kitchen backdrop.

@@ -1,9 +1,14 @@
 ---
-title: "Paper Craft Style Emoji Icon"
+title: Paper Craft Style Emoji Icon
 category: icons
-tags: ["emoji", "icon"]
-author: "[@egeberkina](https://x.com/egeberkina)"
-preview: "/media/icons/paper-craft-style-emoji-icon.webp"
+tags:
+  - emoji
+  - icon
+  - minimalist
+  - dark
+  - colorful
+author: '[@egeberkina](https://x.com/egeberkina)'
+preview: /media/icons/paper-craft-style-emoji-icon.webp
 ---
 
 A paper craft-style "🔥" floating on a pure white background. The emoji is handcrafted from colorful cut paper with visible textures, creases, and layered shapes. It casts a soft drop shadow beneath, giving a sense of lightness and depth. The design is minimal, playful, and clean — centered in the frame with lots of negative space. Use soft studio lighting to highlight the paper texture and edges.

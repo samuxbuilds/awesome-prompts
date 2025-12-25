@@ -1,11 +1,15 @@
 ---
-title: "Craft Your Own GTA VI Fantasy with a Personal Twist!"
+title: Craft Your Own GTA VI Fantasy with a Personal Twist!
 category: portraits
-tags: ["fantasy","neon","nano-banana-pro"]
-author: "[@CharaspowerAI](https://x.com/CharaspowerAI)"
-author_url: "https://twitter.com/CharaspowerAI"
-source_url: "https://twitter.com/CharaspowerAI/status/1992646835727446294"
-preview: "/media/portraits/pg-1992646835727446294.webp"
+tags:
+  - fantasy
+  - neon
+  - realistic
+  - portrait
+author: '[@CharaspowerAI](https://x.com/CharaspowerAI)'
+author_url: 'https://twitter.com/CharaspowerAI'
+source_url: 'https://twitter.com/CharaspowerAI/status/1992646835727446294'
+preview: /media/portraits/pg-1992646835727446294.webp
 ---
 
 How about your face gracing a bold game cover? Picture a neon-lit LA skyline, complete with palm trees and sleek cars, all featuring your custom character in the latest streetwear!

@@ -1,11 +1,16 @@
 ---
-title: "Soft Elegance by the Window: A Portrait of Serenity"
+title: 'Soft Elegance by the Window: A Portrait of Serenity'
 category: 3d
-tags: ["portrait","light","nano-banana-pro"]
-author: "[@ZaraIrahh](https://x.com/ZaraIrahh)"
-author_url: "https://twitter.com/ZaraIrahh"
-source_url: "https://twitter.com/ZaraIrahh/status/1994369832494706898"
-preview: "/media/3d/pg-1994369832494706898.webp"
+tags:
+  - portrait
+  - light
+  - realistic
+  - 3d
+  - dark
+author: '[@ZaraIrahh](https://x.com/ZaraIrahh)'
+author_url: 'https://twitter.com/ZaraIrahh'
+source_url: 'https://twitter.com/ZaraIrahh/status/1994369832494706898'
+preview: /media/3d/pg-1994369832494706898.webp
 ---
 
 Basking in natural light, a serene figure stands gracefully by the window, reflecting quiet confidence. A picturesque canal and classic architecture in the backdrop enhance this tranquil moment.

@@ -1,11 +1,14 @@
 ---
-title: "Echoes of a Forgotten Warzone"
+title: Echoes of a Forgotten Warzone
 category: 3d
-tags: ["nano-banana-pro"]
-author: "[@rovvmut_](https://x.com/rovvmut_)"
-author_url: "https://twitter.com/rovvmut_"
-source_url: "https://twitter.com/rovvmut_/status/1991828763978637624"
-preview: "/media/3d/pg-1991828763978637624.webp"
+tags:
+  - 3d
+  - portrait
+  - dark
+author: '[@rovvmut_](https://x.com/rovvmut_)'
+author_url: 'https://twitter.com/rovvmut_'
+source_url: 'https://twitter.com/rovvmut_/status/1991828763978637624'
+preview: /media/3d/pg-1991828763978637624.webp
 ---
 
 Amidst the desolation, a lone figure stands guard. The rugged man, dust-laden and resolute, holds his shotgun tight as shadows dance over a rusted helicopter—a relic of past battles. Beneath the brooding sky, the stillness tells stories of survival and grit.

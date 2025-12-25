@@ -1,11 +1,15 @@
 ---
-title: "Cinematic Charm: A Zootopia Dreamscape"
+title: 'Cinematic Charm: A Zootopia Dreamscape'
 category: 3d
-tags: ["portrait","vintage","nano-banana-pro"]
-author: "[@ShreyaYadav___](https://x.com/ShreyaYadav___)"
-author_url: "https://twitter.com/ShreyaYadav___"
-source_url: "https://twitter.com/ShreyaYadav___/status/1993898539571884456"
-preview: "/media/3d/pg-1993898539571884456.webp"
+tags:
+  - portrait
+  - vintage
+  - 3d
+  - dark
+author: '[@ShreyaYadav___](https://x.com/ShreyaYadav___)'
+author_url: 'https://twitter.com/ShreyaYadav___'
+source_url: 'https://twitter.com/ShreyaYadav___/status/1993898539571884456'
+preview: /media/3d/pg-1993898539571884456.webp
 ---
 
 A playful blend of nostalgia and whimsy! This fan portrait captures a young woman glowing with joy, surrounded by her beloved Zootopia plushies, framed in a vintage film magic.

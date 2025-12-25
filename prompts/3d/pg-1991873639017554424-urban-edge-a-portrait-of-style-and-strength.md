@@ -1,11 +1,16 @@
 ---
-title: "Urban Edge: A Portrait of Style and Strength"
+title: 'Urban Edge: A Portrait of Style and Strength'
 category: 3d
-tags: ["portrait","urban","nano-banana-pro"]
-author: "[@Rania_22100](https://x.com/Rania_22100)"
-author_url: "https://twitter.com/Rania_22100"
-source_url: "https://twitter.com/Rania_22100/status/1991873639017554424"
-preview: "/media/3d/pg-1991873639017554424.webp"
+tags:
+  - portrait
+  - urban
+  - realistic
+  - 3d
+  - dark
+author: '[@Rania_22100](https://x.com/Rania_22100)'
+author_url: 'https://twitter.com/Rania_22100'
+source_url: 'https://twitter.com/Rania_22100/status/1991873639017554424'
+preview: /media/3d/pg-1991873639017554424.webp
 ---
 
 A charismatic figure exudes confidence against a shadowy metal backdrop. With premium shades and a sleek bomber jacket, he embodies the fusion of grit and glamour in this striking visual narrative.

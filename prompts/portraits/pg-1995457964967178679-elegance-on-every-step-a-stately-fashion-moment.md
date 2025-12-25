@@ -1,11 +1,17 @@
 ---
-title: "Elegance on Every Step: A Stately Fashion Moment"
+title: 'Elegance on Every Step: A Stately Fashion Moment'
 category: portraits
-tags: ["fashion","light","nano-banana-pro"]
-author: "[@Just_sharon7](https://x.com/Just_sharon7)"
-author_url: "https://twitter.com/Just_sharon7"
-source_url: "https://twitter.com/Just_sharon7/status/1995457964967178679"
-preview: "/media/portraits/pg-1995457964967178679.webp"
+tags:
+  - fashion
+  - light
+  - realistic
+  - portrait
+  - dark
+  - colorful
+author: '[@Just_sharon7](https://x.com/Just_sharon7)'
+author_url: 'https://twitter.com/Just_sharon7'
+source_url: 'https://twitter.com/Just_sharon7/status/1995457964967178679'
+preview: /media/portraits/pg-1995457964967178679.webp
 ---
 
 Bathed in warm light, a striking woman in a red dress reclines gracefully on a grand staircase, blending luxury and style in a captivating scene of opulence.

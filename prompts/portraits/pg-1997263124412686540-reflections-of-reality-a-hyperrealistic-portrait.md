@@ -1,11 +1,15 @@
 ---
-title: "Reflections of Reality: A Hyperrealistic Portrait"
+title: 'Reflections of Reality: A Hyperrealistic Portrait'
 category: portraits
-tags: ["realistic","portrait","nano-banana-pro"]
-author: "[@ShreyaYadav___](https://x.com/ShreyaYadav___)"
-author_url: "https://twitter.com/ShreyaYadav___"
-source_url: "https://twitter.com/ShreyaYadav___/status/1997263124412686540"
-preview: "/media/portraits/pg-1997263124412686540.webp"
+tags:
+  - realistic
+  - portrait
+  - minimalist
+  - dark
+author: '[@ShreyaYadav___](https://x.com/ShreyaYadav___)'
+author_url: 'https://twitter.com/ShreyaYadav___'
+source_url: 'https://twitter.com/ShreyaYadav___/status/1997263124412686540'
+preview: /media/portraits/pg-1997263124412686540.webp
 ---
 
 A striking moment captured—a subject's reflection dances on an iPad, revealing not just a face, but a cozy scene of everyday life. From the pilling sweater to the soft hues of the background, every detail tells a story.

@@ -1,11 +1,15 @@
 ---
-title: "From Comic to Reality: A Stunning Transformation"
+title: 'From Comic to Reality: A Stunning Transformation'
 category: portraits
-tags: ["realistic","nano-banana-pro"]
-author: "[@dotey](https://x.com/dotey)"
-author_url: "https://twitter.com/dotey"
-source_url: "https://twitter.com/dotey/status/1996281855503372510"
-preview: "/media/portraits/pg-1996281855503372510.webp"
+tags:
+  - realistic
+  - anime
+  - illustration
+  - portrait
+author: '[@dotey](https://x.com/dotey)'
+author_url: 'https://twitter.com/dotey'
+source_url: 'https://twitter.com/dotey/status/1996281855503372510'
+preview: /media/portraits/pg-1996281855503372510.webp
 ---
 
 What happens when a beloved comic character steps into the real world? This cinematic shot captures an ultra-realistic rendition, merging iconic style with lifelike detail—every expression, outfit, and hairstyle is meticulously crafted against a richly detailed backdrop.

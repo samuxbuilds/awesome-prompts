@@ -1,11 +1,14 @@
 ---
-title: "Moonlit Elegance: A Night by the Pool"
+title: 'Moonlit Elegance: A Night by the Pool'
 category: portraits
-tags: ["light","nano-banana-pro"]
-author: "[@eyishazyer](https://x.com/eyishazyer)"
-author_url: "https://twitter.com/eyishazyer"
-source_url: "https://twitter.com/eyishazyer/status/1993745191417807209"
-preview: "/media/portraits/pg-1993745191417807209.webp"
+tags:
+  - light
+  - realistic
+  - portrait
+author: '[@eyishazyer](https://x.com/eyishazyer)'
+author_url: 'https://twitter.com/eyishazyer'
+source_url: 'https://twitter.com/eyishazyer/status/1993745191417807209'
+preview: /media/portraits/pg-1993745191417807209.webp
 ---
 
 Elegance radiates as she lounges by the poolside under soft lights. With playful eyes and a relaxed pose, her effortless beauty captivates the serene night.

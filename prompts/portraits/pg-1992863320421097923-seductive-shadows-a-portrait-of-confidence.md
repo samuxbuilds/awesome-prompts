@@ -1,11 +1,15 @@
 ---
-title: "Seductive Shadows: A Portrait of Confidence"
+title: 'Seductive Shadows: A Portrait of Confidence'
 category: portraits
-tags: ["portrait","dark","light","nano-banana-pro"]
-author: "[@kingofdairyque](https://x.com/kingofdairyque)"
-author_url: "https://twitter.com/kingofdairyque"
-source_url: "https://twitter.com/kingofdairyque/status/1992863320421097923"
-preview: "/media/portraits/pg-1992863320421097923.webp"
+tags:
+  - portrait
+  - dark
+  - light
+  - minimalist
+author: '[@kingofdairyque](https://x.com/kingofdairyque)'
+author_url: 'https://twitter.com/kingofdairyque'
+source_url: 'https://twitter.com/kingofdairyque/status/1992863320421097923'
+preview: /media/portraits/pg-1992863320421097923.webp
 ---
 
 A striking close-up captures confidence and allure. Her wavy hair and subtle tattoo complement the dramatic lighting, making each detail pop against the dark backdrop.

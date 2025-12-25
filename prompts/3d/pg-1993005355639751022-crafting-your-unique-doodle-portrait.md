@@ -1,11 +1,17 @@
 ---
-title: "Crafting Your Unique Doodle Portrait"
+title: Crafting Your Unique Doodle Portrait
 category: 3d
-tags: ["portrait","vibrant","nano-banana-pro"]
-author: "[@ecommartinez](https://x.com/ecommartinez)"
-author_url: "https://twitter.com/ecommartinez"
-source_url: "https://twitter.com/ecommartinez/status/1993005355639751022"
-preview: "/media/3d/pg-1993005355639751022.webp"
+tags:
+  - portrait
+  - vibrant
+  - realistic
+  - anime
+  - 3d
+  - colorful
+author: '[@ecommartinez](https://x.com/ecommartinez)'
+author_url: 'https://twitter.com/ecommartinez'
+source_url: 'https://twitter.com/ecommartinez/status/1993005355639751022'
+preview: /media/3d/pg-1993005355639751022.webp
 ---
 
 Transform your face into a vibrant doodle masterpiece! This creative prompt captures your essence with playful colors and lively annotations, celebrating individuality.

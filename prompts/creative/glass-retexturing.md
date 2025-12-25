@@ -1,9 +1,14 @@
 ---
-title: "Glass Retexturing"
+title: Glass Retexturing
 category: creative
-tags: ["3d", "realistic", "glass"]
-author: "[@egeberkina](https://x.com/egeberkina)"
-preview: "/media/creative/glass-retexturing.webp"
+tags:
+  - 3d
+  - realistic
+  - glass
+  - portrait
+  - colorful
+author: '[@egeberkina](https://x.com/egeberkina)'
+preview: /media/creative/glass-retexturing.webp
 ---
 
 retexture the image attached based on the JSON aesthetic below

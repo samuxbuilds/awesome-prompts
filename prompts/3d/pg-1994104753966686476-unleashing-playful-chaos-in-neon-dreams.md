@@ -1,11 +1,20 @@
 ---
-title: "Unleashing Playful Chaos in Neon Dreams"
+title: Unleashing Playful Chaos in Neon Dreams
 category: 3d
-tags: ["light","neon","vibrant","nano-banana-pro"]
-author: "[@awesome_visuals](https://x.com/awesome_visuals)"
-author_url: "https://twitter.com/awesome_visuals"
-source_url: "https://twitter.com/awesome_visuals/status/1994104753966686476"
-preview: "/media/3d/pg-1994104753966686476.webp"
+tags:
+  - light
+  - neon
+  - vibrant
+  - realistic
+  - 3d
+  - illustration
+  - vintage
+  - portrait
+  - colorful
+author: '[@awesome_visuals](https://x.com/awesome_visuals)'
+author_url: 'https://twitter.com/awesome_visuals'
+source_url: 'https://twitter.com/awesome_visuals/status/1994104753966686476'
+preview: /media/3d/pg-1994104753966686476.webp
 ---
 
 A whimsical arcade realm bursts to life with sugary monsters and vibrant hues, spotlighting a playful young woman ready to savor every moment in her neon paradise!

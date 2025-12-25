@@ -1,11 +1,18 @@
 ---
-title: "Shadows and Style: The Modern Mystery"
+title: 'Shadows and Style: The Modern Mystery'
 category: 3d
-tags: ["art","modern","light","neon","nano-banana-pro"]
-author: "[@Drshadow56](https://x.com/Drshadow56)"
-author_url: "https://twitter.com/Drshadow56"
-source_url: "https://twitter.com/Drshadow56/status/1991886673391874388"
-preview: "/media/3d/pg-1991886673391874388.webp"
+tags:
+  - art
+  - modern
+  - light
+  - neon
+  - realistic
+  - 3d
+  - dark
+author: '[@Drshadow56](https://x.com/Drshadow56)'
+author_url: 'https://twitter.com/Drshadow56'
+source_url: 'https://twitter.com/Drshadow56/status/1991886673391874388'
+preview: /media/3d/pg-1991886673391874388.webp
 ---
 
 In the heart of the city, a figure cloaked in black stands confidently in an elevator, coffee in hand. Neon lights cast a dance of shadows, hinting at untold stories.

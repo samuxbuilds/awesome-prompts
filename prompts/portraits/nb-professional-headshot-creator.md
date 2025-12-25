@@ -1,9 +1,13 @@
 ---
-title: "Professional Headshot Creator"
+title: Professional Headshot Creator
 category: portraits
-tags: ["realistic", "professional", "cinematic"]
-author: "[@nanobanana-pro](https://x.com/nanobanana-pro)"
-preview: "/media/portraits/nb-professional-headshot-creator.webp"
+tags:
+  - realistic
+  - professional
+  - cinematic
+  - portrait
+author: '[@nanobanana-pro](https://x.com/nanobanana-pro)'
+preview: /media/portraits/nb-professional-headshot-creator.webp
 ---
 
 *Create a professional profile photo from a selfie*

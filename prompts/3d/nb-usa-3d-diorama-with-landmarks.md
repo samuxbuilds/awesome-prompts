@@ -1,9 +1,15 @@
 ---
-title: "USA 3D Diorama with Landmarks"
+title: USA 3D Diorama with Landmarks
 category: 3d
-tags: ["3d", "cute", "icon", "diorama", "pastel"]
-author: "[@nanobanana-pro](https://x.com/nanobanana-pro)"
-preview: "/media/3d/nb-usa-3d-diorama-with-landmarks.webp"
+tags:
+  - 3d
+  - cute
+  - icon
+  - diorama
+  - pastel
+  - dark
+author: '[@nanobanana-pro](https://x.com/nanobanana-pro)'
+preview: /media/3d/nb-usa-3d-diorama-with-landmarks.webp
 ---
 
 *Create an isometric 3D diorama of US landmarks*

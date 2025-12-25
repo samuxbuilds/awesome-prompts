@@ -1,11 +1,13 @@
 ---
-title: "Rainy Night Whimsy: Totoro at the Bus Stop"
+title: 'Rainy Night Whimsy: Totoro at the Bus Stop'
 category: portraits
-tags: ["nano-banana-pro"]
-author: "[@lexx_aura](https://x.com/lexx_aura)"
-author_url: "https://twitter.com/lexx_aura"
-source_url: "https://twitter.com/lexx_aura/status/1992864343709663397"
-preview: "/media/portraits/pg-1992864343709663397.webp"
+tags:
+  - realistic
+  - portrait
+author: '[@lexx_aura](https://x.com/lexx_aura)'
+author_url: 'https://twitter.com/lexx_aura'
+source_url: 'https://twitter.com/lexx_aura/status/1992864343709663397'
+preview: /media/portraits/pg-1992864343709663397.webp
 ---
 
 Beneath the raindrops, a curious soul in red stands at a lonely bus stop, joined by a colossal Totoro. A moment of wonder in a serene, moonlit forest awaits.

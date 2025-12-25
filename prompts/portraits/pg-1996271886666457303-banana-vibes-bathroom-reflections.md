@@ -1,11 +1,17 @@
 ---
-title: "Banana Vibes & Bathroom Reflections"
+title: Banana Vibes & Bathroom Reflections
 category: portraits
-tags: ["selfie","fashion","pastel","nano-banana-pro"]
-author: "[@saniaspeaks_](https://x.com/saniaspeaks_)"
-author_url: "https://twitter.com/saniaspeaks_"
-source_url: "https://twitter.com/saniaspeaks_/status/1996271886666457303"
-preview: "/media/portraits/pg-1996271886666457303.webp"
+tags:
+  - selfie
+  - fashion
+  - pastel
+  - realistic
+  - minimalist
+  - portrait
+author: '[@saniaspeaks_](https://x.com/saniaspeaks_)'
+author_url: 'https://twitter.com/saniaspeaks_'
+source_url: 'https://twitter.com/saniaspeaks_/status/1996271886666457303'
+preview: /media/portraits/pg-1996271886666457303.webp
 ---
 
 Caught in a moment of casual chic, this platinum blonde flaunts her playful style in pastel and bold accessories. Who says bathroom selfies can’t be a fashion statement?

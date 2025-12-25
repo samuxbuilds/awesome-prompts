@@ -1,11 +1,14 @@
 ---
-title: "Riding the Buzz: A Stylish Adventure on a Giant Honeybee"
+title: 'Riding the Buzz: A Stylish Adventure on a Giant Honeybee'
 category: portraits
-tags: ["nano-banana-pro"]
-author: "[@ShreyaYadav___](https://x.com/ShreyaYadav___)"
-author_url: "https://twitter.com/ShreyaYadav___"
-source_url: "https://twitter.com/ShreyaYadav___/status/1991058916201902184"
-preview: "/media/portraits/pg-1991058916201902184.webp"
+tags:
+  - realistic
+  - portrait
+  - dark
+author: '[@ShreyaYadav___](https://x.com/ShreyaYadav___)'
+author_url: 'https://twitter.com/ShreyaYadav___'
+source_url: 'https://twitter.com/ShreyaYadav___/status/1991058916201902184'
+preview: /media/portraits/pg-1991058916201902184.webp
 ---
 
 What a scene! A stylish individual draped in Gucci casually rides a massive honeybee, basking in golden-hour glow. The intricate details of the bee's wings and fur create a stunning visual harmony, capturing the essence of whimsical luxury.

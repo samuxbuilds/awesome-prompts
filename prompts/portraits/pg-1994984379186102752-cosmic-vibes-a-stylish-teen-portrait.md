@@ -1,11 +1,14 @@
 ---
-title: "Cosmic Vibes: A Stylish Teen Portrait"
+title: 'Cosmic Vibes: A Stylish Teen Portrait'
 category: portraits
-tags: ["portrait","cute","dark","nano-banana-pro"]
-author: "[@YaseenK7212](https://x.com/YaseenK7212)"
-author_url: "https://twitter.com/YaseenK7212"
-source_url: "https://twitter.com/YaseenK7212/status/1994984379186102752"
-preview: "/media/portraits/pg-1994984379186102752.webp"
+tags:
+  - portrait
+  - cute
+  - dark
+author: '[@YaseenK7212](https://x.com/YaseenK7212)'
+author_url: 'https://twitter.com/YaseenK7212'
+source_url: 'https://twitter.com/YaseenK7212/status/1994984379186102752'
+preview: /media/portraits/pg-1994984379186102752.webp
 ---
 
 What a mesmerizing blend of style and charm! A teenage girl with long, dark brown, wavy hair adorned by a cute Sanrio Kuromi hair clip, captivating blue-grey eyes, and a striking silver chain belt with moon charms.

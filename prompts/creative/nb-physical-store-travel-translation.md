@@ -1,9 +1,12 @@
 ---
-title: "Physical Store/Travel Translation"
+title: Physical Store/Travel Translation
 category: creative
-tags: ["character", "ai-art"]
-author: "[@nanobanana-pro](https://x.com/nanobanana-pro)"
-preview: "/media/creative/nb-physical-store-travel-translation.webp"
+tags:
+  - character
+  - ai-art
+  - portrait
+author: '[@nanobanana-pro](https://x.com/nanobanana-pro)'
+preview: /media/creative/nb-physical-store-travel-translation.webp
 ---
 
 *Translates menus or signs while preserving the original surface texture (wall, paper, grease).*

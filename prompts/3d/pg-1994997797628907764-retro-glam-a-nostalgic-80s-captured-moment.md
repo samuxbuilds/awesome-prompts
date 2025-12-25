@@ -1,11 +1,18 @@
 ---
-title: "Retro Glam: A Nostalgic 80s Captured Moment"
+title: 'Retro Glam: A Nostalgic 80s Captured Moment'
 category: 3d
-tags: ["vintage","nano-banana-pro"]
-author: "[@SimplyAnnisa](https://x.com/SimplyAnnisa)"
-author_url: "https://twitter.com/SimplyAnnisa"
-source_url: "https://twitter.com/SimplyAnnisa/status/1994997797628907764"
-preview: "/media/3d/pg-1994997797628907764.webp"
+tags:
+  - vintage
+  - realistic
+  - 3d
+  - minimalist
+  - portrait
+  - landscape
+  - dark
+author: '[@SimplyAnnisa](https://x.com/SimplyAnnisa)'
+author_url: 'https://twitter.com/SimplyAnnisa'
+source_url: 'https://twitter.com/SimplyAnnisa/status/1994997797628907764'
+preview: /media/3d/pg-1994997797628907764.webp
 ---
 
 Can you feel the 80s vibes? This striking photo encapsulates vintage charm and casual elegance, with soft film effects that whisper stories from November 1988.

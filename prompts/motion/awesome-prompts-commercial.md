@@ -1,9 +1,22 @@
 ---
-title: "Awesome Prompts Motion Video"
+title: Awesome Prompts Motion Video
 category: motion
-tags: ["neobrutalist", "gsap", "video", "launch", "3d-text", "motion-video"]
-author: "[@samuxbuilds](https://x.com/samuxbuilds)"
-previewVideo: "/media/motion/awesome-prompts.webm"
+tags:
+  - neobrutalist
+  - gsap
+  - video
+  - launch
+  - 3d-text
+  - motion-video
+  - 3d
+  - chibi
+  - neon
+  - minimalist
+  - portrait
+  - dark
+  - colorful
+author: '[@samuxbuilds](https://x.com/samuxbuilds)'
+previewVideo: /media/motion/awesome-prompts.webm
 ---
 
 A 12-second launch video featuring a 3D logo reveal with cycling images, category card showcase, and call-to-action ending. Uses neobrutalist design with bold shadows and vibrant colors.

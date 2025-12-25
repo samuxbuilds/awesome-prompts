@@ -1,11 +1,20 @@
 ---
-title: "Candid Nights: Embracing the City Vibe"
+title: 'Candid Nights: Embracing the City Vibe'
 category: 3d
-tags: ["portrait","urban","vibrant","nano-banana-pro"]
-author: "[@xmliisu](https://x.com/xmliisu)"
-author_url: "https://twitter.com/xmliisu"
-source_url: "https://twitter.com/xmliisu/status/1992985230303527355"
-preview: "/media/3d/pg-1992985230303527355.webp"
+tags:
+  - portrait
+  - urban
+  - vibrant
+  - realistic
+  - 3d
+  - neon
+  - minimalist
+  - dark
+  - colorful
+author: '[@xmliisu](https://x.com/xmliisu)'
+author_url: 'https://twitter.com/xmliisu'
+source_url: 'https://twitter.com/xmliisu/status/1992985230303527355'
+preview: /media/3d/pg-1992985230303527355.webp
 ---
 
 A vibrant night unfolds as a confident figure leans against a shiny yellow Ferrari, embodying urban allure. The nostalgic film grain adds depth to this gritty street portrait.

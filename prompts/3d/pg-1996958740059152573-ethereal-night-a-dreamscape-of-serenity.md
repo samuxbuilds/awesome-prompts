@@ -1,11 +1,14 @@
 ---
-title: "Ethereal Night: A Dreamscape of Serenity"
+title: 'Ethereal Night: A Dreamscape of Serenity'
 category: 3d
-tags: ["light","nano-banana-pro"]
-author: "[@Sophia_here12](https://x.com/Sophia_here12)"
-author_url: "https://twitter.com/Sophia_here12"
-source_url: "https://twitter.com/Sophia_here12/status/1996958740059152573"
-preview: "/media/3d/pg-1996958740059152573.webp"
+tags:
+  - light
+  - 3d
+  - landscape
+author: '[@Sophia_here12](https://x.com/Sophia_here12)'
+author_url: 'https://twitter.com/Sophia_here12'
+source_url: 'https://twitter.com/Sophia_here12/status/1996958740059152573'
+preview: /media/3d/pg-1996958740059152573.webp
 ---
 
 A tranquil figure graces a field of luminous blue blooms, captured under a twilight sky. Magic swirls in the air, illuminating her white dress and serene expression, crafting an enchanting moment of pure stillness.

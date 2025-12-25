@@ -1,11 +1,13 @@
 ---
-title: "Whispers of Wind: A Teal Dream Unveiled"
+title: 'Whispers of Wind: A Teal Dream Unveiled'
 category: portraits
-tags: ["nano-banana-pro"]
-author: "[@haniya_445](https://x.com/haniya_445)"
-author_url: "https://twitter.com/haniya_445"
-source_url: "https://twitter.com/haniya_445/status/1991712850344358255"
-preview: "/media/portraits/pg-1991712850344358255.webp"
+tags:
+  - portrait
+  - landscape
+author: '[@haniya_445](https://x.com/haniya_445)'
+author_url: 'https://twitter.com/haniya_445'
+source_url: 'https://twitter.com/haniya_445/status/1991712850344358255'
+preview: /media/portraits/pg-1991712850344358255.webp
 ---
 
 A serene moment captured in teal, where flowing fabric dances in the breeze. The woman's tranquil gaze meets the golden sky, embodying grace and ethereal beauty.

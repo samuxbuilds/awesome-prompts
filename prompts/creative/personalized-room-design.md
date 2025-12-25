@@ -1,9 +1,12 @@
 ---
-title: "Personalized Room Design"
+title: Personalized Room Design
 category: creative
-tags: ["3d", "cute"]
-author: "[@ZHO_ZHO_ZHO](https://x.com/ZHO_ZHO_ZHO)"
-preview: "/media/creative/personalized-room-design.webp"
+tags:
+  - 3d
+  - cute
+  - dark
+author: '[@ZHO_ZHO_ZHO](https://x.com/ZHO_ZHO_ZHO)'
+preview: /media/creative/personalized-room-design.webp
 ---
 
 Design a cozy bedroom in a cute 3D style with C4D-quality rendering, presented in an isometric view. The room includes a bed, bookshelf, sofa, green plants, a computer desk, and a computer setup. A framed painting hangs on the wall. Outside the window, a nighttime cityscape is visible with glowing buildings and a dark sky. All furniture and objects should have a soft, rounded, stylized design to match the cute 3D aesthetic. Lighting should be warm and inviting, creating a comfortable nighttime indoor atmosphere.

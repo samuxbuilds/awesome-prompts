@@ -1,11 +1,17 @@
 ---
-title: "Fluffing Up Creativity: A Logo Like No Other"
+title: 'Fluffing Up Creativity: A Logo Like No Other'
 category: 3d
-tags: ["3d","realistic","light","nano-banana-pro"]
-author: "[@icreatelife](https://x.com/icreatelife)"
-author_url: "https://twitter.com/icreatelife"
-source_url: "https://twitter.com/icreatelife/status/1992927023279268029"
-preview: "/media/3d/pg-1992927023279268029.webp"
+tags:
+  - 3d
+  - realistic
+  - light
+  - illustration
+  - minimalist
+  - dark
+author: '[@icreatelife](https://x.com/icreatelife)'
+author_url: 'https://twitter.com/icreatelife'
+source_url: 'https://twitter.com/icreatelife/status/1992927023279268029'
+preview: /media/3d/pg-1992927023279268029.webp
 ---
 
 Can a logo be cozy? This fluffy 3D creation defies convention, floating softly against a light gray backdrop, radiating warmth and whimsy with its hyperrealistic fur texture.

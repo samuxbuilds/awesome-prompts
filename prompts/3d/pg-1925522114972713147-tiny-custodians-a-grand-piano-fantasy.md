@@ -1,11 +1,16 @@
 ---
-title: "Tiny Custodians: A Grand Piano Fantasy"
+title: 'Tiny Custodians: A Grand Piano Fantasy'
 category: 3d
-tags: ["realistic","miniature","fantasy","light","nano-banana-pro"]
-author: "[@BeanieBlossom](https://x.com/BeanieBlossom)"
-author_url: "https://twitter.com/BeanieBlossom"
-source_url: "https://twitter.com/BeanieBlossom/status/1925522114972713147"
-preview: "/media/3d/pg-1925522114972713147.webp"
+tags:
+  - realistic
+  - miniature
+  - fantasy
+  - light
+  - 3d
+author: '[@BeanieBlossom](https://x.com/BeanieBlossom)'
+author_url: 'https://twitter.com/BeanieBlossom'
+source_url: 'https://twitter.com/BeanieBlossom/status/1925522114972713147'
+preview: /media/3d/pg-1925522114972713147.webp
 ---
 
 Gaze upon a miniature world where tiny figures meticulously polish a grand piano's keys, creating a whimsical yet hyper-realistic scene bathed in soft light.

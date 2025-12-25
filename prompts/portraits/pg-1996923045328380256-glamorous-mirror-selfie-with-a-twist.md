@@ -1,11 +1,18 @@
 ---
-title: "Glamorous Mirror Selfie with a Twist"
+title: Glamorous Mirror Selfie with a Twist
 category: portraits
-tags: ["selfie","art","nano-banana-pro"]
-author: "[@lexx_aura](https://x.com/lexx_aura)"
-author_url: "https://twitter.com/lexx_aura"
-source_url: "https://twitter.com/lexx_aura/status/1996923045328380256"
-preview: "/media/portraits/pg-1996923045328380256.webp"
+tags:
+  - selfie
+  - art
+  - realistic
+  - illustration
+  - minimalist
+  - portrait
+  - dark
+author: '[@lexx_aura](https://x.com/lexx_aura)'
+author_url: 'https://twitter.com/lexx_aura'
+source_url: 'https://twitter.com/lexx_aura/status/1996923045328380256'
+preview: /media/portraits/pg-1996923045328380256.webp
 ---
 
 An elegant night comes alive as two friends capture a playful moment, their whimsical box heads mirrored in sparkling reflections—who says parties can’t be fun?

@@ -1,11 +1,13 @@
 ---
-title: "Chic Coastal Vibes with the Google Nano Banana Pro"
+title: Chic Coastal Vibes with the Google Nano Banana Pro
 category: 3d
-tags: ["nano-banana-pro"]
-author: "[@saniaspeaks_](https://x.com/saniaspeaks_)"
-author_url: "https://twitter.com/saniaspeaks_"
-source_url: "https://twitter.com/saniaspeaks_/status/1995680081042440554"
-preview: "/media/3d/pg-1995680081042440554.webp"
+tags:
+  - realistic
+  - 3d
+author: '[@saniaspeaks_](https://x.com/saniaspeaks_)'
+author_url: 'https://twitter.com/saniaspeaks_'
+source_url: 'https://twitter.com/saniaspeaks_/status/1995680081042440554'
+preview: /media/3d/pg-1995680081042440554.webp
 ---
 
 Elegance meets innovation! A young woman exudes confidence against a breathtaking coastal backdrop, showcasing the power of the Google Nano Banana Pro on the Gemini app.

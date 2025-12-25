@@ -1,11 +1,18 @@
 ---
-title: "Illuminated Elegance: A Modern Noir Portrait"
+title: 'Illuminated Elegance: A Modern Noir Portrait'
 category: portraits
-tags: ["portrait","modern","minimal","dark","light","nano-banana-pro"]
-author: "[@ShreyaYadav___](https://x.com/ShreyaYadav___)"
-author_url: "https://twitter.com/ShreyaYadav___"
-source_url: "https://twitter.com/ShreyaYadav___/status/1991571952318964212"
-preview: "/media/portraits/pg-1991571952318964212.webp"
+tags:
+  - portrait
+  - modern
+  - minimal
+  - dark
+  - light
+  - realistic
+  - minimalist
+author: '[@ShreyaYadav___](https://x.com/ShreyaYadav___)'
+author_url: 'https://twitter.com/ShreyaYadav___'
+source_url: 'https://twitter.com/ShreyaYadav___/status/1991571952318964212'
+preview: /media/portraits/pg-1991571952318964212.webp
 ---
 
 A striking portrayal of light and shadow unfolds as a woman leans towards a glowing bar. Her half-lit visage whispers tales of mystery, embracing a stylish intimacy in a minimalistic dark setting.

@@ -1,11 +1,18 @@
 ---
-title: "Whimsical Harmony: Line-Drawing Life in a Cozy Space"
+title: 'Whimsical Harmony: Line-Drawing Life in a Cozy Space'
 category: 3d
-tags: ["minimal","light","nano-banana-pro"]
-author: "[@egeberkina](https://x.com/egeberkina)"
-author_url: "https://twitter.com/egeberkina"
-source_url: "https://twitter.com/egeberkina/status/1992521922689569018"
-preview: "/media/3d/pg-1992521922689569018.webp"
+tags:
+  - minimal
+  - light
+  - realistic
+  - 3d
+  - illustration
+  - minimalist
+  - dark
+author: '[@egeberkina](https://x.com/egeberkina)'
+author_url: 'https://twitter.com/egeberkina'
+source_url: 'https://twitter.com/egeberkina/status/1992521922689569018'
+preview: /media/3d/pg-1992521922689569018.webp
 ---
 
 Who knew minimalism could come alive? Delightful, clean line-drawings of people gracefully mingle with the scene, adding warmth and whimsy without overshadowing the environment.

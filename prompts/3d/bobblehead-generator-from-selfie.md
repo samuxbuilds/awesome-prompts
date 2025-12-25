@@ -1,9 +1,14 @@
 ---
-title: "Bobblehead Generator from Selfie"
+title: Bobblehead Generator from Selfie
 category: 3d
-tags: ["cartoon", "ai-art"]
-author: "[@thisdudelikesAI](https://x.com/thisdudelikesAI)"
-preview: "/media/3d/bobblehead-generator-from-selfie.webp"
+tags:
+  - cartoon
+  - ai-art
+  - realistic
+  - 3d
+  - portrait
+author: '[@thisdudelikesAI](https://x.com/thisdudelikesAI)'
+preview: /media/3d/bobblehead-generator-from-selfie.webp
 ---
 
 Turn this photo into a bobblehead: enlarge the head slightly, keep the face accurate and cartoonify the body. [Place it on a bookshelf].

@@ -1,11 +1,15 @@
 ---
-title: "Framing Beauty: A Portrait of Playfulness"
+title: 'Framing Beauty: A Portrait of Playfulness'
 category: 3d
-tags: ["portrait","nano-banana-pro"]
-author: "[@Just_sharon7](https://x.com/Just_sharon7)"
-author_url: "https://twitter.com/Just_sharon7"
-source_url: "https://twitter.com/Just_sharon7/status/1995108671026803004"
-preview: "/media/3d/pg-1995108671026803004.webp"
+tags:
+  - portrait
+  - realistic
+  - 3d
+  - dark
+author: '[@Just_sharon7](https://x.com/Just_sharon7)'
+author_url: 'https://twitter.com/Just_sharon7'
+source_url: 'https://twitter.com/Just_sharon7/status/1995108671026803004'
+preview: /media/3d/pg-1995108671026803004.webp
 ---
 
 A captivating close-up reveals a young woman playfully framing her eye, adorned with shimmering nails and a chic striped sweater.

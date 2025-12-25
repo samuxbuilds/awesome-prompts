@@ -1,9 +1,16 @@
 ---
-title: "Ultra-realistic 3D Game"
+title: Ultra-realistic 3D Game
 category: 3d
-tags: ["3d", "realistic", "poster", "icon", "character"]
-author: "[@ZHO_ZHO_ZHO](https://x.com/ZHO_ZHO_ZHO)"
-preview: "/media/3d/ultra-realistic-3d-game.webp"
+tags:
+  - 3d
+  - realistic
+  - poster
+  - icon
+  - character
+  - portrait
+  - dark
+author: '[@ZHO_ZHO_ZHO](https://x.com/ZHO_ZHO_ZHO)'
+preview: /media/3d/ultra-realistic-3d-game.webp
 ---
 
 Ultra-realistic 3D rendered image that replicates the character design of Natasha from Command & Conquer: Red Alert 3 in 2008, following the original model exactly. The scene is set in a dim and cluttered bedroom from the year 2008. The character is sitting on the carpet, facing an old-fashioned television that is playing Command & Conquer: Red Alert 3 and a game console controller.

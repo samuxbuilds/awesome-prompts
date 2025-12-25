@@ -1,11 +1,14 @@
 ---
-title: "Victorian Elegance Reimagined with Nano Banana Pro"
+title: Victorian Elegance Reimagined with Nano Banana Pro
 category: portraits
-tags: ["portrait","nano-banana-pro"]
-author: "[@chatgptpaglu](https://x.com/chatgptpaglu)"
-author_url: "https://twitter.com/chatgptpaglu"
-source_url: "https://twitter.com/chatgptpaglu/status/1992839532622885276"
-preview: "/media/portraits/pg-1992839532622885276.webp"
+tags:
+  - portrait
+  - realistic
+  - 3d
+author: '[@chatgptpaglu](https://x.com/chatgptpaglu)'
+author_url: 'https://twitter.com/chatgptpaglu'
+source_url: 'https://twitter.com/chatgptpaglu/status/1992839532622885276'
+preview: /media/portraits/pg-1992839532622885276.webp
 ---
 
 A vision of grace, this portrait captures a woman adorned in a stunning teal Victorian gown, her soft gaze drifting into the lush, dreamlike background.

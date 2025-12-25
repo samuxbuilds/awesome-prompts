@@ -1,11 +1,15 @@
 ---
-title: "Banana Vibes: The Ultimate Bathroom Selfie!"
+title: 'Banana Vibes: The Ultimate Bathroom Selfie!'
 category: portraits
-tags: ["selfie","nano-banana-pro"]
-author: "[@YaseenK7212](https://x.com/YaseenK7212)"
-author_url: "https://twitter.com/YaseenK7212"
-source_url: "https://twitter.com/YaseenK7212/status/1996257612820521442"
-preview: "/media/portraits/pg-1996257612820521442.webp"
+tags:
+  - selfie
+  - realistic
+  - minimalist
+  - portrait
+author: '[@YaseenK7212](https://x.com/YaseenK7212)'
+author_url: 'https://twitter.com/YaseenK7212'
+source_url: 'https://twitter.com/YaseenK7212/status/1996257612820521442'
+preview: /media/portraits/pg-1996257612820521442.webp
 ---
 
 Caught in a moment of playful confidence, this NYC bathroom selfie radiates a blend of innocence and allure. With doe-like eyes and a cheeky outfit, every detail tells a story!

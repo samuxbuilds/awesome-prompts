@@ -1,11 +1,13 @@
 ---
-title: "Epic Drift: A Humorous Fusion of History and Speed"
+title: 'Epic Drift: A Humorous Fusion of History and Speed'
 category: portraits
-tags: ["vintage","nano-banana-pro"]
-author: "[@dotey](https://x.com/dotey)"
-author_url: "https://twitter.com/dotey"
-source_url: "https://twitter.com/dotey/status/1991790313799606651"
-preview: "/media/portraits/pg-1991790313799606651.webp"
+tags:
+  - vintage
+  - portrait
+author: '[@dotey](https://x.com/dotey)'
+author_url: 'https://twitter.com/dotey'
+source_url: 'https://twitter.com/dotey/status/1991790313799606651'
+preview: /media/portraits/pg-1991790313799606651.webp
 ---
 
 Who knew ancient warriors had such a flair for the fast lane? A dazzling sunset sets the stage as Liu Bei deftly maneuvers a red BMW, while his companions add comedic flair to this dynamic chase against Lü Bu on a vintage Harley!

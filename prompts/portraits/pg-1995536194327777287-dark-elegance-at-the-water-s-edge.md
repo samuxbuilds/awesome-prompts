@@ -1,11 +1,14 @@
 ---
-title: "Dark Elegance at the Water's Edge"
+title: Dark Elegance at the Water's Edge
 category: portraits
-tags: ["portrait","dark","nano-banana-pro"]
-author: "[@YaseenK7212](https://x.com/YaseenK7212)"
-author_url: "https://twitter.com/YaseenK7212"
-source_url: "https://twitter.com/YaseenK7212/status/1995536194327777287"
-preview: "/media/portraits/pg-1995536194327777287.webp"
+tags:
+  - portrait
+  - dark
+  - realistic
+author: '[@YaseenK7212](https://x.com/YaseenK7212)'
+author_url: 'https://twitter.com/YaseenK7212'
+source_url: 'https://twitter.com/YaseenK7212/status/1995536194327777287'
+preview: /media/portraits/pg-1995536194327777287.webp
 ---
 
 A hauntingly beautiful portrait unfolds by the misty lakeside, where the subject's gaze pierces through the somber grey. Black roses contrast against her pale skin and backless top, exuding gothic allure.

@@ -1,11 +1,16 @@
 ---
-title: "Strength on the Road: Man and Dog in Cinematic Harmony"
+title: 'Strength on the Road: Man and Dog in Cinematic Harmony'
 category: portraits
-tags: ["light","nano-banana-pro"]
-author: "[@Zar_xplorer](https://x.com/Zar_xplorer)"
-author_url: "https://twitter.com/Zar_xplorer"
-source_url: "https://twitter.com/Zar_xplorer/status/1995815931398779281"
-preview: "/media/portraits/pg-1995815931398779281.webp"
+tags:
+  - light
+  - realistic
+  - portrait
+  - landscape
+  - dark
+author: '[@Zar_xplorer](https://x.com/Zar_xplorer)'
+author_url: 'https://twitter.com/Zar_xplorer'
+source_url: 'https://twitter.com/Zar_xplorer/status/1995815931398779281'
+preview: /media/portraits/pg-1995815931398779281.webp
 ---
 
 A rugged landscape framed by golden hour light showcases a man in a black vest, embodying resilience. Beside him, his loyal German Shepherd reflects unwavering companionship amidst swirling dust.

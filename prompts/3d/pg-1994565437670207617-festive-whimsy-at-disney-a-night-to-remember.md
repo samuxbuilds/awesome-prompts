@@ -1,11 +1,16 @@
 ---
-title: "Festive Whimsy at Disney: A Night to Remember"
+title: 'Festive Whimsy at Disney: A Night to Remember'
 category: 3d
-tags: ["light","nano-banana-pro"]
-author: "[@SimplyAnnisa](https://x.com/SimplyAnnisa)"
-author_url: "https://twitter.com/SimplyAnnisa"
-source_url: "https://twitter.com/SimplyAnnisa/status/1994565437670207617"
-preview: "/media/3d/pg-1994565437670207617.webp"
+tags:
+  - light
+  - realistic
+  - 3d
+  - portrait
+  - colorful
+author: '[@SimplyAnnisa](https://x.com/SimplyAnnisa)'
+author_url: 'https://twitter.com/SimplyAnnisa'
+source_url: 'https://twitter.com/SimplyAnnisa/status/1994565437670207617'
+preview: /media/3d/pg-1994565437670207617.webp
 ---
 
 A young woman radiates holiday cheer, posing with her plush Minnie Mouse amidst twinkling lights and garlands. The joyful scene captures the magic of Christmas at Disney!

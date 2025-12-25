@@ -1,11 +1,14 @@
 ---
-title: "Chill Vibes: A Frosty Fusion of Neon and Retro"
+title: 'Chill Vibes: A Frosty Fusion of Neon and Retro'
 category: portraits
-tags: ["neon","nano-banana-pro"]
-author: "[@chatgptpaglu](https://x.com/chatgptpaglu)"
-author_url: "https://twitter.com/chatgptpaglu"
-source_url: "https://twitter.com/chatgptpaglu/status/1992885627109470237"
-preview: "/media/portraits/pg-1992885627109470237.webp"
+tags:
+  - neon
+  - vintage
+  - portrait
+author: '[@chatgptpaglu](https://x.com/chatgptpaglu)'
+author_url: 'https://twitter.com/chatgptpaglu'
+source_url: 'https://twitter.com/chatgptpaglu/status/1992885627109470237'
+preview: /media/portraits/pg-1992885627109470237.webp
 ---
 
 Amidst a winter wonderland, she embodies a sharp retro-y2k aesthetic. Frost-kissed lashes and sequins sparkle under the city glow—this scene radiates cool elegance!

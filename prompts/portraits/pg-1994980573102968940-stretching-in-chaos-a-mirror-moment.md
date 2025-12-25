@@ -1,11 +1,18 @@
 ---
-title: "Stretching in Chaos: A Mirror Moment"
+title: 'Stretching in Chaos: A Mirror Moment'
 category: portraits
-tags: ["nano-banana-pro"]
-author: "[@IamEmily2050](https://x.com/IamEmily2050)"
-author_url: "https://twitter.com/IamEmily2050"
-source_url: "https://twitter.com/IamEmily2050/status/1994980573102968940"
-preview: "/media/portraits/pg-1994980573102968940.webp"
+tags:
+  - realistic
+  - 3d
+  - illustration
+  - minimalist
+  - portrait
+  - landscape
+  - dark
+author: '[@IamEmily2050](https://x.com/IamEmily2050)'
+author_url: 'https://twitter.com/IamEmily2050'
+source_url: 'https://twitter.com/IamEmily2050/status/1994980573102968940'
+preview: /media/portraits/pg-1994980573102968940.webp
 ---
 
 Did you remember to stretch today? A young woman strikes a perfect standing split amidst her cozy, cluttered bedroom, capturing authenticity in everyday life.

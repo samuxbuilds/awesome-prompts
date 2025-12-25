@@ -1,11 +1,15 @@
 ---
-title: "Elegance in Red: A Modern Fashion Statement"
+title: 'Elegance in Red: A Modern Fashion Statement'
 category: portraits
-tags: ["modern","fashion","nano-banana-pro"]
-author: "[@aleenaamiir](https://x.com/aleenaamiir)"
-author_url: "https://twitter.com/aleenaamiir"
-source_url: "https://twitter.com/aleenaamiir/status/1996536685459607688"
-preview: "/media/portraits/pg-1996536685459607688.webp"
+tags:
+  - modern
+  - fashion
+  - portrait
+  - dark
+author: '[@aleenaamiir](https://x.com/aleenaamiir)'
+author_url: 'https://twitter.com/aleenaamiir'
+source_url: 'https://twitter.com/aleenaamiir/status/1996536685459607688'
+preview: /media/portraits/pg-1996536685459607688.webp
 ---
 
 Bold and beautiful! This young woman embodies modern elegance in a striking red dress, poised effortlessly against a textured white backdrop. Her chic accessories elevate the look to pure sophistication.

@@ -1,9 +1,14 @@
 ---
-title: "Social Media Frame Integration"
+title: Social Media Frame Integration
 category: posters
-tags: ["3d", "chibi", "icon", "character"]
-author: "[@dotey](https://x.com/dotey)"
-preview: "/media/posters/social-media-frame-integration.webp"
+tags:
+  - 3d
+  - chibi
+  - icon
+  - character
+  - realistic
+author: '[@dotey](https://x.com/dotey)'
+preview: /media/posters/social-media-frame-integration.webp
 ---
 
 Create a stylized 3D chibi character based on the attached photo, accurately preserving the subject’s facial features and clothing details. The character is making a finger heart with the left hand (with a red heart element above the fingers) and playfully sitting on the edge of a giant Instagram frame, with both legs hanging outside the frame. The top of the frame displays the username “Beauty,” and various social media icons (like, comment, share) float around the scene.

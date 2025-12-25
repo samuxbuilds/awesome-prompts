@@ -1,11 +1,16 @@
 ---
-title: "Gothic Glamour Meets Nature's Touch"
+title: Gothic Glamour Meets Nature's Touch
 category: 3d
-tags: ["nature","nano-banana-pro"]
-author: "[@ShreyaYadav___](https://x.com/ShreyaYadav___)"
-author_url: "https://twitter.com/ShreyaYadav___"
-source_url: "https://twitter.com/ShreyaYadav___/status/1996239377178275974"
-preview: "/media/3d/pg-1996239377178275974.webp"
+tags:
+  - nature
+  - realistic
+  - 3d
+  - portrait
+  - landscape
+author: '[@ShreyaYadav___](https://x.com/ShreyaYadav___)'
+author_url: 'https://twitter.com/ShreyaYadav___'
+source_url: 'https://twitter.com/ShreyaYadav___/status/1996239377178275974'
+preview: /media/3d/pg-1996239377178275974.webp
 ---
 
 Elegance and intrigue collide as a stunning figure graces a weathered brick wall. The interplay of lace and ivy creates a captivating scene steeped in romantic charm.

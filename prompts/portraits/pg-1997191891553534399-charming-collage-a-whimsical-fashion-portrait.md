@@ -1,11 +1,16 @@
 ---
-title: "Charming Collage: A Whimsical Fashion Portrait"
+title: 'Charming Collage: A Whimsical Fashion Portrait'
 category: portraits
-tags: ["portrait","fashion","colorful","vibrant","nano-banana-pro"]
-author: "[@dotey](https://x.com/dotey)"
-author_url: "https://twitter.com/dotey"
-source_url: "https://twitter.com/dotey/status/1997191891553534399"
-preview: "/media/portraits/pg-1997191891553534399.webp"
+tags:
+  - portrait
+  - fashion
+  - colorful
+  - vibrant
+  - realistic
+author: '[@dotey](https://x.com/dotey)'
+author_url: 'https://twitter.com/dotey'
+source_url: 'https://twitter.com/dotey/status/1997191891553534399'
+preview: /media/portraits/pg-1997191891553534399.webp
 ---
 
 A vibrant portrait bursts to life, blending trendy styles with playful stickers. Lollipop in hand, she radiates youthful energy amid a colorful corkboard backdrop!

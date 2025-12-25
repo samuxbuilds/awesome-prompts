@@ -1,9 +1,15 @@
 ---
-title: "Financial Sankey Diagram Visualization"
+title: Financial Sankey Diagram Visualization
 category: creative
-tags: ["minimalist", "icon", "logo", "neon", "professional"]
-author: "[@nanobanana-pro](https://x.com/nanobanana-pro)"
-preview: "/media/creative/nb-financial-sankey-diagram-visualization.webp"
+tags:
+  - minimalist
+  - icon
+  - logo
+  - neon
+  - professional
+  - illustration
+author: '[@nanobanana-pro](https://x.com/nanobanana-pro)'
+preview: /media/creative/nb-financial-sankey-diagram-visualization.webp
 ---
 
 *Create a professional financial Sankey diagram*

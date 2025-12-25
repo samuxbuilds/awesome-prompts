@@ -1,11 +1,17 @@
 ---
-title: "Cinematic Solitude: A Stylish Retreat"
+title: 'Cinematic Solitude: A Stylish Retreat'
 category: 3d
-tags: ["vintage","light","nano-banana-pro"]
-author: "[@Harboris_27](https://x.com/Harboris_27)"
-author_url: "https://twitter.com/Harboris_27"
-source_url: "https://twitter.com/Harboris_27/status/1997136725143916720"
-preview: "/media/3d/pg-1997136725143916720.webp"
+tags:
+  - vintage
+  - light
+  - 3d
+  - illustration
+  - minimalist
+  - dark
+author: '[@Harboris_27](https://x.com/Harboris_27)'
+author_url: 'https://twitter.com/Harboris_27'
+source_url: 'https://twitter.com/Harboris_27/status/1997136725143916720'
+preview: /media/3d/pg-1997136725143916720.webp
 ---
 
 In a moody haven, a solitary figure embodies elegance amidst shadows. With vintage charm and soft lighting, this scene whispers stories of quiet power and stylish reflection.

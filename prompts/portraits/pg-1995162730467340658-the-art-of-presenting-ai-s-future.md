@@ -1,11 +1,18 @@
 ---
-title: "The Art of Presenting AI's Future"
+title: The Art of Presenting AI's Future
 category: portraits
-tags: ["art","vibrant","nano-banana-pro"]
-author: "[@umesh_ai](https://x.com/umesh_ai)"
-author_url: "https://twitter.com/umesh_ai"
-source_url: "https://twitter.com/umesh_ai/status/1995162730467340658"
-preview: "/media/portraits/pg-1995162730467340658.webp"
+tags:
+  - art
+  - vibrant
+  - realistic
+  - illustration
+  - portrait
+  - dark
+  - colorful
+author: '[@umesh_ai](https://x.com/umesh_ai)'
+author_url: 'https://twitter.com/umesh_ai'
+source_url: 'https://twitter.com/umesh_ai/status/1995162730467340658'
+preview: /media/portraits/pg-1995162730467340658.webp
 ---
 
 A sleek conference room buzzes with energy as ideas flow from a vivid blue board. Handwritten insights spark a vibrant discussion on AI’s role in healthcare.

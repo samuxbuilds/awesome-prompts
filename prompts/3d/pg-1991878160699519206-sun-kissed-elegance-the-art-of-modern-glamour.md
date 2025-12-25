@@ -1,11 +1,17 @@
 ---
-title: "Sun-Kissed Elegance: The Art of Modern Glamour"
+title: 'Sun-Kissed Elegance: The Art of Modern Glamour'
 category: 3d
-tags: ["art","modern","nano-banana-pro"]
-author: "[@saniaspeaks_](https://x.com/saniaspeaks_)"
-author_url: "https://twitter.com/saniaspeaks_"
-source_url: "https://twitter.com/saniaspeaks_/status/1991878160699519206"
-preview: ""
+tags:
+  - art
+  - modern
+  - realistic
+  - minimalist
+  - portrait
+  - dark
+author: '[@saniaspeaks_](https://x.com/saniaspeaks_)'
+author_url: 'https://twitter.com/saniaspeaks_'
+source_url: 'https://twitter.com/saniaspeaks_/status/1991878160699519206'
+preview: ''
 ---
 
 Bathe in the golden hour's embrace as a striking figure radiates allure in a satin slip dress. This scene captures modern sophistication with a painterly glow and creamy bokeh, transforming a chic loft into a visual masterpiece.

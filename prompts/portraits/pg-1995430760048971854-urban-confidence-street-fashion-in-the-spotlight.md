@@ -1,11 +1,19 @@
 ---
-title: "Urban Confidence: Street Fashion in the Spotlight"
+title: 'Urban Confidence: Street Fashion in the Spotlight'
 category: portraits
-tags: ["urban","fashion","light","vibrant","nano-banana-pro"]
-author: "[@Taaruk_](https://x.com/Taaruk_)"
-author_url: "https://twitter.com/Taaruk_"
-source_url: "https://twitter.com/Taaruk_/status/1995430760048971854"
-preview: "/media/portraits/pg-1995430760048971854.webp"
+tags:
+  - urban
+  - fashion
+  - light
+  - vibrant
+  - realistic
+  - portrait
+  - dark
+  - colorful
+author: '[@Taaruk_](https://x.com/Taaruk_)'
+author_url: 'https://twitter.com/Taaruk_'
+source_url: 'https://twitter.com/Taaruk_/status/1995430760048971854'
+preview: /media/portraits/pg-1995430760048971854.webp
 ---
 
 Strutting down slick pavement, this stylish young man radiates effortless cool. His beige jacket and baggy jeans pop against a vibrant urban backdrop, bathed in warm sunlight.

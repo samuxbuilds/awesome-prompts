@@ -1,11 +1,16 @@
 ---
-title: "Chasing Sunbeams: A Serene Selfie Moment"
+title: 'Chasing Sunbeams: A Serene Selfie Moment'
 category: portraits
-tags: ["selfie","light","nano-banana-pro"]
-author: "[@lexx_aura](https://x.com/lexx_aura)"
-author_url: "https://twitter.com/lexx_aura"
-source_url: "https://twitter.com/lexx_aura/status/1995485429265575954"
-preview: "/media/portraits/pg-1995485429265575954.webp"
+tags:
+  - selfie
+  - light
+  - minimalist
+  - portrait
+  - dark
+author: '[@lexx_aura](https://x.com/lexx_aura)'
+author_url: 'https://twitter.com/lexx_aura'
+source_url: 'https://twitter.com/lexx_aura/status/1995485429265575954'
+preview: /media/portraits/pg-1995485429265575954.webp
 ---
 
 A radiant young woman captures a peaceful moment, her warm glow and gentle smile inviting all to share in her relaxed vibe. Sunlight dances on her freckles, enhancing the serene atmosphere.

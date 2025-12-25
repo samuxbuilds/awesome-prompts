@@ -1,11 +1,15 @@
 ---
-title: "Urban Vibes: A Burst of Color and Style"
+title: 'Urban Vibes: A Burst of Color and Style'
 category: portraits
-tags: ["urban","nano-banana-pro"]
-author: "[@Harboris_27](https://x.com/Harboris_27)"
-author_url: "https://twitter.com/Harboris_27"
-source_url: "https://twitter.com/Harboris_27/status/1995096976707428694"
-preview: "/media/portraits/pg-1995096976707428694.webp"
+tags:
+  - urban
+  - realistic
+  - portrait
+  - colorful
+author: '[@Harboris_27](https://x.com/Harboris_27)'
+author_url: 'https://twitter.com/Harboris_27'
+source_url: 'https://twitter.com/Harboris_27/status/1995096976707428694'
+preview: /media/portraits/pg-1995096976707428694.webp
 ---
 
 Street style reaches new heights! This striking outfit, with its oversized gradient hoodie, high-waisted cargo pants, and classic sneakers, radiates urban energy and creativity.

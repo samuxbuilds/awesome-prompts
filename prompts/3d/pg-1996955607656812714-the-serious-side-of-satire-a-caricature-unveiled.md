@@ -1,11 +1,15 @@
 ---
-title: "The Serious Side of Satire: A Caricature Unveiled"
+title: 'The Serious Side of Satire: A Caricature Unveiled'
 category: 3d
-tags: ["nano-banana-pro"]
-author: "[@ShreyaYadav___](https://x.com/ShreyaYadav___)"
-author_url: "https://twitter.com/ShreyaYadav___"
-source_url: "https://twitter.com/ShreyaYadav___/status/1996955607656812714"
-preview: "/media/3d/pg-1996955607656812714.webp"
+tags:
+  - 3d
+  - illustration
+  - portrait
+  - black-and-white
+author: '[@ShreyaYadav___](https://x.com/ShreyaYadav___)'
+author_url: 'https://twitter.com/ShreyaYadav___'
+source_url: 'https://twitter.com/ShreyaYadav___/status/1996955607656812714'
+preview: /media/3d/pg-1996955607656812714.webp
 ---
 
 Bold lines and exaggerated features tell a powerful story in this hand-drawn caricature. The intense expression of our middle-aged figure captures a moment that's both serious and compelling.

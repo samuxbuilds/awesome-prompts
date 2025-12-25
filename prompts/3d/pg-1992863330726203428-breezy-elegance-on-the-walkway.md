@@ -1,11 +1,18 @@
 ---
-title: "Breezy Elegance on the Walkway"
+title: Breezy Elegance on the Walkway
 category: 3d
-tags: ["fashion","light","nano-banana-pro"]
-author: "[@xmiiru_](https://x.com/xmiiru_)"
-author_url: "https://twitter.com/xmiiru_"
-source_url: "https://twitter.com/xmiiru_/status/1992863330726203428"
-preview: "/media/3d/pg-1992863330726203428.webp"
+tags:
+  - fashion
+  - light
+  - realistic
+  - 3d
+  - minimalist
+  - portrait
+  - dark
+author: '[@xmiiru_](https://x.com/xmiiru_)'
+author_url: 'https://twitter.com/xmiiru_'
+source_url: 'https://twitter.com/xmiiru_/status/1992863330726203428'
+preview: /media/3d/pg-1992863330726203428.webp
 ---
 
 A soft glow envelops this chic figure, balancing casual style with high-fashion flair. Sunlit highlights dance on her curls, creating a dreamlike aura.

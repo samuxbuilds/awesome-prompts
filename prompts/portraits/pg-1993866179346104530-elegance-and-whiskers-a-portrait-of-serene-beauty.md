@@ -1,11 +1,15 @@
 ---
-title: "Elegance and Whiskers: A Portrait of Serene Beauty"
+title: 'Elegance and Whiskers: A Portrait of Serene Beauty'
 category: portraits
-tags: ["portrait","art","vintage","nano-banana-pro"]
-author: "[@chatgptpaglu](https://x.com/chatgptpaglu)"
-author_url: "https://twitter.com/chatgptpaglu"
-source_url: "https://twitter.com/chatgptpaglu/status/1993866179346104530"
-preview: "/media/portraits/pg-1993866179346104530.webp"
+tags:
+  - portrait
+  - art
+  - vintage
+  - dark
+author: '[@chatgptpaglu](https://x.com/chatgptpaglu)'
+author_url: 'https://twitter.com/chatgptpaglu'
+source_url: 'https://twitter.com/chatgptpaglu/status/1993866179346104530'
+preview: /media/portraits/pg-1993866179346104530.webp
 ---
 
 In a vintage haven, a dreamy woman in rust-orange drapes gracefully beside her calm orange cat, enveloped by warm hues and artistic charm. A serene moment captured!

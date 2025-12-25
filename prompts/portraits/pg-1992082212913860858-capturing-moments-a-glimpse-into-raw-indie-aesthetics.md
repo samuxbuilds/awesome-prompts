@@ -1,11 +1,13 @@
 ---
-title: "Capturing Moments: A Glimpse into Raw Indie Aesthetics"
+title: 'Capturing Moments: A Glimpse into Raw Indie Aesthetics'
 category: portraits
-tags: ["nano-banana-pro"]
-author: "[@kingofdairyque](https://x.com/kingofdairyque)"
-author_url: "https://twitter.com/kingofdairyque"
-source_url: "https://twitter.com/kingofdairyque/status/1992082212913860858"
-preview: "/media/portraits/pg-1992082212913860858.webp"
+tags:
+  - portrait
+  - dark
+author: '[@kingofdairyque](https://x.com/kingofdairyque)'
+author_url: 'https://twitter.com/kingofdairyque'
+source_url: 'https://twitter.com/kingofdairyque/status/1992082212913860858'
+preview: /media/portraits/pg-1992082212913860858.webp
 ---
 
 A knowing smirk and scattered memories—this young woman embodies the spirit of indie film. The grainy texture and cluttered background pull you into her world.

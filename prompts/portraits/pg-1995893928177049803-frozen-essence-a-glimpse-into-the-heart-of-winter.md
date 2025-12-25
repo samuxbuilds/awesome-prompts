@@ -1,11 +1,15 @@
 ---
-title: "Frozen Essence: A Glimpse into the Heart of Winter"
+title: 'Frozen Essence: A Glimpse into the Heart of Winter'
 category: portraits
-tags: ["portrait","art","light","nano-banana-pro"]
-author: "[@ChillaiKalan__](https://x.com/ChillaiKalan__)"
-author_url: "https://twitter.com/ChillaiKalan__"
-source_url: "https://twitter.com/ChillaiKalan__/status/1995893928177049803"
-preview: "/media/portraits/pg-1995893928177049803.webp"
+tags:
+  - portrait
+  - art
+  - light
+  - realistic
+author: '[@ChillaiKalan__](https://x.com/ChillaiKalan__)'
+author_url: 'https://twitter.com/ChillaiKalan__'
+source_url: 'https://twitter.com/ChillaiKalan__/status/1995893928177049803'
+preview: /media/portraits/pg-1995893928177049803.webp
 ---
 
 How does warmth bloom amid frost? This striking portrait captures a woman's deep gaze framed by icy elegance, where the sun’s golden rays kiss her face, revealing a tapestry of light and chill.

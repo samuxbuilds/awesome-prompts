@@ -1,11 +1,18 @@
 ---
-title: "Empowerment in Every Curve: A Portrait of Radiance"
+title: 'Empowerment in Every Curve: A Portrait of Radiance'
 category: 3d
-tags: ["portrait","vibrant","nano-banana-pro"]
-author: "[@IqraSaifiii](https://x.com/IqraSaifiii)"
-author_url: "https://twitter.com/IqraSaifiii"
-source_url: "https://twitter.com/IqraSaifiii/status/1994544453655433705"
-preview: "/media/3d/pg-1994544453655433705.webp"
+tags:
+  - portrait
+  - vibrant
+  - realistic
+  - 3d
+  - minimalist
+  - dark
+  - colorful
+author: '[@IqraSaifiii](https://x.com/IqraSaifiii)'
+author_url: 'https://twitter.com/IqraSaifiii'
+source_url: 'https://twitter.com/IqraSaifiii/status/1994544453655433705'
+preview: /media/3d/pg-1994544453655433705.webp
 ---
 
 A confident young woman, framed by a brilliant sky, radiates positivity. Her playful peace sign and vibrant attire capture a moment of youthful energy and empowerment.

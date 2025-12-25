@@ -1,11 +1,15 @@
 ---
-title: "Golden Hour Bliss: Crochet Elegance by the Shore"
+title: 'Golden Hour Bliss: Crochet Elegance by the Shore'
 category: portraits
-tags: ["pastel","nano-banana-pro"]
-author: "[@IqraSaifiii](https://x.com/IqraSaifiii)"
-author_url: "https://twitter.com/IqraSaifiii"
-source_url: "https://twitter.com/IqraSaifiii/status/1994478187133432308"
-preview: "/media/portraits/pg-1994478187133432308.webp"
+tags:
+  - pastel
+  - minimalist
+  - portrait
+  - dark
+author: '[@IqraSaifiii](https://x.com/IqraSaifiii)'
+author_url: 'https://twitter.com/IqraSaifiii'
+source_url: 'https://twitter.com/IqraSaifiii/status/1994478187133432308'
+preview: /media/portraits/pg-1994478187133432308.webp
 ---
 
 Basking in the sunset glow, a serene woman captures beachside tranquility. Her delicate crochet cardigan and pastel accents harmonize beautifully with the gentle waves.

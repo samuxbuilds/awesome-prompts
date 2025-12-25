@@ -1,11 +1,16 @@
 ---
-title: "Reflections of Growth: The Cartoon Within Us"
+title: 'Reflections of Growth: The Cartoon Within Us'
 category: 3d
-tags: ["cartoon","art","nano-banana-pro"]
-author: "[@xmiiru_](https://x.com/xmiiru_)"
-author_url: "https://twitter.com/xmiiru_"
-source_url: "https://twitter.com/xmiiru_/status/1997182817235583293"
-preview: "/media/3d/pg-1997182817235583293.webp"
+tags:
+  - cartoon
+  - art
+  - realistic
+  - 3d
+  - portrait
+author: '[@xmiiru_](https://x.com/xmiiru_)'
+author_url: 'https://twitter.com/xmiiru_'
+source_url: 'https://twitter.com/xmiiru_/status/1997182817235583293'
+preview: /media/3d/pg-1997182817235583293.webp
 ---
 
 A stunning street scene captures a woman touching a shop window, where her cartoon doppelgänger sparks curiosity. What would your animated self reveal?

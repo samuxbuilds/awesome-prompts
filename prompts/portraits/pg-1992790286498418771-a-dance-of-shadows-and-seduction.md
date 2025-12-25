@@ -1,11 +1,16 @@
 ---
-title: "A Dance of Shadows and Seduction"
+title: A Dance of Shadows and Seduction
 category: portraits
-tags: ["light","nano-banana-pro"]
-author: "[@xmliisu](https://x.com/xmliisu)"
-author_url: "https://twitter.com/xmliisu"
-source_url: "https://twitter.com/xmliisu/status/1992790286498418771"
-preview: "/media/portraits/pg-1992790286498418771.webp"
+tags:
+  - light
+  - realistic
+  - portrait
+  - dark
+  - black-and-white
+author: '[@xmliisu](https://x.com/xmliisu)'
+author_url: 'https://twitter.com/xmliisu'
+source_url: 'https://twitter.com/xmliisu/status/1992790286498418771'
+preview: /media/portraits/pg-1992790286498418771.webp
 ---
 
 In a dimly lit ballroom, elegance reigns as a confident beauty captivates. Her off-the-shoulder gown and lace gloves blend seduction with gothic allure, while flickering candlelight casts enchanting shadows.

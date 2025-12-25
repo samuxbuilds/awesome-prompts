@@ -1,11 +1,17 @@
 ---
-title: "Radiant Youth: A Retro Vibe Portrait"
+title: 'Radiant Youth: A Retro Vibe Portrait'
 category: portraits
-tags: ["portrait","vibrant","nano-banana-pro"]
-author: "[@SimplyAnnisa](https://x.com/SimplyAnnisa)"
-author_url: "https://twitter.com/SimplyAnnisa"
-source_url: "https://twitter.com/SimplyAnnisa/status/1994767240844161198"
-preview: "/media/portraits/pg-1994767240844161198.webp"
+tags:
+  - portrait
+  - vibrant
+  - realistic
+  - vintage
+  - dark
+  - colorful
+author: '[@SimplyAnnisa](https://x.com/SimplyAnnisa)'
+author_url: 'https://twitter.com/SimplyAnnisa'
+source_url: 'https://twitter.com/SimplyAnnisa/status/1994767240844161198'
+preview: /media/portraits/pg-1994767240844161198.webp
 ---
 
 Captured in a flash of brilliance, this portrait showcases a teenage girl with enchanting features, vibrant makeup, and a playful Sanrio touch, embodying Y2K nostalgia.

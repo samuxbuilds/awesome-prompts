@@ -1,11 +1,17 @@
 ---
-title: "Charming Vintage Vibes with Gemini Nano Banana 3.0"
+title: Charming Vintage Vibes with Gemini Nano Banana 3.0
 category: 3d
-tags: ["vintage","modern","nano-banana-pro"]
-author: "[@ZaraIrahh](https://x.com/ZaraIrahh)"
-author_url: "https://twitter.com/ZaraIrahh"
-source_url: "https://twitter.com/ZaraIrahh/status/1994256542238167068"
-preview: "/media/3d/pg-1994256542238167068.webp"
+tags:
+  - vintage
+  - modern
+  - realistic
+  - 3d
+  - minimalist
+  - dark
+author: '[@ZaraIrahh](https://x.com/ZaraIrahh)'
+author_url: 'https://twitter.com/ZaraIrahh'
+source_url: 'https://twitter.com/ZaraIrahh/status/1994256542238167068'
+preview: /media/3d/pg-1994256542238167068.webp
 ---
 
 Sunkissed warmth envelops a playful figure on a cozy sofa, embodying effortless style. The 'FRISTO' tee and glowy makeup radiate a nostalgic charm, blending modern flair with vintage comfort.

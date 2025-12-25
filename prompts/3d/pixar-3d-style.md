@@ -1,9 +1,13 @@
 ---
-title: "Pixar 3D Style"
+title: Pixar 3D Style
 category: 3d
-tags: ["3d", "pixar"]
-author: "AnimeAI"
-preview: "/media/3d/pixar-3d-style.webp"
+tags:
+  - 3d
+  - pixar
+  - realistic
+  - anime
+author: AnimeAI
+preview: /media/3d/pixar-3d-style.webp
 ---
 
 Redraw this photo in Pixar 3D style

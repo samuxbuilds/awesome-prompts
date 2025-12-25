@@ -1,11 +1,17 @@
 ---
-title: "Retro Vibes: A 90s Portrait Revival"
+title: 'Retro Vibes: A 90s Portrait Revival'
 category: portraits
-tags: ["portrait","vintage","light","nano-banana-pro"]
-author: "[@john_my07](https://x.com/john_my07)"
-author_url: "https://twitter.com/john_my07"
-source_url: "https://twitter.com/john_my07/status/1991522283354300702"
-preview: "/media/portraits/pg-1991522283354300702.webp"
+tags:
+  - portrait
+  - vintage
+  - light
+  - realistic
+  - minimalist
+  - dark
+author: '[@john_my07](https://x.com/john_my07)'
+author_url: 'https://twitter.com/john_my07'
+source_url: 'https://twitter.com/john_my07/status/1991522283354300702'
+preview: /media/portraits/pg-1991522283354300702.webp
 ---
 
 Captured in warm tones, this 90s-style portrait radiates nostalgia. The cozy room, adorned with vintage clippings, highlights his elegant pose under the classic camera flash.

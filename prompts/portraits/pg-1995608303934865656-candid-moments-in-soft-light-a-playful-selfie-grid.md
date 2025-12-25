@@ -1,11 +1,16 @@
 ---
-title: "Candid Moments in Soft Light: A Playful Selfie Grid"
+title: 'Candid Moments in Soft Light: A Playful Selfie Grid'
 category: portraits
-tags: ["selfie","light","nano-banana-pro"]
-author: "[@IqraSaifiii](https://x.com/IqraSaifiii)"
-author_url: "https://twitter.com/IqraSaifiii"
-source_url: "https://twitter.com/IqraSaifiii/status/1995608303934865656"
-preview: "/media/portraits/pg-1995608303934865656.webp"
+tags:
+  - selfie
+  - light
+  - minimalist
+  - portrait
+  - dark
+author: '[@IqraSaifiii](https://x.com/IqraSaifiii)'
+author_url: 'https://twitter.com/IqraSaifiii'
+source_url: 'https://twitter.com/IqraSaifiii/status/1995608303934865656'
+preview: /media/portraits/pg-1995608303934865656.webp
 ---
 
 Captured in a sunlit sanctuary, a joyful blend of expressions radiates warmth. The cozy bedroom setting becomes a backdrop for playful charm and intimate vibes.

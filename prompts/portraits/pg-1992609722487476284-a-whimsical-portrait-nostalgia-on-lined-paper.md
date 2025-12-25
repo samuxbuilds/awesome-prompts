@@ -1,11 +1,18 @@
 ---
-title: "A Whimsical Portrait: Nostalgia on Lined Paper"
+title: 'A Whimsical Portrait: Nostalgia on Lined Paper'
 category: portraits
-tags: ["portrait","vibrant","nano-banana-pro"]
-author: "[@saniaspeaks_](https://x.com/saniaspeaks_)"
-author_url: "https://twitter.com/saniaspeaks_"
-source_url: "https://twitter.com/saniaspeaks_/status/1992609722487476284"
-preview: ""
+tags:
+  - portrait
+  - vibrant
+  - realistic
+  - illustration
+  - vintage
+  - landscape
+  - colorful
+author: '[@saniaspeaks_](https://x.com/saniaspeaks_)'
+author_url: 'https://twitter.com/saniaspeaks_'
+source_url: 'https://twitter.com/saniaspeaks_/status/1992609722487476284'
+preview: ''
 ---
 
 Can you feel the charm of childlike creativity? This vibrant colored pencil drawing captures a woman's essence amidst a playful landscape of green mountains and a sunny sky!

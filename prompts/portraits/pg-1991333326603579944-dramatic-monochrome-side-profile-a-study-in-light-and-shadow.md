@@ -1,11 +1,18 @@
 ---
-title: "Dramatic Monochrome Side-Profile: A Study in Light and Shadow"
+title: 'Dramatic Monochrome Side-Profile: A Study in Light and Shadow'
 category: portraits
-tags: ["portrait","minimal","light","nano-banana-pro"]
-author: "[@SimplyAnnisa](https://x.com/SimplyAnnisa)"
-author_url: "https://twitter.com/SimplyAnnisa"
-source_url: "https://twitter.com/SimplyAnnisa/status/1991333326603579944"
-preview: "/media/portraits/pg-1991333326603579944.webp"
+tags:
+  - portrait
+  - minimal
+  - light
+  - realistic
+  - minimalist
+  - dark
+  - black-and-white
+author: '[@SimplyAnnisa](https://x.com/SimplyAnnisa)'
+author_url: 'https://twitter.com/SimplyAnnisa'
+source_url: 'https://twitter.com/SimplyAnnisa/status/1991333326603579944'
+preview: /media/portraits/pg-1991333326603579944.webp
 ---
 
 A striking high-contrast portrait reveals the contours of identity, where the sharp rim light elegantly traces the subject's profile against an abyssal black. This minimalist creation invites contemplation through its austere beauty.

@@ -1,11 +1,16 @@
 ---
-title: "Messy Glam: The Perfect Selfie Contrast"
+title: 'Messy Glam: The Perfect Selfie Contrast'
 category: portraits
-tags: ["selfie","nano-banana-pro"]
-author: "[@IamEmily2050](https://x.com/IamEmily2050)"
-author_url: "https://twitter.com/IamEmily2050"
-source_url: "https://twitter.com/IamEmily2050/status/1994521043818746342"
-preview: "/media/portraits/pg-1994521043818746342.webp"
+tags:
+  - selfie
+  - realistic
+  - vintage
+  - portrait
+  - dark
+author: '[@IamEmily2050](https://x.com/IamEmily2050)'
+author_url: 'https://twitter.com/IamEmily2050'
+source_url: 'https://twitter.com/IamEmily2050/status/1994521043818746342'
+preview: /media/portraits/pg-1994521043818746342.webp
 ---
 
 What a striking duel of chaos and beauty! A pop idol strikes a flawless pose amidst bedroom clutter, proving that glamour thrives even in disarray.

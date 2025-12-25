@@ -1,11 +1,16 @@
 ---
-title: "Anime Supremacy: A Modern Twist on The Last Supper"
+title: 'Anime Supremacy: A Modern Twist on The Last Supper'
 category: portraits
-tags: ["anime","modern","vibrant","nano-banana-pro"]
-author: "[@CharaspowerAI](https://x.com/CharaspowerAI)"
-author_url: "https://twitter.com/CharaspowerAI"
-source_url: "https://twitter.com/CharaspowerAI/status/1993065781362672074"
-preview: "/media/portraits/pg-1993065781362672074.webp"
+tags:
+  - anime
+  - modern
+  - vibrant
+  - portrait
+  - colorful
+author: '[@CharaspowerAI](https://x.com/CharaspowerAI)'
+author_url: 'https://twitter.com/CharaspowerAI'
+source_url: 'https://twitter.com/CharaspowerAI/status/1993065781362672074'
+preview: /media/portraits/pg-1993065781362672074.webp
 ---
 
 Imagine Goku glowing at the center of a vibrant, anime-styled feast! Classic Renaissance meets thrilling manga in this dynamic reinterpretation, where heroes unite at the table.

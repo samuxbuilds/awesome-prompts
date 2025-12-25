@@ -1,11 +1,13 @@
 ---
-title: "Reimagining Manga: Break Free from Traditional Constraints!"
+title: 'Reimagining Manga: Break Free from Traditional Constraints!'
 category: portraits
-tags: ["nano-banana-pro"]
-author: "[@Kashiko_AIart](https://x.com/Kashiko_AIart)"
-author_url: "https://twitter.com/Kashiko_AIart"
-source_url: "https://twitter.com/Kashiko_AIart/status/1991801500096446888"
-preview: "/media/portraits/pg-1991801500096446888.webp"
+tags:
+  - anime
+  - portrait
+author: '[@Kashiko_AIart](https://x.com/Kashiko_AIart)'
+author_url: 'https://twitter.com/Kashiko_AIart'
+source_url: 'https://twitter.com/Kashiko_AIart/status/1991801500096446888'
+preview: /media/portraits/pg-1991801500096446888.webp
 ---
 
 Why stick to convention? Explore how ditching 'manga' in prompts unveils richer visuals—compare two stunning styles that challenge the norm!

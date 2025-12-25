@@ -1,11 +1,15 @@
 ---
-title: "A Glimpse into a Futuristic Realm of Emotion"
+title: A Glimpse into a Futuristic Realm of Emotion
 category: portraits
-tags: ["dark","nano-banana-pro"]
-author: "[@oggii_0](https://x.com/oggii_0)"
-author_url: "https://twitter.com/oggii_0"
-source_url: "https://twitter.com/oggii_0/status/1995144148832141327"
-preview: "/media/portraits/pg-1995144148832141327.webp"
+tags:
+  - dark
+  - neon
+  - portrait
+  - landscape
+author: '[@oggii_0](https://x.com/oggii_0)'
+author_url: 'https://twitter.com/oggii_0'
+source_url: 'https://twitter.com/oggii_0/status/1995144148832141327'
+preview: /media/portraits/pg-1995144148832141327.webp
 ---
 
 Rain-soaked streets blur the line between reality and memory as Officer K and Joi share a poignant moment in their dark, metallic haven. Will their connection transcend this melancholic world?

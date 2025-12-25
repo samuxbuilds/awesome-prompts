@@ -1,11 +1,16 @@
 ---
-title: "Gemini Nano: A Stunning Virtual Reality Vision"
+title: 'Gemini Nano: A Stunning Virtual Reality Vision'
 category: 3d
-tags: ["light","nano-banana-pro"]
-author: "[@lexx_aura](https://x.com/lexx_aura)"
-author_url: "https://twitter.com/lexx_aura"
-source_url: "https://twitter.com/lexx_aura/status/1994090956916969536"
-preview: "/media/3d/pg-1994090956916969536.webp"
+tags:
+  - light
+  - realistic
+  - 3d
+  - portrait
+  - dark
+author: '[@lexx_aura](https://x.com/lexx_aura)'
+author_url: 'https://twitter.com/lexx_aura'
+source_url: 'https://twitter.com/lexx_aura/status/1994090956916969536'
+preview: /media/3d/pg-1994090956916969536.webp
 ---
 
 Behold the striking beauty of Gemini Nano in a luxurious caramel ensemble! The model's alluring gaze and radiant skin create an unforgettable visual, accentuated by professional lighting and a pristine backdrop.

@@ -1,11 +1,20 @@
 ---
-title: "Elevated Creativity: A Dreamy Workspace in Mid-Air"
+title: 'Elevated Creativity: A Dreamy Workspace in Mid-Air'
 category: 3d
-tags: ["modern","minimal","nano-banana-pro"]
-author: "[@ShreyaYadav___](https://x.com/ShreyaYadav___)"
-author_url: "https://twitter.com/ShreyaYadav___"
-source_url: "https://twitter.com/ShreyaYadav___/status/1992041992143216912"
-preview: "/media/3d/pg-1992041992143216912.webp"
+tags:
+  - modern
+  - minimal
+  - realistic
+  - 3d
+  - illustration
+  - neon
+  - minimalist
+  - portrait
+  - dark
+author: '[@ShreyaYadav___](https://x.com/ShreyaYadav___)'
+author_url: 'https://twitter.com/ShreyaYadav___'
+source_url: 'https://twitter.com/ShreyaYadav___/status/1992041992143216912'
+preview: /media/3d/pg-1992041992143216912.webp
 ---
 
 Floating in a minimalist studio, a woman defies gravity, harmonizing work and creativity. Surrounded by innovative tools, she embodies modern inspiration with every detail.

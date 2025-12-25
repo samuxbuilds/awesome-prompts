@@ -1,11 +1,15 @@
 ---
-title: "90s Vibes: A Bold Stare Amidst Torn Memories"
+title: '90s Vibes: A Bold Stare Amidst Torn Memories'
 category: 3d
-tags: ["nano-banana-pro"]
-author: "[@kingofdairyque](https://x.com/kingofdairyque)"
-author_url: "https://twitter.com/kingofdairyque"
-source_url: "https://twitter.com/kingofdairyque/status/1992749778606973304"
-preview: "/media/3d/pg-1992749778606973304.webp"
+tags:
+  - 3d
+  - vintage
+  - portrait
+  - dark
+author: '[@kingofdairyque](https://x.com/kingofdairyque)'
+author_url: 'https://twitter.com/kingofdairyque'
+source_url: 'https://twitter.com/kingofdairyque/status/1992749778606973304'
+preview: /media/3d/pg-1992749778606973304.webp
 ---
 
 Caught in a flash of nostalgia, her fierce gaze pierces through a backdrop of chaotic creativity. The maroon hoodie and wild hair echo a raw, unapologetic 90s spirit.

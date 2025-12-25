@@ -1,11 +1,12 @@
 ---
-title: "Charming Whispers of Warmth in Every Portrait"
+title: Charming Whispers of Warmth in Every Portrait
 category: portraits
-tags: ["portrait","nano-banana-pro"]
-author: "[@haniya_445](https://x.com/haniya_445)"
-author_url: "https://twitter.com/haniya_445"
-source_url: "https://twitter.com/haniya_445/status/1992048216830030088"
-preview: "/media/portraits/pg-1992048216830030088.webp"
+tags:
+  - portrait
+author: '[@haniya_445](https://x.com/haniya_445)'
+author_url: 'https://twitter.com/haniya_445'
+source_url: 'https://twitter.com/haniya_445/status/1992048216830030088'
+preview: /media/portraits/pg-1992048216830030088.webp
 ---
 
 Radiating gentle vibes, this collage captures the essence of cozy moments. Each portrait reveals a serene charm, inviting you into her world of soft smiles and warm connections.

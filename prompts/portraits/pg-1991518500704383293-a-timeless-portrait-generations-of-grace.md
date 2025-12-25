@@ -1,11 +1,17 @@
 ---
-title: "A Timeless Portrait: Generations of Grace 🌟"
+title: "A Timeless Portrait: Generations of Grace \U0001F31F"
 category: portraits
-tags: ["portrait","light","nano-banana-pro"]
-author: "[@ShreyaYadav___](https://x.com/ShreyaYadav___)"
-author_url: "https://twitter.com/ShreyaYadav___"
-source_url: "https://twitter.com/ShreyaYadav___/status/1991518500704383293"
-preview: "/media/portraits/pg-1991518500704383293.webp"
+tags:
+  - portrait
+  - light
+  - realistic
+  - landscape
+  - dark
+  - colorful
+author: '[@ShreyaYadav___](https://x.com/ShreyaYadav___)'
+author_url: 'https://twitter.com/ShreyaYadav___'
+source_url: 'https://twitter.com/ShreyaYadav___/status/1991518500704383293'
+preview: /media/portraits/pg-1991518500704383293.webp
 ---
 
 Five faces of beauty, each telling a story of time. This AI masterpiece captures the essence of family across generations in dreamy low light, where each smile shines with love.

@@ -1,9 +1,15 @@
 ---
-title: "3D Couple Jewelry Box Figurine"
+title: 3D Couple Jewelry Box Figurine
 category: 3d
-tags: ["3d", "chibi", "figurine", "pastel", "couple"]
-author: "[@dotey](https://x.com/dotey)"
-preview: "/media/3d/3d-couple-jewelry-box-figurine.webp"
+tags:
+  - 3d
+  - chibi
+  - figurine
+  - pastel
+  - couple
+  - realistic
+author: '[@dotey](https://x.com/dotey)'
+preview: /media/3d/3d-couple-jewelry-box-figurine.webp
 ---
 
 Create a finely crafted, adorably charming 3D-rendered collectible figure based on the subjects in the photo, displayed inside a pastel-toned, warm and romantic presentation box. The box is designed in a soft cream color with gentle gold accents, resembling an elegant portable jewelry case.

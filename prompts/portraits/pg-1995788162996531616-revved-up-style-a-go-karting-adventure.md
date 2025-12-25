@@ -1,11 +1,18 @@
 ---
-title: "Revved Up Style: A Go-Karting Adventure"
+title: 'Revved Up Style: A Go-Karting Adventure'
 category: portraits
-tags: ["art","light","vibrant","nano-banana-pro"]
-author: "[@oggii_0](https://x.com/oggii_0)"
-author_url: "https://twitter.com/oggii_0"
-source_url: "https://twitter.com/oggii_0/status/1995788162996531616"
-preview: "/media/portraits/pg-1995788162996531616.webp"
+tags:
+  - art
+  - light
+  - vibrant
+  - realistic
+  - portrait
+  - dark
+  - colorful
+author: '[@oggii_0](https://x.com/oggii_0)'
+author_url: 'https://twitter.com/oggii_0'
+source_url: 'https://twitter.com/oggii_0/status/1995788162996531616'
+preview: /media/portraits/pg-1995788162996531616.webp
 ---
 
 Chilling in a go-kart with vibrant tire graffiti in the backdrop, this stylish young man exudes cool confidence. A flash of night lights captures his laid-back vibe perfectly!

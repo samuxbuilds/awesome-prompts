@@ -1,11 +1,16 @@
 ---
-title: "Floral Vibes & Mirror Reflections"
+title: Floral Vibes & Mirror Reflections
 category: portraits
-tags: ["modern","nano-banana-pro"]
-author: "[@ZaraIrahh](https://x.com/ZaraIrahh)"
-author_url: "https://twitter.com/ZaraIrahh"
-source_url: "https://twitter.com/ZaraIrahh/status/1997139760469643639"
-preview: "/media/portraits/pg-1997139760469643639.webp"
+tags:
+  - modern
+  - realistic
+  - minimalist
+  - portrait
+  - dark
+author: '[@ZaraIrahh](https://x.com/ZaraIrahh)'
+author_url: 'https://twitter.com/ZaraIrahh'
+source_url: 'https://twitter.com/ZaraIrahh/status/1997139760469643639'
+preview: /media/portraits/pg-1997139760469643639.webp
 ---
 
 Captured in a cozy modern space, a young woman radiates charm in a floral dress. Her soft expression and natural glow reflect a serene moment that celebrates beauty and style.

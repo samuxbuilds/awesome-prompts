@@ -1,9 +1,12 @@
 ---
-title: "Character Consistency Selfie with Movie Character"
+title: Character Consistency Selfie with Movie Character
 category: portraits
-tags: ["character", "ai-art"]
-author: "[@nanobanana-pro](https://x.com/nanobanana-pro)"
-preview: "/media/portraits/nb-character-consistency-selfie-with-movie-character.webp"
+tags:
+  - character
+  - ai-art
+  - portrait
+author: '[@nanobanana-pro](https://x.com/nanobanana-pro)'
+preview: /media/portraits/nb-character-consistency-selfie-with-movie-character.webp
 ---
 
 *Take a selfie with a movie character while preserving your features*

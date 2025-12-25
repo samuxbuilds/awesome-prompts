@@ -1,11 +1,14 @@
 ---
-title: "Unleashing Creativity: A Hugging Face Laptop Cover"
+title: 'Unleashing Creativity: A Hugging Face Laptop Cover'
 category: portraits
-tags: ["colorful","vibrant","nano-banana-pro"]
-author: "[@multimodalart](https://x.com/multimodalart)"
-author_url: "https://twitter.com/multimodalart"
-source_url: "https://twitter.com/multimodalart/status/1991609462235541600"
-preview: "/media/portraits/pg-1991609462235541600.webp"
+tags:
+  - colorful
+  - vibrant
+  - portrait
+author: '[@multimodalart](https://x.com/multimodalart)'
+author_url: 'https://twitter.com/multimodalart'
+source_url: 'https://twitter.com/multimodalart/status/1991609462235541600'
+preview: /media/portraits/pg-1991609462235541600.webp
 ---
 
 What if your laptop could tell a story? This vibrant cover, adorned with playful stickers, captures the essence of working at Hugging Face, blending tech and personality in a colorful collage!

@@ -1,11 +1,17 @@
 ---
-title: "Capturing Connection: A Real-Life FaceTime Moment"
+title: 'Capturing Connection: A Real-Life FaceTime Moment'
 category: portraits
-tags: ["light","nano-banana-pro"]
-author: "[@_imfaizan18](https://x.com/_imfaizan18)"
-author_url: "https://twitter.com/_imfaizan18"
-source_url: "https://twitter.com/_imfaizan18/status/1996574990502674700"
-preview: "/media/portraits/pg-1996574990502674700.webp"
+tags:
+  - light
+  - realistic
+  - 3d
+  - illustration
+  - portrait
+  - dark
+author: '[@_imfaizan18](https://x.com/_imfaizan18)'
+author_url: 'https://twitter.com/_imfaizan18'
+source_url: 'https://twitter.com/_imfaizan18/status/1996574990502674700'
+preview: /media/portraits/pg-1996574990502674700.webp
 ---
 
 A cozy bedroom scene unfolds as a couple shares a warm, intimate video call. Dust on the iPad screen adds authenticity, while soft fairy lights create a dreamy ambiance.

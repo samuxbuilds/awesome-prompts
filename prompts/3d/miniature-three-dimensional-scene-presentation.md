@@ -1,9 +1,13 @@
 ---
-title: "Miniature Three-dimensional Scene Presentation"
+title: Miniature Three-dimensional Scene Presentation
 category: 3d
-tags: ["chibi", "ai-art"]
-author: "[@dotey](https://x.com/dotey)"
-preview: "/media/3d/miniature-three-dimensional-scene-presentation.webp"
+tags:
+  - chibi
+  - ai-art
+  - realistic
+  - 3d
+author: '[@dotey](https://x.com/dotey)'
+preview: /media/3d/miniature-three-dimensional-scene-presentation.webp
 ---
 
 Miniature three-dimensional scene presentation using tilt-shift photography techniques, depicting a chibi-style version of the scene {Sun Wukong’s Three Battles with the White Bone Demon}

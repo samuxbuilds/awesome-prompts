@@ -1,11 +1,16 @@
 ---
-title: "Chic Night Vibes in a Luxe Ride"
+title: Chic Night Vibes in a Luxe Ride
 category: portraits
-tags: ["urban","light","nano-banana-pro"]
-author: "[@Just_sharon7](https://x.com/Just_sharon7)"
-author_url: "https://twitter.com/Just_sharon7"
-source_url: "https://twitter.com/Just_sharon7/status/1995424977018036367"
-preview: "/media/portraits/pg-1995424977018036367.webp"
+tags:
+  - urban
+  - light
+  - realistic
+  - portrait
+  - dark
+author: '[@Just_sharon7](https://x.com/Just_sharon7)'
+author_url: 'https://twitter.com/Just_sharon7'
+source_url: 'https://twitter.com/Just_sharon7/status/1995424977018036367'
+preview: /media/portraits/pg-1995424977018036367.webp
 ---
 
 A stunning woman captures a moment in a sleek car, her blonde locks shining under city lights. The ambiance whispers elegance, blending urban allure with casual style.

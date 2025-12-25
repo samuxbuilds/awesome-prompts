@@ -1,11 +1,19 @@
 ---
-title: "Futuristic Fusion: Digital Dreams in a Gallery Space"
+title: 'Futuristic Fusion: Digital Dreams in a Gallery Space'
 category: 3d
-tags: ["art","minimal","vibrant","digital","nano-banana-pro"]
-author: "[@AIwithkhan](https://x.com/AIwithkhan)"
-author_url: "https://twitter.com/AIwithkhan"
-source_url: "https://twitter.com/AIwithkhan/status/1996770108933656800"
-preview: "/media/3d/pg-1996770108933656800.webp"
+tags:
+  - art
+  - minimal
+  - vibrant
+  - digital
+  - 3d
+  - neon
+  - minimalist
+  - colorful
+author: '[@AIwithkhan](https://x.com/AIwithkhan)'
+author_url: 'https://twitter.com/AIwithkhan'
+source_url: 'https://twitter.com/AIwithkhan/status/1996770108933656800'
+preview: /media/3d/pg-1996770108933656800.webp
 ---
 
 A mesmerizing blend of art and technology unfolds! A life-sized figure melts into cyberspace, surrounded by vibrant holograms and minimalist design. Can you feel the digital pulse?

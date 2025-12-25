@@ -1,11 +1,13 @@
 ---
-title: "When Innovation Meets Art: Gemini 3.0 Unleashed"
+title: 'When Innovation Meets Art: Gemini 3.0 Unleashed'
 category: creative
-tags: ["art","light","nano-banana-pro"]
-author: "[@emmanuel_2m](https://x.com/emmanuel_2m)"
-author_url: "https://twitter.com/emmanuel_2m"
-source_url: "https://twitter.com/emmanuel_2m/status/1991634982784336157"
-preview: "/media/creative/pg-1991634982784336157.webp"
+tags:
+  - art
+  - light
+author: '[@emmanuel_2m](https://x.com/emmanuel_2m)'
+author_url: 'https://twitter.com/emmanuel_2m'
+source_url: 'https://twitter.com/emmanuel_2m/status/1991634982784336157'
+preview: /media/creative/pg-1991634982784336157.webp
 ---
 
 Altered perspectives and harmonious lighting transform this product into a seamless part of its environment, showcasing Gemini 3.0’s cutting-edge capabilities.

@@ -1,11 +1,17 @@
 ---
-title: "Elegance in Focus: The Nano Banana Pro Unleashed"
+title: 'Elegance in Focus: The Nano Banana Pro Unleashed'
 category: portraits
-tags: ["modern","minimal","light","nano-banana-pro"]
-author: "[@Taaruk_](https://x.com/Taaruk_)"
-author_url: "https://twitter.com/Taaruk_"
-source_url: "https://twitter.com/Taaruk_/status/1993980595244761517"
-preview: "/media/portraits/pg-1993980595244761517.webp"
+tags:
+  - modern
+  - minimal
+  - light
+  - realistic
+  - minimalist
+  - portrait
+author: '[@Taaruk_](https://x.com/Taaruk_)'
+author_url: 'https://twitter.com/Taaruk_'
+source_url: 'https://twitter.com/Taaruk_/status/1993980595244761517'
+preview: /media/portraits/pg-1993980595244761517.webp
 ---
 
 A stylish man leans confidently on an elegant desk, surrounded by sleek tech and minimalistic greenery. The cinematic lighting amplifies the luxurious vibe, showcasing modern sophistication at its finest.

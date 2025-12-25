@@ -1,11 +1,14 @@
 ---
-title: "Goofy Creations: Unleash Your Inner Artist!"
+title: 'Goofy Creations: Unleash Your Inner Artist!'
 category: portraits
-tags: ["art","nano-banana-pro"]
-author: "[@madpencil_](https://x.com/madpencil_)"
-author_url: "https://twitter.com/madpencil_"
-source_url: "https://twitter.com/madpencil_/status/1993654188723851585"
-preview: "/media/portraits/pg-1993654188723851585.webp"
+tags:
+  - art
+  - realistic
+  - portrait
+author: '[@madpencil_](https://x.com/madpencil_)'
+author_url: 'https://twitter.com/madpencil_'
+source_url: 'https://twitter.com/madpencil_/status/1993654188723851585'
+preview: /media/portraits/pg-1993654188723851585.webp
 ---
 
 Transform ordinary moments into laugh-out-loud masterpieces! Add googly eyes and wacky poses to your pals' photos for a dose of joy and hilarity. Who's up for some absurd fun?

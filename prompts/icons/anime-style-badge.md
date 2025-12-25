@@ -1,9 +1,12 @@
 ---
-title: "Anime-style Badge"
+title: Anime-style Badge
 category: icons
-tags: ["anime", "ai-art"]
-author: "[@Alittlefatwhale](https://x.com/Alittlefatwhale)"
-preview: "/media/icons/anime-style-badge.webp"
+tags:
+  - anime
+  - ai-art
+  - realistic
+author: '[@Alittlefatwhale](https://x.com/Alittlefatwhale)'
+preview: /media/icons/anime-style-badge.webp
 ---
 
 Based on the person in the attachment, generate a photo of an anime-style badge. Requirements:

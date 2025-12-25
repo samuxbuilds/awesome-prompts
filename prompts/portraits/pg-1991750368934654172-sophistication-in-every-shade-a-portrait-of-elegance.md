@@ -1,11 +1,14 @@
 ---
-title: "Sophistication in Every Shade: A Portrait of Elegance"
+title: 'Sophistication in Every Shade: A Portrait of Elegance'
 category: portraits
-tags: ["portrait","nano-banana-pro"]
-author: "[@saniaspeaks_](https://x.com/saniaspeaks_)"
-author_url: "https://twitter.com/saniaspeaks_"
-source_url: "https://twitter.com/saniaspeaks_/status/1991750368934654172"
-preview: ""
+tags:
+  - portrait
+  - realistic
+  - dark
+author: '[@saniaspeaks_](https://x.com/saniaspeaks_)'
+author_url: 'https://twitter.com/saniaspeaks_'
+source_url: 'https://twitter.com/saniaspeaks_/status/1991750368934654172'
+preview: ''
 ---
 
 What stories linger in soft shadows? This stunning portrait captures a serene moment, radiating warmth and luxury through rich colors and exquisite detail, inviting admiration.

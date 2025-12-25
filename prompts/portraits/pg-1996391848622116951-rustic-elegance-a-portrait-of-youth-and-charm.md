@@ -1,11 +1,14 @@
 ---
-title: "Rustic Elegance: A Portrait of Youth and Charm"
+title: 'Rustic Elegance: A Portrait of Youth and Charm'
 category: portraits
-tags: ["portrait","nano-banana-pro"]
-author: "[@SimplyAnnisa](https://x.com/SimplyAnnisa)"
-author_url: "https://twitter.com/SimplyAnnisa"
-source_url: "https://twitter.com/SimplyAnnisa/status/1996391848622116951"
-preview: "/media/portraits/pg-1996391848622116951.webp"
+tags:
+  - portrait
+  - realistic
+  - dark
+author: '[@SimplyAnnisa](https://x.com/SimplyAnnisa)'
+author_url: 'https://twitter.com/SimplyAnnisa'
+source_url: 'https://twitter.com/SimplyAnnisa/status/1996391848622116951'
+preview: /media/portraits/pg-1996391848622116951.webp
 ---
 
 Captured from above, this enchanting portrait showcases a young woman exuding warmth and vibrance, perfectly poised on rustic wooden stairs.

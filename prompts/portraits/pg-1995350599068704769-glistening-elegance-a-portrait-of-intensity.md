@@ -1,11 +1,14 @@
 ---
-title: "Glistening Elegance: A Portrait of Intensity"
+title: 'Glistening Elegance: A Portrait of Intensity'
 category: portraits
-tags: ["portrait","dark","nano-banana-pro"]
-author: "[@SimplyAnnisa](https://x.com/SimplyAnnisa)"
-author_url: "https://twitter.com/SimplyAnnisa"
-source_url: "https://twitter.com/SimplyAnnisa/status/1995350599068704769"
-preview: "/media/portraits/pg-1995350599068704769.webp"
+tags:
+  - portrait
+  - dark
+  - realistic
+author: '[@SimplyAnnisa](https://x.com/SimplyAnnisa)'
+author_url: 'https://twitter.com/SimplyAnnisa'
+source_url: 'https://twitter.com/SimplyAnnisa/status/1995350599068704769'
+preview: /media/portraits/pg-1995350599068704769.webp
 ---
 
 Radiating raw beauty, this close-up captures a young woman with dark, wet hair clinging to her radiant skin.

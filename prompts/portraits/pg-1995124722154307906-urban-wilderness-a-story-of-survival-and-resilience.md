@@ -1,11 +1,16 @@
 ---
-title: "Urban Wilderness: A Story of Survival and Resilience"
+title: 'Urban Wilderness: A Story of Survival and Resilience'
 category: portraits
-tags: ["nature","urban","nano-banana-pro"]
-author: "[@john_my07](https://x.com/john_my07)"
-author_url: "https://twitter.com/john_my07"
-source_url: "https://twitter.com/john_my07/status/1995124722154307906"
-preview: "/media/portraits/pg-1995124722154307906.webp"
+tags:
+  - nature
+  - urban
+  - portrait
+  - landscape
+  - dark
+author: '[@john_my07](https://x.com/john_my07)'
+author_url: 'https://twitter.com/john_my07'
+source_url: 'https://twitter.com/john_my07/status/1995124722154307906'
+preview: /media/portraits/pg-1995124722154307906.webp
 ---
 
 Amidst the whispers of nature reclaiming the city, a rugged wanderer stands alert. His weathered skin tells tales of adventure, framed by a backdrop of ivy-clad ruins and sun-drenched shadows.

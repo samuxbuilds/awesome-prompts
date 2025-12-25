@@ -1,11 +1,12 @@
 ---
-title: "Elegance in the Rain: A Bold Stroll Through History"
+title: 'Elegance in the Rain: A Bold Stroll Through History'
 category: portraits
-tags: ["nano-banana-pro"]
-author: "[@juicyapplebite](https://x.com/juicyapplebite)"
-author_url: "https://twitter.com/juicyapplebite"
-source_url: "https://twitter.com/juicyapplebite/status/1995754286505173428"
-preview: "/media/portraits/pg-1995754286505173428.webp"
+tags:
+  - portrait
+author: '[@juicyapplebite](https://x.com/juicyapplebite)'
+author_url: 'https://twitter.com/juicyapplebite'
+source_url: 'https://twitter.com/juicyapplebite/status/1995754286505173428'
+preview: /media/portraits/pg-1995754286505173428.webp
 ---
 
 With each confident step, she dances through history's embrace, her bohemian spirit igniting the rain-soaked streets. The warm glow of cobblestones reflects her fierce essence.

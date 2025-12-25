@@ -1,11 +1,16 @@
 ---
-title: "Chill Vibes in Urban Twilight"
+title: Chill Vibes in Urban Twilight
 category: portraits
-tags: ["urban","light","nano-banana-pro"]
-author: "[@Zar_xplorer](https://x.com/Zar_xplorer)"
-author_url: "https://twitter.com/Zar_xplorer"
-source_url: "https://twitter.com/Zar_xplorer/status/1995876252385685956"
-preview: "/media/portraits/pg-1995876252385685956.webp"
+tags:
+  - urban
+  - light
+  - realistic
+  - portrait
+  - dark
+author: '[@Zar_xplorer](https://x.com/Zar_xplorer)'
+author_url: 'https://twitter.com/Zar_xplorer'
+source_url: 'https://twitter.com/Zar_xplorer/status/1995876252385685956'
+preview: /media/portraits/pg-1995876252385685956.webp
 ---
 
 A moment of tranquility captured: a young man exudes calm with a gentle smile, nestled in an industrial backdrop where day meets night. Can you feel the evening breeze?

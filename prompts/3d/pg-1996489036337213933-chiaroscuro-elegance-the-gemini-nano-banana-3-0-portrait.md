@@ -1,11 +1,17 @@
 ---
-title: "Chiaroscuro Elegance: The Gemini Nano Banana 3.0 Portrait"
+title: 'Chiaroscuro Elegance: The Gemini Nano Banana 3.0 Portrait'
 category: 3d
-tags: ["portrait","light","nano-banana-pro"]
-author: "[@YaseenK7212](https://x.com/YaseenK7212)"
-author_url: "https://twitter.com/YaseenK7212"
-source_url: "https://twitter.com/YaseenK7212/status/1996489036337213933"
-preview: "/media/3d/pg-1996489036337213933.webp"
+tags:
+  - portrait
+  - light
+  - realistic
+  - 3d
+  - illustration
+  - dark
+author: '[@YaseenK7212](https://x.com/YaseenK7212)'
+author_url: 'https://twitter.com/YaseenK7212'
+source_url: 'https://twitter.com/YaseenK7212/status/1996489036337213933'
+preview: /media/3d/pg-1996489036337213933.webp
 ---
 
 A stunning blend of hyper-realism and dramatic lighting brings the Gemini Nano Banana 3.0 to life, showcasing intricate features and a striking presence. This portrait captures a moment of intimate beauty.

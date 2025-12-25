@@ -1,11 +1,17 @@
 ---
-title: "A Glimpse of Glamour: Daily Elegance Unveiled"
+title: 'A Glimpse of Glamour: Daily Elegance Unveiled'
 category: portraits
-tags: ["modern","light","nano-banana-pro"]
-author: "[@kaanakz](https://x.com/kaanakz)"
-author_url: "https://twitter.com/kaanakz"
-source_url: "https://twitter.com/kaanakz/status/1997061904125083696"
-preview: "/media/portraits/pg-1997061904125083696.webp"
+tags:
+  - modern
+  - light
+  - realistic
+  - 3d
+  - portrait
+  - colorful
+author: '[@kaanakz](https://x.com/kaanakz)'
+author_url: 'https://twitter.com/kaanakz'
+source_url: 'https://twitter.com/kaanakz/status/1997061904125083696'
+preview: /media/portraits/pg-1997061904125083696.webp
 ---
 
 Captivating close-up reveals a stunning model's gentle smile, cradling a glossy blister pack. With radiant lighting and a cinematic backdrop, every detail exudes modern luxury.

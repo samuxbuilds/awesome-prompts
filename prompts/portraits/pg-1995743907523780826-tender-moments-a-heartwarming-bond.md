@@ -1,11 +1,16 @@
 ---
-title: "Tender Moments: A Heartwarming Bond"
+title: 'Tender Moments: A Heartwarming Bond'
 category: portraits
-tags: ["art","light","nano-banana-pro"]
-author: "[@ZaraIrahh](https://x.com/ZaraIrahh)"
-author_url: "https://twitter.com/ZaraIrahh"
-source_url: "https://twitter.com/ZaraIrahh/status/1995743907523780826"
-preview: "/media/portraits/pg-1995743907523780826.webp"
+tags:
+  - art
+  - light
+  - minimalist
+  - portrait
+  - dark
+author: '[@ZaraIrahh](https://x.com/ZaraIrahh)'
+author_url: 'https://twitter.com/ZaraIrahh'
+source_url: 'https://twitter.com/ZaraIrahh/status/1995743907523780826'
+preview: /media/portraits/pg-1995743907523780826.webp
 ---
 
 A gentle embrace captures pure affection; sunlight stripes dance on soft fur and skin, creating an intimate scene of tranquility and love.

@@ -1,11 +1,17 @@
 ---
-title: "Elegance Embodied: A Portrait of Confidence"
+title: 'Elegance Embodied: A Portrait of Confidence'
 category: portraits
-tags: ["portrait","light","pastel","vibrant","nano-banana-pro"]
-author: "[@SimplyAnnisa](https://x.com/SimplyAnnisa)"
-author_url: "https://twitter.com/SimplyAnnisa"
-source_url: "https://twitter.com/SimplyAnnisa/status/1994962490049139047"
-preview: "/media/portraits/pg-1994962490049139047.webp"
+tags:
+  - portrait
+  - light
+  - pastel
+  - vibrant
+  - realistic
+  - colorful
+author: '[@SimplyAnnisa](https://x.com/SimplyAnnisa)'
+author_url: 'https://twitter.com/SimplyAnnisa'
+source_url: 'https://twitter.com/SimplyAnnisa/status/1994962490049139047'
+preview: /media/portraits/pg-1994962490049139047.webp
 ---
 
 In a chic office bathed in soft daylight, a confident woman lounges on her table. Her pastel attire harmonizes with a vibrant, expressive portrait behind her, blending elegance with a bold flair.

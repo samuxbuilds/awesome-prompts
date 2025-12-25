@@ -1,9 +1,16 @@
 ---
-title: "3D Q-version Couple Snow Globe"
+title: 3D Q-version Couple Snow Globe
 category: 3d
-tags: ["3d", "chibi", "cute", "couple", "character"]
-author: "[@balconychy](https://x.com/balconychy)"
-preview: "/media/3d/3d-q-version-couple-snow-globe.webp"
+tags:
+  - 3d
+  - chibi
+  - cute
+  - couple
+  - character
+  - realistic
+  - dark
+author: '[@balconychy](https://x.com/balconychy)'
+preview: /media/3d/3d-q-version-couple-snow-globe.webp
 ---
 
 Transform the person in the attached image into a snow globe scene.

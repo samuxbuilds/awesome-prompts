@@ -1,11 +1,16 @@
 ---
-title: "Reflections of Confidence: A Stylish AI Creation"
+title: 'Reflections of Confidence: A Stylish AI Creation'
 category: portraits
-tags: ["selfie","light","nano-banana-pro"]
-author: "[@johnnprofits](https://x.com/johnnprofits)"
-author_url: "https://twitter.com/johnnprofits"
-source_url: "https://twitter.com/johnnprofits/status/1996622274636706130"
-preview: "/media/portraits/pg-1996622274636706130.webp"
+tags:
+  - selfie
+  - light
+  - realistic
+  - portrait
+  - dark
+author: '[@johnnprofits](https://x.com/johnnprofits)'
+author_url: 'https://twitter.com/johnnprofits'
+source_url: 'https://twitter.com/johnnprofits/status/1996622274636706130'
+preview: /media/portraits/pg-1996622274636706130.webp
 ---
 
 A blend of casual chic and effortless charm, this young woman nails the mirror selfie game. The soft lighting and perfect reflections elevate her relaxed vibe!

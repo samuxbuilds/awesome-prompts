@@ -1,11 +1,13 @@
 ---
-title: "Time, Taste, and Tints: A Visual Feast"
+title: 'Time, Taste, and Tints: A Visual Feast'
 category: creative
-tags: ["art","light","nano-banana-pro"]
-author: "[@FedericoLKG](https://x.com/FedericoLKG)"
-author_url: "https://twitter.com/FedericoLKG"
-source_url: "https://twitter.com/FedericoLKG/status/1991533868944351491"
-preview: "/media/creative/pg-1991533868944351491.webp"
+tags:
+  - art
+  - light
+author: '[@FedericoLKG](https://x.com/FedericoLKG)'
+author_url: 'https://twitter.com/FedericoLKG'
+source_url: 'https://twitter.com/FedericoLKG/status/1991533868944351491'
+preview: /media/creative/pg-1991533868944351491.webp
 ---
 
 A surreal blend of culinary delight and timekeeping art! Marvel at the analog clock, succulent burger, and a glass brimming with red wine. What stories do these images tell?

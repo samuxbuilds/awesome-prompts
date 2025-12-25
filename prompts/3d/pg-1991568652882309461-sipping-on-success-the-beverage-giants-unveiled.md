@@ -1,11 +1,16 @@
 ---
-title: "Sipping on Success: The Beverage Giants Unveiled"
+title: 'Sipping on Success: The Beverage Giants Unveiled'
 category: 3d
-tags: ["vibrant","nano-banana-pro"]
-author: "[@SaasJunctionHQ](https://x.com/SaasJunctionHQ)"
-author_url: "https://twitter.com/SaasJunctionHQ"
-source_url: "https://twitter.com/SaasJunctionHQ/status/1991568652882309461"
-preview: "/media/3d/pg-1991568652882309461.webp"
+tags:
+  - vibrant
+  - 3d
+  - illustration
+  - minimalist
+  - colorful
+author: '[@SaasJunctionHQ](https://x.com/SaasJunctionHQ)'
+author_url: 'https://twitter.com/SaasJunctionHQ'
+source_url: 'https://twitter.com/SaasJunctionHQ/status/1991568652882309461'
+preview: /media/3d/pg-1991568652882309461.webp
 ---
 
 Bold logos and playful icons dance across a creamy canvas, revealing the top 20 beverage titans. A vibrant infographic that celebrates industry growth with style!

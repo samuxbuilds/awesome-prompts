@@ -1,11 +1,19 @@
 ---
-title: "Catching Light & Love in Urban Wings"
+title: Catching Light & Love in Urban Wings
 category: 3d
-tags: ["art","urban","light","vibrant","nano-banana-pro"]
-author: "[@ShreyaYadav___](https://x.com/ShreyaYadav___)"
-author_url: "https://twitter.com/ShreyaYadav___"
-source_url: "https://twitter.com/ShreyaYadav___/status/1991552050342293723"
-preview: "/media/3d/pg-1991552050342293723.webp"
+tags:
+  - art
+  - urban
+  - light
+  - vibrant
+  - realistic
+  - 3d
+  - portrait
+  - colorful
+author: '[@ShreyaYadav___](https://x.com/ShreyaYadav___)'
+author_url: 'https://twitter.com/ShreyaYadav___'
+source_url: 'https://twitter.com/ShreyaYadav___/status/1991552050342293723'
+preview: /media/3d/pg-1991552050342293723.webp
 ---
 
 Bathed in golden hour glow, a heart-shaped gesture meets vibrant angel wings, blending warmth and style in an urban dreamscape.

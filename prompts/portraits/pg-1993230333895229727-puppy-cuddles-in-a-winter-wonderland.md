@@ -1,11 +1,16 @@
 ---
-title: "Puppy Cuddles in a Winter Wonderland"
+title: Puppy Cuddles in a Winter Wonderland
 category: portraits
-tags: ["art","vibrant","nano-banana-pro"]
-author: "[@kingofdairyque](https://x.com/kingofdairyque)"
-author_url: "https://twitter.com/kingofdairyque"
-source_url: "https://twitter.com/kingofdairyque/status/1993230333895229727"
-preview: "/media/portraits/pg-1993230333895229727.webp"
+tags:
+  - art
+  - vibrant
+  - portrait
+  - landscape
+  - colorful
+author: '[@kingofdairyque](https://x.com/kingofdairyque)'
+author_url: 'https://twitter.com/kingofdairyque'
+source_url: 'https://twitter.com/kingofdairyque/status/1993230333895229727'
+preview: /media/portraits/pg-1993230333895229727.webp
 ---
 
 Amidst a snowy landscape, a young girl strikes a playful pose with her serene puppy. The contrast of her vibrant teal hoodie against the crisp white snow creates a heartwarming winter moment.

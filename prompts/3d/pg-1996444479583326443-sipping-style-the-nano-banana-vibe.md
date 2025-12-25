@@ -1,11 +1,15 @@
 ---
-title: "Sipping Style: The Nano Banana Vibe"
+title: 'Sipping Style: The Nano Banana Vibe'
 category: 3d
-tags: ["urban","dark","nano-banana-pro"]
-author: "[@lexx_aura](https://x.com/lexx_aura)"
-author_url: "https://twitter.com/lexx_aura"
-source_url: "https://twitter.com/lexx_aura/status/1996444479583326443"
-preview: "/media/3d/pg-1996444479583326443.webp"
+tags:
+  - urban
+  - dark
+  - 3d
+  - portrait
+author: '[@lexx_aura](https://x.com/lexx_aura)'
+author_url: 'https://twitter.com/lexx_aura'
+source_url: 'https://twitter.com/lexx_aura/status/1996444479583326443'
+preview: /media/3d/pg-1996444479583326443.webp
 ---
 
 A chic moment captured: a poised woman on a stone bench, savoring iced coffee. Her stylish dark ensemble and elegant accessories pop against a sunlit urban backdrop.

@@ -1,11 +1,18 @@
 ---
-title: "Cosmic Elegance: The Symbiote Queen Revealed"
+title: 'Cosmic Elegance: The Symbiote Queen Revealed'
 category: portraits
-tags: ["light","nano-banana-pro"]
-author: "[@Just_sharon7](https://x.com/Just_sharon7)"
-author_url: "https://twitter.com/Just_sharon7"
-source_url: "https://twitter.com/Just_sharon7/status/1994404675739894229"
-preview: "/media/portraits/pg-1994404675739894229.webp"
+tags:
+  - light
+  - realistic
+  - 3d
+  - illustration
+  - minimalist
+  - portrait
+  - colorful
+author: '[@Just_sharon7](https://x.com/Just_sharon7)'
+author_url: 'https://twitter.com/Just_sharon7'
+source_url: 'https://twitter.com/Just_sharon7/status/1994404675739894229'
+preview: /media/portraits/pg-1994404675739894229.webp
 ---
 
 A stunning portrayal of a cosplayer in a cosmic black and silver suit, her cotton-candy pink hair frames a fierce gaze that commands attention. The glossy textures and intricate spider-web details shine under soft studio lighting, creating a striking visual masterpiece.

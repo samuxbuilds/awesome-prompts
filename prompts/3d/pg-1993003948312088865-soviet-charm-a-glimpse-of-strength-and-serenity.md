@@ -1,11 +1,18 @@
 ---
-title: "Soviet Charm: A Glimpse of Strength and Serenity"
+title: 'Soviet Charm: A Glimpse of Strength and Serenity'
 category: 3d
-tags: ["dark","light","nano-banana-pro"]
-author: "[@Arminn_Ai](https://x.com/Arminn_Ai)"
-author_url: "https://twitter.com/Arminn_Ai"
-source_url: "https://twitter.com/Arminn_Ai/status/1993003948312088865"
-preview: "/media/3d/pg-1993003948312088865.webp"
+tags:
+  - dark
+  - light
+  - realistic
+  - 3d
+  - vintage
+  - minimalist
+  - portrait
+author: '[@Arminn_Ai](https://x.com/Arminn_Ai)'
+author_url: 'https://twitter.com/Arminn_Ai'
+source_url: 'https://twitter.com/Arminn_Ai/status/1993003948312088865'
+preview: /media/3d/pg-1993003948312088865.webp
 ---
 
 A striking scene unfolds as the fit redhead, adorned in burnt orange and teal, exudes effortless grace against a backdrop of rich burgundy and dark green. The soft light captures her calm gaze, inviting reflection on beauty and strength.

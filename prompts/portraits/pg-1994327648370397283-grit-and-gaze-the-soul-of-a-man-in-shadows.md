@@ -1,11 +1,15 @@
 ---
-title: "Grit and Gaze: The Soul of a Man in Shadows"
+title: 'Grit and Gaze: The Soul of a Man in Shadows'
 category: portraits
-tags: ["portrait","light","nano-banana-pro"]
-author: "[@AIwithkhan](https://x.com/AIwithkhan)"
-author_url: "https://twitter.com/AIwithkhan"
-source_url: "https://twitter.com/AIwithkhan/status/1994327648370397283"
-preview: "/media/portraits/pg-1994327648370397283.webp"
+tags:
+  - portrait
+  - light
+  - realistic
+  - dark
+author: '[@AIwithkhan](https://x.com/AIwithkhan)'
+author_url: 'https://twitter.com/AIwithkhan'
+source_url: 'https://twitter.com/AIwithkhan/status/1994327648370397283'
+preview: /media/portraits/pg-1994327648370397283.webp
 ---
 
 A raw, gripping portrait captures a man lost in thought. His rugged features and reflective sunglasses create an aura of mystery, perfectly framed in dramatic light.

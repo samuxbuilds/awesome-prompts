@@ -1,11 +1,16 @@
 ---
-title: "Serenity at Fuji: A Moment of Pure Bliss"
+title: 'Serenity at Fuji: A Moment of Pure Bliss'
 category: 3d
-tags: ["nano-banana-pro"]
-author: "[@dejavucoder](https://x.com/dejavucoder)"
-author_url: "https://twitter.com/dejavucoder"
-source_url: "https://twitter.com/dejavucoder/status/1995163677608304966"
-preview: "/media/3d/pg-1995163677608304966.webp"
+tags:
+  - realistic
+  - 3d
+  - vintage
+  - minimalist
+  - dark
+author: '[@dejavucoder](https://x.com/dejavucoder)'
+author_url: 'https://twitter.com/dejavucoder'
+source_url: 'https://twitter.com/dejavucoder/status/1995163677608304966'
+preview: /media/3d/pg-1995163677608304966.webp
 ---
 
 A graceful figure in a flowing kimono, against the majestic backdrop of Mount Fuji, captures the essence of tranquility.

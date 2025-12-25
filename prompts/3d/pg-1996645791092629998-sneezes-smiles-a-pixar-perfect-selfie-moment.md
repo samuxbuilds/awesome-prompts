@@ -1,11 +1,16 @@
 ---
-title: "Sneezes & Smiles: A Pixar-Perfect Selfie Moment"
+title: 'Sneezes & Smiles: A Pixar-Perfect Selfie Moment'
 category: 3d
-tags: ["selfie","vibrant","nano-banana-pro"]
-author: "[@ShreyaYadav___](https://x.com/ShreyaYadav___)"
-author_url: "https://twitter.com/ShreyaYadav___"
-source_url: "https://twitter.com/ShreyaYadav___/status/1996645791092629998"
-preview: "/media/3d/pg-1996645791092629998.webp"
+tags:
+  - selfie
+  - vibrant
+  - 3d
+  - portrait
+  - colorful
+author: '[@ShreyaYadav___](https://x.com/ShreyaYadav___)'
+author_url: 'https://twitter.com/ShreyaYadav___'
+source_url: 'https://twitter.com/ShreyaYadav___/status/1996645791092629998'
+preview: /media/3d/pg-1996645791092629998.webp
 ---
 
 Caught in a comedic twist, this Pixar-style scene captures a couple's rooftop selfie gone hilariously wrong as laughter and a sunset collide in vibrant hues!

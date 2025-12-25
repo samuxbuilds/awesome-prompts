@@ -1,11 +1,16 @@
 ---
-title: "Moody Glamour: A Retro Fashion Moment"
+title: 'Moody Glamour: A Retro Fashion Moment'
 category: portraits
-tags: ["fashion","nano-banana-pro"]
-author: "[@mehvishs25](https://x.com/mehvishs25)"
-author_url: "https://twitter.com/mehvishs25"
-source_url: "https://twitter.com/mehvishs25/status/1994964161332216069"
-preview: "/media/portraits/pg-1994964161332216069.webp"
+tags:
+  - fashion
+  - realistic
+  - vintage
+  - portrait
+  - dark
+author: '[@mehvishs25](https://x.com/mehvishs25)'
+author_url: 'https://twitter.com/mehvishs25'
+source_url: 'https://twitter.com/mehvishs25/status/1994964161332216069'
+preview: /media/portraits/pg-1994964161332216069.webp
 ---
 
 Elegance meets intrigue as this stylish woman poses against a textured wall. Her soft curls and tailored ensemble capture a cinematic essence, enveloped in nostalgic shadows.

@@ -1,11 +1,14 @@
 ---
-title: "Cinematic Chic: A Portrait of Confidence"
+title: 'Cinematic Chic: A Portrait of Confidence'
 category: portraits
-tags: ["portrait","light","nano-banana-pro"]
-author: "[@saniaspeaks_](https://x.com/saniaspeaks_)"
-author_url: "https://twitter.com/saniaspeaks_"
-source_url: "https://twitter.com/saniaspeaks_/status/1995453492933361979"
-preview: "/media/portraits/pg-1995453492933361979.webp"
+tags:
+  - portrait
+  - light
+  - realistic
+author: '[@saniaspeaks_](https://x.com/saniaspeaks_)'
+author_url: 'https://twitter.com/saniaspeaks_'
+source_url: 'https://twitter.com/saniaspeaks_/status/1995453492933361979'
+preview: /media/portraits/pg-1995453492933361979.webp
 ---
 
 Against a backdrop of sleek mirrors, this young girl exudes effortless style, her warm expression complementing the ambient glow of soft LED lights.

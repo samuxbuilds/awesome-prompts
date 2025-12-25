@@ -1,11 +1,16 @@
 ---
-title: "Monday Mood: A Cozy Dreamscape in Soft Sunlight"
+title: 'Monday Mood: A Cozy Dreamscape in Soft Sunlight'
 category: 3d
-tags: ["portrait","light","nano-banana-pro"]
-author: "[@xmiiru_](https://x.com/xmiiru_)"
-author_url: "https://twitter.com/xmiiru_"
-source_url: "https://twitter.com/xmiiru_/status/1992838971030647050"
-preview: "/media/3d/pg-1992838971030647050.webp"
+tags:
+  - portrait
+  - light
+  - realistic
+  - 3d
+  - dark
+author: '[@xmiiru_](https://x.com/xmiiru_)'
+author_url: 'https://twitter.com/xmiiru_'
+source_url: 'https://twitter.com/xmiiru_/status/1992838971030647050'
+preview: /media/3d/pg-1992838971030647050.webp
 ---
 
 A serene portrait captures the essence of morning bliss, where soft sunlight dances on gentle features, inviting warmth and comfort. Feel the sweet tranquility of this intimate moment.

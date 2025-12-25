@@ -1,11 +1,13 @@
 ---
-title: "Cheerful Banter: Crafting Your Perfect Thumbnail!"
+title: 'Cheerful Banter: Crafting Your Perfect Thumbnail!'
 category: posters
-tags: ["vibrant","nano-banana-pro"]
-author: "[@sll_gametoai](https://x.com/sll_gametoai)"
-author_url: "https://twitter.com/sll_gametoai"
-source_url: "https://twitter.com/sll_gametoai/status/1991675633521627170"
-preview: "/media/posters/pg-1991675633521627170.webp"
+tags:
+  - vibrant
+  - colorful
+author: '[@sll_gametoai](https://x.com/sll_gametoai)'
+author_url: 'https://twitter.com/sll_gametoai'
+source_url: 'https://twitter.com/sll_gametoai/status/1991675633521627170'
+preview: /media/posters/pg-1991675633521627170.webp
 ---
 
 Imagine a lively character bursting with joy, ready to engage with viewers! The vibrant '雑談' text paired with a clean, striped background sets the perfect tone for fun discussions.

@@ -1,11 +1,16 @@
 ---
-title: "Urban Grit: The Soul of the City in Black and White"
+title: 'Urban Grit: The Soul of the City in Black and White'
 category: 3d
-tags: ["urban","dark","nano-banana-pro"]
-author: "[@lexx_aura](https://x.com/lexx_aura)"
-author_url: "https://twitter.com/lexx_aura"
-source_url: "https://twitter.com/lexx_aura/status/1991496254950428951"
-preview: "/media/3d/pg-1991496254950428951.webp"
+tags:
+  - urban
+  - dark
+  - realistic
+  - 3d
+  - black-and-white
+author: '[@lexx_aura](https://x.com/lexx_aura)'
+author_url: 'https://twitter.com/lexx_aura'
+source_url: 'https://twitter.com/lexx_aura/status/1991496254950428951'
+preview: /media/3d/pg-1991496254950428951.webp
 ---
 
 A bearded figure leans pensively against a railing, shrouded in shadows. His intense gaze pierces the dark urban backdrop, capturing the essence of contemplation and raw emotion.

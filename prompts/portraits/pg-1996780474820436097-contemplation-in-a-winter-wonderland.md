@@ -1,11 +1,16 @@
 ---
-title: "Contemplation in a Winter Wonderland"
+title: Contemplation in a Winter Wonderland
 category: portraits
-tags: ["light","nano-banana-pro"]
-author: "[@aleenaamiir](https://x.com/aleenaamiir)"
-author_url: "https://twitter.com/aleenaamiir"
-source_url: "https://twitter.com/aleenaamiir/status/1996780474820436097"
-preview: "/media/portraits/pg-1996780474820436097.webp"
+tags:
+  - light
+  - realistic
+  - portrait
+  - landscape
+  - dark
+author: '[@aleenaamiir](https://x.com/aleenaamiir)'
+author_url: 'https://twitter.com/aleenaamiir'
+source_url: 'https://twitter.com/aleenaamiir/status/1996780474820436097'
+preview: /media/portraits/pg-1996780474820436097.webp
 ---
 
 In a tranquil snowy escape, a young woman with freckled cheeks captures the essence of serenity. Her gentle gaze and cozy sweater harmonize with the soft, diffused sunlight, inviting reflection in this peaceful moment.

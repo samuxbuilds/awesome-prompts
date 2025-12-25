@@ -1,11 +1,17 @@
 ---
-title: "The Enigmatic Gaze of Gemini Nano Banana 3.0"
+title: The Enigmatic Gaze of Gemini Nano Banana 3.0
 category: 3d
-tags: ["dark","light","nano-banana-pro"]
-author: "[@YaseenK7212](https://x.com/YaseenK7212)"
-author_url: "https://twitter.com/YaseenK7212"
-source_url: "https://twitter.com/YaseenK7212/status/1995488723387978228"
-preview: "/media/3d/pg-1995488723387978228.webp"
+tags:
+  - dark
+  - light
+  - realistic
+  - anime
+  - 3d
+  - portrait
+author: '[@YaseenK7212](https://x.com/YaseenK7212)'
+author_url: 'https://twitter.com/YaseenK7212'
+source_url: 'https://twitter.com/YaseenK7212/status/1995488723387978228'
+preview: /media/3d/pg-1995488723387978228.webp
 ---
 
 In a world draped in shadows, a mysterious figure stands poised, her thoughtful expression beckoning secrets. The interplay of light and dark dances across her features, inviting deep contemplation.

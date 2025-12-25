@@ -1,11 +1,14 @@
 ---
-title: "Sunset Whispers: A Playful Moment by the Water"
+title: 'Sunset Whispers: A Playful Moment by the Water'
 category: portraits
-tags: ["nano-banana-pro"]
-author: "[@saniaspeaks_](https://x.com/saniaspeaks_)"
-author_url: "https://twitter.com/saniaspeaks_"
-source_url: "https://twitter.com/saniaspeaks_/status/1997298656429367700"
-preview: "/media/portraits/pg-1997298656429367700.webp"
+tags:
+  - minimalist
+  - portrait
+  - dark
+author: '[@saniaspeaks_](https://x.com/saniaspeaks_)'
+author_url: 'https://twitter.com/saniaspeaks_'
+source_url: 'https://twitter.com/saniaspeaks_/status/1997298656429367700'
+preview: /media/portraits/pg-1997298656429367700.webp
 ---
 
 Amidst the warm embrace of a golden hour, she splashes joyfully, each droplet reflecting the beauty of the sunset sky and her carefree spirit.

@@ -1,11 +1,13 @@
 ---
-title: "Sunlit Serenity: A Stylish Ride Above Green Canopies"
+title: 'Sunlit Serenity: A Stylish Ride Above Green Canopies'
 category: portraits
-tags: ["nano-banana-pro"]
-author: "[@ZaraIrahh](https://x.com/ZaraIrahh)"
-author_url: "https://twitter.com/ZaraIrahh"
-source_url: "https://twitter.com/ZaraIrahh/status/1994991014545957032"
-preview: "/media/portraits/pg-1994991014545957032.webp"
+tags:
+  - portrait
+  - landscape
+author: '[@ZaraIrahh](https://x.com/ZaraIrahh)'
+author_url: 'https://twitter.com/ZaraIrahh'
+source_url: 'https://twitter.com/ZaraIrahh/status/1994991014545957032'
+preview: /media/portraits/pg-1994991014545957032.webp
 ---
 
 Bask in the gentle glow of golden hour as she relaxes in a cable car, the lush landscape unfolding below. Her casual vibe and warm smile capture the essence of carefree adventures!

@@ -1,11 +1,18 @@
 ---
-title: "Nostalgic Vibes: A Nano Banana Moment 🍌"
+title: "Nostalgic Vibes: A Nano Banana Moment \U0001F34C"
 category: portraits
-tags: ["selfie","art","light","nano-banana-pro"]
-author: "[@kaanakz](https://x.com/kaanakz)"
-author_url: "https://twitter.com/kaanakz"
-source_url: "https://twitter.com/kaanakz/status/1996837849916649847"
-preview: "/media/portraits/pg-1996837849916649847.webp"
+tags:
+  - selfie
+  - art
+  - light
+  - realistic
+  - vintage
+  - portrait
+  - dark
+author: '[@kaanakz](https://x.com/kaanakz)'
+author_url: 'https://twitter.com/kaanakz'
+source_url: 'https://twitter.com/kaanakz/status/1996837849916649847'
+preview: /media/portraits/pg-1996837849916649847.webp
 ---
 
 Captured chaos! A retro Canon reveals a lively group selfie, bursting with laughter amidst party lights. Can you feel the Y2K fun?

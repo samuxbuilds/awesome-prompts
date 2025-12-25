@@ -1,11 +1,17 @@
 ---
-title: "Balancing Life and Laughter: Yoga at the Kitchen Table"
+title: 'Balancing Life and Laughter: Yoga at the Kitchen Table'
 category: 3d
-tags: ["nano-banana-pro"]
-author: "[@Samann_ai](https://x.com/Samann_ai)"
-author_url: "https://twitter.com/Samann_ai"
-source_url: "https://twitter.com/Samann_ai/status/1995519480974156069"
-preview: "/media/3d/pg-1995519480974156069.webp"
+tags:
+  - realistic
+  - anime
+  - 3d
+  - illustration
+  - minimalist
+  - dark
+author: '[@Samann_ai](https://x.com/Samann_ai)'
+author_url: 'https://twitter.com/Samann_ai'
+source_url: 'https://twitter.com/Samann_ai/status/1995519480974156069'
+preview: /media/3d/pg-1995519480974156069.webp
 ---
 
 A playful twist on yoga unfolds in this cozy kitchen! With her mother watching in awe, this young woman defies gravity, showcasing flexibility and joy amidst everyday life.

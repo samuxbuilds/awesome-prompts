@@ -1,11 +1,18 @@
 ---
-title: "Vintage Vibes: A Subway Portrait in Red"
+title: 'Vintage Vibes: A Subway Portrait in Red'
 category: 3d
-tags: ["portrait","vintage","vibrant","nano-banana-pro"]
-author: "[@ZaraIrahh](https://x.com/ZaraIrahh)"
-author_url: "https://twitter.com/ZaraIrahh"
-source_url: "https://twitter.com/ZaraIrahh/status/1993126634304815217"
-preview: "/media/3d/pg-1993126634304815217.webp"
+tags:
+  - portrait
+  - vintage
+  - vibrant
+  - realistic
+  - 3d
+  - dark
+  - colorful
+author: '[@ZaraIrahh](https://x.com/ZaraIrahh)'
+author_url: 'https://twitter.com/ZaraIrahh'
+source_url: 'https://twitter.com/ZaraIrahh/status/1993126634304815217'
+preview: /media/3d/pg-1993126634304815217.webp
 ---
 
 Caught in a cinematic moment, a striking woman leans against the silver escalator, her vibrant red dress popping against the moody subway backdrop.

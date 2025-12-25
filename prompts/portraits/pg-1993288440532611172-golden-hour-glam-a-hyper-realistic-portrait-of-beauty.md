@@ -1,11 +1,16 @@
 ---
-title: "Golden Hour Glam: A Hyper-Realistic Portrait of Beauty"
+title: 'Golden Hour Glam: A Hyper-Realistic Portrait of Beauty'
 category: portraits
-tags: ["realistic","portrait","light","nano-banana-pro"]
-author: "[@YaseenK7212](https://x.com/YaseenK7212)"
-author_url: "https://twitter.com/YaseenK7212"
-source_url: "https://twitter.com/YaseenK7212/status/1993288440532611172"
-preview: "/media/portraits/pg-1993288440532611172.webp"
+tags:
+  - realistic
+  - portrait
+  - light
+  - 3d
+  - dark
+author: '[@YaseenK7212](https://x.com/YaseenK7212)'
+author_url: 'https://twitter.com/YaseenK7212'
+source_url: 'https://twitter.com/YaseenK7212/status/1993288440532611172'
+preview: /media/portraits/pg-1993288440532611172.webp
 ---
 
 Bathe in the ethereal glow of golden hour as water droplets dance on skin. This stunning close-up captures the essence of beauty, highlighting every delicate detail.

@@ -1,11 +1,13 @@
 ---
-title: "Gleaming Elegance: A Butterfly's Golden Dance"
+title: 'Gleaming Elegance: A Butterfly''s Golden Dance'
 category: creative
-tags: ["art","nano-banana-pro"]
-author: "[@BeanieBlossom](https://x.com/BeanieBlossom)"
-author_url: "https://twitter.com/BeanieBlossom"
-source_url: "https://twitter.com/BeanieBlossom/status/1995478061123526920"
-preview: "/media/creative/pg-1995478061123526920.webp"
+tags:
+  - art
+  - colorful
+author: '[@BeanieBlossom](https://x.com/BeanieBlossom)'
+author_url: 'https://twitter.com/BeanieBlossom'
+source_url: 'https://twitter.com/BeanieBlossom/status/1995478061123526920'
+preview: /media/creative/pg-1995478061123526920.webp
 ---
 
 Can you spot the intricate patterns on its wings? This stunning butterfly, adorned in golden hues against a soft beige backdrop, radiates artistry reminiscent of stained glass. Perfect for any artistic collection!

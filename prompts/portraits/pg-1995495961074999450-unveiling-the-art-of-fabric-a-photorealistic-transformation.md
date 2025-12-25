@@ -1,11 +1,19 @@
 ---
-title: "Unveiling the Art of Fabric: A Photorealistic Transformation"
+title: 'Unveiling the Art of Fabric: A Photorealistic Transformation'
 category: portraits
-tags: ["realistic","portrait","art","fashion","photorealistic","nano-banana-pro"]
-author: "[@ShreyaYadav___](https://x.com/ShreyaYadav___)"
-author_url: "https://twitter.com/ShreyaYadav___"
-source_url: "https://twitter.com/ShreyaYadav___/status/1995495961074999450"
-preview: "/media/portraits/pg-1995495961074999450.webp"
+tags:
+  - realistic
+  - portrait
+  - art
+  - fashion
+  - photorealistic
+  - 3d
+  - illustration
+  - dark
+author: '[@ShreyaYadav___](https://x.com/ShreyaYadav___)'
+author_url: 'https://twitter.com/ShreyaYadav___'
+source_url: 'https://twitter.com/ShreyaYadav___/status/1995495961074999450'
+preview: /media/portraits/pg-1995495961074999450.webp
 ---
 
 What if your outfit could literally tear away? This striking portrait blurs the lines between fashion and art, revealing the beauty beneath a paper layer.

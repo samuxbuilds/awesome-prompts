@@ -1,9 +1,16 @@
 ---
-title: "Q-version Emoji Sticker Pack Creation"
+title: Q-version Emoji Sticker Pack Creation
 category: icons
-tags: ["chibi", "cute", "sticker", "emoji", "character"]
-author: "[@dotey](https://x.com/dotey)"
-preview: "/media/icons/q-version-emoji-sticker-pack-creation.webp"
+tags:
+  - chibi
+  - cute
+  - sticker
+  - emoji
+  - character
+  - realistic
+  - colorful
+author: '[@dotey](https://x.com/dotey)'
+preview: /media/icons/q-version-emoji-sticker-pack-creation.webp
 ---
 
 Create a brand-new set of chibi-style stickers featuring the user as the main character, with six unique poses:

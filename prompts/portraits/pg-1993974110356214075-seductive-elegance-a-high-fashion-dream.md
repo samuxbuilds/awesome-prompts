@@ -1,11 +1,15 @@
 ---
-title: "Seductive Elegance: A High-Fashion Dream"
+title: 'Seductive Elegance: A High-Fashion Dream'
 category: portraits
-tags: ["art","fashion","nano-banana-pro"]
-author: "[@Just_sharon7](https://x.com/Just_sharon7)"
-author_url: "https://twitter.com/Just_sharon7"
-source_url: "https://twitter.com/Just_sharon7/status/1993974110356214075"
-preview: "/media/portraits/pg-1993974110356214075.webp"
+tags:
+  - art
+  - fashion
+  - realistic
+  - portrait
+author: '[@Just_sharon7](https://x.com/Just_sharon7)'
+author_url: 'https://twitter.com/Just_sharon7'
+source_url: 'https://twitter.com/Just_sharon7/status/1993974110356214075'
+preview: /media/portraits/pg-1993974110356214075.webp
 ---
 
 Lush hues of a deep wine-red dress embrace the model's flawless skin, while subtle floral tattoos peek through intricate cutouts. Each glance captivates, merging art with allure.

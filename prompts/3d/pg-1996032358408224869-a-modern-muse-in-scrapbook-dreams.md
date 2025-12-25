@@ -1,11 +1,20 @@
 ---
-title: "A Modern Muse in Scrapbook Dreams"
+title: A Modern Muse in Scrapbook Dreams
 category: 3d
-tags: ["modern","vibrant","nano-banana-pro"]
-author: "[@ZaraIrahh](https://x.com/ZaraIrahh)"
-author_url: "https://twitter.com/ZaraIrahh"
-source_url: "https://twitter.com/ZaraIrahh/status/1996032358408224869"
-preview: "/media/3d/pg-1996032358408224869.webp"
+tags:
+  - modern
+  - vibrant
+  - realistic
+  - 3d
+  - illustration
+  - minimalist
+  - portrait
+  - dark
+  - colorful
+author: '[@ZaraIrahh](https://x.com/ZaraIrahh)'
+author_url: 'https://twitter.com/ZaraIrahh'
+source_url: 'https://twitter.com/ZaraIrahh/status/1996032358408224869'
+preview: /media/3d/pg-1996032358408224869.webp
 ---
 
 A captivating scene unfolds! With her confident stance and playful outfit, she embodies creativity amidst a charming collage backdrop adorned with whimsical doodles and vibrant colors.

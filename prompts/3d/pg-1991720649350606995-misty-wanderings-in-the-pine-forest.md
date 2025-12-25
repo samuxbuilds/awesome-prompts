@@ -1,11 +1,18 @@
 ---
-title: "Misty Wanderings in the Pine Forest"
+title: Misty Wanderings in the Pine Forest
 category: 3d
-tags: ["nature","nano-banana-pro"]
-author: "[@oggii_0](https://x.com/oggii_0)"
-author_url: "https://twitter.com/oggii_0"
-source_url: "https://twitter.com/oggii_0/status/1991720649350606995"
-preview: "/media/3d/pg-1991720649350606995.webp"
+tags:
+  - nature
+  - realistic
+  - 3d
+  - vintage
+  - portrait
+  - landscape
+  - dark
+author: '[@oggii_0](https://x.com/oggii_0)'
+author_url: 'https://twitter.com/oggii_0'
+source_url: 'https://twitter.com/oggii_0/status/1991720649350606995'
+preview: /media/3d/pg-1991720649350606995.webp
 ---
 
 A lone figure in a moss-green overcoat glides through a foggy pine forest, brushing aside branches. Nature's tranquility contrasts with an air of curiosity.

@@ -1,11 +1,14 @@
 ---
-title: "Elegance Unveiled: The Classic Charm of Modern Sophistication"
+title: 'Elegance Unveiled: The Classic Charm of Modern Sophistication'
 category: portraits
-tags: ["modern","nano-banana-pro"]
-author: "[@mehvishs25](https://x.com/mehvishs25)"
-author_url: "https://twitter.com/mehvishs25"
-source_url: "https://twitter.com/mehvishs25/status/1995684279922331840"
-preview: "/media/portraits/pg-1995684279922331840.webp"
+tags:
+  - modern
+  - portrait
+  - dark
+author: '[@mehvishs25](https://x.com/mehvishs25)'
+author_url: 'https://twitter.com/mehvishs25'
+source_url: 'https://twitter.com/mehvishs25/status/1995684279922331840'
+preview: /media/portraits/pg-1995684279922331840.webp
 ---
 
 Isn't her style captivating? With a chic beret and rich hues, this image exudes timeless elegance. Soft backgrounds amplify her serene presence, embodying luxury in every detail.

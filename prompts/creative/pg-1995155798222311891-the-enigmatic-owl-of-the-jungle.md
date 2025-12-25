@@ -1,11 +1,17 @@
 ---
-title: "The Enigmatic Owl of the Jungle"
+title: The Enigmatic Owl of the Jungle
 category: creative
-tags: ["art","nature","dark","nano-banana-pro"]
-author: "[@MrDasOnX](https://x.com/MrDasOnX)"
-author_url: "https://twitter.com/MrDasOnX"
-source_url: "https://twitter.com/MrDasOnX/status/1995155798222311891"
-preview: "/media/creative/pg-1995155798222311891.webp"
+tags:
+  - art
+  - nature
+  - dark
+  - realistic
+  - illustration
+  - landscape
+author: '[@MrDasOnX](https://x.com/MrDasOnX)'
+author_url: 'https://twitter.com/MrDasOnX'
+source_url: 'https://twitter.com/MrDasOnX/status/1995155798222311891'
+preview: /media/creative/pg-1995155798222311891.webp
 ---
 
 An owl emerges from the shadows, its amber eyes piercing the darkness. The striking contrast of deep blacks and fiery orange brings a surreal quality to this high-detail artwork, inviting viewers to explore the mysterious depths of nature.

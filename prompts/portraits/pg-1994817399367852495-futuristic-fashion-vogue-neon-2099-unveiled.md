@@ -1,11 +1,16 @@
 ---
-title: "Futuristic Fashion: VOGUE NEON 2099 Unveiled"
+title: 'Futuristic Fashion: VOGUE NEON 2099 Unveiled'
 category: portraits
-tags: ["art","fashion","neon","nano-banana-pro"]
-author: "[@LudovicCreator](https://x.com/LudovicCreator)"
-author_url: "https://twitter.com/LudovicCreator"
-source_url: "https://twitter.com/LudovicCreator/status/1994817399367852495"
-preview: "/media/portraits/pg-1994817399367852495.webp"
+tags:
+  - art
+  - fashion
+  - neon
+  - minimalist
+  - portrait
+author: '[@LudovicCreator](https://x.com/LudovicCreator)'
+author_url: 'https://twitter.com/LudovicCreator'
+source_url: 'https://twitter.com/LudovicCreator/status/1994817399367852495'
+preview: /media/portraits/pg-1994817399367852495.webp
 ---
 
 A striking blend of technology and art, this cover features a gender-fluid model radiating bioluminescence, draped in ever-changing patterns.

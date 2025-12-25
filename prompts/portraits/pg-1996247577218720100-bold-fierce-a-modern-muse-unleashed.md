@@ -1,11 +1,17 @@
 ---
-title: "Bold & Fierce: A Modern Muse Unleashed"
+title: 'Bold & Fierce: A Modern Muse Unleashed'
 category: portraits
-tags: ["portrait","modern","fashion","nano-banana-pro"]
-author: "[@saniaspeaks_](https://x.com/saniaspeaks_)"
-author_url: "https://twitter.com/saniaspeaks_"
-source_url: "https://twitter.com/saniaspeaks_/status/1996247577218720100"
-preview: "/media/portraits/pg-1996247577218720100.webp"
+tags:
+  - portrait
+  - modern
+  - fashion
+  - minimalist
+  - dark
+  - colorful
+author: '[@saniaspeaks_](https://x.com/saniaspeaks_)'
+author_url: 'https://twitter.com/saniaspeaks_'
+source_url: 'https://twitter.com/saniaspeaks_/status/1996247577218720100'
+preview: /media/portraits/pg-1996247577218720100.webp
 ---
 
 Is this the future of business fashion? This striking editorial portrait captures a fearless woman exuding power in a tailored blazer, set against dramatic shadows that define her commanding presence.

@@ -1,11 +1,13 @@
 ---
-title: "Step into The Matrix: Broadway Awaits!"
+title: 'Step into The Matrix: Broadway Awaits!'
 category: portraits
-tags: ["nano-banana-pro"]
-author: "[@fofrAI](https://x.com/fofrAI)"
-author_url: "https://twitter.com/fofrAI"
-source_url: "https://twitter.com/fofrAI/status/1991564852876439803"
-preview: "/media/portraits/pg-1991564852876439803.webp"
+tags:
+  - realistic
+  - portrait
+author: '[@fofrAI](https://x.com/fofrAI)'
+author_url: 'https://twitter.com/fofrAI'
+source_url: 'https://twitter.com/fofrAI/status/1991564852876439803'
+preview: /media/portraits/pg-1991564852876439803.webp
 ---
 
 Behold the stunning program of The Matrix on Broadway! Its glossy finish reflects a world where reality bends, showcasing a captivating glimpse of the stage's magic.

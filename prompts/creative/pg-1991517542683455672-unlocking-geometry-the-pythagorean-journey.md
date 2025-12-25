@@ -1,11 +1,11 @@
 ---
-title: "Unlocking Geometry: The Pythagorean Journey"
+title: 'Unlocking Geometry: The Pythagorean Journey'
 category: creative
-tags: ["nano-banana-pro"]
-author: "[@rovvmut_](https://x.com/rovvmut_)"
-author_url: "https://twitter.com/rovvmut_"
-source_url: "https://twitter.com/rovvmut_/status/1991517542683455672"
-preview: "/media/creative/pg-1991517542683455672.webp"
+tags: []
+author: '[@rovvmut_](https://x.com/rovvmut_)'
+author_url: 'https://twitter.com/rovvmut_'
+source_url: 'https://twitter.com/rovvmut_/status/1991517542683455672'
+preview: /media/creative/pg-1991517542683455672.webp
 ---
 
 A chalkboard transforms into a canvas of logic and creativity! The Pythagorean theorem unfolds step by step, inviting curious minds to solve its mysteries.

@@ -1,11 +1,15 @@
 ---
-title: "A Whisper of Spring: Serenity in Bloom"
+title: 'A Whisper of Spring: Serenity in Bloom'
 category: portraits
-tags: ["nature","light","nano-banana-pro"]
-author: "[@Sophia_here12](https://x.com/Sophia_here12)"
-author_url: "https://twitter.com/Sophia_here12"
-source_url: "https://twitter.com/Sophia_here12/status/1996120648049987965"
-preview: "/media/portraits/pg-1996120648049987965.webp"
+tags:
+  - nature
+  - light
+  - portrait
+  - landscape
+author: '[@Sophia_here12](https://x.com/Sophia_here12)'
+author_url: 'https://twitter.com/Sophia_here12'
+source_url: 'https://twitter.com/Sophia_here12/status/1996120648049987965'
+preview: /media/portraits/pg-1996120648049987965.webp
 ---
 
 Amidst a sea of yellow, she strolls with grace. The soft petals and warm sunlight weave a tapestry of tranquility, inviting a moment's pause in nature's embrace.

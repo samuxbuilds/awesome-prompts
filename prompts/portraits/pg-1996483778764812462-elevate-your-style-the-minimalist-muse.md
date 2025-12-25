@@ -1,11 +1,16 @@
 ---
-title: "Elevate Your Style: The Minimalist Muse"
+title: 'Elevate Your Style: The Minimalist Muse'
 category: portraits
-tags: ["minimal","nano-banana-pro"]
-author: "[@Harboris_27](https://x.com/Harboris_27)"
-author_url: "https://twitter.com/Harboris_27"
-source_url: "https://twitter.com/Harboris_27/status/1996483778764812462"
-preview: "/media/portraits/pg-1996483778764812462.webp"
+tags:
+  - minimal
+  - realistic
+  - minimalist
+  - portrait
+  - dark
+author: '[@Harboris_27](https://x.com/Harboris_27)'
+author_url: 'https://twitter.com/Harboris_27'
+source_url: 'https://twitter.com/Harboris_27/status/1996483778764812462'
+preview: /media/portraits/pg-1996483778764812462.webp
 ---
 
 In a soft-lit haven, a model in a beige puffer jacket channels effortless elegance. The muted palette and rich textures invite a moment of quiet reflection.

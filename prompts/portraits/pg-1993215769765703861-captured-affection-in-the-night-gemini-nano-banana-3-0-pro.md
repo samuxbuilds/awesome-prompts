@@ -1,11 +1,15 @@
 ---
-title: "Captured Affection in the Night: Gemini Nano Banana 3.0 Pro"
+title: 'Captured Affection in the Night: Gemini Nano Banana 3.0 Pro'
 category: portraits
-tags: ["light","nano-banana-pro"]
-author: "[@xmliisu](https://x.com/xmliisu)"
-author_url: "https://twitter.com/xmliisu"
-source_url: "https://twitter.com/xmliisu/status/1993215769765703861"
-preview: "/media/portraits/pg-1993215769765703861.webp"
+tags:
+  - light
+  - realistic
+  - portrait
+  - dark
+author: '[@xmliisu](https://x.com/xmliisu)'
+author_url: 'https://twitter.com/xmliisu'
+source_url: 'https://twitter.com/xmliisu/status/1993215769765703861'
+preview: /media/portraits/pg-1993215769765703861.webp
 ---
 
 A moment of pure intimacy unfolds as a couple shares a tender embrace in a dimly lit car. The raindrops glisten on fogged glass, creating an enchanting backdrop, while the strong flash highlights their connection.

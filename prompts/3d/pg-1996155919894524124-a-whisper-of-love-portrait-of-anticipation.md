@@ -1,11 +1,15 @@
 ---
-title: "A Whisper of Love: Portrait of Anticipation"
+title: 'A Whisper of Love: Portrait of Anticipation'
 category: 3d
-tags: ["portrait","art","nano-banana-pro"]
-author: "[@ShreyaYadav___](https://x.com/ShreyaYadav___)"
-author_url: "https://twitter.com/ShreyaYadav___"
-source_url: "https://twitter.com/ShreyaYadav___/status/1996155919894524124"
-preview: "/media/3d/pg-1996155919894524124.webp"
+tags:
+  - portrait
+  - art
+  - 3d
+  - dark
+author: '[@ShreyaYadav___](https://x.com/ShreyaYadav___)'
+author_url: 'https://twitter.com/ShreyaYadav___'
+source_url: 'https://twitter.com/ShreyaYadav___/status/1996155919894524124'
+preview: /media/3d/pg-1996155919894524124.webp
 ---
 
 A tender moment captured, where two souls unite in the warm glow of love. Their silhouettes illuminated, hearts poised for a sweet kiss amidst a dreamy backdrop.

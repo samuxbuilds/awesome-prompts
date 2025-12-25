@@ -1,11 +1,16 @@
 ---
-title: "Simplicity Meets Striking Elegance"
+title: Simplicity Meets Striking Elegance
 category: portraits
-tags: ["portrait","minimal","nano-banana-pro"]
-author: "[@ShreyaYadav___](https://x.com/ShreyaYadav___)"
-author_url: "https://twitter.com/ShreyaYadav___"
-source_url: "https://twitter.com/ShreyaYadav___/status/1993213021024395351"
-preview: "/media/portraits/pg-1993213021024395351.webp"
+tags:
+  - portrait
+  - minimal
+  - realistic
+  - minimalist
+  - dark
+author: '[@ShreyaYadav___](https://x.com/ShreyaYadav___)'
+author_url: 'https://twitter.com/ShreyaYadav___'
+source_url: 'https://twitter.com/ShreyaYadav___/status/1993213021024395351'
+preview: /media/portraits/pg-1993213021024395351.webp
 ---
 
 A portrait that defines effortless charm—his piercing blue eyes and sun-kissed skin convey sophistication, while the minimalist style speaks volumes.

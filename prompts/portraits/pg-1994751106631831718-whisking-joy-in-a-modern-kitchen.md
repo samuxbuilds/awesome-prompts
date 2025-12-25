@@ -1,11 +1,16 @@
 ---
-title: "Whisking Joy in a Modern Kitchen"
+title: Whisking Joy in a Modern Kitchen
 category: portraits
-tags: ["modern","nano-banana-pro"]
-author: "[@saniaspeaks_](https://x.com/saniaspeaks_)"
-author_url: "https://twitter.com/saniaspeaks_"
-source_url: "https://twitter.com/saniaspeaks_/status/1994751106631831718"
-preview: "/media/portraits/pg-1994751106631831718.webp"
+tags:
+  - modern
+  - realistic
+  - minimalist
+  - portrait
+  - dark
+author: '[@saniaspeaks_](https://x.com/saniaspeaks_)'
+author_url: 'https://twitter.com/saniaspeaks_'
+source_url: 'https://twitter.com/saniaspeaks_/status/1994751106631831718'
+preview: /media/portraits/pg-1994751106631831718.webp
 ---
 
 In a cozy kitchen with glossy white cabinets, a cheerful woman stirs joy into her cooking, radiating warmth with her bright smile and stylish attire.

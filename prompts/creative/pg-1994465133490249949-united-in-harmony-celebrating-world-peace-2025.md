@@ -1,11 +1,13 @@
 ---
-title: "United in Harmony: Celebrating World Peace 2025"
+title: 'United in Harmony: Celebrating World Peace 2025'
 category: creative
-tags: ["vibrant","nano-banana-pro"]
-author: "[@maxescu](https://x.com/maxescu)"
-author_url: "https://twitter.com/maxescu"
-source_url: "https://twitter.com/maxescu/status/1994465133490249949"
-preview: "/media/creative/pg-1994465133490249949.webp"
+tags:
+  - vibrant
+  - colorful
+author: '[@maxescu](https://x.com/maxescu)'
+author_url: 'https://twitter.com/maxescu'
+source_url: 'https://twitter.com/maxescu/status/1994465133490249949'
+preview: /media/creative/pg-1994465133490249949.webp
 ---
 
 A vibrant tapestry of joy unfolds as people capture moments of unity, laughter, and hope. Together, they celebrate a future where peace reigns supreme.

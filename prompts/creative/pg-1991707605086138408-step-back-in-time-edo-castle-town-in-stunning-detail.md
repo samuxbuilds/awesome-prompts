@@ -1,11 +1,13 @@
 ---
-title: "Step Back in Time: Edo Castle Town in Stunning Detail"
+title: 'Step Back in Time: Edo Castle Town in Stunning Detail'
 category: creative
-tags: ["vibrant","nano-banana-pro"]
-author: "[@old_pgmrs_will](https://x.com/old_pgmrs_will)"
-author_url: "https://twitter.com/old_pgmrs_will"
-source_url: "https://twitter.com/old_pgmrs_will/status/1991707605086138408"
-preview: "/media/creative/pg-1991707605086138408.webp"
+tags:
+  - vibrant
+  - colorful
+author: '[@old_pgmrs_will](https://x.com/old_pgmrs_will)'
+author_url: 'https://twitter.com/old_pgmrs_will'
+source_url: 'https://twitter.com/old_pgmrs_will/status/1991707605086138408'
+preview: /media/creative/pg-1991707605086138408.webp
 ---
 
 Can you imagine wandering the vibrant streets of Edo-era Japan? This intricate capture transports you to a bustling castle town, rich in history and culture!

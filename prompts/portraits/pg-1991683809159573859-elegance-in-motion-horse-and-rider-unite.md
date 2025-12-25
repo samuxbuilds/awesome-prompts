@@ -1,11 +1,15 @@
 ---
-title: "Elegance in Motion: Horse and Rider Unite"
+title: 'Elegance in Motion: Horse and Rider Unite'
 category: portraits
-tags: ["light","nano-banana-pro"]
-author: "[@Rania_22100](https://x.com/Rania_22100)"
-author_url: "https://twitter.com/Rania_22100"
-source_url: "https://twitter.com/Rania_22100/status/1991683809159573859"
-preview: "/media/portraits/pg-1991683809159573859.webp"
+tags:
+  - light
+  - realistic
+  - portrait
+  - dark
+author: '[@Rania_22100](https://x.com/Rania_22100)'
+author_url: 'https://twitter.com/Rania_22100'
+source_url: 'https://twitter.com/Rania_22100/status/1991683809159573859'
+preview: /media/portraits/pg-1991683809159573859.webp
 ---
 
 This stunning scene captures the raw power and grace of a majestic horse rearing up, with its flowing mane catching the light—a true dance of strength and elegance among the greenery.

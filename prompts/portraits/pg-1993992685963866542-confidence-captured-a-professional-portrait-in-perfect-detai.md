@@ -1,11 +1,14 @@
 ---
-title: "Confidence Captured: A Professional Portrait in Perfect Detail"
+title: 'Confidence Captured: A Professional Portrait in Perfect Detail'
 category: portraits
-tags: ["portrait","light","nano-banana-pro"]
-author: "[@kingofdairyque](https://x.com/kingofdairyque)"
-author_url: "https://twitter.com/kingofdairyque"
-source_url: "https://twitter.com/kingofdairyque/status/1993992685963866542"
-preview: "/media/portraits/pg-1993992685963866542.webp"
+tags:
+  - portrait
+  - light
+  - realistic
+author: '[@kingofdairyque](https://x.com/kingofdairyque)'
+author_url: 'https://twitter.com/kingofdairyque'
+source_url: 'https://twitter.com/kingofdairyque/status/1993992685963866542'
+preview: /media/portraits/pg-1993992685963866542.webp
 ---
 
 Unveiling a striking portrait that radiates professionalism! The subtle textures of the charcoal blazer, the warm lighting, and an inviting expression create an unforgettable presence.

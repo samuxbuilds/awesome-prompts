@@ -1,11 +1,15 @@
 ---
-title: "Whimsical Symphony Amongst Vintage Pages"
+title: Whimsical Symphony Amongst Vintage Pages
 category: 3d
-tags: ["miniature","vintage","light","nano-banana-pro"]
-author: "[@BeanieBlossom](https://x.com/BeanieBlossom)"
-author_url: "https://twitter.com/BeanieBlossom"
-source_url: "https://twitter.com/BeanieBlossom/status/1994027714777669779"
-preview: "/media/3d/pg-1994027714777669779.webp"
+tags:
+  - miniature
+  - vintage
+  - light
+  - 3d
+author: '[@BeanieBlossom](https://x.com/BeanieBlossom)'
+author_url: 'https://twitter.com/BeanieBlossom'
+source_url: 'https://twitter.com/BeanieBlossom/status/1994027714777669779'
+preview: /media/3d/pg-1994027714777669779.webp
 ---
 
 A miniature musician serenades a cozy bookshop, perched on leather tomes, dressed in a patchwork coat. Golden light dances through dust, creating a magical Parisian atmosphere.

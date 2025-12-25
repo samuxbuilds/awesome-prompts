@@ -1,9 +1,17 @@
 ---
-title: "MrBeast Style - Face-Off"
-category: "thumbnails"
-tags: ["mrbeast", "youtube", "thumbnail", "competition", "versus"]
-author: "[@samux](https://x.com/samux)"
-preview: "/media/thumbnails/mrbeast-face-off.webp"
+title: MrBeast Style - Face-Off
+category: thumbnails
+tags:
+  - mrbeast
+  - youtube
+  - thumbnail
+  - competition
+  - versus
+  - realistic
+  - portrait
+  - colorful
+author: '[@samux](https://x.com/samux)'
+preview: /media/thumbnails/mrbeast-face-off.webp
 ---
 
 ```json

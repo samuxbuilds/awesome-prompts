@@ -1,11 +1,15 @@
 ---
-title: "Shearling Dreams: Cozy Elegance in Capture"
+title: 'Shearling Dreams: Cozy Elegance in Capture'
 category: portraits
-tags: ["light","nano-banana-pro"]
-author: "[@kingofdairyque](https://x.com/kingofdairyque)"
-author_url: "https://twitter.com/kingofdairyque"
-source_url: "https://twitter.com/kingofdairyque/status/1993254090009460822"
-preview: "/media/portraits/pg-1993254090009460822.webp"
+tags:
+  - light
+  - realistic
+  - portrait
+  - dark
+author: '[@kingofdairyque](https://x.com/kingofdairyque)'
+author_url: 'https://twitter.com/kingofdairyque'
+source_url: 'https://twitter.com/kingofdairyque/status/1993254090009460822'
+preview: /media/portraits/pg-1993254090009460822.webp
 ---
 
 A serene moment unfolds as the model lounges in soft textures, chicly styled in cream shearling and denim. The gentle interplay of light highlights every fluffy detail, inviting you to feel the warmth.

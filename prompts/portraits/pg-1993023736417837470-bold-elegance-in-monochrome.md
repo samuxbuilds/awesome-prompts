@@ -1,11 +1,16 @@
 ---
-title: "Bold Elegance in Monochrome"
+title: Bold Elegance in Monochrome
 category: portraits
-tags: ["portrait","light","nano-banana-pro"]
-author: "[@saniaspeaks_](https://x.com/saniaspeaks_)"
-author_url: "https://twitter.com/saniaspeaks_"
-source_url: "https://twitter.com/saniaspeaks_/status/1993023736417837470"
-preview: ""
+tags:
+  - portrait
+  - light
+  - realistic
+  - dark
+  - black-and-white
+author: '[@saniaspeaks_](https://x.com/saniaspeaks_)'
+author_url: 'https://twitter.com/saniaspeaks_'
+source_url: 'https://twitter.com/saniaspeaks_/status/1993023736417837470'
+preview: ''
 ---
 
 Striking and serious, this portrait captures a confident woman in a tailored suit, her gaze piercing through the shadows. The dramatic lighting accentuates her powerful presence, making a timeless statement.

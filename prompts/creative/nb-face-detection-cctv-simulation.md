@@ -1,9 +1,12 @@
 ---
-title: "Face Detection CCTV Simulation"
+title: Face Detection CCTV Simulation
 category: creative
-tags: ["creative", "ai-art"]
-author: "[@nanobanana-pro](https://x.com/nanobanana-pro)"
-preview: "/media/creative/nb-face-detection-cctv-simulation.webp"
+tags:
+  - creative
+  - ai-art
+  - portrait
+author: '[@nanobanana-pro](https://x.com/nanobanana-pro)'
+preview: /media/creative/nb-face-detection-cctv-simulation.webp
 ---
 
 *Create a high angle CCTV surveillance shot with face detection*

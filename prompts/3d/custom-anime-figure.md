@@ -1,9 +1,13 @@
 ---
-title: "Custom Anime Figure"
+title: Custom Anime Figure
 category: 3d
-tags: ["anime", "realistic", "character"]
-author: "[@dotey](https://x.com/dotey)"
-preview: "/media/3d/custom-anime-figure.webp"
+tags:
+  - anime
+  - realistic
+  - character
+  - 3d
+author: '[@dotey](https://x.com/dotey)'
+preview: /media/3d/custom-anime-figure.webp
 ---
 
 Generate an anime-style figure photo placed on a desktop, presented from a casual, everyday snapshot perspective as if taken with a mobile phone. The figure model is based on the attached character photo, accurately reproducing the full body posture, facial expression, and clothing style of the person in the photo, ensuring the entire figure is fully rendered. The overall design is exquisite and detailed, with hair and clothing featuring natural, soft gradient colors and fine textures. The style leans towards Japanese anime, rich in detail, with realistic textures and a beautiful appearance.

@@ -1,11 +1,20 @@
 ---
-title: "Revolutionizing Yoga Artistry with Nano Banana Pro"
+title: Revolutionizing Yoga Artistry with Nano Banana Pro
 category: 3d
-tags: ["art","nano-banana-pro"]
-author: "[@IamEmily2050](https://x.com/IamEmily2050)"
-author_url: "https://twitter.com/IamEmily2050"
-source_url: "https://twitter.com/IamEmily2050/status/1993143153042636868"
-preview: "/media/3d/pg-1993143153042636868.webp"
+tags:
+  - art
+  - realistic
+  - anime
+  - 3d
+  - illustration
+  - neon
+  - minimalist
+  - portrait
+  - dark
+author: '[@IamEmily2050](https://x.com/IamEmily2050)'
+author_url: 'https://twitter.com/IamEmily2050'
+source_url: 'https://twitter.com/IamEmily2050/status/1993143153042636868'
+preview: /media/3d/pg-1993143153042636868.webp
 ---
 
 A serene yoga scene unfolds, showcasing a meditative pose with exquisite detail. From the fluidity of the body to the delicate macrame backdrop, every element whispers tranquility.

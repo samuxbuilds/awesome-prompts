@@ -1,11 +1,18 @@
 ---
-title: "Simplicity Meets Style in Cinematic Fashion"
+title: Simplicity Meets Style in Cinematic Fashion
 category: portraits
-tags: ["portrait","modern","fashion","light","nano-banana-pro"]
-author: "[@Drshadow56](https://x.com/Drshadow56)"
-author_url: "https://twitter.com/Drshadow56"
-source_url: "https://twitter.com/Drshadow56/status/1991783128567017565"
-preview: "/media/portraits/pg-1991783128567017565.webp"
+tags:
+  - portrait
+  - modern
+  - fashion
+  - light
+  - realistic
+  - minimalist
+  - dark
+author: '[@Drshadow56](https://x.com/Drshadow56)'
+author_url: 'https://twitter.com/Drshadow56'
+source_url: 'https://twitter.com/Drshadow56/status/1991783128567017565'
+preview: /media/portraits/pg-1991783128567017565.webp
 ---
 
 Is there anything more striking than a rust shirt paired with effortless elegance? This modern portrait captures the essence of contemporary fashion, highlighted by cinematic lighting and sleek accessories. A true visual feast!

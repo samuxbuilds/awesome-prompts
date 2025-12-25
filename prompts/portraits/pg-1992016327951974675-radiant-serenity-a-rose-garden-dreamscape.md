@@ -1,11 +1,16 @@
 ---
-title: "Radiant Serenity: A Rose Garden Dreamscape"
+title: 'Radiant Serenity: A Rose Garden Dreamscape'
 category: portraits
-tags: ["nature","vibrant","nano-banana-pro"]
-author: "[@maham_2210](https://x.com/maham_2210)"
-author_url: "https://twitter.com/maham_2210"
-source_url: "https://twitter.com/maham_2210/status/1992016327951974675"
-preview: "/media/portraits/pg-1992016327951974675.webp"
+tags:
+  - nature
+  - vibrant
+  - portrait
+  - landscape
+  - colorful
+author: '[@maham_2210](https://x.com/maham_2210)'
+author_url: 'https://twitter.com/maham_2210'
+source_url: 'https://twitter.com/maham_2210/status/1992016327951974675'
+preview: /media/portraits/pg-1992016327951974675.webp
 ---
 
 Golden rays dance through petals as she cradles a rose, her floral dress whispering with the breeze. A moment of tranquility captured amidst nature's vibrant symphony.

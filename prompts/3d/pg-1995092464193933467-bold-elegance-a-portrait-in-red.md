@@ -1,11 +1,16 @@
 ---
-title: "Bold Elegance: A Portrait in Red"
+title: 'Bold Elegance: A Portrait in Red'
 category: 3d
-tags: ["portrait","light","nano-banana-pro"]
-author: "[@kingofdairyque](https://x.com/kingofdairyque)"
-author_url: "https://twitter.com/kingofdairyque"
-source_url: "https://twitter.com/kingofdairyque/status/1995092464193933467"
-preview: "/media/3d/pg-1995092464193933467.webp"
+tags:
+  - portrait
+  - light
+  - realistic
+  - 3d
+  - dark
+author: '[@kingofdairyque](https://x.com/kingofdairyque)'
+author_url: 'https://twitter.com/kingofdairyque'
+source_url: 'https://twitter.com/kingofdairyque/status/1995092464193933467'
+preview: /media/3d/pg-1995092464193933467.webp
 ---
 
 A striking figure emerges from a deep crimson backdrop, exuding intensity. Her sharp features and confident gaze captivate as dramatic lighting sculpts her silhouette, blending power with grace.

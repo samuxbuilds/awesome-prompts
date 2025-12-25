@@ -1,11 +1,12 @@
 ---
-title: "Unlocking Ray Kurzweil's Six Epochs with Nano Banana Pro!"
+title: Unlocking Ray Kurzweil's Six Epochs with Nano Banana Pro!
 category: creative
-tags: ["light","nano-banana-pro"]
-author: "[@Tsubame33785667](https://x.com/Tsubame33785667)"
-author_url: "https://twitter.com/Tsubame33785667"
-source_url: "https://twitter.com/Tsubame33785667/status/1991669329491120165"
-preview: "/media/creative/pg-1991669329491120165.webp"
+tags:
+  - light
+author: '[@Tsubame33785667](https://x.com/Tsubame33785667)'
+author_url: 'https://twitter.com/Tsubame33785667'
+source_url: 'https://twitter.com/Tsubame33785667/status/1991669329491120165'
+preview: /media/creative/pg-1991669329491120165.webp
 ---
 
 What happens when technology meets a banana? An enlightening visual journey through Ray Kurzweil's groundbreaking theory awaits! Explore the epochs like never before.

@@ -1,11 +1,16 @@
 ---
-title: "Chic Nightlife Elegance: The Gemini Nano Banana 3.0 Pro"
+title: 'Chic Nightlife Elegance: The Gemini Nano Banana 3.0 Pro'
 category: portraits
-tags: ["fashion","nano-banana-pro"]
-author: "[@chatgptpaglu](https://x.com/chatgptpaglu)"
-author_url: "https://twitter.com/chatgptpaglu"
-source_url: "https://twitter.com/chatgptpaglu/status/1992767441303113771"
-preview: "/media/portraits/pg-1992767441303113771.webp"
+tags:
+  - fashion
+  - realistic
+  - portrait
+  - landscape
+  - dark
+author: '[@chatgptpaglu](https://x.com/chatgptpaglu)'
+author_url: 'https://twitter.com/chatgptpaglu'
+source_url: 'https://twitter.com/chatgptpaglu/status/1992767441303113771'
+preview: /media/portraits/pg-1992767441303113771.webp
 ---
 
 Bold shadows and glossy waves paint a picture of glamour. This high-fashion moment captures confidence in a luxurious setting, where every glance draws you in.

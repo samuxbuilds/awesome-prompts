@@ -1,11 +1,15 @@
 ---
-title: "Corkboard Chic: A Fashion Collage Unveiled"
+title: 'Corkboard Chic: A Fashion Collage Unveiled'
 category: portraits
-tags: ["art","fashion","nano-banana-pro"]
-author: "[@bananaprompts](https://x.com/bananaprompts)"
-author_url: "https://twitter.com/bananaprompts"
-source_url: "https://twitter.com/bananaprompts/status/1991666618607267864"
-preview: "/media/portraits/pg-1991666618607267864.webp"
+tags:
+  - art
+  - fashion
+  - realistic
+  - portrait
+author: '[@bananaprompts](https://x.com/bananaprompts)'
+author_url: 'https://twitter.com/bananaprompts'
+source_url: 'https://twitter.com/bananaprompts/status/1991666618607267864'
+preview: /media/portraits/pg-1991666618607267864.webp
 ---
 
 Fashion meets creativity! This stunning collage artfully showcases each outfit piece on a warm corkboard, complete with charming labels that tell their story.

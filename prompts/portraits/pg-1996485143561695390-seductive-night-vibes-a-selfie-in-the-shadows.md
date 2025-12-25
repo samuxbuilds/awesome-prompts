@@ -1,11 +1,17 @@
 ---
-title: "Seductive Night Vibes: A Selfie in the Shadows"
+title: 'Seductive Night Vibes: A Selfie in the Shadows'
 category: portraits
-tags: ["portrait","selfie","fashion","light","nano-banana-pro"]
-author: "[@xmliisu](https://x.com/xmliisu)"
-author_url: "https://twitter.com/xmliisu"
-source_url: "https://twitter.com/xmliisu/status/1996485143561695390"
-preview: "/media/portraits/pg-1996485143561695390.webp"
+tags:
+  - portrait
+  - selfie
+  - fashion
+  - light
+  - realistic
+  - dark
+author: '[@xmliisu](https://x.com/xmliisu)'
+author_url: 'https://twitter.com/xmliisu'
+source_url: 'https://twitter.com/xmliisu/status/1996485143561695390'
+preview: /media/portraits/pg-1996485143561695390.webp
 ---
 
 Captured in a sleek car, this striking portrait exudes cool confidence. The model's playful expression and bold fashion steal the spotlight amidst the night’s allure.

@@ -1,11 +1,15 @@
 ---
-title: "Futuristic Elegance: A Metallic Marvel Unveiled"
+title: 'Futuristic Elegance: A Metallic Marvel Unveiled'
 category: portraits
-tags: ["portrait","fashion","nano-banana-pro"]
-author: "[@Just_sharon7](https://x.com/Just_sharon7)"
-author_url: "https://twitter.com/Just_sharon7"
-source_url: "https://twitter.com/Just_sharon7/status/1995685772696191187"
-preview: "/media/portraits/pg-1995685772696191187.webp"
+tags:
+  - portrait
+  - fashion
+  - neon
+  - dark
+author: '[@Just_sharon7](https://x.com/Just_sharon7)'
+author_url: 'https://twitter.com/Just_sharon7'
+source_url: 'https://twitter.com/Just_sharon7/status/1995685772696191187'
+preview: /media/portraits/pg-1995685772696191187.webp
 ---
 
 Bold and striking, this high-fashion portrait showcases a confident woman in a metallic silver ensemble. Her dramatic gaze and edgy styling redefine elegance against a crisp white backdrop.

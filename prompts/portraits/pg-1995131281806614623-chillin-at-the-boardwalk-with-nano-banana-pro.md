@@ -1,11 +1,16 @@
 ---
-title: "Chillin' at the Boardwalk with Nano Banana Pro"
+title: Chillin' at the Boardwalk with Nano Banana Pro
 category: portraits
-tags: ["vibrant","nano-banana-pro"]
-author: "[@saniaspeaks_](https://x.com/saniaspeaks_)"
-author_url: "https://twitter.com/saniaspeaks_"
-source_url: "https://twitter.com/saniaspeaks_/status/1995131281806614623"
-preview: "/media/portraits/pg-1995131281806614623.webp"
+tags:
+  - vibrant
+  - realistic
+  - portrait
+  - dark
+  - colorful
+author: '[@saniaspeaks_](https://x.com/saniaspeaks_)'
+author_url: 'https://twitter.com/saniaspeaks_'
+source_url: 'https://twitter.com/saniaspeaks_/status/1995131281806614623'
+preview: /media/portraits/pg-1995131281806614623.webp
 ---
 
 Under the sun's golden gaze, a confident woman in a vibrant green sweater brings life to the bustling boardwalk. The fisheye lens captures her cool vibe against a backdrop of summer joy!

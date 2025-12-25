@@ -1,9 +1,14 @@
 ---
-title: "Abstract Digital Art - Cosmic Flow"
-category: "arts"
-tags: ["abstract", "digital", "cosmic", "colorful"]
-author: "[@example_contributor](https://x.com/example_contributor)"
-preview: "https://images.unsplash.com/photo-1634017839464-5c339bbe3c39?w=800&q=80"
+title: Abstract Digital Art - Cosmic Flow
+category: arts
+tags:
+  - abstract
+  - digital
+  - cosmic
+  - colorful
+  - realistic
+author: '[@example_contributor](https://x.com/example_contributor)'
+preview: 'https://images.unsplash.com/photo-1634017839464-5c339bbe3c39?w=800&q=80'
 ---
 
 Create an abstract digital artwork with a cosmic theme:

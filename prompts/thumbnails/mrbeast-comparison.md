@@ -1,9 +1,16 @@
 ---
-title: "MrBeast Style - Comparison Split"
-category: "thumbnails"
-tags: ["mrbeast", "youtube", "thumbnail", "comparison", "split-screen"]
-author: "[@samux](https://x.com/samux)"
-preview: "/media/thumbnails/mrbeast-comparison.webp"
+title: MrBeast Style - Comparison Split
+category: thumbnails
+tags:
+  - mrbeast
+  - youtube
+  - thumbnail
+  - comparison
+  - split-screen
+  - neon
+  - colorful
+author: '[@samux](https://x.com/samux)'
+preview: /media/thumbnails/mrbeast-comparison.webp
 ---
 
 ```json

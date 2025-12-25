@@ -1,11 +1,17 @@
 ---
-title: "Charming Vibes at the Modern Pub"
+title: Charming Vibes at the Modern Pub
 category: 3d
-tags: ["modern","vibrant","nano-banana-pro"]
-author: "[@lexx_aura](https://x.com/lexx_aura)"
-author_url: "https://twitter.com/lexx_aura"
-source_url: "https://twitter.com/lexx_aura/status/1996561195424260299"
-preview: "/media/3d/pg-1996561195424260299.webp"
+tags:
+  - modern
+  - vibrant
+  - realistic
+  - 3d
+  - portrait
+  - colorful
+author: '[@lexx_aura](https://x.com/lexx_aura)'
+author_url: 'https://twitter.com/lexx_aura'
+source_url: 'https://twitter.com/lexx_aura/status/1996561195424260299'
+preview: /media/3d/pg-1996561195424260299.webp
 ---
 
 A stylish blend of casual elegance! The playful flick of hair and cheerful expression against a vibrant pub backdrop create a perfect snapshot of youthful allure.

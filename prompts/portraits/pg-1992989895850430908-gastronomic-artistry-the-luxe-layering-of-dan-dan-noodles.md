@@ -1,11 +1,17 @@
 ---
-title: "Gastronomic Artistry: The Luxe Layering of Dan Dan Noodles"
+title: 'Gastronomic Artistry: The Luxe Layering of Dan Dan Noodles'
 category: portraits
-tags: ["art","nano-banana-pro"]
-author: "[@berryxia_ai](https://x.com/berryxia_ai)"
-author_url: "https://twitter.com/berryxia_ai"
-source_url: "https://twitter.com/berryxia_ai/status/1992989895850430908"
-preview: "/media/portraits/pg-1992989895850430908.webp"
+tags:
+  - art
+  - realistic
+  - 3d
+  - portrait
+  - dark
+  - colorful
+author: '[@berryxia_ai](https://x.com/berryxia_ai)'
+author_url: 'https://twitter.com/berryxia_ai'
+source_url: 'https://twitter.com/berryxia_ai/status/1992989895850430908'
+preview: /media/portraits/pg-1992989895850430908.webp
 ---
 
 Behold the elegance of Dan Dan Noodles! Each layer, from fiery chili flakes to glossy broth, tells a delicious story, masterfully crafted for an upscale culinary experience.

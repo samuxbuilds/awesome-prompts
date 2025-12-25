@@ -1,11 +1,15 @@
 ---
-title: "Puppy Love in a Sunlit Room"
+title: Puppy Love in a Sunlit Room
 category: portraits
-tags: ["light","nano-banana-pro"]
-author: "[@johnnprofits](https://x.com/johnnprofits)"
-author_url: "https://twitter.com/johnnprofits"
-source_url: "https://twitter.com/johnnprofits/status/1996999496169857409"
-preview: "/media/portraits/pg-1996999496169857409.webp"
+tags:
+  - light
+  - realistic
+  - portrait
+  - dark
+author: '[@johnnprofits](https://x.com/johnnprofits)'
+author_url: 'https://twitter.com/johnnprofits'
+source_url: 'https://twitter.com/johnnprofits/status/1996999496169857409'
+preview: /media/portraits/pg-1996999496169857409.webp
 ---
 
 Captured in a warm embrace, a joyful woman cradles her fluffy golden doodle in a sunlit bedroom. The soft hues and gentle lighting create a cozy, affectionate moment.

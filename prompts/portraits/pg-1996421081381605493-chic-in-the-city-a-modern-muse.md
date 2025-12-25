@@ -1,11 +1,17 @@
 ---
-title: "Chic in the City: A Modern Muse"
+title: 'Chic in the City: A Modern Muse'
 category: portraits
-tags: ["modern","urban","fashion","nano-banana-pro"]
-author: "[@mehvishs25](https://x.com/mehvishs25)"
-author_url: "https://twitter.com/mehvishs25"
-source_url: "https://twitter.com/mehvishs25/status/1996421081381605493"
-preview: "/media/portraits/pg-1996421081381605493.webp"
+tags:
+  - modern
+  - urban
+  - fashion
+  - realistic
+  - portrait
+  - dark
+author: '[@mehvishs25](https://x.com/mehvishs25)'
+author_url: 'https://twitter.com/mehvishs25'
+source_url: 'https://twitter.com/mehvishs25/status/1996421081381605493'
+preview: /media/portraits/pg-1996421081381605493.webp
 ---
 
 Elegance meets urban flair as this stylish woman stands poised against a historic backdrop. With a coffee cup in hand and a confident stance, she redefines city fashion.

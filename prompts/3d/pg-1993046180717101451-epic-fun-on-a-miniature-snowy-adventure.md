@@ -1,11 +1,17 @@
 ---
-title: "Epic Fun on a Miniature Snowy Adventure!"
+title: Epic Fun on a Miniature Snowy Adventure!
 category: 3d
-tags: ["miniature","cute","nano-banana-pro"]
-author: "[@egeberkina](https://x.com/egeberkina)"
-author_url: "https://twitter.com/egeberkina"
-source_url: "https://twitter.com/egeberkina/status/1993046180717101451"
-preview: "/media/3d/pg-1993046180717101451.webp"
+tags:
+  - miniature
+  - cute
+  - realistic
+  - 3d
+  - portrait
+  - dark
+author: '[@egeberkina](https://x.com/egeberkina)'
+author_url: 'https://twitter.com/egeberkina'
+source_url: 'https://twitter.com/egeberkina/status/1993046180717101451'
+preview: /media/3d/pg-1993046180717101451.webp
 ---
 
 Tiny figures bring this cone to life with skiing thrills and playful antics! From daring jumps to a cute husky on a sled, this snowy scene packs endless winter excitement!

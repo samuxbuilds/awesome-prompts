@@ -1,11 +1,16 @@
 ---
-title: "Revitalize Your Memories with AI Magic"
+title: Revitalize Your Memories with AI Magic
 category: portraits
-tags: ["realistic","vibrant","nano-banana-pro"]
-author: "[@ShreyaYadav___](https://x.com/ShreyaYadav___)"
-author_url: "https://twitter.com/ShreyaYadav___"
-source_url: "https://twitter.com/ShreyaYadav___/status/1996643066657259683"
-preview: "/media/portraits/pg-1996643066657259683.webp"
+tags:
+  - realistic
+  - vibrant
+  - portrait
+  - dark
+  - colorful
+author: '[@ShreyaYadav___](https://x.com/ShreyaYadav___)'
+author_url: 'https://twitter.com/ShreyaYadav___'
+source_url: 'https://twitter.com/ShreyaYadav___/status/1996643066657259683'
+preview: /media/portraits/pg-1996643066657259683.webp
 ---
 
 Transform your cherished yet worn photos into stunning masterpieces! With hyper-realistic details and vibrant hues, every scratch and blur vanishes, revealing the beauty of the past.

@@ -1,11 +1,12 @@
 ---
-title: "Sculpt Your Reality: Nano Banana Pro Unleashed!"
+title: 'Sculpt Your Reality: Nano Banana Pro Unleashed!'
 category: portraits
-tags: ["nano-banana-pro"]
-author: "[@umesh_ai](https://x.com/umesh_ai)"
-author_url: "https://twitter.com/umesh_ai"
-source_url: "https://twitter.com/umesh_ai/status/1991728595451203798"
-preview: "/media/portraits/pg-1991728595451203798.webp"
+tags:
+  - portrait
+author: '[@umesh_ai](https://x.com/umesh_ai)'
+author_url: 'https://twitter.com/umesh_ai'
+source_url: 'https://twitter.com/umesh_ai/status/1991728595451203798'
+preview: /media/portraits/pg-1991728595451203798.webp
 ---
 
 Transform your images into breathtaking marble sculptures! The Nano Banana Pro captures every exquisite detail, showcasing elegance and depth that mesmerizes the eye.

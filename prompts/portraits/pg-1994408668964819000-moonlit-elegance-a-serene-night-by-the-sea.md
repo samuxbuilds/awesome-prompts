@@ -1,11 +1,14 @@
 ---
-title: "Moonlit Elegance: A Serene Night by the Sea"
+title: 'Moonlit Elegance: A Serene Night by the Sea'
 category: portraits
-tags: ["light","nano-banana-pro"]
-author: "[@Ashlley_grace_](https://x.com/Ashlley_grace_)"
-author_url: "https://twitter.com/Ashlley_grace_"
-source_url: "https://twitter.com/Ashlley_grace_/status/1994408668964819000"
-preview: "/media/portraits/pg-1994408668964819000.webp"
+tags:
+  - light
+  - portrait
+  - dark
+author: '[@Ashlley_grace_](https://x.com/Ashlley_grace_)'
+author_url: 'https://twitter.com/Ashlley_grace_'
+source_url: 'https://twitter.com/Ashlley_grace_/status/1994408668964819000'
+preview: /media/portraits/pg-1994408668964819000.webp
 ---
 
 Bathed in moonlight, she exudes grace on a tranquil beach. Antique lanterns flicker beside her as roses scatter softly on the sand, creating a dreamy atmosphere beneath the stars.

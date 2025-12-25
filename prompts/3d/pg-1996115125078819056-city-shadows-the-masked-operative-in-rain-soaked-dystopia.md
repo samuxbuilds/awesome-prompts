@@ -1,11 +1,19 @@
 ---
-title: "City Shadows: The Masked Operative in Rain-soaked Dystopia"
+title: 'City Shadows: The Masked Operative in Rain-soaked Dystopia'
 category: 3d
-tags: ["art","urban","light","nano-banana-pro"]
-author: "[@AIwithkhan](https://x.com/AIwithkhan)"
-author_url: "https://twitter.com/AIwithkhan"
-source_url: "https://twitter.com/AIwithkhan/status/1996115125078819056"
-preview: "/media/3d/pg-1996115125078819056.webp"
+tags:
+  - art
+  - urban
+  - light
+  - realistic
+  - 3d
+  - neon
+  - portrait
+  - dark
+author: '[@AIwithkhan](https://x.com/AIwithkhan)'
+author_url: 'https://twitter.com/AIwithkhan'
+source_url: 'https://twitter.com/AIwithkhan/status/1996115125078819056'
+preview: /media/3d/pg-1996115125078819056.webp
 ---
 
 In the heart of a drenched urban jungle, a fierce figure stands defiantly against the night. Her tactical suit glimmers under the haunting glow of streetlights, as raindrops dance on her face and reflect her steely resolve.

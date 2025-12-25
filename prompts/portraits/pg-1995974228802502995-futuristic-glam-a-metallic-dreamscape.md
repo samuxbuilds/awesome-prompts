@@ -1,11 +1,15 @@
 ---
-title: "Futuristic Glam: A Metallic Dreamscape"
+title: 'Futuristic Glam: A Metallic Dreamscape'
 category: portraits
-tags: ["portrait","fashion","nano-banana-pro"]
-author: "[@IqraSaifiii](https://x.com/IqraSaifiii)"
-author_url: "https://twitter.com/IqraSaifiii"
-source_url: "https://twitter.com/IqraSaifiii/status/1995974228802502995"
-preview: "/media/portraits/pg-1995974228802502995.webp"
+tags:
+  - portrait
+  - fashion
+  - neon
+  - dark
+author: '[@IqraSaifiii](https://x.com/IqraSaifiii)'
+author_url: 'https://twitter.com/IqraSaifiii'
+source_url: 'https://twitter.com/IqraSaifiii/status/1995974228802502995'
+preview: /media/portraits/pg-1995974228802502995.webp
 ---
 
 Bold elegance shines in this high-fashion portrait! A stunning metallic ensemble drapes effortlessly over a youthful silhouette, exuding an edgy allure.

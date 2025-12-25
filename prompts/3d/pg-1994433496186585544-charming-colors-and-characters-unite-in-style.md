@@ -1,11 +1,20 @@
 ---
-title: "Charming Colors and Characters Unite in Style!"
+title: Charming Colors and Characters Unite in Style!
 category: 3d
-tags: ["fashion","light","nano-banana-pro"]
-author: "[@miilesus](https://x.com/miilesus)"
-author_url: "https://twitter.com/miilesus"
-source_url: "https://twitter.com/miilesus/status/1994433496186585544"
-preview: "/media/3d/pg-1994433496186585544.webp"
+tags:
+  - fashion
+  - light
+  - realistic
+  - 3d
+  - vintage
+  - minimalist
+  - portrait
+  - dark
+  - colorful
+author: '[@miilesus](https://x.com/miilesus)'
+author_url: 'https://twitter.com/miilesus'
+source_url: 'https://twitter.com/miilesus/status/1994433496186585544'
+preview: /media/3d/pg-1994433496186585544.webp
 ---
 
 A stunning young woman poses effortlessly with a glossy Winnie-the-Pooh, radiating a playful vibe in warm hues. Fashion meets nostalgia in this delightful shoot!

@@ -1,11 +1,21 @@
 ---
-title: "Chalkboard Dreams: Boa Hancock Comes to Life"
+title: 'Chalkboard Dreams: Boa Hancock Comes to Life'
 category: portraits
-tags: ["art","vibrant","nano-banana-pro"]
-author: "[@IamEmily2050](https://x.com/IamEmily2050)"
-author_url: "https://twitter.com/IamEmily2050"
-source_url: "https://twitter.com/IamEmily2050/status/1994624635300974734"
-preview: "/media/portraits/pg-1994624635300974734.webp"
+tags:
+  - art
+  - vibrant
+  - realistic
+  - anime
+  - 3d
+  - illustration
+  - portrait
+  - landscape
+  - dark
+  - colorful
+author: '[@IamEmily2050](https://x.com/IamEmily2050)'
+author_url: 'https://twitter.com/IamEmily2050'
+source_url: 'https://twitter.com/IamEmily2050/status/1994624635300974734'
+preview: /media/portraits/pg-1994624635300974734.webp
 ---
 
 In this serene classroom, Boa Hancock commands attention from a vibrant chalkboard, her bold colors and striking pose captivating with every glance. A unique fusion of art and academia!

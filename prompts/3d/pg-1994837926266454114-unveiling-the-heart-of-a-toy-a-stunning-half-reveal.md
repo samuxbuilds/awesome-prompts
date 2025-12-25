@@ -1,11 +1,14 @@
 ---
-title: "Unveiling the Heart of a Toy: A Stunning Half-Reveal"
+title: 'Unveiling the Heart of a Toy: A Stunning Half-Reveal'
 category: 3d
-tags: ["art","nano-banana-pro"]
-author: "[@ozan_sihay](https://x.com/ozan_sihay)"
-author_url: "https://twitter.com/ozan_sihay"
-source_url: "https://twitter.com/ozan_sihay/status/1994837926266454114"
-preview: "/media/3d/pg-1994837926266454114.webp"
+tags:
+  - art
+  - realistic
+  - 3d
+author: '[@ozan_sihay](https://x.com/ozan_sihay)'
+author_url: 'https://twitter.com/ozan_sihay'
+source_url: 'https://twitter.com/ozan_sihay/status/1994837926266454114'
+preview: /media/3d/pg-1994837926266454114.webp
 ---
 
 Is it art or engineering? This captivating macro shot unveils a toy figure split in two, revealing both its glossy exterior and intricate inner workings.

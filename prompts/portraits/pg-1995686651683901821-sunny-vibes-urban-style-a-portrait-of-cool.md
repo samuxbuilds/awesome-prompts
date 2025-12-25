@@ -1,11 +1,17 @@
 ---
-title: "Sunny Vibes & Urban Style: A Portrait of Cool"
+title: 'Sunny Vibes & Urban Style: A Portrait of Cool'
 category: portraits
-tags: ["portrait","urban","fashion","vibrant","nano-banana-pro"]
-author: "[@oggii_0](https://x.com/oggii_0)"
-author_url: "https://twitter.com/oggii_0"
-source_url: "https://twitter.com/oggii_0/status/1995686651683901821"
-preview: "/media/portraits/pg-1995686651683901821.webp"
+tags:
+  - portrait
+  - urban
+  - fashion
+  - vibrant
+  - realistic
+  - colorful
+author: '[@oggii_0](https://x.com/oggii_0)'
+author_url: 'https://twitter.com/oggii_0'
+source_url: 'https://twitter.com/oggii_0/status/1995686651683901821'
+preview: /media/portraits/pg-1995686651683901821.webp
 ---
 
 Elegance meets casual in a sunlit suburban scene. This stylish man, draped in olive-grey, holds his black duffel bag, perfectly framed by vibrant orange trees and a sleek SUV. Fashion and lifestyle converge under a stunning sky!

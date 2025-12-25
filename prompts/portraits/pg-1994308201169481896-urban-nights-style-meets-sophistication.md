@@ -1,11 +1,17 @@
 ---
-title: "Urban Nights: Style Meets Sophistication"
+title: 'Urban Nights: Style Meets Sophistication'
 category: portraits
-tags: ["modern","urban","light","nano-banana-pro"]
-author: "[@SimplyAnnisa](https://x.com/SimplyAnnisa)"
-author_url: "https://twitter.com/SimplyAnnisa"
-source_url: "https://twitter.com/SimplyAnnisa/status/1994308201169481896"
-preview: "/media/portraits/pg-1994308201169481896.webp"
+tags:
+  - modern
+  - urban
+  - light
+  - realistic
+  - portrait
+  - dark
+author: '[@SimplyAnnisa](https://x.com/SimplyAnnisa)'
+author_url: 'https://twitter.com/SimplyAnnisa'
+source_url: 'https://twitter.com/SimplyAnnisa/status/1994308201169481896'
+preview: /media/portraits/pg-1994308201169481896.webp
 ---
 
 A stylish woman leans against a sleek BMW under the shimmering city lights. Palm trees sparkle with fairy lights, setting a luxurious, modern scene that's pure urban magic.

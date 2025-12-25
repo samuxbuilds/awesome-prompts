@@ -1,11 +1,15 @@
 ---
-title: "Night's Embrace: Urban Vibes with Gemini Nano Banana 3.0"
+title: 'Night''s Embrace: Urban Vibes with Gemini Nano Banana 3.0'
 category: 3d
-tags: ["urban","neon","nano-banana-pro"]
-author: "[@lexx_aura](https://x.com/lexx_aura)"
-author_url: "https://twitter.com/lexx_aura"
-source_url: "https://twitter.com/lexx_aura/status/1991819585880768654"
-preview: "/media/3d/pg-1991819585880768654.webp"
+tags:
+  - urban
+  - neon
+  - 3d
+  - dark
+author: '[@lexx_aura](https://x.com/lexx_aura)'
+author_url: 'https://twitter.com/lexx_aura'
+source_url: 'https://twitter.com/lexx_aura/status/1991819585880768654'
+preview: /media/3d/pg-1991819585880768654.webp
 ---
 
 A lone figure stands against gritty bricks, caught in neon whispers. Cool blue hues dance on his profile, merging style and shadow in an urban nocturne.

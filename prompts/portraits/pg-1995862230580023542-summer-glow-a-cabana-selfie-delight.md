@@ -1,11 +1,18 @@
 ---
-title: "Summer Glow: A Cabana Selfie Delight"
+title: 'Summer Glow: A Cabana Selfie Delight'
 category: portraits
-tags: ["selfie","light","vibrant","nano-banana-pro"]
-author: "[@_MehdiSharifi_](https://x.com/_MehdiSharifi_)"
-author_url: "https://twitter.com/_MehdiSharifi_"
-source_url: "https://twitter.com/_MehdiSharifi_/status/1995862230580023542"
-preview: "/media/portraits/pg-1995862230580023542.webp"
+tags:
+  - selfie
+  - light
+  - vibrant
+  - realistic
+  - portrait
+  - dark
+  - colorful
+author: '[@_MehdiSharifi_](https://x.com/_MehdiSharifi_)'
+author_url: 'https://twitter.com/_MehdiSharifi_'
+source_url: 'https://twitter.com/_MehdiSharifi_/status/1995862230580023542'
+preview: /media/portraits/pg-1995862230580023542.webp
 ---
 
 Sun-kissed and carefree! This stunning mirror selfie captures a young woman's vibrant beach vibe, framed by ocean waves and tropical plants. Pure vacation bliss!

@@ -1,11 +1,18 @@
 ---
-title: "Sleek Perfection: The Art of Assembly in 3D Packaging"
+title: 'Sleek Perfection: The Art of Assembly in 3D Packaging'
 category: 3d
-tags: ["3d","art","minimal","nano-banana-pro"]
-author: "[@_MehdiSharifi_](https://x.com/_MehdiSharifi_)"
-author_url: "https://twitter.com/_MehdiSharifi_"
-source_url: "https://twitter.com/_MehdiSharifi_/status/1994022879051014312"
-preview: "/media/3d/pg-1994022879051014312.webp"
+tags:
+  - 3d
+  - art
+  - minimal
+  - realistic
+  - minimalist
+  - portrait
+  - dark
+author: '[@_MehdiSharifi_](https://x.com/_MehdiSharifi_)'
+author_url: 'https://twitter.com/_MehdiSharifi_'
+source_url: 'https://twitter.com/_MehdiSharifi_/status/1994022879051014312'
+preview: /media/3d/pg-1994022879051014312.webp
 ---
 
 Behold a stunningly crafted packaging box that showcases immaculate design. Its pristine matte texture and sharp edges stand proudly, reflecting high-end elegance in a minimalistic studio.

@@ -1,11 +1,16 @@
 ---
-title: "Neon Dreams: A Cyberpunk Portrait Unveiled"
+title: 'Neon Dreams: A Cyberpunk Portrait Unveiled'
 category: portraits
-tags: ["realistic","portrait","urban","dark","neon","nano-banana-pro"]
-author: "[@_imfaizan18](https://x.com/_imfaizan18)"
-author_url: "https://twitter.com/_imfaizan18"
-source_url: "https://twitter.com/_imfaizan18/status/1995415261743034471"
-preview: "/media/portraits/pg-1995415261743034471.webp"
+tags:
+  - realistic
+  - portrait
+  - urban
+  - dark
+  - neon
+author: '[@_imfaizan18](https://x.com/_imfaizan18)'
+author_url: 'https://twitter.com/_imfaizan18'
+source_url: 'https://twitter.com/_imfaizan18/status/1995415261743034471'
+preview: /media/portraits/pg-1995415261743034471.webp
 ---
 
 Amidst a dark urban blur, a hyper-realistic portrait emerges, capturing an ethereal calm. Soft neon colors dance around, illuminating the focused gaze and techwear style!

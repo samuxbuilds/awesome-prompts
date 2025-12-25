@@ -1,11 +1,15 @@
 ---
-title: "TIME: A Melting Moment in Minimalism"
+title: 'TIME: A Melting Moment in Minimalism'
 category: creative
-tags: ["minimal","nano-banana-pro"]
-author: "[@LudovicCreator](https://x.com/LudovicCreator)"
-author_url: "https://twitter.com/LudovicCreator"
-source_url: "https://twitter.com/LudovicCreator/status/1996565176921796789"
-preview: "/media/creative/pg-1996565176921796789.webp"
+tags:
+  - minimal
+  - illustration
+  - minimalist
+  - dark
+author: '[@LudovicCreator](https://x.com/LudovicCreator)'
+author_url: 'https://twitter.com/LudovicCreator'
+source_url: 'https://twitter.com/LudovicCreator/status/1996565176921796789'
+preview: /media/creative/pg-1996565176921796789.webp
 ---
 
 A stunning visual language unfolds as the word 'TIME' transforms. A candle melts elegantly, capturing the essence of fleeting moments against a serene gradient backdrop.

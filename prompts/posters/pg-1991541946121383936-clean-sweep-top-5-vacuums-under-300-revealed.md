@@ -1,11 +1,13 @@
 ---
-title: "Clean Sweep: Top 5 Vacuums Under $300 Revealed!"
+title: 'Clean Sweep: Top 5 Vacuums Under $300 Revealed!'
 category: posters
-tags: ["vibrant","nano-banana-pro"]
-author: "[@raizamrtn](https://x.com/raizamrtn)"
-author_url: "https://twitter.com/raizamrtn"
-source_url: "https://twitter.com/raizamrtn/status/1991541946121383936"
-preview: "/media/posters/pg-1991541946121383936.webp"
+tags:
+  - vibrant
+  - colorful
+author: '[@raizamrtn](https://x.com/raizamrtn)'
+author_url: 'https://twitter.com/raizamrtn'
+source_url: 'https://twitter.com/raizamrtn/status/1991541946121383936'
+preview: /media/posters/pg-1991541946121383936.webp
 ---
 
 Which vacuum reigns supreme under $300? This vibrant infographic lays out the pros and cons, making your choice a breeze. Discover the best for your home!

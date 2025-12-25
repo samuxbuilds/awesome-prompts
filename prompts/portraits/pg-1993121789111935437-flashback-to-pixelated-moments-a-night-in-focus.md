@@ -1,11 +1,17 @@
 ---
-title: "Flashback to Pixelated Moments: A Night in Focus"
+title: 'Flashback to Pixelated Moments: A Night in Focus'
 category: portraits
-tags: ["light","digital","nano-banana-pro"]
-author: "[@kingofdairyque](https://x.com/kingofdairyque)"
-author_url: "https://twitter.com/kingofdairyque"
-source_url: "https://twitter.com/kingofdairyque/status/1993121789111935437"
-preview: "/media/portraits/pg-1993121789111935437.webp"
+tags:
+  - light
+  - digital
+  - realistic
+  - vintage
+  - portrait
+  - dark
+author: '[@kingofdairyque](https://x.com/kingofdairyque)'
+author_url: 'https://twitter.com/kingofdairyque'
+source_url: 'https://twitter.com/kingofdairyque/status/1993121789111935437'
+preview: /media/portraits/pg-1993121789111935437.webp
 ---
 
 Caught in a candid flash! This close-up captures a young woman's essence in a nostalgic digital snapshot, blending sharp highlights with soft shadows in a retro kitchen scene.

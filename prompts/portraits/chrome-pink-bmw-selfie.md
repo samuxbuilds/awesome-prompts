@@ -1,11 +1,21 @@
 ---
-title: "Chrome Pink BMW Selfie"
+title: Chrome Pink BMW Selfie
 category: portraits
-tags: ["selfie", "bmw", "luxury", "urban", "street-style", "casual", "pink-car"]
-author: "Gauche AI"
-author_url: "https://x.com/gaucheai"
-source_url: "https://x.com/gaucheai/status/1997405140723323255"
-preview: "/media/portraits/chrome-pink-bmw-selfie.webp"
+tags:
+  - selfie
+  - bmw
+  - luxury
+  - urban
+  - street-style
+  - casual
+  - pink-car
+  - realistic
+  - portrait
+  - colorful
+author: Gauche AI
+author_url: 'https://x.com/gaucheai'
+source_url: 'https://x.com/gaucheai/status/1997405140723323255'
+preview: /media/portraits/chrome-pink-bmw-selfie.webp
 ---
 
 *A casual yet luxurious main character moment featuring a chrome pink BMW i8.*

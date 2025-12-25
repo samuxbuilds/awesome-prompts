@@ -1,11 +1,15 @@
 ---
-title: "Batman's Solitude: A Night of Reflection"
+title: 'Batman''s Solitude: A Night of Reflection'
 category: portraits
-tags: ["urban","dark","neon","nano-banana-pro"]
-author: "[@rovvmut_](https://x.com/rovvmut_)"
-author_url: "https://twitter.com/rovvmut_"
-source_url: "https://twitter.com/rovvmut_/status/1996591034768441721"
-preview: "/media/portraits/pg-1996591034768441721.webp"
+tags:
+  - urban
+  - dark
+  - neon
+  - portrait
+author: '[@rovvmut_](https://x.com/rovvmut_)'
+author_url: 'https://twitter.com/rovvmut_'
+source_url: 'https://twitter.com/rovvmut_/status/1996591034768441721'
+preview: /media/portraits/pg-1996591034768441721.webp
 ---
 
 On the edge of darkness, Batman contemplates his path. Raindrops dance on neon streets below, while his iconic mask hangs heavy in thought. A breathtaking urban tableau unfolds, blending sharp detail with cinematic magic.

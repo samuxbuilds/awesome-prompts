@@ -1,11 +1,13 @@
 ---
-title: "Uncanny Connection: Alien Meets Elf in Ethereal Portrait"
+title: 'Uncanny Connection: Alien Meets Elf in Ethereal Portrait'
 category: portraits
-tags: ["portrait","nano-banana-pro"]
-author: "[@monicamoonx](https://x.com/monicamoonx)"
-author_url: "https://twitter.com/monicamoonx"
-source_url: "https://twitter.com/monicamoonx/status/1996607862852735460"
-preview: "/media/portraits/pg-1996607862852735460.webp"
+tags:
+  - portrait
+  - realistic
+author: '[@monicamoonx](https://x.com/monicamoonx)'
+author_url: 'https://twitter.com/monicamoonx'
+source_url: 'https://twitter.com/monicamoonx/status/1996607862852735460'
+preview: /media/portraits/pg-1996607862852735460.webp
 ---
 
 Two worlds collide in this striking close-up: an alien and an elf, each with hauntingly similar emerald and obsidian eyes, locked in an emotionless gaze that captivates and unsettles.

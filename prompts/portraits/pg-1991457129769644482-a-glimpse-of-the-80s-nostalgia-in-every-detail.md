@@ -1,11 +1,16 @@
 ---
-title: "A Glimpse of the 80s: Nostalgia in Every Detail"
+title: 'A Glimpse of the 80s: Nostalgia in Every Detail'
 category: portraits
-tags: ["portrait","vintage","nano-banana-pro"]
-author: "[@ZaraIrahh](https://x.com/ZaraIrahh)"
-author_url: "https://twitter.com/ZaraIrahh"
-source_url: "https://twitter.com/ZaraIrahh/status/1991457129769644482"
-preview: "/media/portraits/pg-1991457129769644482.webp"
+tags:
+  - portrait
+  - vintage
+  - realistic
+  - minimalist
+  - dark
+author: '[@ZaraIrahh](https://x.com/ZaraIrahh)'
+author_url: 'https://twitter.com/ZaraIrahh'
+source_url: 'https://twitter.com/ZaraIrahh/status/1991457129769644482'
+preview: /media/portraits/pg-1991457129769644482.webp
 ---
 
 Captured in a cozy family kitchen, this portrait evokes the warmth of 1980s life. From the floral shirt to the vintage décor, every element whispers stories of yesteryear.

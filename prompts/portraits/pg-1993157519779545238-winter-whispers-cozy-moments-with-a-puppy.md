@@ -1,11 +1,16 @@
 ---
-title: "Winter Whispers: Cozy Moments with a Puppy"
+title: 'Winter Whispers: Cozy Moments with a Puppy'
 category: portraits
-tags: ["light","nano-banana-pro"]
-author: "[@_imfaizan18](https://x.com/_imfaizan18)"
-author_url: "https://twitter.com/_imfaizan18"
-source_url: "https://twitter.com/_imfaizan18/status/1993157519779545238"
-preview: "/media/portraits/pg-1993157519779545238.webp"
+tags:
+  - light
+  - realistic
+  - minimalist
+  - portrait
+  - dark
+author: '[@_imfaizan18](https://x.com/_imfaizan18)'
+author_url: 'https://twitter.com/_imfaizan18'
+source_url: 'https://twitter.com/_imfaizan18/status/1993157519779545238'
+preview: /media/portraits/pg-1993157519779545238.webp
 ---
 
 A snowy morning scene captures a young woman in a cream hoodie, sharing warmth with her curious fluffy puppy. The gentle light adds a touch of magic to their bond.

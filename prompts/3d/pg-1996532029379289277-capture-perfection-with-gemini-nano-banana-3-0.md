@@ -1,11 +1,16 @@
 ---
-title: "Capture Perfection with Gemini Nano Banana 3.0! 📸"
+title: "Capture Perfection with Gemini Nano Banana 3.0! \U0001F4F8"
 category: 3d
-tags: ["portrait","nano-banana-pro"]
-author: "[@Nona_xai](https://x.com/Nona_xai)"
-author_url: "https://twitter.com/Nona_xai"
-source_url: "https://twitter.com/Nona_xai/status/1996532029379289277"
-preview: "/media/3d/pg-1996532029379289277.webp"
+tags:
+  - portrait
+  - realistic
+  - 3d
+  - illustration
+  - dark
+author: '[@Nona_xai](https://x.com/Nona_xai)'
+author_url: 'https://twitter.com/Nona_xai'
+source_url: 'https://twitter.com/Nona_xai/status/1996532029379289277'
+preview: /media/3d/pg-1996532029379289277.webp
 ---
 
 Unleash your creativity with stunning 8K portraits! The Gemini Nano Banana 3.0 brings your vision to life, showcasing dramatic contrasts and intimate details.

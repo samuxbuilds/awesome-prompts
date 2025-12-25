@@ -1,11 +1,16 @@
 ---
-title: "Cosmic Chic: A Fashion Magazine Reinvented"
+title: 'Cosmic Chic: A Fashion Magazine Reinvented'
 category: portraits
-tags: ["portrait","modern","fashion","vibrant","nano-banana-pro"]
-author: "[@qisi_ai](https://x.com/qisi_ai)"
-author_url: "https://twitter.com/qisi_ai"
-source_url: "https://twitter.com/qisi_ai/status/1996444045070233633"
-preview: "/media/portraits/pg-1996444045070233633.webp"
+tags:
+  - portrait
+  - modern
+  - fashion
+  - vibrant
+  - colorful
+author: '[@qisi_ai](https://x.com/qisi_ai)'
+author_url: 'https://twitter.com/qisi_ai'
+source_url: 'https://twitter.com/qisi_ai/status/1996444045070233633'
+preview: /media/portraits/pg-1996444045070233633.webp
 ---
 
 Bold typography meets striking portraiture in this glossy magazine cover! The vibrant styling, combined with sleek design, showcases a fusion of classic elegance and modern flair.

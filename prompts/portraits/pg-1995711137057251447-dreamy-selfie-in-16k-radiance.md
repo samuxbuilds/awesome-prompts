@@ -1,11 +1,16 @@
 ---
-title: "Dreamy Selfie in 16K Radiance ✨🌸"
+title: "Dreamy Selfie in 16K Radiance ✨\U0001F338"
 category: portraits
-tags: ["selfie","nano-banana-pro"]
-author: "[@xmiiru_](https://x.com/xmiiru_)"
-author_url: "https://twitter.com/xmiiru_"
-source_url: "https://twitter.com/xmiiru_/status/1995711137057251447"
-preview: "/media/portraits/pg-1995711137057251447.webp"
+tags:
+  - selfie
+  - realistic
+  - vintage
+  - portrait
+  - dark
+author: '[@xmiiru_](https://x.com/xmiiru_)'
+author_url: 'https://twitter.com/xmiiru_'
+source_url: 'https://twitter.com/xmiiru_/status/1995711137057251447'
+preview: /media/portraits/pg-1995711137057251447.webp
 ---
 
 Caught in a moment of daydreaming bliss, this young girl’s serene expression shines. The soft glow and rich textures evoke a cozy, whimsical atmosphere.

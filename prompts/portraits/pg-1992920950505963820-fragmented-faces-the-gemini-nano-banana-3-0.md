@@ -1,11 +1,12 @@
 ---
-title: "Fragmented Faces: The Gemini Nano Banana 3.0"
+title: 'Fragmented Faces: The Gemini Nano Banana 3.0'
 category: portraits
-tags: ["portrait","nano-banana-pro"]
-author: "[@YaseenK7212](https://x.com/YaseenK7212)"
-author_url: "https://twitter.com/YaseenK7212"
-source_url: "https://twitter.com/YaseenK7212/status/1992920950505963820"
-preview: "/media/portraits/pg-1992920950505963820.webp"
+tags:
+  - portrait
+author: '[@YaseenK7212](https://x.com/YaseenK7212)'
+author_url: 'https://twitter.com/YaseenK7212'
+source_url: 'https://twitter.com/YaseenK7212/status/1992920950505963820'
+preview: /media/portraits/pg-1992920950505963820.webp
 ---
 
 A striking triptych portrait unfolds with disjointed beauty. Sharp eyes meet motion-blurred contours, while soft lips linger in the background, creating a visual symphony of contrast.

@@ -1,11 +1,15 @@
 ---
-title: "Revving Style: Gemini Nano Banana 3.0 Unleashed"
+title: 'Revving Style: Gemini Nano Banana 3.0 Unleashed'
 category: 3d
-tags: ["nano-banana-pro"]
-author: "[@YaseenK7212](https://x.com/YaseenK7212)"
-author_url: "https://twitter.com/YaseenK7212"
-source_url: "https://twitter.com/YaseenK7212/status/1994082290129891340"
-preview: "/media/3d/pg-1994082290129891340.webp"
+tags:
+  - realistic
+  - 3d
+  - portrait
+  - dark
+author: '[@YaseenK7212](https://x.com/YaseenK7212)'
+author_url: 'https://twitter.com/YaseenK7212'
+source_url: 'https://twitter.com/YaseenK7212/status/1994082290129891340'
+preview: /media/3d/pg-1994082290129891340.webp
 ---
 
 A sleek figure lounges on a red beanbag, exuding confidence amid luxury. The vivid supercar gleams, while shadows dance around polished leather and striking decor.

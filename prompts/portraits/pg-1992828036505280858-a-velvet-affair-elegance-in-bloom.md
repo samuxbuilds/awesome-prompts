@@ -1,11 +1,17 @@
 ---
-title: "A Velvet Affair: Elegance in Bloom"
+title: 'A Velvet Affair: Elegance in Bloom'
 category: portraits
-tags: ["light","nano-banana-pro"]
-author: "[@ShreyaYadav___](https://x.com/ShreyaYadav___)"
-author_url: "https://twitter.com/ShreyaYadav___"
-source_url: "https://twitter.com/ShreyaYadav___/status/1992828036505280858"
-preview: "/media/portraits/pg-1992828036505280858.webp"
+tags:
+  - light
+  - realistic
+  - minimalist
+  - portrait
+  - landscape
+  - dark
+author: '[@ShreyaYadav___](https://x.com/ShreyaYadav___)'
+author_url: 'https://twitter.com/ShreyaYadav___'
+source_url: 'https://twitter.com/ShreyaYadav___/status/1992828036505280858'
+preview: /media/portraits/pg-1992828036505280858.webp
 ---
 
 Effortless grace radiates as she leans against the garden's iron railing, draped in maroon velvet. The soft daylight casts a dreamy glow, highlighting her romantic expression amid lush greenery.

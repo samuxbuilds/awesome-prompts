@@ -1,11 +1,16 @@
 ---
-title: "Unraveling the Illusion: A Photorealistic Journey"
+title: 'Unraveling the Illusion: A Photorealistic Journey'
 category: portraits
-tags: ["realistic","portrait","photorealistic","nano-banana-pro"]
-author: "[@KusoPhoto](https://x.com/KusoPhoto)"
-author_url: "https://twitter.com/KusoPhoto"
-source_url: "https://twitter.com/KusoPhoto/status/1995435523645882816"
-preview: "/media/portraits/pg-1995435523645882816.webp"
+tags:
+  - realistic
+  - portrait
+  - photorealistic
+  - 3d
+  - minimalist
+author: '[@KusoPhoto](https://x.com/KusoPhoto)'
+author_url: 'https://twitter.com/KusoPhoto'
+source_url: 'https://twitter.com/KusoPhoto/status/1995435523645882816'
+preview: /media/portraits/pg-1995435523645882816.webp
 ---
 
 How does a simple garment transform into a visual riddle? This striking portrait challenges perceptions, where paper meets skin in a seamless illusion. A must-see!

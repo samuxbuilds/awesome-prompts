@@ -1,9 +1,12 @@
 ---
-title: "Composition Rescue (Smart Outpainting)"
+title: Composition Rescue (Smart Outpainting)
 category: creative
-tags: ["creative", "ai-art"]
-author: "[@nanobanana-pro](https://x.com/nanobanana-pro)"
-preview: "/media/creative/nb-composition-rescue-smart-outpainting.webp"
+tags:
+  - creative
+  - ai-art
+  - landscape
+author: '[@nanobanana-pro](https://x.com/nanobanana-pro)'
+preview: /media/creative/nb-composition-rescue-smart-outpainting.webp
 ---
 
 *Expands image ratios (e.g., to 16:9) by intelligently generating matching scenery.*

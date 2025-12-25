@@ -1,11 +1,12 @@
 ---
-title: "Mapping Magic: Nano Banana 2 Takes Center Stage"
+title: 'Mapping Magic: Nano Banana 2 Takes Center Stage'
 category: posters
-tags: ["nano-banana-pro"]
-author: "[@gokayfem](https://x.com/gokayfem)"
-author_url: "https://twitter.com/gokayfem"
-source_url: "https://twitter.com/gokayfem/status/1992907633540415493"
-preview: "/media/posters/pg-1992907633540415493.webp"
+tags:
+  - minimalist
+author: '[@gokayfem](https://x.com/gokayfem)'
+author_url: 'https://twitter.com/gokayfem'
+source_url: 'https://twitter.com/gokayfem/status/1992907633540415493'
+preview: /media/posters/pg-1992907633540415493.webp
 ---
 
 Bold and clean, the diagram template is now enhanced with Nano Banana 2. Thin, elegant borders unite functionality and aesthetics, showcasing your designs beautifully!

@@ -1,11 +1,18 @@
 ---
-title: "Urban Symphony: Rain-Drenched Reflections"
+title: 'Urban Symphony: Rain-Drenched Reflections'
 category: 3d
-tags: ["urban","light","neon","vibrant","nano-banana-pro"]
-author: "[@AshifalikhanF](https://x.com/AshifalikhanF)"
-author_url: "https://twitter.com/AshifalikhanF"
-source_url: "https://twitter.com/AshifalikhanF/status/1996456554376385013"
-preview: "/media/3d/pg-1996456554376385013.webp"
+tags:
+  - urban
+  - light
+  - neon
+  - vibrant
+  - realistic
+  - 3d
+  - colorful
+author: '[@AshifalikhanF](https://x.com/AshifalikhanF)'
+author_url: 'https://twitter.com/AshifalikhanF'
+source_url: 'https://twitter.com/AshifalikhanF/status/1996456554376385013'
+preview: /media/3d/pg-1996456554376385013.webp
 ---
 
 What stories do raindrops tell in a bustling city? This striking image captures the vibrant chaos of a rainy street, where neon lights dance in puddles and blurred figures create a dynamic urban narrative.

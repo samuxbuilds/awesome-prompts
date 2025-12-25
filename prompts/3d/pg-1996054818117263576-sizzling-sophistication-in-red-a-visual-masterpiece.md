@@ -1,11 +1,19 @@
 ---
-title: "Sizzling Sophistication in Red: A Visual Masterpiece"
+title: 'Sizzling Sophistication in Red: A Visual Masterpiece'
 category: 3d
-tags: ["portrait","fashion","vibrant","nano-banana-pro"]
-author: "[@YaseenK7212](https://x.com/YaseenK7212)"
-author_url: "https://twitter.com/YaseenK7212"
-source_url: "https://twitter.com/YaseenK7212/status/1996054818117263576"
-preview: "/media/3d/pg-1996054818117263576.webp"
+tags:
+  - portrait
+  - fashion
+  - vibrant
+  - realistic
+  - 3d
+  - illustration
+  - landscape
+  - colorful
+author: '[@YaseenK7212](https://x.com/YaseenK7212)'
+author_url: 'https://twitter.com/YaseenK7212'
+source_url: 'https://twitter.com/YaseenK7212/status/1996054818117263576'
+preview: /media/3d/pg-1996054818117263576.webp
 ---
 
 Capturing elegance and allure, this stunning portrait features a woman in a vibrant red mini-dress, perfectly blending chic fashion with irresistible charm.

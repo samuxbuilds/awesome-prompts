@@ -1,11 +1,14 @@
 ---
-title: "Charming Vibes: Kitten Cuddles & Chic Styles"
+title: 'Charming Vibes: Kitten Cuddles & Chic Styles'
 category: portraits
-tags: ["vibrant","nano-banana-pro"]
-author: "[@saniaspeaks_](https://x.com/saniaspeaks_)"
-author_url: "https://twitter.com/saniaspeaks_"
-source_url: "https://twitter.com/saniaspeaks_/status/1994256800523407671"
-preview: "/media/portraits/pg-1994256800523407671.webp"
+tags:
+  - vibrant
+  - portrait
+  - colorful
+author: '[@saniaspeaks_](https://x.com/saniaspeaks_)'
+author_url: 'https://twitter.com/saniaspeaks_'
+source_url: 'https://twitter.com/saniaspeaks_/status/1994256800523407671'
+preview: /media/portraits/pg-1994256800523407671.webp
 ---
 
 Can you feel the joy? This young woman radiates happiness with her adorable kitten, set against a vibrant shopping backdrop that whispers adventure and style.

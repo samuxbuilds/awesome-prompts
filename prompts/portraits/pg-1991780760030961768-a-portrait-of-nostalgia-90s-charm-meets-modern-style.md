@@ -1,11 +1,16 @@
 ---
-title: "A Portrait of Nostalgia: 90s Charm Meets Modern Style"
+title: 'A Portrait of Nostalgia: 90s Charm Meets Modern Style'
 category: portraits
-tags: ["portrait","vintage","modern","light","nano-banana-pro"]
-author: "[@kingofdairyque](https://x.com/kingofdairyque)"
-author_url: "https://twitter.com/kingofdairyque"
-source_url: "https://twitter.com/kingofdairyque/status/1991780760030961768"
-preview: "/media/portraits/pg-1991780760030961768.webp"
+tags:
+  - portrait
+  - vintage
+  - modern
+  - light
+  - dark
+author: '[@kingofdairyque](https://x.com/kingofdairyque)'
+author_url: 'https://twitter.com/kingofdairyque'
+source_url: 'https://twitter.com/kingofdairyque/status/1991780760030961768'
+preview: /media/portraits/pg-1991780760030961768.webp
 ---
 
 Can you feel the warmth of a cozy room? This stunning portrait radiates vintage vibes with its porcelain beauty and playful spirit, framed by soft lighting and nostalgic magazine decor.

@@ -1,11 +1,14 @@
 ---
-title: "Glamour Defined: A Night in All Black"
+title: 'Glamour Defined: A Night in All Black'
 category: portraits
-tags: ["light","nano-banana-pro"]
-author: "[@Just_sharon7](https://x.com/Just_sharon7)"
-author_url: "https://twitter.com/Just_sharon7"
-source_url: "https://twitter.com/Just_sharon7/status/1993536883121701059"
-preview: "/media/portraits/pg-1993536883121701059.webp"
+tags:
+  - light
+  - portrait
+  - dark
+author: '[@Just_sharon7](https://x.com/Just_sharon7)'
+author_url: 'https://twitter.com/Just_sharon7'
+source_url: 'https://twitter.com/Just_sharon7/status/1993536883121701059'
+preview: /media/portraits/pg-1993536883121701059.webp
 ---
 
 Bold, glittering elegance comes alive as she leans confidently against a white pillar, her sequined crop top shimmering in warm evening light. Who's ready for the spotlight?

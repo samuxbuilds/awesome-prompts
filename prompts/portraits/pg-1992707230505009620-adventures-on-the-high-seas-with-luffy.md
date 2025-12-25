@@ -1,11 +1,12 @@
 ---
-title: "Adventures on the High Seas with Luffy!"
+title: Adventures on the High Seas with Luffy!
 category: portraits
-tags: ["nano-banana-pro"]
-author: "[@CharaspowerAI](https://x.com/CharaspowerAI)"
-author_url: "https://twitter.com/CharaspowerAI"
-source_url: "https://twitter.com/CharaspowerAI/status/1992707230505009620"
-preview: "/media/portraits/pg-1992707230505009620.webp"
+tags:
+  - portrait
+author: '[@CharaspowerAI](https://x.com/CharaspowerAI)'
+author_url: 'https://twitter.com/CharaspowerAI'
+source_url: 'https://twitter.com/CharaspowerAI/status/1992707230505009620'
+preview: /media/portraits/pg-1992707230505009620.webp
 ---
 
 A snapshot of joy as the man poses with Monkey D. Luffy, both grinning from ear to ear against the backdrop of the sunny Thousand Sunny deck. Bright skies and bold spirits unite!

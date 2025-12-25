@@ -1,11 +1,16 @@
 ---
-title: "Urban Grit: A Bold Portrait on Rust"
+title: 'Urban Grit: A Bold Portrait on Rust'
 category: portraits
-tags: ["portrait","urban","nano-banana-pro"]
-author: "[@SimplyAnnisa](https://x.com/SimplyAnnisa)"
-author_url: "https://twitter.com/SimplyAnnisa"
-source_url: "https://twitter.com/SimplyAnnisa/status/1993908408924475559"
-preview: "/media/portraits/pg-1993908408924475559.webp"
+tags:
+  - portrait
+  - urban
+  - realistic
+  - dark
+  - black-and-white
+author: '[@SimplyAnnisa](https://x.com/SimplyAnnisa)'
+author_url: 'https://twitter.com/SimplyAnnisa'
+source_url: 'https://twitter.com/SimplyAnnisa/status/1993908408924475559'
+preview: /media/portraits/pg-1993908408924475559.webp
 ---
 
 Sitting atop a weathered car, her gaze pierces through the lens, echoing stories untold. Clad in monochrome, she embodies the raw essence of street style with an intensity that captivates.

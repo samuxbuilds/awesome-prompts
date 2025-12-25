@@ -1,11 +1,14 @@
 ---
-title: "A Dark Knight in the Dystopian Night"
+title: A Dark Knight in the Dystopian Night
 category: portraits
-tags: ["dark","nano-banana-pro"]
-author: "[@lexx_aura](https://x.com/lexx_aura)"
-author_url: "https://twitter.com/lexx_aura"
-source_url: "https://twitter.com/lexx_aura/status/1994303957771149323"
-preview: "/media/portraits/pg-1994303957771149323.webp"
+tags:
+  - dark
+  - realistic
+  - portrait
+author: '[@lexx_aura](https://x.com/lexx_aura)'
+author_url: 'https://twitter.com/lexx_aura'
+source_url: 'https://twitter.com/lexx_aura/status/1994303957771149323'
+preview: /media/portraits/pg-1994303957771149323.webp
 ---
 
 An anti-hero emerges from the shadows, clad in a dark bespoke suit with wing textures, ready to conquer a rain-soaked cityscape. The muscle car roars under a fiery portal, embodying raw power and danger.

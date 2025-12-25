@@ -1,11 +1,17 @@
 ---
-title: "Mermaid Vibes on the Cliffside"
+title: Mermaid Vibes on the Cliffside
 category: portraits
-tags: ["nature","vibrant","nano-banana-pro"]
-author: "[@Just_sharon7](https://x.com/Just_sharon7)"
-author_url: "https://twitter.com/Just_sharon7"
-source_url: "https://twitter.com/Just_sharon7/status/1993865254217142442"
-preview: "/media/portraits/pg-1993865254217142442.webp"
+tags:
+  - nature
+  - vibrant
+  - realistic
+  - portrait
+  - landscape
+  - colorful
+author: '[@Just_sharon7](https://x.com/Just_sharon7)'
+author_url: 'https://twitter.com/Just_sharon7'
+source_url: 'https://twitter.com/Just_sharon7/status/1993865254217142442'
+preview: /media/portraits/pg-1993865254217142442.webp
 ---
 
 Bask in the sun as waves crash below! A young woman lounges in a floral mini dress, merging with nature's vibrant hues on the rocky edge.

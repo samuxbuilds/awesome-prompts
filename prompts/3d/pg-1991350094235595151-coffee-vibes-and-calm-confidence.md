@@ -1,11 +1,17 @@
 ---
-title: "Coffee Vibes and Calm Confidence"
+title: Coffee Vibes and Calm Confidence
 category: 3d
-tags: ["light","nano-banana-pro"]
-author: "[@Xxaroon](https://x.com/Xxaroon)"
-author_url: "https://twitter.com/Xxaroon"
-source_url: "https://twitter.com/Xxaroon/status/1991350094235595151"
-preview: "/media/3d/pg-1991350094235595151.webp"
+tags:
+  - light
+  - realistic
+  - 3d
+  - minimalist
+  - portrait
+  - dark
+author: '[@Xxaroon](https://x.com/Xxaroon)'
+author_url: 'https://twitter.com/Xxaroon'
+source_url: 'https://twitter.com/Xxaroon/status/1991350094235595151'
+preview: /media/3d/pg-1991350094235595151.webp
 ---
 
 A young man exudes effortless style under soft evening light, cradling his drink. That oversized denim jacket and subtle accessories tell a story of comfort and cool sophistication.

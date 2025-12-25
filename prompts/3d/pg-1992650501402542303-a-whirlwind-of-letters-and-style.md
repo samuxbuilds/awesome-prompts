@@ -1,11 +1,16 @@
 ---
-title: "A Whirlwind of Letters and Style"
+title: A Whirlwind of Letters and Style
 category: 3d
-tags: ["art","nano-banana-pro"]
-author: "[@Arminn_Ai](https://x.com/Arminn_Ai)"
-author_url: "https://twitter.com/Arminn_Ai"
-source_url: "https://twitter.com/Arminn_Ai/status/1992650501402542303"
-preview: "/media/3d/pg-1992650501402542303.webp"
+tags:
+  - art
+  - 3d
+  - minimalist
+  - dark
+  - colorful
+author: '[@Arminn_Ai](https://x.com/Arminn_Ai)'
+author_url: 'https://twitter.com/Arminn_Ai'
+source_url: 'https://twitter.com/Arminn_Ai/status/1992650501402542303'
+preview: /media/3d/pg-1992650501402542303.webp
 ---
 
 Blazing colors and exquisite design collide in this avant-garde spectacle! A stunning gown transforms Persian calligraphy into a breath-taking vortex of art.

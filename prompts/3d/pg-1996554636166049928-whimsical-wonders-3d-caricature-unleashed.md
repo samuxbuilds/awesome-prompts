@@ -1,11 +1,15 @@
 ---
-title: "Whimsical Wonders: 3D Caricature Unleashed"
+title: 'Whimsical Wonders: 3D Caricature Unleashed'
 category: 3d
-tags: ["3d","light","vibrant","nano-banana-pro"]
-author: "[@NanoBanana](https://x.com/NanoBanana)"
-author_url: "https://twitter.com/NanoBanana"
-source_url: "https://twitter.com/NanoBanana/status/1996554636166049928"
-preview: "/media/3d/pg-1996554636166049928.webp"
+tags:
+  - 3d
+  - light
+  - vibrant
+  - colorful
+author: '[@NanoBanana](https://x.com/NanoBanana)'
+author_url: 'https://twitter.com/NanoBanana'
+source_url: 'https://twitter.com/NanoBanana/status/1996554636166049928'
+preview: /media/3d/pg-1996554636166049928.webp
 ---
 
 Bold colors dance around a charming 3D caricature, playfully exaggerating every expression. Smooth textures and soft lighting breathe life into this vibrant character!

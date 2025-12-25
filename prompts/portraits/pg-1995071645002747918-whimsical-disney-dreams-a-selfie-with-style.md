@@ -1,11 +1,13 @@
 ---
-title: "Whimsical Disney Dreams: A Selfie with Style!"
+title: 'Whimsical Disney Dreams: A Selfie with Style!'
 category: portraits
-tags: ["selfie","nano-banana-pro"]
-author: "[@awesome_visuals](https://x.com/awesome_visuals)"
-author_url: "https://twitter.com/awesome_visuals"
-source_url: "https://twitter.com/awesome_visuals/status/1995071645002747918"
-preview: "/media/portraits/pg-1995071645002747918.webp"
+tags:
+  - selfie
+  - portrait
+author: '[@awesome_visuals](https://x.com/awesome_visuals)'
+author_url: 'https://twitter.com/awesome_visuals'
+source_url: 'https://twitter.com/awesome_visuals/status/1995071645002747918'
+preview: /media/portraits/pg-1995071645002747918.webp
 ---
 
 Captured in a sparkle-filled Zootopia wonderland, this playful selfie features a radiant young woman in a strapless white dress, sporting a fluffy Nick Wilde hat and a cheeky wink alongside her plush pal, Judy Hopps!

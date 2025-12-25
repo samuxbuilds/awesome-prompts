@@ -1,11 +1,14 @@
 ---
-title: "The Art of Reflection: A Recursive Creation"
+title: 'The Art of Reflection: A Recursive Creation'
 category: portraits
-tags: ["art","nano-banana-pro"]
-author: "[@goodside](https://x.com/goodside)"
-author_url: "https://twitter.com/goodside"
-source_url: "https://twitter.com/goodside/status/1992038915881029641"
-preview: "/media/portraits/pg-1992038915881029641.webp"
+tags:
+  - art
+  - realistic
+  - portrait
+author: '[@goodside](https://x.com/goodside)'
+author_url: 'https://twitter.com/goodside'
+source_url: 'https://twitter.com/goodside/status/1992038915881029641'
+preview: /media/portraits/pg-1992038915881029641.webp
 ---
 
 A mesmerizing snapshot from 1998 captures an artist lost in the layers of creation, painting an image from a screen, which in turn depicts their own act of artistry. The cyclical journey of inspiration unfolds on canvas!

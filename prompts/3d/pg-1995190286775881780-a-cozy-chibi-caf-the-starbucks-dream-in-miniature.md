@@ -1,11 +1,15 @@
 ---
-title: "A Cozy Chibi Café: The Starbucks Dream in Miniature"
+title: 'A Cozy Chibi Café: The Starbucks Dream in Miniature'
 category: 3d
-tags: ["3d","chibi","miniature","light","nano-banana-pro"]
-author: "[@dotey](https://x.com/dotey)"
-author_url: "https://twitter.com/dotey"
-source_url: "https://twitter.com/dotey/status/1995190286775881780"
-preview: "/media/3d/pg-1995190286775881780.webp"
+tags:
+  - 3d
+  - chibi
+  - miniature
+  - light
+author: '[@dotey](https://x.com/dotey)'
+author_url: 'https://twitter.com/dotey'
+source_url: 'https://twitter.com/dotey/status/1995190286775881780'
+preview: /media/3d/pg-1995190286775881780.webp
 ---
 
 Just imagine a bustling little Starbucks, its iconic green awning beckoning with warm light! Adorable chibi figures enjoy coffee moments in this charming, detailed 3D world.

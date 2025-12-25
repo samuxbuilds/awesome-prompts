@@ -1,11 +1,18 @@
 ---
-title: "Chaos Meets Chic: A Stormy Fashion Statement"
+title: 'Chaos Meets Chic: A Stormy Fashion Statement'
 category: 3d
-tags: ["portrait","urban","fashion","nano-banana-pro"]
-author: "[@ShreyaYadav___](https://x.com/ShreyaYadav___)"
-author_url: "https://twitter.com/ShreyaYadav___"
-source_url: "https://twitter.com/ShreyaYadav___/status/1991468062764380244"
-preview: "/media/3d/pg-1991468062764380244.webp"
+tags:
+  - portrait
+  - urban
+  - fashion
+  - realistic
+  - 3d
+  - illustration
+  - landscape
+author: '[@ShreyaYadav___](https://x.com/ShreyaYadav___)'
+author_url: 'https://twitter.com/ShreyaYadav___'
+source_url: 'https://twitter.com/ShreyaYadav___/status/1991468062764380244'
+preview: /media/3d/pg-1991468062764380244.webp
 ---
 
 Caught in a whirlwind of newspapers, this high-fashion portrait captures the essence of urban chaos. Intense motion blurs amplify the drama while the subject remains strikingly sharp, embodying style amidst the storm!

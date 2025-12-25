@@ -1,11 +1,16 @@
 ---
-title: "Defiance Redefined: Strength in Elegance"
+title: 'Defiance Redefined: Strength in Elegance'
 category: 3d
-tags: ["modern","nano-banana-pro"]
-author: "[@egeberkina](https://x.com/egeberkina)"
-author_url: "https://twitter.com/egeberkina"
-source_url: "https://twitter.com/egeberkina/status/1996678914580635971"
-preview: "/media/3d/pg-1996678914580635971.webp"
+tags:
+  - modern
+  - realistic
+  - 3d
+  - minimalist
+  - dark
+author: '[@egeberkina](https://x.com/egeberkina)'
+author_url: 'https://twitter.com/egeberkina'
+source_url: 'https://twitter.com/egeberkina/status/1996678914580635971'
+preview: /media/3d/pg-1996678914580635971.webp
 ---
 
 In a stark white studio, a striking figure emerges. This fierce woman, poised with a modern pistol, embodies the essence of power, elegance, and unyielding determination.

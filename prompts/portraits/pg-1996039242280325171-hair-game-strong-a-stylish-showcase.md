@@ -1,11 +1,14 @@
 ---
-title: "Hair Game Strong: A Stylish Showcase"
+title: 'Hair Game Strong: A Stylish Showcase'
 category: portraits
-tags: ["modern","nano-banana-pro"]
-author: "[@Sheldon056](https://x.com/Sheldon056)"
-author_url: "https://twitter.com/Sheldon056"
-source_url: "https://twitter.com/Sheldon056/status/1996039242280325171"
-preview: "/media/portraits/pg-1996039242280325171.webp"
+tags:
+  - modern
+  - minimalist
+  - portrait
+author: '[@Sheldon056](https://x.com/Sheldon056)'
+author_url: 'https://twitter.com/Sheldon056'
+source_url: 'https://twitter.com/Sheldon056/status/1996039242280325171'
+preview: /media/portraits/pg-1996039242280325171.webp
 ---
 
 Bold and confident, this young man flaunts nine striking hairstyles against a stunning sunset backdrop. Each look tells a story of individuality and modern flair.

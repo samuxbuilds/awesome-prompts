@@ -1,11 +1,11 @@
 ---
-title: "Cultural Tapestry: The Heroes of Water Margin in Intricate Detail"
+title: 'Cultural Tapestry: The Heroes of Water Margin in Intricate Detail'
 category: posters
-tags: ["nano-banana-pro"]
-author: "[@MingleeJ](https://x.com/MingleeJ)"
-author_url: "https://twitter.com/MingleeJ"
-source_url: "https://twitter.com/MingleeJ/status/1992057312622874857"
-preview: "/media/posters/pg-1992057312622874857.webp"
+tags: []
+author: '[@MingleeJ](https://x.com/MingleeJ)'
+author_url: 'https://twitter.com/MingleeJ'
+source_url: 'https://twitter.com/MingleeJ/status/1992057312622874857'
+preview: /media/posters/pg-1992057312622874857.webp
 ---
 
 Behold a stunning grid of iconic characters from 'Water Margin', each meticulously crafted in traditional Chinese fine brushwork. Names elegantly inscribed, this visual marvel celebrates rich cultural heritage!

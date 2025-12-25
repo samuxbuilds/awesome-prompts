@@ -1,11 +1,17 @@
 ---
-title: "A Cozy Moment at the Book Café"
+title: A Cozy Moment at the Book Café
 category: 3d
-tags: ["nano-banana-pro"]
-author: "[@MrDasOnX](https://x.com/MrDasOnX)"
-author_url: "https://twitter.com/MrDasOnX"
-source_url: "https://twitter.com/MrDasOnX/status/1995124376296149397"
-preview: "/media/3d/pg-1995124376296149397.webp"
+tags:
+  - realistic
+  - 3d
+  - illustration
+  - vintage
+  - portrait
+  - dark
+author: '[@MrDasOnX](https://x.com/MrDasOnX)'
+author_url: 'https://twitter.com/MrDasOnX'
+source_url: 'https://twitter.com/MrDasOnX/status/1995124376296149397'
+preview: /media/3d/pg-1995124376296149397.webp
 ---
 
 Is there anything more inviting than a charming book café? This elegant young woman captivates with her warm smile, surrounded by the rich ambiance of literature and coffee.

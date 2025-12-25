@@ -1,11 +1,16 @@
 ---
-title: "Festive Charm: A Portrait of Holiday Elegance"
+title: 'Festive Charm: A Portrait of Holiday Elegance'
 category: 3d
-tags: ["portrait","vibrant","nano-banana-pro"]
-author: "[@kingofdairyque](https://x.com/kingofdairyque)"
-author_url: "https://twitter.com/kingofdairyque"
-source_url: "https://twitter.com/kingofdairyque/status/1995113455192605105"
-preview: "/media/3d/pg-1995113455192605105.webp"
+tags:
+  - portrait
+  - vibrant
+  - realistic
+  - 3d
+  - colorful
+author: '[@kingofdairyque](https://x.com/kingofdairyque)'
+author_url: 'https://twitter.com/kingofdairyque'
+source_url: 'https://twitter.com/kingofdairyque/status/1995113455192605105'
+preview: /media/3d/pg-1995113455192605105.webp
 ---
 
 A slender young woman radiates joy in a vibrant green knit crop top, playfully adorned with a reindeer toy. Set against a whimsical Christmas candy shop, her festive spirit shines bright with dazzling decorations and sweet treats all around!

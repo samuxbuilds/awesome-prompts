@@ -1,11 +1,15 @@
 ---
-title: "Mirror Vibes: Casual Chic with a Touch of Elegance"
+title: 'Mirror Vibes: Casual Chic with a Touch of Elegance'
 category: portraits
-tags: ["minimal","nano-banana-pro"]
-author: "[@ShreyaYadav___](https://x.com/ShreyaYadav___)"
-author_url: "https://twitter.com/ShreyaYadav___"
-source_url: "https://twitter.com/ShreyaYadav___/status/1995814080700187060"
-preview: "/media/portraits/pg-1995814080700187060.webp"
+tags:
+  - minimal
+  - minimalist
+  - portrait
+  - dark
+author: '[@ShreyaYadav___](https://x.com/ShreyaYadav___)'
+author_url: 'https://twitter.com/ShreyaYadav___'
+source_url: 'https://twitter.com/ShreyaYadav___/status/1995814080700187060'
+preview: /media/portraits/pg-1995814080700187060.webp
 ---
 
 A sleek indoor oasis sets the stage for a stylish moment. Captured in a minimalist space, this woman embodies effortless elegance, striking a pose that merges casual and chic with her high ponytail and defined features.

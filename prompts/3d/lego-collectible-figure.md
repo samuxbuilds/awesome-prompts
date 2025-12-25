@@ -1,9 +1,17 @@
 ---
-title: "Lego Collectible Figure"
+title: Lego Collectible Figure
 category: 3d
-tags: ["minimalist", "surreal", "lego", "glass", "animal"]
-author: "[@ZHO_ZHO_ZHO](https://x.com/ZHO_ZHO_ZHO)"
-preview: "/media/3d/lego-collectible-figure.webp"
+tags:
+  - minimalist
+  - surreal
+  - lego
+  - glass
+  - animal
+  - realistic
+  - 3d
+  - dark
+author: '[@ZHO_ZHO_ZHO](https://x.com/ZHO_ZHO_ZHO)'
+preview: /media/3d/lego-collectible-figure.webp
 ---
 
 Generate a vertically-oriented image based on my uploaded photo, using the following prompt:

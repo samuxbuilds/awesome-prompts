@@ -1,11 +1,17 @@
 ---
-title: "Portrait of Joy: A Modern Elegance in Monochrome"
+title: 'Portrait of Joy: A Modern Elegance in Monochrome'
 category: portraits
-tags: ["portrait","art","modern","light","nano-banana-pro"]
-author: "[@mehvishs25](https://x.com/mehvishs25)"
-author_url: "https://twitter.com/mehvishs25"
-source_url: "https://twitter.com/mehvishs25/status/1993274745169887713"
-preview: "/media/portraits/pg-1993274745169887713.webp"
+tags:
+  - portrait
+  - art
+  - modern
+  - light
+  - realistic
+  - black-and-white
+author: '[@mehvishs25](https://x.com/mehvishs25)'
+author_url: 'https://twitter.com/mehvishs25'
+source_url: 'https://twitter.com/mehvishs25/status/1993274745169887713'
+preview: /media/portraits/pg-1993274745169887713.webp
 ---
 
 Laughing softly, she embodies grace as her braided hair catches the light, framed by an artistic black and white backdrop. This image captures a joyful moment, blending contemporary style with timeless elegance.

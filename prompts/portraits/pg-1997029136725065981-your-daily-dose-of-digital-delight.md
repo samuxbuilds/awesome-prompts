@@ -1,11 +1,17 @@
 ---
-title: "Your Daily Dose of Digital Delight"
+title: Your Daily Dose of Digital Delight
 category: portraits
-tags: ["light","digital","nano-banana-pro"]
-author: "[@craftian_keskin](https://x.com/craftian_keskin)"
-author_url: "https://twitter.com/craftian_keskin"
-source_url: "https://twitter.com/craftian_keskin/status/1997029136725065981"
-preview: "/media/portraits/pg-1997029136725065981.webp"
+tags:
+  - light
+  - digital
+  - realistic
+  - 3d
+  - portrait
+  - colorful
+author: '[@craftian_keskin](https://x.com/craftian_keskin)'
+author_url: 'https://twitter.com/craftian_keskin'
+source_url: 'https://twitter.com/craftian_keskin/status/1997029136725065981'
+preview: /media/portraits/pg-1997029136725065981.webp
 ---
 
 A striking redhead flashes a gentle smile, cradling a blister pack of social media icons. Is it time for your tech-inspired refresh?

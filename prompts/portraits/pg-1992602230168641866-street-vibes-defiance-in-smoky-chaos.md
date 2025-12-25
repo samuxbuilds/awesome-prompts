@@ -1,11 +1,14 @@
 ---
-title: "Street Vibes: Defiance in Smoky Chaos"
+title: 'Street Vibes: Defiance in Smoky Chaos'
 category: portraits
-tags: ["nano-banana-pro"]
-author: "[@Drshadow56](https://x.com/Drshadow56)"
-author_url: "https://twitter.com/Drshadow56"
-source_url: "https://twitter.com/Drshadow56/status/1992602230168641866"
-preview: "/media/portraits/pg-1992602230168641866.webp"
+tags:
+  - realistic
+  - portrait
+  - dark
+author: '[@Drshadow56](https://x.com/Drshadow56)'
+author_url: 'https://twitter.com/Drshadow56'
+source_url: 'https://twitter.com/Drshadow56/status/1992602230168641866'
+preview: /media/portraits/pg-1992602230168641866.webp
 ---
 
 Who needs a crown when you can wield a bat? This confident look blends punk flair with an edgy backdrop of fire and smoke, redefining street style.

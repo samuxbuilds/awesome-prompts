@@ -1,11 +1,17 @@
 ---
-title: "A Kick Beyond Time: Renaissance Meets Modern Soccer"
+title: 'A Kick Beyond Time: Renaissance Meets Modern Soccer'
 category: portraits
-tags: ["modern","vibrant","nano-banana-pro"]
-author: "[@ChillaiKalan__](https://x.com/ChillaiKalan__)"
-author_url: "https://twitter.com/ChillaiKalan__"
-source_url: "https://twitter.com/ChillaiKalan__/status/1992875420396757499"
-preview: "/media/portraits/pg-1992875420396757499.webp"
+tags:
+  - modern
+  - vibrant
+  - realistic
+  - portrait
+  - dark
+  - colorful
+author: '[@ChillaiKalan__](https://x.com/ChillaiKalan__)'
+author_url: 'https://twitter.com/ChillaiKalan__'
+source_url: 'https://twitter.com/ChillaiKalan__/status/1992875420396757499'
+preview: /media/portraits/pg-1992875420396757499.webp
 ---
 
 Behold the striking clash of eras! A soccer player captures the moment mid-kick, with vibrant trails of teal and violet slicing through the shadowy ambiance, a masterpiece in motion.

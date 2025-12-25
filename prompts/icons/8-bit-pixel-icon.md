@@ -1,9 +1,15 @@
 ---
-title: "8-Bit Pixel Icon"
+title: 8-Bit Pixel Icon
 category: icons
-tags: ["pixel", "retro", "minimalist", "icon", "logo"]
-author: "[@egeberkina](https://x.com/egeberkina)"
-preview: "/media/icons/8-bit-pixel-icon.webp"
+tags:
+  - pixel
+  - retro
+  - minimalist
+  - icon
+  - logo
+  - vintage
+author: '[@egeberkina](https://x.com/egeberkina)'
+preview: /media/icons/8-bit-pixel-icon.webp
 ---
 
 Create a minimalist 8-bit pixel logo of [🍔], centered on a pure white background. Use a limited retro color palette with pixelated detailing, sharp edges, and clean blocky forms. The logo should be simple, iconic, and clearly recognizable in pixel art style — inspired by classic arcade game aesthetics.

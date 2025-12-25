@@ -1,11 +1,14 @@
 ---
-title: "Step Back in Time: Victorian Elegance Unveiled"
+title: 'Step Back in Time: Victorian Elegance Unveiled'
 category: portraits
-tags: ["portrait","nano-banana-pro"]
-author: "[@ZaraIrahh](https://x.com/ZaraIrahh)"
-author_url: "https://twitter.com/ZaraIrahh"
-source_url: "https://twitter.com/ZaraIrahh/status/1992762678989971671"
-preview: "/media/portraits/pg-1992762678989971671.webp"
+tags:
+  - portrait
+  - realistic
+  - 3d
+author: '[@ZaraIrahh](https://x.com/ZaraIrahh)'
+author_url: 'https://twitter.com/ZaraIrahh'
+source_url: 'https://twitter.com/ZaraIrahh/status/1992762678989971671'
+preview: /media/portraits/pg-1992762678989971671.webp
 ---
 
 Gaze upon a stunning portrait of grace, adorned in teal Victorian splendor. The intricate embroidery, blooming roses, and serene pose craft a timeless tale of elegance.

@@ -1,11 +1,13 @@
 ---
-title: "Craft the Perfect Scene with Nano Banana's 3x3 Grid Magic"
+title: Craft the Perfect Scene with Nano Banana's 3x3 Grid Magic
 category: portraits
-tags: ["nano-banana-pro"]
-author: "[@tkvtk](https://x.com/tkvtk)"
-author_url: "https://twitter.com/tkvtk"
-source_url: "https://twitter.com/tkvtk/status/1995462524704362683"
-preview: "/media/portraits/pg-1995462524704362683.webp"
+tags:
+  - realistic
+  - portrait
+author: '[@tkvtk](https://x.com/tkvtk)'
+author_url: 'https://twitter.com/tkvtk'
+source_url: 'https://twitter.com/tkvtk/status/1995462524704362683'
+preview: /media/portraits/pg-1995462524704362683.webp
 ---
 
 Say goodbye to tedious searches! This 3x3 cinematic grid reveals stunning shots, complete with sleek Japanese labels, transforming your visual storytelling.

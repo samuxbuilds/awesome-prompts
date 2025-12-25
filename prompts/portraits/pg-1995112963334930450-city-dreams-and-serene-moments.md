@@ -1,11 +1,14 @@
 ---
-title: "City Dreams and Serene Moments 🌃✨"
+title: "City Dreams and Serene Moments \U0001F303✨"
 category: portraits
-tags: ["light","nano-banana-pro"]
-author: "[@ShreyaYadav___](https://x.com/ShreyaYadav___)"
-author_url: "https://twitter.com/ShreyaYadav___"
-source_url: "https://twitter.com/ShreyaYadav___/status/1995112963334930450"
-preview: "/media/portraits/pg-1995112963334930450.webp"
+tags:
+  - light
+  - realistic
+  - portrait
+author: '[@ShreyaYadav___](https://x.com/ShreyaYadav___)'
+author_url: 'https://twitter.com/ShreyaYadav___'
+source_url: 'https://twitter.com/ShreyaYadav___/status/1995112963334930450'
+preview: /media/portraits/pg-1995112963334930450.webp
 ---
 
 Caught in a tranquil moment, this young woman gazes out over a sparkling cityscape, holding her warm mug like a treasure. The fairy lights dance softly, echoing the warmth of her thoughts.

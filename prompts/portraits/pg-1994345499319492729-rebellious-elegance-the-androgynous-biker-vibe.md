@@ -1,11 +1,16 @@
 ---
-title: "Rebellious Elegance: The Androgynous Biker Vibe"
+title: 'Rebellious Elegance: The Androgynous Biker Vibe'
 category: portraits
-tags: ["portrait","urban","nano-banana-pro"]
-author: "[@xmliisu](https://x.com/xmliisu)"
-author_url: "https://twitter.com/xmliisu"
-source_url: "https://twitter.com/xmliisu/status/1994345499319492729"
-preview: "/media/portraits/pg-1994345499319492729.webp"
+tags:
+  - portrait
+  - urban
+  - realistic
+  - minimalist
+  - dark
+author: '[@xmliisu](https://x.com/xmliisu)'
+author_url: 'https://twitter.com/xmliisu'
+source_url: 'https://twitter.com/xmliisu/status/1994345499319492729'
+preview: /media/portraits/pg-1994345499319492729.webp
 ---
 
 A striking portrait of a curvy androgynous biker, exuding confidence on her black cruiser. The urban backdrop and somber tones elevate this edgy street style story.

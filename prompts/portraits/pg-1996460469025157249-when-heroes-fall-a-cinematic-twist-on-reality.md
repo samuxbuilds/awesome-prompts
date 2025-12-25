@@ -1,11 +1,13 @@
 ---
-title: "When Heroes Fall: A Cinematic Twist on Reality"
+title: 'When Heroes Fall: A Cinematic Twist on Reality'
 category: portraits
-tags: ["realistic","nano-banana-pro"]
-author: "[@ShreyaYadav___](https://x.com/ShreyaYadav___)"
-author_url: "https://twitter.com/ShreyaYadav___"
-source_url: "https://twitter.com/ShreyaYadav___/status/1996460469025157249"
-preview: "/media/portraits/pg-1996460469025157249.webp"
+tags:
+  - realistic
+  - portrait
+author: '[@ShreyaYadav___](https://x.com/ShreyaYadav___)'
+author_url: 'https://twitter.com/ShreyaYadav___'
+source_url: 'https://twitter.com/ShreyaYadav___/status/1996460469025157249'
+preview: /media/portraits/pg-1996460469025157249.webp
 ---
 
 A poignant scene unfolds amidst chaos—Spiderman cradles a battle-worn warrior, each scar telling a story. The hyper-realistic details capture raw emotion and resilience.

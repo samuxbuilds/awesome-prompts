@@ -1,11 +1,16 @@
 ---
-title: "Seductive Serenity: A Portrait in Pink"
+title: 'Seductive Serenity: A Portrait in Pink'
 category: 3d
-tags: ["portrait","light","nano-banana-pro"]
-author: "[@xmiiru_](https://x.com/xmiiru_)"
-author_url: "https://twitter.com/xmiiru_"
-source_url: "https://twitter.com/xmiiru_/status/1996062041367269671"
-preview: "/media/3d/pg-1996062041367269671.webp"
+tags:
+  - portrait
+  - light
+  - realistic
+  - 3d
+  - dark
+author: '[@xmiiru_](https://x.com/xmiiru_)'
+author_url: 'https://twitter.com/xmiiru_'
+source_url: 'https://twitter.com/xmiiru_/status/1996062041367269671'
+preview: /media/3d/pg-1996062041367269671.webp
 ---
 
 What secrets does her captivating gaze hold? This enchanting scene, bathed in sunlight, unfolds in a dreamy bedroom with soft colors, showcasing elegance and charm.

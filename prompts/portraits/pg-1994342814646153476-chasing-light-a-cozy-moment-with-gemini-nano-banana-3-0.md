@@ -1,11 +1,16 @@
 ---
-title: "Chasing Light: A Cozy Moment with Gemini Nano Banana 3.0"
+title: 'Chasing Light: A Cozy Moment with Gemini Nano Banana 3.0'
 category: portraits
-tags: ["light","nano-banana-pro"]
-author: "[@ZaraIrahh](https://x.com/ZaraIrahh)"
-author_url: "https://twitter.com/ZaraIrahh"
-source_url: "https://twitter.com/ZaraIrahh/status/1994342814646153476"
-preview: "/media/portraits/pg-1994342814646153476.webp"
+tags:
+  - light
+  - realistic
+  - minimalist
+  - portrait
+  - dark
+author: '[@ZaraIrahh](https://x.com/ZaraIrahh)'
+author_url: 'https://twitter.com/ZaraIrahh'
+source_url: 'https://twitter.com/ZaraIrahh/status/1994342814646153476'
+preview: /media/portraits/pg-1994342814646153476.webp
 ---
 
 Soft sunlight dances through sheer curtains, illuminating a serene face. The relaxed pose and gentle expression create an intimate vibe, inviting you into this tranquil moment.

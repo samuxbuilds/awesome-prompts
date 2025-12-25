@@ -1,11 +1,19 @@
 ---
-title: "Monochrome Elegance: The Power of a Gaze"
+title: 'Monochrome Elegance: The Power of a Gaze'
 category: portraits
-tags: ["minimal","light","nano-banana-pro"]
-author: "[@aleenaamiir](https://x.com/aleenaamiir)"
-author_url: "https://twitter.com/aleenaamiir"
-source_url: "https://twitter.com/aleenaamiir/status/1991765428985876879"
-preview: "/media/portraits/pg-1991765428985876879.webp"
+tags:
+  - minimal
+  - light
+  - realistic
+  - 3d
+  - minimalist
+  - portrait
+  - dark
+  - black-and-white
+author: '[@aleenaamiir](https://x.com/aleenaamiir)'
+author_url: 'https://twitter.com/aleenaamiir'
+source_url: 'https://twitter.com/aleenaamiir/status/1991765428985876879'
+preview: /media/portraits/pg-1991765428985876879.webp
 ---
 
 Imagine a world painted in black and white, where a young woman's intense eyes steal the spotlight. Her minimalist attire and soft freckles tell a story of elegance and strength.

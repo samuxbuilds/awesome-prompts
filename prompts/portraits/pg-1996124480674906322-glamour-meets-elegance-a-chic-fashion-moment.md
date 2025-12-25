@@ -1,11 +1,15 @@
 ---
-title: "Glamour Meets Elegance: A Chic Fashion Moment"
+title: 'Glamour Meets Elegance: A Chic Fashion Moment'
 category: portraits
-tags: ["modern","fashion","nano-banana-pro"]
-author: "[@SynthetixArt](https://x.com/SynthetixArt)"
-author_url: "https://twitter.com/SynthetixArt"
-source_url: "https://twitter.com/SynthetixArt/status/1996124480674906322"
-preview: "/media/portraits/pg-1996124480674906322.webp"
+tags:
+  - modern
+  - fashion
+  - realistic
+  - portrait
+author: '[@SynthetixArt](https://x.com/SynthetixArt)'
+author_url: 'https://twitter.com/SynthetixArt'
+source_url: 'https://twitter.com/SynthetixArt/status/1996124480674906322'
+preview: /media/portraits/pg-1996124480674906322.webp
 ---
 
 Elegantly poised, she embodies sophistication in a black polka-dotted bodysuit. The plush leather chair complements her radiant blonde waves, creating a striking visual that captivates the essence of modern glamour.

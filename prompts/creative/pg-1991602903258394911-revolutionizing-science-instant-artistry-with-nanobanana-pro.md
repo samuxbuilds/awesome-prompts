@@ -1,11 +1,13 @@
 ---
-title: "Revolutionizing Science: Instant Artistry with NanoBanana Pro"
+title: 'Revolutionizing Science: Instant Artistry with NanoBanana Pro'
 category: creative
-tags: ["illustration","art","nano-banana-pro"]
-author: "[@DeryaTR_](https://x.com/DeryaTR_)"
-author_url: "https://twitter.com/DeryaTR_"
-source_url: "https://twitter.com/DeryaTR_/status/1991602903258394911"
-preview: "/media/creative/pg-1991602903258394911.webp"
+tags:
+  - illustration
+  - art
+author: '[@DeryaTR_](https://x.com/DeryaTR_)'
+author_url: 'https://twitter.com/DeryaTR_'
+source_url: 'https://twitter.com/DeryaTR_/status/1991602903258394911'
+preview: /media/creative/pg-1991602903258394911.webp
 ---
 
 What once took hours is now a swift creation! This stunning illustration captures the fierce battle of cytotoxic T cells targeting cancer cells, showcasing the power of technology in science.

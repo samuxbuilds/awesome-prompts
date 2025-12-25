@@ -1,9 +1,15 @@
 ---
-title: "Minimalist Futurist Poster"
+title: Minimalist Futurist Poster
 category: posters
-tags: ["3d", "minimalist", "poster", "logo", "glass"]
-author: "[@ZHO_ZHO_ZHO](https://x.com/ZHO_ZHO_ZHO)"
-preview: "/media/posters/minimalist-futurist-poster.webp"
+tags:
+  - 3d
+  - minimalist
+  - poster
+  - logo
+  - glass
+  - dark
+author: '[@ZHO_ZHO_ZHO](https://x.com/ZHO_ZHO_ZHO)'
+preview: /media/posters/minimalist-futurist-poster.webp
 ---
 
 A vertical (3:4) 4K-resolution minimalist futurist exhibition poster with an ultra-light cool gray background (#f4f4f4).

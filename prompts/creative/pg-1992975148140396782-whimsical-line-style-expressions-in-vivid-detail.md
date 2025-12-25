@@ -1,11 +1,12 @@
 ---
-title: "Whimsical LINE-Style Expressions in Vivid Detail"
+title: Whimsical LINE-Style Expressions in Vivid Detail
 category: creative
-tags: ["colorful","nano-banana-pro"]
-author: "[@planxyou](https://x.com/planxyou)"
-author_url: "https://twitter.com/planxyou"
-source_url: "https://twitter.com/planxyou/status/1992975148140396782"
-preview: "/media/creative/pg-1992975148140396782.webp"
+tags:
+  - colorful
+author: '[@planxyou](https://x.com/planxyou)'
+author_url: 'https://twitter.com/planxyou'
+source_url: 'https://twitter.com/planxyou/status/1992975148140396782'
+preview: /media/creative/pg-1992975148140396782.webp
 ---
 
 A burst of colorful charm awaits! This half-body character design captures playful emotions, adorned with iconic headgear and written in lively Chinese, perfect for your chats.

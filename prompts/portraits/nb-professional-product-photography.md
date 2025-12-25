@@ -1,9 +1,14 @@
 ---
-title: "Professional Product Photography"
+title: Professional Product Photography
 category: portraits
-tags: ["professional", "ai-art"]
-author: "[@nanobanana-pro](https://x.com/nanobanana-pro)"
-preview: "/media/portraits/nb-professional-product-photography.webp"
+tags:
+  - professional
+  - ai-art
+  - realistic
+  - portrait
+  - dark
+author: '[@nanobanana-pro](https://x.com/nanobanana-pro)'
+preview: /media/portraits/nb-professional-product-photography.webp
 ---
 
 *Isolates products from messy backgrounds and places them in a high-end commercial studio setting.*

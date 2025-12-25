@@ -1,11 +1,17 @@
 ---
-title: "Regal Beauty in the Desert Sun"
+title: Regal Beauty in the Desert Sun
 category: 3d
-tags: ["portrait","nano-banana-pro"]
-author: "[@Just_sharon7](https://x.com/Just_sharon7)"
-author_url: "https://twitter.com/Just_sharon7"
-source_url: "https://twitter.com/Just_sharon7/status/1996585605921386904"
-preview: "/media/3d/pg-1996585605921386904.webp"
+tags:
+  - portrait
+  - realistic
+  - anime
+  - 3d
+  - dark
+  - colorful
+author: '[@Just_sharon7](https://x.com/Just_sharon7)'
+author_url: 'https://twitter.com/Just_sharon7'
+source_url: 'https://twitter.com/Just_sharon7/status/1996585605921386904'
+preview: /media/3d/pg-1996585605921386904.webp
 ---
 
 A mesmerizing portrait of elegance! This enchanting woman atop her ornate camel embodies opulence with every detail, from her rich attire to the golden hour glow.

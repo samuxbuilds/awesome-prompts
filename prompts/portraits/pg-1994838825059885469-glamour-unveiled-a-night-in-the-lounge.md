@@ -1,11 +1,13 @@
 ---
-title: "Glamour Unveiled: A Night in the Lounge"
+title: 'Glamour Unveiled: A Night in the Lounge'
 category: portraits
-tags: ["nano-banana-pro"]
-author: "[@IqraSaifiii](https://x.com/IqraSaifiii)"
-author_url: "https://twitter.com/IqraSaifiii"
-source_url: "https://twitter.com/IqraSaifiii/status/1994838825059885469"
-preview: "/media/portraits/pg-1994838825059885469.webp"
+tags:
+  - portrait
+  - dark
+author: '[@IqraSaifiii](https://x.com/IqraSaifiii)'
+author_url: 'https://twitter.com/IqraSaifiii'
+source_url: 'https://twitter.com/IqraSaifiii/status/1994838825059885469'
+preview: /media/portraits/pg-1994838825059885469.webp
 ---
 
 In a realm of sophistication, this Asian couple radiates elegance. Their intimate gaze and luxurious attire create a captivating tableau, framed by golden bokeh.

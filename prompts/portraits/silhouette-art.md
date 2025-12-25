@@ -1,9 +1,12 @@
 ---
-title: "Silhouette Art"
+title: Silhouette Art
 category: portraits
-tags: ["creative", "ai-art"]
-author: "[@umesh_ai](https://x.com/umesh_ai)"
-preview: "/media/portraits/silhouette-art.webp"
+tags:
+  - creative
+  - ai-art
+  - portrait
+author: '[@umesh_ai](https://x.com/umesh_ai)'
+preview: /media/portraits/silhouette-art.webp
 ---
 
 The silhouette of a basic outline of a [PROMPT]. The background is bright yellow, and the silhouette is solid black.

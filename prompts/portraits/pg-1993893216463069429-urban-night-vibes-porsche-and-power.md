@@ -1,11 +1,18 @@
 ---
-title: "Urban Night Vibes: Porsche and Power"
+title: 'Urban Night Vibes: Porsche and Power'
 category: portraits
-tags: ["urban","light","neon","nano-banana-pro"]
-author: "[@YaseenK7212](https://x.com/YaseenK7212)"
-author_url: "https://twitter.com/YaseenK7212"
-source_url: "https://twitter.com/YaseenK7212/status/1993893216463069429"
-preview: "/media/portraits/pg-1993893216463069429.webp"
+tags:
+  - urban
+  - light
+  - neon
+  - realistic
+  - portrait
+  - dark
+  - colorful
+author: '[@YaseenK7212](https://x.com/YaseenK7212)'
+author_url: 'https://twitter.com/YaseenK7212'
+source_url: 'https://twitter.com/YaseenK7212/status/1993893216463069429'
+preview: /media/portraits/pg-1993893216463069429.webp
 ---
 
 A striking scene unfolds—under neon lights, a confident woman in a black tracksuit leans against a sleek Porsche GT3 RS, reflecting the pulse of the city.

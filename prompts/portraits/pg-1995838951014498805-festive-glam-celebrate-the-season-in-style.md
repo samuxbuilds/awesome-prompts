@@ -1,11 +1,13 @@
 ---
-title: "Festive Glam: Celebrate the Season in Style!"
+title: 'Festive Glam: Celebrate the Season in Style!'
 category: portraits
-tags: ["light","nano-banana-pro"]
-author: "[@rowanali09](https://x.com/rowanali09)"
-author_url: "https://twitter.com/rowanali09"
-source_url: "https://twitter.com/rowanali09/status/1995838951014498805"
-preview: "/media/portraits/pg-1995838951014498805.webp"
+tags:
+  - light
+  - portrait
+author: '[@rowanali09](https://x.com/rowanali09)'
+author_url: 'https://twitter.com/rowanali09'
+source_url: 'https://twitter.com/rowanali09/status/1995838951014498805'
+preview: /media/portraits/pg-1995838951014498805.webp
 ---
 
 Glistening ornaments and twinkling lights surround a radiant star! This young woman shines in her red sequin dress and fluffy coat, embodying holiday cheer with her festive accessories.

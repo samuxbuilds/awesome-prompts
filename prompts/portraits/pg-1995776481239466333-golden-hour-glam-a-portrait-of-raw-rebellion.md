@@ -1,11 +1,15 @@
 ---
-title: "Golden Hour Glam: A Portrait of Raw Rebellion"
+title: 'Golden Hour Glam: A Portrait of Raw Rebellion'
 category: portraits
-tags: ["portrait","light","nano-banana-pro"]
-author: "[@AIwithkhan](https://x.com/AIwithkhan)"
-author_url: "https://twitter.com/AIwithkhan"
-source_url: "https://twitter.com/AIwithkhan/status/1995776481239466333"
-preview: "/media/portraits/pg-1995776481239466333.webp"
+tags:
+  - portrait
+  - light
+  - realistic
+  - dark
+author: '[@AIwithkhan](https://x.com/AIwithkhan)'
+author_url: 'https://twitter.com/AIwithkhan'
+source_url: 'https://twitter.com/AIwithkhan/status/1995776481239466333'
+preview: /media/portraits/pg-1995776481239466333.webp
 ---
 
 A captivating moment unfolds as golden light dances on her wet hair, reflecting a fierce spirit. Smoky eyes and a cigarette amplify her sultry allure, with dreamy bokeh hinting at luxurious secrets.

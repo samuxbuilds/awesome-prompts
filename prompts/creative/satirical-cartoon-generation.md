@@ -1,9 +1,15 @@
 ---
-title: "Satirical Cartoon Generation"
+title: Satirical Cartoon Generation
 category: creative
-tags: ["cartoon", "retro", "vintage", "comic", "illustration"]
-author: "[@dotey](https://x.com/dotey)"
-preview: "/media/creative/satirical-cartoon-generation.webp"
+tags:
+  - cartoon
+  - retro
+  - vintage
+  - comic
+  - illustration
+  - 3d
+author: '[@dotey](https://x.com/dotey)'
+preview: /media/creative/satirical-cartoon-generation.webp
 ---
 
 An illustration in satirical comic style, rendered in a vintage American comic aesthetic. The background features a multi-tiered shelf stocked entirely with identical red baseball caps. The caps have a bold slogan on the front: “MAKE AMERICA GREAT AGAIN,” while a white side tag on each reads “MADE IN CHINA.” The composition uses a close-up perspective focusing on one specific red cap.

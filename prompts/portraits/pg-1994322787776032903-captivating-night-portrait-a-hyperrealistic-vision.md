@@ -1,11 +1,14 @@
 ---
-title: "Captivating Night Portrait: A Hyperrealistic Vision"
+title: 'Captivating Night Portrait: A Hyperrealistic Vision'
 category: portraits
-tags: ["realistic","portrait","art","nano-banana-pro"]
-author: "[@ShreyaYadav___](https://x.com/ShreyaYadav___)"
-author_url: "https://twitter.com/ShreyaYadav___"
-source_url: "https://twitter.com/ShreyaYadav___/status/1994322787776032903"
-preview: "/media/portraits/pg-1994322787776032903.webp"
+tags:
+  - realistic
+  - portrait
+  - art
+author: '[@ShreyaYadav___](https://x.com/ShreyaYadav___)'
+author_url: 'https://twitter.com/ShreyaYadav___'
+source_url: 'https://twitter.com/ShreyaYadav___/status/1994322787776032903'
+preview: /media/portraits/pg-1994322787776032903.webp
 ---
 
 Can art capture the soul? This stunning hyperrealistic portrait glows under the night sky, showcasing a woman in an all-black ensemble, exuding confidence with every detail.

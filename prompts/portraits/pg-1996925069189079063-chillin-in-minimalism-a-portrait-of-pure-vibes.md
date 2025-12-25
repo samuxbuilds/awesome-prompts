@@ -1,11 +1,16 @@
 ---
-title: "Chillin' in Minimalism: A Portrait of Pure Vibes"
+title: 'Chillin'' in Minimalism: A Portrait of Pure Vibes'
 category: portraits
-tags: ["portrait","minimal","light","nano-banana-pro"]
-author: "[@egeberkina](https://x.com/egeberkina)"
-author_url: "https://twitter.com/egeberkina"
-source_url: "https://twitter.com/egeberkina/status/1996925069189079063"
-preview: "/media/portraits/pg-1996925069189079063.webp"
+tags:
+  - portrait
+  - minimal
+  - light
+  - minimalist
+  - dark
+author: '[@egeberkina](https://x.com/egeberkina)'
+author_url: 'https://twitter.com/egeberkina'
+source_url: 'https://twitter.com/egeberkina/status/1996925069189079063'
+preview: /media/portraits/pg-1996925069189079063.webp
 ---
 
 Soft lighting embraces a serene moment. In a cozy white outfit and large headphones, she radiates tranquility, inviting you to appreciate the beauty in simply being.

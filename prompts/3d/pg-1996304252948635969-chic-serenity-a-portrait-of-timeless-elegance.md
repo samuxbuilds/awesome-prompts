@@ -1,11 +1,14 @@
 ---
-title: "Chic Serenity: A Portrait of Timeless Elegance"
+title: 'Chic Serenity: A Portrait of Timeless Elegance'
 category: 3d
-tags: ["portrait","nano-banana-pro"]
-author: "[@miilesus](https://x.com/miilesus)"
-author_url: "https://twitter.com/miilesus"
-source_url: "https://twitter.com/miilesus/status/1996304252948635969"
-preview: "/media/3d/pg-1996304252948635969.webp"
+tags:
+  - portrait
+  - realistic
+  - 3d
+author: '[@miilesus](https://x.com/miilesus)'
+author_url: 'https://twitter.com/miilesus'
+source_url: 'https://twitter.com/miilesus/status/1996304252948635969'
+preview: /media/3d/pg-1996304252948635969.webp
 ---
 
 A captivating scene unfolds on a luxury terrace, where a charming woman with soft pink lips and a dreamy smile rests her chin on delicate hands, the evening sky glittering in the background.

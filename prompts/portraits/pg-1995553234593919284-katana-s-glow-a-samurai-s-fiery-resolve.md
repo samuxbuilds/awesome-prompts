@@ -1,11 +1,15 @@
 ---
-title: "Katana's Glow: A Samurai's Fiery Resolve"
+title: 'Katana''s Glow: A Samurai''s Fiery Resolve'
 category: portraits
-tags: ["nano-banana-pro"]
-author: "[@ShreyaYadav___](https://x.com/ShreyaYadav___)"
-author_url: "https://twitter.com/ShreyaYadav___"
-source_url: "https://twitter.com/ShreyaYadav___/status/1995553234593919284"
-preview: "/media/portraits/pg-1995553234593919284.webp"
+tags:
+  - realistic
+  - minimalist
+  - portrait
+  - dark
+author: '[@ShreyaYadav___](https://x.com/ShreyaYadav___)'
+author_url: 'https://twitter.com/ShreyaYadav___'
+source_url: 'https://twitter.com/ShreyaYadav___/status/1995553234593919284'
+preview: /media/portraits/pg-1995553234593919284.webp
 ---
 
 In a dimly lit dojo, a fierce warrior embodies strength. Her glowing katana illuminates the shadows, reflecting her determination and skill. Can you feel the intensity?

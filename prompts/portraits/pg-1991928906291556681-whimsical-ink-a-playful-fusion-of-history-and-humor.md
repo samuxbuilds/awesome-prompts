@@ -1,11 +1,13 @@
 ---
-title: "Whimsical Ink: A Playful Fusion of History and Humor"
+title: 'Whimsical Ink: A Playful Fusion of History and Humor'
 category: portraits
-tags: ["art","nano-banana-pro"]
-author: "[@dotey](https://x.com/dotey)"
-author_url: "https://twitter.com/dotey"
-source_url: "https://twitter.com/dotey/status/1991928906291556681"
-preview: "/media/portraits/pg-1991928906291556681.webp"
+tags:
+  - art
+  - portrait
+author: '[@dotey](https://x.com/dotey)'
+author_url: 'https://twitter.com/dotey'
+source_url: 'https://twitter.com/dotey/status/1991928906291556681'
+preview: /media/portraits/pg-1991928906291556681.webp
 ---
 
 A comical encounter unfolds on a scroll! A Ming scholar's astonished gaze meets a Tang beauty channeling Marilyn Monroe, while a playful child indulges in cotton candy. Artistry meets hilarity!

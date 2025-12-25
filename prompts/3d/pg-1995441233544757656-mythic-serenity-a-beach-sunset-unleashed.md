@@ -1,11 +1,16 @@
 ---
-title: "Mythic Serenity: A Beach Sunset Unleashed"
+title: 'Mythic Serenity: A Beach Sunset Unleashed'
 category: 3d
-tags: ["nature","nano-banana-pro"]
-author: "[@aleenaamiir](https://x.com/aleenaamiir)"
-author_url: "https://twitter.com/aleenaamiir"
-source_url: "https://twitter.com/aleenaamiir/status/1995441233544757656"
-preview: "/media/3d/pg-1995441233544757656.webp"
+tags:
+  - nature
+  - 3d
+  - vintage
+  - landscape
+  - dark
+author: '[@aleenaamiir](https://x.com/aleenaamiir)'
+author_url: 'https://twitter.com/aleenaamiir'
+source_url: 'https://twitter.com/aleenaamiir/status/1995441233544757656'
+preview: /media/3d/pg-1995441233544757656.webp
 ---
 
 Calm yet striking, the woman stands amidst a symphony of waves and wild horses. Her flowing silhouette dances with the sunset, embodying a moment where nature’s beauty meets fierce elegance.

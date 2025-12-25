@@ -1,11 +1,14 @@
 ---
-title: "Nano Banana Pro Takes a Quantum Leap!"
+title: Nano Banana Pro Takes a Quantum Leap!
 category: portraits
-tags: ["nano-banana-pro"]
-author: "[@flavioAd](https://x.com/flavioAd)"
-author_url: "https://twitter.com/flavioAd"
-source_url: "https://twitter.com/flavioAd/status/1991514076829176146"
-preview: "/media/portraits/pg-1991514076829176146.webp"
+tags:
+  - realistic
+  - portrait
+  - black-and-white
+author: '[@flavioAd](https://x.com/flavioAd)'
+author_url: 'https://twitter.com/flavioAd'
+source_url: 'https://twitter.com/flavioAd/status/1991514076829176146'
+preview: /media/portraits/pg-1991514076829176146.webp
 ---
 
 Behold the transformation! The new Nano Banana shines alongside its predecessor, capturing the essence of innovation with striking detail and vivid clarity.

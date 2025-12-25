@@ -1,11 +1,17 @@
 ---
-title: "A Cozy Retreat: The Tranquil Moments of a Young Dreamer"
+title: 'A Cozy Retreat: The Tranquil Moments of a Young Dreamer'
 category: 3d
-tags: ["modern","light","nano-banana-pro"]
-author: "[@ShreyaYadav___](https://x.com/ShreyaYadav___)"
-author_url: "https://twitter.com/ShreyaYadav___"
-source_url: "https://twitter.com/ShreyaYadav___/status/1992977525866373401"
-preview: "/media/3d/pg-1992977525866373401.webp"
+tags:
+  - modern
+  - light
+  - realistic
+  - 3d
+  - illustration
+  - portrait
+author: '[@ShreyaYadav___](https://x.com/ShreyaYadav___)'
+author_url: 'https://twitter.com/ShreyaYadav___'
+source_url: 'https://twitter.com/ShreyaYadav___/status/1992977525866373401'
+preview: /media/3d/pg-1992977525866373401.webp
 ---
 
 Captured in a warm embrace of natural light, this triptych unveils a young man's serene journey through creativity, contemplation, and comfort, all within the cozy walls of his modern sanctuary.

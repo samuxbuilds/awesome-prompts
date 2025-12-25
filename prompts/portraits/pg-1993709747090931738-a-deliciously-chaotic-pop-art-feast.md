@@ -1,11 +1,19 @@
 ---
-title: "A Deliciously Chaotic Pop-Art Feast"
+title: A Deliciously Chaotic Pop-Art Feast
 category: portraits
-tags: ["art","food","nano-banana-pro"]
-author: "[@_MehdiSharifi_](https://x.com/_MehdiSharifi_)"
-author_url: "https://twitter.com/_MehdiSharifi_"
-source_url: "https://twitter.com/_MehdiSharifi_/status/1993709747090931738"
-preview: "/media/portraits/pg-1993709747090931738.webp"
+tags:
+  - art
+  - food
+  - realistic
+  - illustration
+  - neon
+  - vintage
+  - portrait
+  - colorful
+author: '[@_MehdiSharifi_](https://x.com/_MehdiSharifi_)'
+author_url: 'https://twitter.com/_MehdiSharifi_'
+source_url: 'https://twitter.com/_MehdiSharifi_/status/1993709747090931738'
+preview: /media/portraits/pg-1993709747090931738.webp
 ---
 
 In a retro diner, a playful girl snacks on a burger while whimsical food monsters come alive around her. Bright colors and wild characters create a savory spectacle!

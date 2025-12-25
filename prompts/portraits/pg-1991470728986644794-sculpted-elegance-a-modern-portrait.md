@@ -1,11 +1,16 @@
 ---
-title: "Sculpted Elegance: A Modern Portrait"
+title: 'Sculpted Elegance: A Modern Portrait'
 category: portraits
-tags: ["realistic","portrait","modern","nano-banana-pro"]
-author: "[@SimplyAnnisa](https://x.com/SimplyAnnisa)"
-author_url: "https://twitter.com/SimplyAnnisa"
-source_url: "https://twitter.com/SimplyAnnisa/status/1991470728986644794"
-preview: "/media/portraits/pg-1991470728986644794.webp"
+tags:
+  - realistic
+  - portrait
+  - modern
+  - minimalist
+  - dark
+author: '[@SimplyAnnisa](https://x.com/SimplyAnnisa)'
+author_url: 'https://twitter.com/SimplyAnnisa'
+source_url: 'https://twitter.com/SimplyAnnisa/status/1991470728986644794'
+preview: /media/portraits/pg-1991470728986644794.webp
 ---
 
 Bold and striking, this hyper-realistic portrait captivates with its sharp contrasts and rich crimson backdrop, showcasing a model exuding calm dominance and a mysterious allure.

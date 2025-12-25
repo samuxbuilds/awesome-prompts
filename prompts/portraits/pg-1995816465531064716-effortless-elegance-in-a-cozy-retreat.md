@@ -1,11 +1,18 @@
 ---
-title: "Effortless Elegance in a Cozy Retreat"
+title: Effortless Elegance in a Cozy Retreat
 category: portraits
-tags: ["modern","minimal","light","nano-banana-pro"]
-author: "[@saniaspeaks_](https://x.com/saniaspeaks_)"
-author_url: "https://twitter.com/saniaspeaks_"
-source_url: "https://twitter.com/saniaspeaks_/status/1995816465531064716"
-preview: "/media/portraits/pg-1995816465531064716.webp"
+tags:
+  - modern
+  - minimal
+  - light
+  - realistic
+  - minimalist
+  - portrait
+  - dark
+author: '[@saniaspeaks_](https://x.com/saniaspeaks_)'
+author_url: 'https://twitter.com/saniaspeaks_'
+source_url: 'https://twitter.com/saniaspeaks_/status/1995816465531064716'
+preview: /media/portraits/pg-1995816465531064716.webp
 ---
 
 A radiant young woman lounges effortlessly in her minimalist space, exuding confidence in chic black satin. Her warm smile and soft lighting create an inviting ambiance, perfect for modern living.

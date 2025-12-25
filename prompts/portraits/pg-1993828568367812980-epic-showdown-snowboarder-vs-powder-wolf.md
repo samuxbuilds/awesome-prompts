@@ -1,11 +1,16 @@
 ---
-title: "Epic Showdown: Snowboarder vs. Powder Wolf"
+title: 'Epic Showdown: Snowboarder vs. Powder Wolf'
 category: portraits
-tags: ["nano-banana-pro"]
-author: "[@_MehdiSharifi_](https://x.com/_MehdiSharifi_)"
-author_url: "https://twitter.com/_MehdiSharifi_"
-source_url: "https://twitter.com/_MehdiSharifi_/status/1993828568367812980"
-preview: "/media/portraits/pg-1993828568367812980.webp"
+tags:
+  - realistic
+  - portrait
+  - landscape
+  - dark
+  - colorful
+author: '[@_MehdiSharifi_](https://x.com/_MehdiSharifi_)'
+author_url: 'https://twitter.com/_MehdiSharifi_'
+source_url: 'https://twitter.com/_MehdiSharifi_/status/1993828568367812980'
+preview: /media/portraits/pg-1993828568367812980.webp
 ---
 
 Carving through pristine alpine slopes, an extreme snowboarder is pursued by a colossal snow wolf, its icy eyes piercing the vivid blue sky. Action-packed and surreal!

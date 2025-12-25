@@ -1,11 +1,17 @@
 ---
-title: "Elegance in Sage: A Romantic Fashion Portrait"
+title: 'Elegance in Sage: A Romantic Fashion Portrait'
 category: portraits
-tags: ["portrait","fashion","nano-banana-pro"]
-author: "[@ShreyaYadav___](https://x.com/ShreyaYadav___)"
-author_url: "https://twitter.com/ShreyaYadav___"
-source_url: "https://twitter.com/ShreyaYadav___/status/1996791111084548501"
-preview: "/media/portraits/pg-1996791111084548501.webp"
+tags:
+  - portrait
+  - fashion
+  - realistic
+  - neon
+  - minimalist
+  - dark
+author: '[@ShreyaYadav___](https://x.com/ShreyaYadav___)'
+author_url: 'https://twitter.com/ShreyaYadav___'
+source_url: 'https://twitter.com/ShreyaYadav___/status/1996791111084548501'
+preview: /media/portraits/pg-1996791111084548501.webp
 ---
 
 Amidst soft hues, a couple embodies romance—her ruffled gown cascades like a dream, while he stands poised, complementing her every grace. Love in style!

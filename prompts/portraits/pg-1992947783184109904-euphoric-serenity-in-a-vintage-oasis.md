@@ -1,11 +1,16 @@
 ---
-title: "Euphoric Serenity in a Vintage Oasis"
+title: Euphoric Serenity in a Vintage Oasis
 category: portraits
-tags: ["vintage","dark","light","nano-banana-pro"]
-author: "[@xmliisu](https://x.com/xmliisu)"
-author_url: "https://twitter.com/xmliisu"
-source_url: "https://twitter.com/xmliisu/status/1992947783184109904"
-preview: "/media/portraits/pg-1992947783184109904.webp"
+tags:
+  - vintage
+  - dark
+  - light
+  - realistic
+  - portrait
+author: '[@xmliisu](https://x.com/xmliisu)'
+author_url: 'https://twitter.com/xmliisu'
+source_url: 'https://twitter.com/xmliisu/status/1992947783184109904'
+preview: /media/portraits/pg-1992947783184109904.webp
 ---
 
 An antique porcelain bathtub cradles a vision of beauty, where dewy skin and dark petals create an enchanting scene bathed in soft golden light.

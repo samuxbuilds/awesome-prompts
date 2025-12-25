@@ -1,11 +1,16 @@
 ---
-title: "Edgy Elegance: The Nano Banana Muse"
+title: 'Edgy Elegance: The Nano Banana Muse'
 category: 3d
-tags: ["portrait","modern","light","nano-banana-pro"]
-author: "[@rovvmut_](https://x.com/rovvmut_)"
-author_url: "https://twitter.com/rovvmut_"
-source_url: "https://twitter.com/rovvmut_/status/1995146612885410093"
-preview: "/media/3d/pg-1995146612885410093.webp"
+tags:
+  - portrait
+  - modern
+  - light
+  - 3d
+  - dark
+author: '[@rovvmut_](https://x.com/rovvmut_)'
+author_url: 'https://twitter.com/rovvmut_'
+source_url: 'https://twitter.com/rovvmut_/status/1995146612885410093'
+preview: /media/3d/pg-1995146612885410093.webp
 ---
 
 A striking portrait of modern confidence! With light gray waves framing her sharp features, this captivating figure stands boldly against a bright blue sky.

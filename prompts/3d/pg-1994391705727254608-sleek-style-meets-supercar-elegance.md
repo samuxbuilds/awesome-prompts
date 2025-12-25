@@ -1,11 +1,17 @@
 ---
-title: "Sleek Style Meets Supercar Elegance"
+title: Sleek Style Meets Supercar Elegance
 category: 3d
-tags: ["vibrant","nano-banana-pro"]
-author: "[@kingofdairyque](https://x.com/kingofdairyque)"
-author_url: "https://twitter.com/kingofdairyque"
-source_url: "https://twitter.com/kingofdairyque/status/1994391705727254608"
-preview: "/media/3d/pg-1994391705727254608.webp"
+tags:
+  - vibrant
+  - realistic
+  - 3d
+  - portrait
+  - dark
+  - colorful
+author: '[@kingofdairyque](https://x.com/kingofdairyque)'
+author_url: 'https://twitter.com/kingofdairyque'
+source_url: 'https://twitter.com/kingofdairyque/status/1994391705727254608'
+preview: /media/3d/pg-1994391705727254608.webp
 ---
 
 In a luxurious showroom glow, a confident figure relaxes on a vibrant red beanbag, perfectly framed by a striking supercar and stylish decor. An ambiance of chic sophistication!

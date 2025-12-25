@@ -1,9 +1,14 @@
 ---
-title: "Virtual Model Try-On"
+title: Virtual Model Try-On
 category: creative
-tags: ["realistic", "logo", "professional", "fashion"]
-author: "[@nanobanana-pro](https://x.com/nanobanana-pro)"
-preview: "/media/creative/nb-virtual-model-try-on.webp"
+tags:
+  - realistic
+  - logo
+  - professional
+  - fashion
+  - dark
+author: '[@nanobanana-pro](https://x.com/nanobanana-pro)'
+preview: /media/creative/nb-virtual-model-try-on.webp
 ---
 
 *Dresses a model in a specific garment while preserving fabric texture and lighting integration.*

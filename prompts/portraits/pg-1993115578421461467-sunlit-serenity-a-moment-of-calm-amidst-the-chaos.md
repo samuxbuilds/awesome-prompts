@@ -1,11 +1,16 @@
 ---
-title: "Sunlit Serenity: A Moment of Calm Amidst the Chaos"
+title: 'Sunlit Serenity: A Moment of Calm Amidst the Chaos'
 category: portraits
-tags: ["light","pastel","nano-banana-pro"]
-author: "[@Ashlley_grace_](https://x.com/Ashlley_grace_)"
-author_url: "https://twitter.com/Ashlley_grace_"
-source_url: "https://twitter.com/Ashlley_grace_/status/1993115578421461467"
-preview: "/media/portraits/pg-1993115578421461467.webp"
+tags:
+  - light
+  - pastel
+  - realistic
+  - portrait
+  - dark
+author: '[@Ashlley_grace_](https://x.com/Ashlley_grace_)'
+author_url: 'https://twitter.com/Ashlley_grace_'
+source_url: 'https://twitter.com/Ashlley_grace_/status/1993115578421461467'
+preview: /media/portraits/pg-1993115578421461467.webp
 ---
 
 In a cozy cafe, sunlight dances on her soft features as she savors a rare pause. The pastel yellow sweater radiates warmth, inviting you to share in this tranquil escape.

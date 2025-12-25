@@ -1,9 +1,17 @@
 ---
-title: "Chrome Emoji Pin"
+title: Chrome Emoji Pin
 category: icons
-tags: ["3d", "emoji", "icon", "chrome", "futuristic"]
-author: "[@egeberkina](https://x.com/egeberkina)"
-preview: "/media/icons/chrome-emoji-pin.webp"
+tags:
+  - 3d
+  - emoji
+  - icon
+  - chrome
+  - futuristic
+  - neon
+  - minimalist
+  - dark
+author: '[@egeberkina](https://x.com/egeberkina)'
+preview: /media/icons/chrome-emoji-pin.webp
 ---
 
 highly detailed 3D render of a single metallic {👍} emoji pin attached to a vertical product card, ultra-glossy chrome finish, smooth rounded 3D icon, stylized futuristic design, soft reflections, clean shadows, paper card has a die-cut euro hole at the top center, bold title “{Awesome}” above the pin, fun tagline “{Smash that ⭐ if you like it!}” below, soft gray background, soft studio lighting, minimal aesthetic

@@ -1,9 +1,12 @@
 ---
-title: "Cloud Art"
+title: Cloud Art
 category: creative
-tags: ["creative", "ai-art"]
-author: "[@umesh_ai](https://x.com/umesh_ai)"
-preview: "/media/creative/cloud-art.webp"
+tags:
+  - creative
+  - ai-art
+  - realistic
+author: '[@umesh_ai](https://x.com/umesh_ai)'
+preview: /media/creative/cloud-art.webp
 ---
 
 Generate image: A photograph captures a daytime scene with a [SUBJECT/OBJECT] formed by scattered clouds in the sky, positioned above a [LOCATION]

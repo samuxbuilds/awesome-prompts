@@ -1,11 +1,17 @@
 ---
-title: "Crimson Elegance: A Sensual Fashion Statement"
+title: 'Crimson Elegance: A Sensual Fashion Statement'
 category: portraits
-tags: ["art","fashion","light","nano-banana-pro"]
-author: "[@Just_sharon7](https://x.com/Just_sharon7)"
-author_url: "https://twitter.com/Just_sharon7"
-source_url: "https://twitter.com/Just_sharon7/status/1997241895966130425"
-preview: "/media/portraits/pg-1997241895966130425.webp"
+tags:
+  - art
+  - fashion
+  - light
+  - realistic
+  - portrait
+  - dark
+author: '[@Just_sharon7](https://x.com/Just_sharon7)'
+author_url: 'https://twitter.com/Just_sharon7'
+source_url: 'https://twitter.com/Just_sharon7/status/1997241895966130425'
+preview: /media/portraits/pg-1997241895966130425.webp
 ---
 
 Bathe in the allure of a striking red gown, artfully contrasted against rich velvet. Flawless styling, bold accessories, and dramatic lighting ignite the essence of high fashion.

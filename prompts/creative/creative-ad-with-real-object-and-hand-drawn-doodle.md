@@ -1,9 +1,12 @@
 ---
-title: "Creative Ad with Real Object and Hand-Drawn Doodle"
+title: Creative Ad with Real Object and Hand-Drawn Doodle
 category: creative
-tags: ["minimalist", "logo"]
-author: "[@azed_ai](https://x.com/azed_ai)"
-preview: "/media/creative/creative-ad-with-real-object-and-hand-drawn-doodle.webp"
+tags:
+  - minimalist
+  - logo
+  - portrait
+author: '[@azed_ai](https://x.com/azed_ai)'
+preview: /media/creative/creative-ad-with-real-object-and-hand-drawn-doodle.webp
 ---
 
 A minimalist and creative advertisement set on a clean white background.

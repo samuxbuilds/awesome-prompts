@@ -1,11 +1,19 @@
 ---
-title: "Sassy Silhouettes: A Vibrant Portraits Collage"
+title: 'Sassy Silhouettes: A Vibrant Portraits Collage'
 category: 3d
-tags: ["portrait","vintage","vibrant","nano-banana-pro"]
-author: "[@craftian_keskin](https://x.com/craftian_keskin)"
-author_url: "https://twitter.com/craftian_keskin"
-source_url: "https://twitter.com/craftian_keskin/status/1997054120323104938"
-preview: "/media/3d/pg-1997054120323104938.webp"
+tags:
+  - portrait
+  - vintage
+  - vibrant
+  - realistic
+  - 3d
+  - minimalist
+  - dark
+  - colorful
+author: '[@craftian_keskin](https://x.com/craftian_keskin)'
+author_url: 'https://twitter.com/craftian_keskin'
+source_url: 'https://twitter.com/craftian_keskin/status/1997054120323104938'
+preview: /media/3d/pg-1997054120323104938.webp
 ---
 
 Four frames of fierce beauty showcase a blend of confidence and allure, capturing playful moments in a chic, vintage vibe. Each glance tells a story!

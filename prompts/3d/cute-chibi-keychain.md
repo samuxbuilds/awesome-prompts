@@ -1,9 +1,14 @@
 ---
-title: "Cute Chibi Keychain"
+title: Cute Chibi Keychain
 category: 3d
-tags: ["chibi", "cute"]
-author: "[@azed_ai](https://x.com/azed_ai)"
-preview: "/media/3d/cute-chibi-keychain.webp"
+tags:
+  - chibi
+  - cute
+  - realistic
+  - 3d
+  - colorful
+author: '[@azed_ai](https://x.com/azed_ai)'
+preview: /media/3d/cute-chibi-keychain.webp
 ---
 
 A close-up photo of a cute, colorful keychain held by person's hand. The keychain features a chibi-style of the [attached image ]. The keychain is made of soft rubber with bold black outlines and attached to a small silver keyring, neutral background

@@ -1,11 +1,18 @@
 ---
-title: "Chic Shadows: The Elegance of Minimalism"
+title: 'Chic Shadows: The Elegance of Minimalism'
 category: portraits
-tags: ["portrait","modern","fashion","minimal","nano-banana-pro"]
-author: "[@AIByAbbay](https://x.com/AIByAbbay)"
-author_url: "https://twitter.com/AIByAbbay"
-source_url: "https://twitter.com/AIByAbbay/status/1997274447188029593"
-preview: "/media/portraits/pg-1997274447188029593.webp"
+tags:
+  - portrait
+  - modern
+  - fashion
+  - minimal
+  - realistic
+  - minimalist
+  - dark
+author: '[@AIByAbbay](https://x.com/AIByAbbay)'
+author_url: 'https://twitter.com/AIByAbbay'
+source_url: 'https://twitter.com/AIByAbbay/status/1997274447188029593'
+preview: /media/portraits/pg-1997274447188029593.webp
 ---
 
 A striking portrait captures the essence of modern fashion. The satin bomber jacket gleams against a moody backdrop, while relaxed expressions and sharp textures create a captivating visual narrative.

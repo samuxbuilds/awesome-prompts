@@ -1,11 +1,21 @@
 ---
-title: "Radiant Portrait: A Fusion of Light and Detail"
+title: 'Radiant Portrait: A Fusion of Light and Detail'
 category: portraits
-tags: ["portrait","illustration","minimal","light","vibrant","nano-banana-pro"]
-author: "[@ShreyaYadav___](https://x.com/ShreyaYadav___)"
-author_url: "https://twitter.com/ShreyaYadav___"
-source_url: "https://twitter.com/ShreyaYadav___/status/1993150717394325653"
-preview: "/media/portraits/pg-1993150717394325653.webp"
+tags:
+  - portrait
+  - illustration
+  - minimal
+  - light
+  - vibrant
+  - neon
+  - minimalist
+  - dark
+  - colorful
+  - black-and-white
+author: '[@ShreyaYadav___](https://x.com/ShreyaYadav___)'
+author_url: 'https://twitter.com/ShreyaYadav___'
+source_url: 'https://twitter.com/ShreyaYadav___/status/1993150717394325653'
+preview: /media/portraits/pg-1993150717394325653.webp
 ---
 
 A striking close-up reveals a character bursting with vibrant colors, juxtaposed against a minimalist white backdrop. This 8K illustration celebrates bold textures and striking contrasts, bringing the unique features and personality of the subject to life!

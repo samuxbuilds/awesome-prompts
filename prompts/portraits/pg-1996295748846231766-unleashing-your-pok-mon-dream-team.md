@@ -1,11 +1,16 @@
 ---
-title: "Unleashing Your Pokémon Dream Team!"
+title: Unleashing Your Pokémon Dream Team!
 category: portraits
-tags: ["nano-banana-pro"]
-author: "[@ai_for_success](https://x.com/ai_for_success)"
-author_url: "https://twitter.com/ai_for_success"
-source_url: "https://twitter.com/ai_for_success/status/1996295748846231766"
-preview: "/media/portraits/pg-1996295748846231766.webp"
+tags:
+  - realistic
+  - anime
+  - 3d
+  - illustration
+  - portrait
+author: '[@ai_for_success](https://x.com/ai_for_success)'
+author_url: 'https://twitter.com/ai_for_success'
+source_url: 'https://twitter.com/ai_for_success/status/1996295748846231766'
+preview: /media/portraits/pg-1996295748846231766.webp
 ---
 
 Transform your likeness into a dynamic Pokémon Trainer! Create an epic card featuring you and your favorite Pokémon, bursting with elemental energy and stunning details.

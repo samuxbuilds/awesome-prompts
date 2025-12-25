@@ -1,11 +1,13 @@
 ---
-title: "Raindrops and Heartstrings: A Cinematic Tale"
+title: 'Raindrops and Heartstrings: A Cinematic Tale'
 category: portraits
-tags: ["art","nano-banana-pro"]
-author: "[@oggii_0](https://x.com/oggii_0)"
-author_url: "https://twitter.com/oggii_0"
-source_url: "https://twitter.com/oggii_0/status/1996580659096387725"
-preview: "/media/portraits/pg-1996580659096387725.webp"
+tags:
+  - art
+  - portrait
+author: '[@oggii_0](https://x.com/oggii_0)'
+author_url: 'https://twitter.com/oggii_0'
+source_url: 'https://twitter.com/oggii_0/status/1996580659096387725'
+preview: /media/portraits/pg-1996580659096387725.webp
 ---
 
 A heart-wrenching visual journey unfolds as a young woman, drenched in sorrow, lingers beneath stone arches.

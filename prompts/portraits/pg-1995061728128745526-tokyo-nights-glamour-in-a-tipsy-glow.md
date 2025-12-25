@@ -1,11 +1,16 @@
 ---
-title: "Tokyo Nights: Glamour in a Tipsy Glow"
+title: 'Tokyo Nights: Glamour in a Tipsy Glow'
 category: portraits
-tags: ["neon","nano-banana-pro"]
-author: "[@joonmts](https://x.com/joonmts)"
-author_url: "https://twitter.com/joonmts"
-source_url: "https://twitter.com/joonmts/status/1995061728128745526"
-preview: "/media/portraits/pg-1995061728128745526.webp"
+tags:
+  - neon
+  - minimalist
+  - portrait
+  - dark
+  - colorful
+author: '[@joonmts](https://x.com/joonmts)'
+author_url: 'https://twitter.com/joonmts'
+source_url: 'https://twitter.com/joonmts/status/1995061728128745526'
+preview: /media/portraits/pg-1995061728128745526.webp
 ---
 
 Caught in the neon haze of Tokyo's nightlife, she embodies relaxed elegance—slouched, tipsy, and beautifully messy. A moment where glamour meets city vibes!

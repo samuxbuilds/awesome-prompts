@@ -1,11 +1,18 @@
 ---
-title: "Coding Elegance: A Flexible Fashion Statement"
+title: 'Coding Elegance: A Flexible Fashion Statement'
 category: portraits
-tags: ["fashion","nano-banana-pro"]
-author: "[@IamEmily2050](https://x.com/IamEmily2050)"
-author_url: "https://twitter.com/IamEmily2050"
-source_url: "https://twitter.com/IamEmily2050/status/1993888342531035562"
-preview: "/media/portraits/pg-1993888342531035562.webp"
+tags:
+  - fashion
+  - realistic
+  - anime
+  - 3d
+  - illustration
+  - portrait
+  - dark
+author: '[@IamEmily2050](https://x.com/IamEmily2050)'
+author_url: 'https://twitter.com/IamEmily2050'
+source_url: 'https://twitter.com/IamEmily2050/status/1993888342531035562'
+preview: /media/portraits/pg-1993888342531035562.webp
 ---
 
 A stunning overhead view captures a young woman in a straddle split, laptop in hand, against a backdrop of gleaming marble. Can you feel the blend of tech and grace?

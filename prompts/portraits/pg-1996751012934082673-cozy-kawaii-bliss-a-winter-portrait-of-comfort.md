@@ -1,11 +1,17 @@
 ---
-title: "Cozy Kawaii Bliss: A Winter Portrait of Comfort"
+title: 'Cozy Kawaii Bliss: A Winter Portrait of Comfort'
 category: portraits
-tags: ["portrait","cute","pastel","nano-banana-pro"]
-author: "[@GlitterPixely](https://x.com/GlitterPixely)"
-author_url: "https://twitter.com/GlitterPixely"
-source_url: "https://twitter.com/GlitterPixely/status/1996751012934082673"
-preview: "/media/portraits/pg-1996751012934082673.webp"
+tags:
+  - portrait
+  - cute
+  - pastel
+  - realistic
+  - illustration
+  - dark
+author: '[@GlitterPixely](https://x.com/GlitterPixely)'
+author_url: 'https://twitter.com/GlitterPixely'
+source_url: 'https://twitter.com/GlitterPixely/status/1996751012934082673'
+preview: /media/portraits/pg-1996751012934082673.webp
 ---
 
 Imagine a serene winter afternoon as a delicate girl in pastel loungewear cradles her fluffy cat by a frosted window, radiating warmth and cuteness in every detail.

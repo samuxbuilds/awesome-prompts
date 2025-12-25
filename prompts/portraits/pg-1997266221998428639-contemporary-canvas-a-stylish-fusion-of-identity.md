@@ -1,11 +1,16 @@
 ---
-title: "Contemporary Canvas: A Stylish Fusion of Identity"
+title: 'Contemporary Canvas: A Stylish Fusion of Identity'
 category: portraits
-tags: ["art","modern","fashion","nano-banana-pro"]
-author: "[@ShreyaYadav___](https://x.com/ShreyaYadav___)"
-author_url: "https://twitter.com/ShreyaYadav___"
-source_url: "https://twitter.com/ShreyaYadav___/status/1997266221998428639"
-preview: "/media/portraits/pg-1997266221998428639.webp"
+tags:
+  - art
+  - modern
+  - fashion
+  - portrait
+  - dark
+author: '[@ShreyaYadav___](https://x.com/ShreyaYadav___)'
+author_url: 'https://twitter.com/ShreyaYadav___'
+source_url: 'https://twitter.com/ShreyaYadav___/status/1997266221998428639'
+preview: /media/portraits/pg-1997266221998428639.webp
 ---
 
 A striking collage comes alive with a singular face, showcasing modern elegance in every detail. From fashion-forward glasses to casual chic, this artwork reshapes identity in stunning 64K clarity!

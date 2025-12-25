@@ -1,11 +1,17 @@
 ---
-title: "A Daydream in the Alpine Meadow"
+title: A Daydream in the Alpine Meadow
 category: portraits
-tags: ["vintage","light","vibrant","nano-banana-pro"]
-author: "[@ShreyaYadav___](https://x.com/ShreyaYadav___)"
-author_url: "https://twitter.com/ShreyaYadav___"
-source_url: "https://twitter.com/ShreyaYadav___/status/1991107701586444357"
-preview: "/media/portraits/pg-1991107701586444357.webp"
+tags:
+  - vintage
+  - light
+  - vibrant
+  - realistic
+  - portrait
+  - colorful
+author: '[@ShreyaYadav___](https://x.com/ShreyaYadav___)'
+author_url: 'https://twitter.com/ShreyaYadav___'
+source_url: 'https://twitter.com/ShreyaYadav___/status/1991107701586444357'
+preview: /media/portraits/pg-1991107701586444357.webp
 ---
 
 Bathed in golden sunlight, she embodies freedom among blooming flowers. Dressed in a whimsical navy minidress, her vintage camera and vibrant tulips tell stories of beauty and adventure.

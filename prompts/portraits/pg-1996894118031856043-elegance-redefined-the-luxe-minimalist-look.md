@@ -1,11 +1,17 @@
 ---
-title: "Elegance Redefined: The Luxe Minimalist Look"
+title: 'Elegance Redefined: The Luxe Minimalist Look'
 category: portraits
-tags: ["modern","minimal","nano-banana-pro"]
-author: "[@kingofdairyque](https://x.com/kingofdairyque)"
-author_url: "https://twitter.com/kingofdairyque"
-source_url: "https://twitter.com/kingofdairyque/status/1996894118031856043"
-preview: "/media/portraits/pg-1996894118031856043.webp"
+tags:
+  - modern
+  - minimal
+  - realistic
+  - minimalist
+  - portrait
+  - dark
+author: '[@kingofdairyque](https://x.com/kingofdairyque)'
+author_url: 'https://twitter.com/kingofdairyque'
+source_url: 'https://twitter.com/kingofdairyque/status/1996894118031856043'
+preview: /media/portraits/pg-1996894118031856043.webp
 ---
 
 A sleek composition captures the essence of modern sophistication—an oversized silver fox jacket drapes gracefully, set against a serene neutral backdrop that whispers elegance.

@@ -1,11 +1,17 @@
 ---
-title: "Glamour and Edge: The Gemini Nano Banana 3.0 Pro Unleashed"
+title: 'Glamour and Edge: The Gemini Nano Banana 3.0 Pro Unleashed'
 category: portraits
-tags: ["art","fashion","nano-banana-pro"]
-author: "[@xmliisu](https://x.com/xmliisu)"
-author_url: "https://twitter.com/xmliisu"
-source_url: "https://twitter.com/xmliisu/status/1992578650978361392"
-preview: "/media/portraits/pg-1992578650978361392.webp"
+tags:
+  - art
+  - fashion
+  - realistic
+  - portrait
+  - landscape
+  - dark
+author: '[@xmliisu](https://x.com/xmliisu)'
+author_url: 'https://twitter.com/xmliisu'
+source_url: 'https://twitter.com/xmliisu/status/1992578650978361392'
+preview: /media/portraits/pg-1992578650978361392.webp
 ---
 
 Bold and alluring, this high-fashion moment captures a confident muse in a chic black lace ensemble, turning heads and hearts in a lavish night setting.

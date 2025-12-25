@@ -1,11 +1,24 @@
 ---
-title: "Two Worlds Collide: Gemini Nano Banana Pro"
+title: 'Two Worlds Collide: Gemini Nano Banana Pro'
 category: 3d
-tags: ["cartoon","portrait","art","fantasy","light","vibrant","nano-banana-pro"]
-author: "[@ZaraIrahh](https://x.com/ZaraIrahh)"
-author_url: "https://twitter.com/ZaraIrahh"
-source_url: "https://twitter.com/ZaraIrahh/status/1995304550610407807"
-preview: "/media/3d/pg-1995304550610407807.webp"
+tags:
+  - cartoon
+  - portrait
+  - art
+  - fantasy
+  - light
+  - vibrant
+  - realistic
+  - 3d
+  - illustration
+  - vintage
+  - minimalist
+  - dark
+  - colorful
+author: '[@ZaraIrahh](https://x.com/ZaraIrahh)'
+author_url: 'https://twitter.com/ZaraIrahh'
+source_url: 'https://twitter.com/ZaraIrahh/status/1995304550610407807'
+preview: /media/3d/pg-1995304550610407807.webp
 ---
 
 A captivating chest-up portrait split between reality and vibrant cartoon fantasy! Soft lighting enhances the duality of expressions, merging dreamy elements with playful kawaii flair.

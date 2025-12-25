@@ -1,11 +1,16 @@
 ---
-title: "Sunlit Elegance: Editorial Poolside Vibes"
+title: 'Sunlit Elegance: Editorial Poolside Vibes'
 category: portraits
-tags: ["fashion","light","nano-banana-pro"]
-author: "[@john_my07](https://x.com/john_my07)"
-author_url: "https://twitter.com/john_my07"
-source_url: "https://twitter.com/john_my07/status/1991726604113047586"
-preview: "/media/portraits/pg-1991726604113047586.webp"
+tags:
+  - fashion
+  - light
+  - realistic
+  - minimalist
+  - portrait
+author: '[@john_my07](https://x.com/john_my07)'
+author_url: 'https://twitter.com/john_my07'
+source_url: 'https://twitter.com/john_my07/status/1991726604113047586'
+preview: /media/portraits/pg-1991726604113047586.webp
 ---
 
 A striking model commands the poolside with his sophisticated attire, bathed in golden sunlight. The glimmering water reflects a world of luxury and style, perfect for any fashion enthusiast.

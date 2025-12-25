@@ -1,11 +1,22 @@
 ---
-title: "Miami Convertible Selfie"
+title: Miami Convertible Selfie
 category: portraits
-tags: ["selfie", "miami", "beach", "convertible", "summer", "lifestyle", "portrait", "american-girl"]
-author: "God of Prompt"
-author_url: "https://x.com/godofprompt"
-source_url: "https://x.com/godofprompt/status/1997444523858043138"
-preview: "/media/portraits/miami-convertible-selfie.webp"
+tags:
+  - selfie
+  - miami
+  - beach
+  - convertible
+  - summer
+  - lifestyle
+  - portrait
+  - american-girl
+  - realistic
+  - dark
+  - colorful
+author: God of Prompt
+author_url: 'https://x.com/godofprompt'
+source_url: 'https://x.com/godofprompt/status/1997444523858043138'
+preview: /media/portraits/miami-convertible-selfie.webp
 ---
 
 *Capture the ultimate carefree American summer vibe with this detailed convertible selfie prompt.*

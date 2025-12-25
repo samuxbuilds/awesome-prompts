@@ -1,11 +1,16 @@
 ---
-title: "Tropical Elegance: A Beachside Portrait"
+title: 'Tropical Elegance: A Beachside Portrait'
 category: portraits
-tags: ["portrait","vibrant","nano-banana-pro"]
-author: "[@chatgptpaglu](https://x.com/chatgptpaglu)"
-author_url: "https://twitter.com/chatgptpaglu"
-source_url: "https://twitter.com/chatgptpaglu/status/1995098855604367580"
-preview: "/media/portraits/pg-1995098855604367580.webp"
+tags:
+  - portrait
+  - vibrant
+  - realistic
+  - dark
+  - colorful
+author: '[@chatgptpaglu](https://x.com/chatgptpaglu)'
+author_url: 'https://twitter.com/chatgptpaglu'
+source_url: 'https://twitter.com/chatgptpaglu/status/1995098855604367580'
+preview: /media/portraits/pg-1995098855604367580.webp
 ---
 
 Bask in the glow of a sunlit beach hut, where vibrant colors and a curious gaze converge. This portrait captures the essence of seaside bliss, adorned with a plumeria and oversized shirt.

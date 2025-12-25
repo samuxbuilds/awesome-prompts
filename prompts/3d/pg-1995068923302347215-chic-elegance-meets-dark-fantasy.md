@@ -1,11 +1,21 @@
 ---
-title: "Chic Elegance Meets Dark Fantasy"
+title: Chic Elegance Meets Dark Fantasy
 category: 3d
-tags: ["fantasy","dark","light","nano-banana-pro"]
-author: "[@Just_sharon7](https://x.com/Just_sharon7)"
-author_url: "https://twitter.com/Just_sharon7"
-source_url: "https://twitter.com/Just_sharon7/status/1995068923302347215"
-preview: "/media/3d/pg-1995068923302347215.webp"
+tags:
+  - fantasy
+  - dark
+  - light
+  - realistic
+  - anime
+  - 3d
+  - illustration
+  - neon
+  - landscape
+  - black-and-white
+author: '[@Just_sharon7](https://x.com/Just_sharon7)'
+author_url: 'https://twitter.com/Just_sharon7'
+source_url: 'https://twitter.com/Just_sharon7/status/1995068923302347215'
+preview: /media/3d/pg-1995068923302347215.webp
 ---
 
 Bold and striking, this avant-garde beauty captivates with her metallic ensemble and dramatic skull prop. A play of light and shadow amplifies the richness of her unique style!

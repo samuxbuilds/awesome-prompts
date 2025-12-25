@@ -1,11 +1,18 @@
 ---
-title: "Glamour Meets Play: A Surreal Billiard Fantasy"
+title: 'Glamour Meets Play: A Surreal Billiard Fantasy'
 category: portraits
-tags: ["fantasy","pastel","nano-banana-pro"]
-author: "[@_MehdiSharifi_](https://x.com/_MehdiSharifi_)"
-author_url: "https://twitter.com/_MehdiSharifi_"
-source_url: "https://twitter.com/_MehdiSharifi_/status/1995613211287031935"
-preview: "/media/portraits/pg-1995613211287031935.webp"
+tags:
+  - fantasy
+  - pastel
+  - 3d
+  - vintage
+  - portrait
+  - dark
+  - colorful
+author: '[@_MehdiSharifi_](https://x.com/_MehdiSharifi_)'
+author_url: 'https://twitter.com/_MehdiSharifi_'
+source_url: 'https://twitter.com/_MehdiSharifi_/status/1995613211287031935'
+preview: /media/portraits/pg-1995613211287031935.webp
 ---
 
 A whimsical scene unfolds as a red-haired beauty lounges atop a fluffy pink pool table, her playful smile radiating confidence amidst pastel billiard balls. Luxury and fun collide in this striking editorial shot.

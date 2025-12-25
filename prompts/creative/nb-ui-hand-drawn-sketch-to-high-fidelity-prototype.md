@@ -1,9 +1,14 @@
 ---
-title: "UI Hand-drawn Sketch to High-Fidelity Prototype"
+title: UI Hand-drawn Sketch to High-Fidelity Prototype
 category: creative
-tags: ["realistic", "ai-art"]
-author: "[@nanobanana-pro](https://x.com/nanobanana-pro)"
-preview: "/media/creative/nb-ui-hand-drawn-sketch-to-high-fidelity-prototype.webp"
+tags:
+  - realistic
+  - ai-art
+  - illustration
+  - dark
+  - colorful
+author: '[@nanobanana-pro](https://x.com/nanobanana-pro)'
+preview: /media/creative/nb-ui-hand-drawn-sketch-to-high-fidelity-prototype.webp
 ---
 
 *Transforms wireframe scribbles into realistic mobile app mockups.*

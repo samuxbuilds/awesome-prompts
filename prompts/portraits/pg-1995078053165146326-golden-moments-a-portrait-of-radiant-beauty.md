@@ -1,11 +1,14 @@
 ---
-title: "Golden Moments: A Portrait of Radiant Beauty"
+title: 'Golden Moments: A Portrait of Radiant Beauty'
 category: portraits
-tags: ["portrait","nano-banana-pro"]
-author: "[@xmiiru_](https://x.com/xmiiru_)"
-author_url: "https://twitter.com/xmiiru_"
-source_url: "https://twitter.com/xmiiru_/status/1995078053165146326"
-preview: "/media/portraits/pg-1995078053165146326.webp"
+tags:
+  - portrait
+  - realistic
+  - dark
+author: '[@xmiiru_](https://x.com/xmiiru_)'
+author_url: 'https://twitter.com/xmiiru_'
+source_url: 'https://twitter.com/xmiiru_/status/1995078053165146326'
+preview: /media/portraits/pg-1995078053165146326.webp
 ---
 
 Sun-kissed and ethereal, her luminous glow radiates warmth, with gentle shadows playing on her face. The soft, messy bun and sparkling eyes create a captivating harmony.

@@ -1,11 +1,19 @@
 ---
-title: "Banana Pro Meets Pink Power in Fashion Fusion"
+title: Banana Pro Meets Pink Power in Fashion Fusion
 category: 3d
-tags: ["fashion","vibrant","nano-banana-pro"]
-author: "[@ZaraIrahh](https://x.com/ZaraIrahh)"
-author_url: "https://twitter.com/ZaraIrahh"
-source_url: "https://twitter.com/ZaraIrahh/status/1993949134618030432"
-preview: "/media/3d/pg-1993949134618030432.webp"
+tags:
+  - fashion
+  - vibrant
+  - realistic
+  - 3d
+  - minimalist
+  - portrait
+  - dark
+  - colorful
+author: '[@ZaraIrahh](https://x.com/ZaraIrahh)'
+author_url: 'https://twitter.com/ZaraIrahh'
+source_url: 'https://twitter.com/ZaraIrahh/status/1993949134618030432'
+preview: /media/3d/pg-1993949134618030432.webp
 ---
 
 A chic young woman poses effortlessly with a playful giant Angry Birds character, radiating a vibrant pink vibe. Her knitted sweater and matching jeans complement the whimsical scene perfectly!

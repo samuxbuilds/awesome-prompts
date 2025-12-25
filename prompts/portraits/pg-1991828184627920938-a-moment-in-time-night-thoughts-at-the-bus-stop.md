@@ -1,11 +1,15 @@
 ---
-title: "A Moment in Time: Night Thoughts at the Bus Stop"
+title: 'A Moment in Time: Night Thoughts at the Bus Stop'
 category: portraits
-tags: ["light","nano-banana-pro"]
-author: "[@SimplyAnnisa](https://x.com/SimplyAnnisa)"
-author_url: "https://twitter.com/SimplyAnnisa"
-source_url: "https://twitter.com/SimplyAnnisa/status/1991828184627920938"
-preview: "/media/portraits/pg-1991828184627920938.webp"
+tags:
+  - light
+  - vintage
+  - portrait
+  - dark
+author: '[@SimplyAnnisa](https://x.com/SimplyAnnisa)'
+author_url: 'https://twitter.com/SimplyAnnisa'
+source_url: 'https://twitter.com/SimplyAnnisa/status/1991828184627920938'
+preview: /media/portraits/pg-1991828184627920938.webp
 ---
 
 Captured in soft shadows and stark light, a young woman reflects in solitude. Her denim-clad silhouette, paired with the nostalgic glow of a yellow tube light, creates a poignant contrast that whispers stories of the night.

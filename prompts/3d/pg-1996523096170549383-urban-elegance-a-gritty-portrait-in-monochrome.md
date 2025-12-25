@@ -1,11 +1,18 @@
 ---
-title: "Urban Elegance: A Gritty Portrait in Monochrome"
+title: 'Urban Elegance: A Gritty Portrait in Monochrome'
 category: 3d
-tags: ["portrait","urban","nano-banana-pro"]
-author: "[@rovvmut_](https://x.com/rovvmut_)"
-author_url: "https://twitter.com/rovvmut_"
-source_url: "https://twitter.com/rovvmut_/status/1996523096170549383"
-preview: "/media/3d/pg-1996523096170549383.webp"
+tags:
+  - portrait
+  - urban
+  - realistic
+  - 3d
+  - minimalist
+  - dark
+  - black-and-white
+author: '[@rovvmut_](https://x.com/rovvmut_)'
+author_url: 'https://twitter.com/rovvmut_'
+source_url: 'https://twitter.com/rovvmut_/status/1996523096170549383'
+preview: /media/3d/pg-1996523096170549383.webp
 ---
 
 A striking black and white portrait reveals a woman with short gray hair, exuding calm confidence. Set against an industrial backdrop, her thoughtful gaze hints at untold stories.

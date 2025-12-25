@@ -1,11 +1,16 @@
 ---
-title: "Golden Hour Elegance: A Portrait in Nature's Embrace"
+title: 'Golden Hour Elegance: A Portrait in Nature''s Embrace'
 category: portraits
-tags: ["portrait","nature","light","nano-banana-pro"]
-author: "[@kingofdairyque](https://x.com/kingofdairyque)"
-author_url: "https://twitter.com/kingofdairyque"
-source_url: "https://twitter.com/kingofdairyque/status/1991735212615823387"
-preview: "/media/portraits/pg-1991735212615823387.webp"
+tags:
+  - portrait
+  - nature
+  - light
+  - landscape
+  - dark
+author: '[@kingofdairyque](https://x.com/kingofdairyque)'
+author_url: 'https://twitter.com/kingofdairyque'
+source_url: 'https://twitter.com/kingofdairyque/status/1991735212615823387'
+preview: /media/portraits/pg-1991735212615823387.webp
 ---
 
 Bathed in nostalgic sunlight, this portrait captures the magic of golden hour. The soft hues and tree shadows weave a dreamy tapestry, enveloping the subject in warmth.

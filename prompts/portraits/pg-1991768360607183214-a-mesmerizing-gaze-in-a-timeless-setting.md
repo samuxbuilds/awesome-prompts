@@ -1,11 +1,16 @@
 ---
-title: "A Mesmerizing Gaze in a Timeless Setting"
+title: A Mesmerizing Gaze in a Timeless Setting
 category: portraits
-tags: ["portrait","art","light","nano-banana-pro"]
-author: "[@AIwithkhan](https://x.com/AIwithkhan)"
-author_url: "https://twitter.com/AIwithkhan"
-source_url: "https://twitter.com/AIwithkhan/status/1991768360607183214"
-preview: "/media/portraits/pg-1991768360607183214.webp"
+tags:
+  - portrait
+  - art
+  - light
+  - realistic
+  - dark
+author: '[@AIwithkhan](https://x.com/AIwithkhan)'
+author_url: 'https://twitter.com/AIwithkhan'
+source_url: 'https://twitter.com/AIwithkhan/status/1991768360607183214'
+preview: /media/portraits/pg-1991768360607183214.webp
 ---
 
 Is it the enchanting eyes or the sultry ambiance that captures your heart? This stunning portrait, enveloped in warm shadows and rich textures, reveals a captivating beauty that lingers long after the light fades.

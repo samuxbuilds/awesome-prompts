@@ -1,11 +1,13 @@
 ---
-title: "Winter Whimsy: A Girl and Her Puppy in the Snow"
+title: 'Winter Whimsy: A Girl and Her Puppy in the Snow'
 category: portraits
-tags: ["art","nano-banana-pro"]
-author: "[@chatgptpaglu](https://x.com/chatgptpaglu)"
-author_url: "https://twitter.com/chatgptpaglu"
-source_url: "https://twitter.com/chatgptpaglu/status/1994018748114563568"
-preview: "/media/portraits/pg-1994018748114563568.webp"
+tags:
+  - art
+  - portrait
+author: '[@chatgptpaglu](https://x.com/chatgptpaglu)'
+author_url: 'https://twitter.com/chatgptpaglu'
+source_url: 'https://twitter.com/chatgptpaglu/status/1994018748114563568'
+preview: /media/portraits/pg-1994018748114563568.webp
 ---
 
 A heartwarming scene unfolds as a young girl in a cozy black hoodie puckers her lips beside a calm white puppy. Surrounding them, soft snow blankets the ground, and bare trees stand still under a clear blue sky.

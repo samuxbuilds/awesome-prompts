@@ -1,11 +1,16 @@
 ---
-title: "Under the City Lights: A Silver Dream Unveiled"
+title: 'Under the City Lights: A Silver Dream Unveiled'
 category: portraits
-tags: ["urban","light","nano-banana-pro"]
-author: "[@chatgptpaglu](https://x.com/chatgptpaglu)"
-author_url: "https://twitter.com/chatgptpaglu"
-source_url: "https://twitter.com/chatgptpaglu/status/1996230263286714641"
-preview: "/media/portraits/pg-1996230263286714641.webp"
+tags:
+  - urban
+  - light
+  - realistic
+  - portrait
+  - dark
+author: '[@chatgptpaglu](https://x.com/chatgptpaglu)'
+author_url: 'https://twitter.com/chatgptpaglu'
+source_url: 'https://twitter.com/chatgptpaglu/status/1996230263286714641'
+preview: /media/portraits/pg-1996230263286714641.webp
 ---
 
 Glimmering under soft streetlights, a sleek silver hypercar stands proud. A stylish woman in a black sequin dress rests elegantly, embodying luxury amidst a glamorous urban backdrop.

@@ -1,11 +1,20 @@
 ---
-title: "Neon Siren: Elegance Underwater"
+title: 'Neon Siren: Elegance Underwater'
 category: 3d
-tags: ["fashion","neon","nano-banana-pro"]
-author: "[@IamEmily2050](https://x.com/IamEmily2050)"
-author_url: "https://twitter.com/IamEmily2050"
-source_url: "https://twitter.com/IamEmily2050/status/1997065515035251194"
-preview: "/media/3d/pg-1997065515035251194.webp"
+tags:
+  - fashion
+  - neon
+  - realistic
+  - 3d
+  - illustration
+  - portrait
+  - landscape
+  - dark
+  - colorful
+author: '[@IamEmily2050](https://x.com/IamEmily2050)'
+author_url: 'https://twitter.com/IamEmily2050'
+source_url: 'https://twitter.com/IamEmily2050/status/1997065515035251194'
+preview: /media/3d/pg-1997065515035251194.webp
 ---
 
 A mesmerizing blend of glamour and aquatic allure, this young woman captivates in a neon aquarium. Her sultry pose, accentuated by fashion and ethereal reflections, tells a story of beauty intertwined with the depths of the ocean.

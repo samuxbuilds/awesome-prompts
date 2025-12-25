@@ -1,11 +1,17 @@
 ---
-title: "Sun-Kissed Serenity at the Beach Café"
+title: Sun-Kissed Serenity at the Beach Café
 category: portraits
-tags: ["light","vibrant","nano-banana-pro"]
-author: "[@ZaraIrahh](https://x.com/ZaraIrahh)"
-author_url: "https://twitter.com/ZaraIrahh"
-source_url: "https://twitter.com/ZaraIrahh/status/1996172206993473943"
-preview: "/media/portraits/pg-1996172206993473943.webp"
+tags:
+  - light
+  - vibrant
+  - realistic
+  - 3d
+  - portrait
+  - colorful
+author: '[@ZaraIrahh](https://x.com/ZaraIrahh)'
+author_url: 'https://twitter.com/ZaraIrahh'
+source_url: 'https://twitter.com/ZaraIrahh/status/1996172206993473943'
+preview: /media/portraits/pg-1996172206993473943.webp
 ---
 
 A playful spirit captured in a sunlit beach café, her gentle smile and relaxed pose evoke the essence of summer. The warm ambiance and soft golden light create a perfect backdrop for this vibrant moment.

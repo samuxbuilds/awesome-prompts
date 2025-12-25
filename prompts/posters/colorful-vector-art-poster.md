@@ -1,9 +1,13 @@
 ---
-title: "Colorful Vector Art Poster"
+title: Colorful Vector Art Poster
 category: posters
-tags: ["poster", "ai-art"]
-author: "[@michaelrabone](https://x.com/michaelrabone)"
-preview: "/media/posters/colorful-vector-art-poster.webp"
+tags:
+  - poster
+  - ai-art
+  - illustration
+  - colorful
+author: '[@michaelrabone](https://x.com/michaelrabone)'
+preview: /media/posters/colorful-vector-art-poster.webp
 ---
 
 Barcelona Spain colourful summer vector art poster with big "BARCELONA" title at the top and smaller "SPAIN" title under

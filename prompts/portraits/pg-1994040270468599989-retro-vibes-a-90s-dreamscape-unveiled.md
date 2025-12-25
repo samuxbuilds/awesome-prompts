@@ -1,11 +1,15 @@
 ---
-title: "Retro Vibes: A 90s Dreamscape Unveiled"
+title: 'Retro Vibes: A 90s Dreamscape Unveiled'
 category: portraits
-tags: ["vintage","vibrant","nano-banana-pro"]
-author: "[@oggii_0](https://x.com/oggii_0)"
-author_url: "https://twitter.com/oggii_0"
-source_url: "https://twitter.com/oggii_0/status/1994040270468599989"
-preview: "/media/portraits/pg-1994040270468599989.webp"
+tags:
+  - vintage
+  - vibrant
+  - portrait
+  - colorful
+author: '[@oggii_0](https://x.com/oggii_0)'
+author_url: 'https://twitter.com/oggii_0'
+source_url: 'https://twitter.com/oggii_0/status/1994040270468599989'
+preview: /media/portraits/pg-1994040270468599989.webp
 ---
 
 Can you feel the nostalgia? A young man sprawls on a pristine white floor, surrounded by vibrant vinyls and vintage tech, echoing the carefree spirit of the 90s.

@@ -1,11 +1,17 @@
 ---
-title: "Modeling a Moment: The Art of Instagram Realism"
+title: 'Modeling a Moment: The Art of Instagram Realism'
 category: 3d
-tags: ["portrait","art","modern","fashion","nano-banana-pro"]
-author: "[@miilesus](https://x.com/miilesus)"
-author_url: "https://twitter.com/miilesus"
-source_url: "https://twitter.com/miilesus/status/1993016209798054372"
-preview: "/media/3d/pg-1993016209798054372.webp"
+tags:
+  - portrait
+  - art
+  - modern
+  - fashion
+  - realistic
+  - 3d
+author: '[@miilesus](https://x.com/miilesus)'
+author_url: 'https://twitter.com/miilesus'
+source_url: 'https://twitter.com/miilesus/status/1993016209798054372'
+preview: /media/3d/pg-1993016209798054372.webp
 ---
 
 Boldly stepping through the frame, she captivates with a modern allure. A stunning portrait where hyper-realism meets high fashion, showcasing the ultimate Insta aesthetic!

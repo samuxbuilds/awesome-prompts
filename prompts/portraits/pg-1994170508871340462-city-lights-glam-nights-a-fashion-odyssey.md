@@ -1,11 +1,19 @@
 ---
-title: "City Lights & Glam Nights: A Fashion Odyssey 🌟"
+title: "City Lights & Glam Nights: A Fashion Odyssey \U0001F31F"
 category: portraits
-tags: ["urban","fashion","light","neon","nano-banana-pro"]
-author: "[@_MehdiSharifi_](https://x.com/_MehdiSharifi_)"
-author_url: "https://twitter.com/_MehdiSharifi_"
-source_url: "https://twitter.com/_MehdiSharifi_/status/1994170508871340462"
-preview: "/media/portraits/pg-1994170508871340462.webp"
+tags:
+  - urban
+  - fashion
+  - light
+  - neon
+  - realistic
+  - portrait
+  - dark
+  - colorful
+author: '[@_MehdiSharifi_](https://x.com/_MehdiSharifi_)'
+author_url: 'https://twitter.com/_MehdiSharifi_'
+source_url: 'https://twitter.com/_MehdiSharifi_/status/1994170508871340462'
+preview: /media/portraits/pg-1994170508871340462.webp
 ---
 
 Under the neon glow, a young woman transforms the night. From fierce poses to candid laughs, her style shines against the urban backdrop of shimmering lights.

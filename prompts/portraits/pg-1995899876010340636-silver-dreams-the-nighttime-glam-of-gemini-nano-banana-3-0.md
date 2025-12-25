@@ -1,11 +1,15 @@
 ---
-title: "Silver Dreams: The Nighttime Glam of Gemini Nano Banana 3.0"
+title: 'Silver Dreams: The Nighttime Glam of Gemini Nano Banana 3.0'
 category: portraits
-tags: ["light","nano-banana-pro"]
-author: "[@xmliisu](https://x.com/xmliisu)"
-author_url: "https://twitter.com/xmliisu"
-source_url: "https://twitter.com/xmliisu/status/1995899876010340636"
-preview: "/media/portraits/pg-1995899876010340636.webp"
+tags:
+  - light
+  - realistic
+  - portrait
+  - dark
+author: '[@xmliisu](https://x.com/xmliisu)'
+author_url: 'https://twitter.com/xmliisu'
+source_url: 'https://twitter.com/xmliisu/status/1995899876010340636'
+preview: /media/portraits/pg-1995899876010340636.webp
 ---
 
 Under soft streetlights, a stylish woman captivates on a silver hypercar, her sequined dress shimmering like the stars, while palm trees dance in the cinematic glow.

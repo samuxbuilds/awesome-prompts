@@ -1,11 +1,17 @@
 ---
-title: "Chill Vibes: A Modern Ice Princess in Disney Wonderland"
+title: 'Chill Vibes: A Modern Ice Princess in Disney Wonderland'
 category: portraits
-tags: ["selfie","modern","nano-banana-pro"]
-author: "[@_MehdiSharifi_](https://x.com/_MehdiSharifi_)"
-author_url: "https://twitter.com/_MehdiSharifi_"
-source_url: "https://twitter.com/_MehdiSharifi_/status/1995104370686357772"
-preview: "/media/portraits/pg-1995104370686357772.webp"
+tags:
+  - selfie
+  - modern
+  - realistic
+  - 3d
+  - portrait
+  - dark
+author: '[@_MehdiSharifi_](https://x.com/_MehdiSharifi_)'
+author_url: 'https://twitter.com/_MehdiSharifi_'
+source_url: 'https://twitter.com/_MehdiSharifi_/status/1995104370686357772'
+preview: /media/portraits/pg-1995104370686357772.webp
 ---
 
 In a shimmering Disney dream, this chic beauty captures the essence of winter magic with her dazzling mirror selfie, radiating confidence and style!

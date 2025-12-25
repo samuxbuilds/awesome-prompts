@@ -1,11 +1,13 @@
 ---
-title: "Cozy Moments: A Captivating Evening Retreat"
+title: 'Cozy Moments: A Captivating Evening Retreat'
 category: portraits
-tags: ["nano-banana-pro"]
-author: "[@AIwithkhan](https://x.com/AIwithkhan)"
-author_url: "https://twitter.com/AIwithkhan"
-source_url: "https://twitter.com/AIwithkhan/status/1995173693665001744"
-preview: "/media/portraits/pg-1995173693665001744.webp"
+tags:
+  - portrait
+  - dark
+author: '[@AIwithkhan](https://x.com/AIwithkhan)'
+author_url: 'https://twitter.com/AIwithkhan'
+source_url: 'https://twitter.com/AIwithkhan/status/1995173693665001744'
+preview: /media/portraits/pg-1995173693665001744.webp
 ---
 
 Under the warm glow of a lamp, she embraces tranquility. A book in hand and a playful bubble pop, this intimate scene captures the essence of a perfect evening at home.

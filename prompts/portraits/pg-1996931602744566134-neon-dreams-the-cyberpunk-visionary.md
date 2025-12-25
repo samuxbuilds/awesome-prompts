@@ -1,11 +1,18 @@
 ---
-title: "Neon Dreams: The Cyberpunk Visionary"
+title: 'Neon Dreams: The Cyberpunk Visionary'
 category: portraits
-tags: ["modern","neon","vibrant","nano-banana-pro"]
-author: "[@rovvmut_](https://x.com/rovvmut_)"
-author_url: "https://twitter.com/rovvmut_"
-source_url: "https://twitter.com/rovvmut_/status/1996931602744566134"
-preview: "/media/portraits/pg-1996931602744566134.webp"
+tags:
+  - modern
+  - neon
+  - vibrant
+  - realistic
+  - portrait
+  - dark
+  - colorful
+author: '[@rovvmut_](https://x.com/rovvmut_)'
+author_url: 'https://twitter.com/rovvmut_'
+source_url: 'https://twitter.com/rovvmut_/status/1996931602744566134'
+preview: /media/portraits/pg-1996931602744566134.webp
 ---
 
 Bold and daring, a young man gazes upward, draped in vibrant hues of teal and magenta. His pink sunglasses reflect the electric pulse of a neon-lit world, embodying modern confidence.

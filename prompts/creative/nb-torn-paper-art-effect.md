@@ -1,9 +1,16 @@
 ---
-title: "Torn Paper Art Effect"
+title: Torn Paper Art Effect
 category: creative
-tags: ["realistic", "chrome", "character"]
-author: "[@nanobanana-pro](https://x.com/nanobanana-pro)"
-preview: "/media/creative/nb-torn-paper-art-effect.webp"
+tags:
+  - realistic
+  - chrome
+  - character
+  - 3d
+  - illustration
+  - portrait
+  - black-and-white
+author: '[@nanobanana-pro](https://x.com/nanobanana-pro)'
+preview: /media/creative/nb-torn-paper-art-effect.webp
 ---
 
 *Add torn paper effect to specific areas of an image*

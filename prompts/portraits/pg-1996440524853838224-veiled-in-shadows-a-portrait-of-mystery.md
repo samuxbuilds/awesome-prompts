@@ -1,11 +1,14 @@
 ---
-title: "Veiled in Shadows: A Portrait of Mystery"
+title: 'Veiled in Shadows: A Portrait of Mystery'
 category: portraits
-tags: ["portrait","nano-banana-pro"]
-author: "[@AIwithkhan](https://x.com/AIwithkhan)"
-author_url: "https://twitter.com/AIwithkhan"
-source_url: "https://twitter.com/AIwithkhan/status/1996440524853838224"
-preview: "/media/portraits/pg-1996440524853838224.webp"
+tags:
+  - portrait
+  - realistic
+  - dark
+author: '[@AIwithkhan](https://x.com/AIwithkhan)'
+author_url: 'https://twitter.com/AIwithkhan'
+source_url: 'https://twitter.com/AIwithkhan/status/1996440524853838224'
+preview: /media/portraits/pg-1996440524853838224.webp
 ---
 
 What secrets lie behind tightly wrapped cloth? This haunting image captures a woman in an abandoned industrial maze, her blindfolded gaze shrouded in tension.

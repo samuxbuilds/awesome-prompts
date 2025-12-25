@@ -1,11 +1,16 @@
 ---
-title: "Whispers of the Wind: A Highland Dreamscape"
+title: 'Whispers of the Wind: A Highland Dreamscape'
 category: portraits
-tags: ["nature","light","nano-banana-pro"]
-author: "[@aleenaamiir](https://x.com/aleenaamiir)"
-author_url: "https://twitter.com/aleenaamiir"
-source_url: "https://twitter.com/aleenaamiir/status/1997273663234851239"
-preview: "/media/portraits/pg-1997273663234851239.webp"
+tags:
+  - nature
+  - light
+  - vintage
+  - portrait
+  - landscape
+author: '[@aleenaamiir](https://x.com/aleenaamiir)'
+author_url: 'https://twitter.com/aleenaamiir'
+source_url: 'https://twitter.com/aleenaamiir/status/1997273663234851239'
+preview: /media/portraits/pg-1997273663234851239.webp
 ---
 
 Caught in a moment of tranquil beauty, a woman in a flowing gown blends with the wildflowers and soft light. Her serene gaze invites thoughts of nature's enchanting secrets.

@@ -1,11 +1,17 @@
 ---
-title: "Y2K Snow White: A Modern Fairytale in Pixels"
+title: 'Y2K Snow White: A Modern Fairytale in Pixels'
 category: portraits
-tags: ["vintage","modern","nano-banana-pro"]
-author: "[@IqraSaifiii](https://x.com/IqraSaifiii)"
-author_url: "https://twitter.com/IqraSaifiii"
-source_url: "https://twitter.com/IqraSaifiii/status/1995563608911348172"
-preview: "/media/portraits/pg-1995563608911348172.webp"
+tags:
+  - vintage
+  - modern
+  - realistic
+  - minimalist
+  - portrait
+  - dark
+author: '[@IqraSaifiii](https://x.com/IqraSaifiii)'
+author_url: 'https://twitter.com/IqraSaifiii'
+source_url: 'https://twitter.com/IqraSaifiii/status/1995563608911348172'
+preview: /media/portraits/pg-1995563608911348172.webp
 ---
 
 Captured in a playful crouch, our Snow White revels in vintage Y2K charm. A striking red apple in hand, she embodies whimsy against a backdrop of ivy and soft cream.

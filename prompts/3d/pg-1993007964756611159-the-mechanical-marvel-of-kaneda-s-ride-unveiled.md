@@ -1,11 +1,13 @@
 ---
-title: "The Mechanical Marvel of Kaneda’s Ride Unveiled!"
+title: The Mechanical Marvel of Kaneda’s Ride Unveiled!
 category: 3d
-tags: ["nano-banana-pro"]
-author: "[@CharaspowerAI](https://x.com/CharaspowerAI)"
-author_url: "https://twitter.com/CharaspowerAI"
-source_url: "https://twitter.com/CharaspowerAI/status/1993007964756611159"
-preview: "/media/3d/pg-1993007964756611159.webp"
+tags:
+  - realistic
+  - 3d
+author: '[@CharaspowerAI](https://x.com/CharaspowerAI)'
+author_url: 'https://twitter.com/CharaspowerAI'
+source_url: 'https://twitter.com/CharaspowerAI/status/1993007964756611159'
+preview: /media/3d/pg-1993007964756611159.webp
 ---
 
 Marvel at the intricate beauty of Kaneda's bike! This exploded view reveals every detail in stunning clarity, showcasing the genius of engineering behind this iconic vehicle.

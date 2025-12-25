@@ -1,11 +1,18 @@
 ---
-title: "Treasure Trove of One Piece Goodies Awaits!"
+title: Treasure Trove of One Piece Goodies Awaits!
 category: 3d
-tags: ["light","vibrant","nano-banana-pro"]
-author: "[@awesome_visuals](https://x.com/awesome_visuals)"
-author_url: "https://twitter.com/awesome_visuals"
-source_url: "https://twitter.com/awesome_visuals/status/1995501571728183455"
-preview: "/media/3d/pg-1995501571728183455.webp"
+tags:
+  - light
+  - vibrant
+  - anime
+  - 3d
+  - chibi
+  - minimalist
+  - colorful
+author: '[@awesome_visuals](https://x.com/awesome_visuals)'
+author_url: 'https://twitter.com/awesome_visuals'
+source_url: 'https://twitter.com/awesome_visuals/status/1995501571728183455'
+preview: /media/3d/pg-1995501571728183455.webp
 ---
 
 A cozy flat-lay reveals a delightful One Piece collection, featuring Luffy's grin, plush treasures, and vibrant manga. Perfect for any otaku's dream haul!

@@ -1,11 +1,16 @@
 ---
-title: "Winter Whimsy: A Young Woman and Her Adorable Companion"
+title: 'Winter Whimsy: A Young Woman and Her Adorable Companion'
 category: portraits
-tags: ["art","nano-banana-pro"]
-author: "[@rovvmut_](https://x.com/rovvmut_)"
-author_url: "https://twitter.com/rovvmut_"
-source_url: "https://twitter.com/rovvmut_/status/1993149955683631251"
-preview: "/media/portraits/pg-1993149955683631251.webp"
+tags:
+  - art
+  - minimalist
+  - portrait
+  - landscape
+  - dark
+author: '[@rovvmut_](https://x.com/rovvmut_)'
+author_url: 'https://twitter.com/rovvmut_'
+source_url: 'https://twitter.com/rovvmut_/status/1993149955683631251'
+preview: /media/portraits/pg-1993149955683631251.webp
 ---
 
 In a serene winter landscape, a young woman in a brown hoodie playfully puckers at the camera, her loyal white puppy with striking blue eyes gazing calmly beside her. Snow blankets the ground, while bare trees stand sentinel in the background, creating a perfect backdrop for this heartwarming moment.

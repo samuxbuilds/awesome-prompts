@@ -1,11 +1,15 @@
 ---
-title: "Raindrops and Reflections: A Portrait in Monochrome"
+title: 'Raindrops and Reflections: A Portrait in Monochrome'
 category: portraits
-tags: ["portrait","nano-banana-pro"]
-author: "[@ShreyaYadav___](https://x.com/ShreyaYadav___)"
-author_url: "https://twitter.com/ShreyaYadav___"
-source_url: "https://twitter.com/ShreyaYadav___/status/1991158321018265697"
-preview: "/media/portraits/pg-1991158321018265697.webp"
+tags:
+  - portrait
+  - minimalist
+  - dark
+  - black-and-white
+author: '[@ShreyaYadav___](https://x.com/ShreyaYadav___)'
+author_url: 'https://twitter.com/ShreyaYadav___'
+source_url: 'https://twitter.com/ShreyaYadav___/status/1991158321018265697'
+preview: /media/portraits/pg-1991158321018265697.webp
 ---
 
 In a captivating black-and-white portrait, a woman stands serenely in the rain, her wet hair framing a face of calm contemplation, evoking a powerful introspection amidst the storm.

@@ -1,11 +1,15 @@
 ---
-title: "Twilight Allure: Ruby Elegance in Velvet Shadows"
+title: 'Twilight Allure: Ruby Elegance in Velvet Shadows'
 category: portraits
-tags: ["light","nano-banana-pro"]
-author: "[@IamEmily2050](https://x.com/IamEmily2050)"
-author_url: "https://twitter.com/IamEmily2050"
-source_url: "https://twitter.com/IamEmily2050/status/1995720630436839730"
-preview: "/media/portraits/pg-1995720630436839730.webp"
+tags:
+  - light
+  - realistic
+  - portrait
+  - dark
+author: '[@IamEmily2050](https://x.com/IamEmily2050)'
+author_url: 'https://twitter.com/IamEmily2050'
+source_url: 'https://twitter.com/IamEmily2050/status/1995720630436839730'
+preview: /media/portraits/pg-1995720630436839730.webp
 ---
 
 In an ethereal garden terrace, a stunning muse captivates with her mesmerizing ruby gown, radiant skin, and sultry candlelight, embodying nocturnal romance.

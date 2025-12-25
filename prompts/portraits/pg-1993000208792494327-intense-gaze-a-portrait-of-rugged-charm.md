@@ -1,11 +1,16 @@
 ---
-title: "Intense Gaze: A Portrait of Rugged Charm"
+title: 'Intense Gaze: A Portrait of Rugged Charm'
 category: portraits
-tags: ["portrait","nano-banana-pro"]
-author: "[@ShreyaYadav___](https://x.com/ShreyaYadav___)"
-author_url: "https://twitter.com/ShreyaYadav___"
-source_url: "https://twitter.com/ShreyaYadav___/status/1993000208792494327"
-preview: "/media/portraits/pg-1993000208792494327.webp"
+tags:
+  - portrait
+  - realistic
+  - 3d
+  - landscape
+  - dark
+author: '[@ShreyaYadav___](https://x.com/ShreyaYadav___)'
+author_url: 'https://twitter.com/ShreyaYadav___'
+source_url: 'https://twitter.com/ShreyaYadav___/status/1993000208792494327'
+preview: /media/portraits/pg-1993000208792494327.webp
 ---
 
 Behold the captivating allure of this rugged man, his piercing green eyes locked onto yours through yellow-tinted sunglasses, set against a dramatic chiaroscuro backdrop.

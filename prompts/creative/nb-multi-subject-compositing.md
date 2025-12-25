@@ -1,9 +1,13 @@
 ---
-title: "Multi-Subject Compositing"
+title: Multi-Subject Compositing
 category: creative
-tags: ["creative", "ai-art"]
-author: "[@nanobanana-pro](https://x.com/nanobanana-pro)"
-preview: "/media/creative/nb-multi-subject-compositing.webp"
+tags:
+  - creative
+  - ai-art
+  - realistic
+  - portrait
+author: '[@nanobanana-pro](https://x.com/nanobanana-pro)'
+preview: /media/creative/nb-multi-subject-compositing.webp
 ---
 
 *Combines multiple input portraits into a single cohesive group photo with a specific expression.*

@@ -1,11 +1,14 @@
 ---
-title: "Soaring Through the Blizzard: A Snowmobile's Thrill Ride"
+title: 'Soaring Through the Blizzard: A Snowmobile''s Thrill Ride'
 category: portraits
-tags: ["art","nano-banana-pro"]
-author: "[@_imfaizan18](https://x.com/_imfaizan18)"
-author_url: "https://twitter.com/_imfaizan18"
-source_url: "https://twitter.com/_imfaizan18/status/1996134245094523110"
-preview: "/media/portraits/pg-1996134245094523110.webp"
+tags:
+  - art
+  - realistic
+  - portrait
+author: '[@_imfaizan18](https://x.com/_imfaizan18)'
+author_url: 'https://twitter.com/_imfaizan18'
+source_url: 'https://twitter.com/_imfaizan18/status/1996134245094523110'
+preview: /media/portraits/pg-1996134245094523110.webp
 ---
 
 A heart-stopping leap! The snowmobile defies gravity as it soars off an icy edge, with the rider's focus sharp amid a flurry of white snow. Pure adrenaline captured in motion!

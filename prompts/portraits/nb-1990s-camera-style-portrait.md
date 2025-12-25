@@ -1,9 +1,16 @@
 ---
-title: "1990s Camera Style Portrait"
+title: 1990s Camera Style Portrait
 category: portraits
-tags: ["portrait", "poster", "sticker", "nostalgic"]
-author: "[@nanobanana-pro](https://x.com/nanobanana-pro)"
-preview: "/media/portraits/nb-1990s-camera-style-portrait.webp"
+tags:
+  - portrait
+  - poster
+  - sticker
+  - nostalgic
+  - realistic
+  - vintage
+  - dark
+author: '[@nanobanana-pro](https://x.com/nanobanana-pro)'
+preview: /media/portraits/nb-1990s-camera-style-portrait.webp
 ---
 
 *Test the model's ability to replicate specific film textures, flash photography, and era-specific atmosphere.*

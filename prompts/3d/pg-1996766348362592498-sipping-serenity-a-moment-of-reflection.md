@@ -1,11 +1,17 @@
 ---
-title: "Sipping Serenity: A Moment of Reflection"
+title: 'Sipping Serenity: A Moment of Reflection'
 category: 3d
-tags: ["light","nano-banana-pro"]
-author: "[@real_novax](https://x.com/real_novax)"
-author_url: "https://twitter.com/real_novax"
-source_url: "https://twitter.com/real_novax/status/1996766348362592498"
-preview: "/media/3d/pg-1996766348362592498.webp"
+tags:
+  - light
+  - realistic
+  - 3d
+  - minimalist
+  - portrait
+  - dark
+author: '[@real_novax](https://x.com/real_novax)'
+author_url: 'https://twitter.com/real_novax'
+source_url: 'https://twitter.com/real_novax/status/1996766348362592498'
+preview: /media/3d/pg-1996766348362592498.webp
 ---
 
 In a cozy haven, a young woman's gaze drifts softly, her thoughts as warm as the golden sunlight kissing her features. A coffee mug rests nearby, whispering stories of comfort.

@@ -1,11 +1,16 @@
 ---
-title: "Chilling in the Cold: A Gem of Ice Fishing"
+title: 'Chilling in the Cold: A Gem of Ice Fishing'
 category: portraits
-tags: ["vibrant","nano-banana-pro"]
-author: "[@oggii_0](https://x.com/oggii_0)"
-author_url: "https://twitter.com/oggii_0"
-source_url: "https://twitter.com/oggii_0/status/1995341349844062415"
-preview: "/media/portraits/pg-1995341349844062415.webp"
+tags:
+  - vibrant
+  - portrait
+  - landscape
+  - dark
+  - colorful
+author: '[@oggii_0](https://x.com/oggii_0)'
+author_url: 'https://twitter.com/oggii_0'
+source_url: 'https://twitter.com/oggii_0/status/1995341349844062415'
+preview: /media/portraits/pg-1995341349844062415.webp
 ---
 
 Beneath a heavy, cloud-laden sky, a bespectacled man in vibrant orange winter gear surveys a frozen pond, blending research with the thrill of ice fishing.

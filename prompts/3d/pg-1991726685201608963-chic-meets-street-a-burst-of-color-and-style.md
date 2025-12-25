@@ -1,11 +1,22 @@
 ---
-title: "Chic Meets Street: A Burst of Color and Style"
+title: 'Chic Meets Street: A Burst of Color and Style'
 category: 3d
-tags: ["anime","realistic","art","urban","fashion","light","pastel","vibrant"]
-author: "[@SimplyAnnisa](https://x.com/SimplyAnnisa)"
-author_url: "https://twitter.com/SimplyAnnisa"
-source_url: "https://twitter.com/SimplyAnnisa/status/1991726685201608963"
-preview: "/media/3d/pg-1991726685201608963.webp"
+tags:
+  - anime
+  - realistic
+  - art
+  - urban
+  - fashion
+  - light
+  - pastel
+  - vibrant
+  - 3d
+  - dark
+  - colorful
+author: '[@SimplyAnnisa](https://x.com/SimplyAnnisa)'
+author_url: 'https://twitter.com/SimplyAnnisa'
+source_url: 'https://twitter.com/SimplyAnnisa/status/1991726685201608963'
+preview: /media/3d/pg-1991726685201608963.webp
 ---
 
 Under the vibrant glow of diagonal sunlight, a fashion-forward figure strikes a pose beside a stunning anime mural. The interplay of light and shadow enhances her chic pastel ensemble, showcasing a blend of art and life in a hyperrealistic urban scene.

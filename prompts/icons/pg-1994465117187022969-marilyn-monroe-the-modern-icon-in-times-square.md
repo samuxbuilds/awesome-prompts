@@ -1,11 +1,12 @@
 ---
-title: "Marilyn Monroe: The Modern Icon in Times Square"
+title: 'Marilyn Monroe: The Modern Icon in Times Square'
 category: icons
-tags: ["modern","nano-banana-pro"]
-author: "[@maxescu](https://x.com/maxescu)"
-author_url: "https://twitter.com/maxescu"
-source_url: "https://twitter.com/maxescu/status/1994465117187022969"
-preview: "/media/icons/pg-1994465117187022969.webp"
+tags:
+  - modern
+author: '[@maxescu](https://x.com/maxescu)'
+author_url: 'https://twitter.com/maxescu'
+source_url: 'https://twitter.com/maxescu/status/1994465117187022969'
+preview: /media/icons/pg-1994465117187022969.webp
 ---
 
 Imagine the glamour of Marilyn, effortlessly blending classic allure with today's tech—iPhone in hand, she stands amidst the bustling energy of Times Square!

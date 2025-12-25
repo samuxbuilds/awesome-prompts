@@ -1,11 +1,17 @@
 ---
-title: "Embracing Sunset Serenity with Nature's Grace"
+title: Embracing Sunset Serenity with Nature's Grace
 category: portraits
-tags: ["nature","light","nano-banana-pro"]
-author: "[@ShreyaYadav___](https://x.com/ShreyaYadav___)"
-author_url: "https://twitter.com/ShreyaYadav___"
-source_url: "https://twitter.com/ShreyaYadav___/status/1991386586517545097"
-preview: "/media/portraits/pg-1991386586517545097.webp"
+tags:
+  - nature
+  - light
+  - realistic
+  - portrait
+  - landscape
+  - dark
+author: '[@ShreyaYadav___](https://x.com/ShreyaYadav___)'
+author_url: 'https://twitter.com/ShreyaYadav___'
+source_url: 'https://twitter.com/ShreyaYadav___/status/1991386586517545097'
+preview: /media/portraits/pg-1991386586517545097.webp
 ---
 
 A tranquil moment unfolds as a model sits on a rustic fence, bathed in golden light. The gentle grazing horse and warm hues create a nostalgic atmosphere, evoking calm reflection.

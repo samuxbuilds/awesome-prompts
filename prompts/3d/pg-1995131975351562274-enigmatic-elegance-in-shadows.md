@@ -1,11 +1,18 @@
 ---
-title: "Enigmatic Elegance in Shadows"
+title: Enigmatic Elegance in Shadows
 category: 3d
-tags: ["portrait","dark","light","nano-banana-pro"]
-author: "[@SimplyAnnisa](https://x.com/SimplyAnnisa)"
-author_url: "https://twitter.com/SimplyAnnisa"
-source_url: "https://twitter.com/SimplyAnnisa/status/1995131975351562274"
-preview: "/media/3d/pg-1995131975351562274.webp"
+tags:
+  - portrait
+  - dark
+  - light
+  - realistic
+  - anime
+  - 3d
+  - minimalist
+author: '[@SimplyAnnisa](https://x.com/SimplyAnnisa)'
+author_url: 'https://twitter.com/SimplyAnnisa'
+source_url: 'https://twitter.com/SimplyAnnisa/status/1995131975351562274'
+preview: /media/3d/pg-1995131975351562274.webp
 ---
 
 A striking portrait emerges from darkness, featuring a shy figure cloaked in black, captivating with piercing eyes and a tender gesture. The sharp spotlight draws you into her mysterious allure.

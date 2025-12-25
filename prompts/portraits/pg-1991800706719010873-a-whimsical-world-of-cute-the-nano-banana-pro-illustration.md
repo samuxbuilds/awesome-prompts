@@ -1,11 +1,15 @@
 ---
-title: "A Whimsical World of Cute: The Nano Banana Pro Illustration"
+title: 'A Whimsical World of Cute: The Nano Banana Pro Illustration'
 category: portraits
-tags: ["illustration","cute","light","nano-banana-pro"]
-author: "[@mikage](https://x.com/mikage)"
-author_url: "https://twitter.com/mikage"
-source_url: "https://twitter.com/mikage/status/1991800706719010873"
-preview: "/media/portraits/pg-1991800706719010873.webp"
+tags:
+  - illustration
+  - cute
+  - light
+  - portrait
+author: '[@mikage](https://x.com/mikage)'
+author_url: 'https://twitter.com/mikage'
+source_url: 'https://twitter.com/mikage/status/1991800706719010873'
+preview: /media/portraits/pg-1991800706719010873.webp
 ---
 
 Can you feel the charm? This adorable cat-eared girl, with her pink locks and frilly outfit, springs to life in a delightful new illustration that’s simply enchanting!

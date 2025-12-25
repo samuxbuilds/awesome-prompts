@@ -1,11 +1,16 @@
 ---
-title: "Frida Reimagined: An ASCII Masterpiece"
+title: 'Frida Reimagined: An ASCII Masterpiece'
 category: portraits
-tags: ["portrait","vibrant","nano-banana-pro"]
-author: "[@egeberkina](https://x.com/egeberkina)"
-author_url: "https://twitter.com/egeberkina"
-source_url: "https://twitter.com/egeberkina/status/1995952112333979963"
-preview: "/media/portraits/pg-1995952112333979963.webp"
+tags:
+  - portrait
+  - vibrant
+  - 3d
+  - dark
+  - colorful
+author: '[@egeberkina](https://x.com/egeberkina)'
+author_url: 'https://twitter.com/egeberkina'
+source_url: 'https://twitter.com/egeberkina/status/1995952112333979963'
+preview: /media/portraits/pg-1995952112333979963.webp
 ---
 
 Bold lines and vibrant hues bring Frida Kahlo to life in pure ASCII. This intricate portrait, adorned with a floral crown, radiates warmth and creativity against a deep black backdrop.

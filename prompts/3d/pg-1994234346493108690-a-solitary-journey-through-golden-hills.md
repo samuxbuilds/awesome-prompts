@@ -1,11 +1,17 @@
 ---
-title: "A Solitary Journey Through Golden Hills"
+title: A Solitary Journey Through Golden Hills
 category: 3d
-tags: ["dark","light","nano-banana-pro"]
-author: "[@rovvmut_](https://x.com/rovvmut_)"
-author_url: "https://twitter.com/rovvmut_"
-source_url: "https://twitter.com/rovvmut_/status/1994234346493108690"
-preview: "/media/3d/pg-1994234346493108690.webp"
+tags:
+  - dark
+  - light
+  - realistic
+  - 3d
+  - portrait
+  - landscape
+author: '[@rovvmut_](https://x.com/rovvmut_)'
+author_url: 'https://twitter.com/rovvmut_'
+source_url: 'https://twitter.com/rovvmut_/status/1994234346493108690'
+preview: /media/3d/pg-1994234346493108690.webp
 ---
 
 Amidst rolling hills and dark skies, a lone figure in a flowing cloak wanders. The soft sunlight breaks through, highlighting the rugged beauty of this cinematic scene.

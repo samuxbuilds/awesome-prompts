@@ -1,11 +1,16 @@
 ---
-title: "Elegance in Simplicity: A Natural Portrait"
+title: 'Elegance in Simplicity: A Natural Portrait'
 category: 3d
-tags: ["portrait","minimal","nano-banana-pro"]
-author: "[@kingofdairyque](https://x.com/kingofdairyque)"
-author_url: "https://twitter.com/kingofdairyque"
-source_url: "https://twitter.com/kingofdairyque/status/1995829751639146611"
-preview: "/media/3d/pg-1995829751639146611.webp"
+tags:
+  - portrait
+  - minimal
+  - realistic
+  - 3d
+  - minimalist
+author: '[@kingofdairyque](https://x.com/kingofdairyque)'
+author_url: 'https://twitter.com/kingofdairyque'
+source_url: 'https://twitter.com/kingofdairyque/status/1995829751639146611'
+preview: /media/3d/pg-1995829751639146611.webp
 ---
 
 A serene moment captured! This young woman radiates calm with her glowing skin and effortless beauty, enhanced by delicate gold earrings and a minimalist Polaroid backdrop.

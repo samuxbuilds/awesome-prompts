@@ -1,11 +1,15 @@
 ---
-title: "Chic Confidence Courtside: A Bold Portrait"
+title: 'Chic Confidence Courtside: A Bold Portrait'
 category: portraits
-tags: ["portrait","dark","nano-banana-pro"]
-author: "[@Just_sharon7](https://x.com/Just_sharon7)"
-author_url: "https://twitter.com/Just_sharon7"
-source_url: "https://twitter.com/Just_sharon7/status/1993191642627453301"
-preview: "/media/portraits/pg-1993191642627453301.webp"
+tags:
+  - portrait
+  - dark
+  - realistic
+  - 3d
+author: '[@Just_sharon7](https://x.com/Just_sharon7)'
+author_url: 'https://twitter.com/Just_sharon7'
+source_url: 'https://twitter.com/Just_sharon7/status/1993191642627453301'
+preview: /media/portraits/pg-1993191642627453301.webp
 ---
 
 A captivating young woman exudes elegance amidst the basketball action, her dark hair cascading over a sleek black top. With a cigarette in hand and high heels on display, she perfectly balances glamour and sport.

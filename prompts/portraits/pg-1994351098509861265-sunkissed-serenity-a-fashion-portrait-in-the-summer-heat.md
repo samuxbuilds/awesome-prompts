@@ -1,11 +1,15 @@
 ---
-title: "Sunkissed Serenity: A Fashion Portrait in the Summer Heat"
+title: 'Sunkissed Serenity: A Fashion Portrait in the Summer Heat'
 category: portraits
-tags: ["portrait","fashion","nano-banana-pro"]
-author: "[@lexx_aura](https://x.com/lexx_aura)"
-author_url: "https://twitter.com/lexx_aura"
-source_url: "https://twitter.com/lexx_aura/status/1994351098509861265"
-preview: "/media/portraits/pg-1994351098509861265.webp"
+tags:
+  - portrait
+  - fashion
+  - realistic
+  - dark
+author: '[@lexx_aura](https://x.com/lexx_aura)'
+author_url: 'https://twitter.com/lexx_aura'
+source_url: 'https://twitter.com/lexx_aura/status/1994351098509861265'
+preview: /media/portraits/pg-1994351098509861265.webp
 ---
 
 Under the blazing sun, a girl radiates summer vibes, her stylish sage-mint ensemble perfectly complements the textured backdrop. Every detail, from the bronzed cheeks to the playful messy bun, captures a moment of pure bliss.

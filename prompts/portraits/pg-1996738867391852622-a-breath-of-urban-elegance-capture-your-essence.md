@@ -1,11 +1,14 @@
 ---
-title: "A Breath of Urban Elegance: Capture Your Essence"
+title: 'A Breath of Urban Elegance: Capture Your Essence'
 category: portraits
-tags: ["portrait","urban","light","nano-banana-pro"]
-author: "[@MindfulReturn](https://x.com/MindfulReturn)"
-author_url: "https://twitter.com/MindfulReturn"
-source_url: "https://twitter.com/MindfulReturn/status/1996738867391852622"
-preview: "/media/portraits/pg-1996738867391852622.webp"
+tags:
+  - portrait
+  - urban
+  - light
+author: '[@MindfulReturn](https://x.com/MindfulReturn)'
+author_url: 'https://twitter.com/MindfulReturn'
+source_url: 'https://twitter.com/MindfulReturn/status/1996738867391852622'
+preview: /media/portraits/pg-1996738867391852622.webp
 ---
 
 Soft hues and gentle lighting embrace a relaxed pose, revealing the beauty of simplicity. This urban-inspired portrait radiates warmth, inviting you to connect with its refined yet casual charm.

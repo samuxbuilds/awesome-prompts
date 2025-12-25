@@ -1,11 +1,25 @@
 ---
-title: "Chic in the Wild: A Portrait of Confidence"
+title: 'Chic in the Wild: A Portrait of Confidence'
 category: 3d
-tags: ["portrait","nature","fashion","light","vibrant","nano-banana-pro"]
-author: "[@saniaspeaks_](https://x.com/saniaspeaks_)"
-author_url: "https://twitter.com/saniaspeaks_"
-source_url: "https://twitter.com/saniaspeaks_/status/1991798571503624502"
-preview: ""
+tags:
+  - portrait
+  - nature
+  - fashion
+  - light
+  - vibrant
+  - realistic
+  - anime
+  - 3d
+  - illustration
+  - neon
+  - minimalist
+  - landscape
+  - dark
+  - colorful
+author: '[@saniaspeaks_](https://x.com/saniaspeaks_)'
+author_url: 'https://twitter.com/saniaspeaks_'
+source_url: 'https://twitter.com/saniaspeaks_/status/1991798571503624502'
+preview: ''
 ---
 
 In a lush bamboo oasis, fashion meets nature. This striking young woman radiates confidence, her fedora casting playful shadows under dappled sunlight. The vibrant greens create an enchanting backdrop, emphasizing her stylish ensemble and poised demeanor.

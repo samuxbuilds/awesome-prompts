@@ -1,11 +1,16 @@
 ---
-title: "Chic Sips in the City of Lights"
+title: Chic Sips in the City of Lights
 category: portraits
-tags: ["light","vibrant","nano-banana-pro"]
-author: "[@minchoi](https://x.com/minchoi)"
-author_url: "https://twitter.com/minchoi"
-source_url: "https://twitter.com/minchoi/status/1993897954667548732"
-preview: "/media/portraits/pg-1993897954667548732.webp"
+tags:
+  - light
+  - vibrant
+  - realistic
+  - portrait
+  - colorful
+author: '[@minchoi](https://x.com/minchoi)'
+author_url: 'https://twitter.com/minchoi'
+source_url: 'https://twitter.com/minchoi/status/1993897954667548732'
+preview: /media/portraits/pg-1993897954667548732.webp
 ---
 
 Sun-kissed and stylish, an elegant woman enjoys her coffee as life dances by in Paris. Classic charm and vibrant moments collide in this enchanting café scene.

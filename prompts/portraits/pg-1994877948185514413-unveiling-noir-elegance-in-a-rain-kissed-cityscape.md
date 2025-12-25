@@ -1,11 +1,15 @@
 ---
-title: "Unveiling Noir Elegance in a Rain-Kissed Cityscape"
+title: Unveiling Noir Elegance in a Rain-Kissed Cityscape
 category: portraits
-tags: ["light","nano-banana-pro"]
-author: "[@IamEmily2050](https://x.com/IamEmily2050)"
-author_url: "https://twitter.com/IamEmily2050"
-source_url: "https://twitter.com/IamEmily2050/status/1994877948185514413"
-preview: "/media/portraits/pg-1994877948185514413.webp"
+tags:
+  - light
+  - realistic
+  - portrait
+  - dark
+author: '[@IamEmily2050](https://x.com/IamEmily2050)'
+author_url: 'https://twitter.com/IamEmily2050'
+source_url: 'https://twitter.com/IamEmily2050/status/1994877948185514413'
+preview: /media/portraits/pg-1994877948185514413.webp
 ---
 
 A striking silhouette against city lights, she exudes mystery and allure. The luxurious penthouse and dramatic shadows weave a narrative of sophistication.

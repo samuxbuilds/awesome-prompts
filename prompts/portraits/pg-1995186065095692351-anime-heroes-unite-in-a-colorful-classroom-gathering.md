@@ -1,11 +1,17 @@
 ---
-title: "Anime Heroes Unite in a Colorful Classroom Gathering!"
+title: Anime Heroes Unite in a Colorful Classroom Gathering!
 category: portraits
-tags: ["anime","colorful","vibrant","nano-banana-pro"]
-author: "[@CharaspowerAI](https://x.com/CharaspowerAI)"
-author_url: "https://twitter.com/CharaspowerAI"
-source_url: "https://twitter.com/CharaspowerAI/status/1995186065095692351"
-preview: "/media/portraits/pg-1995186065095692351.webp"
+tags:
+  - anime
+  - colorful
+  - vibrant
+  - realistic
+  - illustration
+  - portrait
+author: '[@CharaspowerAI](https://x.com/CharaspowerAI)'
+author_url: 'https://twitter.com/CharaspowerAI'
+source_url: 'https://twitter.com/CharaspowerAI/status/1995186065095692351'
+preview: /media/portraits/pg-1995186065095692351.webp
 ---
 
 What a vibrant assembly! Goku, Naruto, and friends stand proudly in this lively class photo. Their energy radiates, capturing the spirit of friendship and adventure!

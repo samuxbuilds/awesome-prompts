@@ -1,11 +1,18 @@
 ---
-title: "Steampunk Wonders: The Enchanted Orchid Revealed"
+title: 'Steampunk Wonders: The Enchanted Orchid Revealed'
 category: portraits
-tags: ["nature","light","nano-banana-pro"]
-author: "[@DrSadek_](https://x.com/DrSadek_)"
-author_url: "https://twitter.com/DrSadek_"
-source_url: "https://twitter.com/DrSadek_/status/1995869184748662846"
-preview: "/media/portraits/pg-1995869184748662846.webp"
+tags:
+  - nature
+  - light
+  - realistic
+  - 3d
+  - illustration
+  - portrait
+  - landscape
+author: '[@DrSadek_](https://x.com/DrSadek_)'
+author_url: 'https://twitter.com/DrSadek_'
+source_url: 'https://twitter.com/DrSadek_/status/1995869184748662846'
+preview: /media/portraits/pg-1995869184748662846.webp
 ---
 
 Behold a mesmerizing fusion of nature and ingenuity! A bioluminescent orchid floats within a brass bell jar, casting electric blue light on a Victorian botanist's desk, where curiosities abound.

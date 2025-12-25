@@ -1,11 +1,16 @@
 ---
-title: "Nature’s Whisper: A Cinematic Reflection"
+title: 'Nature’s Whisper: A Cinematic Reflection'
 category: portraits
-tags: ["nature","light","nano-banana-pro"]
-author: "[@ShreyaYadav___](https://x.com/ShreyaYadav___)"
-author_url: "https://twitter.com/ShreyaYadav___"
-source_url: "https://twitter.com/ShreyaYadav___/status/1991533743367156082"
-preview: "/media/portraits/pg-1991533743367156082.webp"
+tags:
+  - nature
+  - light
+  - realistic
+  - portrait
+  - landscape
+author: '[@ShreyaYadav___](https://x.com/ShreyaYadav___)'
+author_url: 'https://twitter.com/ShreyaYadav___'
+source_url: 'https://twitter.com/ShreyaYadav___/status/1991533743367156082'
+preview: /media/portraits/pg-1991533743367156082.webp
 ---
 
 Sunlight filters through a lush green meadow, capturing a woman's quiet contemplation. Emotions intertwine with nature, creating a serene yet powerful visual story.

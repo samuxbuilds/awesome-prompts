@@ -1,11 +1,16 @@
 ---
-title: "Chasing Fire: The Sprint of a Lifetime"
+title: 'Chasing Fire: The Sprint of a Lifetime'
 category: portraits
-tags: ["nano-banana-pro"]
-author: "[@_MehdiSharifi_](https://x.com/_MehdiSharifi_)"
-author_url: "https://twitter.com/_MehdiSharifi_"
-source_url: "https://twitter.com/_MehdiSharifi_/status/1993829344326688957"
-preview: "/media/portraits/pg-1993829344326688957.webp"
+tags:
+  - realistic
+  - 3d
+  - neon
+  - portrait
+  - dark
+author: '[@_MehdiSharifi_](https://x.com/_MehdiSharifi_)'
+author_url: 'https://twitter.com/_MehdiSharifi_'
+source_url: 'https://twitter.com/_MehdiSharifi_/status/1993829344326688957'
+preview: /media/portraits/pg-1993829344326688957.webp
 ---
 
 Can you feel the heat? An elite sprinter battles a fiery smoke stallion in a breathtaking Olympic night. Raw power and adrenaline collide in this stunning visual masterpiece!

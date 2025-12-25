@@ -1,11 +1,18 @@
 ---
-title: "Night Market Vibes: A Culinary Delight Awaits!"
+title: 'Night Market Vibes: A Culinary Delight Awaits!'
 category: 3d
-tags: ["light","vibrant","nano-banana-pro"]
-author: "[@saniaspeaks_](https://x.com/saniaspeaks_)"
-author_url: "https://twitter.com/saniaspeaks_"
-source_url: "https://twitter.com/saniaspeaks_/status/1994223148468981893"
-preview: "/media/3d/pg-1994223148468981893.webp"
+tags:
+  - light
+  - vibrant
+  - realistic
+  - 3d
+  - portrait
+  - dark
+  - colorful
+author: '[@saniaspeaks_](https://x.com/saniaspeaks_)'
+author_url: 'https://twitter.com/saniaspeaks_'
+source_url: 'https://twitter.com/saniaspeaks_/status/1994223148468981893'
+preview: /media/3d/pg-1994223148468981893.webp
 ---
 
 Amidst a vibrant night market, a young woman beams as she savors sizzling rib on a checkered table. The warm ambiance and twinkling lights set the perfect scene for culinary adventure!

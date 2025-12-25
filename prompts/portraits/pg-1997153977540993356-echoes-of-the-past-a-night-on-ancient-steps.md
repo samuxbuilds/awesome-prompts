@@ -1,11 +1,15 @@
 ---
-title: "Echoes of the Past: A Night on Ancient Steps"
+title: 'Echoes of the Past: A Night on Ancient Steps'
 category: portraits
-tags: ["nano-banana-pro"]
-author: "[@xmiiru_](https://x.com/xmiiru_)"
-author_url: "https://twitter.com/xmiiru_"
-source_url: "https://twitter.com/xmiiru_/status/1997153977540993356"
-preview: "/media/portraits/pg-1997153977540993356.webp"
+tags:
+  - realistic
+  - vintage
+  - portrait
+  - dark
+author: '[@xmiiru_](https://x.com/xmiiru_)'
+author_url: 'https://twitter.com/xmiiru_'
+source_url: 'https://twitter.com/xmiiru_/status/1997153977540993356'
+preview: /media/portraits/pg-1997153977540993356.webp
 ---
 
 Captured in a moment of quiet reflection, this young woman embodies the nostalgia of the night. What memories dance in the shadows of these ancient stone steps?

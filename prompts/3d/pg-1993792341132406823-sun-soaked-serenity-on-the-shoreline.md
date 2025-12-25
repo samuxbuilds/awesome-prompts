@@ -1,11 +1,18 @@
 ---
-title: "Sun-Soaked Serenity on the Shoreline"
+title: Sun-Soaked Serenity on the Shoreline
 category: 3d
-tags: ["vibrant","nano-banana-pro"]
-author: "[@egeberkina](https://x.com/egeberkina)"
-author_url: "https://twitter.com/egeberkina"
-source_url: "https://twitter.com/egeberkina/status/1993792341132406823"
-preview: "/media/3d/pg-1993792341132406823.webp"
+tags:
+  - vibrant
+  - realistic
+  - 3d
+  - minimalist
+  - portrait
+  - dark
+  - colorful
+author: '[@egeberkina](https://x.com/egeberkina)'
+author_url: 'https://twitter.com/egeberkina'
+source_url: 'https://twitter.com/egeberkina/status/1993792341132406823'
+preview: /media/3d/pg-1993792341132406823.webp
 ---
 
 A vibrant tableau unfolds—a fit figure lies on a crisp orange-striped towel, sunlit bronze skin glistening under a harsh midday sun, radiating pure beach bliss.

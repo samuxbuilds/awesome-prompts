@@ -1,11 +1,17 @@
 ---
-title: "Unleash Your Inner Pokémon Master!"
+title: Unleash Your Inner Pokémon Master!
 category: portraits
-tags: ["portrait","art","vibrant","nano-banana-pro"]
-author: "[@rovvmut_](https://x.com/rovvmut_)"
-author_url: "https://twitter.com/rovvmut_"
-source_url: "https://twitter.com/rovvmut_/status/1995687660460146999"
-preview: "/media/portraits/pg-1995687660460146999.webp"
+tags:
+  - portrait
+  - art
+  - vibrant
+  - realistic
+  - dark
+  - colorful
+author: '[@rovvmut_](https://x.com/rovvmut_)'
+author_url: 'https://twitter.com/rovvmut_'
+source_url: 'https://twitter.com/rovvmut_/status/1995687660460146999'
+preview: /media/portraits/pg-1995687660460146999.webp
 ---
 
 Ready to conquer the arena? This stunning portrait captures a Pokémon trainer, outfitted in Ash Ketchum's iconic style, alongside a vibrant Pikachu-like partner, reflecting the electric energy of battle!

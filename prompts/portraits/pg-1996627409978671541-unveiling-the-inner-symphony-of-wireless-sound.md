@@ -1,11 +1,17 @@
 ---
-title: "Unveiling the Inner Symphony of Wireless Sound"
+title: Unveiling the Inner Symphony of Wireless Sound
 category: portraits
-tags: ["nano-banana-pro"]
-author: "[@egeberkina](https://x.com/egeberkina)"
-author_url: "https://twitter.com/egeberkina"
-source_url: "https://twitter.com/egeberkina/status/1996627409978671541"
-preview: "/media/portraits/pg-1996627409978671541.webp"
+tags:
+  - realistic
+  - 3d
+  - neon
+  - minimalist
+  - portrait
+  - dark
+author: '[@egeberkina](https://x.com/egeberkina)'
+author_url: 'https://twitter.com/egeberkina'
+source_url: 'https://twitter.com/egeberkina/status/1996627409978671541'
+preview: /media/portraits/pg-1996627409978671541.webp
 ---
 
 Can you feel the pulse of technology? This striking x-ray cutaway reveals the intricate world inside AirPods Pro 3, showcasing their glowing components in a breathtaking dance of color.

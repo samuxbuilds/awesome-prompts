@@ -1,11 +1,20 @@
 ---
-title: "Diner Delights: A Whimsical Fast-Food Fantasy"
+title: 'Diner Delights: A Whimsical Fast-Food Fantasy'
 category: portraits
-tags: ["fantasy","food","light","neon","nano-banana-pro"]
-author: "[@ecommartinez](https://x.com/ecommartinez)"
-author_url: "https://twitter.com/ecommartinez"
-source_url: "https://twitter.com/ecommartinez/status/1994126063656644727"
-preview: "/media/portraits/pg-1994126063656644727.webp"
+tags:
+  - fantasy
+  - food
+  - light
+  - neon
+  - realistic
+  - illustration
+  - vintage
+  - portrait
+  - colorful
+author: '[@ecommartinez](https://x.com/ecommartinez)'
+author_url: 'https://twitter.com/ecommartinez'
+source_url: 'https://twitter.com/ecommartinez/status/1994126063656644727'
+preview: /media/portraits/pg-1994126063656644727.webp
 ---
 
 Imagine a retro diner where food comes alive! Our protagonist is hilariously surprised, surrounded by playful pizza surfboards and burger beasts, all bathed in warm neon light.

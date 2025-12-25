@@ -1,9 +1,15 @@
 ---
-title: "Flat Design App Icons - Finance Theme"
-category: "illustrations"
-tags: ["icons", "flat-design", "finance", "ui"]
-author: "[@example_contributor](https://x.com/example_contributor)"
-preview: "https://images.unsplash.com/photo-1611162616305-c69b3fa7fbe0?w=800&q=80"
+title: Flat Design App Icons - Finance Theme
+category: illustrations
+tags:
+  - icons
+  - flat-design
+  - finance
+  - ui
+  - realistic
+  - minimalist
+author: '[@example_contributor](https://x.com/example_contributor)'
+preview: 'https://images.unsplash.com/photo-1611162616305-c69b3fa7fbe0?w=800&q=80'
 ---
 
 Create a set of flat design icons for a finance mobile app:

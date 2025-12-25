@@ -1,11 +1,18 @@
 ---
-title: "Elegance Meets Playfulness on Stylish Stairs"
+title: Elegance Meets Playfulness on Stylish Stairs
 category: portraits
-tags: ["modern","dark","light","nano-banana-pro"]
-author: "[@Just_sharon7](https://x.com/Just_sharon7)"
-author_url: "https://twitter.com/Just_sharon7"
-source_url: "https://twitter.com/Just_sharon7/status/1993140376010735685"
-preview: "/media/portraits/pg-1993140376010735685.webp"
+tags:
+  - modern
+  - dark
+  - light
+  - realistic
+  - 3d
+  - minimalist
+  - portrait
+author: '[@Just_sharon7](https://x.com/Just_sharon7)'
+author_url: 'https://twitter.com/Just_sharon7'
+source_url: 'https://twitter.com/Just_sharon7/status/1993140376010735685'
+preview: /media/portraits/pg-1993140376010735685.webp
 ---
 
 A cascade of soft lighting dances on a young woman's playful smile, as she effortlessly leans against modern dark-wood stairs. Dressed in chic black and light blue, her confident presence captures a moment of casual elegance.

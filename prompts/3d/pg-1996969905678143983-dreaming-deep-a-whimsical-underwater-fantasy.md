@@ -1,11 +1,18 @@
 ---
-title: "Dreaming Deep: A Whimsical Underwater Fantasy"
+title: 'Dreaming Deep: A Whimsical Underwater Fantasy'
 category: 3d
-tags: ["art","fantasy","nano-banana-pro"]
-author: "[@_MehdiSharifi_](https://x.com/_MehdiSharifi_)"
-author_url: "https://twitter.com/_MehdiSharifi_"
-source_url: "https://twitter.com/_MehdiSharifi_/status/1996969905678143983"
-preview: "/media/3d/pg-1996969905678143983.webp"
+tags:
+  - art
+  - fantasy
+  - realistic
+  - 3d
+  - illustration
+  - portrait
+  - dark
+author: '[@_MehdiSharifi_](https://x.com/_MehdiSharifi_)'
+author_url: 'https://twitter.com/_MehdiSharifi_'
+source_url: 'https://twitter.com/_MehdiSharifi_/status/1996969905678143983'
+preview: /media/3d/pg-1996969905678143983.webp
 ---
 
 A serene slumber transforms into an underwater escapade! This dreamy artwork beautifully merges reality with imaginative doodles, whisking viewers away into a playful deep-sea adventure.

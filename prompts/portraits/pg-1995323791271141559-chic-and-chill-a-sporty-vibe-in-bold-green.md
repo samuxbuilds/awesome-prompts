@@ -1,11 +1,15 @@
 ---
-title: "Chic and Chill: A Sporty Vibe in Bold Green"
+title: 'Chic and Chill: A Sporty Vibe in Bold Green'
 category: portraits
-tags: ["colorful","vibrant","nano-banana-pro"]
-author: "[@mehvishs25](https://x.com/mehvishs25)"
-author_url: "https://twitter.com/mehvishs25"
-source_url: "https://twitter.com/mehvishs25/status/1995323791271141559"
-preview: "/media/portraits/pg-1995323791271141559.webp"
+tags:
+  - colorful
+  - vibrant
+  - 3d
+  - portrait
+author: '[@mehvishs25](https://x.com/mehvishs25)'
+author_url: 'https://twitter.com/mehvishs25'
+source_url: 'https://twitter.com/mehvishs25/status/1995323791271141559'
+preview: /media/portraits/pg-1995323791271141559.webp
 ---
 
 A radiant young woman lounges effortlessly on a vibrant green backdrop, combining sporty chic with a playful twist. Her button-up shirt and pleated pants harmonize with her colorful headscarf, creating a stylish yet relaxed atmosphere.

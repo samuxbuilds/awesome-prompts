@@ -1,11 +1,17 @@
 ---
-title: "Urban Night Vibes: A Portrait of Boldness"
+title: 'Urban Night Vibes: A Portrait of Boldness'
 category: portraits
-tags: ["portrait","vintage","urban","light","nano-banana-pro"]
-author: "[@xmiiru_](https://x.com/xmiiru_)"
-author_url: "https://twitter.com/xmiiru_"
-source_url: "https://twitter.com/xmiiru_/status/1994433939885207600"
-preview: "/media/portraits/pg-1994433939885207600.webp"
+tags:
+  - portrait
+  - vintage
+  - urban
+  - light
+  - realistic
+  - dark
+author: '[@xmiiru_](https://x.com/xmiiru_)'
+author_url: 'https://twitter.com/xmiiru_'
+source_url: 'https://twitter.com/xmiiru_/status/1994433939885207600'
+preview: /media/portraits/pg-1994433939885207600.webp
 ---
 
 Amidst the glow of city lights, she embodies fierce individuality—ash brown hair cascading with purple highlights, a charcoal cropped hoodie with striking 'FORUM' text, and a confident posture against a vintage orange truck. Tired yet bold, she captures the essence of night wanderers.

@@ -1,11 +1,13 @@
 ---
-title: "Unleash Your Creativity with Nano Banana Pro!"
+title: Unleash Your Creativity with Nano Banana Pro!
 category: portraits
-tags: ["nano-banana-pro"]
-author: "[@icreatelife](https://x.com/icreatelife)"
-author_url: "https://twitter.com/icreatelife"
-source_url: "https://twitter.com/icreatelife/status/1991523394253135961"
-preview: "/media/portraits/pg-1991523394253135961.webp"
+tags:
+  - realistic
+  - portrait
+author: '[@icreatelife](https://x.com/icreatelife)'
+author_url: 'https://twitter.com/icreatelife'
+source_url: 'https://twitter.com/icreatelife/status/1991523394253135961'
+preview: /media/portraits/pg-1991523394253135961.webp
 ---
 
 Transform your designs with the new Nano Banana Pro in Adobe! Learn Photoshop intricacies by analyzing images and following playful, handwritten prompts that guide your creative journey. Get inspired!

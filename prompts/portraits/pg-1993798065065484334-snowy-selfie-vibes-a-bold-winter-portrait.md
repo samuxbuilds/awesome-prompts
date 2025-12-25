@@ -1,11 +1,15 @@
 ---
-title: "Snowy Selfie Vibes: A Bold Winter Portrait"
+title: 'Snowy Selfie Vibes: A Bold Winter Portrait'
 category: portraits
-tags: ["portrait","selfie","nano-banana-pro"]
-author: "[@miilesus](https://x.com/miilesus)"
-author_url: "https://twitter.com/miilesus"
-source_url: "https://twitter.com/miilesus/status/1993798065065484334"
-preview: "/media/portraits/pg-1993798065065484334.webp"
+tags:
+  - portrait
+  - selfie
+  - realistic
+  - dark
+author: '[@miilesus](https://x.com/miilesus)'
+author_url: 'https://twitter.com/miilesus'
+source_url: 'https://twitter.com/miilesus/status/1993798065065484334'
+preview: /media/portraits/pg-1993798065065484334.webp
 ---
 
 Captured amidst a flurry of snowflakes, her calm intensity shines against a dramatic night sky. The chic contrast of her black faux-fur hat and puffer jacket adds style to the raw winter energy.

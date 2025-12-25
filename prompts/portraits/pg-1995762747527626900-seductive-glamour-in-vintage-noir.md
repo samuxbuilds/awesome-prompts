@@ -1,11 +1,15 @@
 ---
-title: "Seductive Glamour in Vintage Noir"
+title: Seductive Glamour in Vintage Noir
 category: portraits
-tags: ["vintage","nano-banana-pro"]
-author: "[@xmliisu](https://x.com/xmliisu)"
-author_url: "https://twitter.com/xmliisu"
-source_url: "https://twitter.com/xmliisu/status/1995762747527626900"
-preview: "/media/portraits/pg-1995762747527626900.webp"
+tags:
+  - vintage
+  - realistic
+  - portrait
+  - dark
+author: '[@xmliisu](https://x.com/xmliisu)'
+author_url: 'https://twitter.com/xmliisu'
+source_url: 'https://twitter.com/xmliisu/status/1995762747527626900'
+preview: /media/portraits/pg-1995762747527626900.webp
 ---
 
 A captivating scene unfolds as she exudes confidence in her backless satin dress, the smoky nightlife capturing her sultry allure.

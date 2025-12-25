@@ -1,11 +1,11 @@
 ---
-title: "Blueprints of Royalty: The Laxmi Vilas Palace Unveiled"
+title: 'Blueprints of Royalty: The Laxmi Vilas Palace Unveiled'
 category: creative
-tags: ["nano-banana-pro"]
-author: "[@jdhruv14](https://x.com/jdhruv14)"
-author_url: "https://twitter.com/jdhruv14"
-source_url: "https://twitter.com/jdhruv14/status/1991718455150801098"
-preview: "/media/creative/pg-1991718455150801098.webp"
+tags: []
+author: '[@jdhruv14](https://x.com/jdhruv14)'
+author_url: 'https://twitter.com/jdhruv14'
+source_url: 'https://twitter.com/jdhruv14/status/1991718455150801098'
+preview: /media/creative/pg-1991718455150801098.webp
 ---
 
 A masterpiece of intricate designs and regal elegance, the Laxmi Vilas Palace beckons with its stunning architecture. What stories lie in its grand halls?

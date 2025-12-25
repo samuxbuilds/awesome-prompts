@@ -1,11 +1,15 @@
 ---
-title: "Chic Elegance in a Tesla: A Morning Glamour Shot"
+title: 'Chic Elegance in a Tesla: A Morning Glamour Shot'
 category: portraits
-tags: ["light","nano-banana-pro"]
-author: "[@kingofdairyque](https://x.com/kingofdairyque)"
-author_url: "https://twitter.com/kingofdairyque"
-source_url: "https://twitter.com/kingofdairyque/status/1995004569483710718"
-preview: "/media/portraits/pg-1995004569483710718.webp"
+tags:
+  - light
+  - realistic
+  - anime
+  - portrait
+author: '[@kingofdairyque](https://x.com/kingofdairyque)'
+author_url: 'https://twitter.com/kingofdairyque'
+source_url: 'https://twitter.com/kingofdairyque/status/1995004569483710718'
+preview: /media/portraits/pg-1995004569483710718.webp
 ---
 
 Sunlight dances on her flawless skin, enhancing a chic aura in the driver’s seat. With tousled curls and a confident gaze, she embodies effortless glam on a moody morning.

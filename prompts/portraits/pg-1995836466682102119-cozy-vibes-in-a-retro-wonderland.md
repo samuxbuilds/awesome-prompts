@@ -1,11 +1,15 @@
 ---
-title: "Cozy Vibes in a Retro Wonderland"
+title: Cozy Vibes in a Retro Wonderland
 category: portraits
-tags: ["nano-banana-pro"]
-author: "[@IqraSaifiii](https://x.com/IqraSaifiii)"
-author_url: "https://twitter.com/IqraSaifiii"
-source_url: "https://twitter.com/IqraSaifiii/status/1995836466682102119"
-preview: "/media/portraits/pg-1995836466682102119.webp"
+tags:
+  - realistic
+  - vintage
+  - portrait
+  - dark
+author: '[@IqraSaifiii](https://x.com/IqraSaifiii)'
+author_url: 'https://twitter.com/IqraSaifiii'
+source_url: 'https://twitter.com/IqraSaifiii/status/1995836466682102119'
+preview: /media/portraits/pg-1995836466682102119.webp
 ---
 
 A charming young woman radiates warmth against a kaleidoscope of retro visuals. Her oversized sweater and gentle smile invite you into this cozy, eclectic space.

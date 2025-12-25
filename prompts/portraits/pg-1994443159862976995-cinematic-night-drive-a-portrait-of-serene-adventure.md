@@ -1,11 +1,16 @@
 ---
-title: "Cinematic Night Drive: A Portrait of Serene Adventure"
+title: 'Cinematic Night Drive: A Portrait of Serene Adventure'
 category: portraits
-tags: ["portrait","nano-banana-pro"]
-author: "[@miilesus](https://x.com/miilesus)"
-author_url: "https://twitter.com/miilesus"
-source_url: "https://twitter.com/miilesus/status/1994443159862976995"
-preview: "/media/portraits/pg-1994443159862976995.webp"
+tags:
+  - portrait
+  - realistic
+  - vintage
+  - minimalist
+  - dark
+author: '[@miilesus](https://x.com/miilesus)'
+author_url: 'https://twitter.com/miilesus'
+source_url: 'https://twitter.com/miilesus/status/1994443159862976995'
+preview: /media/portraits/pg-1994443159862976995.webp
 ---
 
 Breeze in the hair, moonlit whispers, and a playful smile—this portrait captures the essence of spontaneous journeys under a starry sky.

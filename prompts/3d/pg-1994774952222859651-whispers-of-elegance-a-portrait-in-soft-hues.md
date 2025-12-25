@@ -1,11 +1,18 @@
 ---
-title: "Whispers of Elegance: A Portrait in Soft Hues"
+title: 'Whispers of Elegance: A Portrait in Soft Hues'
 category: 3d
-tags: ["portrait","art","modern","fashion","light","nano-banana-pro"]
-author: "[@mehvishs25](https://x.com/mehvishs25)"
-author_url: "https://twitter.com/mehvishs25"
-source_url: "https://twitter.com/mehvishs25/status/1994774952222859651"
-preview: "/media/3d/pg-1994774952222859651.webp"
+tags:
+  - portrait
+  - art
+  - modern
+  - fashion
+  - light
+  - 3d
+  - dark
+author: '[@mehvishs25](https://x.com/mehvishs25)'
+author_url: 'https://twitter.com/mehvishs25'
+source_url: 'https://twitter.com/mehvishs25/status/1994774952222859651'
+preview: /media/3d/pg-1994774952222859651.webp
 ---
 
 In a dimly lit art cafe, a modern muse cradles a bouquet of white blooms, embodying grace. Her Korean fashion exudes sophistication, while soft yellow light dances across her butterfly-cut hair, creating an enchanting atmosphere.

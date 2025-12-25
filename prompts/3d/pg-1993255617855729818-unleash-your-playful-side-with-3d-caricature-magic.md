@@ -1,11 +1,12 @@
 ---
-title: "Unleash Your Playful Side with 3D Caricature Magic!"
+title: Unleash Your Playful Side with 3D Caricature Magic!
 category: 3d
-tags: ["3d","nano-banana-pro"]
-author: "[@rovvmut_](https://x.com/rovvmut_)"
-author_url: "https://twitter.com/rovvmut_"
-source_url: "https://twitter.com/rovvmut_/status/1993255617855729818"
-preview: "/media/3d/pg-1993255617855729818.webp"
+tags:
+  - 3d
+author: '[@rovvmut_](https://x.com/rovvmut_)'
+author_url: 'https://twitter.com/rovvmut_'
+source_url: 'https://twitter.com/rovvmut_/status/1993255617855729818'
+preview: /media/3d/pg-1993255617855729818.webp
 ---
 
 Transform your likeness into a whimsical 3D caricature! With bold colors and exaggerated features, this polished render showcases your charm like never before!

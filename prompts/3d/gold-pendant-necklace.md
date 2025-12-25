@@ -1,9 +1,12 @@
 ---
-title: "Gold Pendant Necklace"
+title: Gold Pendant Necklace
 category: 3d
-tags: ["realistic", "emoji"]
-author: "[@azed_ai](https://x.com/azed_ai)"
-preview: "/media/3d/gold-pendant-necklace.webp"
+tags:
+  - realistic
+  - emoji
+  - 3d
+author: '[@azed_ai](https://x.com/azed_ai)'
+preview: /media/3d/gold-pendant-necklace.webp
 ---
 
 A photorealistic close-up of a gold pendant necklace held by female hand. The pendant features a bas-relief engraving of [image /emoji]. The pendant hangs from a polished gold chain. The background is softly blurred with neutral beige tones, and natural lighting, realistic skin tones, Product photography, 16:9 aspect ratio.

@@ -1,11 +1,15 @@
 ---
-title: "Regal Vibes in a Retro Ride"
+title: Regal Vibes in a Retro Ride
 category: portraits
-tags: ["vintage","nano-banana-pro"]
-author: "[@lexx_aura](https://x.com/lexx_aura)"
-author_url: "https://twitter.com/lexx_aura"
-source_url: "https://twitter.com/lexx_aura/status/1993987493587513438"
-preview: "/media/portraits/pg-1993987493587513438.webp"
+tags:
+  - vintage
+  - realistic
+  - portrait
+  - dark
+author: '[@lexx_aura](https://x.com/lexx_aura)'
+author_url: 'https://twitter.com/lexx_aura'
+source_url: 'https://twitter.com/lexx_aura/status/1993987493587513438'
+preview: /media/portraits/pg-1993987493587513438.webp
 ---
 
 A stunning brunette radiates confidence in a vintage luxury car, wrapped in deep red velvet. The snowy cityscape outside contrasts beautifully with her warm, composed presence and exquisite detailing.

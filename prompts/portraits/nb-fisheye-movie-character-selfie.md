@@ -1,9 +1,15 @@
 ---
-title: "Fisheye Movie Character Selfie"
+title: Fisheye Movie Character Selfie
 category: portraits
-tags: ["vintage", "realistic", "film", "character"]
-author: "[@nanobanana-pro](https://x.com/nanobanana-pro)"
-preview: "/media/portraits/nb-fisheye-movie-character-selfie.webp"
+tags:
+  - vintage
+  - realistic
+  - film
+  - character
+  - portrait
+  - dark
+author: '[@nanobanana-pro](https://x.com/nanobanana-pro)'
+preview: /media/portraits/nb-fisheye-movie-character-selfie.webp
 ---
 
 *A 360-degree selfie with movie characters*

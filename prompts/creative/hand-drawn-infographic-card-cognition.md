@@ -1,9 +1,12 @@
 ---
-title: "Hand-drawn Infographic Card (Cognition)"
+title: Hand-drawn Infographic Card (Cognition)
 category: creative
-tags: ["illustration", "icon"]
-author: "[@dotey](https://x.com/dotey)"
-preview: "/media/creative/hand-drawn-infographic-card-cognition.webp"
+tags:
+  - illustration
+  - icon
+  - minimalist
+author: '[@dotey](https://x.com/dotey)'
+preview: /media/creative/hand-drawn-infographic-card-cognition.webp
 ---
 
 Create a hand-drawn style infographic card in vertical 9:16 ratio. The card should have a clear theme, with a beige or off-white paper-textured background. The overall design should convey a rustic, friendly, and handmade aesthetic.

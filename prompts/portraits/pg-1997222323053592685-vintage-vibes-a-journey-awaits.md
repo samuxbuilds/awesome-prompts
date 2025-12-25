@@ -1,11 +1,15 @@
 ---
-title: "Vintage Vibes: A Journey Awaits"
+title: 'Vintage Vibes: A Journey Awaits'
 category: portraits
-tags: ["vintage","travel","light","nano-banana-pro"]
-author: "[@Sophia_here12](https://x.com/Sophia_here12)"
-author_url: "https://twitter.com/Sophia_here12"
-source_url: "https://twitter.com/Sophia_here12/status/1997222323053592685"
-preview: "/media/portraits/pg-1997222323053592685.webp"
+tags:
+  - vintage
+  - travel
+  - light
+  - portrait
+author: '[@Sophia_here12](https://x.com/Sophia_here12)'
+author_url: 'https://twitter.com/Sophia_here12'
+source_url: 'https://twitter.com/Sophia_here12/status/1997222323053592685'
+preview: /media/portraits/pg-1997222323053592685.webp
 ---
 
 Amidst the gentle glow of morning light, a young traveler sits poised on her red suitcase, embodying calm and confidence. With stories in her brown backpack, she reflects the beauty of solitude at a peaceful train station.

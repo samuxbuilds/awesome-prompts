@@ -1,9 +1,15 @@
 ---
-title: "\"Titanic\" Pose Parody"
+title: '"Titanic" Pose Parody'
 category: creative
-tags: ["3d", "chibi", "realistic", "cute", "icon"]
-author: "[@balconychy](https://x.com/balconychy)"
-preview: "/media/creative/titanic-pose-parody.webp"
+tags:
+  - 3d
+  - chibi
+  - realistic
+  - cute
+  - icon
+  - portrait
+author: '[@balconychy](https://x.com/balconychy)'
+preview: /media/creative/titanic-pose-parody.webp
 ---
 
 Transform the person in the attached image into a cute chibi-style 3D character.

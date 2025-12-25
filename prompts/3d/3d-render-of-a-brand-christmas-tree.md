@@ -1,9 +1,20 @@
 ---
-title: "3D Render of a Brand Christmas Tree"
+title: 3D Render of a Brand Christmas Tree
 category: 3d
-tags: ["3d", "christmas", "advertising", "brand", "isometric", "c4d", "octane"]
-author: "[@samuxbuilds](https://x.com/samuxbuilds/status/1998338577663496592)"
-preview: "/media/3d/3d-render-of-a-brand-christmas-tree.webp"
+tags:
+  - 3d
+  - christmas
+  - advertising
+  - brand
+  - isometric
+  - c4d
+  - octane
+  - realistic
+  - minimalist
+  - portrait
+  - dark
+author: '[@samuxbuilds](https://x.com/samuxbuilds/status/1998338577663496592)'
+preview: /media/3d/3d-render-of-a-brand-christmas-tree.webp
 ---
 
 *Create a premium 3D Christmas tree built entirely from brand products and packaging*

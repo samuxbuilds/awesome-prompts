@@ -1,11 +1,15 @@
 ---
-title: "Sunlit Serenity: A Classroom Muse"
+title: 'Sunlit Serenity: A Classroom Muse'
 category: portraits
-tags: ["vintage","nano-banana-pro"]
-author: "[@saniaspeaks_](https://x.com/saniaspeaks_)"
-author_url: "https://twitter.com/saniaspeaks_"
-source_url: "https://twitter.com/saniaspeaks_/status/1996834894732054852"
-preview: "/media/portraits/pg-1996834894732054852.webp"
+tags:
+  - vintage
+  - realistic
+  - portrait
+  - dark
+author: '[@saniaspeaks_](https://x.com/saniaspeaks_)'
+author_url: 'https://twitter.com/saniaspeaks_'
+source_url: 'https://twitter.com/saniaspeaks_/status/1996834894732054852'
+preview: /media/portraits/pg-1996834894732054852.webp
 ---
 
 In a warm afternoon glow, a young woman embodies calmness, leaning thoughtfully in a vintage classroom, where silence reigns and creativity sparks.

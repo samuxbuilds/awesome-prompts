@@ -1,11 +1,14 @@
 ---
-title: "Bold Beauty: A Dramatic Portrait in Black"
+title: 'Bold Beauty: A Dramatic Portrait in Black'
 category: portraits
-tags: ["portrait","nano-banana-pro"]
-author: "[@ShreyaYadav___](https://x.com/ShreyaYadav___)"
-author_url: "https://twitter.com/ShreyaYadav___"
-source_url: "https://twitter.com/ShreyaYadav___/status/1994776689667444907"
-preview: "/media/portraits/pg-1994776689667444907.webp"
+tags:
+  - portrait
+  - realistic
+  - landscape
+author: '[@ShreyaYadav___](https://x.com/ShreyaYadav___)'
+author_url: 'https://twitter.com/ShreyaYadav___'
+source_url: 'https://twitter.com/ShreyaYadav___/status/1994776689667444907'
+preview: /media/portraits/pg-1994776689667444907.webp
 ---
 
 Feel the intensity of a confident smile! This cinematic portrait captures a young woman with messy black hair, lit by striking red and blue hues against a sleek black backdrop.

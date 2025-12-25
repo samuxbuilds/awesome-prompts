@@ -1,11 +1,17 @@
 ---
-title: "Sticker Set Magic: Ultra-Realistic Faces with a Fun Twist!"
+title: 'Sticker Set Magic: Ultra-Realistic Faces with a Fun Twist!'
 category: portraits
-tags: ["realistic","art","nano-banana-pro"]
-author: "[@ShreyaYadav___](https://x.com/ShreyaYadav___)"
-author_url: "https://twitter.com/ShreyaYadav___"
-source_url: "https://twitter.com/ShreyaYadav___/status/1997161319271969269"
-preview: "/media/portraits/pg-1997161319271969269.webp"
+tags:
+  - realistic
+  - art
+  - minimalist
+  - portrait
+  - dark
+  - colorful
+author: '[@ShreyaYadav___](https://x.com/ShreyaYadav___)'
+author_url: 'https://twitter.com/ShreyaYadav___'
+source_url: 'https://twitter.com/ShreyaYadav___/status/1997161319271969269'
+preview: /media/portraits/pg-1997161319271969269.webp
 ---
 
 Crafting stickers that celebrate real beauty! This set captures every exquisite detail of the woman's features, from her lively eyes to her voluminous hair, adorned with playful elements like rainbows and hearts.

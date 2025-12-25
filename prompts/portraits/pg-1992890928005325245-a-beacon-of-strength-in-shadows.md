@@ -1,11 +1,17 @@
 ---
-title: "A Beacon of Strength in Shadows"
+title: A Beacon of Strength in Shadows
 category: portraits
-tags: ["art","minimal","light","nano-banana-pro"]
-author: "[@AIwithkhan](https://x.com/AIwithkhan)"
-author_url: "https://twitter.com/AIwithkhan"
-source_url: "https://twitter.com/AIwithkhan/status/1992890928005325245"
-preview: "/media/portraits/pg-1992890928005325245.webp"
+tags:
+  - art
+  - minimal
+  - light
+  - minimalist
+  - portrait
+  - dark
+author: '[@AIwithkhan](https://x.com/AIwithkhan)'
+author_url: 'https://twitter.com/AIwithkhan'
+source_url: 'https://twitter.com/AIwithkhan/status/1992890928005325245'
+preview: /media/portraits/pg-1992890928005325245.webp
 ---
 
 In a minimalist realm, a woman stands illuminated by a bold beam, her transparent glasses reflecting light like art. Her upward gaze hints at untold stories of resilience and power.

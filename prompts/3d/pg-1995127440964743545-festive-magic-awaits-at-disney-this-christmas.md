@@ -1,11 +1,16 @@
 ---
-title: "Festive Magic Awaits at Disney This Christmas!"
+title: Festive Magic Awaits at Disney This Christmas!
 category: 3d
-tags: ["light","nano-banana-pro"]
-author: "[@miilesus](https://x.com/miilesus)"
-author_url: "https://twitter.com/miilesus"
-source_url: "https://twitter.com/miilesus/status/1995127440964743545"
-preview: "/media/3d/pg-1995127440964743545.webp"
+tags:
+  - light
+  - realistic
+  - 3d
+  - portrait
+  - colorful
+author: '[@miilesus](https://x.com/miilesus)'
+author_url: 'https://twitter.com/miilesus'
+source_url: 'https://twitter.com/miilesus/status/1995127440964743545'
+preview: /media/3d/pg-1995127440964743545.webp
 ---
 
 Picture a joyful night at Disney, where a young woman shines in festive attire, surrounded by twinkling lights and holiday cheer. Her playful pose and cheerful Minnie Mouse doll capture the spirit of the season, making every moment magical!

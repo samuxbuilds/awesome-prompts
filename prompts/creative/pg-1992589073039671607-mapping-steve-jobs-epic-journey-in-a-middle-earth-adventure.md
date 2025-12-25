@@ -1,11 +1,12 @@
 ---
-title: "Mapping Steve Jobs' Epic Journey in a Middle-earth Adventure"
+title: Mapping Steve Jobs' Epic Journey in a Middle-earth Adventure
 category: creative
-tags: ["art","nano-banana-pro"]
-author: "[@0xbisc](https://x.com/0xbisc)"
-author_url: "https://twitter.com/0xbisc"
-source_url: "https://twitter.com/0xbisc/status/1992589073039671607"
-preview: "/media/creative/pg-1992589073039671607.webp"
+tags:
+  - art
+author: '[@0xbisc](https://x.com/0xbisc)'
+author_url: 'https://twitter.com/0xbisc'
+source_url: 'https://twitter.com/0xbisc/status/1992589073039671607'
+preview: /media/creative/pg-1992589073039671607.webp
 ---
 
 From garage startup to world-changer, Steve Jobs' saga unfolds like a thrilling epic—explore his career reimagined as a fantastical map of Middle-earth!

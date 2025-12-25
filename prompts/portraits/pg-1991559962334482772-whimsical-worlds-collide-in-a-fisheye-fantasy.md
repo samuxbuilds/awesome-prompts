@@ -1,11 +1,15 @@
 ---
-title: "Whimsical Worlds Collide in a Fisheye Fantasy!"
+title: Whimsical Worlds Collide in a Fisheye Fantasy!
 category: portraits
-tags: ["anime","realistic","fantasy","nano-banana-pro"]
-author: "[@_MehdiSharifi_](https://x.com/_MehdiSharifi_)"
-author_url: "https://twitter.com/_MehdiSharifi_"
-source_url: "https://twitter.com/_MehdiSharifi_/status/1991559962334482772"
-preview: "/media/portraits/pg-1991559962334482772.webp"
+tags:
+  - anime
+  - realistic
+  - fantasy
+  - portrait
+author: '[@_MehdiSharifi_](https://x.com/_MehdiSharifi_)'
+author_url: 'https://twitter.com/_MehdiSharifi_'
+source_url: 'https://twitter.com/_MehdiSharifi_/status/1991559962334482772'
+preview: /media/portraits/pg-1991559962334482772.webp
 ---
 
 An ultra-realistic scene bursts with laughter, showcasing anime icons mingling in a bright, airy living room. With exaggerated expressions and playful distortion, joy radiates from every corner!

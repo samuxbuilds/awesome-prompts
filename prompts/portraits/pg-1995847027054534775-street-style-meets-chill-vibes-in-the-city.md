@@ -1,11 +1,15 @@
 ---
-title: "Street Style Meets Chill Vibes in the City"
+title: Street Style Meets Chill Vibes in the City
 category: portraits
-tags: ["modern","urban","nano-banana-pro"]
-author: "[@saniaspeaks_](https://x.com/saniaspeaks_)"
-author_url: "https://twitter.com/saniaspeaks_"
-source_url: "https://twitter.com/saniaspeaks_/status/1995847027054534775"
-preview: "/media/portraits/pg-1995847027054534775.webp"
+tags:
+  - modern
+  - urban
+  - realistic
+  - portrait
+author: '[@saniaspeaks_](https://x.com/saniaspeaks_)'
+author_url: 'https://twitter.com/saniaspeaks_'
+source_url: 'https://twitter.com/saniaspeaks_/status/1995847027054534775'
+preview: /media/portraits/pg-1995847027054534775.webp
 ---
 
 Casual coolness radiates from this stylish young woman, sipping her iced drink against a backdrop of bamboo and modern architecture. Bold and bright, her look captures the essence of urban streetwear!

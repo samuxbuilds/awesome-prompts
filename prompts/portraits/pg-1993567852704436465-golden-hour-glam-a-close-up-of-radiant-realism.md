@@ -1,11 +1,15 @@
 ---
-title: "Golden Hour Glam: A Close-Up of Radiant Realism"
+title: 'Golden Hour Glam: A Close-Up of Radiant Realism'
 category: portraits
-tags: ["portrait","nano-banana-pro"]
-author: "[@miilesus](https://x.com/miilesus)"
-author_url: "https://twitter.com/miilesus"
-source_url: "https://twitter.com/miilesus/status/1993567852704436465"
-preview: "/media/portraits/pg-1993567852704436465.webp"
+tags:
+  - portrait
+  - realistic
+  - 3d
+  - dark
+author: '[@miilesus](https://x.com/miilesus)'
+author_url: 'https://twitter.com/miilesus'
+source_url: 'https://twitter.com/miilesus/status/1993567852704436465'
+preview: /media/portraits/pg-1993567852704436465.webp
 ---
 
 Stunningly lifelike, this portrait captures every detail of wet skin and lush textures. The golden glow intensifies a captivating gaze and beautifully defined features!

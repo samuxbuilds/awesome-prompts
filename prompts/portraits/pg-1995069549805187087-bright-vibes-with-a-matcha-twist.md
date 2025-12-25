@@ -1,11 +1,14 @@
 ---
-title: "Bright Vibes with a Matcha Twist"
+title: Bright Vibes with a Matcha Twist
 category: portraits
-tags: ["vibrant","nano-banana-pro"]
-author: "[@egeberkina](https://x.com/egeberkina)"
-author_url: "https://twitter.com/egeberkina"
-source_url: "https://twitter.com/egeberkina/status/1995069549805187087"
-preview: "/media/portraits/pg-1995069549805187087.webp"
+tags:
+  - vibrant
+  - portrait
+  - colorful
+author: '[@egeberkina](https://x.com/egeberkina)'
+author_url: 'https://twitter.com/egeberkina'
+source_url: 'https://twitter.com/egeberkina/status/1995069549805187087'
+preview: /media/portraits/pg-1995069549805187087.webp
 ---
 
 Curiosity sparkles in her eyes as she leans forward, sipping a refreshing iced matcha latte on a sunlit boardwalk. The vibrant greens and playful reflections create a fun atmosphere to savor!

@@ -1,11 +1,14 @@
 ---
-title: "Vintage Romance on the Streets of Old Rome"
+title: Vintage Romance on the Streets of Old Rome
 category: portraits
-tags: ["vintage","nano-banana-pro"]
-author: "[@AIwithkhan](https://x.com/AIwithkhan)"
-author_url: "https://twitter.com/AIwithkhan"
-source_url: "https://twitter.com/AIwithkhan/status/1994788982996251040"
-preview: "/media/portraits/pg-1994788982996251040.webp"
+tags:
+  - vintage
+  - portrait
+  - dark
+author: '[@AIwithkhan](https://x.com/AIwithkhan)'
+author_url: 'https://twitter.com/AIwithkhan'
+source_url: 'https://twitter.com/AIwithkhan/status/1994788982996251040'
+preview: /media/portraits/pg-1994788982996251040.webp
 ---
 
 A stylish girl in long boots stands confidently beside a mysterious man, enveloped in warm, cinematic hues. Their mesmerizing chemistry unfolds in a nostalgic Roman alley, where smoke swirls like secrets in the dusk.

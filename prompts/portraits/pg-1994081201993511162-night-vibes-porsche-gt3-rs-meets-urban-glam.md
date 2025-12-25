@@ -1,11 +1,17 @@
 ---
-title: "Night Vibes: Porsche GT3 RS Meets Urban Glam"
+title: 'Night Vibes: Porsche GT3 RS Meets Urban Glam'
 category: portraits
-tags: ["urban","light","vibrant","nano-banana-pro"]
-author: "[@ecommartinez](https://x.com/ecommartinez)"
-author_url: "https://twitter.com/ecommartinez"
-source_url: "https://twitter.com/ecommartinez/status/1994081201993511162"
-preview: "/media/portraits/pg-1994081201993511162.webp"
+tags:
+  - urban
+  - light
+  - vibrant
+  - realistic
+  - portrait
+  - colorful
+author: '[@ecommartinez](https://x.com/ecommartinez)'
+author_url: 'https://twitter.com/ecommartinez'
+source_url: 'https://twitter.com/ecommartinez/status/1994081201993511162'
+preview: /media/portraits/pg-1994081201993511162.webp
 ---
 
 A dazzling scene unfolds at a gas station, where a sleek black Porsche GT3 RS reflects vibrant city lights. A stylish woman in a black tracksuit leans against the car, embodying the essence of urban nightlife.

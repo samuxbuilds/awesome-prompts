@@ -1,11 +1,16 @@
 ---
-title: "Blue Hour Elegance: A Cinematic Portrait"
+title: 'Blue Hour Elegance: A Cinematic Portrait'
 category: portraits
-tags: ["portrait","light","nano-banana-pro"]
-author: "[@saniaspeaks_](https://x.com/saniaspeaks_)"
-author_url: "https://twitter.com/saniaspeaks_"
-source_url: "https://twitter.com/saniaspeaks_/status/1993923107040481328"
-preview: "/media/portraits/pg-1993923107040481328.webp"
+tags:
+  - portrait
+  - light
+  - realistic
+  - landscape
+  - dark
+author: '[@saniaspeaks_](https://x.com/saniaspeaks_)'
+author_url: 'https://twitter.com/saniaspeaks_'
+source_url: 'https://twitter.com/saniaspeaks_/status/1993923107040481328'
+preview: /media/portraits/pg-1993923107040481328.webp
 ---
 
 Captured in the serene embrace of twilight, a girl exudes quiet confidence. Her thoughtful gaze and stylish attire shimmer under the soft blue light, creating a dreamy atmosphere filled with enchanting bokeh.

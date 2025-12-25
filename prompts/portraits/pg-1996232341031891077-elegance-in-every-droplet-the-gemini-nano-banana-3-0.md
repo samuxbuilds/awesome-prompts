@@ -1,11 +1,14 @@
 ---
-title: "Elegance in Every Droplet: The Gemini Nano Banana 3.0"
+title: 'Elegance in Every Droplet: The Gemini Nano Banana 3.0'
 category: portraits
-tags: ["dark","nano-banana-pro"]
-author: "[@ReemKhan_07](https://x.com/ReemKhan_07)"
-author_url: "https://twitter.com/ReemKhan_07"
-source_url: "https://twitter.com/ReemKhan_07/status/1996232341031891077"
-preview: "/media/portraits/pg-1996232341031891077.webp"
+tags:
+  - dark
+  - realistic
+  - portrait
+author: '[@ReemKhan_07](https://x.com/ReemKhan_07)'
+author_url: 'https://twitter.com/ReemKhan_07'
+source_url: 'https://twitter.com/ReemKhan_07/status/1996232341031891077'
+preview: /media/portraits/pg-1996232341031891077.webp
 ---
 
 Behold the stunning close-up of a young woman's profile, where dark, wet hair clings gracefully to her skin, and droplets of water dance on her radiant features.

@@ -1,11 +1,14 @@
 ---
-title: "Elegance Unveiled: The Essence of Style"
+title: 'Elegance Unveiled: The Essence of Style'
 category: portraits
-tags: ["portrait","art","fashion","nano-banana-pro"]
-author: "[@Harboris_27](https://x.com/Harboris_27)"
-author_url: "https://twitter.com/Harboris_27"
-source_url: "https://twitter.com/Harboris_27/status/1996152029484650755"
-preview: "/media/portraits/pg-1996152029484650755.webp"
+tags:
+  - portrait
+  - art
+  - fashion
+author: '[@Harboris_27](https://x.com/Harboris_27)'
+author_url: 'https://twitter.com/Harboris_27'
+source_url: 'https://twitter.com/Harboris_27/status/1996152029484650755'
+preview: /media/portraits/pg-1996152029484650755.webp
 ---
 
 A captivating portrait unfolds: a young woman radiates grace against a soft orange backdrop, her fashion-forward dress blurring the line between elegance and artistry.

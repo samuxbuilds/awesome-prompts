@@ -1,11 +1,18 @@
 ---
-title: "Precision in the Meadow: A Heroine's Aim"
+title: 'Precision in the Meadow: A Heroine''s Aim'
 category: 3d
-tags: ["light","vibrant","nano-banana-pro"]
-author: "[@ShreyaYadav___](https://x.com/ShreyaYadav___)"
-author_url: "https://twitter.com/ShreyaYadav___"
-source_url: "https://twitter.com/ShreyaYadav___/status/1995914202062668009"
-preview: "/media/3d/pg-1995914202062668009.webp"
+tags:
+  - light
+  - vibrant
+  - 3d
+  - illustration
+  - portrait
+  - landscape
+  - colorful
+author: '[@ShreyaYadav___](https://x.com/ShreyaYadav___)'
+author_url: 'https://twitter.com/ShreyaYadav___'
+source_url: 'https://twitter.com/ShreyaYadav___/status/1995914202062668009'
+preview: /media/3d/pg-1995914202062668009.webp
 ---
 
 In a vibrant green meadow, a fierce red-haired archer exudes determination, drawing her bow with poise. The sun casts a soft light, illuminating her intricate Celtic attire and the grazing horse behind her. A moment of pure focus awaits!

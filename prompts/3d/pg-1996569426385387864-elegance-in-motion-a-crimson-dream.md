@@ -1,11 +1,14 @@
 ---
-title: "Elegance in Motion: A Crimson Dream"
+title: 'Elegance in Motion: A Crimson Dream'
 category: 3d
-tags: ["portrait","nano-banana-pro"]
-author: "[@AIByAbbay](https://x.com/AIByAbbay)"
-author_url: "https://twitter.com/AIByAbbay"
-source_url: "https://twitter.com/AIByAbbay/status/1996569426385387864"
-preview: "/media/3d/pg-1996569426385387864.webp"
+tags:
+  - portrait
+  - realistic
+  - 3d
+author: '[@AIByAbbay](https://x.com/AIByAbbay)'
+author_url: 'https://twitter.com/AIByAbbay'
+source_url: 'https://twitter.com/AIByAbbay/status/1996569426385387864'
+preview: /media/3d/pg-1996569426385387864.webp
 ---
 
 A striking portrait captures the grace of a figure in a crimson lace top, evoking elegance against a charcoal backdrop. The interplay of warm hues and textures breathes life into each detail.

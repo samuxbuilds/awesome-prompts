@@ -1,9 +1,12 @@
 ---
-title: "Conceptual Visualization"
+title: Conceptual Visualization
 category: creative
-tags: ["creative", "ai-art"]
-author: "[@nanobanana-pro](https://x.com/nanobanana-pro)"
-preview: "/media/creative/nb-conceptual-visualization.webp"
+tags:
+  - creative
+  - ai-art
+  - 3d
+author: '[@nanobanana-pro](https://x.com/nanobanana-pro)'
+preview: /media/creative/nb-conceptual-visualization.webp
 ---
 
 *Interpretative rendering of how a specific group (engineers) visualizes a landmark.*

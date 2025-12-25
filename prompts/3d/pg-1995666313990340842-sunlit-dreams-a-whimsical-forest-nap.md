@@ -1,11 +1,16 @@
 ---
-title: "Sunlit Dreams: A Whimsical Forest Nap"
+title: 'Sunlit Dreams: A Whimsical Forest Nap'
 category: 3d
-tags: ["light","nano-banana-pro"]
-author: "[@ShreyaYadav___](https://x.com/ShreyaYadav___)"
-author_url: "https://twitter.com/ShreyaYadav___"
-source_url: "https://twitter.com/ShreyaYadav___/status/1995666313990340842"
-preview: "/media/3d/pg-1995666313990340842.webp"
+tags:
+  - light
+  - realistic
+  - 3d
+  - portrait
+  - dark
+author: '[@ShreyaYadav___](https://x.com/ShreyaYadav___)'
+author_url: 'https://twitter.com/ShreyaYadav___'
+source_url: 'https://twitter.com/ShreyaYadav___/status/1995666313990340842'
+preview: /media/3d/pg-1995666313990340842.webp
 ---
 
 Lush greenery cradles a serene scene—Snorlax snoozes while Pikachu finds comfort on its belly. The warm rays of midday light enhance this enchanting moment.

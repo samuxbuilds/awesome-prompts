@@ -1,11 +1,14 @@
 ---
-title: "Gemini Nano Banana 3.0: A Playful Day at the Theme Park"
+title: 'Gemini Nano Banana 3.0: A Playful Day at the Theme Park'
 category: portraits
-tags: ["nano-banana-pro"]
-author: "[@rowanali09](https://x.com/rowanali09)"
-author_url: "https://twitter.com/rowanali09"
-source_url: "https://twitter.com/rowanali09/status/1996812005714358750"
-preview: "/media/portraits/pg-1996812005714358750.webp"
+tags:
+  - realistic
+  - 3d
+  - portrait
+author: '[@rowanali09](https://x.com/rowanali09)'
+author_url: 'https://twitter.com/rowanali09'
+source_url: 'https://twitter.com/rowanali09/status/1996812005714358750'
+preview: /media/portraits/pg-1996812005714358750.webp
 ---
 
 Under the warm golden glow of the afternoon sun, a young woman strikes a playful pose in a whimsical theme park, surrounded by dreamy castle architecture and lush greenery.

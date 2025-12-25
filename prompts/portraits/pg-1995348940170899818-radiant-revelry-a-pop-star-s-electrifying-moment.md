@@ -1,11 +1,15 @@
 ---
-title: "Radiant Revelry: A Pop Star's Electrifying Moment"
+title: 'Radiant Revelry: A Pop Star''s Electrifying Moment'
 category: portraits
-tags: ["art","light","nano-banana-pro"]
-author: "[@minchoi](https://x.com/minchoi)"
-author_url: "https://twitter.com/minchoi"
-source_url: "https://twitter.com/minchoi/status/1995348940170899818"
-preview: "/media/portraits/pg-1995348940170899818.webp"
+tags:
+  - art
+  - light
+  - realistic
+  - portrait
+author: '[@minchoi](https://x.com/minchoi)'
+author_url: 'https://twitter.com/minchoi'
+source_url: 'https://twitter.com/minchoi/status/1995348940170899818'
+preview: /media/portraits/pg-1995348940170899818.webp
 ---
 
 Captured in a kaleidoscope of lights, our pop star dazzles with her shimmering bodysuit and fiery passion. Confetti cascades as her guitar strums the hearts of thousands, creating an unforgettable celebration.

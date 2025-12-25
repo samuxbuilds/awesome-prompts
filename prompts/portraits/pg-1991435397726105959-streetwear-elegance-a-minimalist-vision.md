@@ -1,11 +1,17 @@
 ---
-title: "Streetwear Elegance: A Minimalist Vision"
+title: 'Streetwear Elegance: A Minimalist Vision'
 category: portraits
-tags: ["modern","minimal","nano-banana-pro"]
-author: "[@Xxaroon](https://x.com/Xxaroon)"
-author_url: "https://twitter.com/Xxaroon"
-source_url: "https://twitter.com/Xxaroon/status/1991435397726105959"
-preview: "/media/portraits/pg-1991435397726105959.webp"
+tags:
+  - modern
+  - minimal
+  - realistic
+  - minimalist
+  - portrait
+  - dark
+author: '[@Xxaroon](https://x.com/Xxaroon)'
+author_url: 'https://twitter.com/Xxaroon'
+source_url: 'https://twitter.com/Xxaroon/status/1991435397726105959'
+preview: /media/portraits/pg-1991435397726105959.webp
 ---
 
 Casual yet striking, this low-angle shot elevates modern streetwear. Oversized sneakers dominate the frame, while a calm smile embodies effortless style against a pristine backdrop.

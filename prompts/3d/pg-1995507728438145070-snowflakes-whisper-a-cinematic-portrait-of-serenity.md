@@ -1,11 +1,15 @@
 ---
-title: "Snowflakes Whisper: A Cinematic Portrait of Serenity"
+title: 'Snowflakes Whisper: A Cinematic Portrait of Serenity'
 category: 3d
-tags: ["portrait","dark","nano-banana-pro"]
-author: "[@oggii_0](https://x.com/oggii_0)"
-author_url: "https://twitter.com/oggii_0"
-source_url: "https://twitter.com/oggii_0/status/1995507728438145070"
-preview: "/media/3d/pg-1995507728438145070.webp"
+tags:
+  - portrait
+  - dark
+  - realistic
+  - 3d
+author: '[@oggii_0](https://x.com/oggii_0)'
+author_url: 'https://twitter.com/oggii_0'
+source_url: 'https://twitter.com/oggii_0/status/1995507728438145070'
+preview: /media/3d/pg-1995507728438145070.webp
 ---
 
 Amidst a gentle snowfall, a figure in a dark wool coat exudes calm confidence. The illuminated snowflakes dance around them, creating a poetic winter dreamscape.

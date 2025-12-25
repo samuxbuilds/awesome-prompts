@@ -1,11 +1,17 @@
 ---
-title: "City Dreams: A Nighttime Revelation"
+title: 'City Dreams: A Nighttime Revelation'
 category: 3d
-tags: ["urban","dark","light","nano-banana-pro"]
-author: "[@Xxaroon](https://x.com/Xxaroon)"
-author_url: "https://twitter.com/Xxaroon"
-source_url: "https://twitter.com/Xxaroon/status/1991533904554258539"
-preview: "/media/3d/pg-1991533904554258539.webp"
+tags:
+  - urban
+  - dark
+  - light
+  - realistic
+  - 3d
+  - portrait
+author: '[@Xxaroon](https://x.com/Xxaroon)'
+author_url: 'https://twitter.com/Xxaroon'
+source_url: 'https://twitter.com/Xxaroon/status/1991533904554258539'
+preview: /media/3d/pg-1991533904554258539.webp
 ---
 
 In the stillness of night, a lone figure captures urban solitude. The harsh light frames his silhouette, revealing a story of resilience against the backdrop of darkness.

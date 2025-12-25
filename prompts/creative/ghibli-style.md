@@ -1,9 +1,13 @@
 ---
-title: "Ghibli Style"
+title: Ghibli Style
 category: creative
-tags: ["ghibli", "ai-art"]
-author: "AnimeAI"
-preview: "/media/creative/ghibli-style.webp"
+tags:
+  - ghibli
+  - ai-art
+  - realistic
+  - anime
+author: AnimeAI
+preview: /media/creative/ghibli-style.webp
 ---
 
 Redraw this photo in Ghibli style

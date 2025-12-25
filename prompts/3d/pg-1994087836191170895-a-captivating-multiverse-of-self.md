@@ -1,11 +1,17 @@
 ---
-title: "A Captivating Multiverse of Self"
+title: A Captivating Multiverse of Self
 category: 3d
-tags: ["portrait","miniature","nano-banana-pro"]
-author: "[@ShreyaYadav___](https://x.com/ShreyaYadav___)"
-author_url: "https://twitter.com/ShreyaYadav___"
-source_url: "https://twitter.com/ShreyaYadav___/status/1994087836191170895"
-preview: "/media/3d/pg-1994087836191170895.webp"
+tags:
+  - portrait
+  - miniature
+  - realistic
+  - 3d
+  - landscape
+  - dark
+author: '[@ShreyaYadav___](https://x.com/ShreyaYadav___)'
+author_url: 'https://twitter.com/ShreyaYadav___'
+source_url: 'https://twitter.com/ShreyaYadav___/status/1994087836191170895'
+preview: /media/3d/pg-1994087836191170895.webp
 ---
 
 Who’s the star? A stunning woman commands the scene, while her miniature selves add whimsical charm, all against a pristine white backdrop. A striking portrait of imagination!

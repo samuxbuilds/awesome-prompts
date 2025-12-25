@@ -1,11 +1,16 @@
 ---
-title: "Chill Vibes: A Cozy Moment Captured"
+title: 'Chill Vibes: A Cozy Moment Captured'
 category: portraits
-tags: ["light","nano-banana-pro"]
-author: "[@Just_sharon7](https://x.com/Just_sharon7)"
-author_url: "https://twitter.com/Just_sharon7"
-source_url: "https://twitter.com/Just_sharon7/status/1994237260905238844"
-preview: "/media/portraits/pg-1994237260905238844.webp"
+tags:
+  - light
+  - realistic
+  - minimalist
+  - portrait
+  - dark
+author: '[@Just_sharon7](https://x.com/Just_sharon7)'
+author_url: 'https://twitter.com/Just_sharon7'
+source_url: 'https://twitter.com/Just_sharon7/status/1994237260905238844'
+preview: /media/portraits/pg-1994237260905238844.webp
 ---
 
 A warm smile and casual style paint a picture of comfort. Surrounded by soft lighting and a hint of playful disarray, this scene embodies relaxation at its finest.

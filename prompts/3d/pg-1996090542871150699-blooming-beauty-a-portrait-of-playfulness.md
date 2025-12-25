@@ -1,11 +1,17 @@
 ---
-title: "Blooming Beauty: A Portrait of Playfulness"
+title: 'Blooming Beauty: A Portrait of Playfulness'
 category: 3d
-tags: ["portrait","vibrant","nano-banana-pro"]
-author: "[@ZaraIrahh](https://x.com/ZaraIrahh)"
-author_url: "https://twitter.com/ZaraIrahh"
-source_url: "https://twitter.com/ZaraIrahh/status/1996090542871150699"
-preview: "/media/3d/pg-1996090542871150699.webp"
+tags:
+  - portrait
+  - vibrant
+  - realistic
+  - 3d
+  - minimalist
+  - colorful
+author: '[@ZaraIrahh](https://x.com/ZaraIrahh)'
+author_url: 'https://twitter.com/ZaraIrahh'
+source_url: 'https://twitter.com/ZaraIrahh/status/1996090542871150699'
+preview: /media/3d/pg-1996090542871150699.webp
 ---
 
 Surrounded by a vibrant bouquet of bougainvillea, this enchanting portrait captures a soft smile and a playful spirit, radiating springtime charm.

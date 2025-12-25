@@ -1,11 +1,16 @@
 ---
-title: "Empowered Vibes: A Post-Workout Glow"
+title: 'Empowered Vibes: A Post-Workout Glow'
 category: portraits
-tags: ["vibrant","nano-banana-pro"]
-author: "[@godofprompt](https://x.com/godofprompt)"
-author_url: "https://twitter.com/godofprompt"
-source_url: "https://twitter.com/godofprompt/status/1994226363692171267"
-preview: "/media/portraits/pg-1994226363692171267.webp"
+tags:
+  - vibrant
+  - realistic
+  - minimalist
+  - portrait
+  - colorful
+author: '[@godofprompt](https://x.com/godofprompt)'
+author_url: 'https://twitter.com/godofprompt'
+source_url: 'https://twitter.com/godofprompt/status/1994226363692171267'
+preview: /media/portraits/pg-1994226363692171267.webp
 ---
 
 A vibrant gym moment unfolds as this young woman radiates success. With a confident smile, sweat glistening on her dewy skin, she embodies the essence of hard work and determination. Surrounding her, the energetic setting features motivational murals and scattered equipment, enhancing the inspiring atmosphere.

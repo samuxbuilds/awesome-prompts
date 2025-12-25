@@ -1,11 +1,21 @@
 ---
-title: "Ethereal Glow: Nighttime Portrait of a Digital Muse"
+title: 'Ethereal Glow: Nighttime Portrait of a Digital Muse'
 category: portraits
-tags: ["portrait","urban","light","digital","nano-banana-pro"]
-author: "[@IamEmily2050](https://x.com/IamEmily2050)"
-author_url: "https://twitter.com/IamEmily2050"
-source_url: "https://twitter.com/IamEmily2050/status/1995065474749730989"
-preview: "/media/portraits/pg-1995065474749730989.webp"
+tags:
+  - portrait
+  - urban
+  - light
+  - digital
+  - realistic
+  - illustration
+  - neon
+  - vintage
+  - minimalist
+  - dark
+author: '[@IamEmily2050](https://x.com/IamEmily2050)'
+author_url: 'https://twitter.com/IamEmily2050'
+source_url: 'https://twitter.com/IamEmily2050/status/1995065474749730989'
+preview: /media/portraits/pg-1995065474749730989.webp
 ---
 
 A captivating close-up reveals an enchanting young woman bathed in flash light, her porcelain skin radiating against the urban night. The soft-focus enhances her doll-like features, making her gaze truly mesmerizing.

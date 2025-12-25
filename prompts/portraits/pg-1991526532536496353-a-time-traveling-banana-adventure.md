@@ -1,11 +1,14 @@
 ---
-title: "A Time-Traveling Banana Adventure"
+title: A Time-Traveling Banana Adventure
 category: portraits
-tags: ["travel","nano-banana-pro"]
-author: "[@minchoi](https://x.com/minchoi)"
-author_url: "https://twitter.com/minchoi"
-source_url: "https://twitter.com/minchoi/status/1991526532536496353"
-preview: "/media/portraits/pg-1991526532536496353.webp"
+tags:
+  - travel
+  - realistic
+  - portrait
+author: '[@minchoi](https://x.com/minchoi)'
+author_url: 'https://twitter.com/minchoi'
+source_url: 'https://twitter.com/minchoi/status/1991526532536496353'
+preview: /media/portraits/pg-1991526532536496353.webp
 ---
 
 From youthful smiles to wise chuckles, this whimsical holiday photo captures a journey through the decades—complete with a 2020 mask twist!

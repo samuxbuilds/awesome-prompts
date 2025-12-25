@@ -1,11 +1,20 @@
 ---
-title: "Chic Meets Playful: The Pink Style Statement"
+title: 'Chic Meets Playful: The Pink Style Statement'
 category: 3d
-tags: ["3d","modern","fashion","vibrant","nano-banana-pro"]
-author: "[@SimplyAnnisa](https://x.com/SimplyAnnisa)"
-author_url: "https://twitter.com/SimplyAnnisa"
-source_url: "https://twitter.com/SimplyAnnisa/status/1994214859756683341"
-preview: "/media/3d/pg-1994214859756683341.webp"
+tags:
+  - 3d
+  - modern
+  - fashion
+  - vibrant
+  - realistic
+  - minimalist
+  - portrait
+  - dark
+  - colorful
+author: '[@SimplyAnnisa](https://x.com/SimplyAnnisa)'
+author_url: 'https://twitter.com/SimplyAnnisa'
+source_url: 'https://twitter.com/SimplyAnnisa/status/1994214859756683341'
+preview: /media/3d/pg-1994214859756683341.webp
 ---
 
 A confident young woman exudes modern flair, casually posing with a glossy 3D Angry Birds 'Pink' character against a vibrant backdrop. Fashion and fun collide!

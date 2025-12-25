@@ -1,11 +1,14 @@
 ---
-title: "A Dance with Time: The Clockwork Conundrum"
+title: 'A Dance with Time: The Clockwork Conundrum'
 category: portraits
-tags: ["nano-banana-pro"]
-author: "[@fahabib91](https://x.com/fahabib91)"
-author_url: "https://twitter.com/fahabib91"
-source_url: "https://twitter.com/fahabib91/status/1991888579686215986"
-preview: "/media/portraits/pg-1991888579686215986.webp"
+tags:
+  - minimalist
+  - portrait
+  - dark
+author: '[@fahabib91](https://x.com/fahabib91)'
+author_url: 'https://twitter.com/fahabib91'
+source_url: 'https://twitter.com/fahabib91/status/1991888579686215986'
+preview: /media/portraits/pg-1991888579686215986.webp
 ---
 
 A determined woman reaches for a mysterious gem, surrounded by suspended fragments of time. The scene pulses with energy, hinting at secrets held within the intricate metallic chaos.

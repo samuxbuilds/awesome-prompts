@@ -1,11 +1,14 @@
 ---
-title: "Bold Elegance in Monochrome: A Portrait of Strength"
+title: 'Bold Elegance in Monochrome: A Portrait of Strength'
 category: portraits
-tags: ["portrait","nano-banana-pro"]
-author: "[@rovvmut_](https://x.com/rovvmut_)"
-author_url: "https://twitter.com/rovvmut_"
-source_url: "https://twitter.com/rovvmut_/status/1995735410928980000"
-preview: "/media/portraits/pg-1995735410928980000.webp"
+tags:
+  - portrait
+  - realistic
+  - black-and-white
+author: '[@rovvmut_](https://x.com/rovvmut_)'
+author_url: 'https://twitter.com/rovvmut_'
+source_url: 'https://twitter.com/rovvmut_/status/1995735410928980000'
+preview: /media/portraits/pg-1995735410928980000.webp
 ---
 
 Striking contrast reveals a young woman's fierce gaze, adorned in intricately patterned fabric. The dramatic chiaroscuro enhances her presence, commanding attention in timeless black and white.

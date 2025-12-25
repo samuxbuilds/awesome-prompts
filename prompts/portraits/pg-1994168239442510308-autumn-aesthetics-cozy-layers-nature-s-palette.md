@@ -1,11 +1,18 @@
 ---
-title: "Autumn Aesthetics: Cozy Layers & Nature's Palette"
+title: 'Autumn Aesthetics: Cozy Layers & Nature''s Palette'
 category: portraits
-tags: ["nature","fashion","vibrant","nano-banana-pro"]
-author: "[@_MehdiSharifi_](https://x.com/_MehdiSharifi_)"
-author_url: "https://twitter.com/_MehdiSharifi_"
-source_url: "https://twitter.com/_MehdiSharifi_/status/1994168239442510308"
-preview: "/media/portraits/pg-1994168239442510308.webp"
+tags:
+  - nature
+  - fashion
+  - vibrant
+  - realistic
+  - portrait
+  - landscape
+  - colorful
+author: '[@_MehdiSharifi_](https://x.com/_MehdiSharifi_)'
+author_url: 'https://twitter.com/_MehdiSharifi_'
+source_url: 'https://twitter.com/_MehdiSharifi_/status/1994168239442510308'
+preview: /media/portraits/pg-1994168239442510308.webp
 ---
 
 Sun-kissed moments in a vibrant autumn park! This stylish young woman embodies fall warmth, wrapped in layers of cozy fashion amidst a backdrop of golden leaves. 🍂

@@ -1,11 +1,15 @@
 ---
-title: "Cozy Moments: Winter's Embrace with a Plush Companion"
+title: 'Cozy Moments: Winter''s Embrace with a Plush Companion'
 category: 3d
-tags: ["nano-banana-pro"]
-author: "[@ShreyaYadav___](https://x.com/ShreyaYadav___)"
-author_url: "https://twitter.com/ShreyaYadav___"
-source_url: "https://twitter.com/ShreyaYadav___/status/1991338284518371647"
-preview: "/media/3d/pg-1991338284518371647.webp"
+tags:
+  - realistic
+  - 3d
+  - portrait
+  - landscape
+author: '[@ShreyaYadav___](https://x.com/ShreyaYadav___)'
+author_url: 'https://twitter.com/ShreyaYadav___'
+source_url: 'https://twitter.com/ShreyaYadav___/status/1991338284518371647'
+preview: /media/3d/pg-1991338284518371647.webp
 ---
 
 Snowflakes dance outside while she snuggles a giant Doraemon. Wrapped in a cream knit sweater, her rosy cheeks reflect the warmth of hot chocolate and cherished memories.

@@ -1,11 +1,18 @@
 ---
-title: "Vintage Vibes & Modern Aesthetics: A Portrait of Elegance"
+title: 'Vintage Vibes & Modern Aesthetics: A Portrait of Elegance'
 category: portraits
-tags: ["portrait","art","vintage","modern","vibrant","nano-banana-pro"]
-author: "[@SimplyAnnisa](https://x.com/SimplyAnnisa)"
-author_url: "https://twitter.com/SimplyAnnisa"
-source_url: "https://twitter.com/SimplyAnnisa/status/1994406854609580397"
-preview: "/media/portraits/pg-1994406854609580397.webp"
+tags:
+  - portrait
+  - art
+  - vintage
+  - modern
+  - vibrant
+  - dark
+  - colorful
+author: '[@SimplyAnnisa](https://x.com/SimplyAnnisa)'
+author_url: 'https://twitter.com/SimplyAnnisa'
+source_url: 'https://twitter.com/SimplyAnnisa/status/1994406854609580397'
+preview: /media/portraits/pg-1994406854609580397.webp
 ---
 
 Bold and beautiful, her gaze pierces through the shadows. The rich textures of her crocheted top dance with the vibrant backdrop of Japanese art, where tradition meets contemporary allure.

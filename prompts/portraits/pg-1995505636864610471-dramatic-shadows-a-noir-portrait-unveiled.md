@@ -1,11 +1,17 @@
 ---
-title: "Dramatic Shadows: A Noir Portrait Unveiled"
+title: 'Dramatic Shadows: A Noir Portrait Unveiled'
 category: portraits
-tags: ["portrait","nature","light","nano-banana-pro"]
-author: "[@john_my07](https://x.com/john_my07)"
-author_url: "https://twitter.com/john_my07"
-source_url: "https://twitter.com/john_my07/status/1995505636864610471"
-preview: "/media/portraits/pg-1995505636864610471.webp"
+tags:
+  - portrait
+  - nature
+  - light
+  - landscape
+  - dark
+  - black-and-white
+author: '[@john_my07](https://x.com/john_my07)'
+author_url: 'https://twitter.com/john_my07'
+source_url: 'https://twitter.com/john_my07/status/1995505636864610471'
+preview: /media/portraits/pg-1995505636864610471.webp
 ---
 
 A striking play of light and shadow captures a rugged soul. Tousled hair and a fierce gaze tell stories of resilience against the blurred backdrop of nature. This portrait breathes raw power!

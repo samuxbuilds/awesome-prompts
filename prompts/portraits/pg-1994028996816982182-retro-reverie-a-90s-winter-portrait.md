@@ -1,11 +1,15 @@
 ---
-title: "Retro Reverie: A 90s Winter Portrait"
+title: 'Retro Reverie: A 90s Winter Portrait'
 category: portraits
-tags: ["portrait","vintage","nano-banana-pro"]
-author: "[@kingofdairyque](https://x.com/kingofdairyque)"
-author_url: "https://twitter.com/kingofdairyque"
-source_url: "https://twitter.com/kingofdairyque/status/1994028996816982182"
-preview: "/media/portraits/pg-1994028996816982182.webp"
+tags:
+  - portrait
+  - vintage
+  - realistic
+  - landscape
+author: '[@kingofdairyque](https://x.com/kingofdairyque)'
+author_url: 'https://twitter.com/kingofdairyque'
+source_url: 'https://twitter.com/kingofdairyque/status/1994028996816982182'
+preview: /media/portraits/pg-1994028996816982182.webp
 ---
 
 A young woman leans against a tree, capturing a moment of nostalgic bliss. With her oversized flannel and flowing hair, she embodies a serene yet dynamic vibe, framed by warm orange and cool blue hues that dance across the vintage grain.

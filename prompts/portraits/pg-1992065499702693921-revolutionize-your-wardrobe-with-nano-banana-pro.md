@@ -1,11 +1,14 @@
 ---
-title: "Revolutionize Your Wardrobe with Nano Banana Pro!"
+title: Revolutionize Your Wardrobe with Nano Banana Pro!
 category: portraits
-tags: ["fashion","nano-banana-pro"]
-author: "[@iX00AI](https://x.com/iX00AI)"
-author_url: "https://twitter.com/iX00AI"
-source_url: "https://twitter.com/iX00AI/status/1992065499702693921"
-preview: "/media/portraits/pg-1992065499702693921.webp"
+tags:
+  - fashion
+  - realistic
+  - portrait
+author: '[@iX00AI](https://x.com/iX00AI)'
+author_url: 'https://twitter.com/iX00AI'
+source_url: 'https://twitter.com/iX00AI/status/1992065499702693921'
+preview: /media/portraits/pg-1992065499702693921.webp
 ---
 
 Ever thought dressing up could be this seamless? Transform your style with stunning realism using Nano Banana Pro! The perfect blend of tech and fashion awaits your creativity!

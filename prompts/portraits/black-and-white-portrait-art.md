@@ -1,9 +1,15 @@
 ---
-title: "Black and White Portrait Art"
+title: Black and White Portrait Art
 category: portraits
-tags: ["portrait", "logo"]
-author: "[@ZHO_ZHO_ZHO](https://x.com/ZHO_ZHO_ZHO)"
-preview: "/media/portraits/black-and-white-portrait-art.webp"
+tags:
+  - portrait
+  - logo
+  - realistic
+  - minimalist
+  - dark
+  - black-and-white
+author: '[@ZHO_ZHO_ZHO](https://x.com/ZHO_ZHO_ZHO)'
+preview: /media/portraits/black-and-white-portrait-art.webp
 ---
 
 A high-resolution black and white portrait artwork, in an editorial and fine art photography style. The background features a soft gradient, transitioning from mid-gray to almost pure white, creating a sense of depth and tranquility. Fine film grain adds a tactile, analog-like softness to the image, reminiscent of classic black and white photography.

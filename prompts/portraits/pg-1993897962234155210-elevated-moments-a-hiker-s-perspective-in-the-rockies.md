@@ -1,11 +1,13 @@
 ---
-title: "Elevated Moments: A Hiker's Perspective in the Rockies"
+title: 'Elevated Moments: A Hiker''s Perspective in the Rockies'
 category: portraits
-tags: ["nano-banana-pro"]
-author: "[@minchoi](https://x.com/minchoi)"
-author_url: "https://twitter.com/minchoi"
-source_url: "https://twitter.com/minchoi/status/1993897962234155210"
-preview: "/media/portraits/pg-1993897962234155210.webp"
+tags:
+  - realistic
+  - portrait
+author: '[@minchoi](https://x.com/minchoi)'
+author_url: 'https://twitter.com/minchoi'
+source_url: 'https://twitter.com/minchoi/status/1993897962234155210'
+preview: /media/portraits/pg-1993897962234155210.webp
 ---
 
 Clouds gather over breathtaking peaks as a lone hiker contemplates the vast beauty of the Rockies. Adventure awaits just beyond the trail!

@@ -1,11 +1,17 @@
 ---
-title: "Tennis Elegance in Every Reflection"
+title: Tennis Elegance in Every Reflection
 category: portraits
-tags: ["vibrant","nano-banana-pro"]
-author: "[@_MehdiSharifi_](https://x.com/_MehdiSharifi_)"
-author_url: "https://twitter.com/_MehdiSharifi_"
-source_url: "https://twitter.com/_MehdiSharifi_/status/1995921561120108703"
-preview: "/media/portraits/pg-1995921561120108703.webp"
+tags:
+  - vibrant
+  - realistic
+  - minimalist
+  - portrait
+  - dark
+  - colorful
+author: '[@_MehdiSharifi_](https://x.com/_MehdiSharifi_)'
+author_url: 'https://twitter.com/_MehdiSharifi_'
+source_url: 'https://twitter.com/_MehdiSharifi_/status/1995921561120108703'
+preview: /media/portraits/pg-1995921561120108703.webp
 ---
 
 A chic young woman captures her sporty style in a luxurious locker room, radiating sophistication. Her preppy ensemble, flawless smile, and vibrant surroundings paint a picture of class and athleticism.

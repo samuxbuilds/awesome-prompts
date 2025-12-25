@@ -1,11 +1,18 @@
 ---
-title: "Cinematic Elegance: A Glimpse of Modern Intimacy"
+title: 'Cinematic Elegance: A Glimpse of Modern Intimacy'
 category: portraits
-tags: ["art","modern","minimal","light","nano-banana-pro"]
-author: "[@lexx_aura](https://x.com/lexx_aura)"
-author_url: "https://twitter.com/lexx_aura"
-source_url: "https://twitter.com/lexx_aura/status/1994835650739331364"
-preview: "/media/portraits/pg-1994835650739331364.webp"
+tags:
+  - art
+  - modern
+  - minimal
+  - light
+  - minimalist
+  - portrait
+  - dark
+author: '[@lexx_aura](https://x.com/lexx_aura)'
+author_url: 'https://twitter.com/lexx_aura'
+source_url: 'https://twitter.com/lexx_aura/status/1994835650739331364'
+preview: /media/portraits/pg-1994835650739331364.webp
 ---
 
 A stylish woman elegantly perched on her bed, her smartphone obscuring her face. The warm, moody lighting enhances the chic atmosphere, creating a perfect blend of modern minimalism and intimate allure.

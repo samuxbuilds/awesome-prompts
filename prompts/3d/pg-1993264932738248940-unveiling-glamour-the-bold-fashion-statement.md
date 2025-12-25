@@ -1,11 +1,17 @@
 ---
-title: "Unveiling Glamour: The Bold Fashion Statement"
+title: 'Unveiling Glamour: The Bold Fashion Statement'
 category: 3d
-tags: ["fashion","light","nano-banana-pro"]
-author: "[@Just_sharon7](https://x.com/Just_sharon7)"
-author_url: "https://twitter.com/Just_sharon7"
-source_url: "https://twitter.com/Just_sharon7/status/1993264932738248940"
-preview: "/media/3d/pg-1993264932738248940.webp"
+tags:
+  - fashion
+  - light
+  - realistic
+  - 3d
+  - vintage
+  - portrait
+author: '[@Just_sharon7](https://x.com/Just_sharon7)'
+author_url: 'https://twitter.com/Just_sharon7'
+source_url: 'https://twitter.com/Just_sharon7/status/1993264932738248940'
+preview: /media/3d/pg-1993264932738248940.webp
 ---
 
 In a lavish mansion, a stunning figure emerges, draped in glossy black latex. The intricate design accentuates every curve, with diamond accents that sparkle under warm chandelier lights, creating a mesmerizing high-fashion moment.

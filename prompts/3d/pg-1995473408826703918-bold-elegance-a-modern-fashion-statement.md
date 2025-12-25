@@ -1,11 +1,18 @@
 ---
-title: "Bold Elegance: A Modern Fashion Statement"
+title: 'Bold Elegance: A Modern Fashion Statement'
 category: 3d
-tags: ["art","modern","fashion","minimal","nano-banana-pro"]
-author: "[@mehvishs25](https://x.com/mehvishs25)"
-author_url: "https://twitter.com/mehvishs25"
-source_url: "https://twitter.com/mehvishs25/status/1995473408826703918"
-preview: "/media/3d/pg-1995473408826703918.webp"
+tags:
+  - art
+  - modern
+  - fashion
+  - minimal
+  - 3d
+  - minimalist
+  - dark
+author: '[@mehvishs25](https://x.com/mehvishs25)'
+author_url: 'https://twitter.com/mehvishs25'
+source_url: 'https://twitter.com/mehvishs25/status/1995473408826703918'
+preview: /media/3d/pg-1995473408826703918.webp
 ---
 
 In a striking clash of color, a chic figure exudes confidence in crisp, tailored elegance. This minimalist masterpiece captures luxury in its purest form with the bold 'ZARA' at its heart.

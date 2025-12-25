@@ -1,11 +1,15 @@
 ---
-title: "Bold Vibes Under a Clear Sky"
+title: Bold Vibes Under a Clear Sky
 category: portraits
-tags: ["light","nano-banana-pro"]
-author: "[@Sheldon056](https://x.com/Sheldon056)"
-author_url: "https://twitter.com/Sheldon056"
-source_url: "https://twitter.com/Sheldon056/status/1995874839244997070"
-preview: "/media/portraits/pg-1995874839244997070.webp"
+tags:
+  - light
+  - minimalist
+  - portrait
+  - dark
+author: '[@Sheldon056](https://x.com/Sheldon056)'
+author_url: 'https://twitter.com/Sheldon056'
+source_url: 'https://twitter.com/Sheldon056/status/1995874839244997070'
+preview: /media/portraits/pg-1995874839244997070.webp
 ---
 
 A rugged young man captivates with his confident gaze, sunlight illuminating his tousled hair and athletic jacket, striking a balance between strength and serenity.

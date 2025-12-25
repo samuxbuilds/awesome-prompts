@@ -1,11 +1,16 @@
 ---
-title: "Autumn Vogue: A Cozy Collage of Style and Serenity"
+title: 'Autumn Vogue: A Cozy Collage of Style and Serenity'
 category: portraits
-tags: ["vibrant","nano-banana-pro"]
-author: "[@ShreyaYadav___](https://x.com/ShreyaYadav___)"
-author_url: "https://twitter.com/ShreyaYadav___"
-source_url: "https://twitter.com/ShreyaYadav___/status/1996250545884155933"
-preview: "/media/portraits/pg-1996250545884155933.webp"
+tags:
+  - vibrant
+  - realistic
+  - portrait
+  - landscape
+  - colorful
+author: '[@ShreyaYadav___](https://x.com/ShreyaYadav___)'
+author_url: 'https://twitter.com/ShreyaYadav___'
+source_url: 'https://twitter.com/ShreyaYadav___/status/1996250545884155933'
+preview: /media/portraits/pg-1996250545884155933.webp
 ---
 
 Can you feel the crisp air? This vibrant grid showcases stylish young women radiating autumn charm in cozy layers, set against a breathtaking backdrop of golden leaves and tranquil lakes.

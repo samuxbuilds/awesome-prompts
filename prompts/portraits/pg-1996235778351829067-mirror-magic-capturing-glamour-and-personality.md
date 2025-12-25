@@ -1,11 +1,16 @@
 ---
-title: "Mirror Magic: Capturing Glamour and Personality"
+title: 'Mirror Magic: Capturing Glamour and Personality'
 category: portraits
-tags: ["selfie","vibrant","nano-banana-pro"]
-author: "[@real_novax](https://x.com/real_novax)"
-author_url: "https://twitter.com/real_novax"
-source_url: "https://twitter.com/real_novax/status/1996235778351829067"
-preview: "/media/portraits/pg-1996235778351829067.webp"
+tags:
+  - selfie
+  - vibrant
+  - portrait
+  - dark
+  - colorful
+author: '[@real_novax](https://x.com/real_novax)'
+author_url: 'https://twitter.com/real_novax'
+source_url: 'https://twitter.com/real_novax/status/1996235778351829067'
+preview: /media/portraits/pg-1996235778351829067.webp
 ---
 
 A selfie that radiates confidence! With her striking red lips and playful purple cat clip, this young woman's style shines against a warm backdrop, showcasing her vibrant personality.

@@ -1,9 +1,15 @@
 ---
-title: "Story Scene in Crystal Ball"
+title: Story Scene in Crystal Ball
 category: 3d
-tags: ["3d", "chibi", "surreal", "fantasy", "character"]
-author: "[@dotey](https://x.com/dotey)"
-preview: "/media/3d/story-scene-in-crystal-ball.webp"
+tags:
+  - 3d
+  - chibi
+  - surreal
+  - fantasy
+  - character
+  - dark
+author: '[@dotey](https://x.com/dotey)'
+preview: /media/3d/story-scene-in-crystal-ball.webp
 ---
 
 A delicate crystal ball rests quietly on a warm, softly lit tabletop by the window. The background is blurred and hazy, with warm-toned sunlight gently passing through the crystal ball, refracting specks of golden light that softly illuminate the dim surroundings.

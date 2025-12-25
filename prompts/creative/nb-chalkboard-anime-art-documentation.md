@@ -1,9 +1,19 @@
 ---
-title: "Chalkboard Anime Art Documentation"
+title: Chalkboard Anime Art Documentation
 category: creative
-tags: ["anime", "realistic", "photorealistic", "illustration", "pastel"]
-author: "[@nanobanana-pro](https://x.com/nanobanana-pro)"
-preview: "/media/creative/nb-chalkboard-anime-art-documentation.webp"
+tags:
+  - anime
+  - realistic
+  - photorealistic
+  - illustration
+  - pastel
+  - 3d
+  - portrait
+  - landscape
+  - dark
+  - colorful
+author: '[@nanobanana-pro](https://x.com/nanobanana-pro)'
+preview: /media/creative/nb-chalkboard-anime-art-documentation.webp
 ---
 
 *Photorealistic documentation of a chalkboard anime drawing*

@@ -1,11 +1,15 @@
 ---
-title: "Luxury Meets Confidence in a Stunning Portrait"
+title: Luxury Meets Confidence in a Stunning Portrait
 category: portraits
-tags: ["portrait","dark","nano-banana-pro"]
-author: "[@xmliisu](https://x.com/xmliisu)"
-author_url: "https://twitter.com/xmliisu"
-source_url: "https://twitter.com/xmliisu/status/1996051773677781129"
-preview: "/media/portraits/pg-1996051773677781129.webp"
+tags:
+  - portrait
+  - dark
+  - realistic
+  - 3d
+author: '[@xmliisu](https://x.com/xmliisu)'
+author_url: 'https://twitter.com/xmliisu'
+source_url: 'https://twitter.com/xmliisu/status/1996051773677781129'
+preview: /media/portraits/pg-1996051773677781129.webp
 ---
 
 A radiant woman leans back on a striking red Ferrari, exuding confidence. Her serene smile and relaxed stance, framed by dark hair and trendy attire, create an unforgettable image.

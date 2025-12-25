@@ -1,11 +1,19 @@
 ---
-title: "Reflecting the Perfect Moment"
+title: Reflecting the Perfect Moment
 category: 3d
-tags: ["selfie","light","nano-banana-pro"]
-author: "[@saniaspeaks_](https://x.com/saniaspeaks_)"
-author_url: "https://twitter.com/saniaspeaks_"
-source_url: "https://twitter.com/saniaspeaks_/status/1995090309923938365"
-preview: "/media/3d/pg-1995090309923938365.webp"
+tags:
+  - selfie
+  - light
+  - realistic
+  - 3d
+  - illustration
+  - minimalist
+  - portrait
+  - dark
+author: '[@saniaspeaks_](https://x.com/saniaspeaks_)'
+author_url: 'https://twitter.com/saniaspeaks_'
+source_url: 'https://twitter.com/saniaspeaks_/status/1995090309923938365'
+preview: /media/3d/pg-1995090309923938365.webp
 ---
 
 Golden hour magic captured! A confident young woman leans on a sleek car, snapping a selfie. The warm light dances through the trees, creating a dreamy backdrop that highlights her effortless style.

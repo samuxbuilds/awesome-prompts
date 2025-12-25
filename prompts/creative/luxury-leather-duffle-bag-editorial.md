@@ -1,9 +1,20 @@
 ---
-title: "Luxury Leather Duffle Bag Editorial"
+title: Luxury Leather Duffle Bag Editorial
 category: creative
-tags: ["product", "luxury", "fashion", "editorial", "studio", "leather", "branding"]
-author: "[@AmirMushich](https://x.com/AmirMushich)"
-preview: "/media/creative/luxury-leather-duffle-bag-editorial.jpg"
+tags:
+  - product
+  - luxury
+  - fashion
+  - editorial
+  - studio
+  - leather
+  - branding
+  - realistic
+  - minimalist
+  - landscape
+  - dark
+author: '[@AmirMushich](https://x.com/AmirMushich)'
+preview: /media/creative/luxury-leather-duffle-bag-editorial.jpg
 ---
 
 [BRAND NAME] luxury leather duffle bag, high-end editorial studio photograph. The duffle bag, designed with a unique, unconventional color palette and unexpected patterns or graphics relevant to [BRAND NAME], is suspended against a seamless, soft pastel studio background with gentle, diffused lighting. The premium pebbled leather texture is prominent, with [BRAND NAME] logos and signature motifs integrated into the design. Polished metal hardware and a small leather luggage tag are visible. The scene is lit with professional softbox lighting, creating soft shadows and highlights. Shot with a shallow depth of field, the bag is in sharp focus. At the bottom, small, minimalist typography reads "[BRAND NAME] LEATHER DUFFLE".

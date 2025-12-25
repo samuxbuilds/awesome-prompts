@@ -1,11 +1,16 @@
 ---
-title: "Ultra-Realistic Portrait: The Essence of Confidence"
+title: 'Ultra-Realistic Portrait: The Essence of Confidence'
 category: portraits
-tags: ["realistic","portrait","modern","light","nano-banana-pro"]
-author: "[@Taaruk_](https://x.com/Taaruk_)"
-author_url: "https://twitter.com/Taaruk_"
-source_url: "https://twitter.com/Taaruk_/status/1993181552159998267"
-preview: "/media/portraits/pg-1993181552159998267.webp"
+tags:
+  - realistic
+  - portrait
+  - modern
+  - light
+  - minimalist
+author: '[@Taaruk_](https://x.com/Taaruk_)'
+author_url: 'https://twitter.com/Taaruk_'
+source_url: 'https://twitter.com/Taaruk_/status/1993181552159998267'
+preview: /media/portraits/pg-1993181552159998267.webp
 ---
 
 A striking full-body portrait captures calm confidence, featuring a modern indoor setting with neutral tones. The subject leans against a light-grey wall, elegantly styled in a professional outfit.

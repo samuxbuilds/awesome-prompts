@@ -1,10 +1,21 @@
 ---
-title: "Coca-Cola HTML Motion Video"
+title: Coca-Cola HTML Motion Video
 category: motion
-tags: ["html", "css", "javascript", "3d", "threejs", "branding", "coca-cola", "gsap", "audio"]
-author: "[@samuxbuilds](https://x.com/samuxbuilds)"
-
-previewVideo: "/media/motion/coca-cola-motion.webm"
+tags:
+  - html
+  - css
+  - javascript
+  - 3d
+  - threejs
+  - branding
+  - coca-cola
+  - gsap
+  - audio
+  - realistic
+  - minimalist
+  - dark
+author: '[@samuxbuilds](https://x.com/samuxbuilds)'
+previewVideo: /media/motion/coca-cola-motion.webm
 ---
 
 Create a cinematic, high-energy **brand motion video** for **[Brand Name]** using **HTML, CSS, and JavaScript**, optimized for web playback.

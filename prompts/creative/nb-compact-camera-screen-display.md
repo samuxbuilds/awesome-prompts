@@ -1,9 +1,14 @@
 ---
-title: "Compact Camera Screen Display"
+title: Compact Camera Screen Display
 category: creative
-tags: ["logo", "nostalgic"]
-author: "[@nanobanana-pro](https://x.com/nanobanana-pro)"
-preview: "/media/creative/nb-compact-camera-screen-display.webp"
+tags:
+  - logo
+  - nostalgic
+  - realistic
+  - portrait
+  - dark
+author: '[@nanobanana-pro](https://x.com/nanobanana-pro)'
+preview: /media/creative/nb-compact-camera-screen-display.webp
 ---
 
 *A photo displayed on a compact digital camera screen*

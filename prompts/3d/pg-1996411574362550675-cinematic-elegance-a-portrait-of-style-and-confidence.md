@@ -1,11 +1,16 @@
 ---
-title: "Cinematic Elegance: A Portrait of Style and Confidence"
+title: 'Cinematic Elegance: A Portrait of Style and Confidence'
 category: 3d
-tags: ["realistic","portrait","light","nano-banana-pro"]
-author: "[@Taaruk_](https://x.com/Taaruk_)"
-author_url: "https://twitter.com/Taaruk_"
-source_url: "https://twitter.com/Taaruk_/status/1996411574362550675"
-preview: "/media/3d/pg-1996411574362550675.webp"
+tags:
+  - realistic
+  - portrait
+  - light
+  - 3d
+  - dark
+author: '[@Taaruk_](https://x.com/Taaruk_)'
+author_url: 'https://twitter.com/Taaruk_'
+source_url: 'https://twitter.com/Taaruk_/status/1996411574362550675'
+preview: /media/3d/pg-1996411574362550675.webp
 ---
 
 A strikingly handsome figure stands poised against a softly blurred backdrop, exuding sophistication in a light gray suit. His calm demeanor and elegant attire make a bold statement in this ultra-realistic portrait.

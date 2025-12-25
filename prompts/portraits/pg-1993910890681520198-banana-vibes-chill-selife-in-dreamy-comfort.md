@@ -1,11 +1,15 @@
 ---
-title: "Banana Vibes: Chill Selife in Dreamy Comfort"
+title: 'Banana Vibes: Chill Selife in Dreamy Comfort'
 category: portraits
-tags: ["selfie","nano-banana-pro"]
-author: "[@ZaraIrahh](https://x.com/ZaraIrahh)"
-author_url: "https://twitter.com/ZaraIrahh"
-source_url: "https://twitter.com/ZaraIrahh/status/1993910890681520198"
-preview: "/media/portraits/pg-1993910890681520198.webp"
+tags:
+  - selfie
+  - realistic
+  - portrait
+  - dark
+author: '[@ZaraIrahh](https://x.com/ZaraIrahh)'
+author_url: 'https://twitter.com/ZaraIrahh'
+source_url: 'https://twitter.com/ZaraIrahh/status/1993910890681520198'
+preview: /media/portraits/pg-1993910890681520198.webp
 ---
 
 Cozy up with this playful selfie! A sunlit moment captures a relaxed spirit, adorned in soft beige shorts and a Powerpuff girls tee, radiating warmth and joy.

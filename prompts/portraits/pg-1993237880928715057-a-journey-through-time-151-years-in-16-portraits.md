@@ -1,11 +1,15 @@
 ---
-title: "A Journey Through Time: 151 Years in 16 Portraits"
+title: 'A Journey Through Time: 151 Years in 16 Portraits'
 category: portraits
-tags: ["portrait","nano-banana-pro"]
-author: "[@ShreyaYadav___](https://x.com/ShreyaYadav___)"
-author_url: "https://twitter.com/ShreyaYadav___"
-source_url: "https://twitter.com/ShreyaYadav___/status/1993237880928715057"
-preview: "/media/portraits/pg-1993237880928715057.webp"
+tags:
+  - portrait
+  - realistic
+  - minimalist
+  - dark
+author: '[@ShreyaYadav___](https://x.com/ShreyaYadav___)'
+author_url: 'https://twitter.com/ShreyaYadav___'
+source_url: 'https://twitter.com/ShreyaYadav___/status/1993237880928715057'
+preview: /media/portraits/pg-1993237880928715057.webp
 ---
 
 Can one face tell the tale of a century and a half? This stunning grid showcases the transformative beauty of aging, revealing each unique chapter of life.

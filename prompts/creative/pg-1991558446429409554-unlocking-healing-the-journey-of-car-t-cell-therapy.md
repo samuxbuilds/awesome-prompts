@@ -1,11 +1,13 @@
 ---
-title: "Unlocking Healing: The Journey of CAR-T Cell Therapy"
+title: 'Unlocking Healing: The Journey of CAR-T Cell Therapy'
 category: creative
-tags: ["illustration","art","nano-banana-pro"]
-author: "[@DeryaTR_](https://x.com/DeryaTR_)"
-author_url: "https://twitter.com/DeryaTR_"
-source_url: "https://twitter.com/DeryaTR_/status/1991558446429409554"
-preview: "/media/creative/pg-1991558446429409554.webp"
+tags:
+  - illustration
+  - art
+author: '[@DeryaTR_](https://x.com/DeryaTR_)'
+author_url: 'https://twitter.com/DeryaTR_'
+source_url: 'https://twitter.com/DeryaTR_/status/1991558446429409554'
+preview: /media/creative/pg-1991558446429409554.webp
 ---
 
 Marvel at the transformative path of CAR-T cell therapy! From lab innovation to patient impact, this illustration captures the heartbeat of medical advancement.

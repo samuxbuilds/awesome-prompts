@@ -1,11 +1,16 @@
 ---
-title: "Golden Hour Escapade on a Scooter"
+title: Golden Hour Escapade on a Scooter
 category: portraits
-tags: ["vintage","light","nano-banana-pro"]
-author: "[@AIwithkhan](https://x.com/AIwithkhan)"
-author_url: "https://twitter.com/AIwithkhan"
-source_url: "https://twitter.com/AIwithkhan/status/1995004639402758397"
-preview: "/media/portraits/pg-1995004639402758397.webp"
+tags:
+  - vintage
+  - light
+  - portrait
+  - landscape
+  - dark
+author: '[@AIwithkhan](https://x.com/AIwithkhan)'
+author_url: 'https://twitter.com/AIwithkhan'
+source_url: 'https://twitter.com/AIwithkhan/status/1995004639402758397'
+preview: /media/portraits/pg-1995004639402758397.webp
 ---
 
 A sunset-kissed journey unfolds as a couple rides a vintage scooter, the warm glow of twilight enveloping them. Love and adventure intertwine on a winding coastal road!

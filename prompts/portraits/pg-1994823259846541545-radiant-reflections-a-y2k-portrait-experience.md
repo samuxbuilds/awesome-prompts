@@ -1,11 +1,15 @@
 ---
-title: "Radiant Reflections: A Y2K Portrait Experience"
+title: 'Radiant Reflections: A Y2K Portrait Experience'
 category: portraits
-tags: ["portrait","dark","nano-banana-pro"]
-author: "[@miilesus](https://x.com/miilesus)"
-author_url: "https://twitter.com/miilesus"
-source_url: "https://twitter.com/miilesus/status/1994823259846541545"
-preview: "/media/portraits/pg-1994823259846541545.webp"
+tags:
+  - portrait
+  - dark
+  - realistic
+  - vintage
+author: '[@miilesus](https://x.com/miilesus)'
+author_url: 'https://twitter.com/miilesus'
+source_url: 'https://twitter.com/miilesus/status/1994823259846541545'
+preview: /media/portraits/pg-1994823259846541545.webp
 ---
 
 A teenage girl shines in a Y2K-inspired portrait, her dark waves cascading against a mirror's reflection. The cool blue tones and bright flash enhance her captivating look.

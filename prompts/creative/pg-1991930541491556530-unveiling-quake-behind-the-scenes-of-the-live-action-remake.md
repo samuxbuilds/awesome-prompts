@@ -1,11 +1,11 @@
 ---
-title: "Unveiling Quake: Behind the Scenes of the Live Action Remake"
+title: 'Unveiling Quake: Behind the Scenes of the Live Action Remake'
 category: creative
-tags: ["nano-banana-pro"]
-author: "[@awesome_visuals](https://x.com/awesome_visuals)"
-author_url: "https://twitter.com/awesome_visuals"
-source_url: "https://twitter.com/awesome_visuals/status/1991930541491556530"
-preview: "/media/creative/pg-1991930541491556530.webp"
+tags: []
+author: '[@awesome_visuals](https://x.com/awesome_visuals)'
+author_url: 'https://twitter.com/awesome_visuals'
+source_url: 'https://twitter.com/awesome_visuals/status/1991930541491556530'
+preview: /media/creative/pg-1991930541491556530.webp
 ---
 
 Curiosity piqued? These exclusive behind-the-scenes shots reveal the thrilling chaos and intricate details that bring the Quake universe to life. From stunning sets to intense action, every frame tells a story!

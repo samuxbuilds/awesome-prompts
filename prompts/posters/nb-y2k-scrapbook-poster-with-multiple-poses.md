@@ -1,9 +1,20 @@
 ---
-title: "Y2K Scrapbook Poster with Multiple Poses"
+title: Y2K Scrapbook Poster with Multiple Poses
 category: posters
-tags: ["retro", "realistic", "cute", "poster", "sticker"]
-author: "[@nanobanana-pro](https://x.com/nanobanana-pro)"
-preview: "/media/posters/nb-y2k-scrapbook-poster-with-multiple-poses.webp"
+tags:
+  - retro
+  - realistic
+  - cute
+  - poster
+  - sticker
+  - 3d
+  - neon
+  - vintage
+  - portrait
+  - dark
+  - colorful
+author: '[@nanobanana-pro](https://x.com/nanobanana-pro)'
+preview: /media/posters/nb-y2k-scrapbook-poster-with-multiple-poses.webp
 ---
 
 *Create a Y2K-style scrapbook poster with multiple poses*

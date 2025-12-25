@@ -1,11 +1,18 @@
 ---
-title: "Classroom Confidence: A Modern Scholar's Portrait"
+title: 'Classroom Confidence: A Modern Scholar''s Portrait'
 category: portraits
-tags: ["portrait","modern","vibrant","nano-banana-pro"]
-author: "[@saniaspeaks_](https://x.com/saniaspeaks_)"
-author_url: "https://twitter.com/saniaspeaks_"
-source_url: "https://twitter.com/saniaspeaks_/status/1996416718873444749"
-preview: "/media/portraits/pg-1996416718873444749.webp"
+tags:
+  - portrait
+  - modern
+  - vibrant
+  - realistic
+  - minimalist
+  - dark
+  - colorful
+author: '[@saniaspeaks_](https://x.com/saniaspeaks_)'
+author_url: 'https://twitter.com/saniaspeaks_'
+source_url: 'https://twitter.com/saniaspeaks_/status/1996416718873444749'
+preview: /media/portraits/pg-1996416718873444749.webp
 ---
 
 In a vibrant classroom, a poised educator exudes warmth and wisdom. With a soft smile and confident stance, she embodies the spirit of learning surrounded by inspiring educational elements.

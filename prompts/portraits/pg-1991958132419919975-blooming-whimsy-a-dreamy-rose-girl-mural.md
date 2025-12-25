@@ -1,11 +1,18 @@
 ---
-title: "Blooming Whimsy: A Dreamy Rose Girl Mural"
+title: 'Blooming Whimsy: A Dreamy Rose Girl Mural'
 category: portraits
-tags: ["cartoon","art","nature","vibrant","nano-banana-pro"]
-author: "[@dotey](https://x.com/dotey)"
-author_url: "https://twitter.com/dotey"
-source_url: "https://twitter.com/dotey/status/1991958132419919975"
-preview: "/media/portraits/pg-1991958132419919975.webp"
+tags:
+  - cartoon
+  - art
+  - nature
+  - vibrant
+  - portrait
+  - landscape
+  - colorful
+author: '[@dotey](https://x.com/dotey)'
+author_url: 'https://twitter.com/dotey'
+source_url: 'https://twitter.com/dotey/status/1991958132419919975'
+preview: /media/portraits/pg-1991958132419919975.webp
 ---
 
 A captivating street mural blends beauty and nature, featuring a serene cartoon woman crowned with roses. The vibrant flowers intertwine with her flowing hair, set against a radiant blue sky and a bustling street. Pure artistic magic!

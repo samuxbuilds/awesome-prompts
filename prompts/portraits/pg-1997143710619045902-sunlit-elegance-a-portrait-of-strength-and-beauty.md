@@ -1,11 +1,14 @@
 ---
-title: "Sunlit Elegance: A Portrait of Strength and Beauty"
+title: 'Sunlit Elegance: A Portrait of Strength and Beauty'
 category: portraits
-tags: ["portrait","light","nano-banana-pro"]
-author: "[@AIByAbbay](https://x.com/AIByAbbay)"
-author_url: "https://twitter.com/AIByAbbay"
-source_url: "https://twitter.com/AIByAbbay/status/1997143710619045902"
-preview: "/media/portraits/pg-1997143710619045902.webp"
+tags:
+  - portrait
+  - light
+  - dark
+author: '[@AIByAbbay](https://x.com/AIByAbbay)'
+author_url: 'https://twitter.com/AIByAbbay'
+source_url: 'https://twitter.com/AIByAbbay/status/1997143710619045902'
+preview: /media/portraits/pg-1997143710619045902.webp
 ---
 
 Caught in a moment of quiet defiance, her gaze pierces through shadows, illuminated by radiant beams of sunlight. The interplay of light sculpting her features creates a stunning visual narrative.

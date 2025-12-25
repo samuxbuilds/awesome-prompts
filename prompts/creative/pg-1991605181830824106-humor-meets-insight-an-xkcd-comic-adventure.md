@@ -1,11 +1,11 @@
 ---
-title: "Humor Meets Insight: An xkcd Comic Adventure"
+title: 'Humor Meets Insight: An xkcd Comic Adventure'
 category: creative
-tags: ["nano-banana-pro"]
-author: "[@multimodalart](https://x.com/multimodalart)"
-author_url: "https://twitter.com/multimodalart"
-source_url: "https://twitter.com/multimodalart/status/1991605181830824106"
-preview: "/media/creative/pg-1991605181830824106.webp"
+tags: []
+author: '[@multimodalart](https://x.com/multimodalart)'
+author_url: 'https://twitter.com/multimodalart'
+source_url: 'https://twitter.com/multimodalart/status/1991605181830824106'
+preview: /media/creative/pg-1991605181830824106.webp
 ---
 
 Clever quips and quirky visuals collide in this xkcd-style comic! Get ready for a fresh take on everyday absurdities wrapped in playful wit.

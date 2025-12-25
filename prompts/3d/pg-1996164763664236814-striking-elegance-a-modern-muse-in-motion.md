@@ -1,11 +1,17 @@
 ---
-title: "Striking Elegance: A Modern Muse in Motion"
+title: 'Striking Elegance: A Modern Muse in Motion'
 category: 3d
-tags: ["modern","urban","dark","light","nano-banana-pro"]
-author: "[@SimplyAnnisa](https://x.com/SimplyAnnisa)"
-author_url: "https://twitter.com/SimplyAnnisa"
-source_url: "https://twitter.com/SimplyAnnisa/status/1996164763664236814"
-preview: "/media/3d/pg-1996164763664236814.webp"
+tags:
+  - modern
+  - urban
+  - dark
+  - light
+  - 3d
+  - portrait
+author: '[@SimplyAnnisa](https://x.com/SimplyAnnisa)'
+author_url: 'https://twitter.com/SimplyAnnisa'
+source_url: 'https://twitter.com/SimplyAnnisa/status/1996164763664236814'
+preview: /media/3d/pg-1996164763664236814.webp
 ---
 
 Boldly captivating, her serious gaze pierces through a blurred urban backdrop, where soft shadows and highlights dance across her sharp features. The dark attire echoes a cinematic allure, leaving a lasting impression.

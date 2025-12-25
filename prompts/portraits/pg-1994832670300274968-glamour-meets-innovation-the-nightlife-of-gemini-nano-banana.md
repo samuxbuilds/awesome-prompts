@@ -1,11 +1,15 @@
 ---
-title: "Glamour Meets Innovation: The Nightlife of Gemini Nano Banana 3.0"
+title: 'Glamour Meets Innovation: The Nightlife of Gemini Nano Banana 3.0'
 category: portraits
-tags: ["light","nano-banana-pro"]
-author: "[@xmliisu](https://x.com/xmliisu)"
-author_url: "https://twitter.com/xmliisu"
-source_url: "https://twitter.com/xmliisu/status/1994832670300274968"
-preview: "/media/portraits/pg-1994832670300274968.webp"
+tags:
+  - light
+  - realistic
+  - portrait
+  - dark
+author: '[@xmliisu](https://x.com/xmliisu)'
+author_url: 'https://twitter.com/xmliisu'
+source_url: 'https://twitter.com/xmliisu/status/1994832670300274968'
+preview: /media/portraits/pg-1994832670300274968.webp
 ---
 
 In the opulent backseat of luxury, a confident woman captivates with elegance and allure. The city's lights blur, while soft LED glows reflect the sophistication of the Gemini Nano Banana 3.0.

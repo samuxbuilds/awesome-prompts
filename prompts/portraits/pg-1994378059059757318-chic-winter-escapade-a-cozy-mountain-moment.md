@@ -1,11 +1,13 @@
 ---
-title: "Chic Winter Escapade: A Cozy Mountain Moment"
+title: 'Chic Winter Escapade: A Cozy Mountain Moment'
 category: portraits
-tags: ["nano-banana-pro"]
-author: "[@mehvishs25](https://x.com/mehvishs25)"
-author_url: "https://twitter.com/mehvishs25"
-source_url: "https://twitter.com/mehvishs25/status/1994378059059757318"
-preview: "/media/portraits/pg-1994378059059757318.webp"
+tags:
+  - realistic
+  - portrait
+author: '[@mehvishs25](https://x.com/mehvishs25)'
+author_url: 'https://twitter.com/mehvishs25'
+source_url: 'https://twitter.com/mehvishs25/status/1994378059059757318'
+preview: /media/portraits/pg-1994378059059757318.webp
 ---
 
 A serene scene unfolds as our model exudes elegance, cradling her coffee. Wrapped in a fluffy white coat, she gazes into the snowy horizon, perfectly blending with the winter wilderness.

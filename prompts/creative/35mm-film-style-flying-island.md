@@ -1,9 +1,12 @@
 ---
-title: "35mm Film Style Flying Island"
+title: 35mm Film Style Flying Island
 category: creative
-tags: ["creative", "ai-art"]
-author: "[@dotey](https://x.com/dotey)"
-preview: "/media/creative/35mm-film-style-flying-island.webp"
+tags:
+  - creative
+  - ai-art
+  - realistic
+author: '[@dotey](https://x.com/dotey)'
+preview: /media/creative/35mm-film-style-flying-island.webp
 ---
 
 35 mm photo of Moscow floating in the sky on a flying islands.

@@ -1,11 +1,13 @@
 ---
-title: "Frost-Kissed Elegance: The Elven Warrior in Winter's Grip"
+title: 'Frost-Kissed Elegance: The Elven Warrior in Winter''s Grip'
 category: portraits
-tags: ["portrait","nano-banana-pro"]
-author: "[@monicamoonx](https://x.com/monicamoonx)"
-author_url: "https://twitter.com/monicamoonx"
-source_url: "https://twitter.com/monicamoonx/status/1996686272078008691"
-preview: "/media/portraits/pg-1996686272078008691.webp"
+tags:
+  - portrait
+  - realistic
+author: '[@monicamoonx](https://x.com/monicamoonx)'
+author_url: 'https://twitter.com/monicamoonx'
+source_url: 'https://twitter.com/monicamoonx/status/1996686272078008691'
+preview: /media/portraits/pg-1996686272078008691.webp
 ---
 
 A breathtaking portrait of an elven warrior, her snow-white skin accentuated by freckles and frosted hair. Amidst a swirling snowstorm, she stands resolute, her ornate sword anchored in the icy ground, embodying both strength and grace.

@@ -1,11 +1,16 @@
 ---
-title: "Defiance in Shadows: A Stylish Standoff"
+title: 'Defiance in Shadows: A Stylish Standoff'
 category: 3d
-tags: ["dark","nano-banana-pro"]
-author: "[@SimplyAnnisa](https://x.com/SimplyAnnisa)"
-author_url: "https://twitter.com/SimplyAnnisa"
-source_url: "https://twitter.com/SimplyAnnisa/status/1995083555601531305"
-preview: "/media/3d/pg-1995083555601531305.webp"
+tags:
+  - dark
+  - realistic
+  - 3d
+  - illustration
+  - portrait
+author: '[@SimplyAnnisa](https://x.com/SimplyAnnisa)'
+author_url: 'https://twitter.com/SimplyAnnisa'
+source_url: 'https://twitter.com/SimplyAnnisa/status/1995083555601531305'
+preview: /media/3d/pg-1995083555601531305.webp
 ---
 
 Caught in an electrifying moment, this bold figure leans against the entrance, rebellious attitude on full display. The contrast of dark surroundings and her striking pose creates a captivating visual story.

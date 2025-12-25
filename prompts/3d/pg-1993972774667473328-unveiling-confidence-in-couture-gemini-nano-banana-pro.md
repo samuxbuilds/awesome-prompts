@@ -1,11 +1,18 @@
 ---
-title: "Unveiling Confidence in Couture: Gemini Nano Banana Pro"
+title: 'Unveiling Confidence in Couture: Gemini Nano Banana Pro'
 category: 3d
-tags: ["art","fashion","nano-banana-pro"]
-author: "[@ZaraIrahh](https://x.com/ZaraIrahh)"
-author_url: "https://twitter.com/ZaraIrahh"
-source_url: "https://twitter.com/ZaraIrahh/status/1993972774667473328"
-preview: "/media/3d/pg-1993972774667473328.webp"
+tags:
+  - art
+  - fashion
+  - realistic
+  - 3d
+  - portrait
+  - dark
+  - black-and-white
+author: '[@ZaraIrahh](https://x.com/ZaraIrahh)'
+author_url: 'https://twitter.com/ZaraIrahh'
+source_url: 'https://twitter.com/ZaraIrahh/status/1993972774667473328'
+preview: /media/3d/pg-1993972774667473328.webp
 ---
 
 Elegance meets power! This striking woman in a bold jumpsuit radiates confidence against a sleek studio backdrop, showcasing high-fashion art at its finest.

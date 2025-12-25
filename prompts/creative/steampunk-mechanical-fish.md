@@ -1,9 +1,15 @@
 ---
-title: "Steampunk Mechanical Fish"
+title: Steampunk Mechanical Fish
 category: creative
-tags: ["glass", "steampunk"]
-author: "[@f-is-h](https://x.com/f-is-h)"
-preview: "/media/creative/steampunk-mechanical-fish.webp"
+tags:
+  - glass
+  - steampunk
+  - neon
+  - vintage
+  - portrait
+  - dark
+author: '[@f-is-h](https://x.com/f-is-h)'
+preview: /media/creative/steampunk-mechanical-fish.webp
 ---
 
 A steampunk-style mechanical fish with a brass body and clearly visible gear mechanisms when in motion.

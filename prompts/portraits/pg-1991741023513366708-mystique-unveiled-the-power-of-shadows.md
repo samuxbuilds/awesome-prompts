@@ -1,11 +1,15 @@
 ---
-title: "Mystique Unveiled: The Power of Shadows"
+title: 'Mystique Unveiled: The Power of Shadows'
 category: portraits
-tags: ["portrait","light","nano-banana-pro"]
-author: "[@lexx_aura](https://x.com/lexx_aura)"
-author_url: "https://twitter.com/lexx_aura"
-source_url: "https://twitter.com/lexx_aura/status/1991741023513366708"
-preview: "/media/portraits/pg-1991741023513366708.webp"
+tags:
+  - portrait
+  - light
+  - dark
+  - black-and-white
+author: '[@lexx_aura](https://x.com/lexx_aura)'
+author_url: 'https://twitter.com/lexx_aura'
+source_url: 'https://twitter.com/lexx_aura/status/1991741023513366708'
+preview: /media/portraits/pg-1991741023513366708.webp
 ---
 
 A striking black and white portrait captures a man lost in thought, his tousled hair and rough beard illuminated by bold light. The interplay of light and shadow evokes an aura of intrigue and strength.

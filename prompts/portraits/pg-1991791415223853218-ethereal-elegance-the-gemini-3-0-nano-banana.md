@@ -1,11 +1,14 @@
 ---
-title: "Ethereal Elegance: The Gemini 3.0 Nano Banana"
+title: 'Ethereal Elegance: The Gemini 3.0 Nano Banana'
 category: portraits
-tags: ["portrait","minimal","nano-banana-pro"]
-author: "[@xmliisu](https://x.com/xmliisu)"
-author_url: "https://twitter.com/xmliisu"
-source_url: "https://twitter.com/xmliisu/status/1991791415223853218"
-preview: "/media/portraits/pg-1991791415223853218.webp"
+tags:
+  - portrait
+  - minimal
+  - minimalist
+author: '[@xmliisu](https://x.com/xmliisu)'
+author_url: 'https://twitter.com/xmliisu'
+source_url: 'https://twitter.com/xmliisu/status/1991791415223853218'
+preview: /media/portraits/pg-1991791415223853218.webp
 ---
 
 A vision of neoclassical beauty! This full-body portrait showcases a stunning gown, intricate arm cuffs, and a serene yet powerful pose amidst minimalist marble accents.

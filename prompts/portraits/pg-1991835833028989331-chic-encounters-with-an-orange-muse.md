@@ -1,11 +1,16 @@
 ---
-title: "Chic Encounters with an Orange Muse"
+title: Chic Encounters with an Orange Muse
 category: portraits
-tags: ["portrait","vibrant","nano-banana-pro"]
-author: "[@ZaraIrahh](https://x.com/ZaraIrahh)"
-author_url: "https://twitter.com/ZaraIrahh"
-source_url: "https://twitter.com/ZaraIrahh/status/1991835833028989331"
-preview: "/media/portraits/pg-1991835833028989331.webp"
+tags:
+  - portrait
+  - vibrant
+  - realistic
+  - dark
+  - colorful
+author: '[@ZaraIrahh](https://x.com/ZaraIrahh)'
+author_url: 'https://twitter.com/ZaraIrahh'
+source_url: 'https://twitter.com/ZaraIrahh/status/1991835833028989331'
+preview: /media/portraits/pg-1991835833028989331.webp
 ---
 
 A striking portrait under a vibrant blue sky captures a young woman in a textured crochet cardigan, her orange kitty perched playfully on her shoulder, radiating warmth and summer vibes.

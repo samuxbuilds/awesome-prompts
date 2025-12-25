@@ -1,11 +1,17 @@
 ---
-title: "A Glimpse of Heartfelt Whimsy in the Digital Frame"
+title: A Glimpse of Heartfelt Whimsy in the Digital Frame
 category: portraits
-tags: ["art","cute","digital","nano-banana-pro"]
-author: "[@xmiiru_](https://x.com/xmiiru_)"
-author_url: "https://twitter.com/xmiiru_"
-source_url: "https://twitter.com/xmiiru_/status/1995759887813320927"
-preview: "/media/portraits/pg-1995759887813320927.webp"
+tags:
+  - art
+  - cute
+  - digital
+  - realistic
+  - portrait
+  - dark
+author: '[@xmiiru_](https://x.com/xmiiru_)'
+author_url: 'https://twitter.com/xmiiru_'
+source_url: 'https://twitter.com/xmiiru_/status/1995759887813320927'
+preview: /media/portraits/pg-1995759887813320927.webp
 ---
 
 Floating pink hearts and a soft glow capture a moment of delicate charm! This young woman, framed by a MacBook, embodies both cuteness and a hint of melancholy.

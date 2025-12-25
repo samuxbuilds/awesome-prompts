@@ -1,11 +1,15 @@
 ---
-title: "Cozy Glow: Winter Vibes in Pastel Hues"
+title: 'Cozy Glow: Winter Vibes in Pastel Hues'
 category: portraits
-tags: ["portrait","light","pastel","nano-banana-pro"]
-author: "[@SimplyAnnisa](https://x.com/SimplyAnnisa)"
-author_url: "https://twitter.com/SimplyAnnisa"
-source_url: "https://twitter.com/SimplyAnnisa/status/1993237966643466406"
-preview: "/media/portraits/pg-1993237966643466406.webp"
+tags:
+  - portrait
+  - light
+  - pastel
+  - minimalist
+author: '[@SimplyAnnisa](https://x.com/SimplyAnnisa)'
+author_url: 'https://twitter.com/SimplyAnnisa'
+source_url: 'https://twitter.com/SimplyAnnisa/status/1993237966643466406'
+preview: /media/portraits/pg-1993237966643466406.webp
 ---
 
 Breathe in the warmth of winter! A dreamy portrait captures a young woman in a soft, oversized hoodie, exuding comfort against a backdrop of blurred snowy trees kissed by sunlight.
