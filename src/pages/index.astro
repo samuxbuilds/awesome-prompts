@@ -33,10 +33,10 @@ const topTags = Array.from(tagMap.entries())
 
 const totalPrompts = prompts.length;
 
-// Get recent prompts - sort by slug descending (pg-{timestamp} format means higher = newer)
-const recentPrompts = [...prompts]
-  .sort((a, b) => b.slug.localeCompare(a.slug))
-  .slice(0, 8);
+// Randomly select 12 prompts
+const randomPrompts = [...prompts]
+  .sort(() => 0.5 - Math.random())
+  .slice(0, 12);
 ---
 
 <Layout title="AwesomePrompts - Curated AI Prompt Collection">
@@ -109,12 +109,12 @@ const recentPrompts = [...prompts]
     </div>
   </section>
   
-  <!-- Recent Prompts Section -->
-  {recentPrompts.length > 0 && (
+  <!-- Prompts Section -->
+  {randomPrompts.length > 0 && (
     <section class="mt-16">
       <div class="flex justify-between items-center mb-6">
         <h2 class="text-2xl font-bold text-gray-900 dark:text-gray-100">
-          Recent Prompts
+          Prompts
         </h2>
         <a href="/all-prompts" class="text-purple-600 dark:text-purple-400 hover:underline font-medium flex items-center gap-1">
           View all
@@ -125,7 +125,7 @@ const recentPrompts = [...prompts]
       </div>
       
       <div class="masonry-grid">
-        {recentPrompts.map(prompt => (
+        {randomPrompts.map(prompt => (
           <MasonryCard 
             title={prompt.title}
             category={prompt.category}
