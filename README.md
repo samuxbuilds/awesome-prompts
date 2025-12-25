@@ -3,6 +3,7 @@
 A curated collection of **946+ AI prompts** for image generation, motion videos, 3D art, illustrations, and more. Open-source and community-driven.
 
 **🌐 Live at: [awesomeprompts.xyz](https://awesomeprompts.xyz)**
+**🧩 Chrome Extension: [Install from Web Store](https://chromewebstore.google.com/detail/gifdjhjjmbeojljncjbmbbgmobbngbfd?utm_source=item-share-cb)**
 
 ## ✨ Features
 
